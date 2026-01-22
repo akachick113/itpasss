@@ -201,6 +201,25 @@ const ContentItem = ({ item, lang, showFurigana }) => {
     const targetText = item[lang] || item.ja; // Fallback to JA if missing
 
     switch (item.type) {
+        case 'chapter_title':
+            // Chapter titles use a simple 'reading' field instead of 'terms' array
+            const chapterTitle = showFurigana && item.reading ? (
+                <ruby>
+                    {item.ja}
+                    <rp>(</rp><rt>{item.reading}</rt><rp>)</rp>
+                </ruby>
+            ) : item.ja;
+            return (
+                <div className="mb-8 text-center">
+                    <h2 className="text-3xl md:text-4xl font-bold text-slate-800 dark:text-slate-100">
+                        {chapterTitle}
+                    </h2>
+                    {lang !== 'ja' && (
+                        <p className="text-lg text-slate-500 dark:text-slate-400 mt-2">{targetText}</p>
+                    )}
+                </div>
+            );
+
         case 'heading':
         case 'lesson_header':
             return (
@@ -265,7 +284,7 @@ const ContentItem = ({ item, lang, showFurigana }) => {
                 <div className="my-6 bg-emerald-50 dark:bg-emerald-900/20 border border-emerald-200 dark:border-emerald-800 rounded-xl overflow-hidden">
                     <div className="bg-emerald-100/50 dark:bg-emerald-900/40 px-4 py-2 flex items-center gap-2 font-bold text-emerald-800 dark:text-emerald-300">
                         <span>🎯</span>
-                        <span>{item.title?.[lang] || item.title?.ja || 'Exam Tip'}</span>
+                        <span>{showFurigana && item.title?.terms ? <FuriganaText text={item.title?.ja} terms={item.title?.terms} /> : (item.title?.[lang] || item.title?.ja || 'Exam Tip')}</span>
                     </div>
                     <div className="p-4 space-y-2">
                         <div className="text-emerald-900 dark:text-emerald-100">{processText(item.content?.ja, item.content?.terms)}</div>
@@ -285,7 +304,7 @@ const ContentItem = ({ item, lang, showFurigana }) => {
                 <div className="my-6 bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-xl overflow-hidden">
                     <div className="bg-blue-100/50 dark:bg-blue-900/40 px-4 py-2 flex items-center gap-2 font-bold text-blue-800 dark:text-blue-300">
                         <span>💡</span>
-                        <span>{item.title?.[lang] || item.title?.ja || 'Learn More'}</span>
+                        <span>{showFurigana && item.title?.terms ? <FuriganaText text={item.title?.ja} terms={item.title?.terms} /> : (item.title?.[lang] || item.title?.ja || 'Learn More')}</span>
                     </div>
                     <div className="p-4 space-y-2">
                         <div className="text-blue-900 dark:text-blue-100">{processText(item.content?.ja, item.content?.terms)}</div>
@@ -355,7 +374,391 @@ const ContentItem = ({ item, lang, showFurigana }) => {
                 </div>
             );
 
+        case 'chapter_header':
+            // Chapter 6+ style header
+            return (
+                <div className="text-center my-10">
+                    <div className="text-sm text-slate-500 mb-2">第{item.number}章</div>
+                    <h2 className="text-3xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-violet-600 pb-2">
+                        {item.title?.ja}
+                    </h2>
+                    {lang !== 'ja' && <p className="text-xl text-slate-500">{item.title?.[lang]}</p>}
+                </div>
+            );
+
+        case 'chapter_intro':
+            // Chapter introduction box
+            return (
+                <div className="my-6 bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-xl overflow-hidden">
+                    <div className="bg-blue-100/50 dark:bg-blue-900/40 px-4 py-2 flex items-center gap-2 font-bold text-blue-800 dark:text-blue-300">
+                        <span>💡</span>
+                        <span>{item.box_title?.[lang] || item.box_title?.ja || 'この章のポイント！'}</span>
+                    </div>
+                    <div className="p-4 space-y-2">
+                        <div className="text-blue-900 dark:text-blue-100">{item.content?.ja}</div>
+                        {lang !== 'ja' && (
+                            <div className="text-blue-700 dark:text-blue-400 text-sm flex gap-2 border-t border-blue-200 dark:border-blue-800/50 pt-2 mt-2">
+                                <span>{flags[lang]}</span>
+                                <span>{item.content?.[lang]}</span>
+                            </div>
+                        )}
+                    </div>
+                </div>
+            );
+
+        case 'study_note':
+            // Study note with bullet points
+            return (
+                <div className="my-6 bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 rounded-xl overflow-hidden">
+                    <div className="bg-amber-100/50 dark:bg-amber-900/40 px-4 py-2 flex items-center gap-2 font-bold text-amber-800 dark:text-amber-300">
+                        <span>📝</span>
+                        <span>{item.title?.[lang] || item.title?.ja}</span>
+                    </div>
+                    <div className="p-4">
+                        <ul className="space-y-2">
+                            {(item.items || []).map((point, idx) => (
+                                <li key={idx} className="flex gap-2">
+                                    <span className="text-amber-600">•</span>
+                                    <div>
+                                        <div className="text-amber-900 dark:text-amber-100">{point.ja}</div>
+                                        {lang !== 'ja' && <div className="text-amber-700 dark:text-amber-400 text-sm">{point[lang]}</div>}
+                                    </div>
+                                </li>
+                            ))}
+                        </ul>
+                        {item.reference && (
+                            <div className="mt-4 pt-2 border-t border-amber-200 dark:border-amber-800/50 text-xs text-amber-600 dark:text-amber-500">
+                                {item.reference?.[lang] || item.reference?.ja}
+                            </div>
+                        )}
+                    </div>
+                </div>
+            );
+
+        case 'position_table':
+            // Chapter position in exam scope table
+            return (
+                <div className="my-6 overflow-hidden rounded-xl border border-slate-200 dark:border-slate-700">
+                    <div className="bg-slate-100 dark:bg-slate-800 px-4 py-2 font-bold text-sm">
+                        {item.title?.[lang] || item.title?.ja}
+                    </div>
+                    <div className="divide-y divide-slate-200 dark:divide-slate-700">
+                        {(item.categories || []).map((cat, idx) => (
+                            <div key={idx} className={`flex ${cat.current ? 'bg-blue-50 dark:bg-blue-900/20' : ''}`}>
+                                <div className="w-32 shrink-0 px-4 py-2 font-medium bg-slate-50 dark:bg-slate-800/50 border-r border-slate-200 dark:border-slate-700">
+                                    {cat.field?.[lang] || cat.field?.ja}
+                                </div>
+                                <div className="flex-1 px-4 py-2 text-sm">
+                                    {(cat.subcategories || []).map((sub, sIdx) => (
+                                        <div key={sIdx} className={sub === cat.current ? 'font-bold text-blue-600 dark:text-blue-400' : ''}>
+                                            {sub} {sub === cat.current && <span className="text-xs">← {item.note?.[lang] || item.note?.ja}</span>}
+                                        </div>
+                                    ))}
+                                </div>
+                            </div>
+                        ))}
+                    </div>
+                </div>
+            );
+
+        case 'chapter_overview':
+            // Similar to chapter_intro but with different field names
+            return (
+                <div className="my-6 bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-xl overflow-hidden">
+                    <div className="bg-blue-100/50 dark:bg-blue-900/40 px-4 py-2 flex items-center gap-2 font-bold text-blue-800 dark:text-blue-300">
+                        <span>💡</span>
+                        <span>{item.title?.[lang] || item.title?.ja}</span>
+                    </div>
+                    <div className="p-4 space-y-2">
+                        <div className="text-blue-900 dark:text-blue-100">{item.content?.ja}</div>
+                        {lang !== 'ja' && (
+                            <div className="text-blue-700 dark:text-blue-400 text-sm flex gap-2 border-t border-blue-200 dark:border-blue-800/50 pt-2 mt-2">
+                                <span>{flags[lang]}</span>
+                                <span>{item.content?.[lang]}</span>
+                            </div>
+                        )}
+                    </div>
+                </div>
+            );
+
+        case 'key_topics':
+            // Similar to study_note
+            return (
+                <div className="my-6 bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 rounded-xl overflow-hidden">
+                    <div className="bg-amber-100/50 dark:bg-amber-900/40 px-4 py-2 flex items-center gap-2 font-bold text-amber-800 dark:text-amber-300">
+                        <span>📝</span>
+                        <span>{item.title?.[lang] || item.title?.ja}</span>
+                    </div>
+                    <div className="p-4">
+                        <ul className="space-y-2">
+                            {(item.items || []).map((point, idx) => (
+                                <li key={idx} className="flex gap-2">
+                                    <span className="text-amber-600">•</span>
+                                    <div>
+                                        <div className="text-amber-900 dark:text-amber-100">{point.ja}</div>
+                                        {lang !== 'ja' && <div className="text-amber-700 dark:text-amber-400 text-sm">{point[lang]}</div>}
+                                    </div>
+                                </li>
+                            ))}
+                        </ul>
+                    </div>
+                </div>
+            );
+
+        case 'exam_scope':
+            // Exam scope table with highlight
+            return (
+                <div className="my-6 overflow-hidden rounded-xl border border-slate-200 dark:border-slate-700">
+                    <div className="bg-slate-100 dark:bg-slate-800 px-4 py-2 font-bold text-sm">
+                        {item.title?.[lang] || item.title?.ja}
+                    </div>
+                    <div className="divide-y divide-slate-200 dark:divide-slate-700">
+                        {(item.table?.rows || []).map((row, idx) => (
+                            <div key={idx} className={`flex ${row.highlight ? 'bg-blue-50 dark:bg-blue-900/20' : ''}`}>
+                                <div className="w-32 shrink-0 px-4 py-2 font-medium bg-slate-50 dark:bg-slate-800/50 border-r border-slate-200 dark:border-slate-700">
+                                    {row.field}
+                                </div>
+                                <div className="flex-1 px-4 py-2 text-sm">
+                                    {(row.categories || []).map((cat, cIdx) => (
+                                        <div key={cIdx} className={cat === row.highlight ? 'font-bold text-blue-600 dark:text-blue-400' : ''}>
+                                            {cat} {cat === row.highlight && <span className="text-xs">← {item.note?.[lang] || item.note?.ja}</span>}
+                                        </div>
+                                    ))}
+                                </div>
+                            </div>
+                        ))}
+                    </div>
+                </div>
+            );
+
+        case 'diagram':
+        case 'arrow_diagram':
+        case 'chart':
+        case 'process_flow':
+            // Diagram/chart placeholder - show description
+            return (
+                <div className="my-6 p-4 bg-slate-100 dark:bg-slate-800 rounded-xl border-2 border-dashed border-slate-300 dark:border-slate-600 text-center">
+                    <div className="text-4xl mb-2">📊</div>
+                    <div className="text-sm text-slate-600 dark:text-slate-400">
+                        {item.description?.[lang] || item.description?.ja || item.alt || '図表'}
+                    </div>
+                    {item.title && <div className="font-bold mt-2">{item.title?.[lang] || item.title?.ja}</div>}
+                </div>
+            );
+
+        case 'definition_box':
+        case 'example_box':
+        case 'points_box':
+        case 'key_points_box':
+        case 'chapter_points':
+        case 'comparison_box':
+            return (
+                <div className="my-6 bg-purple-50 dark:bg-purple-900/20 border border-purple-200 dark:border-purple-800 rounded-xl overflow-hidden">
+                    <div className="bg-purple-100/50 dark:bg-purple-900/40 px-4 py-2 flex items-center gap-2 font-bold text-purple-800 dark:text-purple-300">
+                        <span>📌</span>
+                        <span>{item.title?.[lang] || item.title?.ja || item.term?.ja || 'Definition'}</span>
+                    </div>
+                    <div className="p-4 space-y-2">
+                        <div className="text-purple-900 dark:text-purple-100">{item.content?.ja || item.definition?.ja || item.ja}</div>
+                        {lang !== 'ja' && (item.content?.[lang] || item.definition?.[lang] || item[lang]) && (
+                            <div className="text-purple-700 dark:text-purple-400 text-sm border-t border-purple-200 dark:border-purple-800/50 pt-2">
+                                {item.content?.[lang] || item.definition?.[lang] || item[lang]}
+                            </div>
+                        )}
+                    </div>
+                </div>
+            );
+
+        case 'illustration_box':
+            return (
+                <div className="my-4 p-4 bg-indigo-50 dark:bg-indigo-900/20 border border-indigo-200 dark:border-indigo-800 rounded-xl">
+                    <div className="flex items-start gap-3">
+                        <span className="text-2xl">🎨</span>
+                        <div>
+                            {item.title && <div className="font-bold text-indigo-800 dark:text-indigo-300 mb-1">{item.title?.[lang] || item.title?.ja}</div>}
+                            <div className="text-indigo-900 dark:text-indigo-100">{item.content?.ja || item.ja}</div>
+                            {lang !== 'ja' && <div className="text-indigo-700 dark:text-indigo-400 text-sm mt-1">{item.content?.[lang] || item[lang]}</div>}
+                        </div>
+                    </div>
+                </div>
+            );
+
+        case 'note_box':
+        case 'note':
+        case 'study_tip':
+        case 'study_focus':
+        case 'study_points':
+            return (
+                <div className="my-4 p-4 bg-gray-100 dark:bg-gray-800 border-l-4 border-gray-400 dark:border-gray-600 rounded-r-xl">
+                    <div className="flex items-start gap-2">
+                        <span>📝</span>
+                        <div>
+                            {item.title && <div className="font-bold mb-1">{item.title?.[lang] || item.title?.ja}</div>}
+                            <div className="text-gray-800 dark:text-gray-200">{item.content?.ja || item.ja}</div>
+                            {lang !== 'ja' && <div className="text-gray-600 dark:text-gray-400 text-sm mt-1">{item.content?.[lang] || item[lang]}</div>}
+                        </div>
+                    </div>
+                </div>
+            );
+
+        case 'practice_question':
+        case 'question':
+            return (
+                <div className="my-4 p-4 bg-orange-50 dark:bg-orange-900/20 border border-orange-200 dark:border-orange-800 rounded-xl">
+                    <div className="font-bold text-orange-800 dark:text-orange-300 mb-2 flex items-center gap-2">
+                        <span>❓</span>
+                        <span>{item.title?.[lang] || item.title?.ja || `問題 ${item.number || ''}`}</span>
+                    </div>
+                    <div className="text-orange-900 dark:text-orange-100">{item.question?.ja || item.content?.ja || item.ja}</div>
+                    {lang !== 'ja' && <div className="text-orange-700 dark:text-orange-400 text-sm mt-2">{item.question?.[lang] || item.content?.[lang] || item[lang]}</div>}
+                </div>
+            );
+
+        case 'code_example':
+        case 'code_format_explanation':
+        case 'output_example':
+        case 'calculation_example':
+        case 'example_problem':
+        case 'solution':
+            return (
+                <div className="my-4 overflow-hidden rounded-xl border border-slate-300 dark:border-slate-700">
+                    {item.title && (
+                        <div className="bg-slate-200 dark:bg-slate-800 px-4 py-2 font-mono text-sm font-bold">
+                            {item.title?.[lang] || item.title?.ja}
+                        </div>
+                    )}
+                    <pre className="p-4 bg-slate-900 text-green-400 text-sm overflow-x-auto font-mono">
+                        <code>{item.code || item.content?.ja || item.ja}</code>
+                    </pre>
+                    {item.explanation && (
+                        <div className="p-3 bg-slate-100 dark:bg-slate-800 text-sm">
+                            {item.explanation?.[lang] || item.explanation?.ja}
+                        </div>
+                    )}
+                </div>
+            );
+
+        case 'supplementary_section':
+        case 'chapter_intro_box':
+            return (
+                <div className="my-6 bg-teal-50 dark:bg-teal-900/20 border border-teal-200 dark:border-teal-800 rounded-xl p-4">
+                    {item.title && <div className="font-bold text-teal-800 dark:text-teal-300 mb-2">{item.title?.[lang] || item.title?.ja}</div>}
+                    <div className="text-teal-900 dark:text-teal-100">{item.content?.ja || item.ja}</div>
+                    {lang !== 'ja' && <div className="text-teal-700 dark:text-teal-400 text-sm mt-2">{item.content?.[lang] || item[lang]}</div>}
+                </div>
+            );
+
+        case 'section_header':
+        case 'practice_header':
+        case 'answer_header':
+        case 'practice_section_header':
+        case 'answer_section_header':
+        case 'review_section_header':
+        case 'index_header':
+        case 'author_section_header':
+            return (
+                <div className="my-6 py-3 border-b-2 border-slate-300 dark:border-slate-700">
+                    <h3 className="text-xl font-bold text-slate-800 dark:text-slate-200">{item.title?.[lang] || item.title?.ja || item.ja}</h3>
+                    {lang !== 'ja' && item[lang] && <p className="text-slate-500 text-sm">{item[lang]}</p>}
+                </div>
+            );
+
+        case 'list':
+        case 'bullet_list':
+        case 'rules_list':
+            return (
+                <ul className="my-4 space-y-2 list-disc list-inside">
+                    {(item.items || []).map((li, idx) => (
+                        <li key={idx} className="text-slate-700 dark:text-slate-300">
+                            <span>{li.ja || li}</span>
+                            {lang !== 'ja' && li[lang] && <span className="text-slate-500 text-sm ml-2">({li[lang]})</span>}
+                        </li>
+                    ))}
+                </ul>
+            );
+
+        case 'formula':
+        case 'trace_table':
+            return (
+                <div className="my-4 p-4 bg-yellow-50 dark:bg-yellow-900/20 border border-yellow-300 dark:border-yellow-800 rounded-xl font-mono text-center">
+                    <div className="text-lg text-yellow-900 dark:text-yellow-100">{item.formula || item.content?.ja || item.ja}</div>
+                    {item.description && <div className="text-sm text-yellow-700 dark:text-yellow-400 mt-2">{item.description?.[lang] || item.description?.ja}</div>}
+                </div>
+            );
+
+        case 'review_chapter':
+        case 'review_terms_continued':
+            return (
+                <div className="my-4 p-4 bg-rose-50 dark:bg-rose-900/20 border border-rose-200 dark:border-rose-800 rounded-xl">
+                    <div className="font-bold text-rose-800 dark:text-rose-300 mb-2">📖 {item.title?.[lang] || item.title?.ja || 'Review'}</div>
+                    <div className="text-rose-900 dark:text-rose-100">{item.content?.ja || item.ja}</div>
+                </div>
+            );
+
+        case 'index_section':
+        case 'index_terms':
+        case 'index_terms_right_column':
+            return (
+                <div className="my-4">
+                    {item.title && <div className="font-bold text-lg mb-2">{item.title?.[lang] || item.title?.ja}</div>}
+                    <div className="columns-2 gap-4 text-sm">
+                        {(item.terms || item.items || []).map((term, idx) => (
+                            <div key={idx} className="break-inside-avoid mb-1">
+                                {typeof term === 'string' ? term : (term.ja || term.term)}
+                            </div>
+                        ))}
+                    </div>
+                </div>
+            );
+
+        case 'link_box':
+            return (
+                <div className="my-4 p-3 bg-sky-50 dark:bg-sky-900/20 border border-sky-200 dark:border-sky-800 rounded-lg">
+                    <a href={item.url} target="_blank" rel="noopener noreferrer" className="text-sky-600 dark:text-sky-400 hover:underline flex items-center gap-2">
+                        <span>🔗</span>
+                        <span>{item.title?.[lang] || item.title?.ja || item.url}</span>
+                    </a>
+                </div>
+            );
+
+        case 'comparison_table':
+        case 'exam_scope_table':
+            return (
+                <div className="my-4 overflow-x-auto">
+                    <table className="w-full text-sm border border-slate-200 dark:border-slate-700 rounded-lg overflow-hidden">
+                        <tbody>
+                            {(item.rows || []).map((row, rIdx) => (
+                                <tr key={rIdx} className="border-b border-slate-200 dark:border-slate-700">
+                                    {(row.cells || Object.values(row)).map((cell, cIdx) => (
+                                        <td key={cIdx} className="px-3 py-2">{typeof cell === 'object' ? (cell.ja || cell[lang]) : cell}</td>
+                                    ))}
+                                </tr>
+                            ))}
+                        </tbody>
+                    </table>
+                </div>
+            );
+
+        case 'practice_intro':
+        case 'author_profile':
+        case 'credits':
+        case 'publication_info':
+        case 'ebook_info':
+        case 'copyright_notice':
+        case 'contact_info':
+        case 'answer_key':
+        case 'answers_footer':
+            // Meta/footer content - simple render
+            return (
+                <div className="my-4 p-4 text-sm text-slate-600 dark:text-slate-400 bg-slate-50 dark:bg-slate-800/50 rounded-lg">
+                    {item.title && <div className="font-bold mb-1">{item.title?.[lang] || item.title?.ja}</div>}
+                    <div>{item.content?.ja || item.ja || JSON.stringify(item)}</div>
+                </div>
+            );
+
         default:
+            // Debug: show unknown types in dev
+            console.log('Unknown content type:', item.type, item);
             return null;
     }
 };

@@ -1,0 +1,90 @@
+Scanning all JSON files for content types...
+
+Error processing p_0465.json: Expected ',' or ']' after array element in JSON at position 1047 (line 18 column 31)
+Error processing p_0466.json: Expected ',' or '}' after property value in JSON at position 1988 (line 56 column 60)
+Error processing p_0554.json: Expected ',' or '}' after property value in JSON at position 1609 (line 29 column 206)
+==================================================
+CONTENT TYPES FOUND:
+==================================================
+  paragraph: 1265 occurrences
+  heading: 669 occurrences
+  answer_explanation: 258 occurrences
+  exam_question: 190 occurrences
+  exam_tip: 174 occurrences
+  diagram: 150 occurrences
+  table: 147 occurrences
+  definition_box: 101 occurrences
+  lesson_header: 94 occurrences
+  learn_more: 68 occurrences
+  illustration_box: 59 occurrences
+  note_box: 59 occurrences
+  practice_question: 48 occurrences
+  [object Object]: 47 occurrences
+  code_example: 47 occurrences
+  supplementary_section: 41 occurrences
+  info_box: 40 occurrences
+  section_header: 36 occurrences
+  list: 27 occurrences
+  index_section: 18 occurrences
+  question: 16 occurrences
+  chapter_header: 13 occurrences
+  review_chapter: 13 occurrences
+  formula: 11 occurrences
+  bullet_list: 10 occurrences
+  review_terms_continued: 8 occurrences
+  chapter_overview: 6 occurrences
+  output_example: 6 occurrences
+  link_box: 5 occurrences
+  exam_scope: 5 occurrences
+  calculation_example: 5 occurrences
+  index_terms_right_column: 5 occurrences
+  exam_scope_table: 4 occurrences
+  index_terms: 4 occurrences
+  chapter_title: 3 occurrences
+  example_box: 3 occurrences
+  code_format_explanation: 3 occurrences
+  study_points: 3 occurrences
+  practice_header: 3 occurrences
+  answer_header: 3 occurrences
+  quote_box: 2 occurrences
+  study_tip: 2 occurrences
+  key_topics: 2 occurrences
+  study_focus: 2 occurrences
+  trace_table: 2 occurrences
+  answers_footer: 2 occurrences
+  answer_key: 2 occurrences
+  contact_info: 1 occurrences
+  chart: 1 occurrences
+  chapter_intro: 1 occurrences
+  study_note: 1 occurrences
+  position_table: 1 occurrences
+  example_problem: 1 occurrences
+  solution: 1 occurrences
+  arrow_diagram: 1 occurrences
+  謨ｴ謨ｰ蝙・ 1 occurrences
+  螳滓焚蝙・ 1 occurrences
+  譁・ｭ怜・蝙・ 1 occurrences
+  note: 1 occurrences
+  points_box: 1 occurrences
+  rules_list: 1 occurrences
+  practice_intro: 1 occurrences
+  chapter_intro_box: 1 occurrences
+  key_points_box: 1 occurrences
+  comparison_box: 1 occurrences
+  chapter_points: 1 occurrences
+  comparison_table: 1 occurrences
+  process_flow: 1 occurrences
+  practice_section_header: 1 occurrences
+  answer_section_header: 1 occurrences
+  review_section_header: 1 occurrences
+  index_header: 1 occurrences
+  author_section_header: 1 occurrences
+  author_profile: 1 occurrences
+  credits: 1 occurrences
+  publication_info: 1 occurrences
+  ebook_info: 1 occurrences
+  copyright_notice: 1 occurrences
+
+==================================================
+Total unique types: 78
+==================================================

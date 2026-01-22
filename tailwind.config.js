@@ -9,6 +9,7 @@ export default {
         extend: {
             fontFamily: {
                 sans: ['Inter', 'Noto Sans JP', 'sans-serif'],
+                serif: ['Noto Serif JP', 'serif'], // Mincho style
                 jp: ['Noto Sans JP', 'sans-serif'],
             },
             colors: {
@@ -18,11 +19,17 @@ export default {
                     200: '#bae6fd',
                     300: '#7dd3fc',
                     400: '#38bdf8',
-                    500: '#0ea5e9', // Sky Blue - Fresh & Tech
+                    500: '#0ea5e9',
                     600: '#0284c7',
                     700: '#0369a1',
                     800: '#075985',
                     900: '#0c4a6e',
+                },
+                zen: {
+                    bg: '#fdfbf7', // Washi paper color
+                    ink: '#1e293b', // Sumi ink
+                    sakura: '#fce7f3', // Pale pink
+                    sakuraDark: '#fbcfe8',
                 },
                 glass: {
                     light: 'rgba(255, 255, 255, 0.7)',
@@ -30,14 +37,12 @@ export default {
                     border: 'rgba(255, 255, 255, 0.1)',
                 }
             },
-            backgroundImage: {
-                'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-                'hero-glow': 'conic-gradient(from 180deg at 50% 50%, #2a8af6 0deg, #a853ba 180deg, #e92a67 360deg)',
-            },
             animation: {
                 'blob': 'blob 7s infinite',
-                'fade-in': 'fadeIn 0.5s ease-out',
-                'slide-up': 'slideUp 0.5s ease-out',
+                'fade-in': 'fadeIn 1.5s ease-out',
+                'sakura-fall-1': 'sakuraFall 10s linear infinite',
+                'sakura-fall-2': 'sakuraFall 15s linear infinite',
+                'sakura-fall-3': 'sakuraFall 12s linear infinite',
             },
             keyframes: {
                 blob: {
@@ -50,9 +55,10 @@ export default {
                     '0%': { opacity: '0' },
                     '100%': { opacity: '1' },
                 },
-                slideUp: {
-                    '0%': { transform: 'translateY(20px)', opacity: '0' },
-                    '100%': { transform: 'translateY(0)', opacity: '1' },
+                sakuraFall: {
+                    '0%': { transform: 'translateY(-10%) rotate(0deg)', opacity: '0' },
+                    '10%': { opacity: '1' },
+                    '100%': { transform: 'translateY(100vh) rotate(360deg)', opacity: '0' },
                 }
             }
         },
