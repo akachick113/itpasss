@@ -1,0 +1,308 @@
+{
+  "page_id": 519,
+  "image": "p_0519.png",
+  "chapter": 14,
+  "section": "14-04",
+  "page_number": 503,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "グローバルIPアドレスとプライベートIPアドレス",
+      "vi": "Địa chỉ IP toàn cầu và Địa chỉ IP riêng",
+      "en": "Global IP Address and Private IP Address"
+    },
+    {
+      "type": "paragraph",
+      "ja": "IPアドレスは大きく、次の2つに分類できます。",
+      "vi": "Địa chỉ IP có thể được phân loại lớn thành 2 loại sau.",
+      "en": "IP Address can be broadly classified into following 2 types.",
+      "terms": [
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "IPアドレスの種類",
+        "vi": "Loại địa chỉ IP",
+        "en": "Types of IP Address"
+      },
+      "headers": {
+        "ja": [
+          "種類",
+          "説明"
+        ],
+        "vi": [
+          "Loại",
+          "Giải thích"
+        ],
+        "en": [
+          "Type",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "type": {
+            "ja": "グローバルIPアドレス",
+            "vi": "Địa chỉ IP toàn cầu",
+            "en": "Global IP Address"
+          },
+          "description": {
+            "ja": "インターネットに接続するコンピュータに割り当てられる、世界で唯一（一意）のIPアドレス。",
+            "vi": "Địa chỉ IP duy nhất trên thế giới được gán cho máy tính kết nối Internet.",
+            "en": "Unique IP Address in world assigned to computers connecting to Internet."
+          }
+        },
+        {
+          "type": {
+            "ja": "プライベートIPアドレス",
+            "vi": "Địa chỉ IP riêng",
+            "en": "Private IP Address"
+          },
+          "description": {
+            "ja": "インターネットに直接は接続しないコンピュータに割り当てられる、LAN内だけで使うIPアドレス。",
+            "vi": "Địa chỉ IP chỉ sử dụng trong LAN, được gán cho máy tính không kết nối trực tiếp với Internet.",
+            "en": "IP Address used only within LAN, assigned to computers not directly connecting to Internet."
+          }
+        }
+      ],
+      "note": {
+        "ja": "重要！それぞれの違いに注目！",
+        "vi": "Quan trọng! Chú ý sự khác biệt!",
+        "en": "Important! Note differences!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "社内や自宅（つまり、LAN内）に複数台のコンピュータがあり、その中でデータをやり取りする際はプライベートIPアドレスを使います。プライベートIPアドレスは同じLAN内にあるコンピュータを特定する番号なので、そのLAN内では一意である必要がありますが、他のLANにあるコンピュータに同じプライベートIPアドレスが使われていても何も問題はありません。",
+      "vi": "Khi có nhiều máy tính trong công ty hoặc nhà (tức là trong LAN) và trao đổi dữ liệu giữa chúng, sử dụng địa chỉ IP riêng. Vì địa chỉ IP riêng là số để xác định máy tính trong cùng LAN, nên cần duy nhất trong LAN đó, nhưng không có vấn đề gì nếu máy tính ở LAN khác sử dụng cùng địa chỉ IP riêng.",
+      "en": "When there are multiple computers in company or home (i.e., within LAN) and exchanging data among them, use Private IP Address. Since Private IP Address is number identifying computers in same LAN, needs to be unique within that LAN, but no problem if computers in other LANs use same Private IP Address.",
+      "terms": [
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "自宅",
+          "reading": "じたく"
+        },
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "複数台",
+          "reading": "ふくすうだい"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "番号",
+          "reading": "ばんごう"
+        },
+        {
+          "kanji": "一意",
+          "reading": "いちい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ただし、プライベートIPアドレスだけではインターネットに接続できないため、LAN内の各コンピュータがインターネットに接続する際には、事前にグローバルIPアドレスを取得する必要があります。",
+      "vi": "Tuy nhiên, vì chỉ với địa chỉ IP riêng không thể kết nối Internet, khi mỗi máy tính trong LAN kết nối Internet, cần lấy địa chỉ IP toàn cầu trước.",
+      "en": "However, since cannot connect to Internet with Private IP Address alone, when each computer in LAN connects to Internet, needs to obtain Global IP Address beforehand.",
+      "terms": [
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "各",
+          "reading": "かく"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "事前",
+          "reading": "じぜん"
+        },
+        {
+          "kanji": "取得",
+          "reading": "しゅとく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "では、どのようにしてグローバルIPアドレスを取得するのかというと、「ルーター」に割り当てられているグローバルIPアドレスを一時的に借りて、インターネットに接続します。このようにして、プライベートIPアドレスをグローバルIPアドレスへ変換する技術を「NAT（Network Address Translation）」といいます。",
+      "vi": "Vậy làm thế nào để lấy địa chỉ IP toàn cầu? Mượn tạm thời địa chỉ IP toàn cầu được gán cho \"Router\" để kết nối Internet. Công nghệ chuyển đổi địa chỉ IP riêng thành địa chỉ IP toàn cầu như vậy được gọi là \"NAT (Network Address Translation)\".",
+      "en": "So how to obtain Global IP Address? Temporarily borrow Global IP Address assigned to 'Router' to connect to Internet. Technology converting Private IP Address to Global IP Address like this is called 'NAT (Network Address Translation).'",
+      "terms": [
+        {
+          "kanji": "取得",
+          "reading": "しゅとく"
+        },
+        {
+          "kanji": "割",
+          "reading": "わり"
+        },
+        {
+          "kanji": "当",
+          "reading": "とう"
+        },
+        {
+          "kanji": "一時的",
+          "reading": "いちじてき"
+        },
+        {
+          "kanji": "借",
+          "reading": "しゃく"
+        },
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "NATの処理の流れは次のとおりです。",
+      "vi": "Quy trình xử lý NAT như sau.",
+      "en": "NAT processing flow is as follows.",
+      "terms": [
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "numbered": true,
+      "items": [
+        {
+          "ja": "LAN内のコンピュータがインターネット上のサーバにデータを送る",
+          "vi": "Máy tính trong LAN gửi dữ liệu đến máy chủ trên Internet",
+          "en": "Computer in LAN sends data to server on Internet"
+        },
+        {
+          "ja": "経路途中にあるルーターは、データの送信元となる、LAN内のコンピュータのプライベートIPアドレスを、自身が持っているグローバルIPアドレスに変換する。そのうえで、ルーターはインターネット上のサーバへデータを送る",
+          "vi": "Router trên đường đi chuyển đổi địa chỉ IP riêng của máy tính trong LAN (nguồn gửi dữ liệu) thành địa chỉ IP toàn cầu của chính nó. Sau đó, router gửi dữ liệu đến máy chủ trên Internet",
+          "en": "Router on path converts Private IP Address of computer in LAN (data source) to its own Global IP Address. Then router sends data to server on Internet"
+        },
+        {
+          "ja": "インターネット上のサーバは、データの送信元であるルーターへデータを返す",
+          "vi": "Máy chủ trên Internet trả dữ liệu về router là nguồn gửi dữ liệu",
+          "en": "Server on Internet returns data to router that is data source"
+        },
+        {
+          "ja": "経路途中にあるルーターは、データの宛先となっている自身のグローバルIPアドレスを、LAN内のコンピュータのプライベートIPアドレスに変換する。そのうえで、ルーターは、LAN内のコンピュータにデータを返す",
+          "vi": "Router trên đường đi chuyển đổi địa chỉ IP toàn cầu của chính nó (đích dữ liệu) thành địa chỉ IP riêng của máy tính trong LAN. Sau đó, router trả dữ liệu về máy tính trong LAN",
+          "en": "Router on path converts its own Global IP Address (data destination) to Private IP Address of computer in LAN. Then router returns data to computer in LAN"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "グローバルIPアドレス",
+      "vi": "Địa chỉ IP toàn cầu",
+      "en": "Global IP Address",
+      "my": "ကမ္ဘာရှ IP လိပ်စာ"
+    },
+    {
+      "term": "プライベートIPアドレス",
+      "vi": "Địa chỉ IP riêng",
+      "en": "Private IP Address",
+      "my": "ကိုယ်ပိုင် IP လိပ်စာ"
+    },
+    {
+      "term": "NAT",
+      "full": "Network Address Translation",
+      "vi": "NAT (Dịch địa chỉ mạng)",
+      "en": "NAT (Network Address Translation)",
+      "my": "NAT (ကွန်ရက်လိပ်စာ ဘာသာပြန်ခြင်း)"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "is_key_content": true
+  }
+}

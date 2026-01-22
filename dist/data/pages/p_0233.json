@@ -1,0 +1,204 @@
+{
+    "page_id": 233,
+    "image": "p_0233.png",
+    "chapter": 5,
+    "section": "practice",
+    "page_number": 217,
+    "content": [
+        {
+            "type": "section_header",
+            "ja": "出る順！過去問＆完全解説",
+            "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích đầy đủ",
+            "en": "In Order of Frequency! Past Questions & Complete Explanations"
+        },
+        {
+            "type": "exam_question",
+            "number": "5-14",
+            "year": "平成27年度",
+            "question": {
+                "ja": "情報を活用できる環境や能力の差によって、待遇や収入などの格差が生じることを表すものはどれか。",
+                "vi": "Cái nào biểu thị sự chênh lệch về đãi ngộ và thu nhập phát sinh do sự khác biệt về môi trường và năng lực sử dụng thông tin?",
+                "en": "Which represents the gap in treatment and income caused by differences in environment and ability to use information?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "情報バリアフリー",
+                    "vi": "Information Barrier-Free (Thông tin không rào cản)",
+                    "en": "Information Barrier-Free"
+                },
+                {
+                    "label": "イ",
+                    "ja": "情報リテラシー",
+                    "vi": "Information Literacy (Năng lực thông tin)",
+                    "en": "Information Literacy"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "デジタルディバイド",
+                    "vi": "Digital Divide (Khoảng cách số)",
+                    "en": "Digital Divide",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "データマイニング",
+                    "vi": "Data Mining",
+                    "en": "Data Mining"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-15",
+            "year": "平成22年度",
+            "question": {
+                "ja": "物流や販売などの部門ごとに散在していた、過去から現在までの全社のデータを統合して管理することによって、経営戦略の立案に役立てる仕組みはどれか。",
+                "vi": "Cơ chế nào hữu ích cho việc lập chiến lược kinh doanh bằng cách tích hợp và quản lý dữ liệu toàn công ty từ quá khứ đến hiện tại, vốn phân tán ở các bộ phận như logistics và bán hàng?",
+                "en": "Which mechanism is useful for formulating business strategies by integrating and managing company-wide data from past to present that was scattered across departments like logistics and sales?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "データウェアハウス",
+                    "vi": "Data Warehouse (Kho dữ liệu)",
+                    "en": "Data Warehouse",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "データ中心アプローチ",
+                    "vi": "Data-Centric Approach (Tiếp cận lấy dữ liệu làm trung tâm)",
+                    "en": "Data-Centric Approach"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "データマイニング",
+                    "vi": "Data Mining",
+                    "en": "Data Mining"
+                },
+                {
+                    "label": "エ",
+                    "ja": "データモデリング",
+                    "vi": "Data Modeling",
+                    "en": "Data Modeling"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-16",
+            "year": "平成31年度",
+            "question": {
+                "ja": "ポイント、バッジといったゲームの要素を駆使するゲーミフィケーションを導入する目的として、最も適切なものはどれか。",
+                "vi": "Mục đích phù hợp nhất để đưa vào gamification (game hóa) sử dụng các yếu tố game như điểm số, huy hiệu là gì?",
+                "en": "What is the most appropriate purpose for introducing gamification that utilizes game elements like points and badges?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "ゲーム内で相手の戦略に応じて自分の戦略を決定する。",
+                    "vi": "Quyết định chiến lược của mình tùy theo chiến lược đối thủ trong game.",
+                    "en": "Determining one's own strategy according to the opponent's strategy in the game."
+                },
+                {
+                    "label": "イ",
+                    "ja": "顧客や従業員の目標を達成できるように動機付ける。",
+                    "vi": "Động viên để khách hàng và nhân viên có thể đạt được mục tiêu.",
+                    "en": "Motivating customers and employees to achieve their goals.",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "新作ネットワークゲームに関する利用者の評価情報を収集する。",
+                    "vi": "Thu thập thông tin đánh giá của người dùng về game mạng mới.",
+                    "en": "Collecting user evaluation information about new network games."
+                },
+                {
+                    "label": "エ",
+                    "ja": "大量データを分析して有用な事実や関係性を発見する。",
+                    "vi": "Phân tích dữ liệu lớn để phát hiện sự thật và mối quan hệ hữu ích.",
+                    "en": "Analyzing large amounts of data to discover useful facts and relationships."
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-17",
+            "year": "平成26年度",
+            "question": {
+                "ja": "システム化計画の立案はソフトウェアライフサイクルのどのプロセスに含まれるか。",
+                "vi": "Việc lập kế hoạch hệ thống hóa thuộc quy trình nào trong vòng đời phần mềm?",
+                "en": "Which process in the software lifecycle does system planning belong to?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "運用",
+                    "vi": "Vận hành",
+                    "en": "Operation"
+                },
+                {
+                    "label": "イ",
+                    "ja": "開発",
+                    "vi": "Phát triển",
+                    "en": "Development"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "企画",
+                    "vi": "Lập kế hoạch",
+                    "en": "Planning",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "要件定義",
+                    "vi": "Định nghĩa yêu cầu",
+                    "en": "Requirements Definition"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-18",
+            "year": "平成28年度",
+            "question": {
+                "ja": "システム化計画において、情報システムの費用対効果を評価する。その評価指標として、適切なものはどれか。",
+                "vi": "Trong kế hoạch hệ thống hóa, đánh giá hiệu quả chi phí của hệ thống thông tin. Chỉ số đánh giá phù hợp là gì?",
+                "en": "In system planning, evaluate the cost-effectiveness of information systems. What is an appropriate evaluation indicator?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "PER",
+                    "vi": "PER",
+                    "en": "PER"
+                },
+                {
+                    "label": "イ",
+                    "ja": "ROI",
+                    "vi": "ROI",
+                    "en": "ROI",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "自己資本比率",
+                    "vi": "Tỷ lệ vốn tự có",
+                    "en": "Equity Ratio"
+                },
+                {
+                    "label": "エ",
+                    "ja": "流動比率",
+                    "vi": "Tỷ lệ thanh toán hiện hành",
+                    "en": "Current Ratio"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 5
+    }
+}

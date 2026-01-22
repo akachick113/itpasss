@@ -1,0 +1,351 @@
+{
+  "page_id": 568,
+  "image": "p_0568.png",
+  "chapter": 15,
+  "section": "15-05",
+  "page_number": 552,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "そのため、デジタル署名はインターネットを使った契約書のやり取りで広く利用されています。",
+      "vi": "Vì vậy, chữ ký số được sử dụng rộng rãi trong việc trao đổi hợp đồng qua Internet.",
+      "en": "Therefore, Digital Signature is widely used in contract exchanges via Internet.",
+      "terms": [
+        {
+          "kanji": "署名",
+          "reading": "しょめい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "契約書",
+          "reading": "けいやくしょ"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "広",
+          "reading": "こう"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "公開鍵暗号方式では、公開鍵で暗号化し、秘密鍵で復号するが、デジタル署名は、秘密鍵で暗号化し、公開鍵で復号する",
+          "vi": "Trong phương thức mã hóa khóa công khai, mã hóa bằng khóa công khai và giải mã bằng khóa bí mật, nhưng chữ ký số mã hóa bằng khóa bí mật và giải mã bằng khóa công khai",
+          "en": "In Public Key Encryption, encrypt with public key and decrypt with private key, but Digital Signature encrypts with private key and decrypts with public key"
+        },
+        {
+          "ja": "デジタル署名を使うと、なりすましやデータの改ざんを検知できる",
+          "vi": "Khi sử dụng chữ ký số, có thể phát hiện giả mạo và sửa đổi dữ liệu",
+          "en": "Using Digital Signature, can detect impersonation and data falsification"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "認証局",
+      "vi": "Cơ quan chứng thực",
+      "en": "Certificate Authority"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "認証局",
+        "vi": "Cơ quan chứng thực",
+        "en": "Certificate Authority"
+      },
+      "definition": {
+        "ja": "認証局（CA：Certification Authority）とは、データに設定されているデジタル署名が、署名者本人であることを証明する第三者機関です。ITパスポート試験では「電子商取引において、公開鍵に対するデジタル証明書を発行する第三者機関」という文章で出題されることがあります。",
+        "vi": "Cơ quan chứng thực (CA: Certification Authority) là tổ chức bên thứ ba chứng nhận chữ ký số được đặt trong dữ liệu thuộc về chính người ký. Trong kỳ thi IT Passport, có thể được ra đề với câu \"tổ chức bên thứ ba phát hành chứng chỉ số cho khóa công khai trong thương mại điện tử\".",
+        "en": "Certificate Authority (CA) is third-party organization certifying that Digital Signature set in data belongs to signer. In IT Passport exam, may appear as 'third-party organization issuing digital certificates for public keys in electronic commerce.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "認証局は、現実世界における役所と似ています。印鑑は誰でも買うことができるので、田中さんが「高橋」と書かれた印鑑を購入して捺印することも可能です。これは一種の「なりすまし」ともいえます。このような「なりすまし」を防ぐために、現実世界には「印鑑登録」という仕組みがあり、印鑑登録を行うことで、第三者機関（役所）がある役所が、実印（印鑑登録した印鑑）がその本人のものであることを証明してくれます。",
+      "vi": "Cơ quan chứng thực tương tự như cơ quan hành chính trong thế giới thực. Vì ai cũng có thể mua con dấu, nên Tanaka có thể mua con dấu ghi \"Takahashi\" và đóng dấu. Đây có thể coi là một dạng \"giả mạo\". Để ngăn \"giả mạo\" như vậy, trong thế giới thực có cơ chế \"đăng ký con dấu\", và bằng việc đăng ký, tổ chức bên thứ ba (cơ quan hành chính) chứng nhận con dấu thật (con dấu đã đăng ký) thuộc về chính người đó.",
+      "en": "Certificate Authority is similar to government office in real world. Since anyone can buy stamps, Tanaka could buy stamp written 'Takahashi' and use it. This could be called 'impersonation.' To prevent such 'impersonation,' real world has 'stamp registration' system, and by registering, third-party organization (government office) certifies registered stamp belongs to that person.",
+      "terms": [
+        {
+          "kanji": "認証局",
+          "reading": "にんしょうきょく"
+        },
+        {
+          "kanji": "現実世界",
+          "reading": "げんじつせかい"
+        },
+        {
+          "kanji": "役所",
+          "reading": "やくしょ"
+        },
+        {
+          "kanji": "似",
+          "reading": "じ"
+        },
+        {
+          "kanji": "印鑑",
+          "reading": "いんかん"
+        },
+        {
+          "kanji": "誰",
+          "reading": "だれ"
+        },
+        {
+          "kanji": "買",
+          "reading": "ばい"
+        },
+        {
+          "kanji": "田中",
+          "reading": "たなか"
+        },
+        {
+          "kanji": "高橋",
+          "reading": "たかはし"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "購入",
+          "reading": "こうにゅう"
+        },
+        {
+          "kanji": "捺印",
+          "reading": "なついん"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "一種",
+          "reading": "いっしゅ"
+        },
+        {
+          "kanji": "防",
+          "reading": "ぼう"
+        },
+        {
+          "kanji": "印鑑登録",
+          "reading": "いんかんとうろく"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "第三者機関",
+          "reading": "だいさんしゃきかん"
+        },
+        {
+          "kanji": "実印",
+          "reading": "じついん"
+        },
+        {
+          "kanji": "本人",
+          "reading": "ほんにん"
+        },
+        {
+          "kanji": "証明",
+          "reading": "しょうめい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "インターネットの世界で印鑑登録証明書に相当するのが「デジタル証明書（電子証明書）」です。デジタル証明書は、公開鍵の所有者が本人であることを証明するデータです。認証局はこのデジタル証明書を発行する第三者機関です。",
+      "vi": "Tương đương với giấy chứng nhận đăng ký con dấu trong thế giới Internet là \"Chứng chỉ số (Chứng chỉ điện tử)\". Chứng chỉ số là dữ liệu chứng minh chủ sở hữu khóa công khai là chính người đó. Cơ quan chứng thực là tổ chức bên thứ ba phát hành chứng chỉ số này.",
+      "en": "Equivalent to stamp registration certificate in Internet world is 'Digital Certificate (Electronic Certificate).' Digital Certificate is data proving public key owner is that person. Certificate Authority is third-party organization issuing this Digital Certificate.",
+      "terms": [
+        {
+          "kanji": "世界",
+          "reading": "せかい"
+        },
+        {
+          "kanji": "印鑑登録証明書",
+          "reading": "いんかんとうろくしょうめいしょ"
+        },
+        {
+          "kanji": "相当",
+          "reading": "そうとう"
+        },
+        {
+          "kanji": "証明書",
+          "reading": "しょうめいしょ"
+        },
+        {
+          "kanji": "電子証明書",
+          "reading": "でんししょうめいしょ"
+        },
+        {
+          "kanji": "公開鍵",
+          "reading": "こうかいかぎ"
+        },
+        {
+          "kanji": "所有者",
+          "reading": "しょゆうしゃ"
+        },
+        {
+          "kanji": "本人",
+          "reading": "ほんにん"
+        },
+        {
+          "kanji": "証明",
+          "reading": "しょうめい"
+        },
+        {
+          "kanji": "認証局",
+          "reading": "にんしょうきょく"
+        },
+        {
+          "kanji": "発行",
+          "reading": "はっこう"
+        },
+        {
+          "kanji": "第三者機関",
+          "reading": "だいさんしゃきかん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "認証局とデジタル証明書の仕組み",
+      "vi": "Cơ chế của Cơ quan chứng thực và Chứng chỉ số",
+      "en": "Mechanism of Certificate Authority and Digital Certificate"
+    },
+    {
+      "type": "paragraph",
+      "ja": "デジタル証明書を使ったやり取りを解説します。次の図を見ながら読み進めてください。",
+      "vi": "Giải thích việc trao đổi sử dụng chứng chỉ số. Hãy đọc tiếp trong khi xem hình sau.",
+      "en": "Will explain exchanges using Digital Certificate. Please read while viewing following figure.",
+      "terms": [
+        {
+          "kanji": "証明書",
+          "reading": "しょうめいしょ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "ja": "まず、太郎くんが認証局に公開鍵を送ります。",
+          "vi": "Đầu tiên, Taro gửi khóa công khai đến cơ quan chứng thực.",
+          "en": "First, Taro sends public key to Certificate Authority."
+        },
+        {
+          "ja": "認証局は太郎くんから送られた情報を元にデジタル証明書を発行します。",
+          "vi": "Cơ quan chứng thực phát hành chứng chỉ số dựa trên thông tin được gửi từ Taro.",
+          "en": "Certificate Authority issues Digital Certificate based on information sent from Taro."
+        },
+        {
+          "ja": "デジタル証明書には、太郎くん公開鍵と、認証局のデジタル署名が含まれます。",
+          "vi": "Chứng chỉ số bao gồm khóa công khai của Taro và chữ ký số của cơ quan chứng thực.",
+          "en": "Digital Certificate contains Taro's public key and Certificate Authority's digital signature."
+        },
+        {
+          "ja": "太郎くんはデジタル証明書を花子さんに送ります。",
+          "vi": "Taro gửi chứng chỉ số cho Hanako.",
+          "en": "Taro sends Digital Certificate to Hanako."
+        },
+        {
+          "ja": "花子さんはデジタル証明書から公開鍵を取り出します。また、デジタル証明書についている認証局のデジタル署名から、その公開鍵が太郎くんのものだと信頼することができます。",
+          "vi": "Hanako lấy khóa công khai từ chứng chỉ số. Ngoài ra, từ chữ ký số của cơ quan chứng thực đính kèm chứng chỉ, có thể tin tưởng rằng khóa công khai đó thuộc về Taro.",
+          "en": "Hanako extracts public key from Digital Certificate. Also, from Certificate Authority's digital signature attached to certificate, can trust that public key belongs to Taro."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "認証局",
+      "vi": "Cơ quan chứng thực (CA)",
+      "en": "Certificate Authority (CA)",
+      "my": "အသိအမှတ်ပြုအဖွဲ့အစည်း (CA)"
+    },
+    {
+      "term": "デジタル証明書",
+      "vi": "Chứng chỉ số",
+      "en": "Digital Certificate",
+      "my": "ဒစ်ဂျစ်တယ် လက်မှတ်ရွက်စာ"
+    },
+    {
+      "term": "電子証明書",
+      "vi": "Chứng chỉ điện tử",
+      "en": "Electronic Certificate",
+      "my": "အီလက်ထရောနစ် လက်မှတ်ရွက်စာ"
+    },
+    {
+      "term": "印鑑登録",
+      "vi": "Đăng ký con dấu",
+      "en": "Stamp Registration",
+      "my": "တံဆိပ်မှတ်ပုံတင်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

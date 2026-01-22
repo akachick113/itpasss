@@ -1,0 +1,288 @@
+{
+  "page_id": 172,
+  "image": "p_0172.png",
+  "chapter": 4,
+  "section": "04-04",
+  "page_number": 156,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "04-04",
+      "ja": "生産管理の計算問題",
+      "reading": "せいさんかんりのけいさんもんだい",
+      "vi": "Bài toán tính toán quản lý sản xuất",
+      "en": "Production Management Calculation Problems",
+      "my": "ထုတ်လုပ်ရေးစီမံခန့်ခွဲမှု တွက်ချက်မှုပြဿနာများ"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "計算方法を知っておくことが大切",
+        "vi": "Quan trọng là biết phương pháp tính toán",
+        "en": "It's Important to Know Calculation Methods",
+        "my": "တွက်ချက်မှုနည်းလမ်းများ သိရန် အရေးကြီးသည်",
+        "terms": [
+          {
+            "kanji": "大切",
+            "reading": "たいせつ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "実際の現場では、多くの場合、生産管理関連の計算はシステムが自動的に行ってくれます。しかし、ITパスポート試験ではこれを手で計算する問題が出題されます。計算方法を習得しておいてください。",
+        "vi": "Tại hiện trường thực tế, trong hầu hết trường hợp, các tính toán liên quan đến quản lý sản xuất được hệ thống tự động thực hiện. Tuy nhiên, trong kỳ thi IT Passport, sẽ có các bài toán yêu cầu tính toán bằng tay. Hãy nắm vững phương pháp tính toán.",
+        "en": "In actual workplaces, production management calculations are usually done automatically by systems. However, IT Passport has problems requiring manual calculation. Master the calculation methods.",
+        "my": "လက်တွေ့လုပ်ငန်းခွင်များတွင် ထုတ်လုပ်ရေးစီမံခန့်ခွဲမှု တွက်ချက်မှုများကို စနစ်များက အလိုအလျောက် လုပ်ဆောင်ပေးသည်။",
+        "terms": [
+          {
+            "kanji": "実際",
+            "reading": "じっさい"
+          },
+          {
+            "kanji": "現場",
+            "reading": "げんば"
+          },
+          {
+            "kanji": "多",
+            "reading": "た"
+          },
+          {
+            "kanji": "場合",
+            "reading": "ばあい"
+          },
+          {
+            "kanji": "生産管理関連",
+            "reading": "せいさんかんりかんれん"
+          },
+          {
+            "kanji": "計算",
+            "reading": "けいさん"
+          },
+          {
+            "kanji": "自動的",
+            "reading": "じどうてき"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "手",
+            "reading": "て"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "計算方法",
+            "reading": "けいさんほうほう"
+          },
+          {
+            "kanji": "習得",
+            "reading": "しゅうとく"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では生産管理の計算問題（何を、いつまでに、どれだけ作るのか）がよく出題されます。",
+      "vi": "Trong IT Passport, các bài toán tính toán quản lý sản xuất (sản xuất gì, khi nào, bao nhiêu) thường được ra đề.",
+      "en": "IT Passport frequently has production management calculation problems (what to make, by when, how much).",
+      "my": "IT Passport တွင် ထုတ်လုပ်ရေးစီမံခန့်ခွဲမှု တွက်ချက်မှုပြဿနာများ (ဘာလုပ်မည်၊ ဘယ်အချိန်၊ ဘယ်လောက်) မကြာခဏ ထွက်သည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "生産管理",
+          "reading": "せいさんかんり"
+        },
+        {
+          "kanji": "計算問題",
+          "reading": "けいさんもんだい"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "生産管理の計算方法",
+      "reading": "せいさんかんりのけいさんほうほう",
+      "vi": "Phương pháp tính toán quản lý sản xuất",
+      "en": "Production Management Calculation Methods"
+    },
+    {
+      "type": "paragraph",
+      "ja": "次の問題はITパスポート試験の公式サイトで公開されているサンプル問題です。",
+      "vi": "Bài toán sau là bài mẫu được công bố trên trang chính thức của IT Passport.",
+      "en": "The following is a sample problem published on IT Passport's official site.",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "公式",
+          "reading": "こうしき"
+        },
+        {
+          "kanji": "公開",
+          "reading": "こうかい"
+        }
+      ]
+    },
+    {
+      "type": "exam_question",
+      "number": "サンプル問題",
+      "year": "サンプル",
+      "question": {
+        "ja": "表から算出できる1か月当たりの利益を最大にした場合の、製品Bの1か月当たりの生産個数は幾つか。ここで、1か月当たりの工数は280人日とする。",
+        "vi": "Nếu tối đa hóa lợi nhuận 1 tháng có thể tính từ bảng, số lượng sản xuất sản phẩm B trong 1 tháng là bao nhiêu? Ở đây, công số 1 tháng là 280 người-ngày.",
+        "en": "If maximizing monthly profit calculated from the table, how many units of Product B should be produced per month? Here, monthly man-days is 280."
+      },
+      "table": {
+        "headers": [
+          "",
+          "利益/個",
+          "工数/個",
+          "生産能力/月"
+        ],
+        "rows": [
+          [
+            "A製品",
+            "20万円",
+            "4人日",
+            "25個"
+          ],
+          [
+            "B製品",
+            "16万円",
+            "4人日",
+            "30個"
+          ],
+          [
+            "C製品",
+            "9万円",
+            "3人日",
+            "40個"
+          ]
+        ]
+      },
+      "choices": [
+        {
+          "label": "ア",
+          "ja": "15",
+          "vi": "15",
+          "en": "15"
+        },
+        {
+          "label": "イ",
+          "ja": "20",
+          "vi": "20",
+          "en": "20"
+        },
+        {
+          "label": "ウ",
+          "ja": "25",
+          "vi": "25",
+          "en": "25"
+        },
+        {
+          "label": "エ",
+          "ja": "30",
+          "vi": "30",
+          "en": "30",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記の問題は非常にシンプルなので、算数だけで解くことができます。実際に解いてみましょう。",
+      "vi": "Bài toán trên rất đơn giản nên có thể giải chỉ bằng số học. Hãy thử giải.",
+      "en": "The above problem is very simple and can be solved with just arithmetic. Let's actually solve it.",
+      "my": "အထက်ပါပြဿနာသည် ရိုးရှင်းပြီး ဂဏန်းသင်္ချာဖြင့်သာ ဖြေရှင်းနိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "算数",
+          "reading": "さんすう"
+        },
+        {
+          "kanji": "解",
+          "reading": "かい"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "工数",
+      "reading": "こうすう",
+      "romaji": "Kousuu",
+      "vi": "Công số (người-ngày)",
+      "en": "Man-days",
+      "my": "Man-days"
+    },
+    {
+      "kanji": "生産能力",
+      "reading": "せいさんのうりょく",
+      "romaji": "Seisan Nouryoku",
+      "vi": "Năng lực sản xuất",
+      "en": "Production Capacity",
+      "my": "ထုတ်လုပ်နိုင်စွမ်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "has_info_box": true,
+    "is_calculation_lesson": true
+  }
+}

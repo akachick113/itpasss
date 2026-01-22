@@ -1,0 +1,220 @@
+{
+  "page_id": 403,
+  "image": "p_0403.png",
+  "chapter": 10,
+  "section": "10-06",
+  "page_number": 387,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "10-06",
+      "title": {
+        "ja": "直列システムと並列システム",
+        "vi": "Hệ thống nối tiếp và song song",
+        "en": "Series and Parallel Systems"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "直列と並列",
+        "vi": "Nối tiếp và song song",
+        "en": "Series and Parallel"
+      },
+      "content": {
+        "ja": "中学校の理科の授業では、電池を直列と並列に並べた時の電圧の違いを学びました。システムも装置の並べ方によって信頼性が変わります。",
+        "vi": "Trong giờ khoa học ở trường trung học, đã học về sự khác biệt điện áp khi xếp pin nối tiếp và song song. Độ tin cậy của hệ thống cũng thay đổi tùy theo cách sắp xếp thiết bị.",
+        "en": "In middle school science class, learned about voltage difference when arranging batteries in series and parallel. System reliability also changes depending on how devices are arranged."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "システムは「システムを構成する装置の配置方法」によって、直列システム、並列システム、複合システムの3種類に分類できます。",
+      "vi": "Hệ thống có thể phân loại thành 3 loại theo \"phương pháp bố trí thiết bị cấu thành hệ thống\": hệ thống nối tiếp, hệ thống song song, và hệ thống kết hợp.",
+      "en": "Systems can be classified into 3 types by 'device arrangement method composing system': series system, parallel system, and combined system.",
+      "terms": [
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "配置方法",
+          "reading": "はいちほうほう"
+        },
+        {
+          "kanji": "直列",
+          "reading": "ちょくれつ"
+        },
+        {
+          "kanji": "並列",
+          "reading": "へいれつ"
+        },
+        {
+          "kanji": "複合",
+          "reading": "ふくごう"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "直列システム",
+      "reading": "ちょくれつシステム",
+      "vi": "Hệ thống nối tiếp",
+      "en": "Series System",
+      "exam_note": "★要チェック！稼働率の求め方に注目！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "直列システムとは、複数の装置が直列に接続されたシステムです。直列システムの代表例はシンプレックスシステム（p.376）です。直列システムの場合、システムを構成する装置が1つでも故障すると、システム全体が停止します。",
+      "vi": "Hệ thống nối tiếp là hệ thống trong đó nhiều thiết bị được kết nối nối tiếp. Ví dụ điển hình của hệ thống nối tiếp là hệ thống simplex (trang 376). Trong trường hợp hệ thống nối tiếp, nếu một thiết bị cấu thành hệ thống hỏng, toàn bộ hệ thống sẽ dừng.",
+      "en": "Series system is system where multiple devices are connected in series. Typical example of series system is simplex system (p.376). In series system case, if even one device composing system fails, entire system stops.",
+      "terms": [
+        {
+          "kanji": "直列",
+          "reading": "ちょくれつ"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "代表例",
+          "reading": "だいひょうれい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "故障",
+          "reading": "こしょう"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "停止",
+          "reading": "ていし"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "直列システムの稼働率は、次の式で求めることができます。",
+      "vi": "Tỉ lệ khả dụng của hệ thống nối tiếp có thể tính bằng công thức sau.",
+      "en": "Series system availability can be calculated by following formula.",
+      "terms": [
+        {
+          "kanji": "直列",
+          "reading": "ちょくれつ"
+        },
+        {
+          "kanji": "稼働率",
+          "reading": "かどうりつ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "式",
+          "reading": "しき"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        }
+      ]
+    },
+    {
+      "type": "formula",
+      "content": {
+        "ja": "直列システムの稼働率 = 装置Aの稼働率 × 装置Bの稼働率",
+        "vi": "Tỉ lệ khả dụng hệ thống nối tiếp = Tỉ lệ khả dụng thiết bị A × Tỉ lệ khả dụng thiết bị B",
+        "en": "Series System Availability = Device A Availability × Device B Availability"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、次の図のような直列システムの稼働率は「0.72」となります。",
+      "vi": "Ví dụ, tỉ lệ khả dụng của hệ thống nối tiếp như hình sau là \"0.72\".",
+      "en": "For example, availability of series system like following diagram is '0.72.'",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "直列",
+          "reading": "ちょくれつ"
+        },
+        {
+          "kanji": "稼働率",
+          "reading": "かどうりつ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "直列システム",
+        "vi": "Hệ thống nối tiếp",
+        "en": "Series System"
+      },
+      "description": {
+        "ja": "装置A（稼働率0.9）と装置B（稼働率0.8）が直列に接続。直列システムの稼働率 = 0.9 × 0.8 = 0.72",
+        "vi": "Thiết bị A (tỉ lệ khả dụng 0.9) và thiết bị B (tỉ lệ khả dụng 0.8) kết nối nối tiếp. Tỉ lệ khả dụng hệ thống nối tiếp = 0.9 × 0.8 = 0.72",
+        "en": "Device A (availability 0.9) and device B (availability 0.8) connected in series. Series system availability = 0.9 × 0.8 = 0.72"
+      },
+      "calculation": "直列システムの稼働率 = 0.9 × 0.8 = 0.72"
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "直列システム",
+      "reading": "ちょくれつシステム",
+      "vi": "Hệ thống nối tiếp",
+      "en": "Series System",
+      "my": "တန်းစီ စနစ်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_formula": true,
+    "is_key_content": true
+  }
+}

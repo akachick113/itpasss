@@ -1,0 +1,274 @@
+{
+  "page_id": 365,
+  "image": "p_0365.png",
+  "chapter": 9,
+  "section": "09-07",
+  "page_number": 349,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "代入のイメージ",
+        "vi": "Hình ảnh gán",
+        "en": "Assignment Image"
+      },
+      "description": {
+        "ja": "numという名前の箱に「3」という値を入れるイメージ図",
+        "vi": "Hình ảnh đặt giá trị \"3\" vào hộp có tên num",
+        "en": "Image of putting value '3' into box named num"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "変数に値を代入するには、以下のように指定します。",
+      "vi": "Để gán giá trị vào biến, chỉ định như sau.",
+      "en": "To assign value to variable, specify as follows.",
+      "terms": [
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "代入",
+          "reading": "だいにゅう"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【書式】代入",
+        "vi": "【Định dạng】Gán",
+        "en": "[Format] Assignment"
+      },
+      "code": "変数名 ← 値",
+      "explanation": {
+        "ja": "・最初に、値を格納する変数の名前を書く\n・続いて、左向き矢印「←」を書き、その右側に代入する値を書く",
+        "vi": "・Trước tiên, viết tên biến lưu giá trị\n・Tiếp theo, viết mũi tên trái \"←\" và viết giá trị gán ở bên phải",
+        "en": "・First, write variable name storing value\n・Then, write left arrow '←' and value to assign on right side"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "以下は、変数numに整数の値「3」を代入するプログラムの例です。",
+      "vi": "Sau đây là ví dụ chương trình gán giá trị số nguyên \"3\" vào biến num.",
+      "en": "Following is example program assigning integer value '3' to variable num.",
+      "terms": [
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "整数",
+          "reading": "せいすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "代入",
+          "reading": "だいにゅう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】変数numに「3」を代入する",
+        "vi": "【Ví dụ chương trình】Gán \"3\" vào biến num",
+        "en": "[Program Example] Assign '3' to variable num"
+      },
+      "code": "num ← 3"
+    },
+    {
+      "type": "paragraph",
+      "ja": "「←」によって、値が変数に格納される処理をイメージしてください。",
+      "vi": "Hãy hình dung xử lý giá trị được lưu vào biến bằng \"←\".",
+      "en": "Imagine processing where value is stored in variable by '←.'",
+      "terms": [
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "格納",
+          "reading": "かくのう"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "変数に代入された値は、コンピュータの主記憶装置に保存されます。そのため、それ以降のプログラムで何度でも使用できます。なお、一度「変数の宣言」を行えば、それ以降は、変数名の前に型名を指定する必要はありません。",
+      "vi": "Giá trị được gán vào biến được lưu trong bộ nhớ chính của máy tính. Do đó, có thể sử dụng bao nhiêu lần cũng được trong chương trình sau đó. Tham khảo, một khi đã \"khai báo biến\", sau đó không cần chỉ định tên kiểu trước tên biến.",
+      "en": "Value assigned to variable is saved in computer's main memory. Therefore, can use any number of times in subsequent program. Note that once 'variable declaration' is done, no need to specify type name before variable name afterwards.",
+      "terms": [
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "代入",
+          "reading": "だいにゅう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "主記憶装置",
+          "reading": "しゅきおくそうち"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "以降",
+          "reading": "いこう"
+        },
+        {
+          "kanji": "何度",
+          "reading": "なんど"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "一度",
+          "reading": "いちど"
+        },
+        {
+          "kanji": "宣言",
+          "reading": "せんげん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "変数名",
+          "reading": "へんすうめい"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "型名",
+          "reading": "かためい"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "他の値との組み合わせ",
+      "reading": "ほかのあたいとのくみあわせ",
+      "vi": "Kết hợp với giá trị khác",
+      "en": "Combining with Other Values"
+    },
+    {
+      "type": "paragraph",
+      "ja": "変数は他の値と組み合わせて使うこともできます。例えば、変数numに「1」を加算する場合は、以下のように書きます。",
+      "vi": "Biến cũng có thể sử dụng kết hợp với các giá trị khác. Ví dụ, để cộng \"1\" vào biến num, viết như sau.",
+      "en": "Variables can also be used combined with other values. For example, to add '1' to variable num, write as follows.",
+      "terms": [
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "加算",
+          "reading": "かさん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】変数numに「1」を加算する",
+        "vi": "【Ví dụ chương trình】Cộng \"1\" vào biến num",
+        "en": "[Program Example] Add '1' to variable num"
+      },
+      "code": "num + 1"
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "has_diagram": true
+  }
+}

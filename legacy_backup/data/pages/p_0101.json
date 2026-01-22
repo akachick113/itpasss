@@ -1,0 +1,351 @@
+{
+  "page_id": 101,
+  "image": "p_0101.png",
+  "chapter": 2,
+  "section": "02-06",
+  "page_number": 85,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "02-06",
+      "ja": "標準化",
+      "reading": "ひょうじゅんか",
+      "vi": "Tiêu chuẩn hóa",
+      "en": "Standardization",
+      "my": "စံချိန်စံညွှန်း သတ်မှတ်ခြင်း"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "共通の規格があると便利！",
+        "vi": "Có tiêu chuẩn chung rất tiện lợi!",
+        "en": "Common Standards are Convenient!",
+        "my": "ဘုံစံနှုန်းများ အဆင်ပြေသည်!"
+      },
+      "content": {
+        "ja": "バーコードは世界共通です。こういった共通の規格があると生活がとても便利になります。世の中にはさまざまな「共通の規格」があります。",
+        "vi": "Mã vạch là tiêu chuẩn chung toàn cầu. Có tiêu chuẩn chung như vậy giúp cuộc sống rất tiện lợi. Có nhiều tiêu chuẩn chung trên thế giới.",
+        "en": "Barcodes are globally standard. Having common standards like this makes life very convenient. There are various common standards in the world.",
+        "my": "Barcode များသည် ကမ္ဘာတစ်ဝှမ်း စံနှုန်းဖြစ်သည်။",
+        "terms": [
+          {
+            "kanji": "世界共通",
+            "reading": "せかいきょうつう"
+          },
+          {
+            "kanji": "共通",
+            "reading": "きょうつう"
+          },
+          {
+            "kanji": "規格",
+            "reading": "きかく"
+          },
+          {
+            "kanji": "生活",
+            "reading": "せいかつ"
+          },
+          {
+            "kanji": "便利",
+            "reading": "べんり"
+          },
+          {
+            "kanji": "世",
+            "reading": "よ"
+          },
+          {
+            "kanji": "中",
+            "reading": "なか"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、「標準化」について解説します。本項ではたくさんの横文字（英略語）が出てきますが、ITパスポート試験では「JANコード（バーコード）」と「ISO9000」の出題頻度が圧倒的に高いので、まずはこの2つの用語をしっかりと理解したうえで、その他の用語の理解を深めていってください。",
+      "vi": "Từ đây sẽ giải thích về Tiêu chuẩn hóa. Phần này có nhiều từ viết tắt tiếng Anh, nhưng trong IT Passport, JAN Code (mã vạch) và ISO9000 có tần suất ra đề cao nhất, nên trước hết hãy hiểu rõ 2 thuật ngữ này, rồi tìm hiểu thêm các thuật ngữ khác.",
+      "en": "From here, we'll explain Standardization. This section has many abbreviations, but in IT Passport, JAN Code (barcode) and ISO9000 are most frequently tested, so first understand these 2 terms well, then deepen understanding of other terms.",
+      "my": "ဤနေရာမှစ၍ Standardization ကို ရှင်းပြပါမည်။",
+      "terms": [
+        {
+          "kanji": "標準化",
+          "reading": "ひょうじゅんか"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "横文字",
+          "reading": "よこもじ"
+        },
+        {
+          "kanji": "英略語",
+          "reading": "えいりゃくご"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "圧倒的",
+          "reading": "あっとうてき"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "深",
+          "reading": "しん"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "発想の転換で乗り越えよう！",
+        "vi": "Vượt qua bằng thay đổi tư duy!",
+        "en": "Overcome by Changing Perspective!",
+        "my": "အမြင်ပြောင်းလဲခြင်းဖြင့် ကျော်လွှားပါ!"
+      },
+      "content": {
+        "ja": "本項ではとにかくたくさんの英語の略語が出てきます。苦手意識を持っている人も多いと思いますが、発想を転換して「略語の意味を覚えるだけで簡単に得点できる！」と考え、ポジティブに考えながら読み進めたほうが記憶に定着しやすくなります。",
+        "vi": "Phần này có rất nhiều từ viết tắt tiếng Anh. Nhiều người có thể thấy khó khăn, nhưng hãy thay đổi tư duy rằng Chỉ cần nhớ nghĩa từ viết tắt là dễ dàng được điểm! và đọc với tinh thần tích cực sẽ giúp ghi nhớ tốt hơn.",
+        "en": "This section has many English abbreviations. Many may feel this is difficult, but change your thinking to Just memorizing abbreviation meanings gets easy points! and reading positively helps retention.",
+        "my": "ဤအပိုင်းတွင် အင်္ဂလိပ် အတိုကောက်များ အများကြီးရှိသည်။",
+        "terms": [
+          {
+            "kanji": "本項",
+            "reading": "ほんこう"
+          },
+          {
+            "kanji": "英語",
+            "reading": "えいご"
+          },
+          {
+            "kanji": "略語",
+            "reading": "りゃくご"
+          },
+          {
+            "kanji": "出",
+            "reading": "しゅつ"
+          },
+          {
+            "kanji": "苦手意識",
+            "reading": "にがていしき"
+          },
+          {
+            "kanji": "持",
+            "reading": "じ"
+          },
+          {
+            "kanji": "人",
+            "reading": "にん"
+          },
+          {
+            "kanji": "多",
+            "reading": "た"
+          },
+          {
+            "kanji": "思",
+            "reading": "おもい"
+          },
+          {
+            "kanji": "発想",
+            "reading": "はっそう"
+          },
+          {
+            "kanji": "転換",
+            "reading": "てんかん"
+          },
+          {
+            "kanji": "意味",
+            "reading": "いみ"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          },
+          {
+            "kanji": "簡単",
+            "reading": "かんたん"
+          },
+          {
+            "kanji": "得点",
+            "reading": "とくてん"
+          },
+          {
+            "kanji": "考",
+            "reading": "こう"
+          },
+          {
+            "kanji": "読",
+            "reading": "どく"
+          },
+          {
+            "kanji": "進",
+            "reading": "すすむ"
+          },
+          {
+            "kanji": "記憶",
+            "reading": "きおく"
+          },
+          {
+            "kanji": "定着",
+            "reading": "ていちゃく"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "標準化とは",
+      "reading": "ひょうじゅんかとは",
+      "vi": "Tiêu chuẩn hóa là gì",
+      "en": "What is Standardization",
+      "my": "Standardization ဆိုသည်မှာ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "標準化とは、製品の形や大きさなどを統一することです。右の非常口の標識は日本発の国際標準の一例です。この例のように、形や大きさなどを統一しておけば、世界中どこに行ってもその情報が何を表しているのか、どのように使えばいいのかがわかるため、とても便利になります。",
+      "vi": "Tiêu chuẩn hóa là việc thống nhất hình dạng, kích thước của sản phẩm. Biển báo lối thoát hiểm bên phải là một ví dụ về tiêu chuẩn quốc tế xuất phát từ Nhật Bản. Như ví dụ này, nếu thống nhất hình dạng và kích thước, dù đi bất cứ đâu trên thế giới cũng biết thông tin đó biểu thị gì và sử dụng như thế nào, rất tiện lợi.",
+      "en": "Standardization means unifying product shapes and sizes. The emergency exit sign on the right is an example of international standard originating from Japan. Like this example, if shapes and sizes are unified, anywhere in the world you can understand what information represents and how to use it, which is very convenient.",
+      "my": "Standardization ဆိုသည်မှာ ထုတ်ကုန်ပုံသဏ္ဍာန်နှင့် အရွယ်အစားများကို ညီညွတ်စေခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "標準化",
+          "reading": "ひょうじゅんか"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "形",
+          "reading": "かたち"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "統一",
+          "reading": "とういつ"
+        },
+        {
+          "kanji": "右",
+          "reading": "みぎ"
+        },
+        {
+          "kanji": "非常口",
+          "reading": "ひじょうぐち"
+        },
+        {
+          "kanji": "標識",
+          "reading": "ひょうしき"
+        },
+        {
+          "kanji": "日本発",
+          "reading": "にほんはつ"
+        },
+        {
+          "kanji": "国際標準",
+          "reading": "こくさいひょうじゅん"
+        },
+        {
+          "kanji": "一例",
+          "reading": "いちれい"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "世界中",
+          "reading": "せかいじゅう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "便利",
+          "reading": "べんり"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "標準化",
+      "reading": "ひょうじゅんか",
+      "romaji": "Hyoujunka",
+      "vi": "Tiêu chuẩn hóa",
+      "en": "Standardization",
+      "my": "စံချိန်စံညွှန်း သတ်မှတ်ခြင်း"
+    },
+    {
+      "kanji": "JANコード",
+      "reading": "じゃんこーど",
+      "romaji": "JAN Code",
+      "vi": "Mã JAN",
+      "en": "JAN Code",
+      "my": "JAN Code"
+    },
+    {
+      "kanji": "ISO9000",
+      "reading": "あいえすおー9000",
+      "romaji": "ISO 9000",
+      "vi": "ISO9000",
+      "en": "ISO9000",
+      "my": "ISO9000"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true,
+    "has_learn_more": true
+  }
+}

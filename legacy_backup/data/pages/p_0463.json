@@ -1,0 +1,341 @@
+{
+  "page_id": 463,
+  "image": "p_0463.png",
+  "chapter": 12,
+  "section": "12-05",
+  "page_number": 447,
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "ja": "（2）改良可能",
+      "vi": "(2) Có thể cải tiến",
+      "en": "(2) Can Improve"
+    },
+    {
+      "type": "paragraph",
+      "ja": "オープンソースソフトウェアは、ソースコードが公開されており、ユーザーはそれを自由に改良できます。通常の商用ソフトウェアはソースコードが公開されておらず、そのためにユーザーがソフトウェアの内容を改良することもできません。この大きな違いを覚えておいてください。",
+      "vi": "Phần mềm mã nguồn mở có mã nguồn được công khai, và người dùng có thể tự do cải tiến. Phần mềm thương mại thông thường không công khai mã nguồn, do đó người dùng không thể cải tiến nội dung phần mềm. Hãy nhớ sự khác biệt lớn này.",
+      "en": "Open source software has publicly available source code, and users can freely improve it. Normal commercial software doesn't publish source code, so users cannot improve software content. Remember this major difference.",
+      "terms": [
+        {
+          "kanji": "公開",
+          "reading": "こうかい"
+        },
+        {
+          "kanji": "自由",
+          "reading": "じゆう"
+        },
+        {
+          "kanji": "改良",
+          "reading": "かいりょう"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "商用",
+          "reading": "しょうよう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "ja": "（3）有料で販売できる",
+      "vi": "(3) Có thể bán có phí",
+      "en": "(3) Can Sell for Fee"
+    },
+    {
+      "type": "paragraph",
+      "ja": "利用者は無料で入手したオープンソースソフトウェアに付加価値（機能強化やサービスの充実など）をつけて、有料で販売することが可能です。",
+      "vi": "Người dùng có thể thêm giá trị gia tăng (tăng cường chức năng, làm phong phú dịch vụ, v.v.) vào phần mềm mã nguồn mở có được miễn phí, và bán có phí.",
+      "en": "Users can add value (functional enhancement, service enrichment, etc.) to open source software obtained for free, and sell for fee.",
+      "terms": [
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "kanji": "無料",
+          "reading": "むりょう"
+        },
+        {
+          "kanji": "入手",
+          "reading": "にゅうしゅ"
+        },
+        {
+          "kanji": "付加価値",
+          "reading": "ふかかち"
+        },
+        {
+          "kanji": "機能強化",
+          "reading": "きのうきょうか"
+        },
+        {
+          "kanji": "充実",
+          "reading": "じゅうじつ"
+        },
+        {
+          "kanji": "有料",
+          "reading": "ゆうりょう"
+        },
+        {
+          "kanji": "販売",
+          "reading": "はんばい"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "ja": "（4）著作権あり",
+      "vi": "(4) Có bản quyền",
+      "en": "(4) Has Copyright"
+    },
+    {
+      "type": "paragraph",
+      "ja": "オープンソースソフトウェアはよく、権利フリーのソフトウェア（誰も権利を持たないソフトウェア）のように考えられがちですが、オープンソースソフトウェアにも著作権はあります。なぜ著作権があるのかというと「再配布のルール」を決めるためです。再配布のルールのなかには「配布先となる個人やグループを制限してはいけない」などがあります。こういったルールを設けることで、対象のオープンソースソフトウェアが「多くの開発者に改良してもらい、発展させていく」という趣旨から外れないようにしています。",
+      "vi": "Phần mềm mã nguồn mở thường bị nghĩ là phần mềm không có quyền (phần mềm không ai có quyền), nhưng phần mềm mã nguồn mở cũng có bản quyền. Lý do có bản quyền là để quyết định \"quy tắc phân phối lại\". Trong quy tắc phân phối lại có \"không được hạn chế cá nhân hoặc nhóm là đích phân phối\". Bằng cách đặt ra các quy tắc như vậy, phần mềm mã nguồn mở không đi chệch khỏi mục đích \"được nhiều nhà phát triển cải tiến và phát triển\".",
+      "en": "Open source software is often mistakenly thought of as rights-free software (software no one has rights to), but OSS also has copyright. Reason for copyright is to decide 'redistribution rules.' Among redistribution rules is 'must not restrict individuals or groups as distribution targets.' By setting such rules, target OSS doesn't deviate from purpose of 'being improved and developed by many developers.'",
+      "terms": [
+        {
+          "kanji": "権利",
+          "reading": "けんり"
+        },
+        {
+          "kanji": "誰",
+          "reading": "だれ"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "著作権",
+          "reading": "ちょさくけん"
+        },
+        {
+          "kanji": "再配布",
+          "reading": "さいはいふ"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "配布先",
+          "reading": "はいふさき"
+        },
+        {
+          "kanji": "個人",
+          "reading": "こじん"
+        },
+        {
+          "kanji": "制限",
+          "reading": "せいげん"
+        },
+        {
+          "kanji": "設",
+          "reading": "せつ"
+        },
+        {
+          "kanji": "対象",
+          "reading": "たいしょう"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "開発者",
+          "reading": "かいはつしゃ"
+        },
+        {
+          "kanji": "改良",
+          "reading": "かいりょう"
+        },
+        {
+          "kanji": "発展",
+          "reading": "はってん"
+        },
+        {
+          "kanji": "趣旨",
+          "reading": "しゅし"
+        },
+        {
+          "kanji": "外",
+          "reading": "そと"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "商用ソフトウェアとOSSの違い",
+        "vi": "Sự khác biệt giữa Phần mềm thương mại và OSS",
+        "en": "Difference Between Commercial Software and OSS"
+      },
+      "headers": {
+        "ja": [
+          "",
+          "商用",
+          "OSS"
+        ],
+        "vi": [
+          "",
+          "Thương mại",
+          "OSS"
+        ],
+        "en": [
+          "",
+          "Commercial",
+          "OSS"
+        ]
+      },
+      "rows": [
+        {
+          "category": {
+            "ja": "費用",
+            "vi": "Chi phí",
+            "en": "Cost"
+          },
+          "commercial": {
+            "ja": "有料",
+            "vi": "Có phí",
+            "en": "Paid"
+          },
+          "oss": {
+            "ja": "無料",
+            "vi": "Miễn phí",
+            "en": "Free"
+          }
+        },
+        {
+          "category": {
+            "ja": "改良",
+            "vi": "Cải tiến",
+            "en": "Improvement"
+          },
+          "commercial": {
+            "ja": "不可",
+            "vi": "Không thể",
+            "en": "Cannot"
+          },
+          "oss": {
+            "ja": "可",
+            "vi": "Có thể",
+            "en": "Can"
+          }
+        },
+        {
+          "category": {
+            "ja": "再配布",
+            "vi": "Phân phối lại",
+            "en": "Redistribution"
+          },
+          "commercial": {
+            "ja": "不可",
+            "vi": "Không thể",
+            "en": "Cannot"
+          },
+          "oss": {
+            "ja": "可",
+            "vi": "Có thể",
+            "en": "Can"
+          }
+        },
+        {
+          "category": {
+            "ja": "販売",
+            "vi": "Bán hàng",
+            "en": "Sales"
+          },
+          "commercial": {
+            "ja": "-",
+            "vi": "-",
+            "en": "-"
+          },
+          "oss": {
+            "ja": "可",
+            "vi": "Có thể",
+            "en": "Can"
+          }
+        },
+        {
+          "category": {
+            "ja": "著作権",
+            "vi": "Bản quyền",
+            "en": "Copyright"
+          },
+          "commercial": {
+            "ja": "作者に帰属",
+            "vi": "Thuộc về tác giả",
+            "en": "Belongs to Author"
+          },
+          "oss": {
+            "ja": "作者に帰属",
+            "vi": "Thuộc về tác giả",
+            "en": "Belongs to Author"
+          }
+        }
+      ],
+      "note": {
+        "ja": "← 重要！",
+        "vi": "← Quan trọng!",
+        "en": "← Important!"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "オープンソースソフトウェア（OSS）とは、ソースコードが公開されていて、改良や再配布が自由に行えるソフトウェアである",
+          "vi": "Phần mềm mã nguồn mở (OSS) là phần mềm có mã nguồn được công khai, có thể tự do cải tiến và phân phối lại",
+          "en": "Open source software (OSS) is software with publicly available source code, freely improvable and redistributable"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

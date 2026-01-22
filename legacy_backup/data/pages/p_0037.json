@@ -1,0 +1,301 @@
+{
+  "page_id": 37,
+  "image": "p_0037.png",
+  "chapter": 1,
+  "section": "01-04",
+  "page_number": 21,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（1）職能別組織",
+      "reading": "しょくのうべつそしき",
+      "vi": "(1) Tổ chức theo chức năng",
+      "en": "(1) Functional Organization",
+      "my": "(၁) Functional Organization"
+    },
+    {
+      "type": "paragraph",
+      "ja": "職能別組織とは、業務を専門的な機能に分けて、各機能を単位として構成する組織です。なお、職能別組織のことを「機能別組織」と呼ぶ場合もあります。",
+      "vi": "Tổ chức theo chức năng là tổ chức chia công việc thành các chức năng chuyên môn và cấu thành với mỗi chức năng là một đơn vị. Tổ chức theo chức năng đôi khi cũng được gọi là \"tổ chức theo chức năng (機能別組織)\".",
+      "en": "Functional organization is an organization that divides work into specialized functions and structures each function as a unit. Note that functional organization is sometimes also called \"function-based organization.\"",
+      "my": "Functional organization သည် အလုပ်ကို အထူးပြုလုပ်ဆောင်ချက်များအဖြစ် ခွဲခြားပြီး လုပ်ဆောင်ချက်တစ်ခုစီကို ယူနစ်တစ်ခုအဖြစ် ဖွဲ့စည်းသော အဖွဲ့အစည်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "職能別組織",
+          "reading": "しょくのうべつそしき"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "専門的",
+          "reading": "せんもんてき"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "各機能",
+          "reading": "かくきのう"
+        },
+        {
+          "kanji": "単位",
+          "reading": "たんい"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        },
+        {
+          "kanji": "機能別組織",
+          "reading": "きのうべつそしき"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（2）事業部制組織",
+      "reading": "じぎょうぶせいそしき",
+      "vi": "(2) Tổ chức theo bộ phận kinh doanh",
+      "en": "(2) Divisional Organization",
+      "my": "(၂) Divisional Organization"
+    },
+    {
+      "type": "paragraph",
+      "ja": "事業部制組織とは、事業部を単位として構成する組織です。",
+      "vi": "Tổ chức theo bộ phận kinh doanh là tổ chức cấu thành với bộ phận kinh doanh là đơn vị.",
+      "en": "Divisional organization is an organization structured with business divisions as units.",
+      "my": "Divisional organization သည် စီးပွားရေးဌာနများကို ယူနစ်များအဖြစ် ဖွဲ့စည်းထားသော အဖွဲ့အစည်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "事業部制組織",
+          "reading": "じぎょうぶせいそしき"
+        },
+        {
+          "kanji": "事業部",
+          "reading": "じぎょうぶ"
+        },
+        {
+          "kanji": "単位",
+          "reading": "たんい"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "用語の定義を確認しよう！",
+        "vi": "Hãy xác nhận định nghĩa thuật ngữ!",
+        "en": "Let's confirm the term definitions!",
+        "my": "ဝေါဟာရအဓိပ္ပါယ်များကို အတည်ပြုကြစို့!",
+        "terms": [
+          {
+            "kanji": "定義",
+            "reading": "ていぎ"
+          },
+          {
+            "kanji": "確認",
+            "reading": "かくにん"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ここでいう「事業」とは何でしょうか。多くの人が\"なんとなく\"この言葉の意味を理解していると思いますが、ITパスポート試験では次のように明確に定義されています。\n\n・事業とは、複数の業務のこと\n・業務とは、手作業とシステムのこと\n・システムとは、ハードウェアとソフトウェアのこと。ハードウェアはパソコンなど手で触れるもの、ソフトウェアはスマホの中のアプリなど手で実際に触れないもの\n\n上記のITパスポート特有の定義を知っているか否かで各問題の正答率が大きく変わるので、必ず覚えておいてください。",
+        "vi": "\"Sự nghiệp (事業)\" ở đây là gì? Nhiều người có thể hiểu \"mơ hồ\" ý nghĩa của từ này, nhưng trong kỳ thi IT Passport, nó được định nghĩa rõ ràng như sau:\n\n・Sự nghiệp (事業) là nhiều nghiệp vụ\n・Nghiệp vụ (業務) là công việc thủ công và hệ thống\n・Hệ thống (システム) là phần cứng và phần mềm. Phần cứng là những thứ có thể chạm tay như máy tính, phần mềm là những thứ không thể chạm tay thực sự như ứng dụng trong điện thoại\n\nViệc biết hay không biết các định nghĩa đặc trưng của IT Passport này sẽ ảnh hưởng lớn đến tỉ lệ trả lời đúng, vì vậy hãy nhớ kỹ.",
+        "en": "What is \"business\" here? Many people may understand the meaning vaguely, but in the IT Passport exam, it's clearly defined as follows:\n\n・Business is multiple operations\n・Operation is manual work and systems\n・System is hardware and software. Hardware is tangible things like computers, software is intangible things like apps in smartphones\n\nKnowing or not knowing these IT Passport-specific definitions greatly affects your correct answer rate, so be sure to remember them.",
+        "my": "ဒီမှာ \"Business (事業)\" ဆိုသည်မှာ ဘာလဲ။ လူအများစု အဓိပ္ပာယ်ကို မရှင်းမရှင်း နားလည်နိုင်သော်လည်း IT Passport စာမေးပွဲတွင် ရှင်းလင်းစွာ အဓိပ္ပာယ်ဖွင့်ဆိုထားသည်။",
+        "terms": [
+          {
+            "kanji": "事業",
+            "reading": "じぎょう"
+          },
+          {
+            "kanji": "何",
+            "reading": "なに"
+          },
+          {
+            "kanji": "多",
+            "reading": "た"
+          },
+          {
+            "kanji": "人",
+            "reading": "にん"
+          },
+          {
+            "kanji": "言葉",
+            "reading": "ことば"
+          },
+          {
+            "kanji": "意味",
+            "reading": "いみ"
+          },
+          {
+            "kanji": "理解",
+            "reading": "りかい"
+          },
+          {
+            "kanji": "思",
+            "reading": "おもい"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "次",
+            "reading": "つぎ"
+          },
+          {
+            "kanji": "明確",
+            "reading": "めいかく"
+          },
+          {
+            "kanji": "定義",
+            "reading": "ていぎ"
+          },
+          {
+            "kanji": "複数",
+            "reading": "ふくすう"
+          },
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "手作業",
+            "reading": "てさぎょう"
+          },
+          {
+            "kanji": "手",
+            "reading": "て"
+          },
+          {
+            "kanji": "触",
+            "reading": "しょく"
+          },
+          {
+            "kanji": "中",
+            "reading": "なか"
+          },
+          {
+            "kanji": "実際",
+            "reading": "じっさい"
+          },
+          {
+            "kanji": "上記",
+            "reading": "じょうき"
+          },
+          {
+            "kanji": "特有",
+            "reading": "とくゆう"
+          },
+          {
+            "kanji": "知",
+            "reading": "ち"
+          },
+          {
+            "kanji": "否",
+            "reading": "ひ"
+          },
+          {
+            "kanji": "各問題",
+            "reading": "かくもんだい"
+          },
+          {
+            "kanji": "正答率",
+            "reading": "せいとうりつ"
+          },
+          {
+            "kanji": "大",
+            "reading": "だい"
+          },
+          {
+            "kanji": "変",
+            "reading": "へん"
+          },
+          {
+            "kanji": "必",
+            "reading": "ひつ"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "職能別組織",
+      "reading": "しょくのうべつそしき",
+      "romaji": "Shokunou Betsu Soshiki",
+      "vi": "Tổ chức theo chức năng",
+      "en": "Functional Organization",
+      "my": "လုပ်ဆောင်ချက်အလိုက်အဖွဲ့အစည်း"
+    },
+    {
+      "kanji": "事業部制組織",
+      "reading": "じぎょうぶせいそしき",
+      "romaji": "Jigyoubu Sei Soshiki",
+      "vi": "Tổ chức theo bộ phận kinh doanh",
+      "en": "Divisional Organization",
+      "my": "ဤာနအလိုက်အဖွဲ့အစည်း"
+    },
+    {
+      "kanji": "事業",
+      "reading": "じぎょう",
+      "romaji": "Jigyou",
+      "vi": "Sự nghiệp, Kinh doanh",
+      "en": "Business",
+      "my": "လုပ်ငန်း"
+    },
+    {
+      "kanji": "業務",
+      "reading": "ぎょうむ",
+      "romaji": "Gyoumu",
+      "vi": "Nghiệp vụ, Hoạt động",
+      "en": "Operation, Work",
+      "my": "လုပ်ငန်းဆောင်တာများ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": false,
+    "has_learn_more": true,
+    "illustration": "org_chart_functional"
+  }
+}

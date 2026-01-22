@@ -1,0 +1,170 @@
+{
+    "page_id": 160,
+    "image": "p_0160.png",
+    "chapter": 4,
+    "section": "questions",
+    "page_number": 144,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "4-5",
+            "year": "令和5年度",
+            "question": {
+                "ja": "AIの活用領域の一つである自然言語処理が利用されている事例として、適切なものだけを全て挙げたものはどれか。",
+                "vi": "Trong số các ví dụ sử dụng xử lý ngôn ngữ tự nhiên là một lĩnh vực ứng dụng AI, đâu là những ví dụ phù hợp?",
+                "en": "Which are all appropriate examples using natural language processing, one of AI's application areas?"
+            },
+            "choices_description": {
+                "ja": "a. Webサイト上で、日本語の文章を入力すると即座に多言語に翻訳される。\nb. 災害時にSNSに投稿された文字情報をリアルタイムで収集し、地名と災害情報などを解析して被災状況を把握する。\nc. スマートスピーカーを利用して、音声によって家電の操作や音楽の再生を行う。\nd. 駐車場の出入口に設置したカメラでナンバープレートを撮影し、文字認識処理をし、精算済みの車両がゲートに近付くと自動で開く。",
+                "vi": "a. Trên website, nhập văn bản tiếng Nhật và dịch ngay sang nhiều ngôn ngữ.\nb. Thu thập realtime thông tin văn bản đăng SNS khi thiên tai, phân tích tên địa điểm và thông tin thiên tai để nắm tình hình thiệt hại.\nc. Sử dụng smart speaker để điều khiển thiết bị gia dụng và phát nhạc bằng giọng nói.\nd. Chụp biển số bằng camera đặt ở cổng bãi đỗ xe, xử lý nhận dạng chữ, tự động mở cổng khi xe đã thanh toán đến gần.",
+                "en": "a. On a website, input Japanese text and it's immediately translated to multiple languages.\nb. Collect real-time text information posted on SNS during disasters, analyze place names and disaster information to understand damage.\nc. Use smart speaker to control home appliances and play music by voice.\nd. Photograph license plates with cameras at parking lot entrance/exit, perform character recognition, automatically open gate when paid vehicles approach."
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "a, b, c",
+                    "vi": "a, b, c",
+                    "en": "a, b, c"
+                },
+                {
+                    "label": "イ",
+                    "ja": "a, b, d",
+                    "vi": "a, b, d",
+                    "en": "a, b, d",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "a, c, d",
+                    "vi": "a, c, d",
+                    "en": "a, c, d"
+                },
+                {
+                    "label": "エ",
+                    "ja": "b, c, d",
+                    "vi": "b, c, d",
+                    "en": "b, c, d"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-6",
+            "year": "令和元年度",
+            "question": {
+                "ja": "ディープラーニングに関する記述として、最も適切なものはどれか。",
+                "vi": "Đâu là mô tả phù hợp nhất về Deep Learning?",
+                "en": "Which is the most appropriate description of deep learning?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "営業、マーケティング、アフタサービスなどの顧客に関わる部門で情報や業務の流れを統合する仕組み",
+                    "vi": "Cơ chế tích hợp thông tin và luồng nghiệp vụ trong các bộ phận liên quan khách hàng như kinh doanh, marketing, dịch vụ hậu mãi",
+                    "en": "Mechanism integrating information and workflow in customer-related departments like sales, marketing, after-sales"
+                },
+                {
+                    "label": "イ",
+                    "ja": "コンピュータなどのデジタル機器、通信ネットワークを利用して実施される教育、学習、研修の形態",
+                    "vi": "Hình thức giáo dục, học tập, đào tạo thực hiện bằng thiết bị số như máy tính và mạng viễn thông",
+                    "en": "Form of education, learning, training conducted using digital devices like computers and communication networks"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "組織内の各個人がもつ知識やノウハウを組織全体で共有し、有効活用する仕組み",
+                    "vi": "Cơ chế chia sẻ và sử dụng hiệu quả kiến thức và know-how của mỗi cá nhân trong tổ chức trên toàn tổ chức",
+                    "en": "Mechanism sharing and effectively utilizing individual knowledge and know-how across the organization"
+                },
+                {
+                    "label": "エ",
+                    "ja": "大量のデータを人間の脳神経回路を模したモデルで解析することによって、コンピュータ自体がデータの特徴を抽出、学習する技術",
+                    "vi": "Công nghệ máy tính tự trích xuất và học đặc điểm dữ liệu bằng cách phân tích lượng lớn dữ liệu với mô hình mô phỏng mạch thần kinh não người",
+                    "en": "Technology where computers extract and learn data features by analyzing large amounts of data with models imitating human brain neural circuits",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-7",
+            "year": "令和7年度",
+            "question": {
+                "ja": "生成AIに関する記述として、最も適切なものはどれか。",
+                "vi": "Đâu là mô tả phù hợp nhất về Generative AI?",
+                "en": "Which is the most appropriate description of generative AI?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "一切の学習を必要とせずに、新しいコンテンツを生成する。",
+                    "vi": "Tạo nội dung mới mà không cần học gì.",
+                    "en": "Generates new content without any learning needed."
+                },
+                {
+                    "label": "イ",
+                    "ja": "過去のデータから項目間の相関などを学習したモデルを用いて、現在のデータから将来の値を予測して出力する。",
+                    "vi": "Sử dụng mô hình đã học tương quan giữa các mục từ dữ liệu quá khứ, dự đoán và xuất giá trị tương lai từ dữ liệu hiện tại.",
+                    "en": "Uses models that learned correlations between items from past data to predict and output future values from current data."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "作成したシナリオに基づいて動作するソフトウェアロボットによって、業務を自動化する。",
+                    "vi": "Tự động hóa nghiệp vụ bằng robot phần mềm hoạt động dựa trên kịch bản đã tạo.",
+                    "en": "Automates business using software robots that operate based on created scenarios."
+                },
+                {
+                    "label": "エ",
+                    "ja": "自然言語で指示された内容に従って、事前に学習したデータを基に、新しいコンテンツを生成する。",
+                    "vi": "Tạo nội dung mới dựa trên dữ liệu đã học trước theo nội dung được chỉ thị bằng ngôn ngữ tự nhiên.",
+                    "en": "Generates new content based on pre-learned data according to instructions given in natural language.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-8",
+            "year": "令和7年度",
+            "question": {
+                "ja": "生成AIにおいて、もっともらしいが事実とは異なる内容が出力されることを表す用語として、最も適切なものはどれか。",
+                "vi": "Trong Generative AI, thuật ngữ phù hợp nhất thể hiện việc xuất nội dung có vẻ đáng tin nhưng khác với sự thật là gì?",
+                "en": "In generative AI, which term most appropriately represents outputting plausible but factually incorrect content?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "エコーチェンバー",
+                    "vi": "Echo Chamber",
+                    "en": "Echo Chamber"
+                },
+                {
+                    "label": "イ",
+                    "ja": "シンギュラリティ",
+                    "vi": "Singularity",
+                    "en": "Singularity"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ディープフェイク",
+                    "vi": "Deepfake",
+                    "en": "Deepfake"
+                },
+                {
+                    "label": "エ",
+                    "ja": "ハルシネーション",
+                    "vi": "Hallucination",
+                    "en": "Hallucination",
+                    "correct": true
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "questions_covered": "4-5, 4-6, 4-7, 4-8",
+        "answers": "4-5: イ, 4-6: エ, 4-7: エ, 4-8: エ"
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "page_id": 269,
+    "image": "p_0269.png",
+    "chapter": 6,
+    "section": "practice",
+    "page_number": 253,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "6-13",
+            "year": "令和2年度",
+            "question": {
+                "ja": "納入されたソフトウェアの一連のテストの中で、開発を発注した利用者が主体となって実施するテストはどれか。",
+                "vi": "Trong chuỗi kiểm thử phần mềm đã giao, kiểm thử nào do người dùng đặt hàng phát triển làm chủ thể thực hiện?",
+                "en": "In the series of tests for delivered software, which test is primarily performed by users who ordered development?"
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "ja": "受入れテスト",
+                    "vi": "Acceptance Test",
+                    "en": "Acceptance Test"
+                },
+                {
+                    "id": "イ",
+                    "ja": "結合テスト",
+                    "vi": "Integration Test",
+                    "en": "Integration Test"
+                },
+                {
+                    "id": "ウ",
+                    "ja": "システムテスト",
+                    "vi": "System Test",
+                    "en": "System Test"
+                },
+                {
+                    "id": "エ",
+                    "ja": "単体テスト",
+                    "vi": "Unit Test",
+                    "en": "Unit Test"
+                }
+            ],
+            "correct_answer": "ア"
+        },
+        {
+            "type": "exam_question",
+            "number": "6-14",
+            "year": "平成29年度",
+            "question": {
+                "ja": "プログラムのテスト手法に関して、次の記述中のa、bに入れる字句の適切な組み合わせはどれか。",
+                "vi": "Về phương pháp kiểm thử chương trình, tổ hợp từ ngữ phù hợp điền vào a, b trong mô tả sau là gì?",
+                "en": "Regarding program test methods, what is the appropriate combination of words to fill in a, b in the following description?"
+            },
+            "description": {
+                "ja": "プログラムの内部構造に着目してテストケースを作成する技法を［a］と呼び、［b］において活用される。",
+                "vi": "Kỹ thuật tạo test case tập trung vào cấu trúc bên trong chương trình gọi là [a], được sử dụng trong [b].",
+                "en": "The technique to create test cases focusing on program's internal structure is called [a], used in [b]."
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "a": "ブラックボックステスト",
+                    "b": "システムテスト",
+                    "a_vi": "Black Box Test",
+                    "b_vi": "System Test",
+                    "a_en": "Black Box Test",
+                    "b_en": "System Test"
+                },
+                {
+                    "id": "イ",
+                    "a": "ブラックボックステスト",
+                    "b": "単体テスト",
+                    "a_vi": "Black Box Test",
+                    "b_vi": "Unit Test",
+                    "a_en": "Black Box Test",
+                    "b_en": "Unit Test"
+                },
+                {
+                    "id": "ウ",
+                    "a": "ホワイトボックステスト",
+                    "b": "システムテスト",
+                    "a_vi": "White Box Test",
+                    "b_vi": "System Test",
+                    "a_en": "White Box Test",
+                    "b_en": "System Test"
+                },
+                {
+                    "id": "エ",
+                    "a": "ホワイトボックステスト",
+                    "b": "単体テスト",
+                    "a_vi": "White Box Test",
+                    "b_vi": "Unit Test",
+                    "a_en": "White Box Test",
+                    "b_en": "Unit Test"
+                }
+            ],
+            "correct_answer": "エ"
+        },
+        {
+            "type": "exam_question",
+            "number": "6-15",
+            "year": "令和3年度",
+            "question": {
+                "ja": "既存のプログラムを、外側から見たソフトウェアの動きを変えずに内部構造を改善する活動として、最も適切なものはどれか。",
+                "vi": "Hoạt động nào phù hợp nhất để cải thiện cấu trúc bên trong mà không thay đổi hoạt động của phần mềm nhìn từ bên ngoài đối với chương trình hiện có?",
+                "en": "Which is most appropriate as an activity to improve internal structure without changing software behavior seen from outside for existing programs?"
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "ja": "テスト駆動開発",
+                    "vi": "Test Driven Development",
+                    "en": "Test Driven Development"
+                },
+                {
+                    "id": "イ",
+                    "ja": "ペアプログラミング",
+                    "vi": "Pair Programming",
+                    "en": "Pair Programming"
+                },
+                {
+                    "id": "ウ",
+                    "ja": "リバースエンジニアリング",
+                    "vi": "Reverse Engineering",
+                    "en": "Reverse Engineering"
+                },
+                {
+                    "id": "エ",
+                    "ja": "リファクタリング",
+                    "vi": "Refactoring",
+                    "en": "Refactoring"
+                }
+            ],
+            "correct_answer": "エ"
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 3
+    }
+}

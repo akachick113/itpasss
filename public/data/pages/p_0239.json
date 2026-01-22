@@ -1,0 +1,111 @@
+{
+    "page_id": 239,
+    "image": "p_0239.png",
+    "chapter": 6,
+    "section": "intro",
+    "page_number": 223,
+    "content": [
+        {
+            "type": "chapter_header",
+            "number": 6,
+            "title": {
+                "ja": "開発技術",
+                "vi": "Kỹ thuật phát triển",
+                "en": "Development Technology"
+            }
+        },
+        {
+            "type": "chapter_intro",
+            "box_title": {
+                "ja": "この章のポイント！",
+                "vi": "Điểm chính của chương này!",
+                "en": "Key Points of This Chapter!"
+            },
+            "content": {
+                "ja": "本章からは、マネジメント系分野に入っていきます。ここでは、システムの具体的な作り方を学びます。本章には「出題頻度の高い用語」が多く登場するので、ぜひ気持ちを新たにして、読み進めてください。ただ、本章の用語については、問題文によって用語の定義が統一されていないなど、受験者泣かせの一面もあるので注意が必要です。",
+                "vi": "Từ chương này, chúng ta sẽ đi vào lĩnh vực Quản lý. Ở đây, bạn sẽ học cách tạo hệ thống cụ thể. Trong chương này có nhiều \"thuật ngữ xuất hiện thường xuyên trong đề thi\", nên hãy làm mới tinh thần và tiếp tục đọc. Tuy nhiên, cần chú ý vì về thuật ngữ trong chương này, có mặt khó khăn cho thí sinh như định nghĩa thuật ngữ không thống nhất tùy theo câu hỏi.",
+                "en": "From this chapter, we enter the Management field. Here, you will learn how to specifically create systems. Many 'frequently appearing exam terms' appear in this chapter, so please refresh your mindset and continue reading. However, note that for terms in this chapter, there are aspects difficult for examinees such as term definitions not being unified depending on the question."
+            }
+        },
+        {
+            "type": "study_note",
+            "title": {
+                "ja": "ここに注目して読もう！",
+                "vi": "Hãy chú ý đọc những điểm này!",
+                "en": "Pay attention to these points while reading!"
+            },
+            "items": [
+                {
+                    "ja": "要件定義、システム設計、プログラミング、テスト、ソフトウェア保守などシステム開発のプロセスの基本的な流れ",
+                    "vi": "Luồng cơ bản của quy trình phát triển hệ thống như định nghĩa yêu cầu, thiết kế hệ thống, lập trình, kiểm thử, bảo trì phần mềm",
+                    "en": "Basic flow of system development processes such as requirements definition, system design, programming, testing, software maintenance"
+                },
+                {
+                    "ja": "代表的な開発モデルや開発手法に関する意義や目的",
+                    "vi": "Ý nghĩa và mục đích liên quan đến các mô hình phát triển và phương pháp phát triển tiêu biểu",
+                    "en": "Significance and purpose of representative development models and development methods"
+                }
+            ],
+            "reference": {
+                "ja": "公式のシラバス（出題範囲）に記載されている内容（一部抜粋）",
+                "vi": "Nội dung ghi trong syllabus chính thức (phạm vi ra đề) (trích một phần)",
+                "en": "Content listed in official syllabus (exam scope) (partial excerpt)",
+                "url": "https://www.jitec.ipa.go.jp/shiken/syllabus/nf10bi0000007sxy-att/syllabus_ip_ver6_4.pdf"
+            }
+        },
+        {
+            "type": "position_table",
+            "title": {
+                "ja": "試験範囲全体における本章の位置づけ",
+                "vi": "Vị trí của chương này trong toàn bộ phạm vi thi",
+                "en": "Position of this chapter in the entire exam scope"
+            },
+            "categories": [
+                {
+                    "field": {
+                        "ja": "ストラテジ系",
+                        "vi": "Lĩnh vực Chiến lược",
+                        "en": "Strategy"
+                    },
+                    "subcategories": [
+                        "企業と法務",
+                        "経営戦略",
+                        "システム戦略"
+                    ]
+                },
+                {
+                    "field": {
+                        "ja": "マネジメント系",
+                        "vi": "Lĩnh vực Quản lý",
+                        "en": "Management"
+                    },
+                    "subcategories": [
+                        "開発技術",
+                        "プロジェクトマネジメント",
+                        "サービスマネジメント"
+                    ],
+                    "current": "開発技術"
+                },
+                {
+                    "field": {
+                        "ja": "テクノロジ系",
+                        "vi": "Lĩnh vực Công nghệ",
+                        "en": "Technology"
+                    },
+                    "subcategories": [
+                        "コンピュータシステム",
+                        "技術要素"
+                    ]
+                }
+            ],
+            "note": {
+                "ja": "本章はココ！",
+                "vi": "Chương này ở đây!",
+                "en": "This chapter is here!"
+            }
+        }
+    ],
+    "meta": {
+        "is_chapter_intro": true
+    }
+}

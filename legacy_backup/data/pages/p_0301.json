@@ -1,0 +1,330 @@
+{
+  "page_id": 301,
+  "image": "p_0301.png",
+  "chapter": 8,
+  "section": "08-02",
+  "page_number": 285,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "ていない場合、契約を解除できます。",
+      "vi": "Có thể hủy hợp đồng.",
+      "en": "Can cancel contract.",
+      "terms": [
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "契約",
+          "reading": "けいやく"
+        },
+        {
+          "kanji": "解除",
+          "reading": "かいじょ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "また、サービス提供者側がSLAを作るメリットは、サービスの範囲と品質が明確になることです。サービスは無形の商品なので、範囲や品質を決めておかないときりがありません。もし、サービスレベルを無制限に高めようとすると、それを実現するためのコストも無制限に高くなります。",
+      "vi": "Ngoài ra, lợi ích khi phía nhà cung cấp dịch vụ tạo SLA là phạm vi và chất lượng dịch vụ được làm rõ. Vì dịch vụ là sản phẩm vô hình, nên nếu không quyết định phạm vi và chất lượng thì không có điểm dừng. Nếu muốn nâng Service Level vô hạn, chi phí để thực hiện điều đó cũng sẽ vô hạn.",
+      "en": "Also, benefit of service provider side creating SLA is that service scope and quality become clear. Since service is intangible product, without deciding scope and quality, there's no limit. If trying to raise Service Level unlimitedly, cost to achieve that also becomes unlimited.",
+      "terms": [
+        {
+          "kanji": "提供者側",
+          "reading": "ていきょうしゃがわ"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "範囲",
+          "reading": "はんい"
+        },
+        {
+          "kanji": "品質",
+          "reading": "ひんしつ"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "無形",
+          "reading": "むけい"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "無制限",
+          "reading": "むせいげん"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "次の一文はSLAの一例です。契約書なので少し堅い文章で書かれます。",
+      "vi": "Câu sau là ví dụ về SLA. Vì là hợp đồng nên được viết bằng văn phong hơi cứng nhắc.",
+      "en": "Following sentence is SLA example. Since it's contract, it's written in somewhat rigid style.",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "一文",
+          "reading": "いちぶん"
+        },
+        {
+          "kanji": "一例",
+          "reading": "いちれい"
+        },
+        {
+          "kanji": "契約書",
+          "reading": "けいやくしょ"
+        },
+        {
+          "kanji": "少",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "堅",
+          "reading": "けん"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        }
+      ]
+    },
+    {
+      "type": "example_box",
+      "title": {
+        "ja": "SLA（サービスレベル合意書）の一例",
+        "vi": "Ví dụ SLA (Thỏa thuận mức dịch vụ)",
+        "en": "SLA (Service Level Agreement) Example"
+      },
+      "content": {
+        "ja": "乙が監視するネットワークにおいて、回線異常を検知した場合には、検知した異常の内容を60分以内に甲に報告するものとする。",
+        "vi": "Trong mạng mà Bên B giám sát, nếu phát hiện bất thường đường truyền, sẽ báo cáo nội dung bất thường đã phát hiện cho Bên A trong vòng 60 phút.",
+        "en": "In network monitored by Party B, if line abnormality is detected, Party B shall report detected abnormality content to Party A within 60 minutes."
+      },
+      "source": "出典：ITパスポート試験 平成24年度"
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "SLM（サービスレベル管理）とは、サービスの提供者と利用者が合意した「サービスレベル」を維持・改善するための活動である",
+          "vi": "SLM (Service Level Management) là hoạt động duy trì và cải thiện \"Service Level\" mà nhà cung cấp và người dùng dịch vụ đã đồng ý",
+          "en": "SLM (Service Level Management) is activity to maintain/improve 'Service Level' agreed by service provider and user"
+        },
+        {
+          "ja": "SLMでは主にPDCAの手法を使ってサービスレベルを維持・改善する",
+          "vi": "SLM chủ yếu sử dụng phương pháp PDCA để duy trì và cải thiện Service Level",
+          "en": "SLM mainly uses PDCA method to maintain/improve Service Level"
+        },
+        {
+          "ja": "SLAとは、サービスレベルの合意書である",
+          "vi": "SLA là thỏa thuận về Service Level",
+          "en": "SLA is Service Level agreement"
+        },
+        {
+          "ja": "SLAの目的は、サービスの範囲と品質を明確にすることである",
+          "vi": "Mục đích của SLA là làm rõ phạm vi và chất lượng dịch vụ",
+          "en": "SLA's purpose is to clarify service scope and quality"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "可用性管理",
+      "reading": "かようせいかんり",
+      "vi": "Availability Management",
+      "en": "Availability Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "可用性管理とは、ユーザーが求めるサービスレベルのうちの「可用性を確保するための活動」です。",
+      "vi": "Availability Management là \"hoạt động đảm bảo Availability\" trong Service Level mà người dùng yêu cầu.",
+      "en": "Availability Management is 'activity to ensure Availability' among Service Level that users require.",
+      "terms": [
+        {
+          "kanji": "可用性管理",
+          "reading": "かようせいかんり"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "可用性",
+          "reading": "かようせい"
+        },
+        {
+          "kanji": "確保",
+          "reading": "かくほ"
+        },
+        {
+          "kanji": "活動",
+          "reading": "かつどう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "可用性とは「サービスを使いたいときに、使えること」です。具体例としては、サービスの提供時間や稼働率などが挙げられます。",
+      "vi": "Availability là \"có thể sử dụng khi muốn sử dụng dịch vụ\". Ví dụ cụ thể là thời gian cung cấp dịch vụ và tỷ lệ hoạt động.",
+      "en": "Availability is 'being able to use when wanting to use service.' Specific examples include service provision time and uptime rate.",
+      "terms": [
+        {
+          "kanji": "可用性",
+          "reading": "かようせい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "提供時間",
+          "reading": "ていきょうじかん"
+        },
+        {
+          "kanji": "稼働率",
+          "reading": "かどうりつ"
+        },
+        {
+          "kanji": "挙",
+          "reading": "きょ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "可用性という言葉は普段の生活ではあまり使うことがないので覚えにくいと思いますが、「使用することが可能である」＝「使いたいときに使える」と覚えてください。",
+      "vi": "Từ Availability không thường dùng trong cuộc sống hàng ngày nên khó nhớ, hãy nhớ rằng \"có thể sử dụng\" = \"có thể sử dụng khi muốn\".",
+      "en": "Availability isn't often used in daily life so it's hard to remember, but remember 'being able to use' = 'can use when wanted.'",
+      "terms": [
+        {
+          "kanji": "可用性",
+          "reading": "かようせい"
+        },
+        {
+          "kanji": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "kanji": "普段",
+          "reading": "ふだん"
+        },
+        {
+          "kanji": "生活",
+          "reading": "せいかつ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "可用性管理とは、可用性を確保するための活動である",
+          "vi": "Availability Management là hoạt động đảm bảo Availability",
+          "en": "Availability Management is activity to ensure Availability"
+        },
+        {
+          "ja": "可用性とは、サービスを利用したいときに利用できることである",
+          "vi": "Availability là có thể sử dụng dịch vụ khi muốn sử dụng",
+          "en": "Availability is being able to use service when wanting to use"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "可用性",
+      "reading": "かようせい",
+      "romaji": "Kayousei",
+      "vi": "Khả dụng",
+      "en": "Availability",
+      "my": "အသုံးပြုနိုင်မှု"
+    },
+    {
+      "kanji": "可用性管理",
+      "reading": "かようせいかんり",
+      "romaji": "Kayousei Kanri",
+      "vi": "Quản lý khả dụng",
+      "en": "Availability Management",
+      "my": "အသုံးပြုနိုင်မှု မန်နေ့ဂျမန့်"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true
+  }
+}

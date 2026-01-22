@@ -1,0 +1,363 @@
+{
+  "page_id": 156,
+  "image": "p_0156.png",
+  "chapter": 4,
+  "section": "04-02",
+  "page_number": 140,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "生成AI",
+      "reading": "せいせいえーあい",
+      "vi": "Generative AI",
+      "en": "Generative AI",
+      "my": "Generative AI"
+    },
+    {
+      "type": "paragraph",
+      "ja": "生成AI（Generative Artificial Intelligence）とは、特定の指示を受けて、事前の学習データを基にして、オリジナルのコンテンツを自動的に生成するAIです。生成AIの構築にはディープラーニングが用いられます。\n\n生成AIは、特定の指示を受け取ると、その指示に従って、テキスト、音声、画像、動画などの新しいコンテンツを自動的に生成します。生成AIが出力するコンテンツの具体例としては、プログラム、アート作品、楽曲、アニメーションなどがあります。",
+      "vi": "Generative AI là AI tự động tạo nội dung gốc dựa trên dữ liệu học trước khi nhận chỉ thị cụ thể. Deep Learning được sử dụng để xây dựng Generative AI.\n\nGenerative AI nhận chỉ thị cụ thể và tự động tạo nội dung mới như văn bản, giọng nói, hình ảnh, video theo chỉ thị đó. Ví dụ cụ thể nội dung Generative AI xuất ra gồm chương trình, tác phẩm nghệ thuật, nhạc, animation.",
+      "en": "Generative AI automatically generates original content based on prior learning data when given specific instructions. Deep learning is used to build generative AI.\n\nGenerative AI receives specific instructions and automatically generates new content like text, audio, images, videos according to those instructions. Specific examples of generative AI output include programs, artwork, music, animations.",
+      "my": "Generative AI သည် တိကျသော ညွှန်ကြားချက်များ ပေးသောအခါ ကြိုတင်သင်ယူထားသော ဒေတာကို အခြေခံ၍ မူရင်းအကြောင်းအရာကို အလိုအလျောက် ဖန်တီးသည်။",
+      "terms": [
+        {
+          "kanji": "生成",
+          "reading": "せいせい"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "指示",
+          "reading": "しじ"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "事前",
+          "reading": "じぜん"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "基",
+          "reading": "もと"
+        },
+        {
+          "kanji": "自動的",
+          "reading": "じどうてき"
+        },
+        {
+          "kanji": "構築",
+          "reading": "こうちく"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "従",
+          "reading": "じゅう"
+        },
+        {
+          "kanji": "音声",
+          "reading": "おんせい"
+        },
+        {
+          "kanji": "画像",
+          "reading": "がぞう"
+        },
+        {
+          "kanji": "動画",
+          "reading": "どうが"
+        },
+        {
+          "kanji": "新",
+          "reading": "あたら"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "作品",
+          "reading": "さくひん"
+        },
+        {
+          "kanji": "楽曲",
+          "reading": "がっきょく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "プロンプト",
+      "vi": "Prompt",
+      "en": "Prompt"
+    },
+    {
+      "type": "paragraph",
+      "ja": "プロンプトとは、生成AIに与える指示です。例えば、生成AIに「ITパスポート試験の合格方法を教えて」という指示を出すと、それに基づいて、合格方法について説明する文章が生成されます。\n\n生成AIでは、プロンプトの与え方によって、生成されるコンテンツの品質が変わることがあります。そのため、コンテンツの生成においてプロンプトは非常に重要です。プロンプトを最適化することを「プロンプトエンジニアリング」といいます。",
+      "vi": "Prompt là chỉ thị cho Generative AI. Ví dụ, nếu ra chỉ thị cho Generative AI Dạy cách đậu IT Passport, văn bản giải thích cách đậu sẽ được tạo dựa trên chỉ thị đó.\n\nTrong Generative AI, chất lượng nội dung tạo ra có thể thay đổi tùy cách cho prompt. Do đó, prompt rất quan trọng trong việc tạo nội dung. Tối ưu hóa prompt gọi là Prompt Engineering.",
+      "en": "Prompt is an instruction given to generative AI. For example, if you instruct generative AI 'Teach me how to pass IT Passport exam', text explaining how to pass will be generated based on that.\n\nIn generative AI, content quality can change depending on how prompts are given. Therefore, prompts are very important in content generation. Optimizing prompts is called 'Prompt Engineering'.",
+      "my": "Prompt သည် generative AI ကို ပေးသော ညွှန်ကြားချက်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "生成",
+          "reading": "せいせい"
+        },
+        {
+          "kanji": "与",
+          "reading": "よ"
+        },
+        {
+          "kanji": "指示",
+          "reading": "しじ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "合格方法",
+          "reading": "ごうかくほうほう"
+        },
+        {
+          "kanji": "教",
+          "reading": "きょう"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "基",
+          "reading": "もと"
+        },
+        {
+          "kanji": "説明",
+          "reading": "せつめい"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "方",
+          "reading": "かた"
+        },
+        {
+          "kanji": "品質",
+          "reading": "ひんしつ"
+        },
+        {
+          "kanji": "変",
+          "reading": "へん"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "最適化",
+          "reading": "さいてきか"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ディープフェイクとハルシネーション",
+      "reading": "でぃーぷふぇいくとはるしねーしょん",
+      "vi": "Deepfake và Hallucination",
+      "en": "Deepfake and Hallucination",
+      "my": "Deepfake နှင့် Hallucination"
+    },
+    {
+      "type": "paragraph",
+      "ja": "非常に有用な生成AIですが、生成AIの進化と共にディープフェイクのような問題点も浮上してきました。\n\nディープフェイク（Deepfake）とは、本物と見分けがつかないような偽物の音声や動画などを作成する手法です。ディープフェイクは、ディープラーニングとフェイク（偽物）を合わせた造語です。実際にこの技術を用いて、著名人が実際には言っていないことを、あたかも言っているかのように見せる動画などが作られています。\n\nディープフェイクの登場によって、情報の信頼性やプライバシーの侵害に関する問題が引き起こされています。",
+      "vi": "Generative AI rất hữu ích, nhưng cùng với sự tiến hóa của Generative AI, vấn đề như Deepfake cũng xuất hiện.\n\nDeepfake là phương pháp tạo giọng nói hoặc video giả không phân biệt được với thật. Deepfake là từ ghép của Deep Learning và Fake (giả). Thực tế, sử dụng công nghệ này, video được tạo ra khiến người nổi tiếng nói những điều họ thực sự không nói.\n\nVới sự xuất hiện của Deepfake, các vấn đề về độ tin cậy thông tin và xâm phạm quyền riêng tư đã phát sinh.",
+      "en": "Generative AI is very useful, but problems like deepfakes have emerged with AI evolution.\n\nDeepfake is a method creating fake audio or videos indistinguishable from real ones. Deepfake is a coined word combining Deep Learning and Fake. Actually, this technology is used to create videos making celebrities appear to say things they never said.\n\nWith deepfakes' emergence, issues about information reliability and privacy invasion have arisen.",
+      "my": "Generative AI သည် အလွန်အသုံးဝင်သော်လည်း AI ဆင့်ကဲဖြစ်စဉ်နှင့်အတူ deepfakes ကဲ့သို့သော ပြဿနာများ ပေါ်ပေါက်လာသည်။",
+      "terms": [
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "有用",
+          "reading": "ゆうよう"
+        },
+        {
+          "kanji": "生成",
+          "reading": "せいせい"
+        },
+        {
+          "kanji": "進化",
+          "reading": "しんか"
+        },
+        {
+          "kanji": "共",
+          "reading": "とも"
+        },
+        {
+          "kanji": "問題点",
+          "reading": "もんだいてん"
+        },
+        {
+          "kanji": "浮上",
+          "reading": "ふじょう"
+        },
+        {
+          "kanji": "本物",
+          "reading": "ほんもの"
+        },
+        {
+          "kanji": "見分",
+          "reading": "みわけ"
+        },
+        {
+          "kanji": "偽物",
+          "reading": "にせもの"
+        },
+        {
+          "kanji": "音声",
+          "reading": "おんせい"
+        },
+        {
+          "kanji": "動画",
+          "reading": "どうが"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "造語",
+          "reading": "ぞうご"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "著名人",
+          "reading": "ちょめいじん"
+        },
+        {
+          "kanji": "言",
+          "reading": "い"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "信頼性",
+          "reading": "しんらいせい"
+        },
+        {
+          "kanji": "侵害",
+          "reading": "しんがい"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "引",
+          "reading": "ひき"
+        },
+        {
+          "kanji": "起",
+          "reading": "お"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "生成AI",
+      "reading": "せいせいえーあい",
+      "romaji": "Seisei AI",
+      "vi": "AI tạo sinh",
+      "en": "Generative AI",
+      "my": "Generative AI"
+    },
+    {
+      "kanji": "プロンプト",
+      "reading": "ぷろんぷと",
+      "romaji": "Prompt",
+      "vi": "Prompt (chỉ thị)",
+      "en": "Prompt",
+      "my": "Prompt"
+    },
+    {
+      "kanji": "ディープフェイク",
+      "reading": "でぃーぷふぇいく",
+      "romaji": "Deepfake",
+      "vi": "Deepfake (giả mạo sâu)",
+      "en": "Deepfake",
+      "my": "Deepfake"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true
+  }
+}

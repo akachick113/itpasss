@@ -1,0 +1,566 @@
+{
+  "page_id": 563,
+  "image": "p_0563.png",
+  "chapter": 15,
+  "section": "15-04",
+  "page_number": 547,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "共通鍵を用いて暗号化すると、暗号化された文章を他者（上図では次郎くん）は読むことができません。一方で、暗号化で使ったものと同じ鍵を持っている花子さんは文章を復号できるので、文章を読むことができます。",
+      "vi": "Khi mã hóa bằng khóa chung, người khác (Jiro trong hình trên) không thể đọc văn bản đã mã hóa. Mặt khác, Hanako có cùng khóa đã sử dụng để mã hóa có thể giải mã nên có thể đọc văn bản.",
+      "en": "When encrypting with shared key, others (Jiro in figure above) cannot read encrypted text. On other hand, Hanako who has same key used for encryption can decrypt so can read text.",
+      "terms": [
+        {
+          "kanji": "共通鍵",
+          "reading": "きょうつうかぎ"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "他者",
+          "reading": "たしゃ"
+        },
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "次郎",
+          "reading": "じろう"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "鍵",
+          "reading": "かぎ"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "花子",
+          "reading": "はなこ"
+        },
+        {
+          "kanji": "復号",
+          "reading": "ふくごう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "前ページの図のように、暗号化と復号で同じ鍵を使って文章を暗号化したり、復号したりする技術を「共通鍵暗号方式」といいます。",
+      "vi": "Như hình ở trang trước, công nghệ mã hóa và giải mã văn bản bằng cùng một khóa được gọi là \"Phương thức mã hóa khóa chung\".",
+      "en": "As shown in previous page's figure, technology encrypting and decrypting text using same key is called 'Symmetric Key Encryption.'",
+      "terms": [
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "復号",
+          "reading": "ふくごう"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "鍵",
+          "reading": "かぎ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "共通鍵暗号方式",
+          "reading": "きょうつうかぎあんごうほうしき"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "共通鍵暗号方式の欠点",
+      "vi": "Nhược điểm của phương thức mã hóa khóa chung",
+      "en": "Disadvantages of Symmetric Key Encryption"
+    },
+    {
+      "type": "paragraph",
+      "ja": "共通鍵暗号方式の欠点は「相手に確実・安全に共通鍵を送る方法がない」ということです。先述したように、共通鍵暗号方式では「暗号化に使用した鍵があれば、誰でも文章を復号できる」ため、鍵が第三者に奪われてしまうと暗号化した意味がなくなります。文章を読ませたい人にだけ、共通鍵を渡す必要があります。",
+      "vi": "Nhược điểm của phương thức mã hóa khóa chung là \"không có cách gửi khóa chung đến đối phương một cách chắc chắn và an toàn\". Như đã nói, trong phương thức mã hóa khóa chung \"nếu có khóa đã sử dụng để mã hóa, bất kỳ ai cũng có thể giải mã\", nên nếu khóa bị bên thứ ba chiếm đoạt thì việc mã hóa mất ý nghĩa. Cần gửi khóa chung chỉ cho người muốn đọc văn bản.",
+      "en": "Disadvantage of Symmetric Key Encryption is 'no way to send shared key to recipient surely and safely.' As mentioned, in Symmetric Key Encryption 'if have key used for encryption, anyone can decrypt,' so if key is taken by third party, encryption loses meaning. Need to give shared key only to person who should read text.",
+      "terms": [
+        {
+          "kanji": "共通鍵暗号方式",
+          "reading": "きょうつうかぎあんごうほうしき"
+        },
+        {
+          "kanji": "欠点",
+          "reading": "けってん"
+        },
+        {
+          "kanji": "相手",
+          "reading": "あいて"
+        },
+        {
+          "kanji": "確実",
+          "reading": "かくじつ"
+        },
+        {
+          "kanji": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "kanji": "共通鍵",
+          "reading": "きょうつうかぎ"
+        },
+        {
+          "kanji": "送",
+          "reading": "そう"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "先述",
+          "reading": "せんじゅつ"
+        },
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "鍵",
+          "reading": "かぎ"
+        },
+        {
+          "kanji": "誰",
+          "reading": "だれ"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "復号",
+          "reading": "ふくごう"
+        },
+        {
+          "kanji": "第三者",
+          "reading": "だいさんしゃ"
+        },
+        {
+          "kanji": "奪",
+          "reading": "だつ"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "しかし、実はこの「鍵を送る作業」が大変なのです。セキュリティ上の大きなさまざまな脅威があるため、文章を読ませたい人にだけ、共通鍵を渡す必要があります。共通鍵を安全に送ることができるのであれば、わざわざ文章を暗号化する必要もありません。その方法（共通鍵を安全に送る方法）で、平文の手紙を送ればよいのですから。これが共通鍵暗号方式の決定的な欠点です。",
+      "vi": "Tuy nhiên, thực tế \"công việc gửi khóa\" này rất khó. Vì có nhiều mối đe dọa bảo mật lớn, cần gửi khóa chung chỉ cho người muốn đọc văn bản. Nếu có thể gửi khóa chung an toàn, không cần phải mã hóa văn bản. Bởi vì có thể gửi thư văn bản gốc bằng phương pháp đó (phương pháp gửi khóa chung an toàn). Đây là nhược điểm quyết định của phương thức mã hóa khóa chung.",
+      "en": "However, actually 'work of sending key' is difficult. Due to many large security threats, need to give shared key only to person who should read text. If can send shared key safely, no need to bother encrypting text. Can just send plaintext letter using that method (method to safely send shared key). This is decisive disadvantage of Symmetric Key Encryption.",
+      "terms": [
+        {
+          "kanji": "実",
+          "reading": "み"
+        },
+        {
+          "kanji": "鍵",
+          "reading": "かぎ"
+        },
+        {
+          "kanji": "送",
+          "reading": "そう"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "大変",
+          "reading": "たいへん"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "脅威",
+          "reading": "きょうい"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "共通鍵",
+          "reading": "きょうつうかぎ"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "平文",
+          "reading": "へいぶん"
+        },
+        {
+          "kanji": "手紙",
+          "reading": "てがみ"
+        },
+        {
+          "kanji": "共通鍵暗号方式",
+          "reading": "きょうつうかぎあんごうほうしき"
+        },
+        {
+          "kanji": "決定的",
+          "reading": "けっていてき"
+        },
+        {
+          "kanji": "欠点",
+          "reading": "けってん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "公開鍵暗号方式",
+      "vi": "Phương thức mã hóa khóa công khai",
+      "en": "Public Key Encryption"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "公開鍵暗号方式",
+        "vi": "Phương thức mã hóa khóa công khai",
+        "en": "Public Key Encryption"
+      },
+      "definition": {
+        "ja": "共通鍵暗号方式の欠点を補うべく登場したのが、公開鍵暗号方式です。公開鍵暗号方式とは、公開鍵と秘密鍵の2つの鍵を使う暗号化方式です。",
+        "vi": "Để bù đắp nhược điểm của phương thức mã hóa khóa chung, phương thức mã hóa khóa công khai đã ra đời. Phương thức mã hóa khóa công khai là phương thức mã hóa sử dụng 2 khóa: khóa công khai và khóa bí mật.",
+        "en": "Public Key Encryption appeared to compensate for Symmetric Key Encryption's disadvantages. Public Key Encryption is encryption method using 2 keys: public key and private key."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "公開鍵暗号方式の最大の特徴は、共通鍵暗号方式では必ず死に繋いでいた「鍵」を公開してしまう点にあります。では、公開した鍵でいいのしょうか。このように文章を読めなくするのでしょうか。",
+      "vi": "Đặc điểm lớn nhất của phương thức mã hóa khóa công khai là công khai \"khóa\" mà trong phương thức mã hóa khóa chung phải giữ bí mật. Vậy khóa công khai có được không. Làm sao để làm văn bản không đọc được như vậy.",
+      "en": "Greatest feature of Public Key Encryption is making 'key' public, which had to be kept secret in Symmetric Key Encryption. Then is public key okay. How does this make text unreadable.",
+      "terms": [
+        {
+          "kanji": "公開鍵暗号方式",
+          "reading": "こうかいかぎあんごうほうしき"
+        },
+        {
+          "kanji": "最大",
+          "reading": "さいだい"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "共通鍵暗号方式",
+          "reading": "きょうつうかぎあんごうほうしき"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "死",
+          "reading": "し"
+        },
+        {
+          "kanji": "繋",
+          "reading": "けい"
+        },
+        {
+          "kanji": "鍵",
+          "reading": "かぎ"
+        },
+        {
+          "kanji": "公開",
+          "reading": "こうかい"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "鍵の種類",
+        "vi": "Loại khóa",
+        "en": "Key Types"
+      },
+      "headers": {
+        "ja": [
+          "種類",
+          "説明"
+        ],
+        "vi": [
+          "Loại",
+          "Giải thích"
+        ],
+        "en": [
+          "Type",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "term": {
+            "ja": "公開鍵",
+            "vi": "Khóa công khai",
+            "en": "Public Key"
+          },
+          "description": {
+            "ja": "誰でも入手できる鍵。また、いくつでも複製できる。",
+            "vi": "Khóa mà ai cũng có thể lấy. Có thể sao chép bao nhiêu cũng được.",
+            "en": "Key anyone can obtain. Also, can be duplicated any number of times."
+          }
+        },
+        {
+          "term": {
+            "ja": "秘密鍵",
+            "vi": "Khóa bí mật",
+            "en": "Private Key"
+          },
+          "description": {
+            "ja": "自分以外の誰にも知られていない、1つしかない鍵。",
+            "vi": "Khóa duy nhất mà không ai ngoài bản thân biết.",
+            "en": "Only key that no one else knows."
+          }
+        }
+      ],
+      "note": {
+        "ja": "誰でも入手できる！？どうやって情報を守るの！？",
+        "vi": "Ai cũng có thể lấy!? Làm sao bảo vệ thông tin!?",
+        "en": "Anyone can obtain!? How to protect information!?"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "公開鍵暗号方式の仕組み",
+      "vi": "Cơ chế của phương thức mã hóa khóa công khai",
+      "en": "Mechanism of Public Key Encryption"
+    },
+    {
+      "type": "paragraph",
+      "ja": "公開鍵暗号方式では、公開鍵を使って平文を暗号化します。一方で、暗号文は秘密鍵を使って復号します。",
+      "vi": "Trong phương thức mã hóa khóa công khai, sử dụng khóa công khai để mã hóa văn bản gốc. Mặt khác, văn bản mã hóa được giải mã bằng khóa bí mật.",
+      "en": "In Public Key Encryption, use public key to encrypt plaintext. On other hand, ciphertext is decrypted using private key.",
+      "terms": [
+        {
+          "kanji": "公開鍵暗号方式",
+          "reading": "こうかいかぎあんごうほうしき"
+        },
+        {
+          "kanji": "公開鍵",
+          "reading": "こうかいかぎ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "平文",
+          "reading": "へいぶん"
+        },
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "暗号文",
+          "reading": "あんごうぶん"
+        },
+        {
+          "kanji": "秘密鍵",
+          "reading": "ひみつかぎ"
+        },
+        {
+          "kanji": "復号",
+          "reading": "ふくごう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここで重要なのが、公開鍵暗号方式における暗号化と復号は「ペアとなった鍵」でしか行えない、ということです。これは公開鍵暗号方式の大原則となる仕組みなので、しっかりと覚えておいてください。",
+      "vi": "Điều quan trọng ở đây là trong phương thức mã hóa khóa công khai, mã hóa và giải mã chỉ có thể thực hiện với \"khóa thành cặp\". Đây là cơ chế nguyên tắc cơ bản của phương thức mã hóa khóa công khai, hãy nhớ kỹ.",
+      "en": "Important here is that in Public Key Encryption, encryption and decryption can only be done with 'paired keys.' This is fundamental principle mechanism of Public Key Encryption, remember it well.",
+      "terms": [
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "公開鍵暗号方式",
+          "reading": "こうかいかぎあんごうほうしき"
+        },
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "復号",
+          "reading": "ふくごう"
+        },
+        {
+          "kanji": "鍵",
+          "reading": "かぎ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "大原則",
+          "reading": "だいげんそく"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "公開鍵",
+      "vi": "Khóa công khai",
+      "en": "Public Key",
+      "my": "အများသို့သော့ချက်"
+    },
+    {
+      "term": "秘密鍵",
+      "vi": "Khóa bí mật",
+      "en": "Private Key",
+      "my": "ကိုယ်ပိုင်သော့ချက်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "is_key_content": true
+  }
+}

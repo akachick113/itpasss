@@ -1,0 +1,335 @@
+{
+  "page_id": 564,
+  "image": "p_0564.png",
+  "chapter": 15,
+  "section": "15-04",
+  "page_number": 548,
+  "content": [
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "公開鍵暗号方式の大原則",
+        "vi": "Nguyên tắc cơ bản của phương thức mã hóa khóa công khai",
+        "en": "Fundamental Principle of Public Key Encryption"
+      },
+      "content": {
+        "ja": "公開鍵で暗号化した文章は、その公開鍵とペアになっている秘密鍵でしか復号できない。",
+        "vi": "Văn bản được mã hóa bằng khóa công khai chỉ có thể giải mã bằng khóa bí mật ghép cặp với khóa công khai đó.",
+        "en": "Text encrypted with public key can only be decrypted with private key paired with that public key."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "この大原則を説明するために、公開鍵暗号方式で手紙を暗号化して花子さんへ送ってみましょう。今回のケースでは最初に花子さんが次の作業を行います。",
+      "vi": "Để giải thích nguyên tắc cơ bản này, hãy thử mã hóa thư bằng phương thức mã hóa khóa công khai và gửi cho Hanako. Trong trường hợp này, đầu tiên Hanako thực hiện các công việc sau.",
+      "en": "To explain this fundamental principle, let's encrypt letter with Public Key Encryption and send to Hanako. In this case, first Hanako performs following tasks.",
+      "terms": [
+        {
+          "kanji": "大原則",
+          "reading": "だいげんそく"
+        },
+        {
+          "kanji": "説明",
+          "reading": "せつめい"
+        },
+        {
+          "kanji": "公開鍵暗号方式",
+          "reading": "こうかいかぎあんごうほうしき"
+        },
+        {
+          "kanji": "手紙",
+          "reading": "てがみ"
+        },
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "花子",
+          "reading": "はなこ"
+        },
+        {
+          "kanji": "送",
+          "reading": "おく"
+        },
+        {
+          "kanji": "今回",
+          "reading": "こんかい"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "ja": "花子さんがペアとなる2つの鍵（公開鍵と秘密鍵）を作る",
+          "vi": "Hanako tạo 2 khóa thành cặp (khóa công khai và khóa bí mật)",
+          "en": "Hanako creates 2 paired keys (public key and private key)"
+        },
+        {
+          "ja": "公開鍵は公開して全員に渡し、秘密鍵は花子さんのみが自分で保管する",
+          "vi": "Khóa công khai được công khai và gửi cho tất cả, khóa bí mật chỉ Hanako tự bảo quản",
+          "en": "Public key is published and given to everyone, private key is kept only by Hanako herself"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "これによって、下図の3人が持っている鍵はそれぞれ次のようになります。",
+      "vi": "Nhờ đó, khóa mà 3 người trong hình dưới đang giữ như sau.",
+      "en": "As result, keys held by 3 people in figure below are as follows.",
+      "terms": [
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "鍵",
+          "reading": "かぎ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "太郎くん：花子さんが作った公開鍵",
+          "vi": "Taro: Khóa công khai do Hanako tạo",
+          "en": "Taro: Public key created by Hanako"
+        },
+        {
+          "ja": "次郎くん：花子さんが作った公開鍵",
+          "vi": "Jiro: Khóa công khai do Hanako tạo",
+          "en": "Jiro: Public key created by Hanako"
+        },
+        {
+          "ja": "花子さん：自分で作った秘密鍵",
+          "vi": "Hanako: Khóa bí mật do mình tạo",
+          "en": "Hanako: Private key created by herself"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "公開鍵と秘密鍵",
+        "vi": "Khóa công khai và khóa bí mật",
+        "en": "Public Key and Private Key"
+      },
+      "description": {
+        "ja": "秘密鍵は作った本人のみが持つ。公開鍵は誰でも入手可。太郎くんと次郎くんは花子さんの公開鍵を持っている。花子さんは自分で作った秘密鍵を持っている。",
+        "vi": "Khóa bí mật chỉ người tạo mới có. Khóa công khai ai cũng có thể lấy. Taro và Jiro có khóa công khai của Hanako. Hanako có khóa bí mật do mình tạo.",
+        "en": "Private key only held by creator. Public key available to anyone. Taro and Jiro have Hanako's public key. Hanako has private key she created."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "花子さんが作った公開鍵は公開されているので誰でも入手できます。そのため、誰でも文章を暗号化できます。太郎くんも、次郎くんも暗号化できます。",
+      "vi": "Khóa công khai do Hanako tạo được công khai nên ai cũng có thể lấy. Vì vậy, ai cũng có thể mã hóa văn bản. Cả Taro và Jiro đều có thể mã hóa.",
+      "en": "Public key created by Hanako is published so anyone can obtain it. Therefore, anyone can encrypt text. Both Taro and Jiro can encrypt.",
+      "terms": [
+        {
+          "kanji": "花子",
+          "reading": "はなこ"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "公開鍵",
+          "reading": "こうかいかぎ"
+        },
+        {
+          "kanji": "公開",
+          "reading": "こうかい"
+        },
+        {
+          "kanji": "誰",
+          "reading": "だれ"
+        },
+        {
+          "kanji": "入手",
+          "reading": "にゅうしゅ"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "太郎",
+          "reading": "たろう"
+        },
+        {
+          "kanji": "次郎",
+          "reading": "じろう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方で、秘密鍵は花子さんしか持っていません。そのため、暗号化された文章を復号できるのは花子さんだけです。",
+      "vi": "Mặt khác, chỉ Hanako có khóa bí mật. Vì vậy, chỉ Hanako có thể giải mã văn bản đã mã hóa.",
+      "en": "On other hand, only Hanako has private key. Therefore, only Hanako can decrypt encrypted text.",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "秘密鍵",
+          "reading": "ひみつかぎ"
+        },
+        {
+          "kanji": "花子",
+          "reading": "はなこ"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "復号",
+          "reading": "ふくごう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "この「暗号化は誰でもできるが、復号は特定の人しかできない」というのが、公開鍵暗号方式の最も重要な仕組みです。この仕組みによって、共通鍵暗号方式の欠点であった「誰にも知られてはいけない鍵を送る」作業を行うことなく、平文を暗号化し、相手に届けることができます。",
+      "vi": "\"Ai cũng có thể mã hóa, nhưng chỉ người cụ thể mới có thể giải mã\" là cơ chế quan trọng nhất của phương thức mã hóa khóa công khai. Nhờ cơ chế này, có thể mã hóa văn bản gốc và gửi đến đối phương mà không cần thực hiện công việc \"gửi khóa mà không ai được biết\" - vốn là nhược điểm của phương thức mã hóa khóa chung.",
+      "en": "'Anyone can encrypt, but only specific person can decrypt' is most important mechanism of Public Key Encryption. With this mechanism, can encrypt plaintext and deliver to recipient without performing 'sending key that no one should know' work, which was disadvantage of Symmetric Key Encryption.",
+      "terms": [
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "誰",
+          "reading": "だれ"
+        },
+        {
+          "kanji": "復号",
+          "reading": "ふくごう"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "公開鍵暗号方式",
+          "reading": "こうかいかぎあんごうほうしき"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "共通鍵暗号方式",
+          "reading": "きょうつうかぎあんごうほうしき"
+        },
+        {
+          "kanji": "欠点",
+          "reading": "けってん"
+        },
+        {
+          "kanji": "知",
+          "reading": "ち"
+        },
+        {
+          "kanji": "鍵",
+          "reading": "かぎ"
+        },
+        {
+          "kanji": "送",
+          "reading": "おく"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "平文",
+          "reading": "へいぶん"
+        },
+        {
+          "kanji": "相手",
+          "reading": "あいて"
+        },
+        {
+          "kanji": "届",
+          "reading": "とどけ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ペアとなった鍵",
+      "vi": "Khóa thành cặp",
+      "en": "Paired Keys",
+      "my": "တွဲချက်သော့"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

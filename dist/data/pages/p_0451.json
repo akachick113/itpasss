@@ -1,0 +1,284 @@
+{
+  "page_id": 451,
+  "image": "p_0451.png",
+  "chapter": 12,
+  "section": "12-03",
+  "page_number": 435,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "12-03",
+      "title": {
+        "ja": "バックアップ",
+        "vi": "Sao lưu",
+        "en": "Backup"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "予備があると安心",
+        "vi": "Có dự phòng thì yên tâm",
+        "en": "Having Backup is Reassuring"
+      },
+      "content": {
+        "ja": "トイレットペーパーやシャンプーなどの日用品にもいえることですが、どのようなものでも予備があると安心です。これはデータも同じです。予備があると、いざというときに安心です。",
+        "vi": "Điều này cũng đúng với các vật dụng hàng ngày như giấy vệ sinh và dầu gội, có dự phòng cho bất cứ thứ gì đều yên tâm. Với dữ liệu cũng vậy. Có dự phòng thì lúc cần sẽ yên tâm.",
+        "en": "This is true for daily items like toilet paper and shampoo - having backup for anything is reassuring. Same with data. Having backup is reassuring in emergencies."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "システムには、業務上とても大切なデータが多数保存されています。そのため、データをしっかりと守ることが大切です。システムも機械なので、いつかは故障します。また、ユーザーの誤操作も完全には防げません。",
+      "vi": "Hệ thống lưu trữ nhiều dữ liệu rất quan trọng cho công việc. Vì vậy, việc bảo vệ dữ liệu cẩn thận là rất quan trọng. Hệ thống cũng là máy móc nên sẽ hỏng vào lúc nào đó. Ngoài ra, không thể ngăn chặn hoàn toàn thao tác sai của người dùng.",
+      "en": "System stores many important data for business. Therefore, protecting data carefully is important. System is also machine so will eventually fail. Also, cannot completely prevent user operational errors.",
+      "terms": [
+        {
+          "kanji": "業務上",
+          "reading": "ぎょうむじょう"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "kanji": "多数保存",
+          "reading": "たすうほぞん"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "機械",
+          "reading": "きかい"
+        },
+        {
+          "kanji": "故障",
+          "reading": "こしょう"
+        },
+        {
+          "kanji": "誤操作",
+          "reading": "ごそうさ"
+        },
+        {
+          "kanji": "完全",
+          "reading": "かんぜん"
+        },
+        {
+          "kanji": "防",
+          "reading": "ぼう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "システムが壊れないように運用することや、ユーザーが誤操作をしないように操作マニュアルを整備することも重要ですが、それよりも重要なのが「万が一、データが破壊・消滅した場合でも、そのデータを元に戻せるように準備しておくこと」です。そのためには「バックアップ」と呼ばれる作業が必要です。",
+      "vi": "Việc vận hành để hệ thống không hỏng và chuẩn bị hướng dẫn thao tác để người dùng không thao tác sai cũng quan trọng, nhưng quan trọng hơn là \"chuẩn bị để có thể khôi phục dữ liệu ngay cả khi dữ liệu bị phá hủy hoặc biến mất\". Để làm điều đó, cần công việc gọi là \"sao lưu\".",
+      "en": "Operating so system doesn't break and preparing manuals so users don't make mistakes is important, but more important is 'preparing to restore data even if data is destroyed or lost.' For that, work called 'backup' is needed.",
+      "terms": [
+        {
+          "kanji": "壊",
+          "reading": "かい"
+        },
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        },
+        {
+          "kanji": "誤操作",
+          "reading": "ごそうさ"
+        },
+        {
+          "kanji": "操作",
+          "reading": "そうさ"
+        },
+        {
+          "kanji": "整備",
+          "reading": "せいび"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "万",
+          "reading": "まん"
+        },
+        {
+          "kanji": "一",
+          "reading": "いち"
+        },
+        {
+          "kanji": "破壊",
+          "reading": "はかい"
+        },
+        {
+          "kanji": "消滅",
+          "reading": "しょうめつ"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "元",
+          "reading": "もと"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        },
+        {
+          "kanji": "準備",
+          "reading": "じゅんび"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "バックアップとは",
+      "vi": "Sao lưu là gì",
+      "en": "What is Backup"
+    },
+    {
+      "type": "paragraph",
+      "ja": "バックアップとは、通常使用している補助記憶装置とは別の補助記憶装置上にデータの複製を取っておくことです。データをバックアップする方法は何種類かありますが、ITパスポート試験で出題されるのは「フルバックアップ」「差分バックアップ」「増分バックアップ」の3種類です。",
+      "vi": "Sao lưu là việc tạo bản sao dữ liệu trên bộ nhớ phụ khác với bộ nhớ phụ đang sử dụng thông thường. Có một số phương pháp sao lưu dữ liệu, nhưng 3 loại được ra đề trong kỳ thi IT Passport là \"sao lưu đầy đủ\", \"sao lưu khác biệt\", và \"sao lưu tăng dần\".",
+      "en": "Backup is keeping data copy on auxiliary storage different from normally used auxiliary storage. There are several backup methods, but 3 types appearing in IT Passport exam are 'full backup,' 'differential backup,' and 'incremental backup.'",
+      "terms": [
+        {
+          "kanji": "通常使用",
+          "reading": "つうじょうしよう"
+        },
+        {
+          "kanji": "補助記憶装置",
+          "reading": "ほじょきおくそうち"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "補助記憶装置上",
+          "reading": "ほじょきおくそうちうえ"
+        },
+        {
+          "kanji": "複製",
+          "reading": "ふくせい"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "何種類",
+          "reading": "なんしゅるい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "差分",
+          "reading": "さぶん"
+        },
+        {
+          "kanji": "増分",
+          "reading": "ぞうぶん"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "フルバックアップ",
+      "vi": "Sao lưu đầy đủ",
+      "en": "Full Backup"
+    },
+    {
+      "type": "paragraph",
+      "ja": "フルバックアップ（完全バックアップ）とは、常にすべてのデータをバックアップすることです。フルバックアップのメリットの1つは「作業の簡易さ」が挙げら",
+      "vi": "Sao lưu đầy đủ (sao lưu hoàn toàn) là luôn sao lưu tất cả dữ liệu. Một trong những ưu điểm của sao lưu đầy đủ là \"sự đơn giản của công việc\"",
+      "en": "Full backup (complete backup) is always backing up all data. One advantage of full backup is 'work simplicity'",
+      "terms": [
+        {
+          "kanji": "完全",
+          "reading": "かんぜん"
+        },
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "簡易",
+          "reading": "かんい"
+        },
+        {
+          "kanji": "挙",
+          "reading": "きょ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "バックアップ",
+      "vi": "Sao lưu",
+      "en": "Backup",
+      "my": "ဘက်အက်"
+    },
+    {
+      "term": "フルバックアップ",
+      "vi": "Sao lưu đầy đủ",
+      "en": "Full Backup",
+      "my": "ဖူးလ် ဘက်အက်"
+    },
+    {
+      "term": "差分バックアップ",
+      "reading": "さぶんバックアップ",
+      "vi": "Sao lưu khác biệt",
+      "en": "Differential Backup",
+      "my": "ဒီဖံရင်ရှဲ ဘက်အက်"
+    },
+    {
+      "term": "増分バックアップ",
+      "reading": "ぞうぶんバックアップ",
+      "vi": "Sao lưu tăng dần",
+      "en": "Incremental Backup",
+      "my": "အင်ကရီမင်တဲ ဘက်အက်"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

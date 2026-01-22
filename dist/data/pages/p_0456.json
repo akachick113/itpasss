@@ -1,0 +1,395 @@
+{
+  "page_id": 456,
+  "image": "p_0456.png",
+  "chapter": 12,
+  "section": "12-04",
+  "page_number": 440,
+  "content": [
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "Excel限定の話は出題されない",
+        "vi": "Nội dung chỉ dành cho Excel không được ra đề",
+        "en": "Excel-Specific Topics Not Tested",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ITパスポート試験は国家試験であるため、特定の企業や団体に利益をもたらすような問題は出題されません。そのため、表計算ソフトの問題も、あくまでも一般的な概念や使い方の範囲の内容しか問われません。ExcelはMicrosoft社が販売しているソフトウェアなので、Excelに関する具体的な操作方法は出題されません。この点は覚えておいてください。例えば、Excelにおいてセルに計算式を入力する場合、行頭に「=」（イコール）記号を入力して「=B2+C2+D2」のように書く必要がありますが、ITパスポート試験では、「=」は不要です。",
+        "vi": "Vì kỳ thi IT Passport là kỳ thi quốc gia, nên không ra đề những câu hỏi mang lại lợi ích cho doanh nghiệp hoặc tổ chức cụ thể. Vì vậy, câu hỏi về phần mềm bảng tính chỉ hỏi về khái niệm chung và cách sử dụng trong phạm vi chung. Vì Excel là phần mềm do Microsoft bán, nên cách thao tác cụ thể liên quan đến Excel không được ra đề. Hãy nhớ điểm này. Ví dụ, trong Excel khi nhập công thức vào ô, cần nhập ký hiệu \"=\" (bằng) ở đầu dòng và viết như \"=B2+C2+D2\", nhưng trong kỳ thi IT Passport, \"=\" không cần thiết.",
+        "en": "Since IT Passport is national exam, questions benefiting specific companies or organizations are not asked. So spreadsheet questions only cover general concepts and usage. Since Excel is software sold by Microsoft, specific Excel operations are not tested. Remember this point. For example, in Excel when entering formula in cell, need '=' (equals) at line start like '=B2+C2+D2,' but in IT Passport exam, '=' is not needed."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "関数",
+      "vi": "Hàm",
+      "en": "Functions"
+    },
+    {
+      "type": "paragraph",
+      "ja": "関数とは、特定の計算処理を行い、その結果を表示する機能です。例えば、指定された範囲の値の合計値を計算する「合計関数」や、平均値を計算する「平均関数」、最大値を求める「最大値関数」などがあります。関数を使用すると複雑な計算式を短く、シンプルな式で表現できます。",
+      "vi": "Hàm là chức năng thực hiện tính toán cụ thể và hiển thị kết quả. Ví dụ, có \"hàm tổng\" tính tổng các giá trị trong phạm vi được chỉ định, \"hàm trung bình\" tính trung bình, \"hàm giá trị lớn nhất\" tìm giá trị lớn nhất. Sử dụng hàm có thể biểu diễn công thức phức tạp bằng biểu thức ngắn, đơn giản.",
+      "en": "Function is feature performing specific calculations and displaying results. For example, 'SUM function' calculating sum of values in specified range, 'AVERAGE function' calculating average, 'MAX function' finding maximum value. Using functions can express complex formulas in short, simple expressions.",
+      "terms": [
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "計算処理",
+          "reading": "けいさんしょり"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "範囲",
+          "reading": "はんい"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "合計値",
+          "reading": "ごうけいち"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "合計関数",
+          "reading": "ごうけいかんすう"
+        },
+        {
+          "kanji": "平均値",
+          "reading": "へいきんち"
+        },
+        {
+          "kanji": "平均関数",
+          "reading": "へいきんかんすう"
+        },
+        {
+          "kanji": "最大値",
+          "reading": "さいだいち"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "最大値関数",
+          "reading": "さいだいちかんすう"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "複雑",
+          "reading": "ふくざつ"
+        },
+        {
+          "kanji": "計算式",
+          "reading": "けいさんしき"
+        },
+        {
+          "kanji": "短",
+          "reading": "みじか"
+        },
+        {
+          "kanji": "式",
+          "reading": "しき"
+        },
+        {
+          "kanji": "表現",
+          "reading": "ひょうげん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "具体例を見てみましょう。前ページでは、国語、数学、英語の合計値を求める計算式として「B2+C2+D2」を紹介しました。この計算式はそれほど複雑ではありませんが、仮に太郎君が受験した教科が10教科あった場合はどうでしょうか。「B2+C2+D2+E2+F2+G2+H2+I2+J2+K2」のように、計算式が長くなります。",
+      "vi": "Hãy xem ví dụ cụ thể. Ở trang trước, đã giới thiệu \"B2+C2+D2\" làm công thức tính tổng Tiếng Nhật, Toán, Tiếng Anh. Công thức này không quá phức tạp, nhưng nếu Taro thi 10 môn thì sao? Công thức sẽ dài như \"B2+C2+D2+E2+F2+G2+H2+I2+J2+K2\".",
+      "en": "Let's see specific example. Previous page introduced 'B2+C2+D2' as formula to calculate sum of Japanese, Math, English. This formula is not very complex, but what if Taro took 10 subjects? Formula becomes long like 'B2+C2+D2+E2+F2+G2+H2+I2+J2+K2.'",
+      "terms": [
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "国語",
+          "reading": "こくご"
+        },
+        {
+          "kanji": "数学",
+          "reading": "すうがく"
+        },
+        {
+          "kanji": "英語",
+          "reading": "えいご"
+        },
+        {
+          "kanji": "合計値",
+          "reading": "ごうけいち"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "計算式",
+          "reading": "けいさんしき"
+        },
+        {
+          "kanji": "紹介",
+          "reading": "しょうかい"
+        },
+        {
+          "kanji": "複雑",
+          "reading": "ふくざつ"
+        },
+        {
+          "kanji": "仮",
+          "reading": "かり"
+        },
+        {
+          "kanji": "太郎君",
+          "reading": "たろうくん"
+        },
+        {
+          "kanji": "受験",
+          "reading": "じゅけん"
+        },
+        {
+          "kanji": "教科",
+          "reading": "きょうか"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "長",
+          "reading": "なが"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、指定するセル番地が増えれば増えるだけ、計算式が長くなるだけでなく、入力するのも面倒です。このような場合に便利なのが関数です。",
+      "vi": "Như vậy, càng nhiều địa chỉ ô được chỉ định, công thức càng dài và việc nhập cũng phiền phức. Trong trường hợp như vậy, hàm rất tiện lợi.",
+      "en": "Like this, more cell addresses specified, longer formula becomes and entering is troublesome. In such cases, functions are convenient.",
+      "terms": [
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "番地",
+          "reading": "ばんち"
+        },
+        {
+          "kanji": "増",
+          "reading": "ぞう"
+        },
+        {
+          "kanji": "計算式",
+          "reading": "けいさんしき"
+        },
+        {
+          "kanji": "長",
+          "reading": "なが"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "面倒",
+          "reading": "めんどう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "便利",
+          "reading": "べんり"
+        },
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "合計(セル範囲)",
+      "vi": "Tổng (Phạm vi ô)",
+      "en": "SUM (Cell Range)"
+    },
+    {
+      "type": "paragraph",
+      "ja": "セル範囲とは、長方形のエリアに含まれるセルの集まりです。範囲のはじまりと終わりを「:」（コロン）を使って指定します。例えば、上記のB列からD列までの3つのセルの合計値を、関数を使って求める場合は次のように入力します。",
+      "vi": "Phạm vi ô là tập hợp các ô nằm trong vùng hình chữ nhật. Chỉ định đầu và cuối phạm vi bằng \":\" (dấu hai chấm). Ví dụ, để tìm tổng của 3 ô từ cột B đến cột D ở trên bằng hàm, nhập như sau.",
+      "en": "Cell range is collection of cells in rectangular area. Specify range start and end with ':' (colon). For example, to find sum of 3 cells from column B to D above using function, enter as follows.",
+      "terms": [
+        {
+          "kanji": "範囲",
+          "reading": "はんい"
+        },
+        {
+          "kanji": "長方形",
+          "reading": "ちょうほうけい"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "終",
+          "reading": "おわり"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "合計値",
+          "reading": "ごうけいち"
+        },
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "code": "合計(B2:D2)",
+      "translation": {
+        "vi": "Tổng(B2:D2)",
+        "en": "SUM(B2:D2)"
+      },
+      "note": {
+        "ja": "上記のように指定すると、次の図の範囲の合計値を算出できます。",
+        "vi": "Khi chỉ định như trên, có thể tính tổng của phạm vi trong hình sau.",
+        "en": "Specifying as above can calculate sum of range in following diagram."
+      }
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "関数を使った計算式",
+        "vi": "Công thức sử dụng hàm",
+        "en": "Formula Using Function"
+      },
+      "description": {
+        "ja": "B2:D2の範囲を指定。E2のセルに「合計(B2:D2)」と入力すると240と表示される",
+        "vi": "Chỉ định phạm vi B2:D2. Nhập \"Tổng(B2:D2)\" vào ô E2 sẽ hiển thị 240",
+        "en": "Specify range B2:D2. Entering 'SUM(B2:D2)' in E2 cell displays 240"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "関数",
+      "reading": "かんすう",
+      "vi": "Hàm",
+      "en": "Function",
+      "my": "ဖန်းရှင်း"
+    },
+    {
+      "term": "合計関数",
+      "reading": "ごうけいかんすう",
+      "vi": "Hàm tổng",
+      "en": "SUM Function",
+      "my": "စုမ် ဖန်းရှင်း"
+    },
+    {
+      "term": "セル範囲",
+      "vi": "Phạm vi ô",
+      "en": "Cell Range",
+      "my": "ဆဲလ် အပိုင်းအခြား"
+    }
+  ],
+  "meta": {
+    "has_note_box": true,
+    "has_diagram": true,
+    "has_code_example": true,
+    "is_key_content": true
+  }
+}

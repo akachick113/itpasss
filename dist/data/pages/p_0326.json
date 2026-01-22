@@ -1,0 +1,143 @@
+{
+    "page_id": 326,
+    "image": "p_0326.png",
+    "chapter": 8,
+    "section": "practice",
+    "page_number": 310,
+    "content": [
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "出る順！過去問＆完全解説",
+                "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích hoàn chỉnh",
+                "en": "By Frequency! Past Questions & Complete Explanations"
+            },
+            "note": {
+                "ja": "解答・解説はp.312参照",
+                "vi": "Xem đáp án và giải thích ở trang 312",
+                "en": "See p.312 for answers and explanations"
+            }
+        },
+        {
+            "type": "exam_question",
+            "number": "8-11",
+            "year": "令和5年度",
+            "question": {
+                "ja": "コーポレートガバナンスを強化した事例として、最も適切なものはどれか。",
+                "vi": "Ví dụ nào thích hợp nhất về tăng cường Corporate Governance?",
+                "en": "Which is most appropriate example of strengthening Corporate Governance?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. 女性が活躍しやすくなるために労務制度を拡充した。",
+                    "vi": "ア. Mở rộng chế độ lao động để phụ nữ dễ hoạt động hơn.",
+                    "en": "ア. Expanded labor system to make it easier for women to be active."
+                },
+                {
+                    "ja": "イ. 迅速な事業展開のために、他社の事業を買収した。",
+                    "vi": "イ. Mua lại doanh nghiệp của công ty khác để triển khai kinh doanh nhanh chóng.",
+                    "en": "イ. Acquired another company's business for rapid business development."
+                },
+                {
+                    "ja": "ウ. 独立性の高い社外取締役の人数を増やした。",
+                    "vi": "ウ. Tăng số lượng giám đốc bên ngoài có tính độc lập cao.",
+                    "en": "ウ. Increased number of highly independent outside directors."
+                },
+                {
+                    "ja": "エ. 利益が得られにくい事業から撤退した。",
+                    "vi": "エ. Rút lui khỏi doanh nghiệp khó có lợi nhuận.",
+                    "en": "エ. Withdrew from business difficult to profit from."
+                }
+            ],
+            "correct_answer": "ウ"
+        },
+        {
+            "type": "exam_question",
+            "number": "8-12",
+            "year": "平成26年度",
+            "question": {
+                "ja": "ファシリティマネジメントを説明したものはどれか。",
+                "vi": "Cái nào giải thích Facility Management?",
+                "en": "Which explains Facility Management?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. ITサービスのレベルを維持管理するためにSLAの遵守状況を確認し、定期的に見直す。",
+                    "vi": "ア. Xác nhận tình trạng tuân thủ SLA để duy trì và quản lý mức IT Service, xem xét lại định kỳ.",
+                    "en": "ア. Check SLA compliance status to maintain IT Service level, review periodically."
+                },
+                {
+                    "ja": "イ. 経営の視点から、建物や設備などの保有、運用、維持などを最適化する手法である。",
+                    "vi": "イ. Phương pháp tối ưu hóa sở hữu, vận hành, bảo trì tòa nhà và thiết bị từ góc độ kinh doanh.",
+                    "en": "イ. Method to optimize ownership, operation, maintenance of buildings and facilities from management perspective."
+                },
+                {
+                    "ja": "ウ. 製品やサービスの品質の向上を図るために業務プロセスを継続的に改善する。",
+                    "vi": "ウ. Cải thiện liên tục quy trình nghiệp vụ để nâng cao chất lượng sản phẩm và dịch vụ.",
+                    "en": "ウ. Continuously improve business processes to improve product and service quality."
+                },
+                {
+                    "ja": "エ. 部品の調達から製造、流通、販売に至る一連のプロセスに参加する部門と企業間で情報を共有・管理する。",
+                    "vi": "エ. Chia sẻ và quản lý thông tin giữa các bộ phận và doanh nghiệp tham gia vào chuỗi quy trình từ mua sắm linh kiện đến sản xuất, phân phối, bán hàng.",
+                    "en": "エ. Share and manage information between departments and companies participating in chain of processes from parts procurement to manufacturing, distribution, sales."
+                }
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "8-13",
+            "year": "平成23年度",
+            "question": {
+                "ja": "無停電電源装置の利用方法に関する説明のうち、適切なものはどれか。",
+                "vi": "Mô tả nào thích hợp về phương pháp sử dụng UPS?",
+                "en": "Which description is appropriate about UPS usage method?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. 携帯電話の予備バッテリとして、携帯電話を長時間使用するために利用する。",
+                    "vi": "ア. Sử dụng như pin dự phòng điện thoại di động để sử dụng điện thoại trong thời gian dài.",
+                    "en": "ア. Use as mobile phone backup battery to use mobile phone for long time."
+                },
+                {
+                    "ja": "イ. コンピュータセンターで長時間の停電が発生した場合に、電力の供給を継続するために利用する。",
+                    "vi": "イ. Sử dụng để tiếp tục cung cấp điện khi mất điện dài hạn tại computer center.",
+                    "en": "イ. Use to continue power supply when long-term power outage occurs at computer center."
+                },
+                {
+                    "ja": "ウ. コンピュータに対して停電時に電力を一時的に供給し、瞬間的な電圧低下の影響を防いだりするために利用する。",
+                    "vi": "ウ. Sử dụng để cung cấp điện tạm thời cho máy tính khi mất điện và ngăn chặn ảnh hưởng của điện áp giảm tức thời.",
+                    "en": "ウ. Use to temporarily supply power to computer during outage and prevent impact of momentary voltage drop."
+                },
+                {
+                    "ja": "エ. 電源のない野外でコンピュータを長時間使用するために利用する。",
+                    "vi": "エ. Sử dụng để sử dụng máy tính trong thời gian dài ngoài trời không có nguồn điện.",
+                    "en": "エ. Use to use computer for long time outdoors without power source."
+                }
+            ],
+            "correct_answer": "ウ"
+        },
+        {
+            "type": "exam_question",
+            "number": "8-14",
+            "year": "令和元年度",
+            "question": {
+                "ja": "床下にネットワーク配線などのために一定の高さの空間をとり、容易に取り外しが可能なパネルを床板として並べたものはどれか。",
+                "vi": "Cái nào là sàn lát panel có thể tháo rời dễ dàng, tạo không gian có độ cao nhất định dưới sàn cho dây mạng?",
+                "en": "Which is floor with removable panels laid as floor boards, with space of certain height under floor for network wiring?"
+            },
+            "choices": [
+                "ア. フリーアクセスフロア",
+                "イ. フリーアドレス",
+                "ウ. フリースペース",
+                "エ. フリースポット"
+            ],
+            "correct_answer": "ア"
+        }
+    ],
+    "answers_summary": "問題8-11 ウ　問題8-12 イ　問題8-13 ウ　問題8-14 ア",
+    "meta": {
+        "has_questions": true,
+        "question_count": 4
+    }
+}

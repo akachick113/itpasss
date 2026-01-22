@@ -1,0 +1,278 @@
+{
+  "page_id": 441,
+  "image": "p_0441.png",
+  "chapter": 12,
+  "section": "12-01",
+  "page_number": 425,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "一方、アプリケーションソフトウェアとは、ユーザーに特定の機能を提供するソフトウェアです。特定の機能とは「メッセージ機能」や「カメラ機能」などです（アプリケーションソフトウェアについてはp.438で詳しく解説します）。",
+      "vi": "Mặt khác, phần mềm ứng dụng là phần mềm cung cấp chức năng cụ thể cho người dùng. Chức năng cụ thể như \"chức năng tin nhắn\" hoặc \"chức năng camera\" (sẽ giải thích chi tiết về phần mềm ứng dụng ở trang 438).",
+      "en": "On other hand, application software is software providing specific functions to users. Specific functions are 'message function' or 'camera function' etc. (will explain application software in detail on p.438).",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！基本ソフトウェアと応用ソフトウェア",
+        "vi": "Chi tiết hơn! Phần mềm cơ bản và Phần mềm ứng dụng",
+        "en": "More Details! Basic Software and Applied Software"
+      },
+      "content": {
+        "ja": "通常、OSは1台のPCに対して1つだけインストールされます。PCを使うための「基本」となるソフトウェアなので、日本語では「基本ソフトウェア」と訳されます。アプリケーションソフトウェアは、OSの日本語訳と対比させる形で「応用ソフトウェア」と訳されることもあります。",
+        "vi": "Thông thường, chỉ cài đặt 1 OS cho 1 PC. Vì là phần mềm \"cơ bản\" để sử dụng PC, nên tiếng Nhật dịch là \"basic software\". Phần mềm ứng dụng đôi khi được dịch là \"applied software\" để đối chiếu với bản dịch tiếng Nhật của OS.",
+        "en": "Normally, only 1 OS installed per PC. Since it's 'basic' software for using PC, translated to 'basic software' in Japanese. Application software sometimes translated as 'applied software' in contrast to Japanese translation of OS."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "マルチタスク",
+      "vi": "Đa nhiệm",
+      "en": "Multitask"
+    },
+    {
+      "type": "paragraph",
+      "ja": "OSにはさまざまな機能が搭載されていますが、ITパスポート試験では「マルチタスク」と呼ばれるOSの機能に関する問題が頻繁に出題されます。マルチタスクとは、複数のプロセスを頻繁にすばやく切り替えることによって、それらのプロセスがあたかも同時に処理されているかのように見せる機能です。",
+      "vi": "OS có nhiều chức năng, nhưng trong kỳ thi IT Passport, câu hỏi về chức năng OS gọi là \"đa nhiệm\" thường xuyên được ra đề. Đa nhiệm là chức năng làm cho giống như các process đang được xử lý đồng thời bằng cách chuyển đổi nhanh chóng và thường xuyên nhiều process.",
+      "en": "OS has various functions, but in IT Passport exam, questions about OS function called 'multitask' often appear. Multitask is function making processes appear as if processed simultaneously by frequently and quickly switching between multiple processes.",
+      "terms": [
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "搭載",
+          "reading": "とうさい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "頻繁",
+          "reading": "ひんぱん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "切",
+          "reading": "せつ"
+        },
+        {
+          "kanji": "替",
+          "reading": "かえ"
+        },
+        {
+          "kanji": "同時",
+          "reading": "どうじ"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "マルチタスク",
+        "vi": "Đa nhiệm",
+        "en": "Multitask"
+      },
+      "description": {
+        "ja": "シングルタスク：プロセスA→B→Cを順番に処理。マルチタスク：プロセスA、B、Cを分割し、すばやく切り替えて処理する。※実際にプロセスを並列に処理しているわけではない！",
+        "vi": "Single task: Xử lý process A→B→C theo thứ tự. Đa nhiệm: Chia process A, B, C và chuyển đổi nhanh để xử lý. ※Thực tế không phải đang xử lý process song song!",
+        "en": "Single task: Process A→B→C sequentially. Multitask: Split processes A, B, C and switch quickly to process. *Not actually processing processes in parallel!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "この機能を正しく理解するためのポイントは「あたかも同時に処理されているかのように見せる」という点です。これはつまり「実際には同時に処理されているわけではない」ということです（上図を参照）。",
+      "vi": "Điểm để hiểu đúng chức năng này là \"làm cho giống như đang được xử lý đồng thời\". Nghĩa là \"thực tế không phải đang được xử lý đồng thời\" (xem hình trên).",
+      "en": "Point to correctly understand this function is 'making appear as if processed simultaneously.' This means 'not actually processed simultaneously' (see diagram above).",
+      "terms": [
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "同時",
+          "reading": "どうじ"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "みなさんは普段、音楽を再生しながらWebサイトを見るなど、複数のアプリケーションソフトウェアを立ち上げて作業することがあると思います。このため「パソコンは複数のプロセスを同時に処理する」と考えているかもしれませんが、実は1つのCPUは一度に1つのプロセスしか実行できません。",
+      "vi": "Bình thường mọi người thường làm việc bằng cách mở nhiều phần mềm ứng dụng, như xem trang web trong khi phát nhạc. Vì vậy có thể nghĩ \"máy tính xử lý nhiều process đồng thời\", nhưng thực ra 1 CPU chỉ có thể thực hiện 1 process tại một thời điểm.",
+      "en": "You usually work with multiple application software open, like viewing websites while playing music. So may think 'PC processes multiple processes simultaneously,' but actually 1 CPU can only execute 1 process at a time.",
+      "terms": [
+        {
+          "kanji": "普段",
+          "reading": "ふだん"
+        },
+        {
+          "kanji": "音楽",
+          "reading": "おんがく"
+        },
+        {
+          "kanji": "再生",
+          "reading": "さいせい"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "立",
+          "reading": "りつ"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "同時",
+          "reading": "どうじ"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "実",
+          "reading": "み"
+        },
+        {
+          "kanji": "一度",
+          "reading": "いちど"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "マルチタスク",
+      "vi": "Đa nhiệm",
+      "en": "Multitask",
+      "my": "မုန်တီတက်"
+    },
+    {
+      "term": "シングルタスク",
+      "vi": "Đơn nhiệm",
+      "en": "Single Task",
+      "my": "စင်ဂဲတက်"
+    },
+    {
+      "term": "プロセス",
+      "vi": "Process (tiến trình)",
+      "en": "Process",
+      "my": "ပရိုစက်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

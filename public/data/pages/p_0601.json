@@ -1,0 +1,197 @@
+{
+    "page_id": 601,
+    "image": "p_0601.png",
+    "chapter": "review",
+    "section": "exam_review",
+    "page_number": 585,
+    "content": [
+        {
+            "type": "review_terms_continued",
+            "chapter_num": 15,
+            "terms": [
+                {
+                    "ja": "DoS攻撃とは、電子メールやWebリクエストなどを大量に送りつけて、ネットワーク上のサービスを提供不能にすること",
+                    "vi": "DoS attack là gửi số lượng lớn email hoặc Web request để làm cho dịch vụ trên mạng không thể cung cấp",
+                    "en": "DoS attack is sending large amounts of email or Web requests to make network services unavailable"
+                },
+                {
+                    "ja": "クロスサイトスクリプティングとは、悪意あるスクリプト（プログラム）を送り込み攻撃",
+                    "vi": "Cross-Site Scripting là tấn công bằng cách gửi script (chương trình) độc hại",
+                    "en": "Cross-Site Scripting is attack by sending malicious scripts (programs)"
+                },
+                {
+                    "ja": "リスクマネジメントとは、企業の活動に伴って発生するあらゆるリスクを管理し、そのリスクによる損失を最小の費用で食い止めるためのプロセス",
+                    "vi": "Risk Management là quy trình quản lý mọi rủi ro phát sinh cùng hoạt động doanh nghiệp và ngăn chặn tổn thất do rủi ro đó với chi phí tối thiểu",
+                    "en": "Risk Management is process managing all risks arising with corporate activities and stopping losses from those risks at minimum cost"
+                },
+                {
+                    "ja": "リスクアマネジメントの4つのプロセスが出題: リスク特定→リスク分析→リスク評価→リスク対策",
+                    "vi": "4 quy trình của Risk Management được ra đề: Nhận diện rủi ro→Phân tích rủi ro→Đánh giá rủi ro→Đối sách rủi ro",
+                    "en": "4 processes of Risk Management appear on exam: Risk Identification→Risk Analysis→Risk Evaluation→Risk Response"
+                },
+                {
+                    "ja": "情報セキュリティポリシーとは、情報セキュリティを確保するその組織の取り組み、対応策などを文書化したもの",
+                    "vi": "Information Security Policy là tài liệu hóa các nỗ lực và biện pháp đối phó của tổ chức để đảm bảo bảo mật thông tin",
+                    "en": "Information Security Policy is documentation of organization's efforts and countermeasures to ensure information security"
+                },
+                {
+                    "ja": "情報セキュリティポリシーは、情報セキュリティ基本方針、情報セキュリティ対策基準、情報セキュリティ実施手順",
+                    "vi": "Information Security Policy gồm: Phương châm cơ bản bảo mật thông tin, Tiêu chuẩn đối sách bảo mật thông tin, Thủ tục thực hiện bảo mật thông tin",
+                    "en": "Information Security Policy consists of: Basic Information Security Policy, Information Security Countermeasure Standards, Information Security Implementation Procedures"
+                },
+                {
+                    "ja": "情報セキュリティ基本方針と情報セキュリティ対策基準：実施手順の違いが出題される",
+                    "vi": "Sự khác biệt giữa Phương châm cơ bản bảo mật thông tin, Tiêu chuẩn đối sách bảo mật thông tin và Thủ tục thực hiện được ra đề",
+                    "en": "Differences between Basic Security Policy, Security Countermeasure Standards, and Implementation Procedures appear on exam"
+                },
+                {
+                    "ja": "機密性：認められた人だけが情報にアクセスできるようにすること",
+                    "vi": "Tính bí mật: Đảm bảo chỉ người được phép mới có thể truy cập thông tin",
+                    "en": "Confidentiality: Ensuring only authorized people can access information"
+                },
+                {
+                    "ja": "完全性：改ざんされていないデータ",
+                    "vi": "Tính toàn vẹn: Dữ liệu không bị sửa đổi",
+                    "en": "Integrity: Data not falsified"
+                },
+                {
+                    "ja": "可用性：必要なときにサービスを利用できること",
+                    "vi": "Tính khả dụng: Có thể sử dụng dịch vụ khi cần",
+                    "en": "Availability: Being able to use services when needed"
+                },
+                {
+                    "ja": "共通鍵暗号方式とは、暗号化と復号の鍵が同じ",
+                    "vi": "Phương thức mã hóa khóa chung là khóa mã hóa và giải mã giống nhau",
+                    "en": "Common key encryption is encryption and decryption keys are same"
+                },
+                {
+                    "ja": "公開鍵暗号方式は、公開鍵で暗号化し、秘密で復号するが、デジタル署名を、秘密鍵で暗号化し、公開鍵で復号する",
+                    "vi": "Phương thức mã hóa khóa công khai mã hóa bằng khóa công khai và giải mã bằng khóa bí mật, nhưng chữ ký số mã hóa bằng khóa bí mật và giải mã bằng khóa công khai",
+                    "en": "Public key encryption encrypts with public key and decrypts with private, but digital signature encrypts with private key and decrypts with public key"
+                },
+                {
+                    "ja": "デジタル署名を使うと、なりすましやデータの改ざんを検出すること",
+                    "vi": "Sử dụng chữ ký số có thể phát hiện mạo danh và sửa đổi dữ liệu",
+                    "en": "Using digital signature can detect impersonation and data falsification"
+                },
+                {
+                    "ja": "認証局とは、電子商取引において、公開鍵の正当性を証明するデジタル証明書を発行する第三者機関である",
+                    "vi": "Certificate Authority là tổ chức bên thứ ba phát hành chứng chỉ số chứng minh tính hợp lệ của khóa công khai trong thương mại điện tử",
+                    "en": "Certificate Authority is third-party organization issuing digital certificates proving public key validity in electronic commerce"
+                },
+                {
+                    "ja": "PKIとは、公開鍵の正当性を認証局に保証してもらう仕組み",
+                    "vi": "PKI là cơ chế để Certificate Authority đảm bảo tính hợp lệ của khóa công khai",
+                    "en": "PKI is mechanism for Certificate Authority to guarantee public key validity"
+                },
+                {
+                    "ja": "ショルダーハックの防止策は「のぞき見防止フィルムを貼る」こと",
+                    "vi": "Biện pháp phòng chống Shoulder Hack là \"dán film chống nhìn trộm\"",
+                    "en": "Shoulder Hack prevention measure is 'attaching anti-peeping film'"
+                },
+                {
+                    "ja": "データを完全消去するには、ランダムなデータで複数回の上書きをする",
+                    "vi": "Để xóa hoàn toàn dữ liệu, ghi đè nhiều lần bằng dữ liệu ngẫu nhiên",
+                    "en": "To completely erase data, overwrite multiple times with random data"
+                },
+                {
+                    "ja": "ランサムウェアへの対策は、データのバックアップが有効",
+                    "vi": "Biện pháp đối phó Ransomware là backup dữ liệu có hiệu quả",
+                    "en": "For Ransomware countermeasure, data backup is effective"
+                },
+                {
+                    "ja": "ファイアウォールとは、外部ネットワークからの不正アクセスを防ぐために、内部ネットワーク",
+                    "vi": "Firewall là để ngăn truy cập trái phép từ mạng bên ngoài, mạng nội bộ",
+                    "en": "Firewall is to prevent unauthorized access from external network, internal network"
+                },
+                {
+                    "ja": "WAFとは、Webアプリケーションの脆弱性を狙った攻撃からシステムを守るための仕組み",
+                    "vi": "WAF là cơ chế bảo vệ hệ thống khỏi tấn công nhắm vào lỗ hổng của ứng dụng Web",
+                    "en": "WAF is mechanism protecting system from attacks targeting Web application vulnerabilities"
+                },
+                {
+                    "ja": "DMZとは、企業内ネットワークと外部ネットワークの両方から隔離されたネットワーク領域",
+                    "vi": "DMZ là vùng mạng được cô lập khỏi cả mạng nội bộ doanh nghiệp và mạng bên ngoài",
+                    "en": "DMZ is network area isolated from both corporate internal and external networks"
+                },
+                {
+                    "ja": "SSL/TLSとは、パソコンとサーバ間の通信を暗号化する通信プロトコル。SSL/TLSを使った通信ではURLが「https://」ではじまる",
+                    "vi": "SSL/TLS là giao thức truyền thông mã hóa truyền thông giữa máy tính và server. Truyền thông sử dụng SSL/TLS có URL bắt đầu bằng \"https://\"",
+                    "en": "SSL/TLS is communication protocol encrypting communication between computer and server. Communication using SSL/TLS has URL starting with 'https://'"
+                },
+                {
+                    "ja": "HTTPSが暗号化する範囲はWebブラウザからWebサーバの間",
+                    "vi": "Phạm vi HTTPS mã hóa là từ trình duyệt Web đến Web server",
+                    "en": "HTTPS encryption scope is from Web browser to Web server"
+                },
+                {
+                    "ja": "WPA2が暗号化する範囲はPCからアクセスポイントの間",
+                    "vi": "Phạm vi WPA2 mã hóa là từ PC đến access point",
+                    "en": "WPA2 encryption scope is from PC to access point"
+                },
+                {
+                    "ja": "VPNとは、公衆回線を、あたかも専用回線であるかのごとく利用できるようにする技術",
+                    "vi": "VPN là công nghệ cho phép sử dụng đường truyền công cộng như thể là đường truyền chuyên dụng",
+                    "en": "VPN is technology allowing public lines to be used as if dedicated lines"
+                },
+                {
+                    "ja": "ペネトレーションテストとは、システムに対して、実際に攻撃して侵入を試みることで、セキュリティ上の弱点を発見すること",
+                    "vi": "Penetration Test là phát hiện điểm yếu bảo mật bằng cách thực sự tấn công và thử xâm nhập vào hệ thống",
+                    "en": "Penetration Test is discovering security weaknesses by actually attacking and attempting to infiltrate system"
+                },
+                {
+                    "ja": "ワンタイムパスワードとは、アプリケーション認証の際に、一度しか使えないパスワードを使うことで、不正アクセスを防止する仕組み",
+                    "vi": "One-Time Password là cơ chế ngăn chặn truy cập trái phép bằng cách sử dụng mật khẩu chỉ có thể sử dụng một lần khi xác thực ứng dụng",
+                    "en": "One-Time Password is mechanism preventing unauthorized access by using password only usable once during application authentication"
+                },
+                {
+                    "ja": "耐タンパ性とは、システムの内部データの解析のしにくさを表す",
+                    "vi": "Tamper Resistance thể hiện độ khó phân tích dữ liệu nội bộ của hệ thống",
+                    "en": "Tamper Resistance shows difficulty of analyzing system's internal data"
+                },
+                {
+                    "ja": "セキュリティバイデザインとは、システムの企画・設計段階からセキュリティを確保すること",
+                    "vi": "Security By Design là đảm bảo bảo mật từ giai đoạn lập kế hoạch và thiết kế hệ thống",
+                    "en": "Security By Design is ensuring security from system planning and design stages"
+                },
+                {
+                    "ja": "セキュアブートとは、PCの起動時にOSのデジタル署名を検証することで、許可されていないOSの実行を防ぐこと",
+                    "vi": "Secure Boot là ngăn thực thi OS không được phép bằng cách xác minh chữ ký số của OS khi khởi động PC",
+                    "en": "Secure Boot is preventing execution of unauthorized OS by verifying OS digital signature when PC boots"
+                },
+                {
+                    "ja": "ブロックチェーンの特徴は、取引履歴の改ざんが困難なこと",
+                    "vi": "Đặc điểm của Blockchain là việc sửa đổi lịch sử giao dịch rất khó khăn",
+                    "en": "Characteristic of Blockchain is difficulty of falsifying transaction history"
+                },
+                {
+                    "ja": "バイオメトリクス認証とは、指紋、身体的特徴や行動的特徴により本人を認証するもの",
+                    "vi": "Xác thực sinh trắc học là xác thực bản thân bằng vân tay, đặc điểm cơ thể hoặc đặc điểm hành vi",
+                    "en": "Biometric Authentication is authenticating person by fingerprint, physical or behavioral characteristics"
+                },
+                {
+                    "ja": "本人拒否率を低く設定すると、利便性が高まる",
+                    "vi": "Nếu đặt tỷ lệ từ chối bản thân thấp, tính tiện lợi tăng",
+                    "en": "Setting False Rejection Rate low increases convenience"
+                },
+                {
+                    "ja": "他人受入率を低く設定すると、安全性が高まる",
+                    "vi": "Nếu đặt tỷ lệ chấp nhận người khác thấp, tính an toàn tăng",
+                    "en": "Setting False Acceptance Rate low increases safety"
+                },
+                {
+                    "ja": "2要素認証とは、2つの要素を用いて本人確認をする認証方式",
+                    "vi": "Xác thực 2 yếu tố là phương thức xác thực sử dụng 2 yếu tố để xác nhận bản thân",
+                    "en": "2-Factor Authentication is authentication method using 2 elements for identity verification"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "is_review": true,
+        "chapters_covered": [
+            15
+        ]
+    }
+}

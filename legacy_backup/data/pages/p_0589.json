@@ -1,0 +1,125 @@
+{
+    "page_id": 589,
+    "image": "p_0589.png",
+    "chapter": 15,
+    "section": "practice_questions_2",
+    "page_number": 573,
+    "content": [
+        {
+            "type": "question",
+            "id": "15-28",
+            "year": "令和2年度",
+            "question": {
+                "ja": "無線LANにおいて、PCとアクセスポイント間の電波傍受による盗聴の対策として、適切なものはどれか。",
+                "vi": "Biện pháp nào phù hợp để đối phó việc nghe lén do chặn sóng điện từ giữa PC và access point trong mạng LAN không dây?",
+                "en": "Which is appropriate countermeasure against eavesdropping by intercepting radio waves between PC and access point in wireless LAN?"
+            },
+            "options": [
+                {
+                    "id": "ア",
+                    "ja": "MACアドレスフィルタリングを設定する。",
+                    "vi": "Cài đặt lọc địa chỉ MAC.",
+                    "en": "Set MAC address filtering."
+                },
+                {
+                    "id": "イ",
+                    "ja": "アクセスポイントからのESSID通知を停止する。",
+                    "vi": "Dừng thông báo ESSID từ access point.",
+                    "en": "Stop ESSID notification from access point."
+                },
+                {
+                    "id": "ウ",
+                    "ja": "アクセスポイントのESSIDを推測しにくい値に設定する。",
+                    "vi": "Đặt ESSID của access point thành giá trị khó đoán.",
+                    "en": "Set access point ESSID to hard-to-guess value."
+                },
+                {
+                    "id": "エ",
+                    "ja": "セキュリティの設定で、WPA2を選択する。",
+                    "vi": "Chọn WPA2 trong cài đặt bảo mật.",
+                    "en": "Select WPA2 in security settings."
+                }
+            ],
+            "answer": "エ"
+        },
+        {
+            "type": "question",
+            "id": "15-29",
+            "year": "平成22年度",
+            "question": {
+                "ja": "PCやハードディスクを譲渡したり返却したりする前に実施しておくこととして、ハードディスクからの情報漏えいを防ぐ最も確実な方法はどれか。",
+                "vi": "Phương pháp chắc chắn nhất để ngăn chặn rò rỉ thông tin từ HDD trước khi chuyển nhượng hoặc trả lại PC hoặc HDD là gì?",
+                "en": "Which is most reliable method to prevent information leakage from hard disk before transferring or returning PC or hard disk?"
+            },
+            "options": [
+                {
+                    "id": "ア",
+                    "ja": "ハードディスク全体を16進数の00やFF、又は乱数で複数回上書きしておく。",
+                    "vi": "Ghi đè nhiều lần toàn bộ HDD bằng số hex 00 hoặc FF, hoặc số ngẫu nhiên.",
+                    "en": "Overwrite entire hard disk multiple times with hexadecimal 00 or FF, or random numbers."
+                },
+                {
+                    "id": "イ",
+                    "ja": "ハードディスク全体を論理フォーマットしておく。",
+                    "vi": "Định dạng logic toàn bộ HDD.",
+                    "en": "Logically format entire hard disk."
+                },
+                {
+                    "id": "ウ",
+                    "ja": "ハードディスク内のすべてのファイルやフォルダをごみ箱に捨て、最後にごみ箱を空にしておく。",
+                    "vi": "Bỏ tất cả file và folder trong HDD vào thùng rác, cuối cùng làm trống thùng rác.",
+                    "en": "Move all files and folders in hard disk to recycle bin, then empty recycle bin."
+                },
+                {
+                    "id": "エ",
+                    "ja": "ハードディスクにパスワードロックをかけておく。",
+                    "vi": "Đặt khóa mật khẩu cho HDD.",
+                    "en": "Put password lock on hard disk."
+                }
+            ],
+            "answer": "ア"
+        },
+        {
+            "type": "question",
+            "id": "15-30",
+            "year": "令和6年度",
+            "question": {
+                "ja": "セキュリティ対策として使用されるWAFの説明として、適切なものはどれか。",
+                "vi": "Giải thích nào phù hợp về WAF được sử dụng làm biện pháp bảo mật?",
+                "en": "Which is appropriate explanation of WAF used as security countermeasure?"
+            },
+            "options": [
+                {
+                    "id": "ア",
+                    "ja": "ECなどのWebサイトにおいて、Webアプリケーションソフトウェアの脆弱性を突いた攻撃からの防御や、不審なアクセスのパターンを検知する仕組み",
+                    "vi": "Cơ chế phòng thủ khỏi tấn công khai thác lỗ hổng phần mềm ứng dụng Web và phát hiện mẫu truy cập đáng ngờ trên các trang Web như EC",
+                    "en": "Mechanism for defending against attacks exploiting Web application software vulnerabilities and detecting suspicious access patterns on websites like EC"
+                },
+                {
+                    "id": "イ",
+                    "ja": "インターネットなどの公共のネットワークを用いて、専用線のようなセキュアな通信環境を実現する仕組み",
+                    "vi": "Cơ chế thực hiện môi trường truyền thông an toàn như đường truyền chuyên dụng sử dụng mạng công cộng như Internet",
+                    "en": "Mechanism realizing secure communication environment like dedicated line using public networks like Internet"
+                },
+                {
+                    "id": "ウ",
+                    "ja": "情報システムにおいて、機密データを特定して監視することによって、機密データの紛失や外部への漏えいを防止する仕組み",
+                    "vi": "Cơ chế ngăn chặn mất mát dữ liệu bí mật và rò rỉ ra bên ngoài bằng cách xác định và giám sát dữ liệu bí mật trong hệ thống thông tin",
+                    "en": "Mechanism preventing loss of confidential data and leakage to outside by identifying and monitoring confidential data in information systems"
+                },
+                {
+                    "id": "エ",
+                    "ja": "ファイアウォールを用いて、インターネットと企業の内部ネットワークとの間に緩衝領域を作る仕組み",
+                    "vi": "Cơ chế tạo vùng đệm giữa Internet và mạng nội bộ doanh nghiệp sử dụng firewall",
+                    "en": "Mechanism creating buffer zone between Internet and corporate internal network using firewall"
+                }
+            ],
+            "answer": "ア"
+        }
+    ],
+    "answer_key": {
+        "15-28": "エ",
+        "15-29": "ア",
+        "15-30": "ア"
+    }
+}

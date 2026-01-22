@@ -1,0 +1,161 @@
+{
+    "page_id": 268,
+    "image": "p_0268.png",
+    "chapter": 6,
+    "section": "practice",
+    "page_number": 252,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "6-9",
+            "year": "令和6年度",
+            "question": {
+                "ja": "アジャイル開発に関する記述として、最も適切なものはどれか。",
+                "vi": "Mô tả nào phù hợp nhất về Agile Development?",
+                "en": "Which is most appropriate as a description about Agile Development?"
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "ja": "開発する機能を小さい単位に分割して、優先度の高いものから短期間で開発とリリースを繰り返す。",
+                    "vi": "Chia chức năng phát triển thành đơn vị nhỏ, lặp lại phát triển và release trong thời gian ngắn từ những cái có ưu tiên cao.",
+                    "en": "Divide functions to develop into small units, repeat development and release in short periods from high-priority items."
+                },
+                {
+                    "id": "イ",
+                    "ja": "共通フレームを適用して要件定義、設計などの工程及び作成する文書を定義する。",
+                    "vi": "Áp dụng Common Frame để định nghĩa các công đoạn như định nghĩa yêu cầu, thiết kế và tài liệu tạo ra.",
+                    "en": "Apply Common Frame to define phases like requirements definition, design and documents to create."
+                },
+                {
+                    "id": "ウ",
+                    "ja": "システム開発を上流工程から下流工程まで順番に進めて、全ての開発工程が終了してからリリースする。",
+                    "vi": "Tiến hành phát triển hệ thống theo thứ tự từ công đoạn thượng nguồn đến công đoạn hạ nguồn, release sau khi hoàn thành tất cả công đoạn.",
+                    "en": "Proceed with system development in order from upstream to downstream, release after all development phases are completed."
+                },
+                {
+                    "id": "エ",
+                    "ja": "プロトタイプを作成して利用者に確認を求め、利用者の評価とフィードバックを行いながら開発を進めていく。",
+                    "vi": "Tạo prototype để yêu cầu người dùng xác nhận, tiến hành phát triển trong khi đánh giá và feedback từ người dùng.",
+                    "en": "Create prototypes to request user confirmation, proceed with development while obtaining user evaluation and feedback."
+                }
+            ],
+            "correct_answer": "ア"
+        },
+        {
+            "type": "exam_question",
+            "number": "6-10",
+            "year": "令和3年度",
+            "question": {
+                "ja": "ソフトウェアの開発におけるDevOpsに関する記述として、最も適切なものはどれか。",
+                "vi": "Mô tả nào phù hợp nhất về DevOps trong phát triển phần mềm?",
+                "en": "Which is most appropriate as a description about DevOps in software development?"
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "ja": "開発側が重要な機能のプロトタイプを作成し、顧客とともにその性能を実測して妥当性を評価する。",
+                    "vi": "Phía phát triển tạo prototype chức năng quan trọng, đo thực tế hiệu suất cùng khách hàng và đánh giá tính hợp lệ.",
+                    "en": "Development side creates prototypes of important functions, actually measures performance with customers and evaluates validity."
+                },
+                {
+                    "id": "イ",
+                    "ja": "開発の各工程でその工程の完了を判断した上で次の工程に進み、後の段階になっても運用側に引き渡す。",
+                    "vi": "Phán đoán hoàn thành mỗi công đoạn trong phát triển rồi tiến sang công đoạn tiếp theo, bàn giao cho phía vận hành ở giai đoạn sau.",
+                    "en": "Judge completion of each development phase then proceed to next, hand over to operations side at later stage."
+                },
+                {
+                    "id": "ウ",
+                    "ja": "開発側と運用側が密接に連携し、自動化ツールなどを活用して機能の導入や更新などを迅速に進める。",
+                    "vi": "Phía phát triển và phía vận hành hợp tác chặt chẽ, sử dụng công cụ tự động hóa để tiến hành triển khai và cập nhật chức năng nhanh chóng.",
+                    "en": "Development and operations sides closely cooperate, use automation tools to rapidly proceed with function deployment and updates."
+                },
+                {
+                    "id": "エ",
+                    "ja": "システム開発においては、機能の拡張を図るために、固定された短期間のサイクルを繰り返しながらプログラムを順次追加する。",
+                    "vi": "Trong phát triển hệ thống, để mở rộng chức năng, thêm chương trình tuần tự trong khi lặp lại chu kỳ ngắn cố định.",
+                    "en": "In system development, to expand functions, sequentially add programs while repeating fixed short-period cycles."
+                }
+            ],
+            "correct_answer": "ウ"
+        },
+        {
+            "type": "exam_question",
+            "number": "6-11",
+            "year": "令和3年度",
+            "question": {
+                "ja": "クラスや継承という概念を利用して、ソフトウェアを部品化したり再利用することで、ソフトウェア開発の生産性向上を図る手法として、適切なものはどれか。",
+                "vi": "Phương pháp nào phù hợp để nâng cao năng suất phát triển phần mềm bằng cách sử dụng khái niệm class và inheritance để modular hóa và tái sử dụng phần mềm?",
+                "en": "Which is appropriate as a method to improve software development productivity by using concepts of class and inheritance to componentize and reuse software?"
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "ja": "オブジェクト指向",
+                    "vi": "Hướng đối tượng",
+                    "en": "Object Oriented"
+                },
+                {
+                    "id": "イ",
+                    "ja": "構造化",
+                    "vi": "Cấu trúc hóa",
+                    "en": "Structured"
+                },
+                {
+                    "id": "ウ",
+                    "ja": "プロセス中心アプローチ",
+                    "vi": "Tiếp cận tập trung quy trình",
+                    "en": "Process-Centered Approach"
+                },
+                {
+                    "id": "エ",
+                    "ja": "プロトタイピング",
+                    "vi": "Prototyping",
+                    "en": "Prototyping"
+                }
+            ],
+            "correct_answer": "ア"
+        },
+        {
+            "type": "exam_question",
+            "number": "6-12",
+            "year": "令和2年度",
+            "question": {
+                "ja": "リバースエンジニアリングで実施する作業として、最も適切なものはどれか。",
+                "vi": "Công việc nào phù hợp nhất để thực hiện trong Reverse Engineering?",
+                "en": "Which is most appropriate as work to perform in Reverse Engineering?"
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "ja": "開発中のソフトウェアに対する変更要求などに柔軟に対応するために、短い期間の開発を繰り返す。",
+                    "vi": "Lặp lại phát triển trong thời gian ngắn để đáp ứng linh hoạt yêu cầu thay đổi đối với phần mềm đang phát triển.",
+                    "en": "Repeat short-period development to flexibly respond to change requests for software under development."
+                },
+                {
+                    "id": "イ",
+                    "ja": "試作品のソフトウェアを作成して、利用者による評価をフィードバックして開発を進める。",
+                    "vi": "Tạo phần mềm thử nghiệm, tiến hành phát triển bằng cách feedback đánh giá của người dùng.",
+                    "en": "Create prototype software, proceed with development by feeding back user evaluation."
+                },
+                {
+                    "id": "ウ",
+                    "ja": "ソフトウェア開発において、上流から下流までを順番に実施する。",
+                    "vi": "Trong phát triển phần mềm, thực hiện tuần tự từ thượng nguồn đến hạ nguồn.",
+                    "en": "In software development, perform from upstream to downstream in order."
+                },
+                {
+                    "id": "エ",
+                    "ja": "プログラムを解析することで、ソフトウェアの仕様を調査して設計情報を抽出する。",
+                    "vi": "Bằng cách phân tích chương trình, điều tra thông số phần mềm và trích xuất thông tin thiết kế.",
+                    "en": "By analyzing programs, investigate software specifications and extract design information."
+                }
+            ],
+            "correct_answer": "エ"
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 4
+    }
+}

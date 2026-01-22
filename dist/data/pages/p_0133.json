@@ -1,0 +1,522 @@
+{
+  "page_id": 133,
+  "image": "p_0133.png",
+  "chapter": 3,
+  "section": "03-04",
+  "page_number": 117,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "企業にとって、とても重要な要素の1つです。このように、財務諸表だけでは経営戦略を正しく評価できないことから、1992年にアメリカでBSCが誕生しました。\n\nBSCでは、ボウリングのスコアカードのように、項目別に点数を付けていきます。\n\n次の図は、BSCで業績を飛躍的に伸ばしたサウスウエスト航空を参考にして作成した架空の航空会社のBSCの例です。",
+      "vi": "là một yếu tố rất quan trọng với doanh nghiệp. Như vậy, vì không thể đánh giá đúng chiến lược kinh doanh chỉ bằng báo cáo tài chính nên BSC ra đời ở Mỹ năm 1992.\n\nTrong BSC, cho điểm theo từng mục như bảng điểm bowling.\n\nHình sau là ví dụ BSC của hãng hàng không giả định được tạo tham khảo Southwest Airlines đã cải thiện hiệu suất nhờ BSC.",
+      "en": "is a very important element for companies. Thus, since financial statements alone cannot properly evaluate business strategy, BSC was born in America in 1992.\n\nIn BSC, scores are given by item like a bowling scorecard.\n\nThe following figure is a BSC example of a fictional airline created referencing Southwest Airlines which dramatically improved performance with BSC.",
+      "my": "သည် ကုမ္ပဏီများအတွက် အလွန်အရေးကြီးသော အစိတ်အပိုင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "要素",
+          "reading": "ようそ"
+        },
+        {
+          "kanji": "財務諸表",
+          "reading": "ざいむしょひょう"
+        },
+        {
+          "kanji": "経営戦略",
+          "reading": "けいえいせんりゃく"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "年",
+          "reading": "ねん"
+        },
+        {
+          "kanji": "誕生",
+          "reading": "たんじょう"
+        },
+        {
+          "kanji": "項目別",
+          "reading": "こうもくべつ"
+        },
+        {
+          "kanji": "点数",
+          "reading": "てんすう"
+        },
+        {
+          "kanji": "付",
+          "reading": "つき"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "業績",
+          "reading": "ぎょうせき"
+        },
+        {
+          "kanji": "飛躍的",
+          "reading": "ひやくてき"
+        },
+        {
+          "kanji": "伸",
+          "reading": "しん"
+        },
+        {
+          "kanji": "航空",
+          "reading": "こうくう"
+        },
+        {
+          "kanji": "参考",
+          "reading": "さんこう"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "架空",
+          "reading": "かくう"
+        },
+        {
+          "kanji": "航空会社",
+          "reading": "こうくうがいしゃ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "BSCの例",
+        "vi": "Ví dụ BSC",
+        "en": "BSC Example"
+      },
+      "headers": {
+        "ja": [
+          "視点",
+          "CSF",
+          "KPI",
+          "点数"
+        ],
+        "vi": [
+          "Góc nhìn",
+          "CSF",
+          "KPI",
+          "Điểm"
+        ],
+        "en": [
+          "Perspective",
+          "CSF",
+          "KPI",
+          "Score"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "財務",
+            "少ない機体",
+            "飛行機のリースコスト20%削減",
+            "18%削減"
+          ],
+          "vi": [
+            "Tài chính",
+            "Ít máy bay",
+            "Giảm 20% chi phí thuê máy bay",
+            "Giảm 18%"
+          ],
+          "en": [
+            "Financial",
+            "Fewer aircraft",
+            "20% aircraft lease cost reduction",
+            "18% reduction"
+          ]
+        },
+        {
+          "ja": [
+            "顧客",
+            "定時運航",
+            "顧客定着率90％以上",
+            "93%"
+          ],
+          "vi": [
+            "Khách hàng",
+            "Đúng giờ",
+            "Tỷ lệ giữ chân khách trên 90%",
+            "93%"
+          ],
+          "en": [
+            "Customer",
+            "On-time operation",
+            "Customer retention rate 90%+",
+            "93%"
+          ]
+        },
+        {
+          "ja": [
+            "業務プロセス",
+            "時間厳守",
+            "定刻離着陸率90%以上",
+            "85%"
+          ],
+          "vi": [
+            "Quy trình",
+            "Đúng giờ",
+            "Tỷ lệ cất hạ cánh đúng giờ trên 90%",
+            "85%"
+          ],
+          "en": [
+            "Process",
+            "Punctuality",
+            "On-time departure/arrival 90%+",
+            "85%"
+          ]
+        },
+        {
+          "ja": [
+            "学習と成長",
+            "従業員のモチベーション向上",
+            "クルーの持株比率70%以上",
+            "55%"
+          ],
+          "vi": [
+            "Học tập và phát triển",
+            "Nâng cao động lực nhân viên",
+            "Tỷ lệ sở hữu cổ phiếu của phi hành đoàn trên 70%",
+            "55%"
+          ],
+          "en": [
+            "Learning",
+            "Employee motivation improvement",
+            "Crew stock ownership 70%+",
+            "55%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "CSF",
+      "reading": "しーえすえふ",
+      "vi": "CSF",
+      "en": "CSF",
+      "my": "CSF"
+    },
+    {
+      "type": "paragraph",
+      "ja": "CSF（Critical Success Factors：重要成功要因）とは、戦略目標を達成するために必要となる具体的な要因です。戦略目標を達成するためにはさまざまな条件をクリアする必要がありますが、CSFには、その数ある条件の中でも最も重要なものを設定します。\n\nなお、CSFに設定される項目は往々にして「定性的」なものになります。定性的とは数字で表すことのできないもののです。例えば、社員のモチベーションなどがCSFになります。",
+      "vi": "CSF (Critical Success Factors: Yếu tố thành công quan trọng) là yếu tố cụ thể cần thiết để đạt mục tiêu chiến lược. Để đạt mục tiêu chiến lược cần đáp ứng nhiều điều kiện, nhưng CSF thiết lập điều quan trọng nhất trong số đó.\n\nLưu ý, các mục được thiết lập trong CSF thường là định tính. Định tính là những thứ không thể biểu thị bằng số. Ví dụ, động lực nhân viên là CSF.",
+      "en": "CSF (Critical Success Factors) are specific factors needed to achieve strategic goals. Various conditions must be met to achieve strategic goals, but CSF sets the most important among them.\n\nNote that CSF items are often qualitative. Qualitative means cannot be expressed in numbers. For example, employee motivation is a CSF.",
+      "my": "CSF (Critical Success Factors) သည် ဗျူဟာပန်းတိုင်များ ရောက်ရှိရန် လိုအပ်သော တိကျသော အချက်များဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "重要成功要因",
+          "reading": "じゅうようせいこうよういん"
+        },
+        {
+          "kanji": "戦略目標",
+          "reading": "せんりゃくもくひょう"
+        },
+        {
+          "kanji": "達成",
+          "reading": "たっせい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "要因",
+          "reading": "よういん"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "設定",
+          "reading": "せってい"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "往",
+          "reading": "おう"
+        },
+        {
+          "kanji": "定性的",
+          "reading": "ていせいてき"
+        },
+        {
+          "kanji": "数字",
+          "reading": "すうじ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "社員",
+          "reading": "しゃいん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "KPI",
+      "reading": "けーぴーあい",
+      "vi": "KPI",
+      "en": "KPI",
+      "my": "KPI"
+    },
+    {
+      "type": "paragraph",
+      "ja": "KPI（Key Performance Indicator：重要業績評価指標）とは、戦略目標の達成状況を表す指標です。定性的なCSFを評価するために、「定量的」なKPIを設定します。定量的とは数字で表すことができるものです。例えば、離職率などはKPIになります。\n\n戦略目標というゴールに対してどれだけ進んだか、定期的にKPIを見ることで点検します。",
+      "vi": "KPI (Key Performance Indicator: Chỉ số đánh giá hiệu suất quan trọng) là chỉ số thể hiện tình trạng đạt mục tiêu chiến lược. Để đánh giá CSF định tính, thiết lập KPI định lượng. Định lượng là những thứ có thể biểu thị bằng số. Ví dụ, tỷ lệ nghỉ việc là KPI.\n\nKiểm tra định kỳ bằng cách xem KPI để biết đã tiến bao xa so với mục tiêu chiến lược.",
+      "en": "KPI (Key Performance Indicator) indicates strategic goal achievement status. To evaluate qualitative CSF, set quantitative KPI. Quantitative means can be expressed in numbers. For example, turnover rate is a KPI.\n\nPeriodically check KPI to see how far toward the strategic goal.",
+      "my": "KPI (Key Performance Indicator) သည် ဗျူဟာပန်းတိုင် ရောက်ရှိမှု အခြေအနေကို ညွှန်ပြသည်။",
+      "terms": [
+        {
+          "kanji": "重要業績評価指標",
+          "reading": "じゅうようぎょうせきひょうかしひょう"
+        },
+        {
+          "kanji": "戦略目標",
+          "reading": "せんりゃくもくひょう"
+        },
+        {
+          "kanji": "達成状況",
+          "reading": "たっせいじょうきょう"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "指標",
+          "reading": "しひょう"
+        },
+        {
+          "kanji": "定性的",
+          "reading": "ていせいてき"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "定量的",
+          "reading": "ていりょうてき"
+        },
+        {
+          "kanji": "設定",
+          "reading": "せってい"
+        },
+        {
+          "kanji": "数字",
+          "reading": "すうじ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "離職率",
+          "reading": "りしょくりつ"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "定期的",
+          "reading": "ていきてき"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "点検",
+          "reading": "てんけん"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・BSCとは、「財務」「顧客」「業務プロセス」「学習と成長」の4つの視点から業績評価を行う手法である\n・CSF（重要成功要因）とは、戦略目標を達成するために必要となる具体的な要因である\n・KPI（重要業績評価指標）とは、戦略目標の達成状況を表す指標である",
+        "vi": "・BSC là phương pháp đánh giá hiệu suất từ 4 góc nhìn: Tài chính, Khách hàng, Quy trình, Học tập và phát triển\n・CSF (Yếu tố thành công quan trọng) là yếu tố cụ thể cần thiết để đạt mục tiêu chiến lược\n・KPI (Chỉ số đánh giá hiệu suất quan trọng) là chỉ số thể hiện tình trạng đạt mục tiêu chiến lược",
+        "en": "・BSC evaluates performance from 4 perspectives: Financial, Customer, Business Process, Learning and Growth\n・CSF (Critical Success Factors) are specific factors needed to achieve strategic goals\n・KPI (Key Performance Indicator) indicates strategic goal achievement status",
+        "my": "・ BSC သည် ရှုထောင့် ၄ ခုမှ စွမ်းဆောင်ရည်ကို အကဲဖြတ်သည်",
+        "terms": [
+          {
+            "kanji": "財務",
+            "reading": "ざいむ"
+          },
+          {
+            "kanji": "顧客",
+            "reading": "こきゃく"
+          },
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "学習",
+            "reading": "がくしゅう"
+          },
+          {
+            "kanji": "成長",
+            "reading": "せいちょう"
+          },
+          {
+            "kanji": "視点",
+            "reading": "してん"
+          },
+          {
+            "kanji": "業績評価",
+            "reading": "ぎょうせきひょうか"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "手法",
+            "reading": "しゅほう"
+          },
+          {
+            "kanji": "重要成功要因",
+            "reading": "じゅうようせいこうよういん"
+          },
+          {
+            "kanji": "戦略目標",
+            "reading": "せんりゃくもくひょう"
+          },
+          {
+            "kanji": "達成",
+            "reading": "たっせい"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          },
+          {
+            "kanji": "具体的",
+            "reading": "ぐたいてき"
+          },
+          {
+            "kanji": "要因",
+            "reading": "よういん"
+          },
+          {
+            "kanji": "重要業績評価指標",
+            "reading": "じゅうようぎょうせきひょうかしひょう"
+          },
+          {
+            "kanji": "達成状況",
+            "reading": "たっせいじょうきょう"
+          },
+          {
+            "kanji": "表",
+            "reading": "おもて"
+          },
+          {
+            "kanji": "指標",
+            "reading": "しひょう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "CSF",
+      "reading": "しーえすえふ",
+      "romaji": "CSF",
+      "vi": "Yếu tố thành công quan trọng",
+      "en": "Critical Success Factors",
+      "my": "CSF"
+    },
+    {
+      "kanji": "KPI",
+      "reading": "けーぴーあい",
+      "romaji": "KPI",
+      "vi": "Chỉ số đánh giá hiệu suất quan trọng",
+      "en": "Key Performance Indicator",
+      "my": "KPI"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

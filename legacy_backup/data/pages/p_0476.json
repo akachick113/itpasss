@@ -1,0 +1,250 @@
+{
+  "page_id": 476,
+  "image": "p_0476.png",
+  "chapter": 13,
+  "section": "13-02",
+  "page_number": 460,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "フィールド",
+      "vi": "Trường",
+      "en": "Field"
+    },
+    {
+      "type": "paragraph",
+      "ja": "フィールドとは、行を構成する個々の要素です。1つの関係データベースは、複数の表（テーブル）から構成され、1つの表は複数の行から構成され、1つの行は複数のフィールドから構成されます。",
+      "vi": "Trường là các yếu tố riêng lẻ cấu thành hàng. 1 cơ sở dữ liệu quan hệ được cấu thành từ nhiều bảng (table), 1 bảng được cấu thành từ nhiều hàng, và 1 hàng được cấu thành từ nhiều trường.",
+      "en": "Field is individual elements composing row. 1 relational database consists of multiple tables, 1 table consists of multiple rows, and 1 row consists of multiple fields.",
+      "terms": [
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "個",
+          "reading": "こ"
+        },
+        {
+          "kanji": "要素",
+          "reading": "ようそ"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "関係データベース、表、行、フィールドの関係",
+        "vi": "Quan hệ giữa Cơ sở dữ liệu quan hệ, Bảng, Hàng, Trường",
+        "en": "Relationship of Relational Database, Table, Row, Field"
+      },
+      "description": {
+        "ja": "関係データベースは表の集まり → 表は行の集まり → 行はフィールドの集まり",
+        "vi": "Cơ sở dữ liệu quan hệ là tập hợp các bảng → Bảng là tập hợp các hàng → Hàng là tập hợp các trường",
+        "en": "Relational database is collection of tables → Table is collection of rows → Row is collection of fields"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "関係データベースは、表の集まり",
+          "vi": "Cơ sở dữ liệu quan hệ là tập hợp các bảng",
+          "en": "Relational database is collection of tables"
+        },
+        {
+          "ja": "表は、行の集まり",
+          "vi": "Bảng là tập hợp các hàng",
+          "en": "Table is collection of rows"
+        },
+        {
+          "ja": "行は、フィールドの集まり",
+          "vi": "Hàng là tập hợp các trường",
+          "en": "Row is collection of fields"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "主キー",
+      "vi": "Khóa chính",
+      "en": "Primary Key"
+    },
+    {
+      "type": "paragraph",
+      "ja": "主キーとは、表の中からある特定の行を識別するための列です。専門的な表現を使うと「行を一意に識別するための列」といいます。「一意に識別する」とは、膨大な行の中から、1つの行を特定することです。",
+      "vi": "Khóa chính là cột để nhận dạng một hàng cụ thể trong bảng. Dùng cách diễn đạt chuyên môn là \"cột để nhận dạng duy nhất hàng\". \"Nhận dạng duy nhất\" là xác định 1 hàng từ trong số lượng hàng khổng lồ.",
+      "en": "Primary key is column to identify specific row in table. Using technical expression, 'column to uniquely identify row.' 'Uniquely identify' means identifying 1 row from massive number of rows.",
+      "terms": [
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "識別",
+          "reading": "しきべつ"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "専門的",
+          "reading": "せんもんてき"
+        },
+        {
+          "kanji": "表現",
+          "reading": "ひょうげん"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "一意",
+          "reading": "いちい"
+        },
+        {
+          "kanji": "膨大",
+          "reading": "ぼうだい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "前ページの表のように、行が3行しか登録されていない場合は、簡単に目的のデータを探し出せますが、行が数万行、数十万行になると、データを探すだけでも一苦労です。そのような場合に役立つのが主キーです。",
+      "vi": "Như bảng ở trang trước, khi chỉ có 3 hàng được đăng ký, có thể dễ dàng tìm ra dữ liệu mục tiêu, nhưng khi hàng lên đến hàng chục ngàn, hàng trăm ngàn, chỉ tìm dữ liệu cũng vất vả. Trong trường hợp như vậy, khóa chính rất hữu ích.",
+      "en": "Like previous page table, when only 3 rows registered, can easily find target data, but when rows reach tens of thousands, hundreds of thousands, just searching data is difficult. In such cases, primary key is useful.",
+      "terms": [
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "登録",
+          "reading": "とうろく"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "探",
+          "reading": "たん"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "数万行",
+          "reading": "すうまんぎょう"
+        },
+        {
+          "kanji": "数十万行",
+          "reading": "すうじゅうまんぎょう"
+        },
+        {
+          "kanji": "一苦労",
+          "reading": "ひとくろう"
+        },
+        {
+          "kanji": "役立",
+          "reading": "やくりつ"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "フィールド",
+      "vi": "Trường",
+      "en": "Field",
+      "my": "ဖီး"
+    },
+    {
+      "term": "主キー",
+      "reading": "しゅキー",
+      "vi": "Khóa chính",
+      "en": "Primary Key",
+      "my": "ပရိုင်မရီ ကီး"
+    },
+    {
+      "term": "一意",
+      "reading": "いちい",
+      "vi": "Duy nhất",
+      "en": "Unique",
+      "my": "ယူနီခ်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

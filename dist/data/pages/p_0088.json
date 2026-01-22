@@ -1,0 +1,171 @@
+{
+    "page_id": 88,
+    "image": "p_0088.png",
+    "chapter": 2,
+    "section": "questions",
+    "page_number": 72,
+    "content": [
+        {
+            "type": "section_header",
+            "ja": "出る順！過去問＆完全解説",
+            "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích đầy đủ",
+            "en": "By Frequency! Past Questions & Full Explanations"
+        },
+        {
+            "type": "exam_question",
+            "number": "2-1",
+            "year": "平成28年度",
+            "question": {
+                "ja": "著作権法による保護の対象となるものはどれか。",
+                "vi": "Đâu là đối tượng được bảo vệ bởi Luật quyền tác giả?",
+                "en": "Which is protected by Copyright Law?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "アルゴリズム",
+                    "vi": "Thuật toán",
+                    "en": "Algorithm"
+                },
+                {
+                    "label": "イ",
+                    "ja": "操作マニュアル",
+                    "vi": "Hướng dẫn sử dụng",
+                    "en": "Operation Manual",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "プログラム言語",
+                    "vi": "Ngôn ngữ lập trình",
+                    "en": "Programming Language"
+                },
+                {
+                    "label": "エ",
+                    "ja": "プロトコル",
+                    "vi": "Giao thức",
+                    "en": "Protocol"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-2",
+            "year": "平成21年度",
+            "question": {
+                "ja": "知的財産権のうち、権利の発生のために申請や登録の手続を必要としないものはどれか。",
+                "vi": "Trong quyền sở hữu trí tuệ, loại nào không cần thủ tục đăng ký để phát sinh quyền?",
+                "en": "Among IP rights, which doesn't require application/registration to arise?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "意匠権",
+                    "vi": "Quyền kiểu dáng",
+                    "en": "Design Rights"
+                },
+                {
+                    "label": "イ",
+                    "ja": "実用新案権",
+                    "vi": "Quyền mẫu hữu ích",
+                    "en": "Utility Model Rights"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "著作権",
+                    "vi": "Quyền tác giả",
+                    "en": "Copyright",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "特許権",
+                    "vi": "Quyền sáng chế",
+                    "en": "Patent Rights"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-3",
+            "year": "平成26年度",
+            "question": {
+                "ja": "著作権法の保護の対象となるものはどれか。",
+                "vi": "Đâu là đối tượng được bảo vệ bởi Luật quyền tác giả?",
+                "en": "Which is protected by Copyright Law?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "形状や色が斬新な机のデザイン",
+                    "vi": "Thiết kế bàn có hình dạng và màu sắc mới lạ",
+                    "en": "Novel desk design with unique shape/color"
+                },
+                {
+                    "label": "イ",
+                    "ja": "自然法則を利用した技術的に新しい仕組み",
+                    "vi": "Cơ chế kỹ thuật mới sử dụng quy luật tự nhiên",
+                    "en": "New technical mechanism using natural laws"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "新発売した商品の名称",
+                    "vi": "Tên sản phẩm mới phát hành",
+                    "en": "Name of newly released product"
+                },
+                {
+                    "label": "エ",
+                    "ja": "風景を撮影した写真",
+                    "vi": "Ảnh chụp phong cảnh",
+                    "en": "Landscape photograph",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-4",
+            "year": "平成23年度",
+            "question": {
+                "ja": "不正競争防止法の不正競争に該当するものはどれか。",
+                "vi": "Đâu thuộc cạnh tranh không lành mạnh theo Luật chống cạnh tranh không lành mạnh?",
+                "en": "Which constitutes unfair competition under Unfair Competition Prevention Law?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "競争関係にある他社の信用の低下につながる、反社会的な行為を公表した。",
+                    "vi": "Công bố hành vi phi xã hội gây giảm uy tín của đối thủ cạnh tranh.",
+                    "en": "Published antisocial acts lowering competitor's credibility."
+                },
+                {
+                    "label": "イ",
+                    "ja": "自社で使っているドメイン名が、偶然他社のドメイン名と類似していた。",
+                    "vi": "Tên miền công ty tình cờ giống tên miền công ty khác.",
+                    "en": "Company's domain name coincidentally similar to another's."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "新聞に記載されていた掃除用具開発の着想を参考にして、オリジナルな文房具を開発した。",
+                    "vi": "Phát triển văn phòng phẩm độc đáo tham khảo ý tưởng phát triển dụng cụ vệ sinh từ báo.",
+                    "en": "Developed original stationery referencing cleaning tool development idea from newspaper."
+                },
+                {
+                    "label": "エ",
+                    "ja": "取引先から入手した情報が他社の営業秘密に当たるものであることを知っていながら、自社で使用した。",
+                    "vi": "Biết thông tin nhận từ đối tác là bí mật kinh doanh của công ty khác nhưng vẫn sử dụng.",
+                    "en": "Used information from partner knowing it was another company's trade secret.",
+                    "correct": true
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "questions_covered": "2-1, 2-2, 2-3, 2-4",
+        "answers": "2-1: イ, 2-2: ウ, 2-3: エ, 2-4: エ"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "page_id": 211,
+    "image": "p_0211.png",
+    "chapter": 5,
+    "section": "practice",
+    "page_number": 195,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "5-9",
+            "year": "令和3年度",
+            "question": {
+                "ja": "テレワークに関する記述として、最も適切なものはどれか。",
+                "vi": "Mô tả phù hợp nhất về Telework là gì?",
+                "en": "Which is the most appropriate description of Telework?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "ITを活用した、場所や時間にとらわれない柔軟な働き方のこと",
+                    "vi": "Cách làm việc linh hoạt sử dụng IT không bị ràng buộc bởi địa điểm hoặc thời gian",
+                    "en": "Flexible way of working using IT without being bound by location or time",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "ある業務に対して従来割り当てていた人数を増員し、業務を細分化して配分すること",
+                    "vi": "Tăng số người được phân công trước đây cho một nghiệp vụ và phân chia nghiệp vụ thành các phần nhỏ",
+                    "en": "Increasing the number of people previously assigned to a task and subdividing and distributing work"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "個人が所有するPCやスマートデバイスなどの機器を、会社が許可を与えた上でオフィスでの業務に利用させること",
+                    "vi": "Cho phép sử dụng thiết bị như PC hoặc smart device cá nhân sở hữu cho công việc văn phòng với sự cho phép của công ty",
+                    "en": "Allowing personal devices like PCs and smart devices to be used for office work with company permission"
+                },
+                {
+                    "label": "エ",
+                    "ja": "仕事の時間と私生活の時間の調和に取り組むこと",
+                    "vi": "Cố gắng hài hòa giữa thời gian làm việc và thời gian cuộc sống cá nhân",
+                    "en": "Striving to harmonize work time and personal life time"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-10",
+            "year": "令和6年度",
+            "question": {
+                "ja": "インターネットを介して個人や企業が保有する住宅などの遊休資産の貸出しを仲介するサービスや仕組みを表す用語として、最も適切なものはどれか。",
+                "vi": "Thuật ngữ phù hợp nhất biểu thị dịch vụ hoặc cơ chế môi giới cho thuê tài sản nhàn rỗi như nhà ở do cá nhân hoặc doanh nghiệp sở hữu qua internet là gì?",
+                "en": "What is the most appropriate term for a service or mechanism that mediates lending idle assets like housing owned by individuals or companies via the internet?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "シェアードサービス",
+                    "vi": "Shared Service",
+                    "en": "Shared Service"
+                },
+                {
+                    "label": "イ",
+                    "ja": "シェアウェア",
+                    "vi": "Shareware",
+                    "en": "Shareware"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "シェアリングエコノミー",
+                    "vi": "Sharing Economy",
+                    "en": "Sharing Economy",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "ワークシェアリング",
+                    "vi": "Work Sharing",
+                    "en": "Work Sharing"
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "ja": "解答・解説",
+            "vi": "Đáp án và Giải thích",
+            "en": "Answers and Explanations"
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-1",
+            "answer": "イ",
+            "explanation": {
+                "ja": "情報戦略とは「情報システム戦略」のことです。情報システム戦略を立案する際に考えるべきことは「あるべき姿を明確にすること」「全体の最適化」「経営戦略に基づいていること」の3つです。\n\nア. IT技術の進化に的確に対応したとしても、経営戦略に基づいていない情報戦略は逆効果となる可能性があります。\nウ. 現行システムとの整合性を考えてしまうと、部分最適になります。よって企業全体としては非効率になる場合があります。全体最適を目指すには経営戦略との整合性が重要です。\nエ. 「他社が情報システムを導入したから自社も導入しよう」という考え方ありますが、自社の経営戦略に基づいていない情報システムの導入は逆効果となる可能性があります。",
+                "vi": "Chiến lược thông tin là chiến lược hệ thống thông tin. Điều cần xem xét khi lập chiến lược hệ thống thông tin là 3 điểm: làm rõ hình ảnh lý tưởng, tối ưu hóa tổng thể, dựa trên chiến lược kinh doanh.\n\nA. Dù đối ứng chính xác với tiến hóa công nghệ IT, chiến lược thông tin không dựa trên chiến lược kinh doanh có thể phản tác dụng.\nC. Nếu xem xét sự nhất quán với hệ thống hiện tại sẽ thành tối ưu hóa bộ phận. Vì vậy có thể kém hiệu quả cho toàn doanh nghiệp. Để hướng tới tối ưu hóa tổng thể, sự nhất quán với chiến lược kinh doanh quan trọng.\nD. Có suy nghĩ công ty khác đưa hệ thống thông tin nên công ty mình cũng đưa, nhưng đưa hệ thống thông tin không dựa trên chiến lược kinh doanh của công ty có thể phản tác dụng.",
+                "en": "Information strategy means 'information system strategy'. Three things to consider when formulating information system strategy are: clarify ideal state, total optimization, based on business strategy.\n\nA. Even if responding accurately to IT evolution, information strategy not based on business strategy may be counterproductive.\nC. Considering alignment with current systems leads to partial optimization, which may be inefficient for the entire company. For total optimization, alignment with business strategy is important.\nD. While there's thinking like 'another company introduced IS so we should too', introducing IS not based on own business strategy may be counterproductive."
+            }
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "has_answers": true
+    }
+}

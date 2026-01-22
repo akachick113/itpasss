@@ -1,0 +1,301 @@
+{
+  "page_id": 319,
+  "image": "p_0319.png",
+  "chapter": 8,
+  "section": "08-05",
+  "page_number": 303,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "システム監査の3つのポイント",
+      "reading": "しすてむかんさの3つのぽいんと",
+      "vi": "3 điểm của System Audit",
+      "en": "3 Points of System Audit"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システム監査を行う際に気をつけるべきポイントとして、次の3つのポイントがあります。",
+      "vi": "Có 3 điểm sau cần chú ý khi thực hiện System Audit.",
+      "en": "There are following 3 points to be careful about when conducting System Audit.",
+      "terms": [
+        {
+          "kanji": "監査",
+          "reading": "かんさ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "気",
+          "reading": "き"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "システム監査の3つのポイント",
+        "vi": "3 điểm của System Audit",
+        "en": "3 Points of System Audit"
+      },
+      "headers": {
+        "ja": [
+          "ポイント",
+          "説明"
+        ],
+        "vi": [
+          "Điểm",
+          "Giải thích"
+        ],
+        "en": [
+          "Point",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "point": {
+            "ja": "信頼性",
+            "vi": "Reliability",
+            "en": "Reliability"
+          },
+          "description": {
+            "ja": "情報システムの品質、ならびに障害の発生、影響範囲、および回復の度合い。",
+            "vi": "Chất lượng hệ thống thông tin, cũng như sự phát sinh sự cố, phạm vi ảnh hưởng và mức độ khôi phục.",
+            "en": "Quality of information system, as well as occurrence of failures, scope of impact, and degree of recovery."
+          }
+        },
+        {
+          "point": {
+            "ja": "安全性",
+            "vi": "Safety",
+            "en": "Safety"
+          },
+          "description": {
+            "ja": "情報システムの自然災害、不正アクセス、および破壊行為からの保護の度合い。",
+            "vi": "Mức độ bảo vệ hệ thống thông tin khỏi thiên tai, truy cập trái phép và hành vi phá hoại.",
+            "en": "Degree of protection of information system from natural disasters, unauthorized access, and vandalism."
+          }
+        },
+        {
+          "point": {
+            "ja": "効率性",
+            "vi": "Efficiency",
+            "en": "Efficiency"
+          },
+          "description": {
+            "ja": "情報システムの資源の活用、および費用対効果の度合い。",
+            "vi": "Mức độ sử dụng tài nguyên hệ thống thông tin và hiệu quả chi phí.",
+            "en": "Degree of resource utilization and cost-effectiveness of information system."
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "中でも安全性の「アクセス管理が適切か否か」が重要です。アクセス管理がしっかりと行われていないと、誤ってデータを消してしまったり、悪意のある人がシステムに不正アクセスしたりする可能性が生じます。",
+      "vi": "Trong đó, \"việc quản lý truy cập có phù hợp không\" trong Safety là quan trọng. Nếu quản lý truy cập không được thực hiện đúng, có thể xảy ra việc xóa dữ liệu nhầm hoặc người có ác ý truy cập trái phép vào hệ thống.",
+      "en": "Among these, 'whether access management is appropriate' in Safety is important. If access management isn't properly done, there's possibility of accidentally deleting data or malicious people accessing system illegally.",
+      "terms": [
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "安全性",
+          "reading": "あんぜんせい"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "適切",
+          "reading": "てきせつ"
+        },
+        {
+          "kanji": "否",
+          "reading": "ひ"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "誤",
+          "reading": "ご"
+        },
+        {
+          "kanji": "消",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "悪意",
+          "reading": "あくい"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "システム監査の目的は、リスクに適切に対応しているかを評価すること",
+          "vi": "Mục đích của System Audit là đánh giá xem có ứng phó thích hợp với Risk không",
+          "en": "System Audit's purpose is to evaluate whether responding appropriately to Risks"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！情報セキュリティ監査",
+        "vi": "Chi tiết hơn! Information Security Audit",
+        "en": "More Details! Information Security Audit"
+      },
+      "content": {
+        "ja": "業務監査、会計監査、システム監査、情報セキュリティ監査の4つの監査うちの「情報セキュリティ監査」は、システム監査の3つの情報セキュリティに特化した監査です。システム監査と情報セキュリティ監査の違いは「監査の対象」で、システム監査の対象は「システム」であり、情報セキュリティ監査の対象は「情報資産」です。情報資産とは、紙やコンピュータに保存された価値のある情報です。情報セキュリティ監査で気をつけべきポイントは「機密性」「完全性」「可用性」の3つです（p.537）。",
+        "vi": "\"Information Security Audit\" trong 4 loại audit (Business Audit, Accounting Audit, System Audit, Information Security Audit) là audit chuyên về 3 điểm bảo mật thông tin của System Audit. Sự khác biệt giữa System Audit và Information Security Audit là \"đối tượng audit\": đối tượng System Audit là \"hệ thống\", đối tượng Information Security Audit là \"tài sản thông tin\". Tài sản thông tin là thông tin có giá trị được lưu trữ trên giấy hoặc máy tính. 3 điểm cần chú ý trong Information Security Audit là \"Confidentiality\" \"Integrity\" \"Availability\" (trang 537).",
+        "en": "Among 4 audits (Business, Accounting, System, Information Security Audit), 'Information Security Audit' is audit specialized in 3 information security points of System Audit. Difference between System Audit and Information Security Audit is 'audit target': System Audit target is 'system,' Information Security Audit target is 'information assets.' Information assets are valuable information stored on paper or computer. 3 points to note in Information Security Audit are 'Confidentiality' 'Integrity' 'Availability' (p.537)."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "監査の流れ",
+      "reading": "かんさのながれ",
+      "vi": "Quy trình Audit",
+      "en": "Audit Flow"
+    },
+    {
+      "type": "paragraph",
+      "ja": "監査に関する問題では、設問中に次の5つの用語が出ます。これらの用語の意味がわからないと、正答できないことがあるので、まずは次ページの図を見て、それぞれの役割を把握しておいてください。",
+      "vi": "Trong các câu hỏi về audit, 5 thuật ngữ sau xuất hiện trong đề. Nếu không biết nghĩa của những thuật ngữ này, có thể không trả lời đúng, nên trước tiên hãy xem sơ đồ ở trang sau và nắm vai trò của từng loại.",
+      "en": "In audit questions, following 5 terms appear. If you don't know meaning of these terms, you may not answer correctly, so first look at diagram on next page and understand each role.",
+      "terms": [
+        {
+          "kanji": "監査",
+          "reading": "かんさ"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "設問中",
+          "reading": "せつもんなか"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "正答",
+          "reading": "せいとう"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "信頼性",
+      "reading": "しんらいせい",
+      "romaji": "Shinraisei",
+      "vi": "Độ tin cậy",
+      "en": "Reliability",
+      "my": "ယုံကြည်နိုင်မှု"
+    },
+    {
+      "kanji": "安全性",
+      "reading": "あんぜんせい",
+      "romaji": "Anzensei",
+      "vi": "An toàn",
+      "en": "Safety",
+      "my": "လုံခြုံရေး"
+    },
+    {
+      "kanji": "効率性",
+      "reading": "こうりつせい",
+      "romaji": "Kouritsusei",
+      "vi": "Hiệu quả",
+      "en": "Efficiency",
+      "my": "ထိရောက်မှု"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true
+  }
+}

@@ -1,0 +1,144 @@
+{
+    "page_id": 307,
+    "image": "p_0307.png",
+    "chapter": 8,
+    "section": "practice",
+    "page_number": 291,
+    "content": [
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "出る順！過去問＆完全解説",
+                "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích hoàn chỉnh",
+                "en": "By Frequency! Past Questions & Complete Explanations"
+            },
+            "note": {
+                "ja": "解答・解説はp.293参照",
+                "vi": "Xem đáp án và giải thích ở trang 293",
+                "en": "See p.293 for answers and explanations"
+            }
+        },
+        {
+            "type": "exam_question",
+            "number": "8-1",
+            "year": "平成21年度",
+            "question": {
+                "ja": "ITサービスの提供者と顧客の間でサービスレベルに関して取り交わすSLAの目的はどれか。",
+                "vi": "Mục đích của SLA được trao đổi giữa nhà cung cấp IT Service và khách hàng về Service Level là gì?",
+                "en": "What is purpose of SLA exchanged between IT Service provider and customer regarding Service Level?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. サービスの範囲と品質を明確にする。",
+                    "vi": "ア. Làm rõ phạm vi và chất lượng dịch vụ.",
+                    "en": "ア. Clarify service scope and quality."
+                },
+                {
+                    "ja": "イ. サービスマネジメントを定期的にチェックする手順を明確にする。",
+                    "vi": "イ. Làm rõ quy trình kiểm tra Service Management định kỳ.",
+                    "en": "イ. Clarify procedure to periodically check Service Management."
+                },
+                {
+                    "ja": "ウ. システム化目標を明確にする。",
+                    "vi": "ウ. Làm rõ mục tiêu hệ thống hóa.",
+                    "en": "ウ. Clarify systemization goals."
+                },
+                {
+                    "ja": "エ. 要員に必要な教育を明確にする。",
+                    "vi": "エ. Làm rõ đào tạo cần thiết cho nhân viên.",
+                    "en": "エ. Clarify necessary training for personnel."
+                }
+            ],
+            "correct_answer": "ア"
+        },
+        {
+            "type": "exam_question",
+            "number": "8-2",
+            "year": "平成27年度",
+            "question": {
+                "ja": "IT運用の効率化を図り、可用性をはじめとするサービスの品質を高めようとするマネジメントシステムとして、適切なものはどれか。",
+                "vi": "Hệ thống Management nào thích hợp để nâng cao hiệu quả vận hành IT và cải thiện chất lượng dịch vụ bao gồm khả dụng?",
+                "en": "Which Management System is appropriate to improve IT operation efficiency and service quality including availability?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. ITの技術戦略マネジメント",
+                    "vi": "ア. IT Technology Strategy Management",
+                    "en": "ア. IT Technology Strategy Management"
+                },
+                {
+                    "ja": "イ. ITサービスマネジメント",
+                    "vi": "イ. IT Service Management",
+                    "en": "イ. IT Service Management"
+                },
+                {
+                    "ja": "ウ. ITプロジェクトのスコープマネジメント",
+                    "vi": "ウ. IT Project Scope Management",
+                    "en": "ウ. IT Project Scope Management"
+                },
+                {
+                    "ja": "エ. ITプロジェクトのタイムマネジメント",
+                    "vi": "エ. IT Project Time Management",
+                    "en": "エ. IT Project Time Management"
+                }
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "8-3",
+            "year": "平成28年度",
+            "question": {
+                "ja": "SLAの合意内容を達成するために、サービス状況のモニタリングやレビューなどを通じてサービスレベルの維持や向上を図る活動を何というか。",
+                "vi": "Hoạt động duy trì và nâng cao Service Level thông qua monitoring và review tình trạng dịch vụ để đạt nội dung thỏa thuận SLA gọi là gì?",
+                "en": "What is activity to maintain and improve Service Level through monitoring and reviewing service status to achieve SLA agreed content?"
+            },
+            "choices": [
+                "ア. CSR",
+                "イ. ERP",
+                "ウ. SLM",
+                "エ. SWOT"
+            ],
+            "correct_answer": "ウ"
+        },
+        {
+            "type": "exam_question",
+            "number": "8-4",
+            "year": "平成21年度",
+            "question": {
+                "ja": "ITサービスにおいて、合意したサービス時間中に実際にサービスをどれくらい利用できるかを表す用語はどれか。",
+                "vi": "Thuật ngữ biểu thị mức độ có thể sử dụng dịch vụ thực tế trong thời gian dịch vụ đã thỏa thuận trong IT Service là gì?",
+                "en": "What term represents how much service can actually be used during agreed service time in IT Service?"
+            },
+            "choices": [
+                "ア. 応答性",
+                "イ. 可用性",
+                "ウ. 完全性",
+                "エ. 機密性"
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "8-5",
+            "year": "平成24年度",
+            "question": {
+                "ja": "ITサービスマネジメントのベストプラクティスを集めたフレームワークはどれか。",
+                "vi": "Framework tập hợp Best Practice của IT Service Management là gì?",
+                "en": "What is framework collecting IT Service Management Best Practices?"
+            },
+            "choices": [
+                "ア. ISO 14001",
+                "イ. ISO 27001",
+                "ウ. ITIL",
+                "エ. JIS Q 15001"
+            ],
+            "correct_answer": "ウ"
+        }
+    ],
+    "answers_summary": "問題8-1 ア　問題8-2 イ　問題8-3 ウ　問題8-4 イ　問題8-5 ウ",
+    "meta": {
+        "has_questions": true,
+        "question_count": 5
+    }
+}

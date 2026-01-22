@@ -1,0 +1,290 @@
+{
+  "page_id": 402,
+  "image": "p_0402.png",
+  "chapter": 10,
+  "section": "10-05",
+  "page_number": 386,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "フォールトトレラントとは",
+      "vi": "Fault Tolerant là gì",
+      "en": "What is Fault Tolerant"
+    },
+    {
+      "type": "paragraph",
+      "ja": "フォールトトレラント（Fault Tolerant）とは、コンピュータが故障した場合でも、システムを停止させないための設計です。",
+      "vi": "Fault Tolerant là thiết kế để không dừng hệ thống ngay cả khi máy tính gặp sự cố.",
+      "en": "Fault Tolerant is design to not stop system even when computer fails.",
+      "terms": [
+        {
+          "kanji": "故障",
+          "reading": "こしょう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "停止",
+          "reading": "ていし"
+        },
+        {
+          "kanji": "設計",
+          "reading": "せっけい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "コンピュータは電子機器製品なので、どれだけ丁寧に扱ったとしても、必ずいつかは故障します。まったく故障しないコンピュータというものは存在しません。このため、大切なことは「故障しないコンピュータを用意すること」ではなく、「あるコンピュータが故障しても、システムとしては稼働を続けられるようにすること」です。特に銀行や飛行機、原子力などに関わるシステムは、私たちの生活に大きな影響があるので、フォールトトレラントが重要です。",
+      "vi": "Máy tính là sản phẩm điện tử nên dù xử lý cẩn thận đến đâu, chắc chắn sẽ hỏng vào lúc nào đó. Không tồn tại máy tính hoàn toàn không hỏng. Vì vậy, điều quan trọng không phải là \"chuẩn bị máy tính không hỏng\" mà là \"làm cho hệ thống tiếp tục hoạt động ngay cả khi một máy tính hỏng\". Đặc biệt với các hệ thống liên quan đến ngân hàng, máy bay, năng lượng hạt nhân, v.v. có ảnh hưởng lớn đến cuộc sống của chúng ta, nên Fault Tolerant rất quan trọng.",
+      "en": "Computers are electronic products so no matter how carefully handled, will definitely fail someday. Computer that never fails doesn't exist. Therefore, important thing is not 'preparing computer that doesn't fail' but 'making system continue operating even when one computer fails.' Especially systems related to banks, airplanes, nuclear power, etc. have major impact on our lives, so Fault Tolerant is important.",
+      "terms": [
+        {
+          "kanji": "電子機器製品",
+          "reading": "でんしききせいひん"
+        },
+        {
+          "kanji": "丁寧",
+          "reading": "ていねい"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "故障",
+          "reading": "こしょう"
+        },
+        {
+          "kanji": "存在",
+          "reading": "そんざい"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "kanji": "用意",
+          "reading": "ようい"
+        },
+        {
+          "kanji": "稼働",
+          "reading": "かどう"
+        },
+        {
+          "kanji": "続",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "特",
+          "reading": "とく"
+        },
+        {
+          "kanji": "銀行",
+          "reading": "ぎんこう"
+        },
+        {
+          "kanji": "飛行機",
+          "reading": "ひこうき"
+        },
+        {
+          "kanji": "原子力",
+          "reading": "げんしりょく"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "私",
+          "reading": "わたし"
+        },
+        {
+          "kanji": "生活",
+          "reading": "せいかつ"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "影響",
+          "reading": "えいきょう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！フォールトトレラントの意味",
+        "vi": "Chi tiết hơn! Ý nghĩa của Fault Tolerant",
+        "en": "More Details! Meaning of Fault Tolerant"
+      },
+      "content": {
+        "ja": "フォールト（Fault）とは「障害」、トレラント（Tolerant）とは「耐える」という意味です。つまり、フォールトトレラントは「障害に耐える」という意味になります。",
+        "vi": "Fault có nghĩa là \"sự cố\", Tolerant có nghĩa là \"chịu đựng\". Tức là, Fault Tolerant có nghĩa là \"chịu đựng sự cố\".",
+        "en": "Fault means 'failure,' Tolerant means 'endure.' So Fault Tolerant means 'endure failures.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "信頼性に関するその他の用語",
+      "vi": "Các thuật ngữ khác về độ tin cậy",
+      "en": "Other Terms Related to Reliability"
+    },
+    {
+      "type": "paragraph",
+      "ja": "フォールトトレラントの他にもシステムの信頼性に関する用語には次のものがあります。フォールトトレラントとの違いをきちんと把握しておいてください。",
+      "vi": "Ngoài Fault Tolerant, còn có các thuật ngữ sau về độ tin cậy của hệ thống. Hãy nắm rõ sự khác biệt với Fault Tolerant.",
+      "en": "Besides Fault Tolerant, following terms relate to system reliability. Please understand differences from Fault Tolerant properly.",
+      "terms": [
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "信頼性",
+          "reading": "しんらいせい"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "信頼性に関するその他の用語",
+        "vi": "Các thuật ngữ khác về độ tin cậy",
+        "en": "Other Reliability Terms"
+      },
+      "headers": {
+        "ja": [
+          "名称",
+          "説明"
+        ],
+        "vi": [
+          "Tên gọi",
+          "Giải thích"
+        ],
+        "en": [
+          "Name",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "name": {
+            "ja": "フェールソフト",
+            "vi": "Fail-soft",
+            "en": "Fail-soft"
+          },
+          "description": {
+            "ja": "システムの一部に障害が起きた場合に、たとえ性能が落ちたとしても、システム全体は動作させる設計。例えば、飛行機はエンジンが1つ故障しても飛行を継続できる設計になっている。",
+            "vi": "Thiết kế cho phép toàn bộ hệ thống tiếp tục hoạt động ngay cả khi một phần gặp sự cố, dù hiệu suất có giảm. Ví dụ, máy bay được thiết kế có thể tiếp tục bay ngay cả khi một động cơ hỏng.",
+            "en": "Design keeping entire system running even if part fails, even if performance drops. For example, airplane designed to continue flying even if one engine fails."
+          }
+        },
+        {
+          "name": {
+            "ja": "フェールセーフ",
+            "vi": "Fail-safe",
+            "en": "Fail-safe"
+          },
+          "description": {
+            "ja": "システムに障害が起きた場合に、システムを止めてでも、安全を優先させる設計。例えば、交通管制システムが故障したときに赤の点灯する設計のこと。",
+            "vi": "Thiết kế ưu tiên an toàn, ngay cả khi dừng hệ thống, khi hệ thống gặp sự cố. Ví dụ, thiết kế đèn đỏ bật khi hệ thống quản lý giao thông hỏng.",
+            "en": "Design prioritizing safety, even stopping system, when system fails. For example, design where red light turns on when traffic control system fails."
+          }
+        },
+        {
+          "name": {
+            "ja": "フールプルーフ",
+            "vi": "Foolproof",
+            "en": "Foolproof"
+          },
+          "description": {
+            "ja": "人間が間違った使い方をしても、システムに異常が起こらないようにする設計。例えば、ドアを開かないと加熱できない電子レンジのこと。",
+            "vi": "Thiết kế để hệ thống không xảy ra bất thường ngay cả khi người dùng sai cách. Ví dụ, lò vi sóng không thể làm nóng nếu không mở cửa.",
+            "en": "Design preventing system abnormality even when humans use incorrectly. For example, microwave that can't heat unless door is closed."
+          }
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "フォールトトレラントとは、コンピュータが故障した場合でも、システムを停止させないための設計のこと",
+          "vi": "Fault Tolerant là thiết kế để không dừng hệ thống ngay cả khi máy tính gặp sự cố",
+          "en": "Fault Tolerant is design to not stop system even when computer fails"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "フェールソフト",
+      "vi": "Fail-soft (giảm chức năng)",
+      "en": "Fail-soft",
+      "my": "ဖိုးဆော့ဖ်"
+    },
+    {
+      "term": "フェールセーフ",
+      "vi": "Fail-safe (an toàn khi lỗi)",
+      "en": "Fail-safe",
+      "my": "ဖိုးဆေ့ဖ်"
+    },
+    {
+      "term": "フールプルーフ",
+      "vi": "Foolproof (chống lỗi người dùng)",
+      "en": "Foolproof",
+      "my": "ဖူးပြုးဖ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

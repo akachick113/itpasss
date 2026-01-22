@@ -1,0 +1,285 @@
+{
+  "page_id": 228,
+  "image": "p_0228.png",
+  "chapter": 5,
+  "section": "05-08",
+  "page_number": 212,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "05-08",
+      "ja": "調達計画・実施",
+      "reading": "ちょうたつけいかく・じっし",
+      "vi": "Kế hoạch và thực hiện mua sắm",
+      "en": "Procurement Planning and Implementation",
+      "my": "Procurement Planning and Implementation"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "契約も大切な業務の1つ",
+        "vi": "Hợp đồng cũng là một nghiệp vụ quan trọng",
+        "en": "Contract Is Also an Important Task",
+        "my": "Contract သည်လည်း အရေးကြီးသော task ဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "大切",
+            "reading": "たいせつ"
+          },
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "システム開発を外部のシステムインテグレーター（SI）に発注する場合は、実際に開発プロジェクトをはじめる前に、システムの内容や費用、開発期間などに関する契約を交わすことが重要です。",
+        "vi": "Khi đặt hàng phát triển hệ thống cho System Integrator (SI) bên ngoài, trước khi thực sự bắt đầu project phát triển, việc ký hợp đồng về nội dung hệ thống, chi phí, thời gian phát triển rất quan trọng.",
+        "en": "When ordering system development from an external System Integrator (SI), before actually starting the development project, it's important to sign contracts regarding system content, costs, development period, etc.",
+        "my": "ပြင်ပ System Integrator (SI) ထံမှ system development ကို မှာယူသောအခါ development project ကို အမှန်တကယ် မစတင်မီ system content၊ costs၊ development period စသည်တို့နှင့် ပတ်သက်သော contracts လက်မှတ်ထိုးရန် အရေးကြီးသည်။",
+        "terms": [
+          {
+            "kanji": "開発",
+            "reading": "かいはつ"
+          },
+          {
+            "kanji": "外部",
+            "reading": "がいぶ"
+          },
+          {
+            "kanji": "発注",
+            "reading": "はっちゅう"
+          },
+          {
+            "kanji": "場合",
+            "reading": "ばあい"
+          },
+          {
+            "kanji": "実際",
+            "reading": "じっさい"
+          },
+          {
+            "kanji": "前",
+            "reading": "まえ"
+          },
+          {
+            "kanji": "内容",
+            "reading": "ないよう"
+          },
+          {
+            "kanji": "費用",
+            "reading": "ひよう"
+          },
+          {
+            "kanji": "開発期間",
+            "reading": "かいはつきかん"
+          },
+          {
+            "kanji": "関",
+            "reading": "かん"
+          },
+          {
+            "kanji": "契約",
+            "reading": "けいやく"
+          },
+          {
+            "kanji": "交",
+            "reading": "こう"
+          },
+          {
+            "kanji": "重要",
+            "reading": "じゅうよう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "本章の最後の項目は「調達」に関する解説です。「調達」というとあまりピンとこないと思いますが、調達とは、企業がお金を払ってベンダー（外部の業者）にシステムを開発してもらうことです。本項の内容のうち、ITパスポート試験では、「RFI」と「RFP」がよく出題されます。",
+      "vi": "Mục cuối cùng của chương này là giải thích về 'mua sắm'. Có thể không quen với từ 'mua sắm', nhưng mua sắm là việc doanh nghiệp trả tiền để Vendor (nhà cung cấp bên ngoài) phát triển hệ thống. Trong nội dung phần này, IT Passport thường ra RFI và RFP.",
+      "en": "The last item in this chapter is about 'procurement'. 'Procurement' might not be familiar, but it means a company paying a Vendor (external provider) to develop a system. In this section's content, IT Passport frequently tests 'RFI' and 'RFP'.",
+      "my": "ဤအခန်း၏ နောက်ဆုံး item သည် 'procurement' အကြောင်း ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "本章",
+          "reading": "ほんしょう"
+        },
+        {
+          "kanji": "最後",
+          "reading": "さいご"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "調達",
+          "reading": "ちょうたつ"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "金",
+          "reading": "きん"
+        },
+        {
+          "kanji": "払",
+          "reading": "ふつ"
+        },
+        {
+          "kanji": "外部",
+          "reading": "がいぶ"
+        },
+        {
+          "kanji": "業者",
+          "reading": "ぎょうしゃ"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "調達の流れ",
+      "vi": "Quy trình mua sắm",
+      "en": "Procurement Flow"
+    },
+    {
+      "type": "paragraph",
+      "ja": "調達の流れは次のとおりです。\n\n【情報システム部】\n1. 情報提供依頼書（RFI）の作成 →\n2. ベンダーから情報を集める →\n3. 提案依頼書（RFP）の作成 →\n\n【ベンダー】\n4. 提案書の作成 →\n\n【情報システム部】\n5. 調達先の選定 →\n6. 契約締結\n\n注意！\nRFIとRFPは両方とも情報システム部からベンダーに提供される",
+      "vi": "Quy trình mua sắm như sau:\n\n【Bộ phận hệ thống thông tin】\n1. Tạo Yêu cầu cung cấp thông tin (RFI) →\n2. Thu thập thông tin từ Vendor →\n3. Tạo Yêu cầu đề xuất (RFP) →\n\n【Vendor】\n4. Tạo Đề xuất →\n\n【Bộ phận hệ thống thông tin】\n5. Lựa chọn nhà cung cấp →\n6. Ký hợp đồng\n\nChú ý!\nCả RFI và RFP đều được cung cấp từ Bộ phận hệ thống thông tin đến Vendor",
+      "en": "The procurement flow is as follows:\n\n【Information System Department】\n1. Create Request for Information (RFI) →\n2. Collect information from Vendor →\n3. Create Request for Proposal (RFP) →\n\n【Vendor】\n4. Create Proposal →\n\n【Information System Department】\n5. Select procurement source →\n6. Contract conclusion\n\nNote!\nBoth RFI and RFP are provided from IS Department to Vendor",
+      "my": "Procurement flow မှာ အောက်ပါအတိုင်း ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "調達",
+          "reading": "ちょうたつ"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "部",
+          "reading": "ぶ"
+        },
+        {
+          "kanji": "情報提供依頼書",
+          "reading": "じょうほうていきょういらいしょ"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "提案依頼書",
+          "reading": "ていあんいらいしょ"
+        },
+        {
+          "kanji": "提案書",
+          "reading": "ていあんしょ"
+        },
+        {
+          "kanji": "調達先",
+          "reading": "ちょうたつさき"
+        },
+        {
+          "kanji": "選定",
+          "reading": "せんてい"
+        },
+        {
+          "kanji": "契約締結",
+          "reading": "けいやくていけつ"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        },
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "調達",
+      "reading": "ちょうたつ",
+      "romaji": "Choutatsu",
+      "vi": "Mua sắm",
+      "en": "Procurement",
+      "my": "ဝယ်ယူမှု"
+    },
+    {
+      "kanji": "RFI",
+      "reading": "あーるえふあい",
+      "romaji": "Request for Information",
+      "vi": "Yêu cầu cung cấp thông tin",
+      "en": "Request for Information",
+      "my": "အချက်အလက် တောင်းခံချက်"
+    },
+    {
+      "kanji": "RFP",
+      "reading": "あーるえふぴー",
+      "romaji": "Request for Proposal",
+      "vi": "Yêu cầu đề xuất",
+      "en": "Request for Proposal",
+      "my": "အဆိုပြုချက် တောင်းခံချက်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

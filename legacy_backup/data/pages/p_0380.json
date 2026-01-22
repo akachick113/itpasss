@@ -1,0 +1,363 @@
+{
+  "page_id": 380,
+  "image": "p_0380.png",
+  "chapter": 9,
+  "section": "09-09",
+  "page_number": 364,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "複数の引数を受け付ける関数",
+      "reading": "ふくすうのひきすうをうけつけるかんすう",
+      "vi": "Hàm nhận nhiều đối số",
+      "en": "Function Accepting Multiple Arguments"
+    },
+    {
+      "type": "paragraph",
+      "ja": "関数には複数の引数を渡すこともできます。複数の引数を指定するには、以下のように引数を「,」（カンマ）で区切って指定します。",
+      "vi": "Có thể truyền nhiều đối số cho hàm. Để chỉ định nhiều đối số, phân cách đối số bằng \",\" (dấu phẩy) như sau.",
+      "en": "Can pass multiple arguments to function. To specify multiple arguments, separate arguments with ',' (comma) as follows.",
+      "terms": [
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "引数",
+          "reading": "ひきすう"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "区切",
+          "reading": "くぎり"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【書式】複数の引数を受け付ける関数",
+        "vi": "【Định dạng】Hàm nhận nhiều đối số",
+        "en": "[Format] Function Accepting Multiple Arguments"
+      },
+      "code": "○関数名(型名1:引数名1, 型名2:引数名2, ...)\n    処理"
+    },
+    {
+      "type": "paragraph",
+      "ja": "以下は引数xと引数yを合計する関数sumの例です。このプログラム例では2つの引数（xとy）が定義されているので、関数の呼び出し時に引数を2つ渡します。",
+      "vi": "Sau đây là ví dụ hàm sum tính tổng đối số x và đối số y. Trong ví dụ chương trình này, 2 đối số (x và y) được định nghĩa nên truyền 2 đối số khi gọi hàm.",
+      "en": "Following is example of sum function adding argument x and argument y. In this program example, 2 arguments (x and y) are defined so pass 2 arguments when calling function.",
+      "terms": [
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "引数",
+          "reading": "ひきすう"
+        },
+        {
+          "kanji": "合計",
+          "reading": "ごうけい"
+        },
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "時",
+          "reading": "とき"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】複数の引数を受け付ける関数",
+        "vi": "【Ví dụ chương trình】Hàm nhận nhiều đối số",
+        "en": "[Program Example] Function Accepting Multiple Arguments"
+      },
+      "code": "○sum(整数型: x, 整数型: y)\n    x + yの結果を出力する\n\nsum(3, 2)"
+    },
+    {
+      "type": "output_example",
+      "title": {
+        "ja": "【出力例】",
+        "vi": "【Ví dụ xuất】",
+        "en": "[Output Example]"
+      },
+      "output": "5"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "戻り値",
+      "reading": "もどりち",
+      "vi": "Giá trị trả về",
+      "en": "Return Value"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のプログラムでは、関数内で計算結果を出力しています。しかし、処理の内容によっては、関数が行った計算結果を使って別の処理を実行したい場合があります。このような場合には「戻り値」を使用します。",
+      "vi": "Trong chương trình trên, xuất kết quả tính toán trong hàm. Tuy nhiên, tùy nội dung xử lý, có trường hợp muốn thực hiện xử lý khác dùng kết quả tính toán của hàm. Trong trường hợp như vậy, sử dụng \"giá trị trả về\".",
+      "en": "In above program, outputs calculation result in function. However, depending on processing content, may want to execute different processing using function's calculation result. In such cases, use 'return value.'",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "関数内",
+          "reading": "かんすうない"
+        },
+        {
+          "kanji": "計算結果",
+          "reading": "けいさんけっか"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "戻り値とは、関数の呼び出しによって得られる値です。戻り値は「返り値」とも呼ばれます。",
+      "vi": "Giá trị trả về là giá trị nhận được từ việc gọi hàm. Giá trị trả về cũng được gọi là \"giá trị trả lại\".",
+      "en": "Return value is value obtained by calling function. Return value is also called 'return value.'",
+      "terms": [
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "関数で戻り値を使う場合は、戻したい値をreturnの後ろに指定します。以下は戻り値の書式です。",
+      "vi": "Khi sử dụng giá trị trả về trong hàm, chỉ định giá trị muốn trả lại sau return. Sau đây là định dạng giá trị trả về.",
+      "en": "When using return value in function, specify value to return after return. Following is return value format.",
+      "terms": [
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "書式",
+          "reading": "しょしき"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【書式】関数（戻り値あり）",
+        "vi": "【Định dạng】Hàm (có giá trị trả về)",
+        "en": "[Format] Function (with return value)"
+      },
+      "code": "○関数名(引数, 引数, ...)\n    return 戻り値"
+    },
+    {
+      "type": "paragraph",
+      "ja": "関数の定義の中で、returnキーワードを書き、戻したい値を指定します。こうすることで、関数の処理結果を、プログラムの別の箇所で利用できるようになります。",
+      "vi": "Trong định nghĩa hàm, viết từ khóa return và chỉ định giá trị muốn trả lại. Làm vậy, có thể sử dụng kết quả xử lý của hàm ở nơi khác trong chương trình.",
+      "en": "In function definition, write return keyword and specify value to return. By doing so, can use function's processing result in other parts of program.",
+      "terms": [
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "処理結果",
+          "reading": "しょりけっか"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "箇所",
+          "reading": "かしょ"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "戻り値",
+      "reading": "もどりち",
+      "vi": "Giá trị trả về",
+      "en": "Return Value",
+      "my": "ပြန်တန်ဇိုး"
+    },
+    {
+      "term": "return",
+      "vi": "return (trả về)",
+      "en": "return",
+      "my": "ရီတန်း"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

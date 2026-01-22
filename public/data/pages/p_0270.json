@@ -1,0 +1,120 @@
+{
+    "page_id": 270,
+    "image": "p_0270.png",
+    "chapter": 6,
+    "section": "answers",
+    "page_number": 254,
+    "content": [
+        {
+            "type": "section_header",
+            "ja": "解答・解説",
+            "vi": "Đáp án và Giải thích",
+            "en": "Answers and Explanations"
+        },
+        {
+            "type": "answer_explanation",
+            "number": "6-1",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "システム要件は機能要件と非機能要件に分類できます。品質特性は、非機能要件を評価する指標です。応答時間は品質特性の「性能効率性」に分類されます。",
+                "vi": "Yêu cầu hệ thống có thể phân loại thành yêu cầu chức năng và yêu cầu phi chức năng. Đặc tính chất lượng là chỉ số đánh giá yêu cầu phi chức năng. Thời gian phản hồi được phân loại vào \"Hiệu quả hiệu suất\" của đặc tính chất lượng.",
+                "en": "System requirements can be classified into functional and non-functional requirements. Quality characteristics are metrics to evaluate non-functional requirements. Response time is classified as 'Performance Efficiency' in quality characteristics."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "6-2",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "システムテストでは、システム要件が仕様どおりに動作するかを検証します。システム要件定義ではシステムの機能や性能を決めます。そのため、「性能要件」を確認するイが正解です。",
+                "vi": "Trong System Test, xác minh yêu cầu hệ thống có hoạt động đúng theo thông số không. Trong định nghĩa yêu cầu hệ thống quyết định chức năng và hiệu suất của hệ thống. Do đó, イ xác nhận \"yêu cầu hiệu suất\" là đúng.",
+                "en": "In System Test, verify system requirements work according to specifications. System requirements definition decides system functions and performance. Therefore, イ confirming 'performance requirements' is correct."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "単体テストの内容です。",
+                    "vi": "Là nội dung của Unit Test.",
+                    "en": "This is Unit Test content."
+                },
+                "ウ": {
+                    "ja": "結合テストの内容です。",
+                    "vi": "Là nội dung của Integration Test.",
+                    "en": "This is Integration Test content."
+                },
+                "エ": {
+                    "ja": "運用テストの内容です。",
+                    "vi": "Là nội dung của Operational Test.",
+                    "en": "This is Operational Test content."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "6-3",
+            "correct_answer": "エ",
+            "explanation": {
+                "ja": "ソフトウェア保守とは、本番稼働中のソフトウェアを修正・改良することです。設問の「稼働中」「障害の是正」「機能拡張」というキーワードからソフトウェア保守だと判断できます。",
+                "vi": "Bảo trì phần mềm là sửa đổi/cải tiến phần mềm đang hoạt động thực tế. Từ các từ khóa \"đang hoạt động\", \"sửa lỗi\", \"mở rộng chức năng\" trong câu hỏi có thể phán đoán là Bảo trì phần mềm.",
+                "en": "Software Maintenance is modifying/improving software in production operation. From keywords 'in operation,' 'defect correction,' 'function extension' in the question, it can be determined to be Software Maintenance."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "6-4",
+            "correct_answer": "エ",
+            "explanation": {
+                "ja": "「ソフトウェア結合テスト」とは「結合テスト」のことです。結合テストとは、プログラム同士のインタフェースが合うかを検証することです。",
+                "vi": "\"Software Integration Test\" là \"Integration Test\". Integration Test là xác minh interface giữa các chương trình có khớp không.",
+                "en": "\"Software Integration Test\" is \"Integration Test\". Integration Test verifies if interfaces between programs match."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "システム統合（システム結合テスト）の説明です。",
+                    "vi": "Là giải thích của System Integration (System Integration Test).",
+                    "en": "This explains System Integration (System Integration Test)."
+                },
+                "イ": {
+                    "ja": "単体テストの説明です。",
+                    "vi": "Là giải thích của Unit Test.",
+                    "en": "This explains Unit Test."
+                },
+                "ウ": {
+                    "ja": "コードインスペクションの説明です。コードインスペクションとは、プログラムが設計書どおりに実装されているかを確認することです。",
+                    "vi": "Là giải thích của Code Inspection. Code Inspection là xác nhận chương trình có được triển khai đúng theo tài liệu thiết kế không.",
+                    "en": "This explains Code Inspection. Code Inspection confirms if program is implemented according to design documents."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "6-5",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "開発が完了したソフトウェアを本番環境にインストールする工程は、ソフトウェア導入です。",
+                "vi": "Công đoạn cài đặt phần mềm đã hoàn thành phát triển vào môi trường thực tế là Triển khai phần mềm.",
+                "en": "The phase to install completed software into production environment is Software Deployment."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "ソフトウェア統合とは、複数のモジュールやコンポーネントを組み合わせて、1つのシステムとして動作させる工程です。導入前の開発段階で行われます。",
+                    "vi": "Software Integration là công đoạn kết hợp nhiều module và component để hoạt động như một hệ thống. Được thực hiện ở giai đoạn phát triển trước triển khai.",
+                    "en": "Software Integration is the phase to combine multiple modules and components to operate as one system. Performed at development stage before deployment."
+                },
+                "ウ": {
+                    "ja": "妥当性確認は、ソフトウェアがユーザーのニーズを正しく満たしているかを検証する工程です。通常はテスト段階で行われます。",
+                    "vi": "Validation là công đoạn xác minh phần mềm có đáp ứng đúng nhu cầu người dùng không. Thường được thực hiện ở giai đoạn test.",
+                    "en": "Validation is the phase to verify if software correctly meets user needs. Usually performed at test stage."
+                },
+                "エ": {
+                    "ja": "利用者教育は、導入されたソフトウェアの使用方法をユーザーに教える活動です。導入の補助的な工程にあたります。",
+                    "vi": "User Training là hoạt động dạy người dùng cách sử dụng phần mềm đã triển khai. Là công đoạn hỗ trợ của triển khai.",
+                    "en": "User Training is an activity to teach users how to use deployed software. It's a supplementary phase of deployment."
+                }
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 5
+    }
+}

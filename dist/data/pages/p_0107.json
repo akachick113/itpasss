@@ -1,0 +1,128 @@
+{
+    "page_id": 107,
+    "image": "p_0107.png",
+    "chapter": 2,
+    "section": "questions",
+    "page_number": 91,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "2-16",
+            "year": "令和6年度",
+            "question": {
+                "ja": "個人情報保護法では、あらかじめ本人の同意を得ていなくても個人データの提供が許される行為を規定している。この行為に該当するものだけを、全て挙げたものはどれか。\n\na. 事故で意識不明の人がもっていた本人の社員証を見て、搬送先の病院から本人の会社に電話してきたので、総務の担当者が本人の自宅電話番号を教えた。\nb. 新規加入者を勧誘したいと保険会社の従業員に頼まれたので、総務の担当者が新入社員の名前と所属部門のリストを渡した。\nc. 不正送金等の金融犯罪被害者に関する個人情報を、類似犯罪の防止対策を進める捜査機関からの法令に基づく要請に応じて、総務の担当者が提供した。",
+                "vi": "Luật bảo vệ thông tin cá nhân quy định hành vi được phép cung cấp dữ liệu cá nhân mà không cần sự đồng ý trước. Đâu là tất cả hành vi thuộc loại này?\n\na. Nhân viên tổng vụ cho số điện thoại nhà khi bệnh viện gọi đến công ty sau khi thấy thẻ nhân viên của người bất tỉnh trong tai nạn.\nb. Nhân viên tổng vụ đưa danh sách tên và bộ phận nhân viên mới cho nhân viên công ty bảo hiểm muốn tuyển khách hàng mới.\nc. Nhân viên tổng vụ cung cấp thông tin cá nhân nạn nhân tội phạm tài chính theo yêu cầu dựa trên pháp luật từ cơ quan điều tra để phòng chống tội phạm tương tự.",
+                "en": "Personal Information Protection Law specifies acts allowing personal data provision without prior consent. Which are ALL such acts?\n\na. HR gave home phone when hospital called after seeing unconscious accident victim's employee ID.\nb. HR gave new employee name/department list to insurance employee wanting new customers.\nc. HR provided financial crime victim info to investigators based on legal request for preventing similar crimes."
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "a",
+                    "vi": "a",
+                    "en": "a"
+                },
+                {
+                    "label": "イ",
+                    "ja": "a, c",
+                    "vi": "a, c",
+                    "en": "a, c",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "b, c",
+                    "vi": "b, c",
+                    "en": "b, c"
+                },
+                {
+                    "label": "エ",
+                    "ja": "c",
+                    "vi": "c",
+                    "en": "c"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-17",
+            "year": "平成28年度",
+            "question": {
+                "ja": "個人情報保護法における、個人情報取扱事業者の義務はどれか。",
+                "vi": "Theo Luật bảo vệ thông tin cá nhân, đâu là nghĩa vụ của nhà xử lý thông tin cá nhân?",
+                "en": "Under Personal Information Protection Law, what is the obligation of personal information handlers?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "個人情報の安全管理が図られるよう、業務委託先を監督する。",
+                    "vi": "Giám sát bên nhận ủy thác để đảm bảo quản lý an toàn thông tin cá nhân.",
+                    "en": "Supervise business outsourcing partners to ensure safe management of personal information.",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "個人情報の安全管理を図るため、行政によるシステム監査を受ける。",
+                    "vi": "Nhận kiểm toán hệ thống bởi cơ quan hành chính để đảm bảo quản lý an toàn thông tin cá nhân.",
+                    "en": "Receive system audit by administration to ensure safe personal information management."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "個人情報の利用に関して、監督官庁に届出を行う。",
+                    "vi": "Đăng ký với cơ quan giám sát về việc sử dụng thông tin cá nhân.",
+                    "en": "File notification with supervisory authority regarding personal information use."
+                },
+                {
+                    "label": "エ",
+                    "ja": "プライバシーマークを取得する。",
+                    "vi": "Lấy Privacy Mark.",
+                    "en": "Obtain Privacy Mark."
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-18",
+            "year": "令和4年度",
+            "question": {
+                "ja": "個人情報保護法で定められた、特に取扱いに配慮が必要となる\"要配慮個人情報\"に該当するものはどれか。",
+                "vi": "Theo Luật bảo vệ thông tin cá nhân, đâu thuộc Thông tin cá nhân cần lưu ý - thông tin cần xử lý cẩn thận đặc biệt?",
+                "en": "Under Personal Information Protection Law, which is Sensitive Personal Information requiring special care?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "学歴",
+                    "vi": "Học vấn",
+                    "en": "Educational background"
+                },
+                {
+                    "label": "イ",
+                    "ja": "国籍",
+                    "vi": "Quốc tịch",
+                    "en": "Nationality"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "資産額",
+                    "vi": "Tài sản",
+                    "en": "Asset amount"
+                },
+                {
+                    "label": "エ",
+                    "ja": "信条",
+                    "vi": "Tín ngưỡng",
+                    "en": "Beliefs",
+                    "correct": true
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "questions_covered": "2-16, 2-17, 2-18",
+        "answers": "2-16: イ, 2-17: ア, 2-18: エ"
+    }
+}

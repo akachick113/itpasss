@@ -1,0 +1,193 @@
+{
+  "page_id": 411,
+  "image": "p_0411.png",
+  "chapter": 11,
+  "section": "11-01",
+  "page_number": 395,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "コンピュータの種類",
+        "vi": "Các loại máy tính",
+        "en": "Computer Types"
+      },
+      "headers": {
+        "ja": [
+          "種類",
+          "説明"
+        ],
+        "vi": [
+          "Loại",
+          "Giải thích"
+        ],
+        "en": [
+          "Type",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "type": {
+            "ja": "マイクロコンピュータ",
+            "vi": "Vi máy tính",
+            "en": "Microcomputer"
+          },
+          "description": {
+            "ja": "CPU（p.398）や主記憶装置（p.402）を1つの半導体チップに格納した超小型のコンピュータ。家電製品などに組み込まれる。",
+            "vi": "Máy tính siêu nhỏ lưu trữ CPU (trang 398) và bộ nhớ chính (trang 402) trong một chip bán dẫn. Được tích hợp vào đồ gia dụng, v.v.",
+            "en": "Ultra-small computer storing CPU (p.398) and main memory (p.402) in one semiconductor chip. Embedded in home appliances, etc."
+          }
+        },
+        {
+          "type": {
+            "ja": "ウェアラブル端末",
+            "vi": "Thiết bị đeo được",
+            "en": "Wearable Device"
+          },
+          "description": {
+            "ja": "身につけて使うコンピュータ。時計やメガネ型など、さまざまな形状がある。",
+            "vi": "Máy tính đeo trên người. Có nhiều hình dạng như đồng hồ, kính, v.v.",
+            "en": "Computer to wear. Various shapes like watch, glasses, etc."
+          }
+        },
+        {
+          "type": {
+            "ja": "携帯情報端末",
+            "vi": "Thiết bị thông tin di động",
+            "en": "Mobile Information Terminal"
+          },
+          "description": {
+            "ja": "簡単に持ち運びできるコンピュータ。スマートフォンも携帯情報端末の1つ。後述する「タブレット端末」やPC（ノートブック型）も携帯情報端末に分類される。",
+            "vi": "Máy tính có thể mang theo dễ dàng. Điện thoại thông minh cũng là một loại thiết bị thông tin di động. \"Máy tính bảng\" và PC (loại laptop) được mô tả sau cũng được phân loại là thiết bị thông tin di động.",
+            "en": "Computer that can be easily carried. Smartphone is also a mobile information terminal. 'Tablet' and PC (notebook type) described later are also classified as mobile information terminals."
+          }
+        },
+        {
+          "type": {
+            "ja": "タブレット端末",
+            "vi": "Máy tính bảng",
+            "en": "Tablet"
+          },
+          "description": {
+            "ja": "タッチパネルのディスプレイを持つ携帯情報端末。",
+            "vi": "Thiết bị thông tin di động có màn hình cảm ứng.",
+            "en": "Mobile information terminal with touch panel display."
+          }
+        },
+        {
+          "type": {
+            "ja": "PC（パソコン）",
+            "vi": "PC (Máy tính cá nhân)",
+            "en": "PC (Personal Computer)"
+          },
+          "description": {
+            "ja": "個人向けのコンピュータ。手のひらには収まらないが、持ち運ぶことはできる。PCは「Personal Computer」の略。",
+            "vi": "Máy tính cho cá nhân. Không vừa lòng bàn tay nhưng có thể mang theo. PC là viết tắt của \"Personal Computer\".",
+            "en": "Computer for individuals. Doesn't fit in palm but can be carried. PC is abbreviation of 'Personal Computer.'"
+          }
+        },
+        {
+          "type": {
+            "ja": "サーバ",
+            "vi": "Máy chủ",
+            "en": "Server"
+          },
+          "description": {
+            "ja": "ユーザからの要求に応じて、さまざまな処理を行うコンピュータ。通常のサーバは、大人が一人でやっと持ち上げれるくらいの大きさと重さがある。",
+            "vi": "Máy tính thực hiện các xử lý khác nhau theo yêu cầu của người dùng. Máy chủ thông thường có kích thước và trọng lượng mà một người lớn vừa đủ nâng được.",
+            "en": "Computer performing various processing according to user requests. Normal server has size and weight that one adult can barely lift."
+          }
+        },
+        {
+          "type": {
+            "ja": "ブレードサーバ",
+            "vi": "Máy chủ blade",
+            "en": "Blade Server"
+          },
+          "description": {
+            "ja": "CPU、主記憶装置、HDDなどを、1枚の基盤（ブレード）に実装したコンピュータ。複数まとめて専用の箱（ラック）の中に搭載するサーバ。従来のサーバは電源装置や放熱用ファンなどを各コンピュータが持っていたが、このサーバでは、専用のラックに搭載された装置を各コンピュータが共有する。こうすることで、高密度、省スペースを実現できる。",
+            "vi": "Máy tính được triển khai CPU, bộ nhớ chính, HDD, v.v. trên một bo mạch (blade). Máy chủ lắp nhiều tấm trong hộp chuyên dụng (rack). Máy chủ truyền thống mỗi máy tính có bộ nguồn và quạt tản nhiệt riêng, nhưng trong máy chủ này, các máy tính chia sẻ thiết bị được lắp trong rack chuyên dụng. Bằng cách này, có thể thực hiện mật độ cao và tiết kiệm không gian.",
+            "en": "Computer with CPU, main memory, HDD, etc. mounted on one board (blade). Server loading multiple blades in dedicated box (rack). Traditional servers each had power supply and cooling fans, but in blade servers, computers share devices in dedicated rack. This enables high density and space saving."
+          }
+        },
+        {
+          "type": {
+            "ja": "汎用コンピュータ",
+            "vi": "Máy tính đa năng",
+            "en": "General-purpose Computer"
+          },
+          "description": {
+            "ja": "基幹業務を処理するために利用されているコンピュータ。基幹業務とは「企業の大きな経営活動」のこと。官庁の戸籍管理システム、銀行の基幹系統システムなど。最近の汎用コンピュータは大人1人でも持ち上げられる。「メインフレーム」ともいわれる。",
+            "vi": "Máy tính được sử dụng để xử lý nghiệp vụ cốt lõi. Nghiệp vụ cốt lõi là \"hoạt động kinh doanh lớn của doanh nghiệp\". Hệ thống quản lý hộ tịch của cơ quan nhà nước, hệ thống cốt lõi của ngân hàng, v.v. Máy tính đa năng gần đây có thể được nâng bởi một người lớn. Cũng được gọi là \"mainframe\".",
+            "en": "Computer used for processing core business. Core business means 'company's major business activities.' Government family registry system, bank core systems, etc. Recent general-purpose computers can be lifted by one adult. Also called 'mainframe.'"
+          }
+        },
+        {
+          "type": {
+            "ja": "スーパーコンピュータ",
+            "vi": "Siêu máy tính",
+            "en": "Supercomputer"
+          },
+          "description": {
+            "ja": "大量の計算を高速に行うコンピュータ。遺伝子の解析や地球規模の気象予測などに使われる。日本では「富岳」という名のスーパーコンピュータが有名。",
+            "vi": "Máy tính thực hiện lượng lớn tính toán với tốc độ cao. Được sử dụng cho phân tích gen và dự báo thời tiết quy mô toàn cầu, v.v. Ở Nhật Bản, siêu máy tính tên \"Fugaku\" nổi tiếng.",
+            "en": "Computer performing large amounts of calculations at high speed. Used for gene analysis and global weather prediction, etc. In Japan, supercomputer named 'Fugaku' is famous."
+          }
+        }
+      ],
+      "note": {
+        "ja": "※汎用とは「さまざまな用途で使える」という意味です。汎用の反対語は「専用」です。",
+        "vi": "※Đa năng có nghĩa là \"có thể sử dụng cho nhiều mục đích khác nhau\". Từ trái nghĩa của đa năng là \"chuyên dụng\".",
+        "en": "※General-purpose means 'can be used for various purposes.' Opposite of general-purpose is 'dedicated.'"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ブレードサーバとは、複数の基板をラック内に搭載することで、省スペース化を実現しているサーバ",
+          "vi": "Máy chủ blade là máy chủ lắp nhiều bo mạch trong rack để tiết kiệm không gian",
+          "en": "Blade server is server achieving space saving by loading multiple boards in rack"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ブレードサーバ",
+      "vi": "Máy chủ blade",
+      "en": "Blade Server",
+      "my": "ဘလိတ် ဆာဗာ"
+    },
+    {
+      "term": "汎用コンピュータ",
+      "reading": "はんようコンピュータ",
+      "vi": "Máy tính đa năng",
+      "en": "General-purpose Computer",
+      "my": "အထူထူသုံး ကွန်ပျူတာ"
+    },
+    {
+      "term": "メインフレーム",
+      "vi": "Mainframe",
+      "en": "Mainframe",
+      "my": "မိန်းဖရိမ်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

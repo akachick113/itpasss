@@ -1,0 +1,368 @@
+{
+  "page_id": 62,
+  "image": "p_0062.png",
+  "chapter": 1,
+  "section": "01-08",
+  "page_number": 46,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "キャッシュフロー計算書では、現金の出入りを次の3つに分類して計算します。",
+      "vi": "Trong báo cáo lưu chuyển tiền tệ, dòng tiền vào/ra được phân loại và tính toán thành 3 loại sau.",
+      "en": "In cash flow statements, cash inflows and outflows are classified and calculated into the following 3 categories.",
+      "my": "Cash flow statements တွင် cash inflows နှင့် outflows ကို အောက်ပါ အမျိုးအစား ၃ ခုအဖြစ် ခွဲခြားတွက်ချက်သည်။",
+      "terms": [
+        {
+          "kanji": "計算書",
+          "reading": "けいさんしょ"
+        },
+        {
+          "kanji": "現金",
+          "reading": "げんきん"
+        },
+        {
+          "kanji": "出入",
+          "reading": "しゅつにゅう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "キャッシュフロー計算書の3つの区分",
+        "vi": "3 phân loại trong Báo cáo lưu chuyển tiền tệ",
+        "en": "3 Categories in Cash Flow Statement"
+      },
+      "headers": {
+        "ja": [
+          "区分",
+          "説明"
+        ],
+        "vi": [
+          "Phân loại",
+          "Giải thích"
+        ],
+        "en": [
+          "Category",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "営業活動によるキャッシュフロー",
+            "本業に関わるお金の残高を計算する。この残高がプラスであれば本業が好調、マイナスであれば不調。"
+          ],
+          "vi": [
+            "Dòng tiền từ hoạt động kinh doanh",
+            "Tính số dư tiền liên quan đến hoạt động chính. Nếu số dư dương nghĩa là hoạt động chính tốt, âm nghĩa là không tốt."
+          ],
+          "en": [
+            "Cash Flow from Operating Activities",
+            "Calculates cash balance related to main business. Positive balance means main business is doing well, negative means poorly."
+          ]
+        },
+        {
+          "ja": [
+            "投資活動によるキャッシュフロー",
+            "設備投資や、株・債券の売買後の残高を計算する。この残高がプラスであれば、株や債券の売却額が新規投資額を上回っていると判断できる。この残高がマイナスであれば、企業が将来の成長のために積極的に投資を行っていることがわかる。"
+          ],
+          "vi": [
+            "Dòng tiền từ hoạt động đầu tư",
+            "Tính số dư sau đầu tư thiết bị và mua bán cổ phiếu/trái phiếu. Nếu dương nghĩa là số tiền bán cổ phiếu/trái phiếu vượt quá số tiền đầu tư mới. Nếu âm nghĩa là doanh nghiệp đang tích cực đầu tư cho tăng trưởng tương lai."
+          ],
+          "en": [
+            "Cash Flow from Investing Activities",
+            "Calculates balance after equipment investment and stock/bond trading. Positive means stock/bond sales exceed new investments. Negative means company is actively investing for future growth."
+          ]
+        },
+        {
+          "ja": [
+            "財務活動によるキャッシュフロー",
+            "資金調達に関わるお金の残高（お金の貸し借り後の残高）を計算する。この残高がプラスであれば、資金調達をしていることがわかり、残高がマイナスであれば、借りたお金を返還していることがわかる。"
+          ],
+          "vi": [
+            "Dòng tiền từ hoạt động tài chính",
+            "Tính số dư tiền liên quan đến huy động vốn (số dư sau vay/trả). Nếu dương nghĩa là đang huy động vốn, âm nghĩa là đang trả lại tiền đã vay."
+          ],
+          "en": [
+            "Cash Flow from Financing Activities",
+            "Calculates cash balance related to fundraising (balance after borrowing/lending). Positive means fundraising, negative means repaying borrowed money."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "キャッシュフロー計算書：現金の出入りを「営業活動」「投資活動」「財務活動」の3つに分類して計算する",
+        "vi": "Báo cáo lưu chuyển tiền tệ: Phân loại và tính toán dòng tiền vào/ra thành 3 loại: \"Hoạt động kinh doanh\", \"Hoạt động đầu tư\", \"Hoạt động tài chính\"",
+        "en": "Cash Flow Statement: Classifies and calculates cash inflows/outflows into 3 categories: Operating Activities, Investing Activities, Financing Activities",
+        "my": "Cash Flow Statement: Cash inflows/outflows ကို Operating, Investing, Financing Activities ဟူ၍ ၃ မျိုး ခွဲခြားတွက်ချက်သည်",
+        "terms": [
+          {
+            "kanji": "計算書",
+            "reading": "けいさんしょ"
+          },
+          {
+            "kanji": "現金",
+            "reading": "げんきん"
+          },
+          {
+            "kanji": "出入",
+            "reading": "しゅつにゅう"
+          },
+          {
+            "kanji": "営業活動",
+            "reading": "えいぎょうかつどう"
+          },
+          {
+            "kanji": "投資活動",
+            "reading": "とうしかつどう"
+          },
+          {
+            "kanji": "財務活動",
+            "reading": "ざいむかつどう"
+          },
+          {
+            "kanji": "分類",
+            "reading": "ぶんるい"
+          },
+          {
+            "kanji": "計算",
+            "reading": "けいさん"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ROE（自己資本利益率）",
+      "reading": "あーるおーいー（じこしほんりえきりつ）",
+      "vi": "ROE (Tỷ suất lợi nhuận trên vốn tự có)",
+      "en": "ROE (Return On Equity)",
+      "my": "ROE (Return On Equity)"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ROE（Return On Equity：自己資本利益率）とは、企業が株主から集めたお金でどれだけの利益を上げたのかを表す指標です。株主にとっては「ROEは大きいほど得」といえます。ROEは次の計算式で算出します。\n\nROE（%）= 当期純利益/自己資本 × 100 ← ROEは大きいほど得！\n\n当期純利益は、損益計算書に記載されている「最終的な利益」です（p.43）。自己資本は「株主から預かっているお金の総額」です（厳密には企業のこれまでの儲けである利益剰余金も含まれます）。\n\n例えば、当期純利益が1億円で、自己資本が10億円の場合、ROEは10%になります（1÷10×100=10%）。これは、株主が企業に100万円を預けたら5その10%の10万円の利益が得られることを表します。",
+      "vi": "ROE (Return On Equity: Tỷ suất lợi nhuận trên vốn tự có) là chỉ số thể hiện doanh nghiệp đã tạo ra bao nhiêu lợi nhuận từ tiền cổ đông đầu tư. Đối với cổ đông, \"ROE càng cao càng có lợi\". ROE được tính theo công thức:\n\nROE (%) = Lợi nhuận ròng/Vốn tự có × 100 ← ROE càng cao càng có lợi!\n\nLợi nhuận ròng là \"lợi nhuận cuối cùng\" ghi trong báo cáo kết quả kinh doanh (trang 43). Vốn tự có là \"tổng số tiền nhận từ cổ đông\" (chính xác thì cũng bao gồm lợi nhuận giữ lại).\n\nVí dụ, nếu lợi nhuận ròng là 100 triệu yên và vốn tự có là 1 tỷ yên, thì ROE là 10% (1÷10×100=10%). Nghĩa là nếu cổ đông gửi 1 triệu yên cho doanh nghiệp, sẽ nhận được lợi nhuận 100,000 yên (10%).",
+      "en": "ROE (Return On Equity) is an indicator showing how much profit a company made from money collected from shareholders. For shareholders, \"higher ROE is better.\" ROE is calculated as:\n\nROE (%) = Net Profit/Equity × 100 ← Higher ROE is better!\n\nNet profit is the \"final profit\" recorded in income statements (p.43). Equity is \"total money received from shareholders\" (strictly speaking, includes retained earnings).\n\nFor example, if net profit is 100 million yen and equity is 1 billion yen, ROE is 10% (1÷10×100=10%). This means if shareholders deposit 1 million yen, they earn 100,000 yen (10%) profit.",
+      "my": "ROE သည် ကုမ္ပဏီက cổ đông များထံမှ စုဆောင်းသော ငွေဖြင့် မည်မျှ အမြတ်ရသည်ကို ပြသော အညွှန်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "自己資本利益率",
+          "reading": "じこしほんりえきりつ"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "株主",
+          "reading": "かぶぬし"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "金",
+          "reading": "きん"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "指標",
+          "reading": "しひょう"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "計算式",
+          "reading": "けいさんしき"
+        },
+        {
+          "kanji": "算出",
+          "reading": "さんしゅつ"
+        },
+        {
+          "kanji": "当期純利益",
+          "reading": "とうきじゅんりえき"
+        },
+        {
+          "kanji": "自己資本",
+          "reading": "じこしほん"
+        },
+        {
+          "kanji": "損益計算書",
+          "reading": "そんえきけいさんしょ"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "最終的",
+          "reading": "さいしゅうてき"
+        },
+        {
+          "kanji": "預",
+          "reading": "よ"
+        },
+        {
+          "kanji": "総額",
+          "reading": "そうがく"
+        },
+        {
+          "kanji": "厳密",
+          "reading": "げんみつ"
+        },
+        {
+          "kanji": "儲",
+          "reading": "ちょ"
+        },
+        {
+          "kanji": "利益剰余金",
+          "reading": "りえきじょうよきん"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "億円",
+          "reading": "おくえん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "万円",
+          "reading": "まんえん"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ROEとは、自己資本に対して、どれだけの利益を出したかを表す指標である",
+        "vi": "ROE là chỉ số thể hiện đã tạo ra bao nhiêu lợi nhuận so với vốn tự có",
+        "en": "ROE is an indicator showing how much profit was generated relative to equity",
+        "my": "ROE သည် equity နှင့်နှိုင်းယှဉ်၍ အမြတ်မည်မျှရသည်ကို ပြသော အညွှန်းဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "自己資本",
+            "reading": "じこしほん"
+          },
+          {
+            "kanji": "対",
+            "reading": "つい"
+          },
+          {
+            "kanji": "利益",
+            "reading": "りえき"
+          },
+          {
+            "kanji": "出",
+            "reading": "で"
+          },
+          {
+            "kanji": "表",
+            "reading": "おもて"
+          },
+          {
+            "kanji": "指標",
+            "reading": "しひょう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "自己資本利益率",
+      "reading": "じこしほんりえきりつ",
+      "romaji": "Jiko Shihon Riekiritsu",
+      "vi": "Tỷ suất lợi nhuận trên vốn tự có",
+      "en": "Return On Equity (ROE)",
+      "my": "ROE"
+    },
+    {
+      "kanji": "当期純利益",
+      "reading": "とうきじゅんりえき",
+      "romaji": "Touki Junrieki",
+      "vi": "Lợi nhuận ròng",
+      "en": "Net Profit",
+      "my": "အသားအမြတ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_formula": true
+  }
+}

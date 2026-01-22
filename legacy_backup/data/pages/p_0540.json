@@ -1,0 +1,169 @@
+{
+  "page_id": 540,
+  "image": "p_0540.png",
+  "chapter": 15,
+  "section": "15-01",
+  "page_number": 524,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ダークウェブ",
+      "vi": "Dark Web",
+      "en": "Dark Web"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ダークウェブ",
+        "vi": "Dark Web",
+        "en": "Dark Web"
+      },
+      "definition": {
+        "ja": "ダークウェブ（Dark Web）とは、特殊なソフトウェアがないとアクセスできないWebサイトです。ダークウェブは通常のWebブラウザでは閲覧できず、また匿名性が高いので、違法取引やサイバー攻撃などに用いられることがあります。",
+        "vi": "Dark Web là trang web không thể truy cập nếu không có phần mềm đặc biệt. Dark Web không thể xem bằng trình duyệt Web thông thường, và vì tính ẩn danh cao nên đôi khi được sử dụng cho giao dịch bất hợp pháp và tấn công mạng.",
+        "en": "Dark Web is website that cannot be accessed without special software. Dark Web cannot be viewed with normal Web browser, and due to high anonymity, is sometimes used for illegal transactions and cyber attacks."
+      },
+      "etymology": {
+        "ja": "通常のWebブラウザではアクセスできない、匿名性の高いWebサイトであるため、光が届かない場所というイメージから闇（ダーク）という言葉が使われています。",
+        "vi": "Vì là trang web có tính ẩn danh cao không thể truy cập bằng trình duyệt Web thông thường, từ \"tối\" (dark) được sử dụng từ hình ảnh nơi ánh sáng không đến được.",
+        "en": "Since it's high-anonymity website inaccessible by normal Web browser, word 'dark' is used from image of place light cannot reach."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（2）技術的脅威",
+      "vi": "(2) Mối đe dọa kỹ thuật",
+      "en": "(2) Technical Threats"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "技術的脅威",
+        "vi": "Mối đe dọa kỹ thuật",
+        "en": "Technical Threats"
+      },
+      "definition": {
+        "ja": "技術的脅威とは、技術的な手段によって引き起こされる脅威です。例えば、コンピュータウイルスなどです。技術的脅威も元をたどれば人間が原因なので、人的脅威ともいえそうですが、明確な違いがあります。それは「最終的な手段が人によるものか、技術によるものか」です。",
+        "vi": "Mối đe dọa kỹ thuật là mối đe dọa được gây ra bởi các phương tiện kỹ thuật. Ví dụ, virus máy tính,... Mối đe dọa kỹ thuật cũng có thể nói là mối đe dọa do con người vì nguồn gốc là con người, nhưng có sự khác biệt rõ ràng. Đó là \"phương tiện cuối cùng là do con người hay do kỹ thuật\".",
+        "en": "Technical Threats are threats caused by technical means. For example, computer viruses. Technical threats could also be called human threats since humans are root cause, but there's clear difference. That is 'whether final means is by humans or by technology.'"
+      },
+      "note": {
+        "ja": "この違いを念頭に読み進めよう！",
+        "vi": "Hãy đọc tiếp với sự khác biệt này trong đầu!",
+        "en": "Keep this difference in mind as you read!"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "マルウェア",
+      "vi": "Malware",
+      "en": "Malware"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "マルウェア",
+        "vi": "Malware",
+        "en": "Malware"
+      },
+      "definition": {
+        "ja": "マルウェア（Malware）とは、悪意のあるソフトウェアの総称です。これから解説する「ボット」、「スパイウェア」、「ランサムウェア」などはすべて、マルウェアの一種です。また、「コンピュータウイルス」もマルウェアの一種です。",
+        "vi": "Malware là tên gọi chung của phần mềm độc hại. \"Bot\", \"Spyware\", \"Ransomware\" sẽ được giải thích tiếp đây đều là một loại malware. Ngoài ra, \"Virus máy tính\" cũng là một loại malware.",
+        "en": "Malware is general term for malicious software. 'Bot,' 'Spyware,' 'Ransomware' explained below are all types of malware. Also, 'Computer Virus' is a type of malware."
+      },
+      "etymology": {
+        "ja": "Malwareは、「Malicious（悪意ある）」と「Software（ソフトウェア）」をつなげた造語です。",
+        "vi": "Malware là từ ghép của \"Malicious (ác ý)\" và \"Software (phần mềm)\".",
+        "en": "Malware is coined word combining 'Malicious' and 'Software.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ボット",
+      "vi": "Bot",
+      "en": "Bot"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ボット",
+        "vi": "Bot",
+        "en": "Bot"
+      },
+      "definition": {
+        "ja": "ボット（Bot）とは、多数のPCに感染し、攻撃者から指令を受けると、一斉攻撃などの動作を行うプログラムのことです。通常、攻撃者はボットを感染させたPCを遠隔から操作します。",
+        "vi": "Bot là chương trình lây nhiễm nhiều PC và thực hiện các hành động như tấn công đồng loạt khi nhận lệnh từ kẻ tấn công. Thông thường, kẻ tấn công điều khiển PC bị lây nhiễm bot từ xa.",
+        "en": "Bot is program that infects many PCs and performs actions like mass attacks when receiving commands from attackers. Usually, attackers remotely control PCs infected with bots."
+      },
+      "etymology": {
+        "ja": "Botは「Robot」の略称です。感染させたコンピュータをロボットのように操ることから、このように呼ばれるようになりました。",
+        "vi": "Bot là viết tắt của \"Robot\". Được gọi như vậy vì điều khiển máy tính bị lây nhiễm như robot.",
+        "en": "Bot is abbreviation of 'Robot.' Called this because it controls infected computers like robots."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "スパイウェア",
+      "vi": "Spyware",
+      "en": "Spyware"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "スパイウェア",
+        "vi": "Spyware",
+        "en": "Spyware"
+      },
+      "definition": {
+        "ja": "スパイウェア（Spyware）とは、利用者に気づかれないように個人情報などを収集するプログラムです。",
+        "vi": "Spyware là chương trình thu thập thông tin cá nhân mà người dùng không nhận ra.",
+        "en": "Spyware is program that collects personal information without user noticing."
+      },
+      "etymology": {
+        "ja": "Spywareは「Spy（諜報員）」と「Software」をつなげた造語です。",
+        "vi": "Spyware là từ ghép của \"Spy (gián điệp)\" và \"Software\".",
+        "en": "Spyware is coined word combining 'Spy' and 'Software.'"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ダークウェブ",
+      "vi": "Dark Web",
+      "en": "Dark Web",
+      "my": "အမှိုင်ဝက်"
+    },
+    {
+      "term": "技術的脅威",
+      "vi": "Mối đe dọa kỹ thuật",
+      "en": "Technical Threats",
+      "my": "နည်ပညာဆိုင်ရာ ခြိမ်းခြောက်"
+    },
+    {
+      "term": "マルウェア",
+      "vi": "Malware (Phần mềm độc hại)",
+      "en": "Malware",
+      "my": "မဲလ်ဝဲ (အန္တရာယ်ဆော့ဝွဲ)"
+    },
+    {
+      "term": "ボット",
+      "vi": "Bot",
+      "en": "Bot",
+      "my": "ဘော့"
+    },
+    {
+      "term": "スパイウェア",
+      "vi": "Spyware (Phần mềm gián điệp)",
+      "en": "Spyware",
+      "my": "စပိုင်းဝဲ (သူလျို့ဆော့ဝဲ)"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

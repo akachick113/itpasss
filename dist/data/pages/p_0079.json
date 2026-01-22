@@ -1,0 +1,319 @@
+{
+  "page_id": 79,
+  "image": "p_0079.png",
+  "chapter": 2,
+  "section": "02-03",
+  "page_number": 63,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "02-03",
+      "ja": "セキュリティ関連法規",
+      "reading": "せきゅりてぃかんれんほうき",
+      "vi": "Luật liên quan đến bảo mật",
+      "en": "Security-Related Laws and Regulations",
+      "my": "လုံခြုံရေးဆိုင်ရာ ဥပဒေများနှင့် စည်းမျဉ်းများ"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "「セキュリティ」は最重要事項の1つ",
+        "vi": "Bảo mật là một trong những vấn đề quan trọng nhất",
+        "en": "Security is one of the most important matters",
+        "my": "လုံခြုံရေး သည် အရေးကြီးဆုံး အကြောင်းအရာများထဲမှ တစ်ခုဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "セキュリティ",
+            "reading": "せきゅりてぃ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ここでは、みなさんをサイバー犯罪から守るための法律を学習します。また、仕事でコンピュータを利用する際には必ず知っておいてほしい、セキュリティ関連の法律を解説します。",
+        "vi": "Ở đây, chúng ta sẽ học các luật để bảo vệ bạn khỏi tội phạm mạng. Ngoài ra, sẽ giải thích các luật liên quan đến bảo mật mà bạn cần biết khi sử dụng máy tính trong công việc.",
+        "en": "Here, we will learn laws to protect you from cybercrime. Also, we will explain security-related laws you must know when using computers for work.",
+        "my": "ဤနေရာတွင် ဆိုက်ဘာရာဇဝတ်မှုမှ သင့်ကို ကာကွယ်ရန် ဥပဒေများကို လေ့လာပါမည်",
+        "terms": [
+          {
+            "kanji": "犯罪",
+            "reading": "はんざい"
+          },
+          {
+            "kanji": "守",
+            "reading": "しゅ"
+          },
+          {
+            "kanji": "法律",
+            "reading": "ほうりつ"
+          },
+          {
+            "kanji": "学習",
+            "reading": "がくしゅう"
+          },
+          {
+            "kanji": "仕事",
+            "reading": "しごと"
+          },
+          {
+            "kanji": "利用",
+            "reading": "りよう"
+          },
+          {
+            "kanji": "際",
+            "reading": "きわ"
+          },
+          {
+            "kanji": "必",
+            "reading": "ひつ"
+          },
+          {
+            "kanji": "知",
+            "reading": "ち"
+          },
+          {
+            "kanji": "関連",
+            "reading": "かんれん"
+          },
+          {
+            "kanji": "解説",
+            "reading": "かいせつ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "本項の重要用語は「サイバーセキュリティ基本法」と「不正アクセス禁止法」です。この2つの用語はほぼ確実に出題される最重要用語です。",
+      "vi": "Thuật ngữ quan trọng trong phần này là Luật cơ bản về An ninh mạng và Luật cấm truy cập trái phép. Hai thuật ngữ này gần như chắc chắn sẽ được ra đề.",
+      "en": "The important terms in this section are Cybersecurity Basic Act and Unauthorized Access Prohibition Law. These 2 terms will almost certainly appear on the exam.",
+      "my": "ဤကဏ္ဍ၏ အရေးကြီးသော ဝေါဟာရများမှာ Cybersecurity Basic Act နှင့် Unauthorized Access Prohibition Law တို့ဖြစ်သည်",
+      "terms": [
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "重要用語",
+          "reading": "じゅうようようご"
+        },
+        {
+          "kanji": "基本法",
+          "reading": "きほんほう"
+        },
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "禁止法",
+          "reading": "きんしほう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "確実",
+          "reading": "かくじつ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "最重要用語",
+          "reading": "さいじゅうようようご"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "サイバーセキュリティ基本法",
+      "reading": "さいばーせきゅりてぃきほんほう",
+      "vi": "Luật cơ bản về An ninh mạng",
+      "en": "Cybersecurity Basic Act",
+      "my": "ဆိုက်ဘာလုံခြုံရေး အခြေခံဥပဒေ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "サイバーセキュリティ基本法は、サイバー攻撃から国を守るための基本理念を定めた法律です。「サイバー」とは「インターネット上の」という意味です。つまり、インターネット上の安全に関する基本的な法律といえます。サイバーセキュリティ基本法はITパスポート試験に最頻出の用語です。この法律に関して、必ず押さえなければならないポイントは「この法律の対象者が国全体である」という点です。国、地方公共団体、企業、国民のすべてが対象になります。対象が国民だけではないことに注意してください。次ページの表は、サイバーセキュリティ基本法の「対象者」と「その責務」を抜粋した一覧表です。この表の内容を覚える必要はありませんが、「すべての組織と国民が守らなければいけない法律なんだな」ということは確認しておいてください。",
+      "vi": "Luật cơ bản về An ninh mạng là luật quy định lý niệm cơ bản để bảo vệ quốc gia khỏi tấn công mạng. Cyber có nghĩa là trên Internet. Có thể nói đây là luật cơ bản về an toàn trên Internet. Luật cơ bản về An ninh mạng là thuật ngữ xuất hiện thường xuyên nhất trong kỳ thi IT Passport. Điểm quan trọng cần nhớ là đối tượng của luật này là toàn bộ quốc gia. Bao gồm chính phủ, chính quyền địa phương, doanh nghiệp và công dân. Lưu ý đối tượng không chỉ là công dân. Bảng ở trang tiếp theo liệt kê Đối tượng và Trách nhiệm của Luật cơ bản về An ninh mạng. Không cần nhớ nội dung bảng, nhưng hãy xác nhận đây là luật mà tất cả tổ chức và công dân phải tuân thủ.",
+      "en": "The Cybersecurity Basic Act establishes basic principles to protect the nation from cyberattacks. Cyber means on the Internet. In other words, it is a basic law about internet safety. Cybersecurity Basic Act is the most frequently tested term on IT Passport. The key point is the law target is the entire nation. It covers government, local authorities, companies, and citizens. Note that targets are not just citizens. The next page table excerpts Targets and Responsibilities from the Cybersecurity Basic Act. You do not need to memorize this table, but confirm that all organizations and citizens must comply with this law.",
+      "my": "Cybersecurity Basic Act သည် ဆိုက်ဘာတိုက်ခိုက်မှုမှ နိုင်ငံကို ကာကွယ်ရန် အခြေခံမူများ ချမှတ်ထားသော ဥပဒေဖြစ်သည်",
+      "terms": [
+        {
+          "kanji": "基本法",
+          "reading": "きほんほう"
+        },
+        {
+          "kanji": "攻撃",
+          "reading": "こうげき"
+        },
+        {
+          "kanji": "国",
+          "reading": "くに"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "基本理念",
+          "reading": "きほんりねん"
+        },
+        {
+          "kanji": "定",
+          "reading": "てい"
+        },
+        {
+          "kanji": "法律",
+          "reading": "ほうりつ"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "最頻出",
+          "reading": "さいひんしゅつ"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "押",
+          "reading": "おう"
+        },
+        {
+          "kanji": "対象者",
+          "reading": "たいしょうしゃ"
+        },
+        {
+          "kanji": "国全体",
+          "reading": "くにぜんたい"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "地方公共団体",
+          "reading": "ちほうこうきょうだんたい"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "国民",
+          "reading": "こくみん"
+        },
+        {
+          "kanji": "対象",
+          "reading": "たいしょう"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "責務",
+          "reading": "せきむ"
+        },
+        {
+          "kanji": "抜粋",
+          "reading": "ばっすい"
+        },
+        {
+          "kanji": "一覧表",
+          "reading": "いちらんひょう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "サイバーセキュリティ基本法",
+      "reading": "さいばーせきゅりてぃきほんほう",
+      "romaji": "Cyber Security Kihon Hou",
+      "vi": "Luật cơ bản về An ninh mạng",
+      "en": "Cybersecurity Basic Act",
+      "my": "ဆိုက်ဘာလုံခြုံရေး အခြေခံဥပဒေ"
+    },
+    {
+      "kanji": "不正アクセス禁止法",
+      "reading": "ふせいあくせすきんしほう",
+      "romaji": "Fusei Access Kinshi Hou",
+      "vi": "Luật cấm truy cập trái phép",
+      "en": "Unauthorized Access Prohibition Law",
+      "my": "ခွင့်ပြုချုပ်ရေးတားမြစ်ဥပဒေ"
+    },
+    {
+      "kanji": "サイバー攻撃",
+      "reading": "さいばーこうげき",
+      "romaji": "Cyber Kougeki",
+      "vi": "Tấn công mạng",
+      "en": "Cyberattack",
+      "my": "ဆိုက်ဘာတိုက်ခိုက်မှု"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

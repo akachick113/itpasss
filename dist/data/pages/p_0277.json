@@ -1,0 +1,296 @@
+{
+  "page_id": 277,
+  "image": "p_0277.png",
+  "chapter": 7,
+  "section": "07-02",
+  "page_number": 261,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "07-02",
+      "title": {
+        "ja": "PMBOKとは",
+        "vi": "PMBOK là gì",
+        "en": "What is PMBOK"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "プロジェクトマネージャの教科書",
+        "vi": "Sách giáo khoa của Project Manager",
+        "en": "Project Manager Textbook"
+      },
+      "content": {
+        "ja": "以前は各企業のプロジェクトマネージャが経験や勘に頼ってバラバラにマネジメントを行っていました。これでは非効率なので、プロジェクトマネジメントの教科書がアメリカで出版されました。",
+        "vi": "Trước đây, Project Manager của mỗi công ty thực hiện quản lý một cách rời rạc dựa vào kinh nghiệm và trực giác. Vì điều này không hiệu quả, nên sách giáo khoa về quản lý dự án được xuất bản ở Mỹ.",
+        "en": "Previously, each company's Project Manager managed separately relying on experience and intuition. Since this was inefficient, a project management textbook was published in America."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "PMBOK（Project Management Body of Knowledge：上図を参照）とは、プロジェクトマネジメントの体系化された知識です。もう少しわかりやすく表現すると「プロジェクトマネージャのための教科書」といえます。",
+      "vi": "PMBOK (Project Management Body of Knowledge: xem hình trên) là kiến thức hệ thống hóa về quản lý dự án. Nói dễ hiểu hơn là \"sách giáo khoa cho Project Manager\".",
+      "en": "PMBOK (Project Management Body of Knowledge: see figure above) is systematized knowledge about project management. In simpler terms, it's 'a textbook for Project Managers.'",
+      "terms": [
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        },
+        {
+          "kanji": "体系化",
+          "reading": "たいけいか"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "少",
+          "reading": "すく"
+        },
+        {
+          "kanji": "表現",
+          "reading": "ひょうげん"
+        },
+        {
+          "kanji": "教科書",
+          "reading": "きょうかしょ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "前項で解説したように、プロジェクトマネージャは「プロジェクトの3つの制約」を考慮しながらプロジェクトを運営・管理していく必要があります。",
+      "vi": "Như đã giải thích ở mục trước, Project Manager cần vận hành và quản lý dự án trong khi xem xét \"3 ràng buộc của dự án\".",
+      "en": "As explained in previous section, Project Manager needs to operate and manage projects while considering '3 project constraints.'",
+      "terms": [
+        {
+          "kanji": "前項",
+          "reading": "ぜんこう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "制約",
+          "reading": "せいやく"
+        },
+        {
+          "kanji": "考慮",
+          "reading": "こうりょ"
+        },
+        {
+          "kanji": "運営",
+          "reading": "うんえい"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "そのような状況において、従来は各企業のプロジェクトマネージャが、自身の経験や勘に頼って独自のマネジメントを行っていました。これではとても効率が良いとはいえません。そこで、プロジェクトマネジメントの知識を体系化しようという動きが生まれ、その結果として、アメリカのプロジェクトマネジメント協会がPMBOKを制作しました。また、PMBOKの内容を書籍や電子書籍にまとめたものを「PMBOKガイド」といいます。",
+      "vi": "Trong tình huống như vậy, trước đây Project Manager của mỗi công ty thực hiện quản lý độc lập dựa vào kinh nghiệm và trực giác của bản thân. Điều này không thể nói là hiệu quả. Do đó, phong trào hệ thống hóa kiến thức quản lý dự án ra đời, kết quả là Hiệp hội Quản lý Dự án Mỹ đã tạo ra PMBOK. Ngoài ra, nội dung PMBOK được tổng hợp thành sách hoặc ebook gọi là \"PMBOK Guide\".",
+      "en": "In such situation, previously each company's Project Manager performed their own management relying on personal experience and intuition. This wasn't very efficient. So a movement to systematize project management knowledge emerged, and as a result, American Project Management Institute created PMBOK. Also, PMBOK content compiled into books or e-books is called 'PMBOK Guide.'",
+      "terms": [
+        {
+          "kanji": "状況",
+          "reading": "じょうきょう"
+        },
+        {
+          "kanji": "従来",
+          "reading": "じゅうらい"
+        },
+        {
+          "kanji": "各企業",
+          "reading": "かくきぎょう"
+        },
+        {
+          "kanji": "自身",
+          "reading": "じしん"
+        },
+        {
+          "kanji": "経験",
+          "reading": "けいけん"
+        },
+        {
+          "kanji": "勘",
+          "reading": "かん"
+        },
+        {
+          "kanji": "頼",
+          "reading": "らい"
+        },
+        {
+          "kanji": "独自",
+          "reading": "どくじ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "効率",
+          "reading": "こうりつ"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "体系化",
+          "reading": "たいけいか"
+        },
+        {
+          "kanji": "動",
+          "reading": "どう"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "協会",
+          "reading": "きょうかい"
+        },
+        {
+          "kanji": "制作",
+          "reading": "せいさく"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "書籍",
+          "reading": "しょせき"
+        },
+        {
+          "kanji": "電子書籍",
+          "reading": "でんししょせき"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では「PMBOKの内容に基づいたプロジェクトマネジメント」に関する問題が出題されます。",
+      "vi": "Trong kỳ thi IT Passport, đề thi về \"Quản lý dự án dựa trên nội dung PMBOK\".",
+      "en": "IT Passport exam includes questions about 'Project Management based on PMBOK content.'",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "基",
+          "reading": "もと"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "プロジェクト憲章",
+      "reading": "ぷろじぇくとけんしょう",
+      "vi": "Project Charter",
+      "en": "Project Charter"
+    },
+    {
+      "type": "paragraph",
+      "ja": "PMBOKでは、プロジェクトを立ち上げる際に、まず「プロジェクト憲章」を定めます。プロジェクト憲章とは、プロジェクトの目的などを記載した文書です。こ",
+      "vi": "Trong PMBOK, khi khởi động dự án, trước tiên định ra \"Project Charter\". Project Charter là tài liệu ghi mục đích của dự án.",
+      "en": "In PMBOK, when starting a project, first the 'Project Charter' is established. Project Charter is a document describing the project's purpose.",
+      "terms": [
+        {
+          "kanji": "立",
+          "reading": "た"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "憲章",
+          "reading": "けんしょう"
+        },
+        {
+          "kanji": "定",
+          "reading": "てい"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "PMBOK",
+      "reading": "ぴーえむぼっく",
+      "romaji": "PMBOK",
+      "vi": "PMBOK",
+      "en": "PMBOK (Project Management Body of Knowledge)",
+      "my": "ပီအမ်ဘိုက်"
+    },
+    {
+      "kanji": "プロジェクト憲章",
+      "reading": "ぷろじぇくとけんしょう",
+      "romaji": "Project Kenshou",
+      "vi": "Điều lệ dự án",
+      "en": "Project Charter",
+      "my": "ပရောဂျက် စျာတာ"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

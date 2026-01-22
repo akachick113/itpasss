@@ -1,0 +1,172 @@
+{
+  "page_id": 46,
+  "image": "p_0046.png",
+  "chapter": 1,
+  "section": "01-05",
+  "page_number": 30,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "パレート図と、パレート図を用いたABC分析の例",
+      "vi": "Ví dụ về biểu đồ Pareto và phân tích ABC sử dụng biểu đồ Pareto",
+      "en": "Example of Pareto chart and ABC analysis using Pareto chart",
+      "my": "Pareto chart နှင့် Pareto chart အသုံးပြု၍ ABC analysis ၏ ဥပမာ",
+      "terms": [
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ヒストグラムとレーダーチャート",
+      "reading": "ひすとぐらむとれーだーちゃーと",
+      "vi": "Histogram và Radar Chart",
+      "en": "Histogram and Radar Chart",
+      "my": "Histogram နှင့် Radar Chart"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ヒストグラムとは、データをいくつかの区間に分けて、その区間ごとのデータの数を棒グラフで表したグラフです。一般的な棒グラフとの違いは、棒グラフの横軸が独立した項目であるのに対して、ヒストグラムの横軸は連続した項目になるところです。",
+      "vi": "Histogram là đồ thị chia dữ liệu thành các khoảng và biểu diễn số lượng dữ liệu trong mỗi khoảng bằng biểu đồ cột. Điểm khác biệt với biểu đồ cột thông thường là trục hoành của biểu đồ cột là các mục độc lập, trong khi trục hoành của histogram là các mục liên tục.",
+      "en": "A histogram is a graph that divides data into intervals and shows the count of data in each interval using bars. The difference from a regular bar graph is that while the horizontal axis of a bar graph has independent items, the horizontal axis of a histogram has continuous items.",
+      "my": "Histogram သည် data ကို interval များအဖြစ် ခွဲခြားပြီး interval တစ်ခုစီရှိ data အရေအတွက်ကို bar များဖြင့် ပြသသော ဂရပ်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "区間",
+          "reading": "くかん"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "棒",
+          "reading": "ぼう"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "一般的",
+          "reading": "いっぱんてき"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "横軸",
+          "reading": "よこじく"
+        },
+        {
+          "kanji": "独立",
+          "reading": "どくりつ"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "連続",
+          "reading": "れんぞく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方、レーダーチャートとは、複数のデータをクモの巣のような放射状に表した図です。レーダーチャートを使うとデータ全体のバランスを見ることができます。",
+      "vi": "Mặt khác, Radar Chart là biểu đồ biểu diễn nhiều dữ liệu dưới dạng hình tỏa tròn như mạng nhện. Sử dụng Radar Chart có thể xem được sự cân bằng tổng thể của dữ liệu.",
+      "en": "On the other hand, a Radar Chart is a diagram that displays multiple data in a radial pattern like a spider web. Using a Radar Chart, you can see the overall balance of data.",
+      "my": "အခြားတစ်ဖက်တွင် Radar Chart သည် data အများအပြားကို ပင့်ကူပိုက်ကဲ့သို့ ရေဒီရယ်ပုံစံဖြင့် ပြသသော ပုံကြမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "巣",
+          "reading": "す"
+        },
+        {
+          "kanji": "放射状",
+          "reading": "ほうしゃじょう"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ヒストグラム",
+      "reading": "ひすとぐらむ",
+      "romaji": "Histogram",
+      "vi": "Biểu đồ tần suất",
+      "en": "Histogram",
+      "my": "Histogram"
+    },
+    {
+      "kanji": "レーダーチャート",
+      "reading": "れーだーちゃーと",
+      "romaji": "Radar Chart",
+      "vi": "Biểu đồ radar",
+      "en": "Radar Chart",
+      "my": "Radar Chart"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "diagram_types": [
+      "pareto",
+      "histogram",
+      "radar"
+    ]
+  }
+}

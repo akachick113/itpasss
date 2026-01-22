@@ -1,0 +1,318 @@
+{
+  "page_id": 121,
+  "image": "p_0121.png",
+  "chapter": 3,
+  "section": "03-03",
+  "page_number": 105,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "チャレンジャー",
+      "reading": "ちゃれんじゃー",
+      "vi": "Challenger (Người thách thức)",
+      "en": "Challenger"
+    },
+    {
+      "type": "paragraph",
+      "ja": "チャレンジャーは、業界で第2位以下の企業です。チャレンジャーはリーダーからトップシェアを奪うことを目標にします。チャレンジャーの戦略は「リーダーとは差別化した戦略で勝つこと」です。なぜなら、同じ商品やサービスではすでにリーダーに負けているからです。",
+      "vi": "Challenger là doanh nghiệp xếp hạng 2 trở xuống trong ngành. Challenger đặt mục tiêu giành thị phần hàng đầu từ Leader. Chiến lược của Challenger là Thắng bằng chiến lược khác biệt với Leader. Vì nếu cùng sản phẩm và dịch vụ thì đã thua Leader rồi.",
+      "en": "Challenger is the 2nd ranked or below company in the industry. Challenger aims to take top share from Leader. Challenger's strategy is Win with differentiated strategy from Leader. Because with same products and services, they've already lost to Leader.",
+      "my": "Challenger သည် လုပ်ငန်းနယ်ပယ်တွင် အဆင့် ၂ သို့မဟုတ် အောက်ရှိ ကုမ္ပဏီဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "業界",
+          "reading": "ぎょうかい"
+        },
+        {
+          "kanji": "第",
+          "reading": "だい"
+        },
+        {
+          "kanji": "位以下",
+          "reading": "くらいいか"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "奪",
+          "reading": "だつ"
+        },
+        {
+          "kanji": "目標",
+          "reading": "もくひょう"
+        },
+        {
+          "kanji": "戦略",
+          "reading": "せんりゃく"
+        },
+        {
+          "kanji": "差別化",
+          "reading": "さべつか"
+        },
+        {
+          "kanji": "勝",
+          "reading": "かち"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "負",
+          "reading": "ふ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "フォロワー",
+      "reading": "ふぉろわー",
+      "vi": "Follower (Người theo sau)",
+      "en": "Follower"
+    },
+    {
+      "type": "paragraph",
+      "ja": "フォロワーは、業界で第2位以下の企業ですが、チャレンジャーのようにリーダーを倒すリスクは負わない企業です。フォロワーの戦略は「リーダーやチャレンジャーの成功事例を真似すること」です。こうすると、研究開発などのコストを抑えて、高い利益を生み出すことができます。",
+      "vi": "Follower là doanh nghiệp xếp hạng 2 trở xuống, nhưng không chịu rủi ro đánh bại Leader như Challenger. Chiến lược của Follower là Bắt chước thành công của Leader và Challenger. Như vậy có thể giảm chi phí R&D và tạo ra lợi nhuận cao.",
+      "en": "Follower is 2nd ranked or below but won't risk defeating Leader like Challenger. Follower's strategy is Imitate success of Leader and Challenger. This way can reduce R&D costs and generate high profits.",
+      "my": "Follower သည် အဆင့် ၂ သို့မဟုတ် အောက်ဖြစ်သော်လည်း Challenger ကဲ့သို့ Leader ကို အရှုံးပေးမည့် အန္တရာယ်ကို မခံယူပါ။",
+      "terms": [
+        {
+          "kanji": "業界",
+          "reading": "ぎょうかい"
+        },
+        {
+          "kanji": "第",
+          "reading": "だい"
+        },
+        {
+          "kanji": "位以下",
+          "reading": "くらいいか"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "倒",
+          "reading": "とう"
+        },
+        {
+          "kanji": "負",
+          "reading": "ふ"
+        },
+        {
+          "kanji": "戦略",
+          "reading": "せんりゃく"
+        },
+        {
+          "kanji": "成功事例",
+          "reading": "せいこうじれい"
+        },
+        {
+          "kanji": "真似",
+          "reading": "まね"
+        },
+        {
+          "kanji": "研究開発",
+          "reading": "けんきゅうかいはつ"
+        },
+        {
+          "kanji": "抑",
+          "reading": "よく"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ニッチャー",
+      "reading": "にっちゃー",
+      "vi": "Nicher (Người ngách)",
+      "en": "Nicher"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ニッチャーは、ニッチな市場（市場のすきま）を狙うシェアの低い企業です。ニッチャーの戦略は「売る商品やチャネル（販売経路）を限定して、特定の領域に経営資源を集中させること」です。リーダーはニッチな市場を無視するので、リーダーとの競合は発生しません。",
+      "vi": "Nicher là doanh nghiệp có thị phần thấp nhắm vào thị trường ngách (khe hở thị trường). Chiến lược của Nicher là Giới hạn sản phẩm bán và kênh (đường bán hàng), tập trung nguồn lực kinh doanh vào lĩnh vực cụ thể. Vì Leader bỏ qua thị trường ngách nên không xảy ra cạnh tranh với Leader.",
+      "en": "Nicher is a low-share company targeting niche markets (market gaps). Nicher's strategy is Limit products and channels (sales routes), concentrate business resources on specific areas. Since Leader ignores niche markets, no competition with Leader occurs.",
+      "my": "Nicher သည် ဈေးကွက်ကွက်ကျား (ဈေးကွက်ကွာဟချက်များ) ကို ရည်ရွယ်သော ဝေစုနိမ့်သော ကုမ္ပဏီဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "市場",
+          "reading": "しじょう"
+        },
+        {
+          "kanji": "狙",
+          "reading": "そ"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "戦略",
+          "reading": "せんりゃく"
+        },
+        {
+          "kanji": "売",
+          "reading": "う"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "販売経路",
+          "reading": "はんばいけいろ"
+        },
+        {
+          "kanji": "限定",
+          "reading": "げんてい"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "領域",
+          "reading": "りょういき"
+        },
+        {
+          "kanji": "経営資源",
+          "reading": "けいえいしげん"
+        },
+        {
+          "kanji": "集中",
+          "reading": "しゅうちゅう"
+        },
+        {
+          "kanji": "無視",
+          "reading": "むし"
+        },
+        {
+          "kanji": "競合",
+          "reading": "きょうごう"
+        },
+        {
+          "kanji": "発生",
+          "reading": "はっせい"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・チャレンジャーは、リーダーの商品やサービスと差別化する\n・フォロワーは、リーダーの成功事例を真似する\n・ニッチャーは、リーダーが無視するような小さな市場で戦う",
+        "vi": "・Challenger khác biệt hóa với sản phẩm và dịch vụ của Leader\n・Follower bắt chước thành công của Leader\n・Nicher chiến đấu trong thị trường nhỏ mà Leader bỏ qua",
+        "en": "・Challenger differentiates from Leader's products and services\n・Follower imitates Leader's success\n・Nicher fights in small markets Leader ignores",
+        "my": "・ Challenger သည် Leader ၏ ထုတ်ကုန်များနှင့် ဝန်ဆောင်မှုများမှ ကွဲပြားစေသည်",
+        "terms": [
+          {
+            "kanji": "商品",
+            "reading": "しょうひん"
+          },
+          {
+            "kanji": "差別化",
+            "reading": "さべつか"
+          },
+          {
+            "kanji": "成功事例",
+            "reading": "せいこうじれい"
+          },
+          {
+            "kanji": "真似",
+            "reading": "まね"
+          },
+          {
+            "kanji": "無視",
+            "reading": "むし"
+          },
+          {
+            "kanji": "小",
+            "reading": "ちい"
+          },
+          {
+            "kanji": "市場",
+            "reading": "しじょう"
+          },
+          {
+            "kanji": "戦",
+            "reading": "せん"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "フォロワー",
+      "reading": "ふぉろわー",
+      "romaji": "Follower",
+      "vi": "Người theo sau",
+      "en": "Follower",
+      "my": "Follower"
+    },
+    {
+      "kanji": "ニッチャー",
+      "reading": "にっちゃー",
+      "romaji": "Nicher",
+      "vi": "Người ngách",
+      "en": "Nicher",
+      "my": "Nicher"
+    },
+    {
+      "kanji": "差別化",
+      "reading": "さべつか",
+      "romaji": "Sabetsuka",
+      "vi": "Khác biệt hóa",
+      "en": "Differentiation",
+      "my": "ကွဲပြားခြားနားမှု"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

@@ -1,0 +1,118 @@
+{
+    "page_id": 139,
+    "image": "p_0139.png",
+    "chapter": 3,
+    "section": "questions",
+    "page_number": 123,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "3-15",
+            "year": "令和7年度",
+            "question": {
+                "ja": "ERPシステムの説明として、適切なものはどれか。",
+                "vi": "Đâu là giải thích phù hợp về hệ thống ERP?",
+                "en": "Which is the appropriate explanation of ERP system?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "企業内の個人がもつ営業に関する知識やノウハウを収集し、共有することによって、効率的な、効果的な営業活動を支援するシステム",
+                    "vi": "Hệ thống hỗ trợ hoạt động kinh doanh hiệu quả bằng cách thu thập và chia sẻ kiến thức và know-how kinh doanh của cá nhân trong công ty",
+                    "en": "System supporting efficient and effective sales by collecting and sharing individual sales knowledge and know-how"
+                },
+                {
+                    "label": "イ",
+                    "ja": "経理や人事、生産、販売などの基幹業務と関連する情報を一元管理し、経営資源を最適配分することによって、効率的な経営の実現を支援するシステム",
+                    "vi": "Hệ thống hỗ trợ thực hiện kinh doanh hiệu quả bằng cách quản lý tập trung thông tin liên quan đến nghiệp vụ cốt lõi như kế toán, nhân sự, sản xuất, bán hàng và phân bổ nguồn lực tối ưu",
+                    "en": "System supporting efficient management by centrally managing information related to core operations like accounting, HR, production, sales and optimally allocating resources",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "原材料の調達から生産、販売に関する情報を、企業間で共有・管理することによって、ビジネスプロセスの全体最適を目指すシステム",
+                    "vi": "Hệ thống nhắm đến tối ưu hóa toàn bộ quy trình kinh doanh bằng cách chia sẻ và quản lý thông tin từ mua nguyên liệu đến sản xuất, bán hàng giữa các doanh nghiệp",
+                    "en": "System aiming for overall business process optimization by sharing and managing information from raw material procurement to production and sales between companies"
+                },
+                {
+                    "label": "エ",
+                    "ja": "個々の顧客に関する情報や対応履歴などを管理することによって、きめ細かい対応を実施し、顧客満足度の向上を支援するシステム",
+                    "vi": "Hệ thống hỗ trợ nâng cao sự hài lòng của khách hàng bằng cách quản lý thông tin và lịch sử phản hồi của từng khách hàng để thực hiện phản hồi chi tiết",
+                    "en": "System supporting customer satisfaction improvement by managing individual customer information and response history for detailed responses"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "3-16",
+            "year": "平成27年度",
+            "question": {
+                "ja": "個々の営業担当者が保有している営業情報や営業ノウハウをデータベースで管理し、営業部門全体で共有できるようにしたい。この目的を達成するために活用する情報システムとして、最も適切なものはどれか。",
+                "vi": "Muốn quản lý thông tin kinh doanh và know-how mà từng nhân viên kinh doanh nắm giữ trong cơ sở dữ liệu để toàn bộ phận kinh doanh có thể chia sẻ. Hệ thống thông tin phù hợp nhất để đạt mục đích này là gì?",
+                "en": "Want to manage sales information and know-how held by individual salespeople in a database so the entire sales department can share. Which information system is most appropriate to achieve this purpose?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "CRMシステム",
+                    "vi": "Hệ thống CRM",
+                    "en": "CRM System"
+                },
+                {
+                    "label": "イ",
+                    "ja": "SCMシステム",
+                    "vi": "Hệ thống SCM",
+                    "en": "SCM System"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "SFAシステム",
+                    "vi": "Hệ thống SFA",
+                    "en": "SFA System",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "データウェアハウス",
+                    "vi": "Data Warehouse",
+                    "en": "Data Warehouse"
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "ja": "解答・解説",
+            "vi": "Đáp án & Giải thích",
+            "en": "Answers & Explanations"
+        },
+        {
+            "type": "answer_explanation",
+            "number": "3-10",
+            "answer": "ア",
+            "explanation": {
+                "ja": "BSC（Balanced Scorecard：バランススコアカード）では「財務」「顧客」「業務プロセス」「学習と成長」の4つの視点から業績評価を行います。\n\nイ. CSF（Critical Success Factors）は、戦略目標を達成するために必要となる具体的な要因です。\n\nウ. PPM（Product Portfolio Management）は、自社の製品もしくは事業を、花形、問題児、金のなる木、負け犬の4つに分類する手法です。\n\nエ. SWOT分析は、企業が置かれている経営環境を「強み」「弱み」「機会」「脅威」の4つに分類する手法です。",
+                "vi": "BSC (Balanced Scorecard) đánh giá hiệu suất từ 4 góc nhìn: Tài chính, Khách hàng, Quy trình, Học tập và phát triển.\n\nイ CSF (Critical Success Factors) là yếu tố cụ thể cần thiết để đạt mục tiêu chiến lược.\n\nウ PPM (Product Portfolio Management) phân loại sản phẩm hoặc sự nghiệp thành 4 loại: Ngôi sao, Dấu hỏi, Bò sữa, Chó.\n\nエ SWOT Analysis phân loại môi trường kinh doanh thành 4 loại: Điểm mạnh, Điểm yếu, Cơ hội, Mối đe dọa.",
+                "en": "BSC (Balanced Scorecard) evaluates performance from 4 perspectives: Financial, Customer, Business Process, Learning and Growth.\n\nB. CSF (Critical Success Factors) are specific factors needed to achieve strategic goals.\n\nC. PPM classifies products or businesses into 4 categories: Star, Question Mark, Cash Cow, Dog.\n\nD. SWOT Analysis classifies business environment into 4: Strengths, Weaknesses, Opportunities, Threats."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "3-11",
+            "answer": "ア",
+            "explanation": {
+                "ja": "設問中の「重要な」を「Critical」、「要因」を「Factors」と英訳できれば、それらの頭文字を含むCSFが正解であると判断できます。\n\nイ. ERP（Enterprise Resource Planning：企業資源計画）は、経営資源（ヒト、モノ、カネ、情報）を統合的に管理する手法です。\n\nウ. MRP（Material Requirements Planning：資材所要量計画）は、製品の生産計画に合わせて必要な資材の量を求め、資材の手配を行う手法です。\n\nエ. SCM（Supply Chain Management）は、調達、生産、販売などのプロセス全体の最適化を行う手法です。",
+                "vi": "Nếu dịch sang tiếng Anh quan trọng là Critical, yếu tố là Factors trong câu hỏi, có thể xác định CSF chứa các chữ cái đầu đó là đáp án.\n\nイ ERP (Enterprise Resource Planning) quản lý tích hợp nguồn lực (Người, Vật, Tiền, Thông tin).\n\nウ MRP (Material Requirements Planning) tính toán lượng nguyên liệu cần thiết theo kế hoạch sản xuất để sắp xếp nguyên liệu.\n\nエ SCM (Supply Chain Management) tối ưu hóa toàn bộ quy trình mua sắm, sản xuất, bán hàng.",
+                "en": "If you translate 'important' as 'Critical' and 'factors' as 'Factors', you can determine CSF containing those initials is correct.\n\nB. ERP (Enterprise Resource Planning) manages business resources (People, Goods, Money, Information) in an integrated manner.\n\nC. MRP (Material Requirements Planning) calculates required material quantities based on production plans.\n\nD. SCM (Supply Chain Management) optimizes entire procurement, production, sales processes."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "is_answer_page": true,
+        "questions_covered": "3-15, 3-16",
+        "answers_covered": "3-10, 3-11"
+    }
+}

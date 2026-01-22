@@ -1,0 +1,239 @@
+{
+  "page_id": 418,
+  "image": "p_0418.png",
+  "chapter": 11,
+  "section": "11-04",
+  "page_number": 402,
+  "content": [
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "記憶装置の名称",
+        "vi": "Tên gọi của thiết bị ghi nhớ",
+        "en": "Memory Device Names",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "記憶装置の正式名称は上記のとおり、「主記憶装置」「補助記憶装置」ですが、ITパスポート試験では単に「主記憶」「補助記憶」と表記されることもあるので注意してください。また、試験で実際に問われるのは「キャッシュメモリ」に関することがほとんどです。主記憶装置や補助記憶装置のことが直接問われることは稀です。",
+        "vi": "Tên chính thức của thiết bị ghi nhớ như trên là \"bộ nhớ chính\" \"bộ nhớ phụ\", nhưng trong kỳ thi IT Passport đôi khi được viết đơn giản là \"bộ nhớ chính\" \"bộ nhớ phụ\" nên hãy chú ý. Ngoài ra, những gì thực sự được hỏi trong kỳ thi hầu hết là về \"bộ nhớ cache\". Hiếm khi thiết bị bộ nhớ chính hoặc bộ nhớ phụ được hỏi trực tiếp.",
+        "en": "Official names of memory devices are as above: 'main memory device' and 'auxiliary memory device,' but in IT Passport exam sometimes simply written as 'main memory' 'auxiliary memory' so be careful. Also, what's actually asked on exam is mostly about 'cache memory.' Rarely directly asked about main memory device or auxiliary memory device."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（1）主記憶装置",
+      "reading": "しゅきおくそうち",
+      "vi": "(1) Bộ nhớ chính",
+      "en": "(1) Main Memory"
+    },
+    {
+      "type": "paragraph",
+      "ja": "主記憶装置とは、CPUが直接読み書きをする記憶装置です。主記憶装置は「主記憶」や「メインメモリ」と呼ばれることもあります。",
+      "vi": "Bộ nhớ chính là thiết bị ghi nhớ mà CPU đọc ghi trực tiếp. Bộ nhớ chính đôi khi cũng được gọi là \"main memory\".",
+      "en": "Main memory is memory device CPU directly reads and writes. Main memory is sometimes called 'main memory' or 'main memory.'",
+      "terms": [
+        {
+          "kanji": "主記憶装置",
+          "reading": "しゅきおくそうち"
+        },
+        {
+          "kanji": "直接読",
+          "reading": "ちょくせつどく"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "記憶装置",
+          "reading": "きおくそうち"
+        },
+        {
+          "kanji": "主記憶",
+          "reading": "しゅきおく"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "主記憶装置の役割は、実行すべき命令を一時的に保存することです。なぜなら、CPUが処理できる命令の数には限界があり、プログラマが入力したすべての命令を一度に処理できないからです。そのため、入力された膨大な命令はいったん主記憶装置に保存されます。CPUはそこから命令を順次取り出して処理を実行します。",
+      "vi": "Vai trò của bộ nhớ chính là lưu trữ tạm thời các lệnh cần thực thi. Bởi vì số lệnh mà CPU có thể xử lý có giới hạn, không thể xử lý tất cả các lệnh mà lập trình viên nhập một lần. Vì vậy, lượng lớn lệnh được nhập sẽ được lưu tạm vào bộ nhớ chính. CPU lấy lệnh từ đó theo thứ tự và thực hiện xử lý.",
+      "en": "Main memory's role is temporarily storing instructions to execute. Because CPU can process limited number of instructions, can't process all instructions programmer inputs at once. Therefore, massive inputted instructions are temporarily stored in main memory. CPU retrieves instructions from there sequentially and executes processing.",
+      "terms": [
+        {
+          "kanji": "主記憶装置",
+          "reading": "しゅきおくそうち"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "命令",
+          "reading": "めいれい"
+        },
+        {
+          "kanji": "一時的",
+          "reading": "いちじてき"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "限界",
+          "reading": "げんかい"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "一度",
+          "reading": "いちど"
+        },
+        {
+          "kanji": "膨大",
+          "reading": "ぼうだい"
+        },
+        {
+          "kanji": "順次取",
+          "reading": "じゅんじしゅ"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "主記憶装置の役割",
+        "vi": "Vai trò của bộ nhớ chính",
+        "en": "Role of Main Memory"
+      },
+      "description": {
+        "ja": "プログラマが膨大な命令を一度に入力する→命令・結果が主記憶装置（命令と結果の倉庫）に保存される→CPUが命令を1つずつ取り出して処理をする",
+        "vi": "Lập trình viên nhập lượng lớn lệnh một lần → Lệnh và kết quả được lưu vào bộ nhớ chính (kho lệnh và kết quả) → CPU lấy lệnh từng cái một và xử lý",
+        "en": "Programmer inputs massive instructions at once → Instructions and results stored in main memory (warehouse of instructions and results) → CPU retrieves instructions one by one and processes"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように主記憶装置を使用することで、CPUは自身の処理能力を超える量の命令であっても、最終的には、すべて実行することができます。",
+      "vi": "Bằng cách sử dụng bộ nhớ chính như vậy, CPU cuối cùng có thể thực thi tất cả lệnh ngay cả khi vượt quá khả năng xử lý của mình.",
+      "en": "By using main memory like this, CPU can eventually execute all instructions even if exceeding own processing capacity.",
+      "terms": [
+        {
+          "kanji": "主記憶装置",
+          "reading": "しゅきおくそうち"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "自身",
+          "reading": "じしん"
+        },
+        {
+          "kanji": "処理能力",
+          "reading": "しょりのうりょく"
+        },
+        {
+          "kanji": "超",
+          "reading": "こ"
+        },
+        {
+          "kanji": "量",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "命令",
+          "reading": "めいれい"
+        },
+        {
+          "kanji": "最終的",
+          "reading": "さいしゅうてき"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "主記憶装置には次の2つの特徴があります。",
+      "vi": "Bộ nhớ chính có 2 đặc điểm sau.",
+      "en": "Main memory has following 2 characteristics.",
+      "terms": [
+        {
+          "kanji": "主記憶装置",
+          "reading": "しゅきおくそうち"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        }
+      ]
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        {
+          "ja": "主記憶装置は、データを高速に出し入れできる",
+          "vi": "Bộ nhớ chính có thể nhập xuất dữ liệu với tốc độ cao",
+          "en": "Main memory can input/output data at high speed"
+        },
+        {
+          "ja": "主記憶装置に保存されたデータは、コンピュータの電源を切ると消滅する",
+          "vi": "Dữ liệu được lưu trong bộ nhớ chính sẽ biến mất khi tắt nguồn máy tính",
+          "en": "Data stored in main memory disappears when computer power is turned off"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "主記憶装置",
+      "reading": "しゅきおくそうち",
+      "vi": "Bộ nhớ chính",
+      "en": "Main Memory",
+      "my": "ပညမ္မ မှတ်ဏာဢာ"
+    },
+    {
+      "term": "メインメモリ",
+      "vi": "Main memory",
+      "en": "Main Memory",
+      "my": "မိန်း မဲမရီ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_note_box": true,
+    "is_key_content": true
+  }
+}

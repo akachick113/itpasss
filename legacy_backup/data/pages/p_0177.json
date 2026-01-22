@@ -1,0 +1,363 @@
+{
+  "page_id": 177,
+  "image": "p_0177.png",
+  "chapter": 4,
+  "section": "04-05",
+  "page_number": 161,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "フリーミアム",
+      "reading": "ふりーみあむ",
+      "vi": "Freemium",
+      "en": "Freemium",
+      "my": "Freemium"
+    },
+    {
+      "type": "paragraph",
+      "ja": "フリーミアムとは、基本機能を無料で提供し、追加機能を有料で提供するビジネスモデルです。「フリーミアム」という用語は「Free（無料）」と「Premium（追加料金）」を組み合わせた造語です。\n\nフリーミアムでは、多くのユーザーに商品やサービスを無料で試してもらうことでその機能に納得してもらい、一部のユーザーを有料ユーザーへと転換させるビジネスモデルです。",
+      "vi": "Freemium là mô hình kinh doanh cung cấp chức năng cơ bản miễn phí và chức năng bổ sung có phí. Thuật ngữ Freemium là từ ghép của Free (miễn phí) và Premium (phí bổ sung).\n\nFreemium là mô hình kinh doanh cho nhiều người dùng dùng thử sản phẩm/dịch vụ miễn phí để họ hài lòng với chức năng, rồi chuyển đổi một số thành người dùng trả phí.",
+      "en": "Freemium is a business model providing basic features free and additional features for a fee. 'Freemium' is a coined word combining 'Free' and 'Premium'.\n\nFreemium is a business model where many users try products/services free to be satisfied with features, then some are converted to paying users.",
+      "my": "Freemium သည် အခြေခံ အင်္ဂါရပ်များကို အခမဲ့ နှင့် ထပ်ဆောင်း အင်္ဂါရပ်များကို အခကြေးငွေဖြင့် ပေးအပ်သော စီးပွားရေးမော်ဒယ်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "基本機能",
+          "reading": "きほんきのう"
+        },
+        {
+          "kanji": "無料",
+          "reading": "むりょう"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "追加機能",
+          "reading": "ついかきのう"
+        },
+        {
+          "kanji": "有料",
+          "reading": "ゆうりょう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "追加料金",
+          "reading": "ついかりょうきん"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "造語",
+          "reading": "ぞうご"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "試",
+          "reading": "し"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "納得",
+          "reading": "なっとく"
+        },
+        {
+          "kanji": "一部",
+          "reading": "いちぶ"
+        },
+        {
+          "kanji": "転換",
+          "reading": "てんかん"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・あまり売れない商品でも、その種類が多くなると、大きな売上になることを「ロングテール」という\n・フリーミアムとは、基本機能を無料で提供し、追加機能を有料で提供するビジネスモデルである",
+        "vi": "・Sản phẩm ít bán nhưng nếu có nhiều loại thì trở thành doanh số lớn gọi là Long Tail\n・Freemium là mô hình kinh doanh cung cấp chức năng cơ bản miễn phí và chức năng bổ sung có phí",
+        "en": "・Slow-selling products that become large sales when many types exist is called 'Long Tail'\n・Freemium is a business model providing basic features free and additional features for a fee",
+        "my": "・ အမျိုးအစားများများရှိသောအခါ ရောင်းအားကြီးကြီး ဖြစ်လာသော အရောင်းနှေးသော ထုတ်ကုန်များကို Long Tail ဟုခေါ်သည်",
+        "terms": [
+          {
+            "kanji": "売",
+            "reading": "ばい"
+          },
+          {
+            "kanji": "商品",
+            "reading": "しょうひん"
+          },
+          {
+            "kanji": "種類",
+            "reading": "しゅるい"
+          },
+          {
+            "kanji": "多",
+            "reading": "た"
+          },
+          {
+            "kanji": "大",
+            "reading": "だい"
+          },
+          {
+            "kanji": "売上",
+            "reading": "うりあげ"
+          },
+          {
+            "kanji": "基本機能",
+            "reading": "きほんきのう"
+          },
+          {
+            "kanji": "無料",
+            "reading": "むりょう"
+          },
+          {
+            "kanji": "提供",
+            "reading": "ていきょう"
+          },
+          {
+            "kanji": "追加機能",
+            "reading": "ついかきのう"
+          },
+          {
+            "kanji": "有料",
+            "reading": "ゆうりょう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "EC（電子商取引）の広告",
+      "reading": "いーしー（でんししょうとりひき）のこうこく",
+      "vi": "Quảng cáo EC (Thương mại điện tử)",
+      "en": "EC (Electronic Commerce) Advertising",
+      "my": "EC (Electronic Commerce) ကြော်ငြာ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ECサイトも実店舗と同様に、より多くの商品を販売するために広告を出すなどの努力をしています。EC広告に関する用語のなかでは「CGM」が頻出です。",
+      "vi": "Trang EC cũng giống cửa hàng thực, nỗ lực như đăng quảng cáo để bán nhiều sản phẩm hơn. Trong các thuật ngữ về quảng cáo EC, CGM hay ra đề.",
+      "en": "EC sites, like physical stores, make efforts like running ads to sell more products. Among EC advertising terms, 'CGM' is frequently tested.",
+      "my": "EC sites သည် ရုပ်ပိုင်းဆိုင်ရာ စတိုးဆိုင်များကဲ့သို့ ထုတ်ကုန်များ ပိုရောင်းရန် ကြော်ငြာများ လုပ်ဆောင်ခြင်းကဲ့သို့ ကြိုးပမ်းသည်။",
+      "terms": [
+        {
+          "kanji": "実店舗",
+          "reading": "みてんぽ"
+        },
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "販売",
+          "reading": "はんばい"
+        },
+        {
+          "kanji": "広告",
+          "reading": "こうこく"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "努力",
+          "reading": "どりょく"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "頻出",
+          "reading": "ひんしゅつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "CGM",
+      "vi": "CGM",
+      "en": "CGM"
+    },
+    {
+      "type": "paragraph",
+      "ja": "CGM（Consumer Generated Media）とは、一般の消費者が、インターネットを通じて自らの情報を発信するメディアの総称です。例えば「ブログ」「口コミサイト」「SNS（TwitterやInstagramなど）」です。\n\n従来、「商品に関する情報」は企業側から発信されるものがほとんどでしたが、インターネットが普及したことによって、一般消費者が「商品レビュー」や「使ってみた感想」などを発信することが可能になりました。企業側が発信する情報は基本的に商品の良いことばかりですが、一般消費者が発信する情報は企業の思惑に左右されないので、役に立つことがあります。",
+      "vi": "CGM (Consumer Generated Media) là tên gọi chung của media mà người tiêu dùng thông thường phát thông tin của mình qua internet. Ví dụ Blog, trang đánh giá, SNS (Twitter, Instagram, v.v.).\n\nTrước đây, thông tin về sản phẩm hầu hết do doanh nghiệp phát. Nhưng với sự phổ biến của internet, người tiêu dùng thông thường có thể phát đánh giá sản phẩm và cảm nhận sử dụng. Thông tin từ doanh nghiệp cơ bản chỉ nói tốt về sản phẩm, nhưng thông tin từ người tiêu dùng không bị ảnh hưởng bởi ý đồ doanh nghiệp nên có thể hữu ích.",
+      "en": "CGM (Consumer Generated Media) is the general term for media where regular consumers share their information via internet. Examples are 'blogs', 'review sites', 'SNS (Twitter, Instagram, etc.)'.\n\nPreviously, 'product information' was mostly from businesses, but with internet spread, regular consumers can now share 'product reviews' and 'usage impressions'. Business information is basically positive about products, but consumer information isn't influenced by business intentions, so it can be useful.",
+      "my": "CGM (Consumer Generated Media) သည် သာမန်စားသုံးသူများ အင်တာနက်မှတဆင့် ၎င်းတို့၏ အချက်အလက်ကို မျှဝေသော media အတွက် ယေဘုယျ အသုံးအနှုန်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "一般",
+          "reading": "いっぱん"
+        },
+        {
+          "kanji": "消費者",
+          "reading": "しょうひしゃ"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        },
+        {
+          "kanji": "自",
+          "reading": "じ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "発信",
+          "reading": "はっしん"
+        },
+        {
+          "kanji": "総称",
+          "reading": "そうしょう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "口",
+          "reading": "くち"
+        },
+        {
+          "kanji": "従来",
+          "reading": "じゅうらい"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "企業側",
+          "reading": "きぎょうがわ"
+        },
+        {
+          "kanji": "普及",
+          "reading": "ふきゅう"
+        },
+        {
+          "kanji": "一般消費者",
+          "reading": "いっぱんしょうひしゃ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "感想",
+          "reading": "かんそう"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "思惑",
+          "reading": "おもわく"
+        },
+        {
+          "kanji": "左右",
+          "reading": "さゆう"
+        },
+        {
+          "kanji": "役",
+          "reading": "やく"
+        },
+        {
+          "kanji": "立",
+          "reading": "りつ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "フリーミアム",
+      "reading": "ふりーみあむ",
+      "romaji": "Freemium",
+      "vi": "Freemium",
+      "en": "Freemium",
+      "my": "Freemium"
+    },
+    {
+      "kanji": "CGM",
+      "reading": "しーじーえむ",
+      "romaji": "Consumer Generated Media",
+      "vi": "Nội dung do người tiêu dùng tạo",
+      "en": "Consumer Generated Media",
+      "my": "CGM"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

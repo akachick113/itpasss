@@ -1,0 +1,412 @@
+{
+  "page_id": 74,
+  "image": "p_0074.png",
+  "chapter": 2,
+  "section": "02-01",
+  "page_number": 58,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "プログラムはコンピュータへの命令書、データベースはコンピュータの中でデータを蓄積している場所です。上記の7つのうち、ITパスポート試験でよく出題されるのは「取扱説明書」「プログラム」「写真」です。この3つは必ず暗記！\n\n本や音楽、映画、美術作品に著作権があることはすでに多くの人が知っています。一方で、ソフトウェアなどに同梱されている「取扱説明書」や、コンピュータの「プログラム」に著作権があることはあまり知られていません。独立行政法人情報処理推進機構（ITパスポート試験の実施団体）としては、これらにも著作権があることをより広めたいと思っているため、ITパスポート試験では、本や音楽よりも取扱説明書やプログラムのことが出題される傾向にあります。\n\nまた昨今は、企業のWebサイトやSNSに写真を載せることがよくあるため、写真についても頻繁に出題されます。",
+      "vi": "Chương trình là lệnh cho máy tính, cơ sở dữ liệu là nơi lưu trữ dữ liệu trong máy tính. Trong 7 loại trên, những thứ hay ra đề trong kỳ thi IT Passport là \"Hướng dẫn sử dụng\", \"Chương trình\", \"Ảnh\". Hãy nhớ 3 thứ này!\n\nNhiều người đã biết sách, âm nhạc, phim, tác phẩm nghệ thuật có quyền tác giả. Tuy nhiên, ít người biết \"Hướng dẫn sử dụng\" đi kèm phần mềm và \"Chương trình\" máy tính cũng có quyền tác giả. IPA (tổ chức thực hiện kỳ thi IT Passport) muốn phổ biến rằng những thứ này cũng có quyền tác giả, nên kỳ thi IT Passport có xu hướng ra đề về hướng dẫn sử dụng và chương trình hơn là sách và âm nhạc.\n\nNgoài ra, gần đây việc đăng ảnh lên website và SNS của doanh nghiệp rất phổ biến, nên câu hỏi về ảnh cũng thường xuyên xuất hiện.",
+      "en": "Programs are instructions for computers, databases are places storing data in computers. Of the 7 above, frequently tested on IT Passport are \"Instruction manuals\", \"Programs\", \"Photos\". Memorize these 3!\n\nMany know books, music, movies, art have copyright. However, few know \"instruction manuals\" bundled with software and computer \"programs\" also have copyright. IPA (exam organizer) wants to spread awareness that these also have copyright, so IT Passport tends to ask about manuals and programs more than books and music.\n\nAlso recently, posting photos on company websites and SNS is common, so photo questions appear frequently.",
+      "my": "ပရိုဂရမ်များသည် ကွန်ပျူတာအတွက် ညွှန်ကြားချက်များဖြစ်သည်၊ ဒေတာဘေ့စ်များသည် ကွန်ပျူတာတွင် ဒေတာသိမ်းဆည်းသော နေရာများဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "命令書",
+          "reading": "めいれいしょ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "蓄積",
+          "reading": "ちくせき"
+        },
+        {
+          "kanji": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "取扱説明書",
+          "reading": "とりあつかいせつめいしょ"
+        },
+        {
+          "kanji": "写真",
+          "reading": "しゃしん"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "暗記",
+          "reading": "あんき"
+        },
+        {
+          "kanji": "本",
+          "reading": "ほん"
+        },
+        {
+          "kanji": "音楽",
+          "reading": "おんがく"
+        },
+        {
+          "kanji": "映画",
+          "reading": "えいが"
+        },
+        {
+          "kanji": "美術作品",
+          "reading": "びじゅつさくひん"
+        },
+        {
+          "kanji": "著作権",
+          "reading": "ちょさくけん"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "知",
+          "reading": "ち"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "同梱",
+          "reading": "どうこん"
+        },
+        {
+          "kanji": "独立行政法人情報処理推進機構",
+          "reading": "どくりつぎょうせいほうじんじょうほうしょりすいしんきこう"
+        },
+        {
+          "kanji": "実施団体",
+          "reading": "じっしだんたい"
+        },
+        {
+          "kanji": "広",
+          "reading": "ひろ"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "傾向",
+          "reading": "けいこう"
+        },
+        {
+          "kanji": "昨今",
+          "reading": "さっこん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "載",
+          "reading": "さい"
+        },
+        {
+          "kanji": "頻繁",
+          "reading": "ひんぱん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "著作権法によって保護されないもの",
+      "reading": "ちょさくけんほうによってほごされないもの",
+      "vi": "Những thứ KHÔNG được bảo vệ bởi Luật quyền tác giả",
+      "en": "Things NOT Protected by Copyright Law",
+      "my": "မူပိုင်ခွင့်ဥပဒေဖြင့် မကာကွယ်သော အရာများ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方で、次の3つは著作権法では保護されていません。\n\n・プログラム言語（コンピュータに命令を出すための言葉）\n・アルゴリズム（コンピュータが計算をするときの手順）\n・プロトコル（プログラム言語を使うときの特別な約束）\n\nここでは「プログラム言語やアルゴリズム、プロトコルには著作権がない」ということだけ覚えておいてください。",
+      "vi": "Mặt khác, 3 thứ sau KHÔNG được bảo vệ bởi Luật quyền tác giả:\n\n・Ngôn ngữ lập trình (ngôn ngữ để ra lệnh cho máy tính)\n・Thuật toán (quy trình khi máy tính tính toán)\n・Giao thức (quy ước đặc biệt khi sử dụng ngôn ngữ lập trình)\n\nỞ đây chỉ cần nhớ \"Ngôn ngữ lập trình, thuật toán, giao thức KHÔNG có quyền tác giả\".",
+      "en": "On the other hand, these 3 are NOT protected by Copyright Law:\n\n・Programming languages (words to give commands to computers)\n・Algorithms (procedures when computers calculate)\n・Protocols (special rules when using programming languages)\n\nJust remember \"Programming languages, algorithms, protocols have NO copyright\".",
+      "my": "အခြားတစ်ဖက်တွင် ဤ ၃ ခုကို မူပိုင်ခွင့်ဥပဒေဖြင့် မကာကွယ်ပါ:\n\n・ ပရိုဂရမ်ဘာသာစကားများ\n・ အယ်လဂိုရီသမ်များ\n・ ပရိုတိုကောများ",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "著作権法",
+          "reading": "ちょさくけんほう"
+        },
+        {
+          "kanji": "保護",
+          "reading": "ほご"
+        },
+        {
+          "kanji": "言語",
+          "reading": "げんご"
+        },
+        {
+          "kanji": "命令",
+          "reading": "めいれい"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "手順",
+          "reading": "てじゅん"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "特別",
+          "reading": "とくべつ"
+        },
+        {
+          "kanji": "約束",
+          "reading": "やくそく"
+        },
+        {
+          "kanji": "著作権",
+          "reading": "ちょさくけん"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・著作権法は、本、音楽、写真、美術作品、取扱説明書、プログラム、データベースを保護する\n・プログラム言語、アルゴリズム、プロトコルは、著作権法では保護されない",
+        "vi": "・Luật quyền tác giả bảo vệ: sách, âm nhạc, ảnh, tác phẩm nghệ thuật, hướng dẫn sử dụng, chương trình, cơ sở dữ liệu\n・Ngôn ngữ lập trình, thuật toán, giao thức KHÔNG được bảo vệ bởi Luật quyền tác giả",
+        "en": "・Copyright Law protects: books, music, photos, art, manuals, programs, databases\n・Programming languages, algorithms, protocols are NOT protected by Copyright Law",
+        "my": "・ မူပိုင်ခွင့်ဥပဒေက ကာကွယ်သည်: စာအုပ်များ၊ ဂီတ၊ ဓာတ်ပုံများ၊ အနုပညာ၊ လမ်းညွှန်များ၊ ပရိုဂရမ်များ၊ ဒေတာဘေ့စ်များ\n・ ပရိုဂရမ်ဘာသာစကား၊ အယ်လဂိုရီသမ်၊ ပရိုတိုကော မကာကွယ်ပါ",
+        "terms": [
+          {
+            "kanji": "著作権法",
+            "reading": "ちょさくけんほう"
+          },
+          {
+            "kanji": "本",
+            "reading": "ほん"
+          },
+          {
+            "kanji": "音楽",
+            "reading": "おんがく"
+          },
+          {
+            "kanji": "写真",
+            "reading": "しゃしん"
+          },
+          {
+            "kanji": "美術作品",
+            "reading": "びじゅつさくひん"
+          },
+          {
+            "kanji": "取扱説明書",
+            "reading": "とりあつかいせつめいしょ"
+          },
+          {
+            "kanji": "保護",
+            "reading": "ほご"
+          },
+          {
+            "kanji": "言語",
+            "reading": "げんご"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "基本的な考え方が重要",
+        "vi": "Cách nghĩ cơ bản quan trọng",
+        "en": "Basic Thinking is Important",
+        "my": "အခြေခံအတွေးအခေါ် အရေးကြီးသည်"
+      },
+      "content": {
+        "ja": "著作権に関しては、「他者が創作したものは、勝手に利用したり、複製したりしてはいけない」という最も基本的な考え方を理解しておくことが大切です。この考えを持っておけば、例えば、何らかの作品を見たり、利用したりする際にいったん立ち止まって、その合法性を確認することができます。",
+        "vi": "Về quyền tác giả, điều quan trọng là hiểu cách nghĩ cơ bản nhất: \"Không được tự ý sử dụng hoặc sao chép những gì người khác tạo ra\". Nếu có suy nghĩ này, khi xem hoặc sử dụng tác phẩm nào đó, bạn có thể dừng lại để xác nhận tính hợp pháp.",
+        "en": "Regarding copyright, it's important to understand the most basic principle: \"Don't use or copy others' creations without permission\". With this mindset, when viewing or using any work, you can stop to confirm its legality.",
+        "my": "မူပိုင်ခွင့်နှင့်ပတ်သက်၍ အခြေခံအကျဆုံး မူကို နားလည်ရန် အရေးကြီးသည်: \"သူတပါးဖန်တီးမှုများကို ခွင့်မပြုဘဲ အသုံးမပြုပါနှင့်\"။",
+        "terms": [
+          {
+            "kanji": "著作権",
+            "reading": "ちょさくけん"
+          },
+          {
+            "kanji": "関",
+            "reading": "かん"
+          },
+          {
+            "kanji": "他者",
+            "reading": "たしゃ"
+          },
+          {
+            "kanji": "創作",
+            "reading": "そうさく"
+          },
+          {
+            "kanji": "勝手",
+            "reading": "かって"
+          },
+          {
+            "kanji": "利用",
+            "reading": "りよう"
+          },
+          {
+            "kanji": "複製",
+            "reading": "ふくせい"
+          },
+          {
+            "kanji": "最",
+            "reading": "さい"
+          },
+          {
+            "kanji": "基本的",
+            "reading": "きほんてき"
+          },
+          {
+            "kanji": "考",
+            "reading": "こう"
+          },
+          {
+            "kanji": "方",
+            "reading": "かた"
+          },
+          {
+            "kanji": "理解",
+            "reading": "りかい"
+          },
+          {
+            "kanji": "大切",
+            "reading": "たいせつ"
+          },
+          {
+            "kanji": "持",
+            "reading": "も"
+          },
+          {
+            "kanji": "例",
+            "reading": "れい"
+          },
+          {
+            "kanji": "何",
+            "reading": "なに"
+          },
+          {
+            "kanji": "作品",
+            "reading": "さくひん"
+          },
+          {
+            "kanji": "見",
+            "reading": "み"
+          },
+          {
+            "kanji": "際",
+            "reading": "きわ"
+          },
+          {
+            "kanji": "立",
+            "reading": "た"
+          },
+          {
+            "kanji": "止",
+            "reading": "し"
+          },
+          {
+            "kanji": "合法性",
+            "reading": "ごうほうせい"
+          },
+          {
+            "kanji": "確認",
+            "reading": "かくにん"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "プログラム言語",
+      "reading": "ぷろぐらむげんご",
+      "romaji": "Program Gengo",
+      "vi": "Ngôn ngữ lập trình",
+      "en": "Programming Language",
+      "my": "ပရိုဂရမ်ဘာသာစကား"
+    },
+    {
+      "kanji": "アルゴリズム",
+      "reading": "あるごりずむ",
+      "romaji": "Algorithm",
+      "vi": "Thuật toán",
+      "en": "Algorithm",
+      "my": "အလ်ဂိုရိသမ်"
+    },
+    {
+      "kanji": "プロトコル",
+      "reading": "ぷろとこる",
+      "romaji": "Protocol",
+      "vi": "Giao thức",
+      "en": "Protocol",
+      "my": "ပရိုတိုကော"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

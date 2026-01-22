@@ -1,0 +1,93 @@
+{
+    "page_id": 190,
+    "image": "p_0190.png",
+    "chapter": 4,
+    "section": "answers",
+    "page_number": 174,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "4-22",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "フリーミアムとは、基本機能を無料で提供し、追加機能を有料で提供するビジネスモデルです。選択肢ウの名刺管理サービスは、基本機能が無料で提供されており、追加機能が有料で提供されているので、この選択肢がフリーミアムの事例です。\n\nア. サブスクリプションの事例です。\nイ. フリーウェアの事例です。\nエ. 三者間市場による広告モデルの事例です。",
+                "vi": "Freemium là mô hình kinh doanh cung cấp chức năng cơ bản miễn phí và chức năng bổ sung có phí. Dịch vụ quản lý danh thiếp trong đáp án C có chức năng cơ bản miễn phí và chức năng bổ sung có phí nên là ví dụ Freemium.\n\nA. Là ví dụ Subscription.\nB. Là ví dụ Freeware.\nD. Là ví dụ mô hình quảng cáo thị trường ba bên.",
+                "en": "Freemium is a business model providing basic features free and additional features for a fee. The business card management service in choice C provides basic features free and additional features for a fee, making it a Freemium example.\n\nA. Subscription example.\nB. Freeware example.\nD. Three-sided market advertising model example."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-23",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "IoTの事例では、これまでインターネットにつながることのなかった「モノ」が配達されている選択肢が正解です。アはPC、イはサーバ、ウは容器、エはスマートフォンのPCなので、正解はウと判断できます。",
+                "vi": "Trong ví dụ IoT, đáp án đúng là lựa chọn mà 'vật' trước đây chưa từng kết nối internet được kết nối. A là PC, B là server, C là hộp đựng, D là smartphone/PC nên có thể xác định đáp án đúng là C.",
+                "en": "In IoT examples, the correct answer is the choice where a 'thing' that wasn't connected to internet before is now connected. A is PC, B is server, C is container, D is smartphone/PC, so the correct answer is C."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-24",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "「特定の機能」というキーワードから、組込みシステムであると判断できます。\n\nア. エキスパートシステムは、その分野の専門家（エキスパート）に近い判断ができるシステムです。\nイ. エンタープライズシステムは、企業における情報システム全般のことです。\nエ. シンプレックスシステムは、1つのシステムだけで構成されたシステム形態です（p.376）。",
+                "vi": "Từ khóa 'chức năng cụ thể' cho thấy đây là Embedded System.\n\nA. Expert System là hệ thống có thể đưa ra phán đoán gần giống chuyên gia (expert) trong lĩnh vực đó.\nB. Enterprise System là hệ thống thông tin chung trong doanh nghiệp.\nD. Simplex System là hình thức hệ thống chỉ gồm một hệ thống (trang 376).",
+                "en": "From the keyword 'specific function', we can determine it's Embedded System.\n\nA. Expert System is a system that can make judgments close to field experts.\nB. Enterprise System is general information systems in enterprises.\nD. Simplex System is a system configuration with only one system (p.376)."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-25",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "組込みソフトウェアとは、ハードウェアに最初から組み込まれている、特定の用途にしか用いられる（汎用性のない）ソフトウェアです。デジタルカメラの組込みソフトウェアには、オートフォーカスやタイマー撮影など、カメラの利用に限定された機能しか用意されていません。\n\nア. あらかじめインストールされてはいますが、オペレーティングシステム（OS）はコンピュータ上で動く非常に汎用性の高いソフトウェアなので、組込みソフトウェアではありません。\nイ. 後からダウンロードするソフトウェアは組込みソフトウェアではありません。\nエ. カーナビゲーションシステムは特定の用途にしか用いられませんが、この選択肢ではソフトウェアではなく、データが対象になっているため、組込みソフトウェアとはいえません。",
+                "vi": "Embedded Software là phần mềm được tích hợp sẵn trong hardware từ đầu, chỉ sử dụng cho mục đích cụ thể (không đa dụng). Embedded Software của máy ảnh số chỉ có chức năng giới hạn cho việc sử dụng camera như auto focus, chụp hẹn giờ.\n\nA. Dù được cài đặt sẵn nhưng OS là phần mềm đa dụng cao chạy trên máy tính nên không phải Embedded Software.\nB. Phần mềm tải sau không phải Embedded Software.\nD. Navigation System chỉ dùng cho mục đích cụ thể nhưng lựa chọn này nói về dữ liệu không phải phần mềm nên không phải Embedded Software.",
+                "en": "Embedded Software is software built into hardware from the start, used only for specific purposes (not versatile). Digital camera embedded software only has functions limited to camera use like auto focus and timer shooting.\n\nA. Though pre-installed, OS is highly versatile software running on computers, so not Embedded Software.\nB. Software downloaded later is not Embedded Software.\nD. Navigation systems are used for specific purposes, but this choice refers to data not software, so not Embedded Software."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-26",
+            "answer": "イ",
+            "explanation": {
+                "ja": "IoTとは、いろいろなモノをインターネットと接続して活用するための仕組みの総称です。\n\nア. EDIとは、インターネットを使って請求書などの書類を企業間でやり取りすることです。\nウ. ISPとは、インターネットに接続するサービスを提供する事業者です。\nエ. RFIDとは、電波を用いることで、直接触れることなく情報をやり取りする技術です。",
+                "vi": "IoT là tên gọi chung cho cơ chế kết nối các vật khác nhau với internet để tận dụng.\n\nA. EDI là trao đổi tài liệu như hóa đơn giữa các doanh nghiệp qua internet.\nC. ISP là nhà cung cấp dịch vụ kết nối internet.\nD. RFID là công nghệ trao đổi thông tin bằng sóng vô tuyến mà không cần tiếp xúc trực tiếp.",
+                "en": "IoT is the general term for mechanisms connecting various things to the internet for utilization.\n\nA. EDI is exchanging documents like invoices between companies via internet.\nC. ISP is a provider of internet connection services.\nD. RFID is technology for exchanging information using radio waves without direct contact."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-27",
+            "answer": "エ",
+            "explanation": {
+                "ja": "アクチュエーターとは、入力された電気信号を物理的な運動に変換する装置です。アとイはIoTサーバの役割です。ウはセンサーの役割です。",
+                "vi": "Actuator là thiết bị chuyển tín hiệu điện đầu vào thành chuyển động vật lý. A và B là vai trò của IoT Server. C là vai trò của Sensor.",
+                "en": "Actuator is a device that converts input electrical signals to physical motion. A and B are IoT Server roles. C is Sensor role."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-28",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "説明に「インターネットに接続できる」と「自動車」の2つのキーワードがあることから、コネクテッドカーの説明だとわかります。",
+                "vi": "Từ hai từ khóa 'có thể kết nối internet' và 'ô tô' trong giải thích, có thể thấy đây là giải thích về Connected Car.",
+                "en": "From the two keywords 'can connect to internet' and 'car' in the explanation, we can see it's describing Connected Car."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-29",
+            "answer": "ア",
+            "explanation": {
+                "ja": "VR（Virtual Reality：仮想現実）は、コンピュータを使って、実際には存在しない空間をあたかも実在するかのように見せかける技術です。選択肢アのように、火災や地震の状況を仮想的に再現して防災訓練を行うのは、VRの代表的な活用事例です。\n\nその他の選択肢はARの活用事例です。AR（Augmented Reality：拡張現実）は、現実の世界にデジタル情報を重ねて表示する技術です。",
+                "vi": "VR (Virtual Reality: Thực tế ảo) là công nghệ sử dụng máy tính để hiển thị không gian không tồn tại như thể có thật. Như đáp án A, tái hiện ảo tình huống hỏa hoạn hoặc động đất để huấn luyện phòng chống thiên tai là ví dụ sử dụng VR tiêu biểu.\n\nCác đáp án khác là ví dụ sử dụng AR. AR (Augmented Reality: Thực tế tăng cường) là công nghệ hiển thị thông tin số chồng lên thế giới thực.",
+                "en": "VR (Virtual Reality) is technology using computers to show non-existent spaces as if they were real. Like choice A, virtually recreating fire and earthquake situations for disaster training is a typical VR usage example.\n\nOther choices are AR usage examples. AR (Augmented Reality) is technology overlaying digital information on the real world."
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 8
+    }
+}

@@ -1,0 +1,380 @@
+{
+  "page_id": 60,
+  "image": "p_0060.png",
+  "chapter": 1,
+  "section": "01-08",
+  "page_number": 44,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "損益計算書に記載されている5つの利益の関係",
+      "reading": "そんえきけいさんしょにきさいされている5つのりえきのかんけい",
+      "vi": "Mối quan hệ giữa 5 loại lợi nhuận trong báo cáo kết quả kinh doanh",
+      "en": "Relationship of 5 Profits in Income Statement",
+      "my": "Income Statement ရှိ Profit ၅ ခု၏ ဆက်နွယ်မှု"
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "損益計算書の5つの費用",
+        "vi": "5 loại chi phí trong báo cáo kết quả kinh doanh",
+        "en": "5 Costs in Income Statement",
+        "my": "Income Statement ရှိ Cost ၅ ခု",
+        "terms": [
+          {
+            "kanji": "損益計算書",
+            "reading": "そんえきけいさんしょ"
+          },
+          {
+            "kanji": "費用",
+            "reading": "ひよう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "先ほど、費用は「変動費」と「固定費」の2つに大別されると説明しましたが（p.35）、損益計算書では費用を「売上原価」「販管費」「営業外費用」「特別損失」「法人税等」の5つに分けて記載します。これは、企業の成績を正確に分析するためには費用を5つに分類する必要があるからです。",
+        "vi": "Trước đó đã giải thích chi phí được chia thành \"chi phí biến đổi\" và \"chi phí cố định\" (trang 35), nhưng trong báo cáo kết quả kinh doanh, chi phí được ghi thành 5 loại: \"giá vốn hàng bán\", \"chi phí SGA\", \"chi phí ngoài hoạt động\", \"tổn thất đặc biệt\", \"thuế thu nhập doanh nghiệp\". Điều này là do cần phân loại chi phí thành 5 loại để phân tích chính xác thành tích của doanh nghiệp.",
+        "en": "Earlier, I explained that costs are broadly divided into \"variable costs\" and \"fixed costs\" (p.35), but in income statements, costs are recorded in 5 categories: \"cost of sales,\" \"SGA,\" \"non-operating expenses,\" \"extraordinary loss,\" and \"corporate tax.\" This is because classifying costs into 5 categories is necessary to accurately analyze company performance.",
+        "my": "အရင်က cost ကို \"variable costs\" နှင့် \"fixed costs\" ဟု ခွဲခြားကြောင်း ရှင်းပြခဲ့သည်။",
+        "terms": [
+          {
+            "kanji": "先",
+            "reading": "さき"
+          },
+          {
+            "kanji": "費用",
+            "reading": "ひよう"
+          },
+          {
+            "kanji": "変動費",
+            "reading": "へんどうひ"
+          },
+          {
+            "kanji": "固定費",
+            "reading": "こていひ"
+          },
+          {
+            "kanji": "大別",
+            "reading": "たいべつ"
+          },
+          {
+            "kanji": "説明",
+            "reading": "せつめい"
+          },
+          {
+            "kanji": "損益計算書",
+            "reading": "そんえきけいさんしょ"
+          },
+          {
+            "kanji": "売上原価",
+            "reading": "うりあげげんか"
+          },
+          {
+            "kanji": "販管費",
+            "reading": "はんかんひ"
+          },
+          {
+            "kanji": "営業外費用",
+            "reading": "えいぎょうがいひよう"
+          },
+          {
+            "kanji": "特別損失",
+            "reading": "とくべつそんしつ"
+          },
+          {
+            "kanji": "法人税等",
+            "reading": "ほうじんぜいなど"
+          },
+          {
+            "kanji": "分",
+            "reading": "ふん"
+          },
+          {
+            "kanji": "記載",
+            "reading": "きさい"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "成績",
+            "reading": "せいせき"
+          },
+          {
+            "kanji": "正確",
+            "reading": "せいかく"
+          },
+          {
+            "kanji": "分析",
+            "reading": "ぶんせき"
+          },
+          {
+            "kanji": "分類",
+            "reading": "ぶんるい"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "キャッシュフロー計算書",
+      "reading": "きゃっしゅふろーけいさんしょ",
+      "vi": "Báo cáo lưu chuyển tiền tệ",
+      "en": "Cash Flow Statement",
+      "my": "Cash Flow Statement"
+    },
+    {
+      "type": "paragraph",
+      "ja": "キャッシュフロー計算書とは、企業の一定期間の現金収支を明らかにした書類です。キャッシュとは「現金」、フローは「流入、流出」という意味です。キャッシュフロー計算書を見ると、損益計算書からは判断できない企業のリスクを見つけることができます。",
+      "vi": "Báo cáo lưu chuyển tiền tệ là tài liệu làm rõ dòng tiền vào/ra của doanh nghiệp trong một khoảng thời gian. Cash nghĩa là \"tiền mặt\", Flow nghĩa là \"dòng vào, dòng ra\". Nhìn vào báo cáo lưu chuyển tiền tệ, có thể tìm ra rủi ro của doanh nghiệp mà không thể đánh giá từ báo cáo kết quả kinh doanh.",
+      "en": "A cash flow statement is a document that clarifies a company's cash inflows and outflows over a period. Cash means \"cash,\" and flow means \"inflow, outflow.\" Looking at cash flow statements, you can find company risks that can't be judged from income statements.",
+      "my": "Cash flow statement သည် ကုမ္ပဏီ၏ cash inflows နှင့် outflows ကို ကာလတစ်ခုအတွင်း ရှင်းလင်းစွာ ဖော်ပြသော စာရွက်စာတမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "計算書",
+          "reading": "けいさんしょ"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "一定期間",
+          "reading": "いっていきかん"
+        },
+        {
+          "kanji": "現金収支",
+          "reading": "げんきんしゅうし"
+        },
+        {
+          "kanji": "明",
+          "reading": "めい"
+        },
+        {
+          "kanji": "書類",
+          "reading": "しょるい"
+        },
+        {
+          "kanji": "現金",
+          "reading": "げんきん"
+        },
+        {
+          "kanji": "流入",
+          "reading": "りゅうにゅう"
+        },
+        {
+          "kanji": "流出",
+          "reading": "りゅうしゅつ"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "損益計算書",
+          "reading": "そんえきけいさんしょ"
+        },
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "黒字なのに倒産!?",
+      "reading": "くろじなのにとうさん",
+      "vi": "Có lời mà vẫn phá sản!?",
+      "en": "Profitable but Bankrupt!?",
+      "my": "အမြတ်ရှိလျက် ဒေဝါလီခံရခြင်း!?"
+    },
+    {
+      "type": "paragraph",
+      "ja": "世の中には、損益計算書では利益が出ているのに倒産してしまう企業があります。これを「黒字倒産」といいます。\n\nなぜこのようなことが起こるのかというと、多くの企業は、企業活動において発生する金銭のやり取りをその場その場では行わず、後日（翌月末など）に授受する方式で運営しているからです（このような未回収の代金のことを「売掛金」といいます）。\n\nつまり、商品は売れているので、損益計算書上は利益として計上されているのですが、実際にその代金を回収するまでの間に借金の返済が行われず、資金がなくなってしまい、企業が倒産することがあるのです（黒字倒産）。",
+      "vi": "Trên đời có những doanh nghiệp mặc dù có lợi nhuận trong báo cáo kết quả kinh doanh nhưng vẫn phá sản. Đây gọi là \"phá sản dù có lời\".\n\nTại sao điều này xảy ra? Vì nhiều doanh nghiệp không thực hiện giao dịch tiền tệ ngay tại chỗ trong hoạt động kinh doanh, mà nhận tiền sau (như cuối tháng sau). Số tiền chưa thu hồi này gọi là \"khoản phải thu\".\n\nNghĩa là, hàng hóa được bán nên được ghi nhận là lợi nhuận trong báo cáo kết quả kinh doanh, nhưng trong khi chờ thu tiền, nợ không được trả, hết vốn và doanh nghiệp phá sản (phá sản dù có lời).",
+      "en": "In the world, there are companies that go bankrupt even though they show profit in income statements. This is called \"profitable bankruptcy.\"\n\nWhy does this happen? Because many companies don't exchange money immediately during business activities, but receive payment later (like end of next month). This uncollected payment is called \"accounts receivable.\"\n\nIn other words, products are sold so it's recorded as profit in income statements, but while waiting to collect payment, debts aren't repaid, funds run out, and the company goes bankrupt (profitable bankruptcy).",
+      "my": "ကမ္ဘာပေါ်တွင် income statements တွင် profit ရှိသော်လည်း ဒေဝါလီခံရသော ကုမ္ပဏီများ ရှိသည်။",
+      "terms": [
+        {
+          "kanji": "世",
+          "reading": "よ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "損益計算書",
+          "reading": "そんえきけいさんしょ"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "倒産",
+          "reading": "とうさん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "黒字倒産",
+          "reading": "くろじとうさん"
+        },
+        {
+          "kanji": "起",
+          "reading": "お"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "企業活動",
+          "reading": "きぎょうかつどう"
+        },
+        {
+          "kanji": "発生",
+          "reading": "はっせい"
+        },
+        {
+          "kanji": "金銭",
+          "reading": "きんせん"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "場",
+          "reading": "ば"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "後日",
+          "reading": "ごじつ"
+        },
+        {
+          "kanji": "翌月末",
+          "reading": "よくげつまつ"
+        },
+        {
+          "kanji": "授受",
+          "reading": "じゅじゅ"
+        },
+        {
+          "kanji": "方式",
+          "reading": "ほうしき"
+        },
+        {
+          "kanji": "運営",
+          "reading": "うんえい"
+        },
+        {
+          "kanji": "未回収",
+          "reading": "みかいしゅう"
+        },
+        {
+          "kanji": "代金",
+          "reading": "だいきん"
+        },
+        {
+          "kanji": "売掛金",
+          "reading": "うりかけきん"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "売",
+          "reading": "う"
+        },
+        {
+          "kanji": "損益計算書上",
+          "reading": "そんえきけいさんしょうえ"
+        },
+        {
+          "kanji": "計上",
+          "reading": "けいじょう"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "回収",
+          "reading": "かいしゅう"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "借金",
+          "reading": "しゃっきん"
+        },
+        {
+          "kanji": "返済",
+          "reading": "へんさい"
+        },
+        {
+          "kanji": "資金",
+          "reading": "しきん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "キャッシュフロー計算書",
+      "reading": "きゃっしゅふろーけいさんしょ",
+      "romaji": "Cashflow Keisansho",
+      "vi": "Báo cáo lưu chuyển tiền tệ",
+      "en": "Cash Flow Statement",
+      "my": "Cash Flow Statement"
+    },
+    {
+      "kanji": "黒字倒産",
+      "reading": "くろじとうさん",
+      "romaji": "Kuroji Tousan",
+      "vi": "Phá sản dù có lời",
+      "en": "Profitable Bankruptcy",
+      "my": "အမြတ်ရှိလျက် ဒေဝါလီခံရခြင်း"
+    },
+    {
+      "kanji": "売掛金",
+      "reading": "うりかけきん",
+      "romaji": "Urikakekin",
+      "vi": "Khoản phải thu",
+      "en": "Accounts Receivable",
+      "my": "လက်ခံရမည့်ငွေ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_learn_more": true
+  }
+}

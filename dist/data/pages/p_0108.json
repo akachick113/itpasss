@@ -1,0 +1,128 @@
+{
+    "page_id": 108,
+    "image": "p_0108.png",
+    "chapter": 2,
+    "section": "questions",
+    "page_number": 92,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "2-19",
+            "year": "令和5年度",
+            "question": {
+                "ja": "EUの一般データ保護規則（GDPR）に関する記述として、適切なものだけを全て挙げたものはどれか。\n\na. EU域内に拠点がある事業者が、EU域内に対してデータやサービスを提供している場合は、適用の対象となる。\nb. EU域内に拠点がある事業者が、アジアや米国などEU域外に対してデータやサービスを提供している場合は、適用の対象とならない。\nc. EU域内に拠点がない事業者が、アジアや米国などEU域外に対してだけデータやサービスを提供している場合は、適用の対象とならない。\nd. EU域内に拠点がない事業者が、アジアや米国などからEU域内に対してデータやサービスを提供している場合は、適用の対象とならない。",
+                "vi": "Về GDPR của EU, đâu là tất cả các mô tả đúng?\n\na. Doanh nghiệp có trụ sở trong EU cung cấp dữ liệu/dịch vụ trong EU là đối tượng áp dụng.\nb. Doanh nghiệp có trụ sở trong EU cung cấp dữ liệu/dịch vụ ngoài EU (châu Á, Mỹ) không là đối tượng áp dụng.\nc. Doanh nghiệp không có trụ sở trong EU chỉ cung cấp dữ liệu/dịch vụ ngoài EU không là đối tượng áp dụng.\nd. Doanh nghiệp không có trụ sở trong EU cung cấp dữ liệu/dịch vụ từ châu Á/Mỹ vào EU không là đối tượng áp dụng.",
+                "en": "About EU's GDPR, which are ALL correct descriptions?\n\na. Businesses based in EU providing data/services within EU are subject.\nb. Businesses based in EU providing data/services outside EU (Asia, US) are not subject.\nc. Businesses not based in EU providing data/services only outside EU are not subject.\nd. Businesses not based in EU providing data/services from Asia/US to EU are not subject."
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "a",
+                    "vi": "a",
+                    "en": "a"
+                },
+                {
+                    "label": "イ",
+                    "ja": "a, b, c",
+                    "vi": "a, b, c",
+                    "en": "a, b, c"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "a, c",
+                    "vi": "a, c",
+                    "en": "a, c",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "a, c, d",
+                    "vi": "a, c, d",
+                    "en": "a, c, d"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-20",
+            "year": "令和元年度",
+            "question": {
+                "ja": "行政機関の保有する資料について、開示を請求する権利とその手続などについて定めた法律はどれか。",
+                "vi": "Luật nào quy định quyền yêu cầu công khai tài liệu của cơ quan hành chính và thủ tục liên quan?",
+                "en": "Which law defines the right to request disclosure of documents held by administrative agencies and its procedures?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "公益通報者保護法",
+                    "vi": "Luật bảo vệ người tố cáo vì lợi ích công",
+                    "en": "Whistleblower Protection Law"
+                },
+                {
+                    "label": "イ",
+                    "ja": "個人情報保護法",
+                    "vi": "Luật bảo vệ thông tin cá nhân",
+                    "en": "Personal Information Protection Law"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "情報公開法",
+                    "vi": "Luật công khai thông tin",
+                    "en": "Information Disclosure Law",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "不正アクセス禁止法",
+                    "vi": "Luật cấm truy cập trái phép",
+                    "en": "Unauthorized Access Prohibition Law"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-21",
+            "year": "平成21年度",
+            "question": {
+                "ja": "POSシステムなどで商品を一意に識別するために、バーコードとして商品に印刷されたコードはどれか。",
+                "vi": "Mã nào được in trên sản phẩm dưới dạng mã vạch để nhận dạng duy nhất sản phẩm trong hệ thống POS?",
+                "en": "Which code is printed as barcode on products for unique identification in POS systems?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "JAN",
+                    "vi": "JAN",
+                    "en": "JAN",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "JAS",
+                    "vi": "JAS",
+                    "en": "JAS"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "JIS",
+                    "vi": "JIS",
+                    "en": "JIS"
+                },
+                {
+                    "label": "エ",
+                    "ja": "QR",
+                    "vi": "QR",
+                    "en": "QR"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "questions_covered": "2-19, 2-20, 2-21",
+        "answers": "2-19: ウ, 2-20: ウ, 2-21: ア"
+    }
+}

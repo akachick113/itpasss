@@ -1,0 +1,453 @@
+{
+  "page_id": 158,
+  "image": "p_0158.png",
+  "chapter": 4,
+  "section": "04-02",
+  "page_number": 142,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "1. 人間の尊厳が尊重される社会\n2. 多様な背景を持つ人々が多様な幸せを追求できる社会\n3. 持続性ある社会\n\nまた、この文書では以下の7つの原則を定めています。",
+      "vi": "1. Xã hội tôn trọng nhân phẩm con người\n2. Xã hội mà người có nền tảng đa dạng có thể theo đuổi hạnh phúc đa dạng\n3. Xã hội bền vững\n\nNgoài ra, tài liệu này định nghĩa 7 nguyên tắc sau.",
+      "en": "1. Society where human dignity is respected\n2. Society where people with diverse backgrounds can pursue diverse happiness\n3. Sustainable society\n\nAlso, this document defines the following 7 principles.",
+      "my": "1. လူသား ဂုဏ်သိက္ခာကို လေးစားသော လူ့အဖွဲ့အစည်း",
+      "terms": [
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "尊厳",
+          "reading": "そんげん"
+        },
+        {
+          "kanji": "尊重",
+          "reading": "そんちょう"
+        },
+        {
+          "kanji": "社会",
+          "reading": "しゃかい"
+        },
+        {
+          "kanji": "多様",
+          "reading": "たよう"
+        },
+        {
+          "kanji": "背景",
+          "reading": "はいけい"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "幸",
+          "reading": "さち"
+        },
+        {
+          "kanji": "追求",
+          "reading": "ついきゅう"
+        },
+        {
+          "kanji": "持続性",
+          "reading": "じぞくせい"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "原則",
+          "reading": "げんそく"
+        },
+        {
+          "kanji": "定",
+          "reading": "てい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "7つの原則",
+        "vi": "7 nguyên tắc",
+        "en": "7 Principles"
+      },
+      "headers": {
+        "ja": [
+          "原則",
+          "説明"
+        ],
+        "vi": [
+          "Nguyên tắc",
+          "Giải thích"
+        ],
+        "en": [
+          "Principle",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "人間中心の原則",
+            "基本的人権を侵さないこと"
+          ],
+          "vi": [
+            "Nguyên tắc lấy con người làm trung tâm",
+            "Không xâm phạm nhân quyền cơ bản"
+          ],
+          "en": [
+            "Human-centered principle",
+            "Not violating basic human rights"
+          ]
+        },
+        {
+          "ja": [
+            "教育・リテラシーの原則",
+            "教育環境がすべての人に平等に提供されること"
+          ],
+          "vi": [
+            "Nguyên tắc giáo dục/hiểu biết",
+            "Môi trường giáo dục được cung cấp bình đẳng cho tất cả"
+          ],
+          "en": [
+            "Education/Literacy principle",
+            "Education environment provided equally to all"
+          ]
+        },
+        {
+          "ja": [
+            "プライバシー確保の原則",
+            "パーソナルデータを適切に管理すること"
+          ],
+          "vi": [
+            "Nguyên tắc đảm bảo quyền riêng tư",
+            "Quản lý dữ liệu cá nhân phù hợp"
+          ],
+          "en": [
+            "Privacy protection principle",
+            "Properly managing personal data"
+          ]
+        },
+        {
+          "ja": [
+            "セキュリティ確保の原則",
+            "セキュリティを適切に管理すること"
+          ],
+          "vi": [
+            "Nguyên tắc đảm bảo bảo mật",
+            "Quản lý bảo mật phù hợp"
+          ],
+          "en": [
+            "Security protection principle",
+            "Properly managing security"
+          ]
+        },
+        {
+          "ja": [
+            "公正競争確保の原則",
+            "公正な競争環境を維持すること"
+          ],
+          "vi": [
+            "Nguyên tắc đảm bảo cạnh tranh công bằng",
+            "Duy trì môi trường cạnh tranh công bằng"
+          ],
+          "en": [
+            "Fair competition principle",
+            "Maintaining fair competition environment"
+          ]
+        },
+        {
+          "ja": [
+            "公平性、説明責任及び透明性の原則",
+            "公平で適切性のある意思決定と説明責任を適切に確保すること"
+          ],
+          "vi": [
+            "Nguyên tắc công bằng, trách nhiệm giải trình và minh bạch",
+            "Đảm bảo ra quyết định công bằng phù hợp và trách nhiệm giải trình"
+          ],
+          "en": [
+            "Fairness, accountability and transparency principle",
+            "Ensuring fair and appropriate decision-making and accountability"
+          ]
+        },
+        {
+          "ja": [
+            "イノベーションの原則",
+            "官民連携や人材の柔軟な移動を促進すること"
+          ],
+          "vi": [
+            "Nguyên tắc đổi mới",
+            "Thúc đẩy hợp tác công-tư và di chuyển nhân tài linh hoạt"
+          ],
+          "en": [
+            "Innovation principle",
+            "Promoting public-private cooperation and flexible talent mobility"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ただし、これらの原則のすべてを暗記するのは大変です。そこで、まずは「人間中心のAI社会原則に関する問題では、人間中心がキーワードになる」ということを覚えてください。この文書の目的はあくまでも「人間中心の社会構築」であり「AI中心の社会構築」ではありません。このことを頭において問題に取り組むと正解率を上げることができます。",
+      "vi": "Tuy nhiên, nhớ hết tất cả các nguyên tắc này khó. Do đó, trước tiên hãy nhớ trong câu hỏi về Nguyên tắc xã hội AI lấy con người làm trung tâm, con người làm trung tâm là từ khóa. Mục đích của tài liệu này là xây dựng xã hội lấy con người làm trung tâm chứ không phải xã hội lấy AI làm trung tâm. Nhớ điều này khi làm bài sẽ tăng tỷ lệ đúng.",
+      "en": "However, memorizing all these principles is difficult. So first remember that in problems about Human-Centered AI Social Principles, 'human-centered' is the keyword. This document's purpose is 'human-centered society building', not 'AI-centered society building'. Keeping this in mind when answering can increase correct answer rate.",
+      "my": "သို့သော် ဤမူများအားလုံးကို မှတ်မိရန် ခက်ခဲသည်။",
+      "terms": [
+        {
+          "kanji": "原則",
+          "reading": "げんそく"
+        },
+        {
+          "kanji": "暗記",
+          "reading": "あんき"
+        },
+        {
+          "kanji": "大変",
+          "reading": "たいへん"
+        },
+        {
+          "kanji": "人間中心",
+          "reading": "にんげんちゅうしん"
+        },
+        {
+          "kanji": "社会原則",
+          "reading": "しゃかいげんそく"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "社会構築",
+          "reading": "しゃかいこうちく"
+        },
+        {
+          "kanji": "中心",
+          "reading": "ちゅうしん"
+        },
+        {
+          "kanji": "頭",
+          "reading": "あたま"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "正解率",
+          "reading": "せいかいりつ"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "人間中心のAI社会原則の設問では、「AI中心」ではなく「人間中心」であることが問われる",
+        "vi": "Câu hỏi về Nguyên tắc xã hội AI lấy con người làm trung tâm sẽ hỏi về con người làm trung tâm chứ không phải AI làm trung tâm",
+        "en": "Questions about Human-Centered AI Social Principles ask about 'human-centered' not 'AI-centered'",
+        "my": "လူသားဗဟိုပြု AI လူမှုရေးမူများ အကြောင်း မေးခွန်းများတွင် 'AI-ဗဟိုပြု' မဟုတ်ဘဲ 'လူသားဗဟိုပြု' အကြောင်း မေးသည်",
+        "terms": [
+          {
+            "kanji": "人間中心",
+            "reading": "にんげんちゅうしん"
+          },
+          {
+            "kanji": "社会原則",
+            "reading": "しゃかいげんそく"
+          },
+          {
+            "kanji": "設問",
+            "reading": "せつもん"
+          },
+          {
+            "kanji": "中心",
+            "reading": "ちゅうしん"
+          },
+          {
+            "kanji": "問",
+            "reading": "とん"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ビジネスシステム関連のその他の用語",
+      "reading": "びじねすしすてむかんれんのそのたのようご",
+      "vi": "Thuật ngữ khác liên quan đến hệ thống kinh doanh",
+      "en": "Other Business System Related Terms",
+      "my": "အခြား စီးပွားရေးစနစ် ဆက်စပ် ဝေါဟာရများ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験における出題頻度はそれほど高くはないのですが、稀に出題されることがあるビジネスシステム関連の用語を一覧で簡単に解説します。",
+      "vi": "Tần suất ra đề trong IT Passport không cao lắm, nhưng giải thích đơn giản các thuật ngữ liên quan hệ thống kinh doanh đôi khi xuất hiện.",
+      "en": "Though not frequently tested in IT Passport, here's a simple list of business system terms that occasionally appear.",
+      "my": "IT Passport တွင် မကြာခဏ စမ်းသပ်ခြင်း မရှိသော်လည်း တခါတရံ ပေါ်လာသော စီးပွားရေးစနစ် ဝေါဟာရများ စာရင်းလေး။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "稀",
+          "reading": "まれ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "一覧",
+          "reading": "いちらん"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "ビジネスシステム関連のその他の用語",
+        "vi": "Thuật ngữ khác liên quan đến hệ thống kinh doanh",
+        "en": "Other Business System Related Terms"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "トレーサビリティ",
+            "製品の生産から販売までの履歴が追跡可能な状態であること。畜産業など（例：牛肉製品となる牛に10桁の個体識別番号がつけられている）で使われる。"
+          ],
+          "vi": [
+            "Traceability",
+            "Trạng thái có thể truy xuất lịch sử từ sản xuất đến bán hàng của sản phẩm. Được sử dụng trong ngành chăn nuôi (ví dụ: bò thành sản phẩm thịt bò có số nhận dạng cá thể 10 chữ số)."
+          ],
+          "en": [
+            "Traceability",
+            "State where product history from production to sales is traceable. Used in livestock industry (e.g., cattle for beef products have 10-digit individual ID numbers)."
+          ]
+        },
+        {
+          "ja": [
+            "POSシステム",
+            "商品が売れた際に、その商品の情報をネットワークを通じて管理し、経営に役立てる仕組み。このシステムにはJANコード（p.86）が採用されている。"
+          ],
+          "vi": [
+            "Hệ thống POS",
+            "Cơ chế quản lý thông tin sản phẩm qua mạng khi bán hàng và sử dụng cho kinh doanh. Hệ thống này áp dụng JAN Code (trang 86)."
+          ],
+          "en": [
+            "POS System",
+            "System managing product information through network when products are sold, for business use. This system uses JAN Code (p.86)."
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "人間中心のAI社会原則",
+      "reading": "にんげんちゅうしんのえーあいしゃかいげんそく",
+      "romaji": "Ningen Chuushin no AI Shakai Gensoku",
+      "vi": "Nguyên tắc xã hội AI lấy con người làm trung tâm",
+      "en": "Human-Centered AI Social Principles",
+      "my": "လူသားဗဟိုပြု AI လူမှုရေးမူများ"
+    },
+    {
+      "kanji": "トレーサビリティ",
+      "reading": "とれーさびりてぃ",
+      "romaji": "Traceability",
+      "vi": "Khả năng truy xuất nguồn gốc",
+      "en": "Traceability",
+      "my": "Traceability"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

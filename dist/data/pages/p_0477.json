@@ -1,0 +1,399 @@
+{
+  "page_id": 477,
+  "image": "p_0477.png",
+  "chapter": 13,
+  "section": "13-02",
+  "page_number": 461,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "主キーに向いている列",
+      "vi": "Cột phù hợp làm khóa chính",
+      "en": "Columns Suitable for Primary Key"
+    },
+    {
+      "type": "paragraph",
+      "ja": "では、どのような列が主キーに向いているでしょうか。",
+      "vi": "Vậy, cột nào phù hợp làm khóa chính?",
+      "en": "So, which columns are suitable for primary key?",
+      "terms": [
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "向",
+          "reading": "こう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "「学生名」は特定の行を取り出すのに向いているように思えますが、世の中には同姓同名の人はたくさんいます。下図の例は極端ですが、「鈴木愛子」さんが2名登録されています。このため、「学生名」列では行を一意に識別することができません。",
+      "vi": "\"Tên sinh viên\" có vẻ phù hợp để lấy ra hàng cụ thể, nhưng trên thế giới có rất nhiều người cùng họ tên. Ví dụ trong hình dưới hơi cực đoan, nhưng có 2 người \"Suzuki Aiko\" được đăng ký. Vì vậy, cột \"Tên sinh viên\" không thể nhận dạng duy nhất hàng.",
+      "en": "'Student Name' seems suitable for extracting specific row, but world has many people with same name. Example below is extreme, but 'Suzuki Aiko' is registered twice. So 'Student Name' column cannot uniquely identify row.",
+      "terms": [
+        {
+          "kanji": "学生名",
+          "reading": "がくせいめい"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "向",
+          "reading": "こう"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "世",
+          "reading": "よ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "同姓同名",
+          "reading": "どうせいどうめい"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "極端",
+          "reading": "きょくたん"
+        },
+        {
+          "kanji": "鈴木愛子",
+          "reading": "すずきあいこ"
+        },
+        {
+          "kanji": "名登録",
+          "reading": "めいとうろく"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "一意",
+          "reading": "いちい"
+        },
+        {
+          "kanji": "識別",
+          "reading": "しきべつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "「電話番号」はどうでしょうか。電話番号に重複する番号は存在しないため、名前よりも主キーに向いてそうです。しかし、「電話を持っていない人」が存在する可能性があります。このことから、電話番号も主キーとしては使えません。",
+      "vi": "\"Số điện thoại\" thì sao? Vì số điện thoại không có số trùng lặp, nên có vẻ phù hợp làm khóa chính hơn tên. Tuy nhiên, có khả năng tồn tại \"người không có điện thoại\". Từ đó, số điện thoại cũng không thể dùng làm khóa chính.",
+      "en": "'Phone Number' how about? Since phone numbers have no duplicates, seems more suitable for primary key than name. However, 'person without phone' may exist. So phone number cannot be used as primary key either.",
+      "terms": [
+        {
+          "kanji": "電話番号",
+          "reading": "でんわばんごう"
+        },
+        {
+          "kanji": "重複",
+          "reading": "ちょうふく"
+        },
+        {
+          "kanji": "番号",
+          "reading": "ばんごう"
+        },
+        {
+          "kanji": "存在",
+          "reading": "そんざい"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "向",
+          "reading": "こう"
+        },
+        {
+          "kanji": "電話",
+          "reading": "でんわ"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "最後に残っているのが「学生番号」です。学生番号は入学と同時に強制的かつ必ず割り振られます。重複する学生番号も存在しません。このため、学生番号を使えば、全データの中から特定の行を識別できます。",
+      "vi": "Cuối cùng còn lại là \"Mã sinh viên\". Mã sinh viên được gán bắt buộc ngay khi nhập học. Cũng không có mã sinh viên trùng lặp. Vì vậy, nếu sử dụng mã sinh viên, có thể nhận dạng hàng cụ thể từ tất cả dữ liệu.",
+      "en": "Remaining is 'Student ID.' Student ID is forcibly and necessarily assigned upon enrollment. No duplicate student IDs exist. So using student ID can identify specific row from all data.",
+      "terms": [
+        {
+          "kanji": "最後",
+          "reading": "さいご"
+        },
+        {
+          "kanji": "残",
+          "reading": "ざん"
+        },
+        {
+          "kanji": "学生番号",
+          "reading": "がくせいばんごう"
+        },
+        {
+          "kanji": "入学",
+          "reading": "にゅうがく"
+        },
+        {
+          "kanji": "同時",
+          "reading": "どうじ"
+        },
+        {
+          "kanji": "強制的",
+          "reading": "きょうせいてき"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "割",
+          "reading": "わり"
+        },
+        {
+          "kanji": "振",
+          "reading": "しん"
+        },
+        {
+          "kanji": "重複",
+          "reading": "ちょうふく"
+        },
+        {
+          "kanji": "存在",
+          "reading": "そんざい"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "全",
+          "reading": "ぜん"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "識別",
+          "reading": "しきべつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "つまり、下図の表において、主キーになれるのは「学生番号」列であることがわかります。",
+      "vi": "Nghĩa là, trong bảng hình dưới, có thể thấy cột có thể làm khóa chính là cột \"Mã sinh viên\".",
+      "en": "Meaning, in table below, can see column that can be primary key is 'Student ID' column.",
+      "terms": [
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "学生番号",
+          "reading": "がくせいばんごう"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "主キーになれる列となれない列",
+        "vi": "Cột có thể và không thể làm khóa chính",
+        "en": "Columns That Can and Cannot Be Primary Key"
+      },
+      "description": {
+        "ja": "学生番号（主キー）、学生名（同姓同名で重複）、電話番号（NULLが存在）。「主キーになれるのは重複する値がなく、データがNULL（空）でない列」",
+        "vi": "Mã sinh viên (Khóa chính), Tên sinh viên (Trùng lặp do cùng họ tên), Số điện thoại (Có NULL). \"Cột có thể làm khóa chính là cột không có giá trị trùng lặp và dữ liệu không phải NULL (rỗng)\"",
+        "en": "Student ID (Primary Key), Student Name (Duplicate due to same name), Phone Number (NULL exists). 'Column that can be primary key is column with no duplicate values and data is not NULL (empty)'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "主キーの条件",
+      "vi": "Điều kiện của khóa chính",
+      "en": "Primary Key Conditions"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記の解説からもわかるとおり、主キーになるには次の2つの条件を満たす必要があります。",
+      "vi": "Như có thể thấy từ giải thích trên, để trở thành khóa chính cần thỏa mãn 2 điều kiện sau.",
+      "en": "As can be seen from above explanation, to become primary key need to satisfy following 2 conditions.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "満",
+          "reading": "まん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "numbered": true,
+      "items": [
+        {
+          "ja": "重複する値がないこと",
+          "vi": "Không có giá trị trùng lặp",
+          "en": "No duplicate values"
+        },
+        {
+          "ja": "データが空（NULL）でないこと",
+          "vi": "Dữ liệu không rỗng (NULL)",
+          "en": "Data is not empty (NULL)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "関係データベースでは、データがないことを「NULL」といいます。「NULL」と表現することで「そこにはデータが存在しない」ということを明確に表します。",
+      "vi": "Trong cơ sở dữ liệu quan hệ, việc không có dữ liệu được gọi là \"NULL\". Bằng cách diễn đạt \"NULL\", thể hiện rõ ràng \"không có dữ liệu ở đó\".",
+      "en": "In relational database, having no data is called 'NULL.' By expressing 'NULL,' clearly represents 'data does not exist there.'",
+      "terms": [
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "表現",
+          "reading": "ひょうげん"
+        },
+        {
+          "kanji": "存在",
+          "reading": "そんざい"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "NULL",
+      "vi": "NULL (Rỗng)",
+      "en": "NULL (Empty)",
+      "my": "နဲလ်"
+    },
+    {
+      "term": "重複",
+      "reading": "ちょうふく",
+      "vi": "Trùng lặp",
+      "en": "Duplicate",
+      "my": "ဒူပလီကိတ်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

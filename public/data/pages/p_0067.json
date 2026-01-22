@@ -1,0 +1,27 @@
+{
+    "page_id": 67,
+    "image": "p_0067.png",
+    "chapter": 1,
+    "section": "answers",
+    "page_number": 51,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "1-15",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "設問の損益計算書に、当期純利益（800百万円）と、売上総利益、営業利益、経常利益、税引前当期純利益の項目を加えると、以下のようになります。\n\n上の表内にある①〜③を順に求めます。\n\n①売上総利益を以下の式で求めます。\n売上総利益 = 売上高 − 売上原価\n= 8,000 − 6,000\n= 2,000\n設問では「販売費及び一般管理費」が穴埋めになっているため、損益計算書の下部の項目から逆算して求めます。\n\n②税引前当期純利益を以下の式で求めます。\n税引前当期純利益 = 当期純利益 + 法人税等\n= 800 + 350\n= 1,150\n\n③経常利益を以下の式で求めます。\n経常利益 = 税引前当期純利益 − 特別利益 + 特別損失\n= 1,150 − 60 + 10\n= 1,100",
+                "vi": "Thêm lợi nhuận ròng (800 triệu yên), lợi nhuận gộp, lợi nhuận hoạt động, lợi nhuận thường xuyên, lợi nhuận trước thuế vào báo cáo kết quả kinh doanh trong câu hỏi.\n\nTính ①〜③ trong bảng theo thứ tự.\n\n①Tính lợi nhuận gộp:\nLợi nhuận gộp = Doanh thu − Giá vốn\n= 8,000 − 6,000\n= 2,000\nVì \"Chi phí bán hàng và quản lý\" là ô trống trong câu hỏi, tính ngược từ các mục phía dưới báo cáo.\n\n②Tính lợi nhuận trước thuế:\nLợi nhuận trước thuế = Lợi nhuận ròng + Thuế thu nhập doanh nghiệp\n= 800 + 350\n= 1,150\n\n③Tính lợi nhuận thường xuyên:\nLợi nhuận thường xuyên = Lợi nhuận trước thuế − Lợi nhuận đặc biệt + Tổn thất đặc biệt\n= 1,150 − 60 + 10\n= 1,100",
+                "en": "Add net profit (800 million yen), gross profit, operating profit, ordinary profit, profit before tax to the question's income statement.\n\nCalculate ①〜③ in order.\n\n①Calculate gross profit:\nGross profit = Sales − Cost of sales\n= 8,000 − 6,000\n= 2,000\nSince \"SGA expenses\" is blank, calculate backwards from lower items.\n\n②Calculate profit before tax:\nProfit before tax = Net profit + Corporate tax\n= 800 + 350\n= 1,150\n\n③Calculate ordinary profit:\nOrdinary profit = Profit before tax − Extraordinary income + Extraordinary loss\n= 1,150 − 60 + 10\n= 1,100"
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": true,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "1-15",
+        "has_formula": true
+    }
+}

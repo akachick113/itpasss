@@ -1,0 +1,426 @@
+{
+  "page_id": 77,
+  "image": "p_0077.png",
+  "chapter": 2,
+  "section": "02-02",
+  "page_number": 61,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "限定提供データに必要な3つの条件",
+        "vi": "3 điều kiện cần thiết cho Dữ liệu cung cấp giới hạn",
+        "en": "3 Conditions Required for Limited Provision Data"
+      },
+      "headers": {
+        "ja": [
+          "条件",
+          "説明"
+        ],
+        "vi": [
+          "Điều kiện",
+          "Giải thích"
+        ],
+        "en": [
+          "Condition",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "限定提供性",
+            "相手を限定して、繰り返し提供すること。相手を限定せずに提供する情報や、1回だけ限定して提供する情報は限定提供データではない。"
+          ],
+          "vi": [
+            "Tính cung cấp giới hạn",
+            "Cung cấp lặp lại cho đối tượng giới hạn. Thông tin cung cấp không giới hạn đối tượng hoặc chỉ cung cấp một lần không phải dữ liệu cung cấp giới hạn."
+          ],
+          "en": [
+            "Limited Provision",
+            "Repeatedly providing to limited parties. Information provided without limiting recipients or provided only once is not limited provision data."
+          ]
+        },
+        {
+          "ja": [
+            "相当蓄積性",
+            "価値を生み出す量があること。価値を生み出すに足るだけの量の情報量は、限定提供データ。"
+          ],
+          "vi": [
+            "Tính tích lũy đáng kể",
+            "Có khối lượng tạo ra giá trị. Lượng thông tin đủ để tạo ra giá trị là dữ liệu cung cấp giới hạn."
+          ],
+          "en": [
+            "Substantial Accumulation",
+            "Having volume that creates value. Information quantity sufficient to create value is limited provision data."
+          ]
+        },
+        {
+          "ja": [
+            "電磁的管理性",
+            "情報に対して、ID・パスワードなどで電磁的アクセス制限をすること。企業などで特別的に管理されている情報は、限定提供データではない。"
+          ],
+          "vi": [
+            "Tính quản lý điện từ",
+            "Giới hạn truy cập điện từ bằng ID, mật khẩu. Thông tin được quản lý đặc biệt tại doanh nghiệp không phải dữ liệu cung cấp giới hạn."
+          ],
+          "en": [
+            "Electromagnetic Management",
+            "Restricting electromagnetic access with ID/password. Information specially managed by companies is not limited provision data."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "これらの3つの条件は、名称が堅苦しいので、覚えるのが大変かもしれません。少なくとも「限定提供データ ≒ ビッグデータ」というイメージだけは持っておいてください。そうすれば、試験本番での正答率を上げることができます。",
+      "vi": "Tên gọi của 3 điều kiện này khá cứng nhắc nên có thể khó nhớ. Ít nhất hãy giữ hình ảnh \"Dữ liệu cung cấp giới hạn ≒ Big Data\". Như vậy có thể nâng cao tỉ lệ đúng trong kỳ thi thực tế.",
+      "en": "These 3 condition names are formal so may be hard to remember. At least keep the image \"Limited Provision Data ≒ Big Data\". This can improve your correct answer rate on the actual exam.",
+      "my": "ဤအခြေအနေ ၃ ခု၏ အမည်များသည် တရားဝင်သောကြောင့် မှတ်မိရခက်နိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "名称",
+          "reading": "めいしょう"
+        },
+        {
+          "kanji": "堅苦",
+          "reading": "けんく"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "大変",
+          "reading": "たいへん"
+        },
+        {
+          "kanji": "少",
+          "reading": "すく"
+        },
+        {
+          "kanji": "限定提供",
+          "reading": "げんていていきょう"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "試験本番",
+          "reading": "しけんほんばん"
+        },
+        {
+          "kanji": "正答率",
+          "reading": "せいとうりつ"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "不正競争防止法",
+      "reading": "ふせいきょうそうぼうしほう",
+      "vi": "Luật chống cạnh tranh không lành mạnh",
+      "en": "Unfair Competition Prevention Law",
+      "my": "မမှန်မကန်ယှဉ်ပြိုင်မှုကာကွယ်ရေးဥပဒေ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記の営業秘密や限定提供データを守るための法律が「不正競争防止法」です。この法律は、ライバル企業同士による不正な競争が行われないようにするための法律です。ITパスポート試験では、この法律によって禁止されている次の事例が出題されることがあるので、覚えておいてください。\n\n・営業秘密や限定提供データの不正な取得、使用、開示\n・コピープロテクトを外す装置の提供\n・他社の商品名に似たドメインの不正取得",
+      "vi": "Luật để bảo vệ bí mật kinh doanh và dữ liệu cung cấp giới hạn nêu trên là \"Luật chống cạnh tranh không lành mạnh\". Luật này nhằm ngăn chặn cạnh tranh không lành mạnh giữa các doanh nghiệp đối thủ. Trong kỳ thi IT Passport, các ví dụ bị cấm bởi luật này có thể được ra đề, hãy ghi nhớ:\n\n・Thu thập, sử dụng, tiết lộ trái phép bí mật kinh doanh và dữ liệu cung cấp giới hạn\n・Cung cấp thiết bị gỡ bỏ bảo vệ sao chép\n・Thu thập trái phép tên miền giống tên sản phẩm của công ty khác",
+      "en": "The law protecting trade secrets and limited provision data above is \"Unfair Competition Prevention Law\". This law prevents unfair competition between rival companies. Examples prohibited by this law may appear on IT Passport exams, so remember:\n\n・Illegal acquisition, use, disclosure of trade secrets and limited provision data\n・Providing devices to remove copy protection\n・Illegal acquisition of domains similar to other companies' product names",
+      "my": "အထက်တွင်ဖော်ပြခဲ့သော ကုန်သွယ်လျှို့ဝှက်ချက်များနှင့် limited provision data ကို ကာကွယ်သော ဥပဒေသည် \"Unfair Competition Prevention Law\" ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "営業秘密",
+          "reading": "えいぎょうひみつ"
+        },
+        {
+          "kanji": "限定提供",
+          "reading": "げんていていきょう"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "法律",
+          "reading": "ほうりつ"
+        },
+        {
+          "kanji": "不正競争防止法",
+          "reading": "ふせいきょうそうぼうしほう"
+        },
+        {
+          "kanji": "企業同士",
+          "reading": "きぎょうどうし"
+        },
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "競争",
+          "reading": "きょうそう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "禁止",
+          "reading": "きんし"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "事例",
+          "reading": "じれい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "取得",
+          "reading": "しゅとく"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "開示",
+          "reading": "かいじ"
+        },
+        {
+          "kanji": "外",
+          "reading": "そと"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "他社",
+          "reading": "たしゃ"
+        },
+        {
+          "kanji": "商品名",
+          "reading": "しょうひんめい"
+        },
+        {
+          "kanji": "似",
+          "reading": "じ"
+        },
+        {
+          "kanji": "不正取得",
+          "reading": "ふせいしゅとく"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・高度な発明に与えられる権利：特許権\n・高度でない考案に与えられる権利：実用新案権\n・デザインに与えられる権利：意匠権\n・マークに与えられる権利：商標権\n・営業秘密を保護する法律：不正競争防止法",
+        "vi": "・Quyền dành cho phát minh cao cấp: Quyền sáng chế\n・Quyền dành cho ý tưởng không cao cấp: Quyền mẫu hữu ích\n・Quyền dành cho thiết kế: Quyền kiểu dáng\n・Quyền dành cho nhãn hiệu: Quyền nhãn hiệu\n・Luật bảo vệ bí mật kinh doanh: Luật chống cạnh tranh không lành mạnh",
+        "en": "・Right for advanced inventions: Patent Rights\n・Right for non-advanced ideas: Utility Model Rights\n・Right for designs: Design Rights\n・Right for marks: Trademark Rights\n・Law protecting trade secrets: Unfair Competition Prevention Law",
+        "my": "・ အဆင့်မြင့်တီထွင်မှုများအတွက် အခွင့်အရေး: Patent Rights\n・ အဆင့်မမြင့်သော အိုင်ဒီယာအတွက်: Utility Model Rights\n・ ဒီဇိုင်းအတွက်: Design Rights\n・ အမှတ်တံဆိပ်အတွက်: Trademark Rights\n・ ကုန်သွယ်လျှို့ဝှက်ချက်ကာကွယ်သော ဥပဒေ: Unfair Competition Prevention Law",
+        "terms": [
+          {
+            "kanji": "高度",
+            "reading": "こうど"
+          },
+          {
+            "kanji": "発明",
+            "reading": "はつめい"
+          },
+          {
+            "kanji": "与",
+            "reading": "よ"
+          },
+          {
+            "kanji": "権利",
+            "reading": "けんり"
+          },
+          {
+            "kanji": "特許権",
+            "reading": "とっきょけん"
+          },
+          {
+            "kanji": "考案",
+            "reading": "こうあん"
+          },
+          {
+            "kanji": "実用新案権",
+            "reading": "じつようしんあんけん"
+          },
+          {
+            "kanji": "意匠権",
+            "reading": "いしょうけん"
+          },
+          {
+            "kanji": "商標権",
+            "reading": "しょうひょうけん"
+          },
+          {
+            "kanji": "営業秘密",
+            "reading": "えいぎょうひみつ"
+          },
+          {
+            "kanji": "保護",
+            "reading": "ほご"
+          },
+          {
+            "kanji": "法律",
+            "reading": "ほうりつ"
+          },
+          {
+            "kanji": "不正競争防止法",
+            "reading": "ふせいきょうそうぼうしほう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "その他の重要な用語",
+      "reading": "そのたのじゅうようなようご",
+      "vi": "Thuật ngữ quan trọng khác",
+      "en": "Other Important Terms",
+      "my": "အခြား အရေးကြီးသော ဝေါဟာရများ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "知的財産権に関するその他の重要な用語を簡単に説明します。これらの用語は、ITパスポート試験の問題文や選択肢によく登場するので、用語の意味を押さえておいてください。",
+      "vi": "Giải thích ngắn gọn các thuật ngữ quan trọng khác liên quan đến quyền sở hữu trí tuệ. Các thuật ngữ này thường xuất hiện trong đề bài và lựa chọn của kỳ thi IT Passport, nên hãy nắm ý nghĩa.",
+      "en": "Briefly explaining other important terms related to intellectual property rights. These terms often appear in IT Passport exam questions and choices, so understand their meanings.",
+      "my": "ဉာဏပိုင်ဆိုင်ခွင့်နှင့် ပတ်သက်သော အခြားအရေးကြီးသော ဝေါဟာရများကို အတိုချုပ်ရှင်းပြပါမည်။",
+      "terms": [
+        {
+          "kanji": "知的財産権",
+          "reading": "ちてきざいさんけん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "説明",
+          "reading": "せつめい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "問題文",
+          "reading": "もんだいぶん"
+        },
+        {
+          "kanji": "選択肢",
+          "reading": "せんたくし"
+        },
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "押",
+          "reading": "おう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "限定提供データ",
+      "reading": "げんていていきょうでーた",
+      "romaji": "Gentei Teikyou Data",
+      "vi": "Dữ liệu cung cấp giới hạn",
+      "en": "Limited Provision Data",
+      "my": "အကန့်အသတ် ပံ့ပိုးမှုဒေတာ"
+    },
+    {
+      "kanji": "不正競争防止法",
+      "reading": "ふせいきょうそうぼうしほう",
+      "romaji": "Fusei Kyousou Boushi Hou",
+      "vi": "Luật chống cạnh tranh không lành mạnh",
+      "en": "Unfair Competition Prevention Law",
+      "my": "မမှန်မကန်ယှည်ပြိုင်မှုကာကွယ်ရေးဥပဒေ"
+    },
+    {
+      "kanji": "ビッグデータ",
+      "reading": "びっぐでーた",
+      "romaji": "Big Data",
+      "vi": "Dữ liệu lớn",
+      "en": "Big Data",
+      "my": "Big Data"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

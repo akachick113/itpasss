@@ -1,0 +1,305 @@
+{
+  "page_id": 354,
+  "image": "p_0354.png",
+  "chapter": 9,
+  "section": "09-06",
+  "page_number": 338,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "上記のうち、「<」と「>」で囲まれた文字のことをタグといいます。このHTMLを保存して、そのファイルをブラウザで表示すると、右図のように表示されます。",
+      "vi": "Trong nội dung trên, ký tự trong \"<\" và \">\" gọi là tag. Khi lưu HTML này và hiển thị file trong trình duyệt, sẽ hiển thị như hình bên phải.",
+      "en": "Among above, text enclosed in '<' and '>' is called tag. When saving this HTML and displaying file in browser, it displays as in right diagram.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "囲",
+          "reading": "い"
+        },
+        {
+          "kanji": "文字",
+          "reading": "もじ"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        },
+        {
+          "kanji": "右図",
+          "reading": "みぎず"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "<title>と</title>に囲まれている文字がブラウザのタイトル部分に表示されていることが確認できます①。同様に、<body>と</body>に囲まれている文字がブラウザの本文に表示されていることが確認できます②。",
+      "vi": "Có thể xác nhận ký tự trong <title> và </title> hiển thị ở phần tiêu đề trình duyệt ①. Tương tự, có thể xác nhận ký tự trong <body> và </body> hiển thị trong phần thân trình duyệt ②.",
+      "en": "Can confirm text enclosed in <title> and </title> displays in browser title part ①. Similarly, can confirm text enclosed in <body> and </body> displays in browser body ②.",
+      "terms": [
+        {
+          "kanji": "囲",
+          "reading": "い"
+        },
+        {
+          "kanji": "文字",
+          "reading": "もじ"
+        },
+        {
+          "kanji": "部分",
+          "reading": "ぶぶん"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        },
+        {
+          "kanji": "本文",
+          "reading": "ほんぶん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、HTMLのタグを使えば、Webページに掲載するテキストや、その構造（論理構造）を指定できます。",
+      "vi": "Như vậy, nếu sử dụng tag HTML, có thể chỉ định văn bản đăng trên trang web và cấu trúc (cấu trúc logic) của nó.",
+      "en": "Like this, using HTML tags can specify text to post on web page and its structure (logical structure).",
+      "terms": [
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "掲載",
+          "reading": "けいさい"
+        },
+        {
+          "kanji": "構造",
+          "reading": "こうぞう"
+        },
+        {
+          "kanji": "論理構造",
+          "reading": "ろんりこうぞう"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、HTMLのタグは使い方が決まっているので、みなさんが独自に考えたタグを勝手に指定することはできません。",
+      "vi": "Tham khảo, cách sử dụng tag HTML đã được quy định nên không thể tùy ý chỉ định tag mà bạn tự nghĩ ra.",
+      "en": "Note that HTML tag usage is predetermined, so can't arbitrarily specify tags you create yourself.",
+      "terms": [
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "方",
+          "reading": "かた"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "独自",
+          "reading": "どくじ"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "勝手",
+          "reading": "かって"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "HTMLとの最大の違い！",
+        "vi": "Khác biệt lớn nhất với HTML!",
+        "en": "Biggest Difference from HTML!",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "マークアップ言語（Markup Language）とは、タグ（<>で囲まれた文字）を使って「コンピュータが扱う文書」を記述する言語です。マークアップとは「タグをつける」という意味の英語です。HTMLの「M」は「Markup」です。",
+        "vi": "Markup Language là ngôn ngữ sử dụng tag (ký tự trong <>) để mô tả \"tài liệu mà máy tính xử lý\". Markup là tiếng Anh nghĩa là \"gắn tag\". \"M\" của HTML là \"Markup\".",
+        "en": "Markup Language uses tags (text in <>) to describe 'documents computer handles.' Markup is English meaning 'to tag.' HTML's 'M' is 'Markup.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "XML",
+      "reading": "えっくすえむえる",
+      "vi": "XML",
+      "en": "XML",
+      "note": "重要！HTMLとの違いを確認！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "XML（EXtensible Markup Language）とは、HTMLとは異なり、みなさん自身が定義したタグを使ってデータを記述するマークアップ言語です。「EXtensible」は拡張可能という意味です。XMLの場合は「タグを自分で定義できる（拡張できる）」ということを表しています。XMLのメリットは、人間とコンピュータの両方が読みやすい形式であることです。",
+      "vi": "XML (EXtensible Markup Language) khác với HTML, là ngôn ngữ đánh dấu sử dụng tag bạn tự định nghĩa để mô tả dữ liệu. \"EXtensible\" nghĩa là có thể mở rộng. Với XML cho biết \"có thể tự định nghĩa tag (mở rộng)\". Ưu điểm của XML là định dạng mà cả con người và máy tính đều dễ đọc.",
+      "en": "XML (EXtensible Markup Language), unlike HTML, is markup language using tags you define yourself to describe data. 'EXtensible' means expandable. XML shows 'can define tags yourself (extend).' XML's merit is format readable by both humans and computers.",
+      "terms": [
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "自身",
+          "reading": "じしん"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "記述",
+          "reading": "きじゅつ"
+        },
+        {
+          "kanji": "言語",
+          "reading": "げんご"
+        },
+        {
+          "kanji": "拡張可能",
+          "reading": "かくちょうかのう"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "自分",
+          "reading": "じぶん"
+        },
+        {
+          "kanji": "拡張",
+          "reading": "かくちょう"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "形式",
+          "reading": "けいしき"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "HTMLの用途が「Webページの作成」であるのに対し、XMLの用途は「Web上でデータを交換すること」です。具体例を見てみましょう。",
+      "vi": "Trong khi mục đích của HTML là \"tạo trang web\", mục đích của XML là \"trao đổi dữ liệu trên Web\". Hãy xem ví dụ cụ thể.",
+      "en": "While HTML's purpose is 'creating web pages,' XML's purpose is 'exchanging data on Web.' Let's see specific example.",
+      "terms": [
+        {
+          "kanji": "用途",
+          "reading": "ようと"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "交換",
+          "reading": "こうかん"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "XMLの具体例",
+        "vi": "Ví dụ cụ thể XML",
+        "en": "Specific XML Example"
+      },
+      "code": "<生徒>\n  <生徒番号>123</生徒番号>\n  <名前>山田太郎</名前>\n  <電話番号>090-0000-0000</電話番号>\n</生徒>",
+      "explanation": {
+        "ja": "自分でタグ（<生徒>、<名前>など）を定義してデータを記述",
+        "vi": "Tự định nghĩa tag (<生徒>, <名前>, v.v.) và mô tả dữ liệu",
+        "en": "Define tags yourself (<Student>, <Name>, etc.) and describe data"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "XML",
+      "fullname": "EXtensible Markup Language",
+      "vi": "Ngôn ngữ đánh dấu mở rộng",
+      "en": "EXtensible Markup Language",
+      "my": "အက်စ် အမ် အလ်"
+    },
+    {
+      "term": "SGML",
+      "fullname": "Standard Generalized Markup Language",
+      "vi": "Ngôn ngữ đánh dấu tổng quát chuẩn",
+      "en": "Standard Generalized Markup Language",
+      "my": "အစ်ဂျီ အမ် အလ်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true
+  }
+}

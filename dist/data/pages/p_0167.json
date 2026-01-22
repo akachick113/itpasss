@@ -1,0 +1,252 @@
+{
+  "page_id": 167,
+  "image": "p_0167.png",
+  "chapter": 4,
+  "section": "04-03",
+  "page_number": 151,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "04-03",
+      "ja": "エンジニアリングシステム",
+      "reading": "えんじにありんぐしすてむ",
+      "vi": "Hệ thống kỹ thuật",
+      "en": "Engineering System",
+      "my": "အင်ဂျင်နီယာစနစ်"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "ムリ、ムラ、ムダをなくせ！",
+        "vi": "Loại bỏ bất hợp lý, không đều, lãng phí!",
+        "en": "Eliminate Unreasonable, Uneven, Waste!",
+        "my": "မဆီလျော်မှု၊ မညီမှု၊ အလဟသ ဖယ်ရှားပါ!"
+      },
+      "content": {
+        "ja": "モノを作る製造現場ではいかにして「ムリ」「ムラ」「ムダ」をなくすかが大切です。各種エンジニアリングシステムを用いて、少しでも効率よく、品質の高い製品を製造することが求められています。",
+        "vi": "Trong sản xuất, điều quan trọng là làm sao loại bỏ bất hợp lý, không đều, lãng phí. Cần sử dụng các hệ thống kỹ thuật để sản xuất sản phẩm chất lượng cao một cách hiệu quả nhất có thể.",
+        "en": "In manufacturing, it's important to eliminate 'unreasonable', 'uneven', and 'waste'. Using various engineering systems, efficient and high-quality manufacturing is required.",
+        "my": "ထုတ်လုပ်ရေးတွင် 'မဆီလျော်မှု'၊ 'မညီမှု'၊ 'အလဟသ' ဖယ်ရှားရန် အရေးကြီးသည်။",
+        "terms": [
+          {
+            "kanji": "作",
+            "reading": "つく"
+          },
+          {
+            "kanji": "製造現場",
+            "reading": "せいぞうげんば"
+          },
+          {
+            "kanji": "大切",
+            "reading": "たいせつ"
+          },
+          {
+            "kanji": "各種",
+            "reading": "かくしゅ"
+          },
+          {
+            "kanji": "用",
+            "reading": "よう"
+          },
+          {
+            "kanji": "少",
+            "reading": "すく"
+          },
+          {
+            "kanji": "効率",
+            "reading": "こうりつ"
+          },
+          {
+            "kanji": "品質",
+            "reading": "ひんしつ"
+          },
+          {
+            "kanji": "高",
+            "reading": "たか"
+          },
+          {
+            "kanji": "製品",
+            "reading": "せいひん"
+          },
+          {
+            "kanji": "製造",
+            "reading": "せいぞう"
+          },
+          {
+            "kanji": "求",
+            "reading": "きゅう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、モノを作る現場で使われているエンジニアリングシステムを解説していきます。ITパスポート試験では「CAD」「コンカレントエンジニアリング」「JIT（ジャストインタイム）生産方式」「セル生産方式」の4つの出題頻度が高いです。まずはこの4つの用語をきちんと押さえることが大切です。",
+      "vi": "Từ đây sẽ giải thích các hệ thống kỹ thuật được sử dụng tại nơi sản xuất. Trong IT Passport, 4 thuật ngữ hay ra đề là CAD, Concurrent Engineering, JIT (Just In Time), Cell Production. Trước tiên cần nắm chắc 4 thuật ngữ này.",
+      "en": "From here, we'll explain engineering systems used in manufacturing. In IT Passport, 4 frequently tested terms are: CAD, Concurrent Engineering, JIT (Just In Time) production, and Cell production. First, it's important to firmly grasp these 4 terms.",
+      "my": "ယခုမှစ၍ ထုတ်လုပ်ရေးတွင် အသုံးပြုသော အင်ဂျင်နီယာစနစ်များကို ရှင်းပြမည်။",
+      "terms": [
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "現場",
+          "reading": "げんば"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "生産方式",
+          "reading": "せいさんほうしき"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "押",
+          "reading": "おう"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "エンジニアリングシステム",
+      "reading": "えんじにありんぐしすてむ",
+      "vi": "Hệ thống kỹ thuật",
+      "en": "Engineering System"
+    },
+    {
+      "type": "paragraph",
+      "ja": "エンジニアリングシステムとは、生産プロセスを自動化するシステムです（手作業を機械化するシステムの総称）。主に生産部門で使われるシステムです。\n\nエンジニアリングシステムを導入するメリットはたくさんあります。利益の最大化、在庫の減少、リードタイムの短縮（p.158）、不良品の減少などです。\n\nエンジニアリングシステムの具体例として、ITパスポート試験では次のシステムが頻繁に取り上げられます。\n\n・CAD (Computer Aided Design)\n・CAM (Computer Aided Manufacturing)",
+      "vi": "Hệ thống kỹ thuật là hệ thống tự động hóa quy trình sản xuất (tên gọi chung của hệ thống cơ khí hóa công việc thủ công). Chủ yếu được sử dụng trong bộ phận sản xuất.\n\nLợi ích của việc áp dụng hệ thống kỹ thuật rất nhiều: tối đa hóa lợi nhuận, giảm tồn kho, rút ngắn lead time (trang 158), giảm sản phẩm lỗi.\n\nVí dụ cụ thể của hệ thống kỹ thuật, IT Passport thường đề cập:\n\n・CAD (Computer Aided Design)\n・CAM (Computer Aided Manufacturing)",
+      "en": "Engineering system is a system that automates production processes (general term for systems that mechanize manual work). Mainly used in production departments.\n\nBenefits of implementing engineering systems include: profit maximization, inventory reduction, lead time reduction (p.158), defect reduction.\n\nAs specific examples, IT Passport frequently covers:\n\n・CAD (Computer Aided Design)\n・CAM (Computer Aided Manufacturing)",
+      "my": "အင်ဂျင်နီယာစနစ်သည် ထုတ်လုပ်ရေးလုပ်ငန်းစဉ်များကို အလိုအလျောက်ပြုလုပ်သော စနစ်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "生産",
+          "reading": "せいさん"
+        },
+        {
+          "kanji": "自動化",
+          "reading": "じどうか"
+        },
+        {
+          "kanji": "手作業",
+          "reading": "てさぎょう"
+        },
+        {
+          "kanji": "機械化",
+          "reading": "きかいか"
+        },
+        {
+          "kanji": "総称",
+          "reading": "そうしょう"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "生産部門",
+          "reading": "せいさんぶもん"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "導入",
+          "reading": "どうにゅう"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "最大化",
+          "reading": "さいだいか"
+        },
+        {
+          "kanji": "在庫",
+          "reading": "ざいこ"
+        },
+        {
+          "kanji": "減少",
+          "reading": "げんしょう"
+        },
+        {
+          "kanji": "短縮",
+          "reading": "たんしゅく"
+        },
+        {
+          "kanji": "不良品",
+          "reading": "ふりょうひん"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "頻繁",
+          "reading": "ひんぱん"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "エンジニアリングシステム",
+      "reading": "えんじにありんぐしすてむ",
+      "romaji": "Engineering System",
+      "vi": "Hệ thống kỹ thuật",
+      "en": "Engineering System",
+      "my": "Engineering System"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

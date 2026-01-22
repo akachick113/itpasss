@@ -1,0 +1,79 @@
+{
+    "page_id": 554,
+    "image": "p_0554.png",
+    "chapter": 15,
+    "section": "15-03",
+    "page_number": 538,
+    "content": [
+        {
+            "type": "supplementary_section",
+            "title": {
+                "ja": "もう少し詳しく！情報セキュリティマネジメントの特性",
+                "vi": "Chi tiết hơn! Đặc tính của Quản lý bảo mật thông tin",
+                "en": "More Details! Properties of Information Security Management"
+            },
+            "content": {
+                "ja": "情報セキュリティマネジメントの特性は上記の「機密性」「完全性」「可用性」の3つの他に、「真正性」「責任追跡性」「否認防止」「信頼性」を含めた7つの要素とする場合もあります。",
+                "vi": "Đặc tính của Quản lý bảo mật thông tin ngoài 3 yếu tố \"tính bảo mật\", \"tính toàn vẹn\", \"tính sẵn sàng\" ở trên, cũng có trường hợp bao gồm 7 yếu tố gồm \"tính xác thực\", \"tính truy xuất trách nhiệm\", \"chống chối bỏ\", \"tính tin cậy\".",
+                "en": "Properties of Information Security Management, besides above 3 'confidentiality,' 'integrity,' 'availability,' may include 7 elements adding 'authenticity,' 'accountability,' 'non-repudiation,' 'reliability.'"
+            }
+        },
+        {
+            "type": "supplementary_section",
+            "title": {
+                "ja": "もう少し詳しく！不正のトライアングル",
+                "vi": "Chi tiết hơn! Tam giác gian lận",
+                "en": "More Details! Fraud Triangle"
+            },
+            "content": {
+                "ja": "不正のトライアングルとは、人が不正を働くのは「機会」「動機」「正当化」の3つの条件がそろったときであるという理論です。ITパスポート試験ではこの3つの条件が何であるかが問われます。また、不正解選択肢として「情報」が紛れ込むことがあるので注意してください。確かにパスワードなどの「情報」を持っていれば不正を働きやすくなりますが、これは「その情報で不正アクセスできる"機会"を持っている」と考えてください。",
+                "vi": "Tam giác gian lận là lý thuyết cho rằng người ta thực hiện gian lận khi đủ 3 điều kiện \"cơ hội\", \"động cơ\", \"hợp lý hóa\". Trong kỳ thi IT Passport, 3 điều kiện này là gì được hỏi. Ngoài ra, hãy chú ý vì \"thông tin\" có thể xuất hiện như lựa chọn sai. Đúng là nếu có \"thông tin\" như mật khẩu thì dễ thực hiện gian lận, nhưng hãy nghĩ đây là \"có 'cơ hội' để truy cập trái phép với thông tin đó\".",
+                "en": "Fraud Triangle is theory that people commit fraud when 3 conditions 'opportunity,' 'motivation,' 'rationalization' are met. In IT Passport exam, these 3 conditions are asked. Also note 'information' may appear as wrong choice. Indeed if have 'information' like passwords, easier to commit fraud, but think of this as 'having opportunity to illegally access with that information.'"
+            }
+        },
+        {
+            "type": "note_box",
+            "title": {
+                "ja": "完璧に暗記する必要はない",
+                "vi": "Không cần học thuộc hoàn hảo",
+                "en": "No Need to Memorize Perfectly",
+                "note": "学習のポイント"
+            },
+            "content": {
+                "ja": "ITパスポート試験はすべて選択式問題なので、内容を完璧に暗記する必要はありません。選択肢の中から正答を選べるようになることが重要です。",
+                "vi": "Kỳ thi IT Passport đều là câu hỏi trắc nghiệm nên không cần học thuộc nội dung hoàn hảo. Điều quan trọng là có thể chọn đáp án đúng từ các lựa chọn.",
+                "en": "IT Passport exam is all multiple choice, so no need to perfectly memorize content. Important is being able to select correct answer from choices."
+            }
+        }
+    ],
+    "vocabulary": [
+        {
+            "term": "真正性",
+            "vi": "Tính xác thực",
+            "en": "Authenticity"
+        },
+        {
+            "term": "責任追跡性",
+            "vi": "Tính truy xuất trách nhiệm",
+            "en": "Accountability"
+        },
+        {
+            "term": "否認防止",
+            "vi": "Chống chối bỏ",
+            "en": "Non-repudiation"
+        },
+        {
+            "term": "信頼性",
+            "vi": "Tính tin cậy",
+            "en": "Reliability"
+        },
+        {
+            "term": "不正のトライアングル",
+            "vi": "Tam giác gian lận",
+            "en": "Fraud Triangle"
+        }
+    ],
+    "meta": {
+        "is_supplementary": true
+    }
+}

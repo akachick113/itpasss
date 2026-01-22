@@ -1,0 +1,275 @@
+{
+  "page_id": 355,
+  "image": "p_0355.png",
+  "chapter": 9,
+  "section": "09-06",
+  "page_number": 339,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "HTMLとXMLの違い",
+        "vi": "Sự khác biệt giữa HTML và XML",
+        "en": "Differences Between HTML and XML",
+        "note": "共通点と相違点をチェック！"
+      },
+      "headers": {
+        "ja": [
+          "言語",
+          "記述対象",
+          "記述方法",
+          "用途",
+          "独自タグ"
+        ],
+        "vi": [
+          "Ngôn ngữ",
+          "Đối tượng mô tả",
+          "Cách mô tả",
+          "Mục đích",
+          "Tag tự định nghĩa"
+        ],
+        "en": [
+          "Language",
+          "Description Target",
+          "Description Method",
+          "Purpose",
+          "Custom Tags"
+        ]
+      },
+      "rows": [
+        {
+          "language": "HTML",
+          "target": "論理構造",
+          "method": "タグ",
+          "purpose": "Webページ作成",
+          "custom_tags": "不可"
+        },
+        {
+          "language": "XML",
+          "target": "-",
+          "method": "タグ",
+          "purpose": "データ交換",
+          "custom_tags": "可"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "CSS",
+      "reading": "しーえすえす",
+      "vi": "CSS",
+      "en": "CSS"
+    },
+    {
+      "type": "paragraph",
+      "ja": "CSS（Cascading Style Sheets）とは、WebページのデザインやレイアウトをHTML指摘する言語です。Webページは通常、先述したHTMLとCSSの2つの言語で作成します。",
+      "vi": "CSS (Cascading Style Sheets) là ngôn ngữ chỉ định thiết kế và bố cục trang web. Trang web thường được tạo bằng 2 ngôn ngữ HTML và CSS đã nói trước đó.",
+      "en": "CSS (Cascading Style Sheets) is language specifying web page design and layout. Web pages are typically created with 2 languages: HTML and CSS mentioned earlier.",
+      "terms": [
+        {
+          "kanji": "指摘",
+          "reading": "してき"
+        },
+        {
+          "kanji": "言語",
+          "reading": "げんご"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "先述",
+          "reading": "せんじゅつ"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "HTMLで、Webページにどのような文書や画像を表示するのかを指定し（論理構造）、CSSで掲載情報の色やサイズ、配置場所などを指定します。",
+      "vi": "HTML chỉ định văn bản và hình ảnh nào hiển thị trên trang web (cấu trúc logic), CSS chỉ định màu sắc, kích thước, vị trí của thông tin đăng.",
+      "en": "HTML specifies what documents and images display on web page (logical structure), CSS specifies color, size, placement of posted information.",
+      "terms": [
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "画像",
+          "reading": "がぞう"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "論理構造",
+          "reading": "ろんりこうぞう"
+        },
+        {
+          "kanji": "掲載情報",
+          "reading": "けいさいじょうほう"
+        },
+        {
+          "kanji": "色",
+          "reading": "いろ"
+        },
+        {
+          "kanji": "配置場所",
+          "reading": "はいちばしょ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "HTMLとCSSを使い分けることで、「論理構造」と「デザイン、レイアウトの指定」を切り分けることができます。以前はデザインやレイアウト情報もHTMLで指定していたのですが、両方の情報をHTMLだけで指定すると、内容が複雑になるため、現在ではCSSで行うことが一般的です。",
+      "vi": "Bằng cách phân biệt sử dụng HTML và CSS, có thể tách \"cấu trúc logic\" và \"chỉ định thiết kế, bố cục\". Trước đây thiết kế và bố cục cũng được chỉ định trong HTML, nhưng vì chỉ định cả hai trong HTML làm nội dung phức tạp, hiện nay thường dùng CSS.",
+      "en": "By distinguishing HTML and CSS use, can separate 'logical structure' and 'design/layout specification.' Previously design and layout were specified in HTML too, but specifying both in HTML made content complex, so now CSS is common.",
+      "terms": [
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "論理構造",
+          "reading": "ろんりこうぞう"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "切",
+          "reading": "せつ"
+        },
+        {
+          "kanji": "以前",
+          "reading": "いぜん"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "複雑",
+          "reading": "ふくざつ"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "一般的",
+          "reading": "いっぱんてき"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "CSSの具体例",
+        "vi": "Ví dụ cụ thể CSS",
+        "en": "Specific CSS Example"
+      },
+      "code": "color:#333333;  ← 色を指定している\nfont-size:12px;  ← 文字の大きさを指定している",
+      "explanation": {
+        "ja": "CSSでは色やフォントサイズなどのデザイン要素を指定",
+        "vi": "CSS chỉ định các yếu tố thiết kế như màu sắc và kích thước font",
+        "en": "CSS specifies design elements like color and font size"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "HTMLとは、Webページの論理構造や文字要素を記述するマークアップ言語",
+          "vi": "HTML là ngôn ngữ đánh dấu mô tả cấu trúc logic và phần tử ký tự của trang web",
+          "en": "HTML is markup language describing web page logical structure and text elements"
+        },
+        {
+          "ja": "HTMLでは、タグの使い方が決まっている",
+          "vi": "Trong HTML, cách sử dụng tag đã được quy định",
+          "en": "In HTML, tag usage is predetermined"
+        },
+        {
+          "ja": "XMLでは、利用者が自由にタグを定義できる",
+          "vi": "Trong XML, người dùng có thể tự do định nghĩa tag",
+          "en": "In XML, users can freely define tags"
+        },
+        {
+          "ja": "CSSとは、WebページのデザインやレイアウトをHTML指定する言語",
+          "vi": "CSS là ngôn ngữ chỉ định thiết kế và bố cục trang web",
+          "en": "CSS is language specifying web page design and layout"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！JavaScript",
+        "vi": "Chi tiết hơn! JavaScript",
+        "en": "More Details! JavaScript"
+      },
+      "content": {
+        "ja": "JavaScript（ジャバスクリプト）とは、Webページに「動的な動き」を組み込むことができるプログラム言語です。誰がいつみても内容が同じWebページのことを「静的なWebページ」といいます。動きのない、静かなページです。一方、ユーザーがアクセスするたびにタイミングによっては内容が変わるWebページのことを「動的なWebページ」といいます。HTMLやCSSでは静的なWebページしか作れませんが、JavaScriptを使うことで、動的なWebページを作ることができます。",
+        "vi": "JavaScript là ngôn ngữ lập trình có thể nhúng \"chuyển động động\" vào trang web. Trang web mà ai xem lúc nào nội dung cũng giống nhau gọi là \"trang web tĩnh\". Là trang không có chuyển động, yên tĩnh. Ngược lại, trang web mà nội dung thay đổi theo thời điểm mỗi lần người dùng truy cập gọi là \"trang web động\". Với HTML và CSS chỉ có thể tạo trang web tĩnh, nhưng sử dụng JavaScript có thể tạo trang web động.",
+        "en": "JavaScript is programming language that can incorporate 'dynamic movement' into web pages. Web pages where content is same no matter who views when are called 'static web pages.' Pages without movement, quiet. Conversely, web pages where content changes depending on timing when users access are called 'dynamic web pages.' HTML and CSS can only create static pages, but using JavaScript can create dynamic web pages."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "CSS",
+      "fullname": "Cascading Style Sheets",
+      "vi": "Bảng kiểu xếp tầng",
+      "en": "Cascading Style Sheets",
+      "my": "စီအစ်အစ်"
+    },
+    {
+      "term": "JavaScript",
+      "vi": "JavaScript",
+      "en": "JavaScript",
+      "my": "ဂျာဗာစကြစ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "page_id": 448,
+  "image": "p_0448.png",
+  "chapter": 12,
+  "section": "12-02",
+  "page_number": 432,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ルール2 パスのはじまりが「/」のときは、左端にルートディレクトリが省略されているものとする",
+      "vi": "Quy tắc 2: Khi đường dẫn bắt đầu bằng \"/\", thư mục gốc bị lược bỏ ở bên trái",
+      "en": "Rule 2: When Path Starts with '/', Root Directory Omitted on Left"
+    },
+    {
+      "type": "paragraph",
+      "ja": "パスの指定は「/」からはじまる場合、それは「ルートディレクトリからの指定」であることを意味します。なお、ツリー構造の最上位であるルートディレクトリから指定したパスのことを「絶対パス」といいます。",
+      "vi": "Khi chỉ định đường dẫn bắt đầu từ \"/\", nghĩa là \"chỉ định từ thư mục gốc\". Ngoài ra, đường dẫn được chỉ định từ thư mục gốc - cấp cao nhất của cấu trúc cây - được gọi là \"đường dẫn tuyệt đối\".",
+      "en": "When path specification starts from '/', it means 'specification from root directory.' Also, path specified from root directory - top level of tree structure - is called 'absolute path.'",
+      "terms": [
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "構造",
+          "reading": "こうぞう"
+        },
+        {
+          "kanji": "最上位",
+          "reading": "さいじょうい"
+        },
+        {
+          "kanji": "絶対",
+          "reading": "ぜったい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ルール3 カレントディレクトリは「.」で表す",
+      "vi": "Quy tắc 3: Thư mục hiện tại được biểu thị bằng \".\"",
+      "en": "Rule 3: Current Directory Represented by '.'"
+    },
+    {
+      "type": "paragraph",
+      "ja": "パスは、カレントディレクトリ（現在の場所）から指定することもできます。ルートディレクトリから指定する場合、パスは「/」からはじめますが、カレントディレクトリから指定する場合は「./」からはじめます。この「.」（ドット）がカレントディレクトリを意味します。",
+      "vi": "Đường dẫn cũng có thể được chỉ định từ thư mục hiện tại (vị trí hiện tại). Khi chỉ định từ thư mục gốc, đường dẫn bắt đầu từ \"/\", nhưng khi chỉ định từ thư mục hiện tại thì bắt đầu từ \"./\". \".\" (dấu chấm) này có nghĩa là thư mục hiện tại.",
+      "en": "Path can also be specified from current directory (current location). When specifying from root directory, path starts with '/', but when specifying from current directory starts with './'. This '.' (dot) means current directory.",
+      "terms": [
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、現在「画像」フォルダを参照している状態で、「画像」→「高解像度」→「みかん.jpg」を指定する場合は、次のようにパスを指定します。",
+      "vi": "Ví dụ, khi đang tham chiếu thư mục \"Hình ảnh\", để chỉ định \"Hình ảnh\" → \"Độ phân giải cao\" → \"mikan.jpg\", chỉ định đường dẫn như sau.",
+      "en": "For example, while referencing 'Image' folder, to specify 'Image' → 'High Resolution' → 'mikan.jpg', specify path as follows.",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "画像",
+          "reading": "がぞう"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        },
+        {
+          "kanji": "状態",
+          "reading": "じょうたい"
+        },
+        {
+          "kanji": "高解像度",
+          "reading": "こうかいぞうど"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "code": "./高解像度/みかん.jpg",
+      "annotation": {
+        "ja": "← 相対パス。「./」はカレントディレクトリという意味",
+        "vi": "← Đường dẫn tương đối. \"./\" có nghĩa là thư mục hiện tại",
+        "en": "← Relative path. './' means current directory"
+      }
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "カレントディレクトリからの指定",
+        "vi": "Chỉ định từ thư mục hiện tại",
+        "en": "Specification from Current Directory"
+      },
+      "description": {
+        "ja": "ツリー構造で「画像」ディレクトリがカレントディレクトリ（現在の場所）として強調表示され、そこから「高解像度」→「みかん.jpg」へのパスを示す",
+        "vi": "Trong cấu trúc cây, thư mục \"Hình ảnh\" được đánh dấu là thư mục hiện tại (vị trí hiện tại), và hiển thị đường dẫn từ đó đến \"Độ phân giải cao\" → \"mikan.jpg\"",
+        "en": "In tree structure, 'Image' directory highlighted as current directory (current location), showing path from there to 'High Resolution' → 'mikan.jpg'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、カレントディレクトリから別のファイルやフォルダを指定するパスのことを「相対パス」といいます。",
+      "vi": "Như vậy, đường dẫn chỉ định tệp hoặc thư mục khác từ thư mục hiện tại được gọi là \"đường dẫn tương đối\".",
+      "en": "Like this, path specifying other files or folders from current directory is called 'relative path.'",
+      "terms": [
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "相対",
+          "reading": "そうたい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、当然のことながら、「みかん.jpg」はルートディレクトリから絶対パスで指定することも可能です。その場合は次のようにパスを指定します。",
+      "vi": "Ngoài ra, đương nhiên, \"mikan.jpg\" cũng có thể được chỉ định bằng đường dẫn tuyệt đối từ thư mục gốc. Trong trường hợp đó, chỉ định đường dẫn như sau.",
+      "en": "Also, naturally, 'mikan.jpg' can also be specified by absolute path from root directory. In that case, specify path as follows.",
+      "terms": [
+        {
+          "kanji": "当然",
+          "reading": "とうぜん"
+        },
+        {
+          "kanji": "絶対",
+          "reading": "ぜったい"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "絶対パス",
+      "reading": "ぜったいパス",
+      "vi": "Đường dẫn tuyệt đối",
+      "en": "Absolute Path",
+      "my": "အက်စိုလိုတ် ပက်"
+    },
+    {
+      "term": "相対パス",
+      "reading": "そうたいパス",
+      "vi": "Đường dẫn tương đối",
+      "en": "Relative Path",
+      "my": "ရီလေးထစ် ပက်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_code_example": true,
+    "is_key_content": true
+  }
+}

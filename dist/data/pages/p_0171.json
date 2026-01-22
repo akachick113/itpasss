@@ -1,0 +1,451 @@
+{
+  "page_id": 171,
+  "image": "p_0171.png",
+  "chapter": 4,
+  "section": "04-03",
+  "page_number": 155,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "ライン生産方式とセル生産方式の違い",
+        "vi": "Sự khác biệt giữa Line Production và Cell Production",
+        "en": "Differences between Line and Cell Production"
+      },
+      "headers": {
+        "ja": [
+          "生産方式",
+          "作業員の人数",
+          "作業員のスキル",
+          "製品の種類と生産量"
+        ],
+        "vi": [
+          "Phương thức sản xuất",
+          "Số công nhân",
+          "Kỹ năng công nhân",
+          "Loại sản phẩm và sản lượng"
+        ],
+        "en": [
+          "Production Method",
+          "Number of Workers",
+          "Worker Skills",
+          "Product Types and Volume"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "ライン生産方式",
+            "多い",
+            "単純工や専属工",
+            "少品種・大量生産"
+          ],
+          "vi": [
+            "Line Production",
+            "Nhiều",
+            "Thợ đơn giản hoặc chuyên",
+            "Ít loại, sản xuất hàng loạt"
+          ],
+          "en": [
+            "Line Production",
+            "Many",
+            "Simple or specialized workers",
+            "Few types, mass production"
+          ]
+        },
+        {
+          "ja": [
+            "セル生産方式",
+            "少ない",
+            "多能工",
+            "多品種・少量生産"
+          ],
+          "vi": [
+            "Cell Production",
+            "Ít",
+            "Thợ đa năng",
+            "Nhiều loại, sản xuất ít"
+          ],
+          "en": [
+            "Cell Production",
+            "Few",
+            "Multi-skilled workers",
+            "Many types, small production"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "昨今は、ビジネス環境の変化や消費者ニーズの変化に対応するための生産方式として、セル生産方式が注目されています。そのため、ITパスポート試験でも、ライン生産方式ではなく、セル生産方式がよく出題されます。",
+      "vi": "Gần đây, Cell Production được chú ý như phương thức sản xuất đối phó với thay đổi môi trường kinh doanh và nhu cầu người tiêu dùng. Do đó, IT Passport cũng thường ra đề về Cell Production chứ không phải Line Production.",
+      "en": "Recently, Cell Production is getting attention as a production method to respond to changing business environment and consumer needs. Therefore, IT Passport often tests Cell Production rather than Line Production.",
+      "my": "မကြာသေးမီက Cell Production သည် ပြောင်းလဲနေသော စီးပွားရေးပတ်ဝန်းကျင်နှင့် စားသုံးသူလိုအပ်ချက်များကို တုံ့ပြန်ရန် ထုတ်လုပ်ရေးနည်းလမ်းအဖြစ် အာရုံစိုက်ခံနေရသည်။",
+      "terms": [
+        {
+          "kanji": "昨今",
+          "reading": "さっこん"
+        },
+        {
+          "kanji": "環境",
+          "reading": "かんきょう"
+        },
+        {
+          "kanji": "変化",
+          "reading": "へんか"
+        },
+        {
+          "kanji": "消費者",
+          "reading": "しょうひしゃ"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "生産方式",
+          "reading": "せいさんほうしき"
+        },
+        {
+          "kanji": "注目",
+          "reading": "ちゅうもく"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・受注生産方式とは、顧客からの注文を受けてから生産を開始する生産方式\n・見込生産方式とは、生産開始時の計画に基づいて見込み数量を生産する生産方式\n・JIT生産方式とは、必要な物を、必要なときに、必要な量だけ生産する方式\n・セル生産方式とは、1人または数人の作業員が、生産の全工程を担当する方式",
+        "vi": "・Sản xuất theo đơn hàng: bắt đầu sản xuất sau khi nhận đơn hàng từ khách\n・Sản xuất dự kiến: sản xuất số lượng dự kiến theo kế hoạch khi bắt đầu sản xuất\n・JIT Production: sản xuất vật cần thiết, khi cần thiết, với số lượng cần thiết\n・Cell Production: 1 hoặc vài công nhân đảm nhận toàn bộ quy trình sản xuất",
+        "en": "・Make-to-Order: start production after receiving customer orders\n・Make-to-Stock: produce anticipated quantities based on plans\n・JIT Production: produce what's needed, when needed, in needed quantities\n・Cell Production: 1 or few workers handle entire production process",
+        "my": "・ Make-to-Order: အော်ဒါများ လက်ခံပြီးနောက် ထုတ်လုပ်ရေး စတင်သည်",
+        "terms": [
+          {
+            "kanji": "受注生産方式",
+            "reading": "じゅちゅうせいさんほうしき"
+          },
+          {
+            "kanji": "顧客",
+            "reading": "こきゃく"
+          },
+          {
+            "kanji": "注文",
+            "reading": "ちゅうもん"
+          },
+          {
+            "kanji": "受",
+            "reading": "じゅ"
+          },
+          {
+            "kanji": "生産",
+            "reading": "せいさん"
+          },
+          {
+            "kanji": "開始",
+            "reading": "かいし"
+          },
+          {
+            "kanji": "生産方式",
+            "reading": "せいさんほうしき"
+          },
+          {
+            "kanji": "見込生産方式",
+            "reading": "みこみせいさんほうしき"
+          },
+          {
+            "kanji": "生産開始時",
+            "reading": "せいさんかいしじ"
+          },
+          {
+            "kanji": "計画",
+            "reading": "けいかく"
+          },
+          {
+            "kanji": "基",
+            "reading": "もと"
+          },
+          {
+            "kanji": "見込",
+            "reading": "みこみ"
+          },
+          {
+            "kanji": "数量",
+            "reading": "すうりょう"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          },
+          {
+            "kanji": "物",
+            "reading": "もの"
+          },
+          {
+            "kanji": "量",
+            "reading": "りょう"
+          },
+          {
+            "kanji": "方式",
+            "reading": "ほうしき"
+          },
+          {
+            "kanji": "人",
+            "reading": "ひと"
+          },
+          {
+            "kanji": "数人",
+            "reading": "すうにん"
+          },
+          {
+            "kanji": "作業員",
+            "reading": "さぎょういん"
+          },
+          {
+            "kanji": "全工程",
+            "reading": "ぜんこうてい"
+          },
+          {
+            "kanji": "担当",
+            "reading": "たんとう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "リーン生産方式",
+        "vi": "Lean Production",
+        "en": "Lean Production",
+        "terms": [
+          {
+            "kanji": "生産方式",
+            "reading": "せいさんほうしき"
+          },
+          {
+            "kanji": "方式",
+            "reading": "ほうしき"
+          },
+          {
+            "kanji": "式",
+            "reading": "しき"
+          }
+        ]
+      },
+      "content": {
+        "ja": "リーン生産方式とは、JIT生産方式を取り入れた、ムダのない生産方式です。「リーン」は、贅肉（ムダ）のない状態を意味します。",
+        "vi": "Lean Production là phương thức sản xuất không lãng phí, áp dụng JIT. Lean nghĩa là trạng thái không có mỡ thừa (lãng phí).",
+        "en": "Lean Production is a wasteless production method incorporating JIT. 'Lean' means a state without excess fat (waste).",
+        "my": "Lean Production သည် JIT ထည့်သွင်းထားသော အလဟသမပါသော ထုတ်လုပ်ရေးနည်းလမ်းဖြစ်သည်။",
+        "terms": [
+          {
+            "kanji": "生産方式",
+            "reading": "せいさんほうしき"
+          },
+          {
+            "kanji": "取",
+            "reading": "と"
+          },
+          {
+            "kanji": "入",
+            "reading": "はい"
+          },
+          {
+            "kanji": "贅肉",
+            "reading": "ぜいにく"
+          },
+          {
+            "kanji": "状態",
+            "reading": "じょうたい"
+          },
+          {
+            "kanji": "意味",
+            "reading": "いみ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "CIMとFMS",
+        "vi": "CIM và FMS",
+        "en": "CIM and FMS",
+        "terms": [
+          {
+            "kanji": "CIM",
+            "reading": "しーあいえむ"
+          },
+          {
+            "kanji": "FMS",
+            "reading": "えふえむえす"
+          }
+        ]
+      },
+      "content": {
+        "ja": "CIM（Computer Integrated Manufacturing）は、CADで作成した設計図や、CAMで作成した加工データを一元管理するシステムです。CIMを導入すると、工場の生産ラインをコンピュータやネットワークを用いて統合的に管理することが可能になります。\n\nFMS（Flexible Manufacturing System）は、1つの生産ラインでさまざまな種類の製品の製造に柔軟に対応するためのシステムです。自動化した工作機械、ロボット、自動搬送装置などで構成されます。セル生産方式も「多品種に対応している」という点で同じですが、セル生産方式では主に人が生産するのに対して、FMSでは主にロボットなどの「機械」が多品種の製品を生産します。",
+        "vi": "CIM (Computer Integrated Manufacturing) là hệ thống quản lý tập trung bản vẽ thiết kế từ CAD và dữ liệu gia công từ CAM. Áp dụng CIM có thể quản lý tích hợp dây chuyền sản xuất nhà máy bằng máy tính và mạng.\n\nFMS (Flexible Manufacturing System) là hệ thống đối phó linh hoạt với sản xuất nhiều loại sản phẩm trên một dây chuyền. Gồm máy công cụ tự động, robot, thiết bị vận chuyển tự động. Cell Production cũng đối phó nhiều loại sản phẩm nhưng chủ yếu người sản xuất, còn FMS chủ yếu máy móc/robot sản xuất nhiều loại.",
+        "en": "CIM (Computer Integrated Manufacturing) is a system for centrally managing CAD designs and CAM processing data. CIM enables integrated management of factory production lines using computers and networks.\n\nFMS (Flexible Manufacturing System) flexibly handles manufacturing various product types on one production line. Consists of automated machine tools, robots, automatic conveyance equipment. Cell Production also handles multiple types, but mainly humans produce, while FMS mainly uses machines/robots to produce multiple types.",
+        "my": "CIM (Computer Integrated Manufacturing) သည် CAD ဒီဇိုင်းများနှင့် CAM ပြင်ဆင်ဒေတာကို ဗဟိုချုပ်ကိုင်မှုဖြင့် စီမံခန့်ခွဲသော စနစ်ဖြစ်သည်။",
+        "terms": [
+          {
+            "kanji": "作成",
+            "reading": "さくせい"
+          },
+          {
+            "kanji": "設計図",
+            "reading": "せっけいず"
+          },
+          {
+            "kanji": "加工",
+            "reading": "かこう"
+          },
+          {
+            "kanji": "一元管理",
+            "reading": "いちげんかんり"
+          },
+          {
+            "kanji": "導入",
+            "reading": "どうにゅう"
+          },
+          {
+            "kanji": "工場",
+            "reading": "こうじょう"
+          },
+          {
+            "kanji": "生産",
+            "reading": "せいさん"
+          },
+          {
+            "kanji": "用",
+            "reading": "よう"
+          },
+          {
+            "kanji": "統合的",
+            "reading": "とうごうてき"
+          },
+          {
+            "kanji": "管理",
+            "reading": "かんり"
+          },
+          {
+            "kanji": "可能",
+            "reading": "かのう"
+          },
+          {
+            "kanji": "種類",
+            "reading": "しゅるい"
+          },
+          {
+            "kanji": "製品",
+            "reading": "せいひん"
+          },
+          {
+            "kanji": "製造",
+            "reading": "せいぞう"
+          },
+          {
+            "kanji": "柔軟",
+            "reading": "じゅうなん"
+          },
+          {
+            "kanji": "対応",
+            "reading": "たいおう"
+          },
+          {
+            "kanji": "自動化",
+            "reading": "じどうか"
+          },
+          {
+            "kanji": "工作機械",
+            "reading": "こうさくきかい"
+          },
+          {
+            "kanji": "自動搬送装置",
+            "reading": "じどうはんそうそうち"
+          },
+          {
+            "kanji": "構成",
+            "reading": "こうせい"
+          },
+          {
+            "kanji": "生産方式",
+            "reading": "せいさんほうしき"
+          },
+          {
+            "kanji": "多品種",
+            "reading": "たひんしゅ"
+          },
+          {
+            "kanji": "点",
+            "reading": "てん"
+          },
+          {
+            "kanji": "同",
+            "reading": "どう"
+          },
+          {
+            "kanji": "主",
+            "reading": "しゅ"
+          },
+          {
+            "kanji": "人",
+            "reading": "ひと"
+          },
+          {
+            "kanji": "対",
+            "reading": "つい"
+          },
+          {
+            "kanji": "機械",
+            "reading": "きかい"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "CIM",
+      "reading": "しーあいえむ",
+      "romaji": "Computer Integrated Manufacturing",
+      "vi": "Sản xuất tích hợp máy tính",
+      "en": "Computer Integrated Manufacturing",
+      "my": "CIM"
+    },
+    {
+      "kanji": "FMS",
+      "reading": "えふえむえす",
+      "romaji": "Flexible Manufacturing System",
+      "vi": "Hệ thống sản xuất linh hoạt",
+      "en": "Flexible Manufacturing System",
+      "my": "FMS"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

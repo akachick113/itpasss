@@ -1,0 +1,46 @@
+{
+    "page_id": 165,
+    "image": "p_0165.png",
+    "chapter": 4,
+    "section": "answers",
+    "page_number": 149,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "4-10",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "ウ. 人間中心のAI社会原則は、社会全体がAI（人工知能）を有効かつ安全に利用することを目的として、2019年に政府によって定められた文書です。なお、7つの原則のすべてを細かく暗記するのは大変です。ITパスポート試験の合格対策としては、念頭に「人間中心の社会構築」を置き、それを目指しているような内容の記載がされている選択肢を選ぶことで正解を導き出します。\n\na. 誤り。7つの原則の1つである「人間中心の原則」に、「AIの利用にあたっては、人が自らどのように利用するかの判断と決定を行うことが求められる」と記載されており、この内容に反します。\n\nb. 正しい。7つの原則の1つ「人間中心の原則」に、「AIの利用は、憲法及び国際的な規範の保障する基本的人権を侵害するものであってはならない」と記載されており、この内容に合致します。\n\nc. 誤り。7つの原則の1つである「人間中心の原則」に、「各ステークホルダー、AIの普及及び通達により、いわゆる『情報弱者』や『技術弱者』を生じさせ、AIの恩恵をすべての人が享受できるよう、使いやすいシステムの実現を目指すべきである」と記載されており、この内容に反します。",
+                "vi": "C. Nguyên tắc xã hội AI lấy con người làm trung tâm là tài liệu do chính phủ định ra năm 2019 với mục đích toàn xã hội sử dụng AI hiệu quả và an toàn. Nhớ hết 7 nguyên tắc khó. Để đối phó kỳ thi IT Passport, đặt xây dựng xã hội lấy con người làm trung tâm trong đầu và chọn lựa chọn có nội dung hướng tới điều đó để tìm đáp án đúng.\n\na. Sai. Nguyên tắc lấy con người làm trung tâm trong 7 nguyên tắc ghi khi sử dụng AI, con người tự phán đoán và quyết định cách sử dụng, đi ngược lại nội dung này.\n\nb. Đúng. Nguyên tắc lấy con người làm trung tâm ghi việc sử dụng AI không được xâm phạm nhân quyền cơ bản được bảo đảm bởi hiến pháp và quy phạm quốc tế, phù hợp nội dung này.\n\nc. Sai. Nguyên tắc lấy con người làm trung tâm ghi các bên liên quan, thông qua phổ biến và thông báo AI, không để tạo ra người yếu thế thông tin và công nghệ, hướng tới hệ thống dễ sử dụng để tất cả được hưởng lợi từ AI, đi ngược lại nội dung này.",
+                "en": "C. Human-Centered AI Social Principles is a document established by government in 2019 for society to use AI effectively and safely. Memorizing all 7 principles is difficult. For IT Passport, keep 'human-centered society building' in mind and choose options with such content to find correct answers.\n\na. Incorrect. The 'human-centered principle' states 'when using AI, humans are required to judge and decide how to use it themselves', contradicting this.\n\nb. Correct. The 'human-centered principle' states 'AI use must not violate basic human rights guaranteed by constitution and international norms', matching this content.\n\nc. Incorrect. The 'human-centered principle' states stakeholders should not create 'information-disadvantaged' or 'technology-disadvantaged' people through AI spread, aiming for easy-to-use systems for all to benefit from AI, contradicting this."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-11",
+            "answer": "イ",
+            "explanation": {
+                "ja": "イ. 商品が世の中に出て、他社製品との競争に勝つまでには主に（1）研究段階→（2）開発段階→（3）事業化段階→（4）産業化段階の4段階があり、各段階の間には障壁（3つの関門）があります。すべての難関を乗り越えることで、最終的にヒット商品として市場で売れる生き残る商品になります。研究段階と開発段階の間の難関は「魔の川」、開発段階・事業化段階の間の難関は「死の谷」、事業化段階と産業化段階の間の難関を「ダーウィンの海」といいます。\n\nア. 囚人のジレンマとは「個人の利益を追求することが、必ずしも全体の利益の追求にはならない」ということを示す、ゲーム理論の概念です。\n\nウ. ファイアウォールとは、インターネットを通じた不正アクセスから社内ネットワークを守るための仕組みです。\n\nエ. ファイブフォースとは、自社を脅かす5つの脅威（新規参入、買い手、売り手、代替品、競合）です。",
+                "vi": "B. Từ khi sản phẩm ra thị trường đến khi thắng cạnh tranh với sản phẩm đối thủ có 4 giai đoạn: (1) nghiên cứu → (2) phát triển → (3) thương mại hóa → (4) công nghiệp hóa, và giữa mỗi giai đoạn có rào cản (3 cửa ải). Vượt qua tất cả thử thách sẽ trở thành sản phẩm hit tồn tại trên thị trường. Thử thách giữa nghiên cứu và phát triển là Sông Ma, giữa phát triển và thương mại hóa là Thung lũng Chết, giữa thương mại hóa và công nghiệp hóa là Biển Darwin.\n\nA. Prisoner's Dilemma là khái niệm lý thuyết trò chơi cho thấy theo đuổi lợi ích cá nhân không nhất thiết dẫn đến lợi ích tổng thể.\n\nC. Firewall là cơ chế bảo vệ mạng nội bộ khỏi truy cập trái phép qua internet.\n\nD. Five Forces là 5 mối đe dọa cho công ty (gia nhập mới, người mua, người bán, sản phẩm thay thế, cạnh tranh).",
+                "en": "B. From product launch to winning competition, there are 4 stages: (1) research → (2) development → (3) commercialization → (4) industrialization, with barriers (3 gates) between each. Overcoming all becomes hit products surviving in market. Barrier between research and development is 'Devil's River', between development and commercialization is 'Valley of Death', between commercialization and industrialization is 'Darwin's Sea'.\n\nA. Prisoner's Dilemma is a game theory concept showing individual profit pursuit doesn't necessarily lead to overall profit.\n\nC. Firewall protects internal networks from unauthorized internet access.\n\nD. Five Forces are 5 threats to companies (new entrants, buyers, sellers, substitutes, competitors)."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-12",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "ウ. 設問のシステムを要約すると、膨大なデータから、将来の販売量を予測するシステムであることがわかります。このことを前提に各選択肢の正誤を判断します。\n\nア. 誤り。データはすでに蓄積されているので、データの収集は必要ありません。\n\nイ. 誤り。仮想現実技術は、販売予想とは関係がありません。\n\nエ. 正しい。ディープラーニングは、大量のデータから将来を予測するのに活用できます。\n\nウ. 誤り。表計算ソフトでは膨大なデータは処理できません。\n\nよって、ウが正解となります。",
+                "vi": "C. Tóm tắt hệ thống trong đề bài, đây là hệ thống dự đoán lượng bán tương lai từ dữ liệu khổng lồ. Dựa trên điều này để phán đoán đúng sai của các lựa chọn.\n\nA. Sai. Dữ liệu đã được tích lũy nên không cần thu thập dữ liệu.\n\nB. Sai. Công nghệ thực tế ảo không liên quan đến dự báo bán hàng.\n\nD. Sai. Phần mềm bảng tính không thể xử lý dữ liệu khổng lồ.\n\nC. Đúng. Deep Learning có thể sử dụng để dự đoán tương lai từ lượng lớn dữ liệu.\n\nDo đó, C là đáp án đúng.",
+                "en": "C. Summarizing the system in the question, it predicts future sales from massive data. Based on this, judge each option.\n\nA. Incorrect. Data is already accumulated, so collection isn't needed.\n\nB. Incorrect. VR technology is unrelated to sales forecasting.\n\nD. Incorrect. Spreadsheet software can't process massive data.\n\nC. Correct. Deep learning can predict future from large amounts of data.\n\nTherefore, C is correct."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "4-10, 4-11, 4-12"
+    }
+}

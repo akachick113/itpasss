@@ -1,0 +1,354 @@
+{
+  "page_id": 462,
+  "image": "p_0462.png",
+  "chapter": 12,
+  "section": "12-05",
+  "page_number": 446,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "その他の情報デザインに関する用語",
+        "vi": "Thuật ngữ khác liên quan đến thiết kế thông tin",
+        "en": "Other Information Design Terms"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "term": {
+            "ja": "デザインの原則",
+            "vi": "Nguyên tắc thiết kế",
+            "en": "Design Principles"
+          },
+          "description": {
+            "ja": "近接、整列、反復、対比の4つを用いて、見る人にとってわかりやすいデザインを実現するための基本的な考え方。",
+            "vi": "Cách suy nghĩ cơ bản để thực hiện thiết kế dễ hiểu cho người xem bằng cách sử dụng 4 yếu tố: gần gũi, căn chỉnh, lặp lại, tương phản.",
+            "en": "Basic concept for achieving design easy to understand for viewers using 4 elements: proximity, alignment, repetition, contrast."
+          }
+        },
+        {
+          "term": {
+            "ja": "シグニファイア",
+            "vi": "Signifier",
+            "en": "Signifier"
+          },
+          "description": {
+            "ja": "ユーザーの適切な行動を誘発する手がかり。例えば、ドアノブの形状はそのものをひねるのか、引くのかなどの手がかりになる。",
+            "vi": "Manh mối kích thích hành động phù hợp của người dùng. Ví dụ, hình dạng tay nắm cửa là manh mối cho biết nên xoay hay kéo.",
+            "en": "Clue that triggers appropriate user action. For example, doorknob shape is clue for whether to twist or pull."
+          }
+        },
+        {
+          "term": {
+            "ja": "サムネイル",
+            "vi": "Thumbnail",
+            "en": "Thumbnail"
+          },
+          "description": {
+            "ja": "画像や動画の内容を簡潔に伝えるための小さな見本画像。",
+            "vi": "Hình ảnh mẫu nhỏ để truyền đạt ngắn gọn nội dung của hình ảnh hoặc video.",
+            "en": "Small sample image to briefly convey content of images or videos."
+          }
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ソフトウェアの権利とオープンソースソフトウェア",
+      "vi": "Quyền phần mềm và Phần mềm mã nguồn mở",
+      "en": "Software Rights and Open Source Software"
+    },
+    {
+      "type": "paragraph",
+      "ja": "第2章の「02-01 3つの知的財産権」で解説したように、プログラムは著作権法で保護されています（p.57）。すべてのソフトウェアはプログラムで作られているので、ソフトウェアも著作権法で保護されます。そのため、ソフトウェアを使用する場合は、そのソフトウェアのライセンス（使用許諾）を得る必要があります。",
+      "vi": "Như đã giải thích trong \"02-01 3 loại quyền sở hữu trí tuệ\" của Chương 2, chương trình được bảo vệ bởi luật bản quyền (trang 57). Vì tất cả phần mềm được tạo bằng chương trình, nên phần mềm cũng được bảo vệ bởi luật bản quyền. Vì vậy, khi sử dụng phần mềm, cần có giấy phép (cho phép sử dụng) của phần mềm đó.",
+      "en": "As explained in '02-01 3 Types of Intellectual Property Rights' of Chapter 2, programs are protected by copyright law (p.57). Since all software is made with programs, software is also protected by copyright law. Therefore, when using software, need to obtain that software's license (usage permission).",
+      "terms": [
+        {
+          "kanji": "第",
+          "reading": "だい"
+        },
+        {
+          "kanji": "章",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "知的財産権",
+          "reading": "ちてきざいさんけん"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "著作権法",
+          "reading": "ちょさくけんほう"
+        },
+        {
+          "kanji": "保護",
+          "reading": "ほご"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "使用許諾",
+          "reading": "しようきょだく"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "オープンソースソフトウェア",
+      "vi": "Phần mềm mã nguồn mở",
+      "en": "Open Source Software"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ただし、ソフトウェアのなかには、著作権の扱いが通常の商用ソフトウェアと異なるものがあります。それが「オープンソースソフトウェア」です。オープンソースソフトウェア（Open Source Software：OSS）とは、ソースコードが公開されていて、改良や再配布が自由に行えるソフトウェアです。ITパスポート試験では「OSS」と表記されることが多いので暗記も覚えておいてください。",
+      "vi": "Tuy nhiên, trong số các phần mềm, có những phần mềm có cách xử lý bản quyền khác với phần mềm thương mại thông thường. Đó là \"Phần mềm mã nguồn mở\". Phần mềm mã nguồn mở (Open Source Software: OSS) là phần mềm có mã nguồn được công khai, có thể cải tiến và phân phối lại tự do. Trong kỳ thi IT Passport, thường được ký hiệu là \"OSS\" nên hãy nhớ.",
+      "en": "However, among software, some have different copyright handling than normal commercial software. That is 'Open Source Software.' Open Source Software (OSS) is software with publicly available source code, freely improvable and redistributable. In IT Passport exam, often written as 'OSS' so remember.",
+      "terms": [
+        {
+          "kanji": "著作権",
+          "reading": "ちょさくけん"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "商用",
+          "reading": "しょうよう"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "公開",
+          "reading": "こうかい"
+        },
+        {
+          "kanji": "改良",
+          "reading": "かいりょう"
+        },
+        {
+          "kanji": "再配布",
+          "reading": "さいはいふ"
+        },
+        {
+          "kanji": "自由",
+          "reading": "じゆう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "表記",
+          "reading": "ひょうき"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "暗記",
+          "reading": "あんき"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "ja": "（1）OSSの具体例",
+      "vi": "(1) Ví dụ cụ thể về OSS",
+      "en": "(1) Specific OSS Examples"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、OSSの具体例が出題されることがあります。OSSの主な具体例は下表のとおりです。基本的に、下表の通り、ほとんどの用途のソフトウェアにOSSがあります。",
+      "vi": "Trong kỳ thi IT Passport, ví dụ cụ thể về OSS có thể được ra đề. Các ví dụ cụ thể chính về OSS như bảng dưới. Về cơ bản, như bảng dưới, hầu hết mọi mục đích sử dụng đều có OSS.",
+      "en": "In IT Passport exam, specific OSS examples may appear. Main specific OSS examples are in table below. Basically, as in table, almost every software purpose has OSS.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "下表",
+          "reading": "かひょう"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        },
+        {
+          "kanji": "用途",
+          "reading": "ようと"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "OSSの具体例",
+        "vi": "Ví dụ cụ thể về OSS",
+        "en": "Specific OSS Examples"
+      },
+      "headers": {
+        "ja": [
+          "用途",
+          "OSSの代表例"
+        ],
+        "vi": [
+          "Mục đích sử dụng",
+          "Ví dụ tiêu biểu của OSS"
+        ],
+        "en": [
+          "Purpose",
+          "Typical OSS Examples"
+        ]
+      },
+      "rows": [
+        {
+          "purpose": {
+            "ja": "OS",
+            "vi": "Hệ điều hành",
+            "en": "OS"
+          },
+          "examples": "Android, Linux, FreeBSD"
+        },
+        {
+          "purpose": {
+            "ja": "HTTPサーバ",
+            "vi": "Máy chủ HTTP",
+            "en": "HTTP Server"
+          },
+          "examples": "Apache"
+        },
+        {
+          "purpose": {
+            "ja": "メールソフト",
+            "vi": "Phần mềm thư",
+            "en": "Email Software"
+          },
+          "examples": "Thunderbird"
+        },
+        {
+          "purpose": {
+            "ja": "Webブラウザ",
+            "vi": "Trình duyệt Web",
+            "en": "Web Browser"
+          },
+          "examples": "Firefox"
+        },
+        {
+          "purpose": {
+            "ja": "関係データベース管理システム（RDBMS）",
+            "vi": "Hệ thống quản lý cơ sở dữ liệu quan hệ (RDBMS)",
+            "en": "Relational Database Management System (RDBMS)"
+          },
+          "examples": "MySQL"
+        }
+      ],
+      "note": {
+        "ja": "この具体例がよく出題されも！",
+        "vi": "Ví dụ cụ thể này hay được ra đề!",
+        "en": "These specific examples often appear!"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "オープンソースソフトウェア",
+      "vi": "Phần mềm mã nguồn mở",
+      "en": "Open Source Software",
+      "my": "အိုပင် ဆော့စ် ဆော့ဖ်ဝဲ"
+    },
+    {
+      "term": "OSS",
+      "full": "Open Source Software",
+      "vi": "OSS (Phần mềm mã nguồn mở)",
+      "en": "OSS (Open Source Software)",
+      "my": "အိုအက်စ်အက်စ်"
+    },
+    {
+      "term": "ソースコード",
+      "vi": "Mã nguồn",
+      "en": "Source Code",
+      "my": "ဆော့စ် ကုဒ်"
+    },
+    {
+      "term": "ライセンス",
+      "vi": "Giấy phép",
+      "en": "License",
+      "my": "လိုင်စင်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "is_key_content": true
+  }
+}

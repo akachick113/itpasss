@@ -1,0 +1,233 @@
+{
+  "page_id": 185,
+  "image": "p_0185.png",
+  "chapter": 4,
+  "section": "04-06",
+  "page_number": 169,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "民生機器とは、一般家庭で使われる電化製品です（いわゆる家電）。具体例としては、電子レンジ、エアコンなどです。また、産業機器とは、産業用に使われる機器です。具体例としては、産業用ロボット、自動販売機などです。",
+      "vi": "Thiết bị tiêu dùng là sản phẩm điện tử được sử dụng trong gia đình thông thường (thiết bị gia dụng). Ví dụ cụ thể là lò vi sóng, điều hòa. Thiết bị công nghiệp là thiết bị dùng cho công nghiệp. Ví dụ cụ thể là robot công nghiệp, máy bán hàng tự động.",
+      "en": "Consumer devices are electrical products used in regular households (so-called home appliances). Specific examples are microwave ovens, air conditioners. Industrial devices are devices used for industry. Specific examples are industrial robots, vending machines.",
+      "my": "Consumer devices သည် သာမန်အိမ်ထောင်စုများတွင် အသုံးပြုသော လျှပ်စစ်ထုတ်ကုန်များဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "民生機器",
+          "reading": "みんせいきき"
+        },
+        {
+          "kanji": "一般家庭",
+          "reading": "いっぱんかてい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "電化製品",
+          "reading": "でんかせいひん"
+        },
+        {
+          "kanji": "家電",
+          "reading": "かでん"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "電子",
+          "reading": "でんし"
+        },
+        {
+          "kanji": "産業機器",
+          "reading": "さんぎょうきき"
+        },
+        {
+          "kanji": "産業用",
+          "reading": "さんぎょうよう"
+        },
+        {
+          "kanji": "機器",
+          "reading": "きき"
+        },
+        {
+          "kanji": "自動販売機",
+          "reading": "じどうはんばいき"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "組込みソフトウェア",
+      "reading": "くみこみそふとうぇあ",
+      "vi": "Phần mềm nhúng",
+      "en": "Embedded Software"
+    },
+    {
+      "type": "paragraph",
+      "ja": "組込みシステム（マイクロコンピュータ）の中の、読み出し専用の記憶装置（ROM）にインストールされたソフトウェアのことを「組込みソフトウェア（ファームウェア）」と呼びます。なぜ読み出し専用（つまり、書き換えができない）記憶装置に書き込んで出荷するのかというと、ユーザーが誤ってソフトウェアを上書きしてしまうのを防ぐためです。組込みソフトウェアは書き換えられることが想定されていないので「ファーム（固定した）ウェア」とも呼ばれます。",
+      "vi": "Phần mềm được cài đặt trong thiết bị lưu trữ chỉ đọc (ROM) trong Embedded System (Microcomputer) được gọi là Embedded Software (Firmware). Lý do ghi vào thiết bị lưu trữ chỉ đọc (tức là không thể ghi đè) để xuất xưởng là để ngăn người dùng vô tình ghi đè phần mềm. Embedded Software được gọi là Firmware (phần mềm cố định) vì không dự định được ghi đè.",
+      "en": "Software installed in read-only memory (ROM) within Embedded Systems (Microcomputers) is called 'Embedded Software (Firmware)'. The reason for shipping on read-only (non-rewritable) storage is to prevent users from accidentally overwriting software. Embedded Software is also called 'Firmware' (fixed-ware) because it's not intended to be rewritten.",
+      "my": "Embedded Systems (Microcomputers) အတွင်း read-only memory (ROM) တွင် ထည့်သွင်းထားသော Software ကို Embedded Software (Firmware) ဟုခေါ်သည်။",
+      "terms": [
+        {
+          "kanji": "組込",
+          "reading": "くみこみ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "専用",
+          "reading": "せんよう"
+        },
+        {
+          "kanji": "記憶装置",
+          "reading": "きおくそうち"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "換",
+          "reading": "かん"
+        },
+        {
+          "kanji": "込",
+          "reading": "こみ"
+        },
+        {
+          "kanji": "出荷",
+          "reading": "しゅっか"
+        },
+        {
+          "kanji": "誤",
+          "reading": "ご"
+        },
+        {
+          "kanji": "上書",
+          "reading": "じょうしょ"
+        },
+        {
+          "kanji": "防",
+          "reading": "ぼう"
+        },
+        {
+          "kanji": "想定",
+          "reading": "そうてい"
+        },
+        {
+          "kanji": "固定",
+          "reading": "こてい"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・Society 5.0は「仮想空間」と「現実空間」を融合させたシステム\n・組込みシステムとは、特定の機能を実現するシステムである（ハードウェア+ソフトウェア）\n・組込みソフトウェアとは、特定の機能を実現するためのソフトウェアである",
+        "vi": "・Society 5.0 là hệ thống tích hợp không gian ảo và không gian thực\n・Embedded System là hệ thống thực hiện chức năng cụ thể (Hardware + Software)\n・Embedded Software là phần mềm để thực hiện chức năng cụ thể",
+        "en": "・Society 5.0 is a system integrating 'virtual space' and 'real space'\n・Embedded System is a system that realizes specific functions (Hardware + Software)\n・Embedded Software is software to realize specific functions",
+        "my": "・ Society 5.0 သည် 'virtual space' နှင့် 'real space' ပေါင်းစပ်ထားသော စနစ်ဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "仮想空間",
+            "reading": "かそうくうかん"
+          },
+          {
+            "kanji": "現実空間",
+            "reading": "げんじつくうかん"
+          },
+          {
+            "kanji": "融合",
+            "reading": "ゆうごう"
+          },
+          {
+            "kanji": "組込",
+            "reading": "くみこみ"
+          },
+          {
+            "kanji": "特定",
+            "reading": "とくてい"
+          },
+          {
+            "kanji": "機能",
+            "reading": "きのう"
+          },
+          {
+            "kanji": "実現",
+            "reading": "じつげん"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "民生機器",
+      "reading": "みんせいきき",
+      "romaji": "Minsei Kiki",
+      "vi": "Thiết bị tiêu dùng",
+      "en": "Consumer Device",
+      "my": "Consumer Device"
+    },
+    {
+      "kanji": "産業機器",
+      "reading": "さんぎょうきき",
+      "romaji": "Sangyou Kiki",
+      "vi": "Thiết bị công nghiệp",
+      "en": "Industrial Device",
+      "my": "Industrial Device"
+    },
+    {
+      "kanji": "組込みソフトウェア",
+      "reading": "くみこみそふとうぇあ",
+      "romaji": "Kumikomi Software",
+      "vi": "Phần mềm nhúng",
+      "en": "Embedded Software",
+      "my": "Embedded Software"
+    },
+    {
+      "kanji": "ファームウェア",
+      "reading": "ふぁーむうぇあ",
+      "romaji": "Firmware",
+      "vi": "Firmware",
+      "en": "Firmware",
+      "my": "Firmware"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

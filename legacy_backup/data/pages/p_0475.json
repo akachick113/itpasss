@@ -1,0 +1,356 @@
+{
+  "page_id": 475,
+  "image": "p_0475.png",
+  "chapter": 13,
+  "section": "13-02",
+  "page_number": 459,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "この図を見て「第12章で学習した表計算ソフトと似ているな」と感じた人も多いと思います。その印象は正しいです。表計算ソフトと関係データベースはともに、データを「表」で管理するという点で同じです。この点はぜひ覚えておいてください。",
+      "vi": "Nhìn hình này, nhiều người chắc cảm thấy \"giống với phần mềm bảng tính đã học ở Chương 12\". Ấn tượng đó đúng. Phần mềm bảng tính và cơ sở dữ liệu quan hệ đều giống nhau ở điểm quản lý dữ liệu bằng \"bảng\". Hãy nhớ điểm này.",
+      "en": "Looking at this diagram, many may feel 'similar to spreadsheet software learned in Chapter 12.' That impression is correct. Spreadsheet software and relational database are same in managing data with 'table.' Please remember this point.",
+      "terms": [
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "第",
+          "reading": "だい"
+        },
+        {
+          "kanji": "章",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "表計算",
+          "reading": "ひょうけいさん"
+        },
+        {
+          "kanji": "似",
+          "reading": "じ"
+        },
+        {
+          "kanji": "感",
+          "reading": "かん"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "印象",
+          "reading": "いんしょう"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "行と列",
+      "vi": "Hàng và Cột",
+      "en": "Rows and Columns"
+    },
+    {
+      "type": "paragraph",
+      "ja": "表は、行（レコード）と列（属性）で構成されます。",
+      "vi": "Bảng được cấu thành từ hàng (bản ghi) và cột (thuộc tính).",
+      "en": "Table consists of rows (records) and columns (attributes).",
+      "terms": [
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "属性",
+          "reading": "ぞくせい"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "表、行、列",
+        "vi": "Bảng, Hàng, Cột",
+        "en": "Table, Row, Column"
+      },
+      "description": {
+        "ja": "表の構造：列（属性）は学生番号、学生名、電話番号。行（レコード）は3人の学生データ。「行」と「列」で構成される「表」を示す",
+        "vi": "Cấu trúc bảng: Cột (thuộc tính) là Mã sinh viên, Tên sinh viên, Số điện thoại. Hàng (bản ghi) là dữ liệu của 3 sinh viên. Hiển thị \"bảng\" được cấu thành từ \"hàng\" và \"cột\"",
+        "en": "Table structure: Columns (attributes) are Student ID, Student Name, Phone Number. Rows (records) are 3 students' data. Shows 'table' consisting of 'rows' and 'columns'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "上図の表には3つの行があります（3人の学生が登録されています）。このデータベースに学生を1人追加すると、行が1つ増えます。",
+      "vi": "Bảng trong hình trên có 3 hàng (3 sinh viên được đăng ký). Nếu thêm 1 sinh viên vào cơ sở dữ liệu này, hàng sẽ tăng thêm 1.",
+      "en": "Table above has 3 rows (3 students registered). If adding 1 student to this database, rows increase by 1.",
+      "terms": [
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "学生",
+          "reading": "がくせい"
+        },
+        {
+          "kanji": "登録",
+          "reading": "とうろく"
+        },
+        {
+          "kanji": "人追加",
+          "reading": "にんついか"
+        },
+        {
+          "kanji": "増",
+          "reading": "ぞう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "また、この表には「学生番号」「学生名」「電話番号」の3つの列が定義されています。列はデータの属性（特徴や性質）を表します。",
+      "vi": "Ngoài ra, bảng này có 3 cột được định nghĩa: \"Mã sinh viên\", \"Tên sinh viên\", \"Số điện thoại\". Cột biểu thị thuộc tính (đặc điểm và tính chất) của dữ liệu.",
+      "en": "Also, this table has 3 columns defined: 'Student ID,' 'Student Name,' 'Phone Number.' Columns represent data attributes (characteristics and properties).",
+      "terms": [
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "学生番号",
+          "reading": "がくせいばんごう"
+        },
+        {
+          "kanji": "学生名",
+          "reading": "がくせいめい"
+        },
+        {
+          "kanji": "電話番号",
+          "reading": "でんわばんごう"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "属性",
+          "reading": "ぞくせい"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "性質",
+          "reading": "せいしつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "行と列には次の相違点があります。",
+      "vi": "Có những điểm khác biệt sau giữa hàng và cột.",
+      "en": "Following differences exist between rows and columns.",
+      "terms": [
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "相違点",
+          "reading": "そういてん"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "データが追加されると、行は1つ増えるが、列は変わらない",
+          "vi": "Khi dữ liệu được thêm, hàng tăng 1 nhưng cột không thay đổi",
+          "en": "When data added, rows increase by 1 but columns don't change"
+        },
+        {
+          "ja": "行には名前がないが、列には「列名（属性名）」がある",
+          "vi": "Hàng không có tên, nhưng cột có \"tên cột (tên thuộc tính)\"",
+          "en": "Rows have no names, but columns have 'column names (attribute names)'"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "列名とは、上図では「学生番号」「学生名」「電話番号」の3つです。行にはこういった名前はなく、純粋にデータのみで構成されます。",
+      "vi": "Tên cột là 3 tên \"Mã sinh viên\", \"Tên sinh viên\", \"Số điện thoại\" trong hình trên. Hàng không có tên như vậy, chỉ được cấu thành thuần túy từ dữ liệu.",
+      "en": "Column names are 'Student ID,' 'Student Name,' 'Phone Number' in above diagram. Rows have no such names, consisting purely of data.",
+      "terms": [
+        {
+          "kanji": "列名",
+          "reading": "れつめい"
+        },
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "学生番号",
+          "reading": "がくせいばんごう"
+        },
+        {
+          "kanji": "学生名",
+          "reading": "がくせいめい"
+        },
+        {
+          "kanji": "電話番号",
+          "reading": "でんわばんごう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "純粋",
+          "reading": "じゅんすい"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "用語には別の名前がある",
+        "vi": "Thuật ngữ có tên khác",
+        "en": "Terms Have Other Names",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ITパスポート試験では、表のことを「テーブル」、行のことを「レコード」、列のことを「属性」と呼ぶことがあるので注意してください。",
+        "vi": "Trong kỳ thi IT Passport, bảng được gọi là \"Table\", hàng được gọi là \"Record\", cột được gọi là \"Thuộc tính\", nên hãy chú ý.",
+        "en": "In IT Passport exam, table may be called 'Table,' row called 'Record,' column called 'Attribute,' so be careful."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "行",
+      "reading": "ぎょう",
+      "vi": "Hàng",
+      "en": "Row",
+      "my": "ရိုး"
+    },
+    {
+      "term": "列",
+      "reading": "れつ",
+      "vi": "Cột",
+      "en": "Column",
+      "my": "ကော်လံ"
+    },
+    {
+      "term": "レコード",
+      "vi": "Bản ghi (Record)",
+      "en": "Record",
+      "my": "ရီကော့"
+    },
+    {
+      "term": "属性",
+      "reading": "ぞくせい",
+      "vi": "Thuộc tính",
+      "en": "Attribute",
+      "my": "အတ္ထရီဘျု"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_note_box": true,
+    "is_key_content": true
+  }
+}

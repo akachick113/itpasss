@@ -1,0 +1,236 @@
+{
+  "page_id": 518,
+  "image": "p_0518.png",
+  "chapter": 14,
+  "section": "14-04",
+  "page_number": 502,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "インターネットがはじまった当時は、「アドレスは43億個もあれば十分だろう」と考えられていましたが、インターネットが爆発的に普及し、またスマートフォンやタブレットを筆頭に、さまざまな機器がインターネットにつながるようになった現在では、到底43億個ではたりません。現在では携帯電話だけでも75億台あるといわれています。",
+      "vi": "Khi Internet mới bắt đầu, người ta nghĩ \"43 tỷ địa chỉ là đủ rồi\", nhưng với sự phổ biến bùng nổ của Internet, và nhiều thiết bị khác nhau như smartphone, tablet kết nối Internet, hiện tại 43 tỷ hoàn toàn không đủ. Hiện tại chỉ riêng điện thoại di động đã có 7,5 tỷ chiếc.",
+      "en": "When Internet started, thought '4.3 billion addresses should be enough,' but with explosive spread of Internet, and various devices like smartphones and tablets connecting to Internet, currently 4.3 billion is far from enough. Currently just mobile phones alone are said to be 7.5 billion.",
+      "terms": [
+        {
+          "kanji": "当時",
+          "reading": "とうじ"
+        },
+        {
+          "kanji": "億個",
+          "reading": "おくこ"
+        },
+        {
+          "kanji": "十分",
+          "reading": "じゅうぶん"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "爆発的",
+          "reading": "ばくはつてき"
+        },
+        {
+          "kanji": "普及",
+          "reading": "ふきゅう"
+        },
+        {
+          "kanji": "筆頭",
+          "reading": "ひっとう"
+        },
+        {
+          "kanji": "機器",
+          "reading": "きき"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "到底",
+          "reading": "とうてい"
+        },
+        {
+          "kanji": "携帯電話",
+          "reading": "けいたいでんわ"
+        },
+        {
+          "kanji": "億台",
+          "reading": "おくだい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "この「IPアドレスの枯渇問題」を解決するために登場したのが、IPv6です。IPv6は、IPv4に代わる次世代のIPアドレス（インターネットプロトコル）です。",
+      "vi": "Cái xuất hiện để giải quyết \"Vấn đề cạn kiệt địa chỉ IP\" này là IPv6. IPv6 là địa chỉ IP (giao thức Internet) thế hệ tiếp theo thay thế IPv4.",
+      "en": "What appeared to solve this 'IP Address exhaustion problem' is IPv6. IPv6 is next-generation IP Address (Internet Protocol) replacing IPv4.",
+      "terms": [
+        {
+          "kanji": "枯渇問題",
+          "reading": "こかつもんだい"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        },
+        {
+          "kanji": "代",
+          "reading": "だい"
+        },
+        {
+          "kanji": "次世代",
+          "reading": "じせだい"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！IPv5はどこへ？",
+        "vi": "Chi tiết hơn! IPv5 đi đâu?",
+        "en": "More Details! Where is IPv5?"
+      },
+      "content": {
+        "ja": "IPv4やIPv6の「v」は「Version（バージョン）」という意味です。現在主に使われているIPアドレスはIPv4、つまりIPバージョン4です。IPv6はIPバージョン6です。ちなみに「IPv5」はどこへいったのかというと、実際に存在したのですが、使われないことはなくなりました。",
+        "vi": "\"v\" trong IPv4 và IPv6 có nghĩa là \"Version (Phiên bản)\". Địa chỉ IP chủ yếu được sử dụng hiện tại là IPv4, tức là IP phiên bản 4. IPv6 là IP phiên bản 6. Nhân tiện, \"IPv5\" đã đi đâu thì thực sự nó đã tồn tại, nhưng không còn được sử dụng nữa.",
+        "en": "'v' in IPv4 and IPv6 means 'Version.' IP Address mainly used currently is IPv4, meaning IP version 4. IPv6 is IP version 6. By the way, 'IPv5' where did it go, it actually existed but is no longer used."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "IPv6のアドレス総数の表記法",
+      "vi": "Ký pháp tổng số địa chỉ IPv6",
+      "en": "IPv6 Total Address Notation"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "IPv6",
+        "vi": "IPv6",
+        "en": "IPv6"
+      },
+      "definition": {
+        "ja": "IPv6は、128桁の2進数（128ビット）で構成されているので、アドレスの総数は340兆の1兆倍の1兆倍（2の128乗）になります。この数は、IPv4の2の96乗であり、地球上に転がっている石よりも多いといわれています。ほぼ無限大ともいえましょう。これだけの数があれば、IPアドレスは今後枯渇することはないでしょう。",
+        "vi": "IPv6 được cấu thành từ số nhị phân 128 chữ số (128 bit), nên tổng số địa chỉ là 340 nghìn tỷ × 1 nghìn tỷ × 1 nghìn tỷ (2 mũ 128). Số này là 2 mũ 96 lần IPv4, được cho là nhiều hơn cả đá trên Trái Đất. Có thể nói là gần như vô hạn. Với số lượng này, địa chỉ IP sẽ không cạn kiệt trong tương lai.",
+        "en": "IPv6 is composed of 128-digit binary (128 bits), so total number of addresses is 340 trillion × 1 trillion × 1 trillion (2 to 128th power). This number is 2 to 96th power of IPv4, said to be more than stones on Earth. Can be said to be nearly infinite. With this many, IP Address will not be exhausted in future."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、IPv4とIPv6ではIPアドレスの表記法が異なります。",
+      "vi": "Ngoài ra, IPv4 và IPv6 có ký pháp địa chỉ IP khác nhau.",
+      "en": "Also, IPv4 and IPv6 have different IP Address notations.",
+      "terms": [
+        {
+          "kanji": "表記法",
+          "reading": "ひょうきほう"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "IPv4は、8ビットごとに「.」（ピリオド）で区切って10進数で表す（例）13.112.248.159",
+          "vi": "IPv4 dùng \".\" (dấu chấm) ngăn cách mỗi 8 bit, biểu thị bằng số thập phân (Ví dụ) 13.112.248.159",
+          "en": "IPv4 separates every 8 bits with '.' (period), expressed in decimal (Ex) 13.112.248.159"
+        },
+        {
+          "ja": "IPv6は、16ビットごとに「:」（コロン）で区切って16進数で表す（例）2001:0DB8:013D:2002:48FF:FE9A:A2C7:385C",
+          "vi": "IPv6 dùng \":\" (dấu hai chấm) ngăn cách mỗi 16 bit, biểu thị bằng số thập lục phân (Ví dụ) 2001:0DB8:013D:2002:48FF:FE9A:A2C7:385C",
+          "en": "IPv6 separates every 16 bits with ':' (colon), expressed in hexadecimal (Ex) 2001:0DB8:013D:2002:48FF:FE9A:A2C7:385C"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、IPv6へ移行するのは大変なので、実際にはまだIPv4のほうが主流です。",
+      "vi": "Ngoài ra, vì việc chuyển sang IPv6 khó khăn, thực tế IPv4 vẫn là chủ đạo.",
+      "en": "Also, since migrating to IPv6 is difficult, actually IPv4 is still mainstream.",
+      "terms": [
+        {
+          "kanji": "移行",
+          "reading": "いこう"
+        },
+        {
+          "kanji": "大変",
+          "reading": "たいへん"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "主流",
+          "reading": "しゅりゅう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "IPv4は、32ビットで構成される",
+          "vi": "IPv4 được cấu thành từ 32 bit",
+          "en": "IPv4 is composed of 32 bits"
+        },
+        {
+          "ja": "IPv6は、128ビットで構成される",
+          "vi": "IPv6 được cấu thành từ 128 bit",
+          "en": "IPv6 is composed of 128 bits"
+        },
+        {
+          "ja": "IPv6を使うと、IPアドレスの枯渇（不足）を回避できる",
+          "vi": "Sử dụng IPv6 có thể tránh được sự cạn kiệt (thiếu hụt) địa chỉ IP",
+          "en": "Using IPv6 can avoid IP Address exhaustion (shortage)"
+        },
+        {
+          "ja": "IPv6のアドレス総数はIPv4の2の96乗倍",
+          "vi": "Tổng số địa chỉ IPv6 là gấp 2 mũ 96 lần IPv4",
+          "en": "IPv6 total address count is 2 to 96th power times IPv4"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "IPv6",
+      "vi": "IPv6 (Phiên bản 6)",
+      "en": "IPv6 (Version 6)",
+      "my": "IPv6 (ဗားရှင်း ၆)"
+    },
+    {
+      "term": "枯渇",
+      "reading": "こかつ",
+      "vi": "Cạn kiệt",
+      "en": "Exhaustion",
+      "my": "ကုန်ဆိုးသွားလာခြင်း"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

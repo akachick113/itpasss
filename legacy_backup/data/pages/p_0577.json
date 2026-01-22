@@ -1,0 +1,238 @@
+{
+  "page_id": 577,
+  "image": "p_0577.png",
+  "chapter": 15,
+  "section": "15-06",
+  "page_number": 561,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "VPN",
+      "vi": "VPN",
+      "en": "VPN"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "VPN",
+        "vi": "VPN",
+        "en": "VPN"
+      },
+      "full_name": "Virtual Private Network",
+      "definition": {
+        "ja": "VPN（Virtual Private Network）とは、インターネットなどの公共の通信回線を、あたかも専用回線のように利用できる技術です。ITパスポート試験では「公衆回線を、あたかも専用回線であるかのごとく利用できるようにするために使われる技術」という表現で出題されることがあります。",
+        "vi": "VPN (Virtual Private Network) là công nghệ cho phép sử dụng đường truyền công cộng như Internet như thể là đường truyền chuyên dụng. Trong kỳ thi IT Passport, có thể được ra đề với cụm từ \"công nghệ được sử dụng để có thể sử dụng đường truyền công cộng như thể là đường truyền chuyên dụng\".",
+        "en": "VPN (Virtual Private Network) is technology allowing public communication lines like Internet to be used as if dedicated lines. In IT Passport exam, may appear as 'technology used to enable using public lines as if dedicated lines.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "VPNを使用すると、専用回線よりも低いコストで、外出先からでもインターネット経由で、職場のネットワークに安全にアクセスできます。",
+      "vi": "Khi sử dụng VPN, có thể truy cập an toàn vào mạng công ty qua Internet từ bên ngoài với chi phí thấp hơn đường truyền chuyên dụng.",
+      "en": "Using VPN, can safely access workplace network via Internet from outside at lower cost than dedicated lines.",
+      "terms": [
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "専用回線",
+          "reading": "せんようかいせん"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "外出先",
+          "reading": "がいしゅつさき"
+        },
+        {
+          "kanji": "経由",
+          "reading": "けいゆ"
+        },
+        {
+          "kanji": "職場",
+          "reading": "しょくば"
+        },
+        {
+          "kanji": "安全",
+          "reading": "あんぜん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ペネトレーションテスト",
+      "vi": "Penetration Test",
+      "en": "Penetration Test"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ペネトレーションテスト",
+        "vi": "Penetration Test",
+        "en": "Penetration Test"
+      },
+      "definition": {
+        "ja": "ペネトレーションテストとは、実際にシステムを攻撃することで、セキュリティ上の弱点を発見するテスト手法です。ITパスポート試験では「システムに対して、実際に攻撃して侵入を試みることで、セキュリティ上の弱点を発見すること」という文章で出題されることがあります。",
+        "vi": "Penetration Test là phương pháp kiểm tra phát hiện điểm yếu bảo mật bằng cách thực sự tấn công hệ thống. Trong kỳ thi IT Passport, có thể được ra đề với câu \"phát hiện điểm yếu bảo mật bằng cách thực sự tấn công và thử xâm nhập vào hệ thống\".",
+        "en": "Penetration Test is test method discovering security weaknesses by actually attacking system. In IT Passport exam, may appear as 'discovering security weaknesses by actually attacking and attempting to infiltrate system.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ワンタイムパスワード",
+      "vi": "One-Time Password",
+      "en": "One-Time Password"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ワンタイムパスワード",
+        "vi": "Mật khẩu một lần",
+        "en": "One-Time Password"
+      },
+      "definition": {
+        "ja": "ワンタイムパスワードとは、一度しか使えない使い捨てのパスワードです。ITパスポート試験では「利用者が認証の際に使用するパスワードに、一度しか使えない使い捨てのパスワードを使うことで、不正アクセスを防止する仕組み」という文章で出題されることがあります。",
+        "vi": "One-Time Password là mật khẩu dùng một lần chỉ có thể sử dụng một lần. Trong kỳ thi IT Passport, có thể được ra đề với câu \"cơ chế ngăn chặn truy cập trái phép bằng cách sử dụng mật khẩu dùng một lần chỉ có thể sử dụng một lần cho mật khẩu người dùng sử dụng khi xác thực\".",
+        "en": "One-Time Password is disposable password that can only be used once. In IT Passport exam, may appear as 'mechanism preventing unauthorized access by using disposable password that can only be used once for password user uses during authentication.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "シングルサインオン",
+      "vi": "Single Sign-On",
+      "en": "Single Sign-On"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "シングルサインオン",
+        "vi": "Single Sign-On",
+        "en": "Single Sign-On"
+      },
+      "definition": {
+        "ja": "シングルサインオンとは、一度の認証で複数のアプリケーションやWebサービスを利用できる仕組みです。ITパスポート試験では「一度の認証で、許可されている複数のサーバやアプリケーションなどを利用できる仕組み」という文章で出題されることがあります。",
+        "vi": "Single Sign-On là cơ chế cho phép sử dụng nhiều ứng dụng hoặc dịch vụ Web với một lần xác thực. Trong kỳ thi IT Passport, có thể được ra đề với câu \"cơ chế cho phép sử dụng nhiều server hoặc ứng dụng được phép với một lần xác thực\".",
+        "en": "Single Sign-On is mechanism allowing use of multiple applications or Web services with one authentication. In IT Passport exam, may appear as 'mechanism allowing use of multiple permitted servers or applications with one authentication.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "従来のシステムでは、Webサービスごとにユーザー名とパスワードを入力して認証を行いますが、シングルサインオンを使用すると、一度認証を受けるだけで、許可されている他のWebサービスも利用できるので便利です。",
+      "vi": "Trong hệ thống truyền thống, nhập tên người dùng và mật khẩu để xác thực cho từng dịch vụ Web, nhưng khi sử dụng Single Sign-On, chỉ cần xác thực một lần là có thể sử dụng các dịch vụ Web được phép khác nên rất tiện lợi.",
+      "en": "In traditional systems, enter username and password for authentication for each Web service, but using Single Sign-On, only need to authenticate once to use other permitted Web services, which is convenient.",
+      "terms": [
+        {
+          "kanji": "従来",
+          "reading": "じゅうらい"
+        },
+        {
+          "kanji": "名",
+          "reading": "めい"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "認証",
+          "reading": "にんしょう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "一度認証",
+          "reading": "いちどにんしょう"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "許可",
+          "reading": "きょか"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "便利",
+          "reading": "べんり"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "耐タンパ性",
+      "vi": "Tính chống giả mạo",
+      "en": "Tamper Resistance"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "耐タンパ性",
+        "vi": "Tính chống giả mạo",
+        "en": "Tamper Resistance"
+      },
+      "definition": {
+        "ja": "耐タンパ性とは、システムの内部データの解析のしにくさを表す度合いです。例えば、みなさんが持っている銀行のキャッシュカードや乗車券カードにはICチップが埋め込まれています。このICチップには耐タンパ性を高めるためにさまざまな工夫が施されています。「タンパ（Tamper」とは「改ざん」という意味です。",
+        "vi": "Tamper Resistance là mức độ thể hiện độ khó phân tích dữ liệu nội bộ của hệ thống. Ví dụ, thẻ ngân hàng hoặc thẻ đi tàu của bạn có chip IC được nhúng vào. Chip IC này được thiết kế nhiều cách để tăng tính chống giả mạo. \"Tamper\" có nghĩa là \"sửa đổi\".",
+        "en": "Tamper Resistance is degree showing difficulty of analyzing system's internal data. For example, bank cash cards or transit cards you have have IC chips embedded. These IC chips have various measures to increase tamper resistance. 'Tamper' means 'falsification.'"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "VPN",
+      "full": "Virtual Private Network",
+      "vi": "Mạng riêng ảo",
+      "en": "Virtual Private Network",
+      "my": "အဗာဝွဲ ကိုယ်ရေးကွန်ရက်"
+    },
+    {
+      "term": "ペネトレーションテスト",
+      "vi": "Penetration Test (Kiểm tra xâm nhập)",
+      "en": "Penetration Test",
+      "my": "ထိုးဖောက်စမ်းသပ်"
+    },
+    {
+      "term": "ワンタイムパスワード",
+      "vi": "Mật khẩu một lần",
+      "en": "One-Time Password",
+      "my": "တစ်ခါသုံး စကားဝှက်"
+    },
+    {
+      "term": "シングルサインオン",
+      "vi": "Single Sign-On",
+      "en": "Single Sign-On",
+      "my": "တစ်ခါဝင်ရုံး"
+    },
+    {
+      "term": "耐タンパ性",
+      "vi": "Tính chống giả mạo",
+      "en": "Tamper Resistance",
+      "my": "ဖြင့်စီခံနိုင်စွမ်း"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

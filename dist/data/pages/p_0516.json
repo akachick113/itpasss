@@ -1,0 +1,159 @@
+{
+  "page_id": 516,
+  "image": "p_0516.png",
+  "chapter": 14,
+  "section": "14-04",
+  "page_number": 500,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "DNSとは",
+      "vi": "DNS là gì",
+      "en": "What is DNS"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ドメイン名は人間が扱うために用意されている文字列であって、コンピュータの効率を上げるために用意されているわけではありません。コンピュータにとってはドメイン名よりも、IPアドレスのほうがはるかに扱いやすい値です。",
+      "vi": "Tên miền là chuỗi ký tự được chuẩn bị để con người xử lý, không phải được chuẩn bị để nâng cao hiệu suất của máy tính. Đối với máy tính, địa chỉ IP dễ xử lý hơn nhiều so với tên miền.",
+      "en": "Domain Name is character string prepared for humans to handle, not prepared to increase computer efficiency. For computers, IP Address is much easier to handle than Domain Name.",
+      "terms": [
+        {
+          "kanji": "名",
+          "reading": "めい"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "用意",
+          "reading": "ようい"
+        },
+        {
+          "kanji": "文字列",
+          "reading": "もじれつ"
+        },
+        {
+          "kanji": "効率",
+          "reading": "こうりつ"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このため、みなさんがブラウザのアドレスバーにドメイン名を入力すると「DNS」と呼ばれる仕組みが、ドメイン名をIPアドレスに変換します。",
+      "vi": "Vì vậy, khi mọi người nhập tên miền vào thanh địa chỉ của trình duyệt, cơ chế gọi là \"DNS\" chuyển đổi tên miền thành địa chỉ IP.",
+      "en": "Therefore, when you input Domain Name in browser address bar, mechanism called 'DNS' converts Domain Name to IP Address.",
+      "terms": [
+        {
+          "kanji": "名",
+          "reading": "めい"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "DNSの概念図",
+        "vi": "Sơ đồ khái niệm DNS",
+        "en": "DNS Concept Diagram"
+      },
+      "description": {
+        "ja": "①ドメイン名をブラウザのアドレスバーに入力（www.example.co.jp）→ ②ドメイン名に対応するIPアドレスを問い合わせる → ③IPアドレスを返す（13.112.248.159）→ ④IPアドレスでWebサーバを指定 → ⑤処理結果を送る → ⑥処理結果を表示",
+        "vi": "①Nhập tên miền vào thanh địa chỉ (www.example.co.jp) → ②Truy vấn địa chỉ IP tương ứng với tên miền → ③Trả về địa chỉ IP (13.112.248.159) → ④Chỉ định Web server bằng địa chỉ IP → ⑤Gửi kết quả xử lý → ⑥Hiển thị kết quả xử lý",
+        "en": "①Input Domain Name in address bar (www.example.co.jp) → ②Query IP Address corresponding to Domain Name → ③Return IP Address (13.112.248.159) → ④Specify Web server with IP Address → ⑤Send processing result → ⑥Display processing result"
+      }
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "DNS",
+        "vi": "DNS",
+        "en": "DNS"
+      },
+      "definition": {
+        "ja": "DNS（Domain Name System）とは、ドメイン名をIPアドレスに変換するシステムです（IPアドレスをドメイン名に変換することもあります）。ITパスポート試験では「ドメイン名とIPアドレスを対応させる仕組み」という文章で出題されることがあります。",
+        "vi": "DNS (Domain Name System) là hệ thống chuyển đổi tên miền thành địa chỉ IP (đôi khi cũng chuyển đổi địa chỉ IP thành tên miền). Trong kỳ thi IT Passport, có thể ra đề bằng câu \"cơ chế liên kết tên miền với địa chỉ IP\".",
+        "en": "DNS (Domain Name System) is system converting Domain Name to IP Address (sometimes also converts IP Address to Domain Name). In IT Passport exam, may appear as 'mechanism matching Domain Name and IP Address.'"
+      }
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "DNSは現実世界における「電話帳」",
+        "vi": "DNS là \"Danh bạ điện thoại\" trong thế giới thực",
+        "en": "DNS is 'Phone Book' in Real World",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "人間にわかりやすいように数字の羅列に名前を対応付ける！",
+        "vi": "Liên kết tên với chuỗi số để con người dễ hiểu!",
+        "en": "Match names to number sequences for human understanding!"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "DNSとは、ドメイン名とIPアドレスを対応させる仕組みである",
+          "vi": "DNS là cơ chế liên kết tên miền với địa chỉ IP",
+          "en": "DNS is mechanism matching Domain Name and IP Address"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "DNS",
+      "full": "Domain Name System",
+      "vi": "DNS (Hệ thống tên miền)",
+      "en": "DNS (Domain Name System)",
+      "my": "DNS (ဒိုမိန်းအမည် စနစ်)"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

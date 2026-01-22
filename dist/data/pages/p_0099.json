@@ -1,0 +1,281 @@
+{
+  "page_id": 99,
+  "image": "p_0099.png",
+  "chapter": 2,
+  "section": "02-05",
+  "page_number": 83,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・個人情報は目的以外には使わない\n・本人の同意なしに第三者に渡さない。ただし、生命の危険があるときは渡してよい\n・さらに、目的達成のための業務委託先は第三者には当たらない\n・ただし、個人情報取扱事業者は業務委託先を監督する義務がある",
+        "vi": "・Không sử dụng thông tin cá nhân ngoài mục đích\n・Không chuyển cho bên thứ ba mà không có sự đồng ý. Tuy nhiên, có thể chuyển khi có nguy hiểm tính mạng\n・Hơn nữa, bên ủy thác để đạt mục đích không phải là bên thứ ba\n・Tuy nhiên, nhà xử lý có nghĩa vụ giám sát bên ủy thác",
+        "en": "・Don't use personal information beyond intended purpose\n・Don't give to third parties without consent. But can give when life is in danger\n・Outsourcing partners for achieving purposes are not third parties\n・However, handlers must supervise outsourcing partners",
+        "my": "・ ကိုယ်ရေးအချက်အလက်ကို ရည်ရွယ်ချက်အပြင် အသုံးမပြုပါနှင့်",
+        "terms": [
+          {
+            "kanji": "個人情報",
+            "reading": "こじんじょうほう"
+          },
+          {
+            "kanji": "目的以外",
+            "reading": "もくてきいがい"
+          },
+          {
+            "kanji": "使",
+            "reading": "つか"
+          },
+          {
+            "kanji": "本人",
+            "reading": "ほんにん"
+          },
+          {
+            "kanji": "同意",
+            "reading": "どうい"
+          },
+          {
+            "kanji": "第三者",
+            "reading": "だいさんしゃ"
+          },
+          {
+            "kanji": "渡",
+            "reading": "わたり"
+          },
+          {
+            "kanji": "生命",
+            "reading": "せいめい"
+          },
+          {
+            "kanji": "危険",
+            "reading": "きけん"
+          },
+          {
+            "kanji": "目的達成",
+            "reading": "もくてきたっせい"
+          },
+          {
+            "kanji": "業務委託先",
+            "reading": "ぎょうむいたくさき"
+          },
+          {
+            "kanji": "当",
+            "reading": "とう"
+          },
+          {
+            "kanji": "個人情報取扱事業者",
+            "reading": "こじんじょうほうとりあつかいじぎょうしゃ"
+          },
+          {
+            "kanji": "監督",
+            "reading": "かんとく"
+          },
+          {
+            "kanji": "義務",
+            "reading": "ぎむ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "GDPR",
+      "reading": "じーでぃーぴーあーる",
+      "vi": "GDPR",
+      "en": "GDPR",
+      "my": "GDPR"
+    },
+    {
+      "type": "paragraph",
+      "ja": "日本以外の地域にも個人情報保護法に似た規則があります。ITパスポート試験で出題されるのはEU（欧州連合）におけるデータ保護規則である「GDPR」です。\n\nGDPR（General Data Protection Regulation：一般データ保護規則）は、EU内の個人データの保護に関する規則です。GDPRがITパスポート試験で出題されるのは、企業の拠点が日本にある場合でもGDPRが適用されるケースがあるからです。\n\nGDPRは、基本的にはEU内に拠点がある事業者に対して適用されるものですが、EU外に拠点がある事業者でもEU内の個人データを取り扱う場合はGDPRが適用されます。",
+      "vi": "Các khu vực ngoài Nhật Bản cũng có quy định tương tự Luật bảo vệ thông tin cá nhân. IT Passport ra đề về GDPR - quy định bảo vệ dữ liệu của EU (Liên minh Châu Âu).\n\nGDPR (General Data Protection Regulation: Quy định chung về bảo vệ dữ liệu) là quy định về bảo vệ dữ liệu cá nhân trong EU. GDPR được ra đề vì có trường hợp GDPR được áp dụng ngay cả khi doanh nghiệp có trụ sở tại Nhật Bản.\n\nGDPR cơ bản được áp dụng cho doanh nghiệp có trụ sở trong EU, nhưng doanh nghiệp có trụ sở ngoài EU xử lý dữ liệu cá nhân trong EU cũng phải tuân thủ GDPR.",
+      "en": "Regions outside Japan also have regulations similar to Personal Information Protection Law. IT Passport tests GDPR - the EU's data protection regulation.\n\nGDPR (General Data Protection Regulation) is a regulation protecting personal data within EU. GDPR is tested because it can apply even when companies are based in Japan.\n\nGDPR basically applies to businesses based within EU, but businesses outside EU handling EU personal data must also comply with GDPR.",
+      "my": "ဂျပန်ပြင်ပဒေသများတွင်လည်း Personal Information Protection Law နှင့်ဆင်တူသော စည်းမျဉ်းများရှိသည်။",
+      "terms": [
+        {
+          "kanji": "日本以外",
+          "reading": "にほんいがい"
+        },
+        {
+          "kanji": "地域",
+          "reading": "ちいき"
+        },
+        {
+          "kanji": "個人情報保護法",
+          "reading": "こじんじょうほうほごほう"
+        },
+        {
+          "kanji": "似",
+          "reading": "じ"
+        },
+        {
+          "kanji": "規則",
+          "reading": "きそく"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "欧州連合",
+          "reading": "おうしゅうれんごう"
+        },
+        {
+          "kanji": "保護規則",
+          "reading": "ほごきそく"
+        },
+        {
+          "kanji": "一般",
+          "reading": "いっぱん"
+        },
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "個人",
+          "reading": "こじん"
+        },
+        {
+          "kanji": "保護",
+          "reading": "ほご"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "拠点",
+          "reading": "きょてん"
+        },
+        {
+          "kanji": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "適用",
+          "reading": "てきよう"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "事業者",
+          "reading": "じぎょうしゃ"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "外",
+          "reading": "そと"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "GDPRの適用範囲",
+      "vi": "Phạm vi áp dụng của GDPR",
+      "en": "GDPR Applicability Scope"
+    },
+    {
+      "type": "paragraph",
+      "ja": "EU外の事業者でも、EU内の個人データを取り扱う場合はGDPRが適用される。GDPRが適用されないのは「EU外の事業者」で「EU外の個人データ」を取り扱う場合。",
+      "vi": "Doanh nghiệp ngoài EU xử lý dữ liệu cá nhân trong EU cũng phải tuân thủ GDPR. GDPR không áp dụng khi doanh nghiệp ngoài EU xử lý dữ liệu cá nhân ngoài EU.",
+      "en": "Even businesses outside EU must comply with GDPR when handling EU personal data. GDPR doesn't apply when businesses outside EU handle personal data outside EU.",
+      "my": "EU ပြင်ပလုပ်ငန်းများပင် EU ကိုယ်ရေးအချက်အလက်ကို ကိုင်တွယ်သောအခါ GDPR ကို လိုက်နာရမည်။",
+      "terms": [
+        {
+          "kanji": "外",
+          "reading": "そと"
+        },
+        {
+          "kanji": "事業者",
+          "reading": "じぎょうしゃ"
+        },
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "個人",
+          "reading": "こじん"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "適用",
+          "reading": "てきよう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "GDPR",
+      "reading": "じーでぃーぴーあーる",
+      "romaji": "GDPR",
+      "vi": "Quy định chung về bảo vệ dữ liệu",
+      "en": "General Data Protection Regulation",
+      "my": "GDPR"
+    },
+    {
+      "kanji": "EU",
+      "reading": "いーゆー",
+      "romaji": "EU",
+      "vi": "Liên minh Châu Âu",
+      "en": "European Union",
+      "my": "ဥရောပသမဂ္ဂ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

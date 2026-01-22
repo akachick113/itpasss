@@ -1,0 +1,46 @@
+{
+    "page_id": 69,
+    "image": "p_0069.png",
+    "chapter": 1,
+    "section": "answers",
+    "page_number": 53,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "1-18",
+            "answer": "エ",
+            "explanation": {
+                "ja": "設問中の「利益」は当期純利益のことです。ROEは「当期純利益 ÷ 自己資本 × 100」で表されます。\n\nア. ROA（Return On Assets：総資本利益率）の説明です。\nイ. ROI（Return On Investment：投資利益率）の説明です。\nウ. PER（Price Earnings Ratio：株価収益率）の説明です。",
+                "vi": "\"Lợi nhuận\" trong câu hỏi là lợi nhuận ròng. ROE được biểu thị bằng \"Lợi nhuận ròng ÷ Vốn tự có × 100\".\n\nア. Là giải thích về ROA (Return On Assets: Tỷ suất lợi nhuận trên tổng tài sản).\nイ. Là giải thích về ROI (Return On Investment: Tỷ suất lợi nhuận đầu tư).\nウ. Là giải thích về PER (Price Earnings Ratio: Hệ số giá/thu nhập).",
+                "en": "\"Profit\" in the question refers to net profit. ROE is expressed as \"Net profit ÷ Equity × 100\".\n\nA. Explains ROA (Return On Assets: Total capital profit ratio).\nB. Explains ROI (Return On Investment: Investment profit ratio).\nC. Explains PER (Price Earnings Ratio: Stock price earnings ratio)."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-19",
+            "answer": "ア",
+            "explanation": {
+                "ja": "財務諸表とは、主に「貸借対照表」「損益計算書」「キャッシュフロー計算書」の3つです。このうち現金の出入りを3つに分類して計算した書類がキャッシュフロー計算書です。\n\nイ. 損益計算書とは、企業の利益が記載された書類です。\nウ. 貸借対照表とは、企業の全財産が記載された表です。\nエ. 有価証券報告書とは、上場している企業に開示が義務付けられた、事業内容が記載された書類です。",
+                "vi": "Báo cáo tài chính chủ yếu gồm 3 loại: \"Bảng cân đối kế toán\", \"Báo cáo kết quả kinh doanh\", \"Báo cáo lưu chuyển tiền tệ\". Trong số này, báo cáo lưu chuyển tiền tệ là tài liệu phân loại và tính toán dòng tiền vào/ra thành 3 loại.\n\nイ. Báo cáo kết quả kinh doanh là tài liệu ghi lợi nhuận doanh nghiệp.\nウ. Bảng cân đối kế toán là bảng ghi toàn bộ tài sản doanh nghiệp.\nエ. Báo cáo chứng khoán là tài liệu ghi nội dung kinh doanh, bắt buộc công khai với doanh nghiệp niêm yết.",
+                "en": "Financial statements are mainly 3 types: \"Balance Sheet\", \"Income Statement\", \"Cash Flow Statement\". Among these, Cash Flow Statement classifies and calculates cash inflows/outflows into 3 categories.\n\nB. Income Statement records company profits.\nC. Balance Sheet records all company assets.\nD. Securities Report is a document disclosing business content, mandatory for listed companies."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-20",
+            "answer": "ア",
+            "explanation": {
+                "ja": "一次式（回帰直線）を使って、過去のデータがどのような原因によって引き起こされているのかを分析し、将来を予測する手法は「回帰分析」です。\n\nイ. 線形計画法とは、与えられた条件から最大の効果を得るための解を求める手法です。\nウ. デルファイ法とは、専門家の意見を集約して将来の予測や意思決定を行う手法です。\nエ. パレート分析とは、件数の棒グラフと累積比率の折れ線グラフで構成されるパレート図を用いて、各データの重要性や優先順位を分析する手法です。",
+                "vi": "Phương pháp sử dụng phương trình bậc nhất (đường hồi quy) để phân tích nguyên nhân gây ra dữ liệu quá khứ và dự đoán tương lai là \"Phân tích hồi quy\".\n\nイ. Quy hoạch tuyến tính là phương pháp tìm giải pháp để đạt hiệu quả tối đa từ các điều kiện cho trước.\nウ. Phương pháp Delphi là phương pháp tổng hợp ý kiến chuyên gia để dự đoán tương lai và ra quyết định.\nエ. Phân tích Pareto là phương pháp phân tích mức độ quan trọng và thứ tự ưu tiên của dữ liệu bằng biểu đồ Pareto gồm biểu đồ cột số lượng và biểu đồ đường tỷ lệ tích lũy.",
+                "en": "The method using linear equations (regression lines) to analyze causes behind past data and predict the future is \"Regression Analysis\".\n\nB. Linear programming finds solutions for maximum effect from given conditions.\nC. Delphi method aggregates expert opinions for future predictions and decision-making.\nD. Pareto analysis uses Pareto charts with count bar graphs and cumulative ratio line graphs to analyze data importance and priority."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "1-18, 1-19, 1-20"
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "page_id": 161,
+    "image": "p_0161.png",
+    "chapter": 4,
+    "section": "questions",
+    "page_number": 145,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "4-9",
+            "year": "令和5年度",
+            "question": {
+                "ja": "ある銀行では、システムの接続仕様を外部に公開し、あらかじめ契約を結んだ外部事業者のアクセスを認めることによって、利便性の高い、高度なサービスを展開しやすくしている。このような取組を表す用語として、最も適切なものはどれか。",
+                "vi": "Một ngân hàng công khai đặc tả kết nối hệ thống ra bên ngoài và cho phép truy cập của doanh nghiệp bên ngoài đã ký hợp đồng trước, để dễ dàng triển khai dịch vụ tiện lợi và cao cấp. Thuật ngữ phù hợp nhất thể hiện hoạt động như vậy là gì?",
+                "en": "A bank publishes system connection specifications externally and allows access from pre-contracted external businesses, making it easier to deploy convenient and advanced services. Which term most appropriately represents such initiatives?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "BPO",
+                    "vi": "BPO",
+                    "en": "BPO"
+                },
+                {
+                    "label": "イ",
+                    "ja": "RPA",
+                    "vi": "RPA",
+                    "en": "RPA"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "オープンAPI",
+                    "vi": "Open API",
+                    "en": "Open API",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "技術経営",
+                    "vi": "Quản lý công nghệ",
+                    "en": "Technology Management"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-10",
+            "year": "令和5年度",
+            "question": {
+                "ja": "記述a〜cのうち、「人間中心のAI社会原則」において、AIが社会に受け入れられ、適正に利用されるために、社会が留意すべき事項として記されているものだけを全て挙げたものはどれか。\n\na. AIの利用に当たっては、人が判別方法を判断し決定するのではなく、AIが自律的に判断し決定できるよう、AIそのものを高度化しなければならない。\n\nb. AIの利用は、憲法及び国際的な規範の保障する基本的人権を侵害するものであってはならない。\n\nc. AIを早期に普及させるために、まず高度な情報リテラシーを保有する者に向けたシステムを実現し、その後、情報弱者もAIの恩恵を享受できるシステムを実現するなど、段階的に発展させていかなくてはならない。",
+                "vi": "Trong các mô tả a~c, đâu là tất cả các mục được ghi chú là điều xã hội cần lưu ý để AI được xã hội chấp nhận và sử dụng phù hợp trong Nguyên tắc xã hội AI lấy con người làm trung tâm?\n\na. Khi sử dụng AI, không phải con người phán đoán và quyết định phương pháp phân biệt mà phải nâng cao AI để AI tự phán đoán và quyết định.\n\nb. Việc sử dụng AI không được xâm phạm nhân quyền cơ bản được bảo đảm bởi hiến pháp và quy phạm quốc tế.\n\nc. Để phổ biến AI sớm, trước tiên thực hiện hệ thống cho người có hiểu biết thông tin cao, sau đó thực hiện hệ thống cho người yếu thế thông tin cũng được hưởng lợi từ AI, phát triển theo từng giai đoạn.",
+                "en": "Of descriptions a~c, which are all items noted as things society should keep in mind for AI to be accepted and properly used in 'Human-Centered AI Social Principles'?\n\na. When using AI, instead of humans judging and deciding methods, AI itself must be enhanced to judge and decide autonomously.\n\nb. AI use must not violate basic human rights guaranteed by constitution and international norms.\n\nc. To spread AI quickly, first create systems for those with high information literacy, then systems for the information-disadvantaged to also benefit from AI, developing in stages."
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "a, b",
+                    "vi": "a, b",
+                    "en": "a, b"
+                },
+                {
+                    "label": "イ",
+                    "ja": "a, b, c",
+                    "vi": "a, b, c",
+                    "en": "a, b, c"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "b",
+                    "vi": "b",
+                    "en": "b",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "b, c",
+                    "vi": "b, c",
+                    "en": "b, c"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-11",
+            "year": "令和2年度",
+            "question": {
+                "ja": "技術経営における新事業創出のプロセスを、研究、開発、事業化、産業化の四つに分類したとき、事業化と産業化を達成し、企業の実績に貢献するためには、新市場の立上げや類製品などの障壁がある。この障壁を意味する用語として、最も適切なものはどれか。",
+                "vi": "Khi phân loại quy trình tạo kinh doanh mới trong quản lý công nghệ thành 4 giai đoạn: nghiên cứu, phát triển, thương mại hóa, công nghiệp hóa, để đạt được thương mại hóa và công nghiệp hóa và đóng góp vào thành tích doanh nghiệp, có rào cản như khởi động thị trường mới và sản phẩm tương tự. Thuật ngữ phù hợp nhất thể hiện rào cản này là gì?",
+                "en": "When classifying the new business creation process in technology management into 4 stages: research, development, commercialization, industrialization, there are barriers like new market launch and similar products to achieve commercialization and industrialization and contribute to company results. Which term most appropriately represents this barrier?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "囚人のジレンマ",
+                    "vi": "Prisoner's Dilemma",
+                    "en": "Prisoner's Dilemma"
+                },
+                {
+                    "label": "イ",
+                    "ja": "ダーウィンの海",
+                    "vi": "Biển Darwin",
+                    "en": "Darwin's Sea",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ファイアウォール",
+                    "vi": "Firewall",
+                    "en": "Firewall"
+                },
+                {
+                    "label": "エ",
+                    "ja": "ファイブフォース",
+                    "vi": "Five Forces",
+                    "en": "Five Forces"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-12",
+            "year": "令和2年度",
+            "question": {
+                "ja": "コンビニエンスストアを全国にチェーン展開するA社では、過去10年間にわたる各店舗の詳細な販売データが本部に蓄積されている。これらの販売データ、過去10年間の気象データ、及び各店舗近隣のイベント情報と関連を分析して、気象条件や、イベント情報と商品の販売量との関連性を把握し、1週間先までの天気予報とイベント情報から店舗ごとの販売予想をより高い精度で行うシステムを構築したい。このとき活用する技術として、最も適切なものはどれか。",
+                "vi": "Công ty A triển khai chuỗi cửa hàng tiện lợi toàn quốc, bộ phận trung tâm tích lũy dữ liệu bán hàng chi tiết của mỗi cửa hàng trong 10 năm qua. Muốn phân tích mối liên quan giữa dữ liệu bán hàng này, dữ liệu thời tiết 10 năm qua và thông tin sự kiện gần cửa hàng, nắm bắt mối liên quan giữa điều kiện thời tiết, thông tin sự kiện và lượng bán hàng, xây dựng hệ thống dự báo bán hàng theo từng cửa hàng với độ chính xác cao hơn từ dự báo thời tiết 1 tuần và thông tin sự kiện. Công nghệ phù hợp nhất để sử dụng là gì?",
+                "en": "Company A operates convenience store chains nationwide, with detailed sales data from each store accumulated at headquarters for 10 years. Want to analyze relationships between this sales data, 10-year weather data, and event information near each store, understand relationships between weather conditions, event information and sales volume, and build a system to forecast sales per store with higher accuracy from week-ahead weather forecasts and event info. Which technology is most appropriate to use?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "IoTを用いたセンサーなどから自動データ収集技術",
+                    "vi": "Công nghệ thu thập dữ liệu tự động từ cảm biến sử dụng IoT",
+                    "en": "Automatic data collection technology from sensors using IoT"
+                },
+                {
+                    "label": "イ",
+                    "ja": "仮想空間で現実のような体験を感じることができる仮想現実技術",
+                    "vi": "Công nghệ thực tế ảo cho phép trải nghiệm như thực trong không gian ảo",
+                    "en": "Virtual reality technology enabling real-like experiences in virtual space"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ディープラーニングなどのAI技術",
+                    "vi": "Công nghệ AI như Deep Learning",
+                    "en": "AI technology like deep learning",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "表計算ソフトを用いて統計分析などを行う技術",
+                    "vi": "Công nghệ phân tích thống kê sử dụng phần mềm bảng tính",
+                    "en": "Technology for statistical analysis using spreadsheet software"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "questions_covered": "4-9, 4-10, 4-11, 4-12",
+        "answers": "4-9: ウ, 4-10: ウ, 4-11: イ, 4-12: ウ"
+    }
+}

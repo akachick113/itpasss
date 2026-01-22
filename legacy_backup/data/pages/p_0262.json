@@ -1,0 +1,253 @@
+{
+  "page_id": 262,
+  "image": "p_0262.png",
+  "chapter": 6,
+  "section": "06-07",
+  "page_number": 246,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "でシステムに手直しが生じた場合、不具合のあった工程まで戻ってやり直さなければなりません。",
+      "vi": "Nếu hệ thống cần sửa đổi, phải quay lại công đoạn có lỗi và làm lại.",
+      "en": "If the system needs fixes, you must go back to the phase with the problem and redo it.",
+      "terms": [
+        {
+          "kanji": "手直",
+          "reading": "てちょく"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "不具合",
+          "reading": "ふぐあい"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        },
+        {
+          "kanji": "直",
+          "reading": "ちょく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このため、何らかの理由（システムの仕様変更や、要件定義の不備の発覚など）",
+      "vi": "Do đó, vì lý do nào đó (thay đổi thông số hệ thống, phát hiện thiếu sót trong định nghĩa yêu cầu, v.v.)",
+      "en": "Therefore, for some reason (system specification changes, discovering requirements definition deficiencies, etc.)",
+      "terms": [
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "理由",
+          "reading": "りゆう"
+        },
+        {
+          "kanji": "仕様変更",
+          "reading": "しようへんこう"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "不備",
+          "reading": "ふび"
+        },
+        {
+          "kanji": "発覚",
+          "reading": "はっかく"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ウォーターフォールモデル",
+        "vi": "Waterfall Model",
+        "en": "Waterfall Model"
+      },
+      "flow": {
+        "ja": "要件定義 → システム設計 → プログラミング → テスト",
+        "vi": "Định nghĩa yêu cầu → Thiết kế hệ thống → Lập trình → Kiểm thử",
+        "en": "Requirements Definition → System Design → Programming → Testing"
+      },
+      "description": {
+        "ja": "滝のように上から下へ一方向に流れる",
+        "vi": "Chảy một chiều từ trên xuống dưới như thác nước",
+        "en": "Flows one-way from top to bottom like a waterfall"
+      }
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "用語に注意",
+        "vi": "Chú ý thuật ngữ",
+        "en": "Note on Terminology",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ITパスポート試験ではウォーターフォールモデルの最初の工程として「要件定義」という用語が使われることがあります。この「要件定義」は前項で解説した「システム要件定義」のことです（p.228）。SLCPの「要件定義プロセス」ではないので注意してください（p.210）。",
+        "vi": "Trong kỳ thi IT Passport, thuật ngữ \"Định nghĩa yêu cầu\" đôi khi được dùng như công đoạn đầu tiên của Waterfall Model. \"Định nghĩa yêu cầu\" này là \"Định nghĩa yêu cầu hệ thống\" đã giải thích ở mục trước (trang 228). Chú ý không phải \"Quy trình định nghĩa yêu cầu\" của SLCP (trang 210).",
+        "en": "In IT Passport exam, 'Requirements Definition' is sometimes used as the first phase of Waterfall Model. This 'Requirements Definition' refers to 'System Requirements Definition' explained in the previous section (p.228). Note it's not SLCP's 'Requirements Definition Process' (p.210)."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のような、ウォーターフォールモデルのデメリットを解決するために誕生したのが「アジャイル開発」です。",
+      "vi": "Để giải quyết nhược điểm của Waterfall Model như trên, \"Agile Development\" đã ra đời.",
+      "en": "To solve the demerits of Waterfall Model mentioned above, 'Agile Development' was born.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "誕生",
+          "reading": "たんじょう"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "アジャイル開発",
+      "reading": "あじゃいるかいはつ",
+      "vi": "Agile Development",
+      "en": "Agile Development",
+      "note": {
+        "ja": "必修用語！",
+        "vi": "Thuật ngữ bắt buộc!",
+        "en": "Required term!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "アジャイル開発とは、開発する機能を小さい単位に分割して、優先度の高いものから短期間に開発とリリースを繰り返す開発モデルです。アジャイル（Agile）とは「素早い」という意味です。",
+      "vi": "Agile Development là mô hình phát triển chia chức năng phát triển thành đơn vị nhỏ, lặp lại phát triển và release trong thời gian ngắn từ những cái có ưu tiên cao. Agile có nghĩa là \"nhanh nhẹn\".",
+      "en": "Agile Development is a development model that divides functions to develop into small units and repeatedly develops and releases in short periods starting from high-priority items. Agile means 'quick/nimble.'",
+      "terms": [
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "小",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "単位",
+          "reading": "たんい"
+        },
+        {
+          "kanji": "分割",
+          "reading": "ぶんかつ"
+        },
+        {
+          "kanji": "優先度",
+          "reading": "ゆうせんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "短期間",
+          "reading": "たんきかん"
+        },
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "素早",
+          "reading": "もとそう"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "アジャイル開発",
+        "vi": "Agile Development",
+        "en": "Agile Development"
+      },
+      "description": {
+        "ja": "開発とリリースを繰り返す！",
+        "vi": "Lặp lại phát triển và release!",
+        "en": "Repeat development and release!"
+      },
+      "iterations": [
+        {
+          "ja": "開発 → リリース",
+          "vi": "Phát triển → Release",
+          "en": "Development → Release"
+        },
+        {
+          "ja": "開発 → リリース",
+          "vi": "Phát triển → Release",
+          "en": "Development → Release"
+        },
+        {
+          "ja": "開発 → リリース",
+          "vi": "Phát triển → Release",
+          "en": "Development → Release"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "アジャイル開発",
+      "reading": "あじゃいるかいはつ",
+      "romaji": "Agile Kaihatsu",
+      "vi": "Phát triển Agile",
+      "en": "Agile Development",
+      "my": "အန်မှိ ဖွံ့ဖြိုးမှု"
+    },
+    {
+      "kanji": "リリース",
+      "reading": "りりーす",
+      "romaji": "Release",
+      "vi": "Phát hành",
+      "en": "Release",
+      "my": "ထုတ်ပြန်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true
+  }
+}

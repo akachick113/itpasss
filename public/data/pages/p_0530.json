@@ -1,0 +1,162 @@
+{
+    "page_id": 530,
+    "image": "p_0530.png",
+    "chapter": 14,
+    "section": "Practice",
+    "page_number": 514,
+    "content": [
+        {
+            "type": "practice_question",
+            "number": "14-5",
+            "year": "平成23年度",
+            "question": {
+                "ja": "プロトコルに関する記述のうち、適切なものはどれか。",
+                "vi": "Trong các mô tả về giao thức, cái nào phù hợp?",
+                "en": "Among descriptions about protocols, which is appropriate?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "HTMLは、Webデータを送受信するためのプロトコルである。",
+                        "vi": "HTML là giao thức để gửi nhận dữ liệu Web.",
+                        "en": "HTML is protocol for sending/receiving Web data."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "HTTPは、ネットワーク監視のためのプロトコルである。",
+                        "vi": "HTTP là giao thức để giám sát mạng.",
+                        "en": "HTTP is protocol for network monitoring."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "POPは、離れた場所にあるコンピュータを遠隔操作するためのプロトコルである。",
+                        "vi": "POP là giao thức để điều khiển từ xa máy tính ở xa.",
+                        "en": "POP is protocol for remotely operating computer in distant location."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "SMTPは、電子メールを送信するためのプロトコルである。",
+                        "vi": "SMTP là giao thức để gửi email.",
+                        "en": "SMTP is protocol for sending email."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "14-6",
+            "year": "平成31年度",
+            "question": {
+                "ja": "PoEの説明として、適切なものはどれか。",
+                "vi": "Giải thích nào về PoE là phù hợp?",
+                "en": "Which is appropriate explanation of PoE?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "LANケーブルを使って電力を供給する技術であり、電源コンセントがない場所に無線LANのアクセスポイントを設置する場合などで利用される。",
+                        "vi": "Công nghệ cung cấp điện bằng cáp LAN, được sử dụng khi lắp đặt Access Point LAN không dây ở nơi không có ổ cắm điện.",
+                        "en": "Technology supplying power using LAN cable, used when installing wireless LAN access points in places without power outlets."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "既設の電気配線を利用してLANを構築できる技術であり、新たにLANケーブルを敷設しなくてもよい。",
+                        "vi": "Công nghệ có thể xây dựng LAN sử dụng đường dây điện có sẵn, không cần lắp đặt cáp LAN mới.",
+                        "en": "Technology enabling LAN construction using existing electrical wiring, no need to install new LAN cables."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "グローバルアドレスとプライベートアドレスを自動的に変換して転送する技術であり、社内LANとインターネットとの境界で使われる。",
+                        "vi": "Công nghệ tự động chuyển đổi và chuyển tiếp địa chỉ toàn cầu và địa chỉ riêng, được sử dụng ở ranh giới LAN nội bộ và Internet.",
+                        "en": "Technology automatically converting and forwarding global and private addresses, used at boundary between company LAN and Internet."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "通信速度や通信モードを自動判別する技術であり、異なるイーサネット規格が混在しているLAN環境で、ネットワーク機器の最適な通信設定を自動的に行える。",
+                        "vi": "Công nghệ tự động phán đoán tốc độ và chế độ truyền thông, trong môi trường LAN có nhiều tiêu chuẩn Ethernet khác nhau, có thể tự động thực hiện cài đặt truyền thông tối ưu cho thiết bị mạng.",
+                        "en": "Technology automatically determining communication speed and mode, in LAN environment with different Ethernet standards, can automatically perform optimal communication settings for network devices."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "14-7",
+            "year": "平成30年度",
+            "question": {
+                "ja": "IEEE 802.11伝送規格を使用した異なるメーカーの無線LAN製品同士で相互接続性が保証されていることを示すブランド名はどれか。",
+                "vi": "Tên thương hiệu nào cho thấy tính tương thích lẫn nhau được đảm bảo giữa các sản phẩm LAN không dây của các nhà sản xuất khác nhau sử dụng tiêu chuẩn truyền IEEE 802.11?",
+                "en": "Which brand name indicates interoperability is guaranteed between different manufacturers' wireless LAN products using IEEE 802.11 standards?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": "MVNO"
+                },
+                {
+                    "label": "イ",
+                    "text": "NFC"
+                },
+                {
+                    "label": "ウ",
+                    "text": "Wi-Fi"
+                },
+                {
+                    "label": "エ",
+                    "text": "WPA2"
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "14-8",
+            "year": "平成24年度",
+            "question": {
+                "ja": "メールサーバに届いた電子メールをメールソフトで受け取るために使用されるプロトコルはどれか。",
+                "vi": "Giao thức nào được sử dụng để nhận email đến máy chủ thư bằng phần mềm email?",
+                "en": "Which protocol is used to receive email delivered to mail server with email software?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": "DNS"
+                },
+                {
+                    "label": "イ",
+                    "text": "HTTP"
+                },
+                {
+                    "label": "ウ",
+                    "text": "POP3"
+                },
+                {
+                    "label": "エ",
+                    "text": "SMTP"
+                }
+            ]
+        }
+    ],
+    "answer_key": {
+        "14-5": "エ",
+        "14-6": "ア",
+        "14-7": "ウ",
+        "14-8": "ウ"
+    },
+    "meta": {
+        "is_practice": true
+    }
+}

@@ -1,0 +1,214 @@
+{
+  "page_id": 562,
+  "image": "p_0562.png",
+  "chapter": 15,
+  "section": "15-04",
+  "page_number": 546,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "盗み取られてしまう危険性があります。一方、暗号技術を利用すれば、他者に解読されることなく、特定の相手だけに文章を届けることができます。",
+      "vi": "có nguy cơ bị đánh cắp. Mặt khác, nếu sử dụng công nghệ mã hóa, có thể gửi văn bản chỉ đến người nhận cụ thể mà không bị người khác giải mã.",
+      "en": "risk being stolen. On other hand, using encryption technology, can deliver text only to specific recipients without being decrypted by others.",
+      "terms": [
+        {
+          "kanji": "盗",
+          "reading": "とう"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "危険性",
+          "reading": "きけんせい"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "暗号技術",
+          "reading": "あんごうぎじゅつ"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "他者",
+          "reading": "たしゃ"
+        },
+        {
+          "kanji": "解読",
+          "reading": "かいどく"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "相手",
+          "reading": "あいて"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "届",
+          "reading": "とどけ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、平文を暗号文にすることを「暗号化」といい、暗号文を平文に戻すことを「復号」といいます。",
+      "vi": "Ngoài ra, việc chuyển văn bản gốc thành văn bản mã hóa được gọi là \"mã hóa\", và việc chuyển văn bản mã hóa về văn bản gốc được gọi là \"giải mã\".",
+      "en": "Also, converting plaintext to ciphertext is called 'encryption,' and converting ciphertext back to plaintext is called 'decryption.'",
+      "terms": [
+        {
+          "kanji": "平文",
+          "reading": "へいぶん"
+        },
+        {
+          "kanji": "暗号文",
+          "reading": "あんごうぶん"
+        },
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        },
+        {
+          "kanji": "復号",
+          "reading": "ふくごう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "暗号技術",
+        "vi": "Công nghệ mã hóa",
+        "en": "Encryption Technology"
+      },
+      "flow": {
+        "ja": "好きです ⟶ [暗号化] ⟶ OXAOD ⟶ [復号] ⟶ 好きです",
+        "vi": "Anh thích em ⟶ [Mã hóa] ⟶ OXAOD ⟶ [Giải mã] ⟶ Anh thích em",
+        "en": "I like you ⟶ [Encryption] ⟶ OXAOD ⟶ [Decryption] ⟶ I like you"
+      },
+      "labels": {
+        "ja": [
+          "平文",
+          "鍵",
+          "暗号文",
+          "鍵"
+        ],
+        "vi": [
+          "Văn bản gốc",
+          "Khóa",
+          "Văn bản mã hóa",
+          "Khóa"
+        ],
+        "en": [
+          "Plaintext",
+          "Key",
+          "Ciphertext",
+          "Key"
+        ]
+      },
+      "note": {
+        "ja": "※ITパスポート試験では「復号化」とはいわず、単に「復号」といいます。",
+        "vi": "※Trong kỳ thi IT Passport, không nói \"phục hồi hóa\" mà chỉ nói \"giải mã\".",
+        "en": "※In IT Passport exam, not called 'decryptionization' but simply 'decryption.'"
+      }
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！暗号化の対象",
+        "vi": "Chi tiết hơn! Đối tượng mã hóa",
+        "en": "More Details! Encryption Targets"
+      },
+      "content": {
+        "ja": "暗号化の対象には「ディスク」と「ファイル」があります。ディスク暗号化とは、HDDやSSDなどの補助記憶装置の中のデータを丸ごと暗号化することです。一方、ファイル単位で暗号化することをファイル暗号化といいます。",
+        "vi": "Đối tượng mã hóa có \"đĩa\" và \"file\". Mã hóa đĩa là mã hóa toàn bộ dữ liệu trong thiết bị lưu trữ phụ như HDD hoặc SSD. Mặt khác, mã hóa theo đơn vị file được gọi là mã hóa file.",
+        "en": "Encryption targets include 'disk' and 'file.' Disk encryption is encrypting all data in auxiliary storage devices like HDD or SSD. On other hand, encrypting by file unit is called file encryption."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "共通鍵暗号方式",
+      "vi": "Phương thức mã hóa khóa chung",
+      "en": "Symmetric Key Encryption"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "共通鍵暗号方式",
+        "vi": "Phương thức mã hóa khóa chung",
+        "en": "Symmetric Key Encryption"
+      },
+      "definition": {
+        "ja": "共通鍵暗号方式とは、暗号化と復号で同じ鍵を使う暗号化方式です。共通鍵暗号方式は、みなさんの家の玄関の鍵と同じ鍵方式です。鍵を閉めるときと開けるときで同じ鍵を使います。",
+        "vi": "Phương thức mã hóa khóa chung là phương thức mã hóa sử dụng cùng một khóa cho mã hóa và giải mã. Phương thức mã hóa khóa chung giống như khóa cửa nhà của bạn. Sử dụng cùng một khóa khi khóa và mở.",
+        "en": "Symmetric Key Encryption is encryption method using same key for encryption and decryption. Symmetric Key Encryption is like your house door key. Uses same key when locking and unlocking."
+      }
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "共通鍵暗号方式",
+        "vi": "Phương thức mã hóa khóa chung",
+        "en": "Symmetric Key Encryption"
+      },
+      "description": {
+        "ja": "太郎と花子が共通鍵を使って暗号化と復号を行う。次郎は共通鍵を持っていないので暗号文を読めない。",
+        "vi": "Taro và Hanako sử dụng khóa chung để mã hóa và giải mã. Jiro không có khóa chung nên không thể đọc văn bản mã hóa.",
+        "en": "Taro and Hanako use shared key for encryption and decryption. Jiro doesn't have shared key so cannot read ciphertext."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "暗号化",
+      "vi": "Mã hóa",
+      "en": "Encryption",
+      "my": "ကုဒ်ဝှက်ခြင်း"
+    },
+    {
+      "term": "復号",
+      "reading": "ふくごう",
+      "vi": "Giải mã",
+      "en": "Decryption",
+      "my": "ကုဒ်ဖွင့်ခြင်း"
+    },
+    {
+      "term": "暗号文",
+      "vi": "Văn bản mã hóa",
+      "en": "Ciphertext",
+      "my": "ကုဒ်ဝှက်စာ"
+    },
+    {
+      "term": "ディスク暗号化",
+      "vi": "Mã hóa đĩa",
+      "en": "Disk Encryption",
+      "my": "ဒစ်ခ် ကုဒ်ဝှက်ခြင်း"
+    },
+    {
+      "term": "ファイル暗号化",
+      "vi": "Mã hóa file",
+      "en": "File Encryption",
+      "my": "ဖိုင် ကုဒ်ဝှက်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

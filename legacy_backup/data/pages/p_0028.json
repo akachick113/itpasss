@@ -1,0 +1,483 @@
+{
+  "page_id": 28,
+  "image": "p_0028.png",
+  "chapter": 1,
+  "section": "01-01",
+  "page_number": 12,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "01-01",
+      "ja": "企業活動",
+      "reading": "きぎょうかつどう",
+      "vi": "Hoạt động doanh nghiệp",
+      "en": "Corporate Activities",
+      "my": "ကုမ္ပဏီလုပ်ငန်းများ"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "経営者は船長だ！",
+        "vi": "Người quản lý là thuyền trưởng!",
+        "en": "The manager is the captain!",
+        "my": "မန်နေဂျာသည် သင်္ဘောကပ္ပတိန်ဖြစ်သည်!",
+        "terms": [
+          {
+            "kanji": "経営者",
+            "reading": "けいえいしゃ"
+          },
+          {
+            "kanji": "経営",
+            "reading": "けいえい"
+          }
+        ]
+      },
+      "content": {
+        "ja": "現代の経営者は、大航海時代の船長と同じです。出資者（株主）からお金を集めて事業を行い、利益が出たら、そのうちの一部を出資者に還元（払い戻し）し、また一方では事業をさらに拡大していきます。",
+        "vi": "Người quản lý hiện đại giống như thuyền trưởng thời đại hàng hải. Họ thu thập tiền từ nhà đầu tư (cổ đông) để kinh doanh, khi có lợi nhuận, họ hoàn trả một phần cho nhà đầu tư, đồng thời mở rộng kinh doanh hơn nữa.",
+        "en": "Modern managers are like captains from the Age of Exploration. They collect money from investors (shareholders) to run a business, and when profits are made, they return a portion to investors while also expanding the business further.",
+        "my": "ခေတ်သစ်မန်နေဂျာများသည် ရွက်လှေခေတ်က သင်္ဘောကပ္ပတိန်များနှင့် တူသည်။",
+        "terms": [
+          {
+            "kanji": "現代",
+            "reading": "げんだい"
+          },
+          {
+            "kanji": "経営者",
+            "reading": "けいえいしゃ"
+          },
+          {
+            "kanji": "大航海時代",
+            "reading": "だいこうかいじだい"
+          },
+          {
+            "kanji": "船長",
+            "reading": "せんちょう"
+          },
+          {
+            "kanji": "同",
+            "reading": "どう"
+          },
+          {
+            "kanji": "出資者",
+            "reading": "しゅっししゃ"
+          },
+          {
+            "kanji": "株主",
+            "reading": "かぶぬし"
+          },
+          {
+            "kanji": "金",
+            "reading": "きん"
+          },
+          {
+            "kanji": "集",
+            "reading": "しゅう"
+          },
+          {
+            "kanji": "事業",
+            "reading": "じぎょう"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "利益",
+            "reading": "りえき"
+          },
+          {
+            "kanji": "出",
+            "reading": "しゅつ"
+          },
+          {
+            "kanji": "一部",
+            "reading": "いちぶ"
+          },
+          {
+            "kanji": "還元",
+            "reading": "かんげん"
+          },
+          {
+            "kanji": "払",
+            "reading": "ふつ"
+          },
+          {
+            "kanji": "戻",
+            "reading": "れい"
+          },
+          {
+            "kanji": "一方",
+            "reading": "いっぽう"
+          },
+          {
+            "kanji": "拡大",
+            "reading": "かくだい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "「この本は、情報処理技術者試験の1つであるITパスポート試験の試験対策本なのに、なぜ第1章の内容が\"企業活動\"なのか」と疑問に感じた人も多いと思います。",
+      "vi": "Có lẽ nhiều người thắc mắc: Đây là sách ôn thi IT Passport - một trong các kỳ thi Kỹ thuật viên Xử lý Thông tin, tại sao chương 1 lại nói về Hoạt động doanh nghiệp?",
+      "en": "Many people may wonder: This is a study guide for the IT Passport exam, which is one of the Information Processing Technician exams, so why is Chapter 1 about Corporate Activities?",
+      "my": "ဒါက IT Passport စာမေးပွဲအတွက် လေ့လာရေးလမ်းညွှန်ဖြစ်ပါတယ်၊ ဘာကြောင့် အခန်း ၁ က ကုမ္ပဏီလုပ်ငန်းများ အကြောင်းလဲ။",
+      "terms": [
+        {
+          "kanji": "本",
+          "reading": "ほん"
+        },
+        {
+          "kanji": "情報処理技術者試験",
+          "reading": "じょうほうしょりぎじゅつしゃしけん"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "試験対策本",
+          "reading": "しけんたいさくほん"
+        },
+        {
+          "kanji": "第",
+          "reading": "だい"
+        },
+        {
+          "kanji": "章",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "企業活動",
+          "reading": "きぎょうかつどう"
+        },
+        {
+          "kanji": "疑問",
+          "reading": "ぎもん"
+        },
+        {
+          "kanji": "感",
+          "reading": "かん"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "実際、ITパスポート試験ではコンピュータのことが主に出題されると思っている人が非常に多いです。",
+      "vi": "Thực tế, rất nhiều người nghĩ rằng kỳ thi IT Passport chủ yếu ra đề về máy tính.",
+      "en": "In fact, many people think that the IT Passport exam mainly tests computer knowledge.",
+      "my": "အမှန်တကယ်တော့ IT Passport စာမေးပွဲသည် အဓိကအားဖြင့် ကွန်ပျူတာဗဟုသုတကို စစ်ဆေးသည်ဟု လူအများစု ထင်ကြသည်။",
+      "terms": [
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "重要ポイント",
+        "vi": "Điểm quan trọng",
+        "en": "Key Point",
+        "my": "အရေးကြီးသောအချက်"
+      },
+      "content": {
+        "ja": "しかし、ITパスポート試験では意外なことに、コンピュータ（テクノロジ）に関する問題は半分も出題されません。半分以上の問題では「会社や経営、業務に関すること」が問われます（p.7）。",
+        "vi": "Tuy nhiên, điều đáng ngạc nhiên là trong kỳ thi IT Passport, câu hỏi về máy tính (Technology) không chiếm đến một nửa. Hơn một nửa số câu hỏi là về công ty, quản lý và công việc (trang 7).",
+        "en": "However, surprisingly, questions about computers (Technology) do not even make up half of the IT Passport exam. More than half of the questions are about companies, management, and business operations (p.7).",
+        "my": "သို့သော် IT Passport စာမေးပွဲတွင် ကွန်ပျူတာနှင့်ပတ်သက်သော မေးခွန်းများသည် တစ်ဝက်ပင် မရှိပါ။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "意外",
+            "reading": "いがい"
+          },
+          {
+            "kanji": "関",
+            "reading": "かん"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "半分",
+            "reading": "はんぶん"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "半分以上",
+            "reading": "はんぶんいじょう"
+          },
+          {
+            "kanji": "会社",
+            "reading": "かいしゃ"
+          },
+          {
+            "kanji": "経営",
+            "reading": "けいえい"
+          },
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "問",
+            "reading": "とん"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "では、なぜ情報処理技術者試験の1つであるにもかかわらず、コンピュータのことではなく、経営や業務に関する内容が問われるのでしょうか。",
+      "vi": "Vậy tại sao mặc dù là một trong các kỳ thi Kỹ thuật viên Xử lý Thông tin, nhưng lại ra đề về quản lý và công việc thay vì máy tính?",
+      "en": "So why, despite being one of the Information Processing Technician exams, are questions about management and business operations asked rather than computers?",
+      "my": "ဒါဆို ကွန်ပျူတာအစား စီမံခန့်ခွဲမှုနှင့် စီးပွားရေးလုပ်ငန်းများအကြောင်း ဘာကြောင့် မေးသလဲ။",
+      "terms": [
+        {
+          "kanji": "情報処理技術者試験",
+          "reading": "じょうほうしょりぎじゅつしゃしけん"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "その理由は明確です。ITパスポート試験が問う最大のテーマが「会社の役に立つシステムを作るための知識を持っているかどうか」だからです。単にシステムを作るだけなら、コンピュータ（テクノロジ）の知識だけで作ることができますが、「会社の役に立つシステム」を作るには、会社の仕組みを理解しておく必要があります。",
+      "vi": "Lý do rất rõ ràng. Vì chủ đề lớn nhất mà kỳ thi IT Passport đặt ra là: Bạn có kiến thức để xây dựng hệ thống hữu ích cho công ty hay không. Nếu chỉ đơn giản là tạo hệ thống, bạn chỉ cần kiến thức về máy tính (Technology), nhưng để tạo hệ thống hữu ích cho công ty, bạn cần hiểu cách công ty hoạt động.",
+      "en": "The reason is clear. The biggest theme the IT Passport exam asks about is: whether you have the knowledge to build systems that are useful for companies. If you just want to create systems, you only need computer (Technology) knowledge, but to create systems useful for companies, you need to understand how companies work.",
+      "my": "အကြောင်းပြချက်မှာ ရှင်းလင်းပါသည်။ IT Passport စာမေးပွဲ၏ အကြီးမားဆုံး ခေါင်းစဉ်မှာ ကုမ္ပဏီအတွက် အသုံးဝင်သော စနစ်များ တည်ဆောက်ရန် ဗဟုသုတရှိမရှိ ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "理由",
+          "reading": "りゆう"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "最大",
+          "reading": "さいだい"
+        },
+        {
+          "kanji": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "kanji": "役",
+          "reading": "やく"
+        },
+        {
+          "kanji": "立",
+          "reading": "りつ"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "単",
+          "reading": "たん"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "覚えておこう！",
+        "vi": "Hãy ghi nhớ!",
+        "en": "Remember this!",
+        "my": "ဒါကိုမှတ်ထားပါ!"
+      },
+      "content": {
+        "ja": "そのため、ITパスポート試験ではコンピュータ技術のことを重要視しながらも、ストラテジ（社長の仕事）とマネジメント（管理職の仕事）の知識が多く出題されます。このことはぜひ覚えておいてください。",
+        "vi": "Do đó, mặc dù kỳ thi IT Passport coi trọng công nghệ máy tính, nhưng kiến thức về Strategy (công việc của giám đốc) và Management (công việc quản lý) được ra đề rất nhiều. Hãy nhớ kỹ điều này.",
+        "en": "Therefore, while the IT Passport exam values computer technology, questions about Strategy (the president's work) and Management (managerial work) are frequently asked. Please remember this.",
+        "my": "ထို့ကြောင့် IT Passport စာမေးပွဲသည် Strategy နှင့် Management ဆိုင်ရာမေးခွန်းများ မကြာခဏမေးသည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "技術",
+            "reading": "ぎじゅつ"
+          },
+          {
+            "kanji": "重要視",
+            "reading": "じゅうようし"
+          },
+          {
+            "kanji": "社長",
+            "reading": "しゃちょう"
+          },
+          {
+            "kanji": "仕事",
+            "reading": "しごと"
+          },
+          {
+            "kanji": "管理職",
+            "reading": "かんりしょく"
+          },
+          {
+            "kanji": "知識",
+            "reading": "ちしき"
+          },
+          {
+            "kanji": "多",
+            "reading": "た"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "経営者",
+      "reading": "けいえいしゃ",
+      "romaji": "Keieisha",
+      "vi": "Người quản lý, Giám đốc",
+      "en": "Manager, Executive",
+      "my": "စီမံခန့်ခွဲသူ"
+    },
+    {
+      "kanji": "出資者",
+      "reading": "しゅっししゃ",
+      "romaji": "Shusshisha",
+      "vi": "Nhà đầu tư",
+      "en": "Investor",
+      "my": "ရင်းနှီးမြှုပ်နှံသူ"
+    },
+    {
+      "kanji": "株主",
+      "reading": "かぶぬし",
+      "romaji": "Kabunushi",
+      "vi": "Cổ đông",
+      "en": "Shareholder",
+      "my": "ရှယ်ရှင်ရှင်"
+    },
+    {
+      "kanji": "利益",
+      "reading": "りえき",
+      "romaji": "Rieki",
+      "vi": "Lợi nhuận",
+      "en": "Profit",
+      "my": "အမြတ်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "illustration": "ship_captain"
+  }
+}

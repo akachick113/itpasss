@@ -1,0 +1,447 @@
+{
+  "page_id": 124,
+  "image": "p_0124.png",
+  "chapter": 3,
+  "section": "03-03",
+  "page_number": 108,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "その他の関連用語",
+        "vi": "Thuật ngữ liên quan khác",
+        "en": "Other Related Terms"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "TOB（Take Over Bid）\n（株式公開買付け）",
+            "会社の経営権の取得を目的とした株の買い付けを、公表して行うこと。"
+          ],
+          "vi": [
+            "TOB (Take Over Bid)\n(Mua công khai cổ phiếu)",
+            "Công bố việc mua cổ phiếu với mục đích lấy quyền quản lý công ty."
+          ],
+          "en": [
+            "TOB (Take Over Bid)",
+            "Publicly announcing share purchase to acquire company management rights."
+          ]
+        },
+        {
+          "ja": [
+            "MBO（Management Buyout）\n（経営陣による自社買収）",
+            "経営陣が自らの資金で自社を買収して、経営権を取得すること。"
+          ],
+          "vi": [
+            "MBO (Management Buyout)\n(Ban lãnh đạo mua lại)",
+            "Ban lãnh đạo mua lại công ty bằng vốn của mình để lấy quyền quản lý."
+          ],
+          "en": [
+            "MBO (Management Buyout)",
+            "Management acquiring company with own funds to obtain management rights."
+          ]
+        },
+        {
+          "ja": [
+            "アウトソーシング",
+            "自社の業務を他社に外注すること。外部委託ともいう。"
+          ],
+          "vi": [
+            "Outsourcing",
+            "Thuê ngoài nghiệp vụ của công ty cho công ty khác. Còn gọi là ủy thác bên ngoài."
+          ],
+          "en": [
+            "Outsourcing",
+            "Contracting company's work to other companies. Also called external contracting."
+          ]
+        },
+        {
+          "ja": [
+            "資本提携",
+            "企業間士がお互いの株式を持ち合って、協力関係を強化すること。"
+          ],
+          "vi": [
+            "Hợp tác vốn",
+            "Các doanh nghiệp nắm giữ cổ phiếu của nhau để tăng cường quan hệ hợp tác."
+          ],
+          "en": [
+            "Capital Alliance",
+            "Companies holding each other's shares to strengthen cooperation."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "マーケティングの基本",
+      "reading": "まーけてぃんぐのきほん",
+      "vi": "Cơ bản về Marketing",
+      "en": "Marketing Basics",
+      "my": "Marketing အခြေခံ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、マーケティングの基礎知識を解説します。マーケティングとは、買ってもらうための仕組み作りをすることです。マーケティングは現代の企業が競争に勝ち抜くうえでは必須です。ITパスポート試験では、マーケティングの基本を学習しますが、中でも「4P」「RFM分析」「オピニオンリーダー」の3つの用語が重要です。\n\nまた、その他の用語も定期的に出題されますが、毎年万遍なく出題されるためヤマを張るのは得策ではありません。ですから、まずは上記の重要3用語を確実に習得したうえで、残りの用語についてはヤマを張らず、それぞれの関係性を意識しながら理解していくことをお勧めします。",
+      "vi": "Từ đây sẽ giải thích kiến thức cơ bản về Marketing. Marketing là tạo cơ chế để được mua. Marketing là bắt buộc để doanh nghiệp hiện đại thắng cạnh tranh. Trong IT Passport, học cơ bản Marketing, trong đó 3 thuật ngữ 4P, RFM Analysis, Opinion Leader quan trọng.\n\nNgoài ra, các thuật ngữ khác cũng được ra đề định kỳ, nhưng vì được ra đề đều đặn hàng năm nên đoán đề không phải chiến lược tốt. Do đó, trước hết hãy nắm vững 3 thuật ngữ quan trọng trên, rồi hiểu các thuật ngữ còn lại mà không đoán đề, chú ý mối quan hệ giữa chúng.",
+      "en": "From here, we'll explain Marketing basics. Marketing is creating mechanisms to get purchases. Marketing is essential for modern companies to win competition. In IT Passport, learn Marketing basics, with 4P, RFM Analysis, Opinion Leader being 3 important terms.\n\nOther terms are also tested regularly, but since they're tested evenly each year, guessing which will appear isn't wise. So first master the 3 important terms above, then understand remaining terms without guessing, being aware of their relationships.",
+      "my": "ဤနေရာမှစ၍ Marketing အခြေခံများကို ရှင်းပြပါမည်။",
+      "terms": [
+        {
+          "kanji": "基礎知識",
+          "reading": "きそちしき"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "買",
+          "reading": "ばい"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "現代",
+          "reading": "げんだい"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "競争",
+          "reading": "きょうそう"
+        },
+        {
+          "kanji": "勝",
+          "reading": "かち"
+        },
+        {
+          "kanji": "抜",
+          "reading": "ばつ"
+        },
+        {
+          "kanji": "必須",
+          "reading": "ひっす"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "基本",
+          "reading": "きほん"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "定期的",
+          "reading": "ていきてき"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "毎年万遍",
+          "reading": "まいとしまんべん"
+        },
+        {
+          "kanji": "張",
+          "reading": "ちょう"
+        },
+        {
+          "kanji": "得策",
+          "reading": "とくさく"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "確実",
+          "reading": "かくじつ"
+        },
+        {
+          "kanji": "習得",
+          "reading": "しゅうとく"
+        },
+        {
+          "kanji": "残",
+          "reading": "ざん"
+        },
+        {
+          "kanji": "関係性",
+          "reading": "かんけいせい"
+        },
+        {
+          "kanji": "意識",
+          "reading": "いしき"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "勧",
+          "reading": "かん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "マーケティングミックスと4P",
+      "reading": "まーけてぃんぐみっくすと4P",
+      "vi": "Marketing Mix và 4P",
+      "en": "Marketing Mix and 4P",
+      "my": "Marketing Mix နှင့် 4P"
+    },
+    {
+      "type": "paragraph",
+      "ja": "マーケティングミックスとは、マーケティングの目標を達成する際に用いる、自社がコントロール可能な4つの手段です。その4つの手段は「4P」とも呼ばれます。4Pとは「Product（製品）」「Price（価格）」「Place（流通）」「Promotion（販売促進）」です。すべての英単語が「P」からはじまるので「4P」と呼ばれます。\n\n一例ですが、オートバイ製造メーカーのホンダは、アメリカに進出する際、下表のように4Pを設定してマーケティングを実行しました。",
+      "vi": "Marketing Mix là 4 phương tiện mà công ty có thể kiểm soát khi đạt mục tiêu Marketing. 4 phương tiện đó còn được gọi là 4P. 4P là Product (Sản phẩm), Price (Giá), Place (Phân phối), Promotion (Xúc tiến bán hàng). Vì tất cả từ tiếng Anh bắt đầu bằng P nên gọi là 4P.\n\nVí dụ, nhà sản xuất xe máy Honda khi tiến vào Mỹ đã thực hiện Marketing bằng cách thiết lập 4P như bảng dưới.",
+      "en": "Marketing Mix is 4 means a company can control to achieve Marketing goals. These 4 means are also called 4P. 4P are Product, Price, Place, Promotion. All start with P so called 4P.\n\nFor example, motorcycle manufacturer Honda entering America executed Marketing by setting 4P as shown below.",
+      "my": "Marketing Mix သည် Marketing ပန်းတိုင်များ ရောက်ရှိရန် ကုမ္ပဏီ ထိန်းချုပ်နိုင်သော နည်းလမ်း ၄ ခုဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "目標",
+          "reading": "もくひょう"
+        },
+        {
+          "kanji": "達成",
+          "reading": "たっせい"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "手段",
+          "reading": "しゅだん"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "価格",
+          "reading": "かかく"
+        },
+        {
+          "kanji": "流通",
+          "reading": "りゅうつう"
+        },
+        {
+          "kanji": "販売促進",
+          "reading": "はんばいそくしん"
+        },
+        {
+          "kanji": "英単語",
+          "reading": "えいたんご"
+        },
+        {
+          "kanji": "一例",
+          "reading": "いちれい"
+        },
+        {
+          "kanji": "製造",
+          "reading": "せいぞう"
+        },
+        {
+          "kanji": "進出",
+          "reading": "しんしゅつ"
+        },
+        {
+          "kanji": "下表",
+          "reading": "かひょう"
+        },
+        {
+          "kanji": "設定",
+          "reading": "せってい"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "ホンダの4P",
+        "vi": "4P của Honda",
+        "en": "Honda's 4P"
+      },
+      "headers": {
+        "ja": [
+          "手段",
+          "事例"
+        ],
+        "vi": [
+          "Phương tiện",
+          "Ví dụ"
+        ],
+        "en": [
+          "Means",
+          "Example"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "Product（製品）",
+            "壊れにくい小型バイク"
+          ],
+          "vi": [
+            "Product (Sản phẩm)",
+            "Xe máy nhỏ khó hỏng"
+          ],
+          "en": [
+            "Product",
+            "Durable small motorcycle"
+          ]
+        },
+        {
+          "ja": [
+            "Price（価格）",
+            "学生が買いやすい価格。でも自転車よりは高い価格"
+          ],
+          "vi": [
+            "Price (Giá)",
+            "Giá sinh viên dễ mua. Nhưng cao hơn xe đạp"
+          ],
+          "en": [
+            "Price",
+            "Student-affordable price. But higher than bicycles"
+          ]
+        },
+        {
+          "ja": [
+            "Place（流通）",
+            "アクセスの良い都市部の明るいお店"
+          ],
+          "vi": [
+            "Place (Phân phối)",
+            "Cửa hàng sáng sủa ở khu vực đô thị dễ tiếp cận"
+          ],
+          "en": [
+            "Place",
+            "Bright stores in accessible urban areas"
+          ]
+        },
+        {
+          "ja": [
+            "Promotion（販売促進）",
+            "「YOU MEET THE NICEST PEOPLE ON A HONDA（素晴らしい人々、Hondaに乗る）」という広告"
+          ],
+          "vi": [
+            "Promotion (Xúc tiến)",
+            "Quảng cáo 'YOU MEET THE NICEST PEOPLE ON A HONDA'"
+          ],
+          "en": [
+            "Promotion",
+            "'YOU MEET THE NICEST PEOPLE ON A HONDA' advertisement"
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "マーケティング",
+      "reading": "まーけてぃんぐ",
+      "romaji": "Marketing",
+      "vi": "Marketing",
+      "en": "Marketing",
+      "my": "Marketing"
+    },
+    {
+      "kanji": "4P",
+      "reading": "よんぴー",
+      "romaji": "4P",
+      "vi": "4P",
+      "en": "4P (Product, Price, Place, Promotion)",
+      "my": "4P"
+    },
+    {
+      "kanji": "TOB",
+      "reading": "てぃーおーびー",
+      "romaji": "Take Over Bid",
+      "vi": "Mua công khai cổ phiếu",
+      "en": "Take Over Bid",
+      "my": "TOB"
+    },
+    {
+      "kanji": "MBO",
+      "reading": "えむびーおー",
+      "romaji": "Management Buyout",
+      "vi": "Ban lãnh đạo mua lại",
+      "en": "Management Buyout",
+      "my": "MBO"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false
+  }
+}

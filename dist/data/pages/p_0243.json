@@ -1,0 +1,279 @@
+{
+  "page_id": 243,
+  "image": "p_0243.png",
+  "chapter": 6,
+  "section": "06-01",
+  "page_number": 227,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "開発プロセスの概要",
+      "reading": "かいはつぷろせすのがいよう",
+      "vi": "Tổng quan về Quy trình phát triển",
+      "en": "Overview of Development Process"
+    },
+    {
+      "type": "paragraph",
+      "ja": "まずは開発プロセスを説明します。開発プロセスは家づくりと似ているので、家づくりを例に挙げながら、各工程の概要を紹介します。",
+      "vi": "Trước tiên sẽ giải thích về quy trình phát triển. Quy trình phát triển giống với việc xây nhà, nên sẽ giới thiệu tổng quan các công đoạn bằng ví dụ xây nhà.",
+      "en": "First, let's explain the development process. Since the development process is similar to house building, we'll introduce an overview of each phase using house building as an example.",
+      "terms": [
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "説明",
+          "reading": "せつめい"
+        },
+        {
+          "kanji": "家",
+          "reading": "いえ"
+        },
+        {
+          "kanji": "似",
+          "reading": "じ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "挙",
+          "reading": "きょ"
+        },
+        {
+          "kanji": "各工程",
+          "reading": "かくこうてい"
+        },
+        {
+          "kanji": "概要",
+          "reading": "がいよう"
+        },
+        {
+          "kanji": "紹介",
+          "reading": "しょうかい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "開発プロセスの各工程",
+        "vi": "Các công đoạn của quy trình phát triển",
+        "en": "Phases of Development Process"
+      },
+      "headers": {
+        "ja": [
+          "家づくりの場合",
+          "工程",
+          "説明"
+        ],
+        "vi": [
+          "Trường hợp xây nhà",
+          "Công đoạn",
+          "Giải thích"
+        ],
+        "en": [
+          "House Building Case",
+          "Phase",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "analogy": {
+            "ja": "打合せ",
+            "vi": "Họp bàn",
+            "en": "Meeting"
+          },
+          "phase": {
+            "ja": "システム要件定義",
+            "vi": "Định nghĩa yêu cầu hệ thống",
+            "en": "System Requirements Definition"
+          },
+          "explanation": {
+            "ja": "システムで実現したいことを決める工程。",
+            "vi": "Công đoạn quyết định những gì muốn thực hiện với hệ thống.",
+            "en": "Phase to decide what to achieve with the system."
+          }
+        },
+        {
+          "analogy": {
+            "ja": "設計",
+            "vi": "Thiết kế",
+            "en": "Design"
+          },
+          "phase": {
+            "ja": "システム設計",
+            "vi": "Thiết kế hệ thống",
+            "en": "System Design"
+          },
+          "explanation": {
+            "ja": "システム要件定義で決めたことを実現するために、ハードウェアとソフトウェアの仕様や動作を決める工程。",
+            "vi": "Công đoạn quyết định thông số và hoạt động của phần cứng và phần mềm để thực hiện những gì đã quyết định trong định nghĩa yêu cầu hệ thống.",
+            "en": "Phase to decide hardware and software specifications and behavior to realize what was decided in system requirements definition."
+          }
+        },
+        {
+          "analogy": {
+            "ja": "建築作業",
+            "vi": "Thi công xây dựng",
+            "en": "Construction"
+          },
+          "phase": {
+            "ja": "プログラミング",
+            "vi": "Lập trình",
+            "en": "Programming"
+          },
+          "explanation": {
+            "ja": "実際にソースコードを書く工程。",
+            "vi": "Công đoạn viết mã nguồn thực tế.",
+            "en": "Phase to actually write source code."
+          }
+        },
+        {
+          "analogy": {
+            "ja": "品質確認・検品",
+            "vi": "Kiểm tra chất lượng",
+            "en": "Quality Check"
+          },
+          "phase": {
+            "ja": "テスト",
+            "vi": "Kiểm thử",
+            "en": "Testing"
+          },
+          "explanation": {
+            "ja": "システムが仕様どおりに動くか確認する工程。",
+            "vi": "Công đoạn kiểm tra hệ thống có hoạt động đúng theo thông số không.",
+            "en": "Phase to verify if system works according to specifications."
+          }
+        },
+        {
+          "analogy": {
+            "ja": "引き渡し",
+            "vi": "Bàn giao",
+            "en": "Handover"
+          },
+          "phase": {
+            "ja": "ソフトウェア受入れ",
+            "vi": "Nghiệm thu phần mềm",
+            "en": "Software Acceptance"
+          },
+          "explanation": {
+            "ja": "完成したソフトウェアをお客さんに納品する工程。",
+            "vi": "Công đoạn giao phần mềm hoàn thành cho khách hàng.",
+            "en": "Phase to deliver completed software to customer."
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、上記で解説しているのは「ウォーターフォールモデル」と呼ばれる開発モデルを用いた場合の一例です。詳しくは「06-07 ソフトウェアの開発モデル」（p.245）で解説しますが、世の中には他にもさまざまな開発モデルがあります。",
+      "vi": "Những gì giải thích ở trên là một ví dụ khi sử dụng mô hình phát triển gọi là \"Waterfall Model\". Chi tiết sẽ được giải thích trong \"06-07 Mô hình phát triển phần mềm\" (trang 245), nhưng trên thế giới còn có nhiều mô hình phát triển khác.",
+      "en": "What's explained above is an example using a development model called 'Waterfall Model.' Details will be explained in '06-07 Software Development Model' (p.245), but there are various other development models in the world.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "一例",
+          "reading": "いちれい"
+        },
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "世",
+          "reading": "よ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ではなぜここでウォーターフォールモデルを紹介しているのかというと、ウォーターフォールモデルがITパスポート試験で最もよく出題される開発モデルであるためです。このため、まずはこの開発モデルの各工程を理解することが大切です。",
+      "vi": "Vậy tại sao lại giới thiệu Waterfall Model ở đây? Vì Waterfall Model là mô hình phát triển xuất hiện nhiều nhất trong kỳ thi IT Passport. Do đó, trước tiên việc hiểu các công đoạn của mô hình phát triển này là quan trọng.",
+      "en": "So why introduce Waterfall Model here? Because Waterfall Model is the most frequently appearing development model in IT Passport exams. Therefore, first understanding each phase of this development model is important.",
+      "terms": [
+        {
+          "kanji": "紹介",
+          "reading": "しょうかい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "各工程",
+          "reading": "かくこうてい"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ウォーターフォールモデル",
+      "reading": "うぉーたーふぉーるもでる",
+      "romaji": "Waterfall Model",
+      "vi": "Mô hình Thác nước",
+      "en": "Waterfall Model",
+      "my": "ရေတံခွန် မော်ဒယ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_illustration": true
+  }
+}

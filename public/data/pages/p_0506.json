@@ -1,0 +1,224 @@
+{
+  "page_id": 506,
+  "image": "p_0506.png",
+  "chapter": 14,
+  "section": "14-02",
+  "page_number": 490,
+  "content": [
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "ESSIDときたら、ID（識別子）",
+        "vi": "Khi nói đến ESSID, nghĩ đến ID (Định danh)",
+        "en": "When ESSID, Think ID (Identifier)",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "問題文のなかに「ESSID」という用語があったら末尾のIDに注目してください。IDとは「Identifier（識別子）」という意味です。識別子とは、他と区別するための文字列です。選択肢のなかに「〜を識別する文字列」という文章があれば、その選択肢が正解である可能性が高いです。",
+        "vi": "Nếu có thuật ngữ \"ESSID\" trong đề thi, hãy chú ý đến ID ở cuối. ID có nghĩa là \"Identifier (Định danh)\". Định danh là chuỗi ký tự để phân biệt với cái khác. Nếu trong các đáp án có câu \"chuỗi ký tự để nhận dạng ~\", đáp án đó có khả năng cao là đúng.",
+        "en": "If term 'ESSID' appears in question, pay attention to ID at end. ID means 'Identifier.' Identifier is character string to distinguish from others. If among choices there's sentence 'character string to identify ~,' that choice is likely correct."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ESSIDステルス",
+      "vi": "ESSID Stealth",
+      "en": "ESSID Stealth"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ESSIDステルス",
+        "vi": "ESSID Stealth",
+        "en": "ESSID Stealth"
+      },
+      "definition": {
+        "ja": "ESSIDステルスとは、ESSIDを周囲から見えないようにする機能です。ステルス（Stealth）とは「こっそりと行う」という意味です。",
+        "vi": "ESSID Stealth là chức năng làm cho ESSID không thể nhìn thấy từ xung quanh. Stealth có nghĩa là \"thực hiện lén lút\".",
+        "en": "ESSID Stealth is function making ESSID invisible from surroundings. Stealth means 'doing secretly.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "通常、ESSIDは、一定時間ごとに電波を発信してその存在を周囲に知らせます。そのほうが、利用者はネットワークに接続しやすくなります。しかし、これは悪意のある人に対してもネットワークの存在を知らせてしまうことになるので、セキュリティリスクが高まります。",
+      "vi": "Thông thường, ESSID phát sóng định kỳ để thông báo sự tồn tại của nó với xung quanh. Như vậy, người dùng dễ kết nối mạng hơn. Tuy nhiên, điều này cũng thông báo sự tồn tại của mạng cho người có ý đồ xấu, nên tăng rủi ro bảo mật.",
+      "en": "Normally, ESSID broadcasts at regular intervals to notify surroundings of its existence. This makes it easier for users to connect to network. However, this also notifies malicious people of network existence, increasing security risk.",
+      "terms": [
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "一定時間",
+          "reading": "いっていじかん"
+        },
+        {
+          "kanji": "電波",
+          "reading": "でんぱ"
+        },
+        {
+          "kanji": "発信",
+          "reading": "はっしん"
+        },
+        {
+          "kanji": "存在",
+          "reading": "そんざい"
+        },
+        {
+          "kanji": "周囲",
+          "reading": "しゅうい"
+        },
+        {
+          "kanji": "知",
+          "reading": "ち"
+        },
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "悪意",
+          "reading": "あくい"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "そこで、ESSIDステルスでは、正規の利用者にはESSIDを直接入力してもらい、第三者にはESSIDを見せないことで、不正接続のリスクを低減しています。",
+      "vi": "Vì vậy, với ESSID Stealth, yêu cầu người dùng hợp lệ nhập trực tiếp ESSID, và không hiển thị ESSID cho bên thứ ba, giảm rủi ro kết nối trái phép.",
+      "en": "Therefore, with ESSID Stealth, legitimate users directly input ESSID, and by not showing ESSID to third parties, reduces risk of unauthorized connection.",
+      "terms": [
+        {
+          "kanji": "正規",
+          "reading": "せいき"
+        },
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "kanji": "直接入力",
+          "reading": "ちょくせつにゅうりょく"
+        },
+        {
+          "kanji": "第三者",
+          "reading": "だいさんしゃ"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "不正接続",
+          "reading": "ふせいせつぞく"
+        },
+        {
+          "kanji": "低減",
+          "reading": "ていげん"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ESSIDとは、無線LANのネットワークを識別する文字列",
+          "vi": "ESSID là chuỗi ký tự để nhận dạng mạng LAN không dây",
+          "en": "ESSID is character string to identify wireless LAN network"
+        },
+        {
+          "ja": "ESSIDステルスは、不正接続のリスクを低減できる",
+          "vi": "ESSID Stealth có thể giảm rủi ro kết nối trái phép",
+          "en": "ESSID Stealth can reduce risk of unauthorized connection"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！PoEとPLC",
+        "vi": "Chi tiết hơn! PoE và PLC",
+        "en": "More Details! PoE and PLC"
+      },
+      "content": {
+        "ja": "PoE（Power over Ethernet）とは、イーサネットのケーブルを用いて電力を供給する技術です。PoEを利用すれば、LANケーブルのみで各種機器にデータと電力の両方を供給できるため、コンセントや電源ケーブルのない天井などの壁に取り付ける場合に便利です。一方、PLC（Power Line Communication）とは、電力線通信という家庭用の電気配線を利用する技術です。例えば、インターネットにつながったPLCの機器を1階のコンセントに差し込んで、2階のコンセントにつながったPLCの子機もインターネットにつながります。",
+        "vi": "PoE (Power over Ethernet) là công nghệ cung cấp điện bằng cáp Ethernet. Nếu sử dụng PoE, có thể cung cấp cả dữ liệu và điện cho các thiết bị chỉ bằng cáp LAN, nên tiện lợi khi lắp đặt trên trần không có ổ cắm hoặc cáp nguồn. Mặt khác, PLC (Power Line Communication) là công nghệ sử dụng đường dây điện gia đình. Ví dụ, cắm thiết bị PLC kết nối Internet vào ổ cắm tầng 1, thiết bị con PLC cắm vào ổ cắm tầng 2 cũng kết nối Internet.",
+        "en": "PoE (Power over Ethernet) is technology supplying power using Ethernet cable. Using PoE, can supply both data and power to devices with only LAN cable, convenient for mounting on ceiling walls without outlets or power cables. On other hand, PLC (Power Line Communication) is technology using household electrical wiring. For example, plug PLC device connected to Internet into 1st floor outlet, PLC child device plugged into 2nd floor outlet also connects to Internet."
+      }
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！5G",
+        "vi": "Chi tiết hơn! 5G",
+        "en": "More Details! 5G"
+      },
+      "content": {
+        "ja": "5G（5th Generation）とは、第5世代移動通信システムのことです。5Gの通信速度は、1つ前の方式である4Gのおよそ100倍です。5Gは、IoTで、ノの字で直接インターネットにつながって、お互いに情報のやり取りをすること）の実現に必要不可欠です。",
+        "vi": "5G (5th Generation) là hệ thống truyền thông di động thế hệ thứ 5. Tốc độ truyền thông của 5G nhanh gấp khoảng 100 lần so với 4G - phương thức trước đó. 5G là điều kiện cần thiết để hiện thực hóa IoT (các thiết bị kết nối trực tiếp với Internet và trao đổi thông tin với nhau).",
+        "en": "5G (5th Generation) is 5th generation mobile communication system. 5G communication speed is about 100 times faster than 4G, the previous method. 5G is essential for realizing IoT (things directly connecting to Internet and exchanging information with each other)."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ESSIDステルス",
+      "vi": "ESSID Stealth",
+      "en": "ESSID Stealth",
+      "my": "အီးအက်စ်အက်စ်အိုင်ဒီ စတဲလ်"
+    },
+    {
+      "term": "PoE",
+      "full": "Power over Ethernet",
+      "vi": "PoE (Cấp nguồn qua Ethernet)",
+      "en": "PoE (Power over Ethernet)",
+      "my": "ပီအိုအီး"
+    },
+    {
+      "term": "PLC",
+      "full": "Power Line Communication",
+      "vi": "PLC (Truyền thông qua đường dây điện)",
+      "en": "PLC (Power Line Communication)",
+      "my": "ပီအဲလ်စီ"
+    },
+    {
+      "term": "5G",
+      "full": "5th Generation",
+      "vi": "5G (Thế hệ thứ 5)",
+      "en": "5G (5th Generation)",
+      "my": "၆ဂျီ"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

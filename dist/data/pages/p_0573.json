@@ -1,0 +1,347 @@
+{
+  "page_id": 573,
+  "image": "p_0573.png",
+  "chapter": 15,
+  "section": "15-06",
+  "page_number": 557,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ファイアウォールの概念図",
+        "vi": "Sơ đồ khái niệm Firewall",
+        "en": "Firewall Concept Diagram"
+      },
+      "description": {
+        "ja": "社内ネットワークとインターネット（外部ネットワーク）の間にファイアウォールを配置。Firewallとは「防火壁」という意味。",
+        "vi": "Đặt Firewall giữa mạng nội bộ và Internet (mạng bên ngoài). Firewall có nghĩa là \"tường lửa\".",
+        "en": "Firewall placed between internal network and Internet (external network). Firewall means 'fire wall.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "IDSとIPS",
+      "vi": "IDS và IPS",
+      "en": "IDS and IPS"
+    },
+    {
+      "type": "paragraph",
+      "ja": "2つめの壁は「IDS」と「IPS」です。いずれか1つを2つめの壁として使用します。",
+      "vi": "Bức tường thứ 2 là \"IDS\" và \"IPS\". Một trong hai được sử dụng như bức tường thứ 2.",
+      "en": "Second wall is 'IDS' and 'IPS.' Either one is used as second wall.",
+      "terms": [
+        {
+          "kanji": "壁",
+          "reading": "かべ"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "IDS（Intrusion Detection System：侵入検知システム）とは、サーバに対して外部から不正アクセスがあった際に、システム管理者に通知を行うシステムです。",
+      "vi": "IDS (Intrusion Detection System: Hệ thống phát hiện xâm nhập) là hệ thống thông báo cho quản trị viên khi có truy cập trái phép từ bên ngoài vào server.",
+      "en": "IDS (Intrusion Detection System) is system notifying system administrator when there's unauthorized access from outside to server.",
+      "terms": [
+        {
+          "kanji": "侵入検知",
+          "reading": "しんにゅうけんち"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "外部",
+          "reading": "がいぶ"
+        },
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "管理者",
+          "reading": "かんりしゃ"
+        },
+        {
+          "kanji": "通知",
+          "reading": "つうち"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方、IPS（Intrusion Prevention System：侵入防止システム）とは、サーバに対して外部から不正アクセスがあった際に、システム管理者に通知を行うと同時に、そのアクセスを遮断するシステムです。",
+      "vi": "Mặt khác, IPS (Intrusion Prevention System: Hệ thống ngăn chặn xâm nhập) là hệ thống thông báo cho quản trị viên đồng thời chặn truy cập khi có truy cập trái phép từ bên ngoài vào server.",
+      "en": "On other hand, IPS (Intrusion Prevention System) is system notifying system administrator and simultaneously blocking that access when there's unauthorized access from outside to server.",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "侵入防止",
+          "reading": "しんにゅうぼうし"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "外部",
+          "reading": "がいぶ"
+        },
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "管理者",
+          "reading": "かんりしゃ"
+        },
+        {
+          "kanji": "通知",
+          "reading": "つうち"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "同時",
+          "reading": "どうじ"
+        },
+        {
+          "kanji": "遮断",
+          "reading": "しゃだん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、IDSとIPSが守るのは社内システムの中の「OS部分」です。",
+      "vi": "Ngoài ra, IDS và IPS bảo vệ \"phần OS\" trong hệ thống nội bộ.",
+      "en": "Also, IDS and IPS protect 'OS portion' in internal system.",
+      "terms": [
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "部分",
+          "reading": "ぶぶん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "WAF",
+      "vi": "WAF",
+      "en": "WAF"
+    },
+    {
+      "type": "paragraph",
+      "ja": "3つめの壁は「WAF」です。WAF（Web Application Firewall）とは、Webアプリケーションの脆弱性を狙った攻撃からシステムを守るための仕組みです。WAFが守るのは社内システムの中の「Webアプリケーション部分」です。",
+      "vi": "Bức tường thứ 3 là \"WAF\". WAF (Web Application Firewall) là cơ chế bảo vệ hệ thống khỏi các cuộc tấn công nhắm vào lỗ hổng của ứng dụng Web. WAF bảo vệ \"phần ứng dụng Web\" trong hệ thống nội bộ.",
+      "en": "Third wall is 'WAF.' WAF (Web Application Firewall) is mechanism protecting system from attacks targeting Web application vulnerabilities. WAF protects 'Web application portion' in internal system.",
+      "terms": [
+        {
+          "kanji": "壁",
+          "reading": "かべ"
+        },
+        {
+          "kanji": "脆弱性",
+          "reading": "ぜいじゃくせい"
+        },
+        {
+          "kanji": "狙",
+          "reading": "そ"
+        },
+        {
+          "kanji": "攻撃",
+          "reading": "こうげき"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "部分",
+          "reading": "ぶぶん"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "3つの壁の特徴",
+        "vi": "Đặc điểm của 3 bức tường",
+        "en": "Characteristics of 3 Walls"
+      },
+      "headers": {
+        "ja": [
+          "",
+          "ファイアウォール",
+          "IDS/IPS",
+          "WAF"
+        ],
+        "vi": [
+          "",
+          "Firewall",
+          "IDS/IPS",
+          "WAF"
+        ],
+        "en": [
+          "",
+          "Firewall",
+          "IDS/IPS",
+          "WAF"
+        ]
+      },
+      "rows": [
+        {
+          "category": {
+            "ja": "監視するもの",
+            "vi": "Đối tượng giám sát",
+            "en": "Monitoring Target"
+          },
+          "firewall": {
+            "ja": "IPアドレス、ポート",
+            "vi": "Địa chỉ IP, cổng",
+            "en": "IP address, port"
+          },
+          "ids_ips": {
+            "ja": "パケットの中身",
+            "vi": "Nội dung packet",
+            "en": "Packet content"
+          },
+          "waf": {
+            "ja": "パケットの中身",
+            "vi": "Nội dung packet",
+            "en": "Packet content"
+          }
+        },
+        {
+          "category": {
+            "ja": "守るもの",
+            "vi": "Đối tượng bảo vệ",
+            "en": "Protected Target"
+          },
+          "firewall": {
+            "ja": "ネットワーク",
+            "vi": "Mạng",
+            "en": "Network"
+          },
+          "ids_ips": {
+            "ja": "OS、ミドルウェア",
+            "vi": "OS, Middleware",
+            "en": "OS, Middleware"
+          },
+          "waf": {
+            "ja": "Webアプリケーション",
+            "vi": "Ứng dụng Web",
+            "en": "Web Application"
+          }
+        },
+        {
+          "category": {
+            "ja": "攻撃例",
+            "vi": "Ví dụ tấn công",
+            "en": "Attack Example"
+          },
+          "firewall": {
+            "ja": "ポートスキャン",
+            "vi": "Port Scan",
+            "en": "Port Scan"
+          },
+          "ids_ips": {
+            "ja": "DoS攻撃",
+            "vi": "DoS Attack",
+            "en": "DoS Attack"
+          },
+          "waf": {
+            "ja": "SQLインジェクション",
+            "vi": "SQL Injection",
+            "en": "SQL Injection"
+          }
+        }
+      ],
+      "note": {
+        "ja": "3つの壁の特徴をまとめると上表のようになります。ITパスポート試験では、それぞれの壁の「監視するもの」「守るもの」「攻撃例」が出題されます。特にWAFの攻撃例「SQLインジェクション」は頻出です。ぜひ覚えておいてください。",
+        "vi": "Tóm tắt đặc điểm của 3 bức tường như bảng trên. Trong kỳ thi IT Passport, \"đối tượng giám sát\", \"đối tượng bảo vệ\", \"ví dụ tấn công\" của từng bức tường được ra đề. Đặc biệt ví dụ tấn công của WAF \"SQL Injection\" xuất hiện thường xuyên. Hãy nhớ kỹ.",
+        "en": "Summarizing 3 walls' characteristics as table above. In IT Passport exam, each wall's 'monitoring target,' 'protected target,' 'attack example' are asked. Especially WAF attack example 'SQL Injection' appears frequently. Please remember."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "IDS",
+      "full": "Intrusion Detection System",
+      "vi": "Hệ thống phát hiện xâm nhập",
+      "en": "Intrusion Detection System",
+      "my": "ကျူးကျော်ရှာဖွေတွေ့ရှာစွမ်း"
+    },
+    {
+      "term": "IPS",
+      "full": "Intrusion Prevention System",
+      "vi": "Hệ thống ngăn chặn xâm nhập",
+      "en": "Intrusion Prevention System",
+      "my": "ကျူးကျော်တားဆီးစွမ်း"
+    },
+    {
+      "term": "WAF",
+      "full": "Web Application Firewall",
+      "vi": "Tường lửa ứng dụng Web",
+      "en": "Web Application Firewall",
+      "my": "ဝက်ဘ်အပြုအသုံး ဖိုင်ယာဝေါလ်"
+    },
+    {
+      "term": "SQLインジェクション",
+      "vi": "SQL Injection",
+      "en": "SQL Injection",
+      "my": "SQL ထိုးသွင်းခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

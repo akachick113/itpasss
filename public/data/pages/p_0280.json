@@ -1,0 +1,313 @@
+{
+  "page_id": 280,
+  "image": "p_0280.png",
+  "chapter": 7,
+  "section": "07-02",
+  "page_number": 264,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "WBSの最も小さい作業単位",
+      "reading": "だぶるびーえすのもっともちいさいさぎょうたんい",
+      "vi": "Đơn vị công việc nhỏ nhất của WBS",
+      "en": "Smallest Work Unit of WBS"
+    },
+    {
+      "type": "paragraph",
+      "ja": "WBSの最も小さい作業単位のことを「ワークパッケージ」といいます。ワークパッケージは、一般的には、8～80時間程度で作業が完了するくらいの大きさにします。これ以上大きいと見積もりが曖昧になり、反面、これ以上小さいと管理に時間がかかってしまいます。例えば、「1つが5分で終わる」くらい小さく分割されたワークパッケージが1万個もあったら、1つとひとつに遅れがないかを調べるのは現実的ではありません。作業を適度な大きさに分割することが重要です。",
+      "vi": "Đơn vị công việc nhỏ nhất của WBS gọi là \"Work Package\". Work Package thường có kích thước để hoàn thành công việc trong khoảng 8-80 giờ. Lớn hơn thì ước tính trở nên mơ hồ, ngược lại nhỏ hơn thì tốn thời gian quản lý. Ví dụ, nếu có 10.000 Work Package được chia nhỏ đến mức \"1 cái hoàn thành trong 5 phút\", việc kiểm tra từng cái có bị trễ không là không thực tế. Quan trọng là chia công việc thành kích thước vừa phải.",
+      "en": "The smallest work unit of WBS is called 'Work Package.' Work Package is generally sized to complete work in about 8-80 hours. Larger makes estimates vague; smaller takes too much management time. For example, if there were 10,000 work packages divided so small that 'each takes 5 minutes,' checking each for delays isn't realistic. Dividing work into appropriate sizes is important.",
+      "terms": [
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "小",
+          "reading": "ちい"
+        },
+        {
+          "kanji": "作業単位",
+          "reading": "さぎょうたんい"
+        },
+        {
+          "kanji": "一般的",
+          "reading": "いっぱんてき"
+        },
+        {
+          "kanji": "時間程度",
+          "reading": "じかんていど"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "完了",
+          "reading": "かんりょう"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "以上大",
+          "reading": "いじょうだい"
+        },
+        {
+          "kanji": "見積",
+          "reading": "みつもり"
+        },
+        {
+          "kanji": "曖昧",
+          "reading": "あいまい"
+        },
+        {
+          "kanji": "反面",
+          "reading": "はんめん"
+        },
+        {
+          "kanji": "以上小",
+          "reading": "いじょうしょう"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "終",
+          "reading": "おわり"
+        },
+        {
+          "kanji": "分割",
+          "reading": "ぶんかつ"
+        },
+        {
+          "kanji": "万個",
+          "reading": "まんこ"
+        },
+        {
+          "kanji": "遅",
+          "reading": "ち"
+        },
+        {
+          "kanji": "調",
+          "reading": "ちょう"
+        },
+        {
+          "kanji": "現実的",
+          "reading": "げんじつてき"
+        },
+        {
+          "kanji": "適度",
+          "reading": "てきど"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "プロジェクトステークホルダマネジメント",
+      "reading": "ぷろじぇくとすてーくほるだまねじめんと",
+      "vi": "Project Stakeholder Management",
+      "en": "Project Stakeholder Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "プロジェクトステークホルダマネジメントとは、プロジェクトのステークホルダ（利害関係者）を特定し、彼ら・彼女らが効果的にプロジェクトに参加できるように調整することです。",
+      "vi": "Project Stakeholder Management là xác định Stakeholder (bên liên quan) của dự án và điều phối để họ có thể tham gia dự án hiệu quả.",
+      "en": "Project Stakeholder Management is identifying project Stakeholders and coordinating so they can effectively participate in the project.",
+      "terms": [
+        {
+          "kanji": "利害関係者",
+          "reading": "りがいかんけいしゃ"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "彼",
+          "reading": "かれ"
+        },
+        {
+          "kanji": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "kanji": "効果的",
+          "reading": "こうかてき"
+        },
+        {
+          "kanji": "参加",
+          "reading": "さんか"
+        },
+        {
+          "kanji": "調整",
+          "reading": "ちょうせい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では「誰がプロジェクトのステークホルダなのか」が頻繁に出題されます。プロジェクトのステークホルダとは、経営者、プロジェクトマネージャ、プロジェクトメンバー、取引先、スポンサ、株主、地域社会など、プロジェクトから利益や損害を受ける可能性のあるすべての人です。プロジェクトへの関与が間接的であっても、また、社外の人間であっても、個人が特定できなくても、利害関係がある人はすべてステークホルダに含まれます。",
+      "vi": "Trong kỳ thi IT Passport, \"Ai là Stakeholder của dự án\" thường xuyên ra đề. Stakeholder của dự án là tất cả những người có khả năng nhận lợi ích hoặc thiệt hại từ dự án như ban quản lý, Project Manager, Project Member, đối tác, nhà tài trợ, cổ đông, cộng đồng địa phương. Dù sự tham gia vào dự án là gián tiếp, dù là người ngoài công ty, dù không xác định được cá nhân, tất cả những người có quan hệ lợi ích đều thuộc Stakeholder.",
+      "en": "In IT Passport exam, 'Who is project stakeholder' is frequently tested. Project stakeholders include all people who may receive benefits or damages from project: management, Project Manager, Project Members, business partners, sponsors, shareholders, local community, etc. Even if project involvement is indirect, even external people, even when individuals can't be identified, all people with interests are included in stakeholders.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "誰",
+          "reading": "だれ"
+        },
+        {
+          "kanji": "頻繁",
+          "reading": "ひんぱん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "経営者",
+          "reading": "けいえいしゃ"
+        },
+        {
+          "kanji": "取引先",
+          "reading": "とりひきさき"
+        },
+        {
+          "kanji": "株主",
+          "reading": "かぶぬし"
+        },
+        {
+          "kanji": "地域社会",
+          "reading": "ちいきしゃかい"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "損害",
+          "reading": "そんがい"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "関与",
+          "reading": "かんよ"
+        },
+        {
+          "kanji": "間接的",
+          "reading": "かんせつてき"
+        },
+        {
+          "kanji": "社外",
+          "reading": "しゃがい"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "個人",
+          "reading": "こじん"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "利害関係",
+          "reading": "りがいかんけい"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "プロジェクトスコープマネジメントとは、プロジェクトに必要な作業を抽出すること",
+          "vi": "Project Scope Management là trích xuất công việc cần thiết cho dự án",
+          "en": "Project Scope Management is extracting work needed for project"
+        },
+        {
+          "ja": "WBSとは、プロジェクトの作業を階層的に要素分解した図",
+          "vi": "WBS là sơ đồ phân giải phần tử theo phân cấp công việc dự án",
+          "en": "WBS is diagram hierarchically decomposing project work into elements"
+        },
+        {
+          "ja": "ステークホルダとは、プロジェクトから利益や損害を受ける可能性のあるすべての人",
+          "vi": "Stakeholder là tất cả những người có khả năng nhận lợi ích hoặc thiệt hại từ dự án",
+          "en": "Stakeholder is all people who may receive benefits or damages from project"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ワークパッケージ",
+      "reading": "わーくぱっけーじ",
+      "romaji": "Work Package",
+      "vi": "Gói công việc",
+      "en": "Work Package",
+      "my": "လုပ်ငန်း အထုပ်"
+    },
+    {
+      "kanji": "ステークホルダ",
+      "reading": "すてーくほるだ",
+      "romaji": "Stakeholder",
+      "vi": "Bên liên quan",
+      "en": "Stakeholder",
+      "my": "အစုရှမ်းသက်ဆိုင်သူ"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "page_id": 123,
+  "image": "p_0123.png",
+  "chapter": 3,
+  "section": "03-03",
+  "page_number": 107,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ベンチャー企業",
+      "reading": "べんちゃーきぎょう",
+      "vi": "Doanh nghiệp khởi nghiệp (Venture)",
+      "en": "Venture Company",
+      "my": "Venture ကုမ္ပဏီ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "独自の技術で急成長する新興企業のことを「ベンチャー企業」といいます。また、そのベンチャー企業に投資を行う会社をVC（Venture Capital：ベンチャーキャピタル）といいます。Ventureは「冒険」、Capitalは「資本」という意味です。\n\nVCがベンチャー企業に投資する目的は、ベンチャー企業が株式市場に上場した際に得られる値上がり益です。投資先のベンチャー企業が事業に成功して急成長すれば、その企業が株式市場に上場したときに大きな利益を得ることができます。\n\n一方で、多くのベンチャー企業は、既存の大企業と比べて財務基盤が熟成されておらず、経営に失敗するリスクも増えます。\n\nこのように、ベンチャー企業への投資は「ハイリスク、ハイリターン」となるため、一般的に、ベンチャー企業は銀行からの融資が受けづらい傾向にあります。なぜなら、銀行は「企業の信用力」を重視するためです。このため、ベンチャー企業はVCからの投資を受けて、新しいサービスやビジネスを展開していきます。\n\nなお、企業が株式市場に上場することで、自社の未公開株を公開することをIPO（Initial Public Offering）といいます。「ベンチャー企業」「VC」「IPO」の3つは関連する用語なので、セットで覚えておいてください。",
+      "vi": "Doanh nghiệp mới nổi phát triển nhanh bằng công nghệ độc đáo gọi là Doanh nghiệp khởi nghiệp. Ngoài ra, công ty đầu tư vào doanh nghiệp khởi nghiệp gọi là VC (Venture Capital). Venture nghĩa là phiêu lưu, Capital nghĩa là vốn.\n\nMục đích VC đầu tư vào doanh nghiệp khởi nghiệp là lợi nhuận từ tăng giá khi doanh nghiệp niêm yết trên thị trường chứng khoán. Nếu doanh nghiệp được đầu tư thành công và phát triển nhanh, có thể thu lợi lớn khi niêm yết.\n\nMặt khác, nhiều doanh nghiệp khởi nghiệp có nền tảng tài chính chưa vững so với doanh nghiệp lớn, rủi ro thất bại kinh doanh cũng tăng.\n\nNhư vậy, đầu tư vào doanh nghiệp khởi nghiệp là Rủi ro cao, Lợi nhuận cao, nên doanh nghiệp khởi nghiệp khó vay từ ngân hàng. Vì ngân hàng coi trọng Uy tín doanh nghiệp. Do đó, doanh nghiệp khởi nghiệp nhận đầu tư từ VC để phát triển dịch vụ và kinh doanh mới.\n\nLưu ý, việc công ty niêm yết trên thị trường chứng khoán và công khai cổ phiếu chưa công khai gọi là IPO (Initial Public Offering). Doanh nghiệp khởi nghiệp, VC, IPO là 3 thuật ngữ liên quan nên hãy nhớ cùng nhau.",
+      "en": "A rapidly growing startup with unique technology is called Venture Company. Companies investing in ventures are called VC (Venture Capital). Venture means adventure, Capital means capital.\n\nVC invests in ventures to gain capital appreciation when ventures list on stock market. If invested ventures succeed and grow rapidly, large profits can be gained upon listing.\n\nHowever, many ventures have immature financial foundations compared to large companies, increasing failure risk.\n\nThus, venture investment is High Risk, High Return, so ventures tend to have difficulty getting bank loans. Banks emphasize Company Creditworthiness. Therefore, ventures receive VC investment to develop new services and businesses.\n\nNote that a company listing on stock market and offering previously private shares is called IPO (Initial Public Offering). Venture Company, VC, IPO are 3 related terms - remember them together.",
+      "my": "ထူးခြားသော နည်းပညာဖြင့် လျင်မြန်စွာ ကြီးထွားနေသော startup ကို Venture Company ဟုခေါ်သည်။",
+      "terms": [
+        {
+          "kanji": "独自",
+          "reading": "どくじ"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "急成長",
+          "reading": "きゅうせいちょう"
+        },
+        {
+          "kanji": "新興企業",
+          "reading": "しんこうきぎょう"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "投資",
+          "reading": "とうし"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "kanji": "冒険",
+          "reading": "ぼうけん"
+        },
+        {
+          "kanji": "資本",
+          "reading": "しほん"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "株式市場",
+          "reading": "かぶしきしじょう"
+        },
+        {
+          "kanji": "上場",
+          "reading": "じょうじょう"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "値上",
+          "reading": "ねあげ"
+        },
+        {
+          "kanji": "益",
+          "reading": "ます"
+        },
+        {
+          "kanji": "投資先",
+          "reading": "とうしさき"
+        },
+        {
+          "kanji": "事業",
+          "reading": "じぎょう"
+        },
+        {
+          "kanji": "成功",
+          "reading": "せいこう"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "既存",
+          "reading": "きぞん"
+        },
+        {
+          "kanji": "大企業",
+          "reading": "だいきぎょう"
+        },
+        {
+          "kanji": "比",
+          "reading": "ひ"
+        },
+        {
+          "kanji": "財務基盤",
+          "reading": "ざいむきばん"
+        },
+        {
+          "kanji": "熟成",
+          "reading": "じゅくせい"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "失敗",
+          "reading": "しっぱい"
+        },
+        {
+          "kanji": "増",
+          "reading": "ぞう"
+        },
+        {
+          "kanji": "一般的",
+          "reading": "いっぱんてき"
+        },
+        {
+          "kanji": "銀行",
+          "reading": "ぎんこう"
+        },
+        {
+          "kanji": "融資",
+          "reading": "ゆうし"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "傾向",
+          "reading": "けいこう"
+        },
+        {
+          "kanji": "信用力",
+          "reading": "しんようちから"
+        },
+        {
+          "kanji": "重視",
+          "reading": "じゅうし"
+        },
+        {
+          "kanji": "新",
+          "reading": "あたら"
+        },
+        {
+          "kanji": "展開",
+          "reading": "てんかい"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "未公開株",
+          "reading": "みこうかいかぶ"
+        },
+        {
+          "kanji": "公開",
+          "reading": "こうかい"
+        },
+        {
+          "kanji": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・M&Aとは、会社を買収・合併すること\n・アライアンスとは、企業同士が提携すること\n・ジョイントベンチャーとは、複数の企業が共同出資して作った会社\n・IPOとは、自社の株式を株式市場に新規に公開すること",
+        "vi": "・M&A là mua lại/sáp nhập công ty\n・Alliance là doanh nghiệp hợp tác với nhau\n・Joint Venture là công ty được nhiều doanh nghiệp cùng góp vốn tạo ra\n・IPO là công khai cổ phiếu của mình trên thị trường chứng khoán mới",
+        "en": "・M&A is acquiring/merging companies\n・Alliance is companies partnering together\n・Joint Venture is a company created by multiple companies investing together\n・IPO is publicly offering own shares on stock market for the first time",
+        "my": "・ M&A သည် ကုမ္ပဏီများကို ဝယ်ယူခြင်း/ပေါင်းစည်းခြင်းဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "会社",
+            "reading": "かいしゃ"
+          },
+          {
+            "kanji": "買収",
+            "reading": "ばいしゅう"
+          },
+          {
+            "kanji": "合併",
+            "reading": "がっぺい"
+          },
+          {
+            "kanji": "企業同士",
+            "reading": "きぎょうどうし"
+          },
+          {
+            "kanji": "提携",
+            "reading": "ていけい"
+          },
+          {
+            "kanji": "複数",
+            "reading": "ふくすう"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "共同出資",
+            "reading": "きょうどうしゅっし"
+          },
+          {
+            "kanji": "作",
+            "reading": "つく"
+          },
+          {
+            "kanji": "自社",
+            "reading": "じしゃ"
+          },
+          {
+            "kanji": "株式",
+            "reading": "かぶしき"
+          },
+          {
+            "kanji": "株式市場",
+            "reading": "かぶしきしじょう"
+          },
+          {
+            "kanji": "新規",
+            "reading": "しんき"
+          },
+          {
+            "kanji": "公開",
+            "reading": "こうかい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "その他の関連用語",
+      "vi": "Thuật ngữ liên quan khác",
+      "en": "Other Related Terms"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験における出題頻度はそれほど高くはないのですが、稀に出題されることがある、経営戦略に関する用語を一覧で簡単に解説します。これらの用語は問題文や選択肢の中に出てくることもあるので、一度は目を通しておきましょう。",
+      "vi": "Tần suất ra đề trong IT Passport không cao lắm, nhưng sẽ giải thích đơn giản các thuật ngữ chiến lược kinh doanh đôi khi được ra đề. Các thuật ngữ này có thể xuất hiện trong đề bài hoặc lựa chọn nên hãy đọc qua một lần.",
+      "en": "Though not frequently tested in IT Passport, here's a simple list of business strategy terms that occasionally appear. These terms may appear in questions or choices, so read through them once.",
+      "my": "IT Passport တွင် မကြာခဏ စမ်းသပ်ခြင်း မရှိသော်လည်း ရံဖန်ရံခါ ပေါ်လာသော စီးပွားရေးဗျူဟာ ဝေါဟာရများ စာရင်းကို ဤနေရာတွင် ရိုးရှင်းစွာ ဖော်ပြထားသည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "稀",
+          "reading": "まれ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "経営戦略",
+          "reading": "けいえいせんりゃく"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "一覧",
+          "reading": "いちらん"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "問題文",
+          "reading": "もんだいぶん"
+        },
+        {
+          "kanji": "選択肢",
+          "reading": "せんたくし"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "一度",
+          "reading": "いちど"
+        },
+        {
+          "kanji": "目",
+          "reading": "め"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ベンチャー企業",
+      "reading": "べんちゃーきぎょう",
+      "romaji": "Venture Kigyou",
+      "vi": "Doanh nghiệp khởi nghiệp",
+      "en": "Venture Company",
+      "my": "Venture ကုမ္ပဏီ"
+    },
+    {
+      "kanji": "VC",
+      "reading": "ぶいしー",
+      "romaji": "Venture Capital",
+      "vi": "Quỹ đầu tư mạo hiểm",
+      "en": "Venture Capital",
+      "my": "Venture Capital"
+    },
+    {
+      "kanji": "IPO",
+      "reading": "あいぴーおー",
+      "romaji": "IPO",
+      "vi": "Phát hành cổ phiếu lần đầu",
+      "en": "Initial Public Offering",
+      "my": "IPO"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "page_id": 479,
+  "image": "p_0479.png",
+  "chapter": 13,
+  "section": "13-02",
+  "page_number": 463,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "「教員番号」列があります。",
+      "vi": "có cột \"Mã giáo viên\".",
+      "en": "'Teacher ID' column.",
+      "terms": [
+        {
+          "kanji": "教員番号",
+          "reading": "きょういんばんごう"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "通常、関係データベースでは、上図のように、データの内容や種類ごとに表を分けてデータを管理します。そうすることで、データの管理がより明確になり、容易に扱えるようになります。",
+      "vi": "Thông thường, trong cơ sở dữ liệu quan hệ, như hình trên, quản lý dữ liệu bằng cách chia bảng theo nội dung và loại dữ liệu. Làm như vậy, việc quản lý dữ liệu trở nên rõ ràng hơn và dễ xử lý hơn.",
+      "en": "Normally, in relational database, as shown above, manage data by dividing tables by content and type of data. By doing so, data management becomes clearer and easier to handle.",
+      "terms": [
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "容易",
+          "reading": "ようい"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "「学生」表には「教員番号」がありますが、「教員名」はありません。このため、例えば、山田太郎くんの担当教員を調べるには、最初に「学生番号」列の値が「1」の行を検索し、その行「教員番号」列の値を調べ（教員番号=3）、その値を使って「教員」表を検索します。その結果、担当教員が「伊藤一郎」であることがわかります。",
+      "vi": "Bảng \"Sinh viên\" có \"Mã giáo viên\" nhưng không có \"Tên giáo viên\". Vì vậy, ví dụ, để tra giáo viên phụ trách của Yamada Taro, trước tiên tìm hàng có giá trị cột \"Mã sinh viên\" là \"1\", sau đó tra giá trị cột \"Mã giáo viên\" của hàng đó (Mã giáo viên=3), rồi dùng giá trị đó để tìm trong bảng \"Giáo viên\". Kết quả, biết được giáo viên phụ trách là \"Ito Ichiro\".",
+      "en": "Student table has 'Teacher ID' but no 'Teacher Name.' So, for example, to find Yamada Taro's teacher, first search row where 'Student ID' value is '1,' then check that row's 'Teacher ID' value (Teacher ID=3), then use that value to search 'Teacher' table. Result shows responsible teacher is 'Ito Ichiro.'",
+      "terms": [
+        {
+          "kanji": "学生",
+          "reading": "がくせい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "教員番号",
+          "reading": "きょういんばんごう"
+        },
+        {
+          "kanji": "教員名",
+          "reading": "きょういんめい"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "山田太郎",
+          "reading": "やまだたろう"
+        },
+        {
+          "kanji": "担当教員",
+          "reading": "たんとうきょういん"
+        },
+        {
+          "kanji": "調",
+          "reading": "ちょう"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "学生番号",
+          "reading": "がくせいばんごう"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "検索",
+          "reading": "けんさく"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "教員",
+          "reading": "きょういん"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "伊藤一郎",
+          "reading": "いとういちろう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、別の表の主キーを参照する列のことを「外部キー」といいます。",
+      "vi": "Như vậy, cột tham chiếu khóa chính của bảng khác được gọi là \"Khóa ngoại\".",
+      "en": "Thus, column referencing primary key of another table is called 'Foreign Key.'",
+      "terms": [
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "外部",
+          "reading": "がいぶ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "インデックス",
+      "vi": "Chỉ mục",
+      "en": "Index"
+    },
+    {
+      "type": "paragraph",
+      "ja": "インデックスとは、データの検索を高速化するための情報です。インデックスとは「索引」という意味であり、その仕組みも「本の索引」と同じです。",
+      "vi": "Chỉ mục là thông tin để tăng tốc tìm kiếm dữ liệu. Chỉ mục có nghĩa là \"mục lục\", và cơ chế của nó cũng giống với \"mục lục sách\".",
+      "en": "Index is information to speed up data search. Index means 'index,' and its mechanism is same as 'book index.'",
+      "terms": [
+        {
+          "kanji": "検索",
+          "reading": "けんさく"
+        },
+        {
+          "kanji": "高速化",
+          "reading": "こうそくか"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "索引",
+          "reading": "さくいん"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "本",
+          "reading": "ほん"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "本の索引を見ると、各用語が記載されているページをすぐに見つけることができます。これと同様に、データベースにインデックスを作っておけば、必要なデータを素早く見つけることができます。",
+      "vi": "Khi xem mục lục sách, có thể nhanh chóng tìm trang ghi thuật ngữ đó. Tương tự, nếu tạo chỉ mục trong cơ sở dữ liệu, có thể nhanh chóng tìm dữ liệu cần thiết.",
+      "en": "Looking at book index, can quickly find page where term is written. Similarly, if creating index in database, can quickly find needed data.",
+      "terms": [
+        {
+          "kanji": "本",
+          "reading": "ほん"
+        },
+        {
+          "kanji": "索引",
+          "reading": "さくいん"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "各用語",
+          "reading": "かくようご"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "素早",
+          "reading": "もとそう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "本の索引",
+        "vi": "Mục lục sách",
+        "en": "Book Index"
+      },
+      "description": {
+        "ja": "索引例：用語（ページ）- アウトソーシングとは…→108ページ。「ページをすぐに見つけられる！」",
+        "vi": "Ví dụ mục lục: Thuật ngữ (Trang) - Outsourcing là...→Trang 108. \"Có thể tìm trang ngay lập tức!\"",
+        "en": "Index example: Term (Page) - Outsourcing is...→Page 108. 'Can find page immediately!'"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "主キーは、同一の値を持つことができない（重複はダメ）",
+          "vi": "Khóa chính không thể có giá trị giống nhau (trùng lặp không được)",
+          "en": "Primary key cannot have same value (duplicates not allowed)"
+        },
+        {
+          "ja": "主キーは、NULLの値を持つことができない（NULLはダメ）",
+          "vi": "Khóa chính không thể có giá trị NULL (NULL không được)",
+          "en": "Primary key cannot have NULL value (NULL not allowed)"
+        },
+        {
+          "ja": "主キーは、複数の列を組み合わせて設定できる（複合主キー）",
+          "vi": "Khóa chính có thể được đặt bằng cách kết hợp nhiều cột (khóa chính phức hợp)",
+          "en": "Primary key can be set by combining multiple columns (composite primary key)"
+        },
+        {
+          "ja": "インデックスは、データの検索を高速化する",
+          "vi": "Chỉ mục tăng tốc tìm kiếm dữ liệu",
+          "en": "Index speeds up data search"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "外部キー",
+      "reading": "がいぶキー",
+      "vi": "Khóa ngoại",
+      "en": "Foreign Key",
+      "my": "ဖောရင် ကီး"
+    },
+    {
+      "term": "インデックス",
+      "vi": "Chỉ mục",
+      "en": "Index",
+      "my": "အင်ဒက်"
+    },
+    {
+      "term": "索引",
+      "reading": "さくいん",
+      "vi": "Mục lục",
+      "en": "Index",
+      "my": "အင်ဒက်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

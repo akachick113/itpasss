@@ -1,0 +1,443 @@
+{
+  "page_id": 339,
+  "image": "p_0339.png",
+  "chapter": 9,
+  "section": "09-02",
+  "page_number": 323,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "部分集合",
+      "reading": "ぶぶんしゅうごう",
+      "vi": "Tập con",
+      "en": "Subset"
+    },
+    {
+      "type": "paragraph",
+      "ja": "集合Aの要素が、集合Bの一部、もしくは全部になっているとき、「AはBの部分集合である」といいます。",
+      "vi": "Khi các phần tử của tập A là một phần hoặc toàn bộ của tập B, ta nói \"A là tập con của B\".",
+      "en": "When elements of set A are part or all of set B, we say 'A is subset of B.'",
+      "terms": [
+        {
+          "kanji": "集合",
+          "reading": "しゅうごう"
+        },
+        {
+          "kanji": "要素",
+          "reading": "ようそ"
+        },
+        {
+          "kanji": "一部",
+          "reading": "いちぶ"
+        },
+        {
+          "kanji": "全部",
+          "reading": "ぜんぶ"
+        },
+        {
+          "kanji": "部分集合",
+          "reading": "ぶぶんしゅうごう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "次の図は部分集合の例です。",
+      "vi": "Hình sau là ví dụ về tập con.",
+      "en": "Following diagram is subset example.",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "部分集合",
+          "reading": "ぶぶんしゅうごう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "部分集合",
+        "vi": "Tập con",
+        "en": "Subset"
+      },
+      "items": [
+        {
+          "ja": "A（色付き部分）はBの部分集合",
+          "vi": "A (phần tô màu) là tập con của B",
+          "en": "A (colored part) is subset of B"
+        },
+        {
+          "ja": "A∩B（色付き部分）はAの部分集合",
+          "vi": "A∩B (phần tô màu) là tập con của A",
+          "en": "A∩B (colored part) is subset of A"
+        },
+        {
+          "ja": "A∩B（色付き部分）はBの部分集合",
+          "vi": "A∩B (phần tô màu) là tập con của B",
+          "en": "A∩B (colored part) is subset of B"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "論理演算",
+      "reading": "ろんりえんざん",
+      "vi": "Phép toán Logic",
+      "en": "Logical Operations"
+    },
+    {
+      "type": "paragraph",
+      "ja": "私たちが小学校で学び、普段利用している「たし算」「ひき算」「かけ算」「わり算」は四則演算と呼ばれる演算です。演算の記号は＋、－、×、÷を使います。例えば「3＋7」の計算結果は「10」になります。",
+      "vi": "\"Cộng\" \"Trừ\" \"Nhân\" \"Chia\" mà chúng ta học ở tiểu học và sử dụng hàng ngày là các phép toán gọi là tứ tắc. Ký hiệu phép toán sử dụng +, -, ×, ÷. Ví dụ kết quả \"3+7\" là \"10\".",
+      "en": "Addition, subtraction, multiplication, division we learned in elementary school are called arithmetic operations. Symbols use +, -, ×, ÷. For example, '3+7' result is '10.'",
+      "terms": [
+        {
+          "kanji": "私",
+          "reading": "わたし"
+        },
+        {
+          "kanji": "小学校",
+          "reading": "しょうがっこう"
+        },
+        {
+          "kanji": "学",
+          "reading": "がく"
+        },
+        {
+          "kanji": "普段利用",
+          "reading": "ふだんりよう"
+        },
+        {
+          "kanji": "算",
+          "reading": "さん"
+        },
+        {
+          "kanji": "四則演算",
+          "reading": "しそくえんざん"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "演算",
+          "reading": "えんざん"
+        },
+        {
+          "kanji": "記号",
+          "reading": "きごう"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "計算結果",
+          "reading": "けいさんけっか"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここで学ぶ論理演算とは、四則演算とは別の演算方式です。先述したように、コンピュータの世界は「0」（電圧が低い）と「1」（電圧が高い）の2進数の世界なので（p.316）、コンピュータは直接、四則演算を行うことはできません。",
+      "vi": "Phép toán logic học ở đây là phương thức phép toán khác với tứ tắc. Như đã nói, thế giới máy tính là thế giới nhị phân \"0\" (điện áp thấp) và \"1\" (điện áp cao) (trang 316), nên máy tính không thể trực tiếp thực hiện tứ tắc.",
+      "en": "Logical operations learned here are different from arithmetic. As mentioned, computer world is binary world of '0' (low voltage) and '1' (high voltage) (p.316), so computers can't directly perform arithmetic.",
+      "terms": [
+        {
+          "kanji": "学",
+          "reading": "がく"
+        },
+        {
+          "kanji": "論理演算",
+          "reading": "ろんりえんざん"
+        },
+        {
+          "kanji": "四則演算",
+          "reading": "しそくえんざん"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "演算方式",
+          "reading": "えんざんほうしき"
+        },
+        {
+          "kanji": "先述",
+          "reading": "せんじゅつ"
+        },
+        {
+          "kanji": "世界",
+          "reading": "せかい"
+        },
+        {
+          "kanji": "電圧",
+          "reading": "でんあつ"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "直接",
+          "reading": "ちょくせつ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "そこで、コンピュータに計算をさせるために応用されたのが論理演算です。コンピュータは、論理演算を組み合わせることで、10進数の四則演算をはじめ、さまざまな計算を行います。",
+      "vi": "Do đó, phép toán logic được ứng dụng để máy tính tính toán. Máy tính thực hiện các phép tính khác nhau, bao gồm tứ tắc thập phân, bằng cách kết hợp các phép toán logic.",
+      "en": "Therefore, logical operations are applied for computers to calculate. Computers perform various calculations including decimal arithmetic by combining logical operations.",
+      "terms": [
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "応用",
+          "reading": "おうよう"
+        },
+        {
+          "kanji": "論理演算",
+          "reading": "ろんりえんざん"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "四則演算",
+          "reading": "しそくえんざん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "論理演算の基本",
+      "reading": "ろんりえんざんのきほん",
+      "vi": "Cơ bản của Phép toán Logic",
+      "en": "Basics of Logical Operations"
+    },
+    {
+      "type": "paragraph",
+      "ja": "論理演算とは、2進数の1桁のみを対象にした演算方式です。つまり、論理演算が扱う数字は「0」と「1」の2種類であり、その計算結果も常に「0」か「1」のいずれかになります。このように聞くと非常に簡単そうに聞こえると思いますが、きちんと理屈を理解しておかないと計算結果を誤ってしまうことがあるので注意が必要です。",
+      "vi": "Phép toán logic là phương thức chỉ đối tượng 1 chữ số nhị phân. Nghĩa là, số mà phép toán logic xử lý chỉ có 2 loại \"0\" và \"1\", kết quả cũng luôn là \"0\" hoặc \"1\". Nghe như vậy có vẻ rất đơn giản, nhưng cần chú ý vì có thể tính sai nếu không hiểu rõ lý thuyết.",
+      "en": "Logical operations target only 1-digit binary. That is, numbers handled are only '0' and '1,' and results are always either '0' or '1.' This sounds simple, but be careful as mistakes can happen without proper understanding.",
+      "terms": [
+        {
+          "kanji": "論理演算",
+          "reading": "ろんりえんざん"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "桁",
+          "reading": "けた"
+        },
+        {
+          "kanji": "対象",
+          "reading": "たいしょう"
+        },
+        {
+          "kanji": "演算方式",
+          "reading": "えんざんほうしき"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "数字",
+          "reading": "すうじ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "計算結果",
+          "reading": "けいさんけっか"
+        },
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "聞",
+          "reading": "き"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "理屈",
+          "reading": "りくつ"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "誤",
+          "reading": "ご"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "四則演算の演算子は＋、－、×、÷の4種類でした。論理演算の主な演算子はAND、OR、XOR、NOTの4種類です。",
+      "vi": "Toán tử tứ tắc có 4 loại +, -, ×, ÷. Toán tử chính của phép toán logic có 4 loại AND, OR, XOR, NOT.",
+      "en": "Arithmetic operators were 4 types: +, -, ×, ÷. Main logical operators are 4 types: AND, OR, XOR, NOT.",
+      "terms": [
+        {
+          "kanji": "四則演算",
+          "reading": "しそくえんざん"
+        },
+        {
+          "kanji": "演算子",
+          "reading": "えんざんし"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "論理演算",
+          "reading": "ろんりえんざん"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "四則演算の計算結果は無限にあるので1つの表にまとめることはできませんが、論理演算の計算結果は数個しかないので、1つの表にまとめることができます。これを「真理値表」といいます。",
+      "vi": "Kết quả tứ tắc có vô hạn nên không thể tổng hợp vào 1 bảng, nhưng kết quả phép toán logic chỉ có vài cái nên có thể tổng hợp vào 1 bảng. Đây gọi là \"Bảng chân trị\".",
+      "en": "Arithmetic results are infinite so can't be summarized in one table, but logical operation results are few so can be summarized. This is called 'Truth Table.'",
+      "terms": [
+        {
+          "kanji": "四則演算",
+          "reading": "しそくえんざん"
+        },
+        {
+          "kanji": "計算結果",
+          "reading": "けいさんけっか"
+        },
+        {
+          "kanji": "無限",
+          "reading": "むげん"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "論理演算",
+          "reading": "ろんりえんざん"
+        },
+        {
+          "kanji": "数個",
+          "reading": "すうこ"
+        },
+        {
+          "kanji": "真理値表",
+          "reading": "しんりちひょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "論理演算",
+      "reading": "ろんりえんざん",
+      "romaji": "Ronri Enzan",
+      "vi": "Phép toán logic",
+      "en": "Logical Operation",
+      "my": "ယုတ္တိစိတ် တွက်ချက်"
+    },
+    {
+      "kanji": "四則演算",
+      "reading": "しそくえんざん",
+      "romaji": "Shisoku Enzan",
+      "vi": "Phép tính cơ bản",
+      "en": "Arithmetic",
+      "my": "အ္ထမေတိက်"
+    },
+    {
+      "kanji": "真理値表",
+      "reading": "しんりちひょう",
+      "romaji": "Shinrichihyou",
+      "vi": "Bảng chân trị",
+      "en": "Truth Table",
+      "my": "အမှန် ဇယား"
+    }
+  ],
+  "meta": {
+    "has_diagram": true
+  }
+}

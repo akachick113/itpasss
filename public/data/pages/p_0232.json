@@ -1,0 +1,130 @@
+{
+    "page_id": 232,
+    "image": "p_0232.png",
+    "chapter": 5,
+    "section": "practice",
+    "page_number": 216,
+    "content": [
+        {
+            "type": "section_header",
+            "ja": "出る順！過去問＆完全解説",
+            "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích đầy đủ",
+            "en": "In Order of Frequency! Past Questions & Complete Explanations"
+        },
+        {
+            "type": "exam_question",
+            "number": "5-11",
+            "year": "サンプル問題",
+            "question": {
+                "ja": "情報リテラシーを説明したものはどれか。",
+                "vi": "Giải thích về Information Literacy là gì?",
+                "en": "Which explains Information Literacy?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "PC保有の有無などによって、情報技術をもつ者ともたない者との間に生じる、情報化が生む経済格差のことである。",
+                    "vi": "Là sự chênh lệch kinh tế do thông tin hóa phát sinh giữa người có và không có công nghệ thông tin do có/không có PC.",
+                    "en": "Economic gap from informatization between those with and without information technology due to PC ownership."
+                },
+                {
+                    "label": "イ",
+                    "ja": "PCを利用して、情報の整理・蓄積や分析などを行ったり、インターネットなどを使って情報を収集・発信したりする、情報を取り扱う能力のことである。",
+                    "vi": "Là năng lực xử lý thông tin như sắp xếp, lưu trữ, phân tích thông tin bằng PC, hoặc thu thập, phát thông tin bằng internet.",
+                    "en": "Ability to handle information: organizing, storing, analyzing using PC, or collecting/sending information using internet.",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "企業が競争優位を構築するために、IT戦略の策定・実行をガイドし、あるべき方向へ導く組織能力のことである。",
+                    "vi": "Là năng lực tổ chức hướng dẫn việc lập và thực hiện chiến lược IT để doanh nghiệp xây dựng lợi thế cạnh tranh.",
+                    "en": "Organizational capability to guide IT strategy formulation/execution to build competitive advantage."
+                },
+                {
+                    "label": "エ",
+                    "ja": "情報通信機器やソフトウェア、情報サービスなど、障害者・高齢者などすべての人が利用可能であるかを表す度合いのことである。",
+                    "vi": "Là mức độ biểu thị tất cả mọi người gồm người khuyết tật, người cao tuổi có thể sử dụng thiết bị thông tin, phần mềm, dịch vụ thông tin.",
+                    "en": "Degree showing whether information devices, software, services are usable by all including disabled and elderly."
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-12",
+            "year": "平成24年度",
+            "question": {
+                "ja": "経営判断や業務遂行などに活用するために、データベースに蓄積された顧客の購買履歴などのデータを分析して、有用な情報を抽出する手法はどれか。",
+                "vi": "Phương pháp phân tích dữ liệu như lịch sử mua hàng của khách được lưu trong database và trích xuất thông tin hữu ích để sử dụng cho quyết định kinh doanh hoặc thực hiện nghiệp vụ là gì?",
+                "en": "Which method analyzes data like customer purchase history accumulated in databases and extracts useful information for business decisions or work execution?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "データクレンジング",
+                    "vi": "Data Cleansing",
+                    "en": "Data Cleansing"
+                },
+                {
+                    "label": "イ",
+                    "ja": "データマイニング",
+                    "vi": "Data Mining",
+                    "en": "Data Mining",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "データマネージング",
+                    "vi": "Data Managing",
+                    "en": "Data Managing"
+                },
+                {
+                    "label": "エ",
+                    "ja": "データモデリング",
+                    "vi": "Data Modeling",
+                    "en": "Data Modeling"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-13",
+            "year": "令和5年度",
+            "question": {
+                "ja": "データサイエンティストの役割に関する記述として、最も適切なものはどれか。",
+                "vi": "Mô tả phù hợp nhất về vai trò của Data Scientist là gì?",
+                "en": "Which is the most appropriate description of a Data Scientist's role?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "機械学習や統計などの手法を用いてビッグデータを解析することによって、ビジネスに活用するための新たな知見を獲得する。",
+                    "vi": "Bằng cách phân tích Big Data sử dụng phương pháp như machine learning và thống kê, thu được kiến thức mới để sử dụng cho kinh doanh.",
+                    "en": "By analyzing Big Data using methods like machine learning and statistics, obtain new insights for business use.",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "企業が保有する膨大なデータを高速に検索できるように、パフォーマンスの高いデータベースを運用するためのシステム基盤を構築する。",
+                    "vi": "Xây dựng nền tảng hệ thống để vận hành database hiệu suất cao để có thể tìm kiếm nhanh dữ liệu khổng lồ doanh nghiệp sở hữu.",
+                    "en": "Build system infrastructure to operate high-performance databases for fast searching of massive company data."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "企業における情報システムに関するリスクを評価するために、現場でのデータの取扱いや管理についての実態を調査する。",
+                    "vi": "Điều tra thực trạng xử lý và quản lý dữ liệu tại hiện trường để đánh giá rủi ro về hệ thống thông tin trong doanh nghiệp.",
+                    "en": "Survey actual data handling and management on-site to evaluate information system risks in companies."
+                },
+                {
+                    "label": "エ",
+                    "ja": "企業や組織における安全な情報システムの企画、設計、開発、運用を、サイバーセキュリティに関する専門的な知識や技能を活用して支援する。",
+                    "vi": "Hỗ trợ lập kế hoạch, thiết kế, phát triển, vận hành hệ thống thông tin an toàn trong doanh nghiệp hoặc tổ chức bằng kiến thức và kỹ năng chuyên môn về an ninh mạng.",
+                    "en": "Support safe information system planning, design, development, operation in companies/organizations using cybersecurity expertise."
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 3
+    }
+}

@@ -1,0 +1,207 @@
+{
+  "page_id": 454,
+  "image": "p_0454.png",
+  "chapter": 12,
+  "section": "12-04",
+  "page_number": 438,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "12-04",
+      "title": {
+        "ja": "アプリケーションソフトウェア",
+        "vi": "Phần mềm ứng dụng",
+        "en": "Application Software"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "便利なコピー機",
+        "vi": "Máy photocopy tiện lợi",
+        "en": "Convenient Copier"
+      },
+      "content": {
+        "ja": "コピー機は、まったく同じ書類を複製します。一方で、表計算ソフトのコピーは、人間の手間を省くように複製を行ってくれます。",
+        "vi": "Máy photocopy sao chép tài liệu hoàn toàn giống nhau. Mặt khác, sao chép của phần mềm bảng tính thực hiện sao chép theo cách tiết kiệm công sức của con người.",
+        "en": "Copier duplicates exactly same documents. On other hand, spreadsheet software's copy duplicates in way that saves human effort."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "本章のここまでは、ソフトウェアの要素の1つである「OS」について解説してきました。ここからは、みなさんにおなじみの「アプリケーションソフトウェア」について説明します。",
+      "vi": "Đến đây trong chương này, đã giải thích về \"OS\" - một trong các yếu tố của phần mềm. Từ đây, sẽ giải thích về \"Phần mềm ứng dụng\" quen thuộc với mọi người.",
+      "en": "Until now in this chapter, explained 'OS' - one of software elements. From here, will explain 'Application Software' familiar to everyone.",
+      "terms": [
+        {
+          "kanji": "本章",
+          "reading": "ほんしょう"
+        },
+        {
+          "kanji": "要素",
+          "reading": "ようそ"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "説明",
+          "reading": "せつめい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "アプリケーションソフトウェアとは、ユーザーに特定の機能を提供するソフトウェアです。具体的には、Webブラウザや文書作成ソフト、表計算ソフトなどがあります。",
+      "vi": "Phần mềm ứng dụng là phần mềm cung cấp chức năng cụ thể cho người dùng. Cụ thể, có trình duyệt Web, phần mềm tạo tài liệu, phần mềm bảng tính, v.v.",
+      "en": "Application software is software providing specific functions to users. Specifically, includes web browser, document creation software, spreadsheet software, etc.",
+      "terms": [
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "文書作成",
+          "reading": "ぶんしょさくせい"
+        },
+        {
+          "kanji": "表計算",
+          "reading": "ひょうけいさん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、数あるアプリケーションソフトウェアのなかでも「表計算ソフトの使い方」がよく出題されます。",
+      "vi": "Trong kỳ thi IT Passport, trong số nhiều phần mềm ứng dụng, \"cách sử dụng phần mềm bảng tính\" thường được ra đề.",
+      "en": "In IT Passport exam, among many application software, 'how to use spreadsheet software' often appears.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "表計算",
+          "reading": "ひょうけいさん"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "方",
+          "reading": "かた"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "表計算ソフトとは",
+      "vi": "Phần mềm bảng tính là gì",
+      "en": "What is Spreadsheet Software"
+    },
+    {
+      "type": "paragraph",
+      "ja": "表計算ソフトとは、表に書き込まれた数値の計算をするソフトウェアです。",
+      "vi": "Phần mềm bảng tính là phần mềm tính toán các giá trị số được ghi trong bảng.",
+      "en": "Spreadsheet software is software calculating numerical values written in tables.",
+      "terms": [
+        {
+          "kanji": "表計算",
+          "reading": "ひょうけいさん"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "込",
+          "reading": "こみ"
+        },
+        {
+          "kanji": "数値",
+          "reading": "すうち"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "表計算ソフトの例",
+        "vi": "Ví dụ phần mềm bảng tính",
+        "en": "Spreadsheet Software Example"
+      },
+      "description": {
+        "ja": "列（A〜E）と行（1、2）からなるワークシート。セル(A1)には「名前」、(B1)には「国語」など。セルE2に「合計」の計算式を入力",
+        "vi": "Worksheet gồm cột (A~E) và hàng (1, 2). Ô (A1) có \"Tên\", (B1) có \"Tiếng Nhật\", v.v. Nhập công thức tính \"Tổng\" vào ô E2",
+        "en": "Worksheet with columns (A-E) and rows (1, 2). Cell (A1) has 'Name', (B1) has 'Japanese', etc. Enter 'Total' formula in cell E2"
+      },
+      "annotations": {
+        "ja": "列、行、セル、ワークシートの各要素を図示",
+        "vi": "Minh họa các yếu tố cột, hàng, ô, worksheet",
+        "en": "Illustrating column, row, cell, worksheet elements"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "アプリケーションソフトウェア",
+      "vi": "Phần mềm ứng dụng",
+      "en": "Application Software",
+      "my": "အပ်ပလီကေးရှင်း ဆော့ဖ်ဝဲ"
+    },
+    {
+      "term": "表計算ソフト",
+      "reading": "ひょうけいさんソフト",
+      "vi": "Phần mềm bảng tính",
+      "en": "Spreadsheet Software",
+      "my": "စပရက်ရှိက် ဆော့ဖ်ဝဲ"
+    },
+    {
+      "term": "セル",
+      "vi": "Ô (Cell)",
+      "en": "Cell",
+      "my": "ဆဲလ်"
+    },
+    {
+      "term": "ワークシート",
+      "vi": "Worksheet",
+      "en": "Worksheet",
+      "my": "ဝေါးခ်ရှိက်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

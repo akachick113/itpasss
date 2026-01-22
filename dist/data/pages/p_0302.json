@@ -1,0 +1,270 @@
+{
+  "page_id": 302,
+  "image": "p_0302.png",
+  "chapter": 8,
+  "section": "08-03",
+  "page_number": 286,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "08-03",
+      "title": {
+        "ja": "サービスサポート",
+        "vi": "Service Support",
+        "en": "Service Support"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "症状と原因を分ける",
+        "vi": "Phân biệt triệu chứng và nguyên nhân",
+        "en": "Separate Symptoms and Causes"
+      },
+      "content": {
+        "ja": "パソコンの電源ボタンを押しても起動しないと思ったら、電源プラグがコンセントから抜けていた、なんてことはないでしょうか。症状と原因を切り分けると問題の見通しが良くなります。",
+        "vi": "Bạn có bao giờ nghĩ máy tính không khởi động khi nhấn nút nguồn, rồi phát hiện phích cắm bị rút khỏi ổ điện không? Phân biệt triệu chứng và nguyên nhân giúp nhìn rõ vấn đề hơn.",
+        "en": "Have you ever thought computer wouldn't start when pressing power button, only to find power plug was unplugged from outlet? Separating symptoms and causes gives better problem visibility."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、「サービスサポート」について詳しく解説していきます。サービスサポートとは、日々のITサービスの運用です。",
+      "vi": "Từ đây, sẽ giải thích chi tiết về \"Service Support\". Service Support là vận hành IT Service hàng ngày.",
+      "en": "From here, we'll explain 'Service Support' in detail. Service Support is daily IT Service operation.",
+      "terms": [
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "日",
+          "reading": "にち"
+        },
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "サービスサポートは主に次のプロセスや機能で構成されます。",
+      "vi": "Service Support chủ yếu bao gồm các quy trình và chức năng sau.",
+      "en": "Service Support mainly consists of following processes and functions.",
+      "terms": [
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "サービスサポートを構成する主なプロセスと機能",
+        "vi": "Các quy trình và chức năng chính cấu thành Service Support",
+        "en": "Main Processes and Functions Composing Service Support"
+      },
+      "headers": {
+        "ja": [
+          "プロセス／機能",
+          "説明"
+        ],
+        "vi": [
+          "Process/Function",
+          "Giải thích"
+        ],
+        "en": [
+          "Process/Function",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "process": {
+            "ja": "インシデント管理",
+            "vi": "Incident Management",
+            "en": "Incident Management"
+          },
+          "description": {
+            "ja": "サービスを迅速に復旧させる活動",
+            "vi": "Hoạt động khôi phục dịch vụ nhanh chóng",
+            "en": "Activity to quickly restore service"
+          }
+        },
+        {
+          "process": {
+            "ja": "問題管理",
+            "vi": "Problem Management",
+            "en": "Problem Management"
+          },
+          "description": {
+            "ja": "障害の根本原因を究明し、再発を防止する活動",
+            "vi": "Hoạt động tìm nguyên nhân gốc của sự cố và ngăn chặn tái phát",
+            "en": "Activity to investigate root cause of failure and prevent recurrence"
+          }
+        },
+        {
+          "process": {
+            "ja": "構成管理",
+            "vi": "Configuration Management",
+            "en": "Configuration Management"
+          },
+          "description": {
+            "ja": "IT資産を正確に把握し、不正使用を防止する活動",
+            "vi": "Hoạt động nắm chính xác tài sản IT và ngăn chặn sử dụng trái phép",
+            "en": "Activity to accurately grasp IT assets and prevent unauthorized use"
+          }
+        },
+        {
+          "process": {
+            "ja": "変更管理",
+            "vi": "Change Management",
+            "en": "Change Management"
+          },
+          "description": {
+            "ja": "システムの変更を承認し、実施計画を立てる活動",
+            "vi": "Hoạt động phê duyệt thay đổi hệ thống và lập kế hoạch thực hiện",
+            "en": "Activity to approve system changes and create implementation plan"
+          }
+        },
+        {
+          "process": {
+            "ja": "リリース及び展開管理",
+            "vi": "Release and Deployment Management",
+            "en": "Release and Deployment Management"
+          },
+          "description": {
+            "ja": "変更管理で承認された変更を本番環境に実装すること",
+            "vi": "Triển khai các thay đổi được phê duyệt trong Change Management vào môi trường production",
+            "en": "Implement changes approved in Change Management to production environment"
+          }
+        },
+        {
+          "process": {
+            "ja": "サービスデスク",
+            "vi": "Service Desk",
+            "en": "Service Desk"
+          },
+          "description": {
+            "ja": "トラブルなどの問い合わせを受け付ける単一の窓口",
+            "vi": "Cửa sổ duy nhất tiếp nhận yêu cầu về sự cố",
+            "en": "Single point of contact for receiving trouble inquiries"
+          }
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "プロセスと機能",
+      "reading": "ぷろせすときのう",
+      "vi": "Process và Function",
+      "en": "Process and Function",
+      "note": "学習のポイント"
+    },
+    {
+      "type": "paragraph",
+      "ja": "サービスサポートを構成する6つの項目のうち、インシデント管理からリリース及び展開管理までの項目は「プロセス」ですが、サービスデスクのみ「機能」と呼ばれます。プロセスとは「ビジネスの目標を達成するための活動」であり、機能とは「複数のプロセスを支える活動」です。",
+      "vi": "Trong 6 hạng mục cấu thành Service Support, từ Incident Management đến Release and Deployment Management là \"Process\", nhưng chỉ Service Desk được gọi là \"Function\". Process là \"hoạt động để đạt mục tiêu kinh doanh\", Function là \"hoạt động hỗ trợ nhiều Process\".",
+      "en": "Among 6 items composing Service Support, Incident Management through Release and Deployment Management are 'Processes,' but only Service Desk is called 'Function.' Process is 'activity to achieve business goals,' Function is 'activity supporting multiple Processes.'",
+      "terms": [
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "及",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "展開管理",
+          "reading": "てんかいかんり"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "目標",
+          "reading": "もくひょう"
+        },
+        {
+          "kanji": "達成",
+          "reading": "たっせい"
+        },
+        {
+          "kanji": "活動",
+          "reading": "かつどう"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "支",
+          "reading": "し"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "サービスサポート",
+      "reading": "さーびすさぽーと",
+      "romaji": "Service Support",
+      "vi": "Hỗ trợ dịch vụ",
+      "en": "Service Support",
+      "my": "ဆားဗစ် ပံ့ပိုးမှု"
+    },
+    {
+      "kanji": "インシデント管理",
+      "reading": "いんしでんとかんり",
+      "romaji": "Incident Kanri",
+      "vi": "Quản lý sự cố",
+      "en": "Incident Management",
+      "my": "အဖြစ်အပျက် မန်နေ့ဂျမန့်"
+    },
+    {
+      "kanji": "問題管理",
+      "reading": "もんだいかんり",
+      "romaji": "Mondai Kanri",
+      "vi": "Quản lý vấn đề",
+      "en": "Problem Management",
+      "my": "ပြဿနာ မန်နေ့ဂျမန့်"
+    }
+  ],
+  "meta": {
+    "has_illustration": true,
+    "has_table": true
+  }
+}

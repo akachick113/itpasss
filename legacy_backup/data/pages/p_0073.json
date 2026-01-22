@@ -1,0 +1,355 @@
+{
+  "page_id": 73,
+  "image": "p_0073.png",
+  "chapter": 2,
+  "section": "02-01",
+  "page_number": 57,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "知的財産権の分類",
+      "reading": "ちてきざいさんけんのぶんるい",
+      "vi": "Phân loại quyền sở hữu trí tuệ",
+      "en": "Classification of Intellectual Property Rights",
+      "my": "ဉာဏပိုင်ဆိုင်ခွင့် အမျိုးအစားခွဲခြားခြင်း"
+    },
+    {
+      "type": "paragraph",
+      "ja": "著作権の侵害は、悪意によって行われるもののよりも、「知らず知らずのうちに侵害していた」というケースのほうが圧倒的に多いです。これは怖いことです。そのため、情報社会を生きる私たちは、一般教養として、著作権の基本を学んでおくことが必要です。このため、ITパスポート試験では著作権が重要視されているのです。",
+      "vi": "Vi phạm quyền tác giả xảy ra \"mà không biết\" nhiều hơn hẳn so với vi phạm có ác ý. Đây là điều đáng sợ. Vì vậy, chúng ta sống trong xã hội thông tin cần học cơ bản về quyền tác giả như kiến thức chung. Do đó, quyền tác giả được coi trọng trong kỳ thi IT Passport.",
+      "en": "Copyright infringement cases of \"unknowing violation\" are far more common than intentional ones. This is scary. Therefore, we living in the information society need to learn copyright basics as general knowledge. This is why copyright is emphasized in the IT Passport exam.",
+      "my": "မူပိုင်ခွင့်ချိုးဖောက်မှုသည် ရည်ရွယ်ချက်ရှိရှိထက် \"မသိလိုက်ပဲ\" ချိုးဖောက်မှု ပိုများသည်။",
+      "terms": [
+        {
+          "kanji": "著作権",
+          "reading": "ちょさくけん"
+        },
+        {
+          "kanji": "侵害",
+          "reading": "しんがい"
+        },
+        {
+          "kanji": "悪意",
+          "reading": "あくい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "知",
+          "reading": "ち"
+        },
+        {
+          "kanji": "圧倒的",
+          "reading": "あっとうてき"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "怖",
+          "reading": "ふ"
+        },
+        {
+          "kanji": "情報社会",
+          "reading": "じょうほうしゃかい"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "私",
+          "reading": "わたし"
+        },
+        {
+          "kanji": "一般教養",
+          "reading": "いっぱんきょうよう"
+        },
+        {
+          "kanji": "基本",
+          "reading": "きほん"
+        },
+        {
+          "kanji": "学",
+          "reading": "がく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "重要視",
+          "reading": "じゅうようし"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "著作権は、著作物を創作した時点で自動的に発生する（役所などへの申請は不要）",
+        "vi": "Quyền tác giả phát sinh tự động tại thời điểm tạo ra tác phẩm (không cần đăng ký tại cơ quan nhà nước)",
+        "en": "Copyright arises automatically when a work is created (no government application needed)",
+        "my": "မူပိုင်ခွင့်သည် အလုပ်ဖန်တီးသောအချိန်တွင် အလိုအလျောက် ပေါ်ပေါက်သည်",
+        "terms": [
+          {
+            "kanji": "著作権",
+            "reading": "ちょさくけん"
+          },
+          {
+            "kanji": "著作物",
+            "reading": "ちょさくぶつ"
+          },
+          {
+            "kanji": "創作",
+            "reading": "そうさく"
+          },
+          {
+            "kanji": "時点",
+            "reading": "じてん"
+          },
+          {
+            "kanji": "自動的",
+            "reading": "じどうてき"
+          },
+          {
+            "kanji": "発生",
+            "reading": "はっせい"
+          },
+          {
+            "kanji": "役所",
+            "reading": "やくしょ"
+          },
+          {
+            "kanji": "申請",
+            "reading": "しんせい"
+          },
+          {
+            "kanji": "不要",
+            "reading": "ふよう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "もう少し詳しく！ 無方式主義",
+        "vi": "Chi tiết hơn! Chủ nghĩa không hình thức",
+        "en": "More Details! Non-Formality Principle",
+        "my": "အသေးစိတ် ပိုကြည့်ရန်",
+        "terms": [
+          {
+            "kanji": "無方式主義",
+            "reading": "むほうしきしゅぎ"
+          },
+          {
+            "kanji": "方式主義",
+            "reading": "ほうしきしゅぎ"
+          },
+          {
+            "kanji": "方式",
+            "reading": "ほうしき"
+          },
+          {
+            "kanji": "式",
+            "reading": "しき"
+          }
+        ]
+      },
+      "content": {
+        "ja": "著作権のように、申請しなくても権利が発生することを「無方式主義」といいます。無方式主義を認めることで、申請に関する膨大な手間と労力を未然に防いでいます。一方で、権利を保護しにくうために申請が必要となることを「方式主義」といいます。",
+        "vi": "Việc quyền phát sinh mà không cần đăng ký như quyền tác giả được gọi là \"Chủ nghĩa không hình thức\". Bằng cách áp dụng chủ nghĩa không hình thức, tránh được công sức và nỗ lực khổng lồ liên quan đến đăng ký. Mặt khác, việc yêu cầu đăng ký để bảo vệ quyền được gọi là \"Chủ nghĩa hình thức\".",
+        "en": "When rights arise without application like copyright, it's called \"Non-Formality Principle\". By adopting this, the enormous effort of applications is prevented. On the other hand, requiring applications to protect rights is called \"Formality Principle\".",
+        "my": "မူပိုင်ခွင့်ကဲ့သို့ လျှောက်လွှာမလိုဘဲ အခွင့်အရေးပေါ်ပေါက်ခြင်းကို \"Non-Formality Principle\" ဟုခေါ်သည်။",
+        "terms": [
+          {
+            "kanji": "著作権",
+            "reading": "ちょさくけん"
+          },
+          {
+            "kanji": "申請",
+            "reading": "しんせい"
+          },
+          {
+            "kanji": "権利",
+            "reading": "けんり"
+          },
+          {
+            "kanji": "発生",
+            "reading": "はっせい"
+          },
+          {
+            "kanji": "無方式主義",
+            "reading": "むほうしきしゅぎ"
+          },
+          {
+            "kanji": "認",
+            "reading": "にん"
+          },
+          {
+            "kanji": "関",
+            "reading": "かん"
+          },
+          {
+            "kanji": "膨大",
+            "reading": "ぼうだい"
+          },
+          {
+            "kanji": "手間",
+            "reading": "てま"
+          },
+          {
+            "kanji": "労力",
+            "reading": "ろうりょく"
+          },
+          {
+            "kanji": "未然",
+            "reading": "みぜん"
+          },
+          {
+            "kanji": "防",
+            "reading": "ぼう"
+          },
+          {
+            "kanji": "一方",
+            "reading": "いっぽう"
+          },
+          {
+            "kanji": "保護",
+            "reading": "ほご"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          },
+          {
+            "kanji": "方式主義",
+            "reading": "ほうしきしゅぎ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "著作権法によって保護されているもの",
+      "reading": "ちょさくけんほうによってほごされているもの",
+      "vi": "Những thứ được bảo vệ bởi Luật quyền tác giả",
+      "en": "Things Protected by Copyright Law",
+      "my": "မူပိုင်ခွင့်ဥပဒေဖြင့် ကာကွယ်ထားသော အရာများ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "著作権法によって保護されている主なものは次の7つです。\n\n・本\n・取扱説明書\n・美術作品（絵画・彫刻・建築物・デザインなど）\n・音楽\n・プログラム\n・写真・映像\n・データベース",
+      "vi": "Những thứ chính được bảo vệ bởi Luật quyền tác giả gồm 7 loại sau:\n\n・Sách\n・Hướng dẫn sử dụng\n・Tác phẩm nghệ thuật (hội họa, điêu khắc, kiến trúc, thiết kế...)\n・Âm nhạc\n・Chương trình\n・Ảnh, video\n・Cơ sở dữ liệu",
+      "en": "The main things protected by Copyright Law are these 7:\n\n・Books\n・Instruction manuals\n・Art works (paintings, sculptures, architecture, design, etc.)\n・Music\n・Programs\n・Photos, videos\n・Databases",
+      "my": "မူပိုင်ခွင့်ဥပဒေဖြင့် ကာကွယ်ထားသော အဓိက အရာ ၇ ခု:\n\n・ စာအုပ်များ\n・ လမ်းညွှန်များ\n・ အနုပညာလက်ရာများ\n・ ဂီတ\n・ ပရိုဂရမ်များ\n・ ဓာတ်ပုံ၊ ရုပ်သံ\n・ ဒေတာဘေ့စ်များ",
+      "terms": [
+        {
+          "kanji": "著作権法",
+          "reading": "ちょさくけんほう"
+        },
+        {
+          "kanji": "保護",
+          "reading": "ほご"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "本",
+          "reading": "ほん"
+        },
+        {
+          "kanji": "取扱説明書",
+          "reading": "とりあつかいせつめいしょ"
+        },
+        {
+          "kanji": "美術作品",
+          "reading": "びじゅつさくひん"
+        },
+        {
+          "kanji": "絵画",
+          "reading": "かいが"
+        },
+        {
+          "kanji": "彫刻",
+          "reading": "ちょうこく"
+        },
+        {
+          "kanji": "建築物",
+          "reading": "けんちくぶつ"
+        },
+        {
+          "kanji": "音楽",
+          "reading": "おんがく"
+        },
+        {
+          "kanji": "写真",
+          "reading": "しゃしん"
+        },
+        {
+          "kanji": "映像",
+          "reading": "えいぞう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "無方式主義",
+      "reading": "むほうしきしゅぎ",
+      "romaji": "Muhoushiki Shugi",
+      "vi": "Chủ nghĩa không hình thức",
+      "en": "Non-Formality Principle",
+      "my": "ပုံစံမလိုမူ"
+    },
+    {
+      "kanji": "方式主義",
+      "reading": "ほうしきしゅぎ",
+      "romaji": "Houshiki Shugi",
+      "vi": "Chủ nghĩa hình thức",
+      "en": "Formality Principle",
+      "my": "ပုံစံလိုမူ"
+    },
+    {
+      "kanji": "著作権法",
+      "reading": "ちょさくけんほう",
+      "romaji": "Chosakuken Hou",
+      "vi": "Luật quyền tác giả",
+      "en": "Copyright Law",
+      "my": "မူပိုင်ခွင့်ဥပဒေ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

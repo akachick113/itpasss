@@ -1,0 +1,431 @@
+{
+  "page_id": 242,
+  "image": "p_0242.png",
+  "chapter": 6,
+  "section": "06-01",
+  "page_number": 226,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ソフトウェアライフサイクルプロセス（SLCP）",
+      "reading": "そふとうぇあらいふさいくるぷろせす",
+      "vi": "Quy trình vòng đời phần mềm (SLCP)",
+      "en": "Software Lifecycle Process (SLCP)"
+    },
+    {
+      "type": "paragraph",
+      "ja": "それでは、システム開発の根幹部分から解説をはじめていきます。前述したように、ソフトウェアライフサイクルは主に「企画」「要件定義」「開発」「運用」「保守」の5つのプロセスから構成されています（p.204）。このうち、本章では開発、運用、保守の3つのプロセスを解説します（企画と要件定義については第5章を参照）。",
+      "vi": "Vậy thì, chúng ta sẽ bắt đầu giải thích từ phần cốt lõi của phát triển hệ thống. Như đã đề cập, vòng đời phần mềm chủ yếu được cấu thành từ 5 quy trình: \"Lập kế hoạch\", \"Định nghĩa yêu cầu\", \"Phát triển\", \"Vận hành\", \"Bảo trì\" (trang 204). Trong đó, chương này sẽ giải thích 3 quy trình: Phát triển, Vận hành, Bảo trì (về Lập kế hoạch và Định nghĩa yêu cầu, xem Chương 5).",
+      "en": "Now, let's begin explaining from the core of system development. As mentioned earlier, the software lifecycle mainly consists of 5 processes: 'Planning,' 'Requirements Definition,' 'Development,' 'Operation,' and 'Maintenance' (p.204). Of these, this chapter explains 3 processes: Development, Operation, and Maintenance (for Planning and Requirements Definition, see Chapter 5).",
+      "terms": [
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "根幹部分",
+          "reading": "こんかんぶぶん"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "前述",
+          "reading": "ぜんじゅつ"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "企画",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        },
+        {
+          "kanji": "保守",
+          "reading": "ほしゅ"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "本章",
+          "reading": "ほんしょう"
+        },
+        {
+          "kanji": "第",
+          "reading": "だい"
+        },
+        {
+          "kanji": "章",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "開発、運用、保守のプロセス",
+      "reading": "かいはつ、うんよう、ほしゅのぷろせす",
+      "vi": "Quy trình Phát triển, Vận hành, Bảo trì",
+      "en": "Development, Operation, Maintenance Processes"
+    },
+    {
+      "type": "paragraph",
+      "ja": "開発、運用、保守のプロセスの全体像は次のとおりです。なお、これらの3つのプロセスのうち、ITパスポート試験では「開発プロセス」について問われることが多いです。",
+      "vi": "Toàn cảnh của quy trình Phát triển, Vận hành, Bảo trì như sau. Trong 3 quy trình này, kỳ thi IT Passport thường hỏi về \"Quy trình phát triển\" nhiều hơn.",
+      "en": "The overall picture of Development, Operation, and Maintenance processes is as follows. Among these 3 processes, the IT Passport exam often asks about the 'Development Process.'",
+      "terms": [
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        },
+        {
+          "kanji": "保守",
+          "reading": "ほしゅ"
+        },
+        {
+          "kanji": "全体像",
+          "reading": "ぜんたいぞう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "開発、運用、保守のプロセスの全体像",
+        "vi": "Toàn cảnh quy trình Phát triển, Vận hành, Bảo trì",
+        "en": "Overview of Development, Operation, Maintenance Processes"
+      },
+      "headers": {
+        "ja": [
+          "SLCP",
+          "工程",
+          "下位工程"
+        ],
+        "vi": [
+          "SLCP",
+          "Công đoạn",
+          "Công đoạn con"
+        ],
+        "en": [
+          "SLCP",
+          "Phase",
+          "Sub-phase"
+        ]
+      },
+      "rows": [
+        {
+          "slcp": {
+            "ja": "開発プロセス",
+            "vi": "Quy trình phát triển",
+            "en": "Development Process"
+          },
+          "phases": [
+            {
+              "phase": {
+                "ja": "システム要件定義",
+                "vi": "Định nghĩa yêu cầu hệ thống",
+                "en": "System Requirements Definition"
+              },
+              "subphases": []
+            },
+            {
+              "phase": {
+                "ja": "システム設計",
+                "vi": "Thiết kế hệ thống",
+                "en": "System Design"
+              },
+              "subphases": [
+                {
+                  "ja": "システム方式設計",
+                  "vi": "Thiết kế phương thức hệ thống",
+                  "en": "System Architecture Design"
+                },
+                {
+                  "ja": "ソフトウェア要件定義",
+                  "vi": "Định nghĩa yêu cầu phần mềm",
+                  "en": "Software Requirements Definition"
+                },
+                {
+                  "ja": "ソフトウェア方式設計",
+                  "vi": "Thiết kế phương thức phần mềm",
+                  "en": "Software Architecture Design"
+                },
+                {
+                  "ja": "ソフトウェア詳細設計",
+                  "vi": "Thiết kế chi tiết phần mềm",
+                  "en": "Detailed Software Design"
+                }
+              ]
+            },
+            {
+              "phase": {
+                "ja": "プログラミング",
+                "vi": "Lập trình",
+                "en": "Programming"
+              },
+              "subphases": []
+            },
+            {
+              "phase": {
+                "ja": "テスト",
+                "vi": "Kiểm thử",
+                "en": "Testing"
+              },
+              "subphases": [
+                {
+                  "ja": "単体テスト",
+                  "vi": "Kiểm thử đơn vị",
+                  "en": "Unit Test"
+                },
+                {
+                  "ja": "結合テスト",
+                  "vi": "Kiểm thử tích hợp",
+                  "en": "Integration Test"
+                },
+                {
+                  "ja": "システムテスト",
+                  "vi": "Kiểm thử hệ thống",
+                  "en": "System Test"
+                },
+                {
+                  "ja": "運用テスト",
+                  "vi": "Kiểm thử vận hành",
+                  "en": "Operational Test"
+                }
+              ]
+            },
+            {
+              "phase": {
+                "ja": "ソフトウェア受入れ",
+                "vi": "Nghiệm thu phần mềm",
+                "en": "Software Acceptance"
+              },
+              "subphases": [
+                {
+                  "ja": "ソフトウェア導入",
+                  "vi": "Triển khai phần mềm",
+                  "en": "Software Deployment"
+                },
+                {
+                  "ja": "ソフトウェア受入れ支援",
+                  "vi": "Hỗ trợ nghiệm thu phần mềm",
+                  "en": "Software Acceptance Support"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slcp": {
+            "ja": "運用プロセス",
+            "vi": "Quy trình vận hành",
+            "en": "Operation Process"
+          },
+          "phases": [
+            {
+              "phase": {
+                "ja": "ソフトウェア保守",
+                "vi": "Bảo trì phần mềm",
+                "en": "Software Maintenance"
+              },
+              "subphases": []
+            }
+          ]
+        },
+        {
+          "slcp": {
+            "ja": "保守プロセス",
+            "vi": "Quy trình bảo trì",
+            "en": "Maintenance Process"
+          },
+          "phases": [
+            {
+              "phase": {
+                "ja": "ソフトウェア保守",
+                "vi": "Bảo trì phần mềm",
+                "en": "Software Maintenance"
+              },
+              "subphases": []
+            }
+          ]
+        }
+      ],
+      "note": {
+        "ja": "試験では開発プロセスについて問われる！",
+        "vi": "Trong thi thường hỏi về Quy trình phát triển!",
+        "en": "Exams ask about the Development Process!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "各用語については次節以降で1つずつ解説していくのでまずは上の表を見て全体像をつかんでください。また、もし各項目の内容を読んでいるときに、その項目の位置づけがわからなくなったらこの表を見直して、現在地を確認しながら読み進めてください。全体の中での位置づけを意識すると理解度が大幅に向上しますし、記憶にも定着しやすくなります。",
+      "vi": "Về các thuật ngữ sẽ được giải thích từng cái một từ phần sau, nên trước tiên hãy xem bảng trên để nắm bắt toàn cảnh. Ngoài ra, nếu khi đọc nội dung từng mục mà không hiểu vị trí của mục đó, hãy xem lại bảng này và đọc tiếp trong khi xác nhận vị trí hiện tại. Khi ý thức được vị trí trong tổng thể, mức độ hiểu sẽ tăng đáng kể và cũng dễ ghi nhớ hơn.",
+      "en": "Each term will be explained one by one from the next section, so first look at the table above to grasp the overall picture. Also, if you lose track of the position of an item while reading its content, review this table and continue reading while confirming your current position. Being aware of the position within the whole greatly improves understanding and makes it easier to remember.",
+      "terms": [
+        {
+          "kanji": "各用語",
+          "reading": "かくようご"
+        },
+        {
+          "kanji": "次節以降",
+          "reading": "じせついこう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "全体像",
+          "reading": "ぜんたいぞう"
+        },
+        {
+          "kanji": "各項目",
+          "reading": "かくこうもく"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "位置",
+          "reading": "いち"
+        },
+        {
+          "kanji": "見直",
+          "reading": "みなおし"
+        },
+        {
+          "kanji": "現在地",
+          "reading": "げんざいち"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "意識",
+          "reading": "いしき"
+        },
+        {
+          "kanji": "理解度",
+          "reading": "りかいど"
+        },
+        {
+          "kanji": "大幅",
+          "reading": "おおはば"
+        },
+        {
+          "kanji": "向上",
+          "reading": "こうじょう"
+        },
+        {
+          "kanji": "記憶",
+          "reading": "きおく"
+        },
+        {
+          "kanji": "定着",
+          "reading": "ていちゃく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "要件定義",
+      "reading": "ようけんていぎ",
+      "romaji": "Youken Teigi",
+      "vi": "Định nghĩa yêu cầu",
+      "en": "Requirements Definition",
+      "my": "လိုအပ်ချက် သတ်မှတ်ချက်"
+    },
+    {
+      "kanji": "単体テスト",
+      "reading": "たんたいてすと",
+      "romaji": "Tantai Test",
+      "vi": "Kiểm thử đơn vị",
+      "en": "Unit Test",
+      "my": "ယူနစ် စမ်းသပ်ချက်"
+    },
+    {
+      "kanji": "結合テスト",
+      "reading": "けつごうてすと",
+      "romaji": "Ketsugou Test",
+      "vi": "Kiểm thử tích hợp",
+      "en": "Integration Test",
+      "my": "ပေါင်းစပ် စမ်းသပ်ချက်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "is_key_content": true
+  }
+}

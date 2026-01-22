@@ -1,0 +1,192 @@
+{
+  "page_id": 511,
+  "image": "p_0511.png",
+  "chapter": 14,
+  "section": "14-03",
+  "page_number": 495,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "POPとIMAPの最大の違いは「メールサーバにある電子メールを複数のコンピュータから閲覧できるか否か」です。",
+      "vi": "Sự khác biệt lớn nhất giữa POP và IMAP là \"có thể xem email trên máy chủ thư từ nhiều máy tính hay không\".",
+      "en": "Biggest difference between POP and IMAP is 'whether can view email on mail server from multiple computers.'",
+      "terms": [
+        {
+          "kanji": "最大",
+          "reading": "さいだい"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "電子",
+          "reading": "でんし"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "閲覧",
+          "reading": "えつらん"
+        },
+        {
+          "kanji": "否",
+          "reading": "ひ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "POPを使うと、電子メールをメールサーバからダウンロードするため、ダウンロード後は、他のコンピュータからその電子メールを閲覧することはできません。一方、IMAPを使うと、電子メールはメールサーバ上に残されたままなので、他のコンピュータからもその電子メールを閲覧できます。これは最大の違いであり、IMAPのメリットの1つです。",
+      "vi": "Khi sử dụng POP, vì email được tải xuống từ máy chủ thư, sau khi tải xuống, không thể xem email đó từ máy tính khác. Mặt khác, khi sử dụng IMAP, vì email vẫn còn trên máy chủ thư, có thể xem email đó từ máy tính khác. Đây là sự khác biệt lớn nhất và là một trong những ưu điểm của IMAP.",
+      "en": "When using POP, since email is downloaded from mail server, after downloading, cannot view that email from other computers. On other hand, when using IMAP, since email remains on mail server, can view that email from other computers. This is biggest difference and one of IMAP's advantages.",
+      "terms": [
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "電子",
+          "reading": "でんし"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "閲覧",
+          "reading": "えつらん"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "残",
+          "reading": "ざん"
+        },
+        {
+          "kanji": "最大",
+          "reading": "さいだい"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "SMTPとは、電子メールを送信するためのプロトコル",
+          "vi": "SMTP là giao thức để gửi email",
+          "en": "SMTP is protocol for sending email"
+        },
+        {
+          "ja": "POPとは、電子メールを受信するためのプロトコル",
+          "vi": "POP là giao thức để nhận email",
+          "en": "POP is protocol for receiving email"
+        },
+        {
+          "ja": "IMAPとは、メールサーバ上で電子メールを閲覧するためのプロトコル",
+          "vi": "IMAP là giao thức để xem email trên máy chủ thư",
+          "en": "IMAP is protocol for viewing email on mail server"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "プロトコルのバージョン",
+        "vi": "Phiên bản giao thức",
+        "en": "Protocol Version",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ITパスポート試験では「POP3」や「IMAP4」のように、アルファベットの末尾に数字が記載されていることがあります。この数字はプロトコルのバージョンを表しています。ただし、数字の内容が問われることはないので、無視してかまいません。",
+        "vi": "Trong kỳ thi IT Passport, đôi khi có số ở cuối chữ cái như \"POP3\" hay \"IMAP4\". Số này biểu thị phiên bản của giao thức. Tuy nhiên, vì nội dung của số không được hỏi, nên có thể bỏ qua.",
+        "en": "In IT Passport exam, sometimes numbers appear at end of alphabet like 'POP3' or 'IMAP4.' This number represents protocol version. However, since number content is not asked, can ignore it."
+      }
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！FTP（ファイル転送プロトコル）",
+        "vi": "Chi tiết hơn! FTP (Giao thức truyền tệp)",
+        "en": "More Details! FTP (File Transfer Protocol)"
+      },
+      "content": {
+        "ja": "FTP（File Transfer Protocol）とは、ファイルを転送するためのプロトコルです。Webサイトからファイルや画像をダウンロードする際に使うことがあります。しかし、FTPにはいくつかのセキュリティ上の欠陥があるので、現在は別のプロトコルを使うことが推奨されています。",
+        "vi": "FTP (File Transfer Protocol) là giao thức để truyền tệp. Đôi khi được sử dụng khi tải tệp hoặc hình ảnh từ trang web. Tuy nhiên, vì FTP có một số lỗ hổng bảo mật, hiện tại được khuyến nghị sử dụng giao thức khác.",
+        "en": "FTP (File Transfer Protocol) is protocol for transferring files. Sometimes used when downloading files or images from websites. However, since FTP has some security flaws, currently using different protocol is recommended."
+      }
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！NTP",
+        "vi": "Chi tiết hơn! NTP",
+        "en": "More Details! NTP"
+      },
+      "content": {
+        "ja": "NTP（Network Time Protocol）とは、コンピュータの時刻を合わせるためのプロトコルです。コンピュータにおいて時刻はとても重要です。パソコン同士で時間が異なると、メールの受信や送信の時間がずれるなど、不具合を起こす可能性があるからです。",
+        "vi": "NTP (Network Time Protocol) là giao thức để đồng bộ thời gian của máy tính. Thời gian rất quan trọng trong máy tính. Vì nếu thời gian khác nhau giữa các máy tính, có thể gây ra lỗi như thời gian nhận và gửi email bị lệch.",
+        "en": "NTP (Network Time Protocol) is protocol for synchronizing computer time. Time is very important for computers. Because if time differs between computers, may cause issues like email receive/send timing being off."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "POP3",
+      "vi": "POP3 (Phiên bản 3)",
+      "en": "POP3 (Version 3)",
+      "my": "POP3 (ဗားရှင်း ၃)"
+    },
+    {
+      "term": "IMAP4",
+      "vi": "IMAP4 (Phiên bản 4)",
+      "en": "IMAP4 (Version 4)",
+      "my": "IMAP4 (ဗားရှင်း ၄)"
+    },
+    {
+      "term": "FTP",
+      "full": "File Transfer Protocol",
+      "vi": "FTP (Giao thức truyền tệp)",
+      "en": "FTP (File Transfer Protocol)",
+      "my": "FTP (ဖိုင် လွှဲပြောင်းရေး ပရိုတိုကော)"
+    },
+    {
+      "term": "NTP",
+      "full": "Network Time Protocol",
+      "vi": "NTP (Giao thức thời gian mạng)",
+      "en": "NTP (Network Time Protocol)",
+      "my": "NTP (ကွန်ရက် အချိန် ပရိုတိုကော)"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

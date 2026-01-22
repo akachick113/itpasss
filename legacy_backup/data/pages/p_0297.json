@@ -1,0 +1,371 @@
+{
+  "page_id": 297,
+  "image": "p_0297.png",
+  "chapter": 8,
+  "section": "08-01",
+  "page_number": 281,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "せん。納品後も、サービスマネジメントを行い、サービスレベルを維持・改善する必要があります。",
+      "vi": "Sau khi giao hàng, cũng cần thực hiện Service Management, duy trì và cải thiện Service Level.",
+      "en": "After delivery, Service Management must be done to maintain and improve Service Level.",
+      "terms": [
+        {
+          "kanji": "納品後",
+          "reading": "のうひんのち"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "維持",
+          "reading": "いじ"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ITサービスマネジメント",
+      "reading": "あいてぃさーびすまねじめんと",
+      "vi": "IT Service Management",
+      "en": "IT Service Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITサービスを維持・改善していくことを「ITサービスマネジメント」といいます。ITサービスとは、全サービスのうちの「インターネットや携帯電話などのITを用いたサービス」です。アナログなサービス（接客など）は含まれません。ITサービスマネジメントは、サービスマネジメントの一部です。",
+      "vi": "Việc duy trì và cải thiện IT Service gọi là \"IT Service Management\". IT Service là \"dịch vụ sử dụng IT như Internet, điện thoại di động\" trong tất cả dịch vụ. Không bao gồm dịch vụ analog (tiếp khách...). IT Service Management là một phần của Service Management.",
+      "en": "Maintaining and improving IT Service is called 'IT Service Management.' IT Service is 'services using IT like Internet and mobile phones' among all services. Analog services (customer service, etc.) are not included. IT Service Management is part of Service Management.",
+      "terms": [
+        {
+          "kanji": "維持",
+          "reading": "いじ"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "全",
+          "reading": "ぜん"
+        },
+        {
+          "kanji": "携帯電話",
+          "reading": "けいたいでんわ"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "接客",
+          "reading": "せっきゃく"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "一部",
+          "reading": "いちぶ"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "「サービスマネジメント」の中に「ITサービスマネジメント」がある！",
+        "vi": "Trong \"Service Management\" có \"IT Service Management\"!",
+        "en": "'IT Service Management' exists within 'Service Management'!"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "サービスレベル",
+      "reading": "さーびすれべる",
+      "vi": "Service Level",
+      "en": "Service Level"
+    },
+    {
+      "type": "paragraph",
+      "ja": "サービスレベルとは、ユーザーに対するサービスの品質です。サービス提供者はサービスマネジメントを行い、できるだけ高いサービスレベルをユーザーに提供します。",
+      "vi": "Service Level là chất lượng dịch vụ đối với người dùng. Nhà cung cấp dịch vụ thực hiện Service Management, cung cấp Service Level cao nhất có thể cho người dùng.",
+      "en": "Service Level is service quality for users. Service providers do Service Management to provide highest possible Service Level to users.",
+      "terms": [
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "品質",
+          "reading": "ひんしつ"
+        },
+        {
+          "kanji": "提供者",
+          "reading": "ていきょうしゃ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "どれほどすばらしいシステムを開発し、納品したとしても、運用の段階でサービスレベルが低くなってしまうと、そのシステムの評価は下がってしまいます。せっかくなら、ユーザーが最終的に求めているものは「システム」ではなく、「そのシステムから得られるサービス」だからです。",
+      "vi": "Dù phát triển và giao hệ thống tuyệt vời đến đâu, nếu Service Level giảm ở giai đoạn vận hành, đánh giá của hệ thống đó sẽ giảm. Vì điều người dùng cuối cùng muốn không phải là \"hệ thống\" mà là \"dịch vụ có được từ hệ thống đó\".",
+      "en": "No matter how wonderful a system is developed and delivered, if Service Level drops at operation stage, that system's evaluation will drop. Because what users ultimately want is not 'the system' but 'the service obtained from that system.'",
+      "terms": [
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "納品",
+          "reading": "のうひん"
+        },
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        },
+        {
+          "kanji": "段階",
+          "reading": "だんかい"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "下",
+          "reading": "した"
+        },
+        {
+          "kanji": "最終的",
+          "reading": "さいしゅうてき"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、財務会計システムの場合、ユーザーが求めているのは財務会計システムそのものではなく、「財務諸表を作る」というサービスです。そのため、システム開発は作って終わりではなく、次のステップとして、そのシステムを元に、いかに品質の良いサービス、つまりサービスレベルの高いサービスをユーザーに提供できるかが重要になります。",
+      "vi": "Ví dụ, với hệ thống kế toán tài chính, điều người dùng muốn không phải là hệ thống kế toán tài chính mà là dịch vụ \"tạo báo cáo tài chính\". Do đó, phát triển hệ thống không kết thúc với việc tạo ra, bước tiếp theo là dựa trên hệ thống đó, quan trọng là có thể cung cấp dịch vụ chất lượng cao, tức là dịch vụ có Service Level cao cho người dùng hay không.",
+      "en": "For example, with financial accounting system, what users want is not the financial accounting system itself but the service of 'creating financial statements.' Therefore, system development doesn't end with creation; as next step, based on that system, it's important how good quality service, i.e., high Service Level service can be provided to users.",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "財務会計",
+          "reading": "ざいむかいけい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "財務諸表",
+          "reading": "ざいむしょひょう"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "終",
+          "reading": "おわり"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "元",
+          "reading": "もと"
+        },
+        {
+          "kanji": "品質",
+          "reading": "ひんしつ"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ITIL",
+      "reading": "あいてぃる",
+      "vi": "ITIL",
+      "en": "ITIL",
+      "note": "よく出る！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITIL（Information Technology Infrastructure Library）とは、ITサービスマネジメントのベストプラクティス（最良の事例）が書かれた本です。",
+      "vi": "ITIL (Information Technology Infrastructure Library) là cuốn sách viết về Best Practice (ví dụ tốt nhất) của IT Service Management.",
+      "en": "ITIL (Information Technology Infrastructure Library) is a book written with Best Practices of IT Service Management.",
+      "terms": [
+        {
+          "kanji": "最良",
+          "reading": "さいりょう"
+        },
+        {
+          "kanji": "事例",
+          "reading": "じれい"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "本",
+          "reading": "ほん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITILには、実際に使われ、そして効果のあったITサービスマネジメントの事例がまとめられています。",
+      "vi": "Trong ITIL, các ví dụ về IT Service Management thực sự được sử dụng và có hiệu quả được tổng hợp.",
+      "en": "ITIL compiles IT Service Management examples that were actually used and effective.",
+      "terms": [
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "効果",
+          "reading": "こうか"
+        },
+        {
+          "kanji": "事例",
+          "reading": "じれい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、ITILでは「サービス」と「ITサービス」が同じ意味で使われています。このため、ITパスポート試験でも「ITサービス」を指す用語として「サービス」とだけ書かれている場合があります。ITパスポート試験で「サービス」という用語を見たら、レストラ",
+      "vi": "Ngoài ra, trong ITIL \"Service\" và \"IT Service\" được sử dụng cùng nghĩa. Do đó, trong kỳ thi IT Passport cũng có trường hợp chỉ viết \"Service\" để chỉ \"IT Service\". Khi thấy thuật ngữ \"Service\" trong kỳ thi IT Passport, hãy nghĩ đến nhà hàng",
+      "en": "Also, in ITIL 'Service' and 'IT Service' are used with same meaning. Therefore, in IT Passport exam, sometimes only 'Service' is written to mean 'IT Service.' When you see 'Service' in IT Passport exam, think of restaurant",
+      "terms": [
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "指",
+          "reading": "ゆび"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ITサービスマネジメント",
+      "reading": "あいてぃさーびすまねじめんと",
+      "romaji": "IT Service Management",
+      "vi": "Quản lý dịch vụ CNTT",
+      "en": "IT Service Management",
+      "my": "အိုင်တီ ဆားဗစ် မန်နေ့ဂျမန့်"
+    },
+    {
+      "kanji": "サービスレベル",
+      "reading": "さーびすれべる",
+      "romaji": "Service Level",
+      "vi": "Mức dịch vụ",
+      "en": "Service Level",
+      "my": "ဆားဗစ် အဆင့်"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,128 @@
+{
+    "page_id": 90,
+    "image": "p_0090.png",
+    "chapter": 2,
+    "section": "questions",
+    "page_number": 74,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "2-9",
+            "year": "令和6年度",
+            "question": {
+                "ja": "労働者派遣における派遣労働者の雇用関係に関する記述のうち、適切なものはどれか。",
+                "vi": "Trong các mô tả về quan hệ lao động của lao động phái cử, đâu là mô tả đúng?",
+                "en": "Which is correct regarding employment relationships of dispatched workers?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "派遣先との間に雇用関係があり、派遣元との間には存在しない。",
+                    "vi": "Có quan hệ lao động với công ty tiếp nhận, không có với công ty phái cử.",
+                    "en": "Employment relationship exists with client company, not with dispatch company."
+                },
+                {
+                    "label": "イ",
+                    "ja": "派遣元との間に雇用関係があり、派遣先との間には存在しない。",
+                    "vi": "Có quan hệ lao động với công ty phái cử, không có với công ty tiếp nhận.",
+                    "en": "Employment relationship exists with dispatch company, not with client company.",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "派遣元と派遣先のいずれの間にも雇用関係が存在する。",
+                    "vi": "Có quan hệ lao động với cả công ty phái cử và công ty tiếp nhận.",
+                    "en": "Employment relationship exists with both dispatch and client companies."
+                },
+                {
+                    "label": "エ",
+                    "ja": "派遣元と派遣先のいずれの間にも雇用関係は存在しない。",
+                    "vi": "Không có quan hệ lao động với cả công ty phái cử và công ty tiếp nhận.",
+                    "en": "Employment relationship exists with neither dispatch nor client company."
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-10",
+            "year": "平成30年度",
+            "question": {
+                "ja": "営業秘密の要件に関する記述a～dのうち、不正競争防止法に照らして適切なものだけを全て挙げたものはどれか。\n\na. 公然と知られていないこと\nb. 利用したいときに利用できること\nc. 事業活動に有用であること\nd. 秘密として管理されていること",
+                "vi": "Trong các mô tả a~d về yêu cầu của bí mật kinh doanh, đâu là tất cả các mô tả phù hợp theo Luật chống cạnh tranh không lành mạnh?\n\na. Không được công chúng biết đến\nb. Có thể sử dụng khi muốn sử dụng\nc. Có ích cho hoạt động kinh doanh\nd. Được quản lý như bí mật",
+                "en": "Of descriptions a~d about trade secret requirements, which are ALL appropriate under Unfair Competition Prevention Law?\n\na. Not publicly known\nb. Can be used when desired\nc. Useful for business activities\nd. Managed as secret"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "a, b",
+                    "vi": "a, b",
+                    "en": "a, b"
+                },
+                {
+                    "label": "イ",
+                    "ja": "a, c, d",
+                    "vi": "a, c, d",
+                    "en": "a, c, d",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "c, d",
+                    "vi": "c, d",
+                    "en": "c, d"
+                },
+                {
+                    "label": "エ",
+                    "ja": "d",
+                    "vi": "d",
+                    "en": "d"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-11",
+            "year": "平成25年度",
+            "question": {
+                "ja": "A社では新たなシステムの開発を予定している。そのシステムの著作権をA社に帰属させるために必要なことだけを全て挙げたものはどれか。ここで、著作権に関する特段の契約や取決めはない。\n\n①A社は開発の全てを委託する。\n②A社は開発を委託した会社と機密保持契約を締結する。\n③A社の社員と派遣社員によって開発する。",
+                "vi": "Công ty A có kế hoạch phát triển hệ thống mới. Để quyền tác giả hệ thống thuộc về công ty A, cần những điều nào? Không có hợp đồng hoặc thỏa thuận đặc biệt về quyền tác giả.\n\n①A ủy thác toàn bộ phát triển.\n②A ký hợp đồng bảo mật với công ty được ủy thác.\n③Phát triển bởi nhân viên và lao động phái cử của A.",
+                "en": "Company A plans new system development. What's needed for copyright to belong to A? No special copyright contracts exist.\n\n①A outsources all development.\n②A signs NDA with outsourcing company.\n③Development by A's employees and dispatched workers."
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "①、②",
+                    "vi": "①、②",
+                    "en": "①、②"
+                },
+                {
+                    "label": "イ",
+                    "ja": "①",
+                    "vi": "①",
+                    "en": "①"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "②、③",
+                    "vi": "②、③",
+                    "en": "②、③"
+                },
+                {
+                    "label": "エ",
+                    "ja": "③",
+                    "vi": "③",
+                    "en": "③",
+                    "correct": true
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "questions_covered": "2-9, 2-10, 2-11",
+        "answers": "2-9: イ, 2-10: イ, 2-11: エ"
+    }
+}

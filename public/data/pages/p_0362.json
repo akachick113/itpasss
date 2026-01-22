@@ -1,0 +1,305 @@
+{
+  "page_id": 362,
+  "image": "p_0362.png",
+  "chapter": 9,
+  "section": "09-07",
+  "page_number": 346,
+  "content": [
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！条件式は文章で書かれる",
+        "vi": "Chi tiết hơn! Biểu thức điều kiện được viết bằng văn bản",
+        "en": "More Details! Conditional Expressions Written in Text"
+      },
+      "content": {
+        "ja": "少しでもプログラミング経験のある人にとっては、条件式を上記のような「文章」で書くことに違和感を持つと思います。一般的な多くのプログラム言語の条件式は「num == 1」のような書き方をします。しかし、ITパスポート試験に採用されている擬似言語では上記のように「条件式は文章で書く」ことがあるので、この形式に慣れておいてください。",
+        "vi": "Đối với người có chút kinh nghiệm lập trình, có thể cảm thấy khác lạ khi viết biểu thức điều kiện bằng \"văn bản\" như trên. Trong nhiều ngôn ngữ lập trình phổ biến, biểu thức điều kiện được viết như \"num == 1\". Tuy nhiên, trong ngôn ngữ giả của kỳ thi IT Passport, \"biểu thức điều kiện được viết bằng văn bản\" như trên, hãy làm quen với định dạng này.",
+        "en": "For those with any programming experience, may feel strange writing conditional expressions in 'text' like above. In many common programming languages, conditional expressions are written like 'num == 1.' However, in IT Passport exam pseudocode, 'conditional expressions are written in text' as above, so get used to this format."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "注釈",
+      "reading": "ちゅうしゃく",
+      "vi": "Chú thích",
+      "en": "Comment"
+    },
+    {
+      "type": "paragraph",
+      "ja": "注釈とは、プログラム内に書き込むことのできる解説文やメモ書きです。注釈は人間向けのメモ書きなので、コンピュータは注釈を無視します（コンピュータは注釈を実行しません）。以下は注釈の例です。茶色の文字が注釈になります。",
+      "vi": "Chú thích là văn bản giải thích hoặc ghi chú có thể viết trong chương trình. Vì chú thích là ghi chú cho con người nên máy tính bỏ qua chú thích (máy tính không thực thi chú thích). Sau đây là ví dụ chú thích. Ký tự màu nâu là chú thích.",
+      "en": "Comment is explanation text or notes that can be written in program. Since comments are notes for humans, computer ignores comments (computer doesn't execute comments). Following is comment example. Brown text is comment.",
+      "terms": [
+        {
+          "kanji": "注釈",
+          "reading": "ちゅうしゃく"
+        },
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "込",
+          "reading": "こみ"
+        },
+        {
+          "kanji": "解説文",
+          "reading": "かいせつぶん"
+        },
+        {
+          "kanji": "人間向",
+          "reading": "にんげんこう"
+        },
+        {
+          "kanji": "無視",
+          "reading": "むし"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "茶色",
+          "reading": "ちゃいろ"
+        },
+        {
+          "kanji": "文字",
+          "reading": "もじ"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】注釈",
+        "vi": "【Ví dụ chương trình】Chú thích",
+        "en": "[Program Example] Comment"
+      },
+      "code": "1 + 1     // これは式です\n\"3\"を出力する  /* これは文です */",
+      "note": {
+        "ja": "// 以降、または /* */ で囲まれた部分が注釈",
+        "vi": "Sau // hoặc phần trong /* */ là chú thích",
+        "en": "After // or parts enclosed in /* */ are comments"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、注釈の書き方は通常、2パターンあります。",
+      "vi": "Tham khảo, cách viết chú thích thường có 2 pattern.",
+      "en": "Note that comment writing usually has 2 patterns.",
+      "terms": [
+        {
+          "kanji": "注釈",
+          "reading": "ちゅうしゃく"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "方",
+          "reading": "かた"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "1つめは注釈の前に「//」を書く方法です。「//」を書くと、それよりも後ろの文字はすべて注釈になります。",
+      "vi": "Cái thứ nhất là phương pháp viết \"//\" trước chú thích. Khi viết \"//\", tất cả ký tự sau đó đều trở thành chú thích.",
+      "en": "First is method writing '//' before comment. When writing '//', all text after becomes comment.",
+      "terms": [
+        {
+          "kanji": "注釈",
+          "reading": "ちゅうしゃく"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "文字",
+          "reading": "もじ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "もう1つは注釈を「/*」と「*/」で囲む書き方です。この方法では「/*」と「*/」で囲まれた範囲の文字が注釈になります。この書き方は複数行をまとめて注釈にしたい場合に便利です。",
+      "vi": "Cái còn lại là cách viết bao quanh chú thích bằng \"/*\" và \"*/\". Với phương pháp này, ký tự trong phạm vi bao bởi \"/*\" và \"*/\" trở thành chú thích. Cách viết này tiện khi muốn ghi chú nhiều dòng cùng lúc.",
+      "en": "Another is writing comment enclosed in '/*' and '*/.' With this method, text in range enclosed by '/*' and '*/' becomes comment. This writing is convenient when wanting to comment multiple lines together.",
+      "terms": [
+        {
+          "kanji": "注釈",
+          "reading": "ちゅうしゃく"
+        },
+        {
+          "kanji": "囲",
+          "reading": "い"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "方",
+          "reading": "かた"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "範囲",
+          "reading": "はんい"
+        },
+        {
+          "kanji": "文字",
+          "reading": "もじ"
+        },
+        {
+          "kanji": "複数行",
+          "reading": "ふくすうぎょう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "便利",
+          "reading": "べんり"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "以上が、プログラミングに必要となる4つの基本用語です。これらの4つの用語（文、式、条件式、注釈）の定義がITパスポート試験で直接問われることはありませんが、この後の解説を読むために必要なので、まずはしっかりとこの4つの用語を覚えておいてください。",
+      "vi": "Trên đây là 4 thuật ngữ cơ bản cần thiết cho lập trình. Định nghĩa của 4 thuật ngữ này (lệnh, biểu thức, biểu thức điều kiện, chú thích) không được hỏi trực tiếp trong kỳ thi IT Passport, nhưng cần thiết để đọc giải thích tiếp theo, nên trước tiên hãy nhớ kỹ 4 thuật ngữ này.",
+      "en": "Above are 4 basic terms needed for programming. These 4 terms' definitions (statement, expression, conditional expression, comment) aren't directly asked in IT Passport exam, but needed for reading following explanations, so first firmly memorize these 4 terms.",
+      "terms": [
+        {
+          "kanji": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "基本用語",
+          "reading": "きほんようご"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "文",
+          "reading": "ぶん"
+        },
+        {
+          "kanji": "式",
+          "reading": "しき"
+        },
+        {
+          "kanji": "条件式",
+          "reading": "じょうけんしき"
+        },
+        {
+          "kanji": "注釈",
+          "reading": "ちゅうしゃく"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "直接問",
+          "reading": "ちょくせつとん"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "文、式、条件式、注釈の基本を押さえておく",
+          "vi": "Nắm cơ bản về lệnh, biểu thức, biểu thức điều kiện, chú thích",
+          "en": "Grasp basics of statement, expression, conditional expression, comment"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "注釈",
+      "reading": "ちゅうしゃく",
+      "vi": "Chú thích",
+      "en": "Comment",
+      "my": "မှတ်ချက်"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true
+  }
+}

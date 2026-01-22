@@ -1,0 +1,392 @@
+{
+  "page_id": 389,
+  "image": "p_0389.png",
+  "chapter": 10,
+  "section": "10-01",
+  "page_number": 373,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "本章（第10章）ではシステム全体について解説します。第11章ではハードウェアについて、第12章ではソフトウェアについて解説します。",
+      "vi": "Chương này (chương 10) giải thích về hệ thống tổng thể. Chương 11 giải thích về phần cứng, chương 12 giải thích về phần mềm.",
+      "en": "This chapter (chapter 10) explains systems overall. Chapter 11 explains hardware, chapter 12 explains software.",
+      "terms": [
+        {
+          "kanji": "本章",
+          "reading": "ほんしょう"
+        },
+        {
+          "kanji": "第",
+          "reading": "だい"
+        },
+        {
+          "kanji": "章",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、システム関連の用語として「デュアルシステム」「ミラーリング」「シンクライアント」の3つの用語の出題頻度が高いです。",
+      "vi": "Trong kỳ thi IT Passport, 3 thuật ngữ liên quan đến hệ thống có tần suất ra đề cao là \"hệ thống kép\", \"nhân bản\" và \"thin client\".",
+      "en": "In IT Passport exam, 3 system-related terms with high frequency are 'dual system,' 'mirroring,' and 'thin client.'",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "そもそも「システム」とは何か",
+      "vi": "\"Hệ thống\" thực ra là gì",
+      "en": "What is 'System' Anyway"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システムとは、これまで手作業で行っていた仕事を、コンピュータを使って自動化するための仕組みです。",
+      "vi": "Hệ thống là cơ chế để tự động hóa công việc trước đây làm thủ công bằng máy tính.",
+      "en": "System is mechanism to automate work previously done manually using computers.",
+      "terms": [
+        {
+          "kanji": "手作業",
+          "reading": "てさぎょう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "自動化",
+          "reading": "じどうか"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "システムは「ハードウェア」と「ソフトウェア」の2つで構成されます。みなさんが持っているスマートフォンもシステムの1つです。スマートフォンはiPhoneやAndroid端末などのハードウェアと、アプリ（ソフトウェア）で構成されます。この基本的な構成はとても重要です。このことを常に念頭に置きながら、以降の解説を読み進めてください。",
+      "vi": "Hệ thống được cấu thành từ 2 phần \"phần cứng\" và \"phần mềm\". Điện thoại thông minh mà các bạn có cũng là một hệ thống. Điện thoại thông minh được cấu thành từ phần cứng như iPhone hoặc thiết bị Android và ứng dụng (phần mềm). Cấu trúc cơ bản này rất quan trọng. Hãy luôn ghi nhớ điều này khi đọc tiếp các giải thích sau.",
+      "en": "System consists of 2 parts: 'hardware' and 'software.' Smartphones you have are also systems. Smartphones consist of hardware like iPhone or Android devices, and apps (software). This basic structure is very important. Keep this in mind while reading explanations below.",
+      "terms": [
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "端末",
+          "reading": "たんまつ"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "念頭",
+          "reading": "ねんとう"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "以降",
+          "reading": "いこう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "システムにはさまざまな形態や構成があります。分類方法はいくつかありますが、ここでは次の3つの分類方法を解説します。",
+      "vi": "Hệ thống có nhiều hình thái và cấu trúc khác nhau. Có một số phương pháp phân loại, ở đây sẽ giải thích 3 phương pháp phân loại sau.",
+      "en": "Systems have various forms and structures. There are several classification methods, here we explain following 3 classification methods.",
+      "terms": [
+        {
+          "kanji": "形態",
+          "reading": "けいたい"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "分類方法",
+          "reading": "ぶんるいほうほう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        {
+          "ja": "処理形態による分類",
+          "vi": "Phân loại theo hình thức xử lý",
+          "en": "Classification by processing type"
+        },
+        {
+          "ja": "利用形態による分類",
+          "vi": "Phân loại theo hình thức sử dụng",
+          "en": "Classification by usage type"
+        },
+        {
+          "ja": "システム構成による分類",
+          "vi": "Phân loại theo cấu trúc hệ thống",
+          "en": "Classification by system structure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "処理形態による分類",
+      "reading": "しょりけいたいによるぶんるい",
+      "vi": "Phân loại theo hình thức xử lý",
+      "en": "Classification by Processing Type"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システムには「集中処理」と「分散処理」の2つの処理形態があります。",
+      "vi": "Hệ thống có 2 hình thức xử lý là \"xử lý tập trung\" và \"xử lý phân tán\".",
+      "en": "Systems have 2 processing types: 'centralized processing' and 'distributed processing.'",
+      "terms": [
+        {
+          "kanji": "集中処理",
+          "reading": "しゅうちゅうしょり"
+        },
+        {
+          "kanji": "分散処理",
+          "reading": "ぶんさんしょり"
+        },
+        {
+          "kanji": "処理形態",
+          "reading": "しょりけいたい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "集中処理とは、1台の大型コンピュータに複数の端末を接続して、端末から送られてくるすべての命令をその1台の大型コンピュータが処理する形態です。処理を引き受ける大型コンピュータを「ホストコンピュータ」といいます。",
+      "vi": "Xử lý tập trung là hình thức kết nối nhiều thiết bị đầu cuối với một máy tính lớn, và máy tính lớn đó xử lý tất cả các lệnh được gửi từ các thiết bị đầu cuối. Máy tính lớn đảm nhận xử lý được gọi là \"máy tính chủ\".",
+      "en": "Centralized processing is form where multiple terminals connect to one large computer, and that large computer processes all commands sent from terminals. Large computer handling processing is called 'host computer.'",
+      "terms": [
+        {
+          "kanji": "集中処理",
+          "reading": "しゅうちゅうしょり"
+        },
+        {
+          "kanji": "台",
+          "reading": "だい"
+        },
+        {
+          "kanji": "大型",
+          "reading": "おおがた"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "端末",
+          "reading": "たんまつ"
+        },
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "送",
+          "reading": "おく"
+        },
+        {
+          "kanji": "命令",
+          "reading": "めいれい"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "形態",
+          "reading": "けいたい"
+        },
+        {
+          "kanji": "引",
+          "reading": "ひき"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方、分散処理とは、ネットワークでつながれた複数のコンピュータが処理を分担して行うシステムです。ITパスポート試験では、分散処理に関する知識が問われるので、ここからは分散処理に分類されるシステムの具体例について解説します。",
+      "vi": "Mặt khác, xử lý phân tán là hệ thống trong đó nhiều máy tính được kết nối qua mạng phân chia xử lý. Trong kỳ thi IT Passport, kiến thức về xử lý phân tán được hỏi, vì vậy từ đây sẽ giải thích các ví dụ cụ thể về hệ thống được phân loại là xử lý phân tán.",
+      "en": "On other hand, distributed processing is system where multiple computers connected by network share processing. IT Passport exam tests knowledge about distributed processing, so from here we explain specific examples of systems classified as distributed processing.",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "分散処理",
+          "reading": "ぶんさんしょり"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "分担",
+          "reading": "ぶんたん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "集中処理システムから分散処理システムへ",
+        "vi": "Từ hệ thống xử lý tập trung đến hệ thống xử lý phân tán",
+        "en": "From Centralized to Distributed Processing Systems",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "1970年代頃はコンピュータが高価であったため、集中処理システムが一般的でした。1980年代以降はコンピュータの値段も徐々に下がりはじめたため、分散処理システムが主流になっていきました。",
+        "vi": "Vào khoảng những năm 1970, do máy tính đắt đỏ nên hệ thống xử lý tập trung phổ biến. Từ những năm 1980 trở đi, giá máy tính dần giảm nên hệ thống xử lý phân tán trở thành xu hướng chính.",
+        "en": "Around 1970s, computers were expensive so centralized processing systems were common. From 1980s onwards, computer prices gradually dropped so distributed processing systems became mainstream."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "集中処理",
+      "reading": "しゅうちゅうしょり",
+      "vi": "Xử lý tập trung",
+      "en": "Centralized Processing",
+      "my": "ဗူမိလိုက် လုပ်ဆောင်ချက်"
+    },
+    {
+      "kanji": "分散処理",
+      "reading": "ぶんさんしょり",
+      "vi": "Xử lý phân tán",
+      "en": "Distributed Processing",
+      "my": "ဖြန့်ကျဲ လုပ်ဆောင်ချက်"
+    },
+    {
+      "term": "ホストコンピュータ",
+      "vi": "Máy tính chủ",
+      "en": "Host Computer",
+      "my": "အိမ်ခံ ကွန်ပျူတာ"
+    }
+  ],
+  "meta": {
+    "has_note_box": true,
+    "is_key_content": true
+  }
+}

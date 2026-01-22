@@ -1,0 +1,310 @@
+{
+  "page_id": 461,
+  "image": "p_0461.png",
+  "chapter": 12,
+  "section": "12-05",
+  "page_number": 445,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "アクセシビリティとユーザビリティ",
+      "vi": "Khả năng tiếp cận và Khả năng sử dụng",
+      "en": "Accessibility and Usability"
+    },
+    {
+      "type": "paragraph",
+      "ja": "アクセシビリティとユーザビリティは共に、ITパスポート試験において非常に重要な用語です。実際の試験では「これらの用語を正しく区別できているか」が問われることも多いため、用語の定義をしっかりと理解することが大切です。",
+      "vi": "Cả khả năng tiếp cận và khả năng sử dụng đều là thuật ngữ rất quan trọng trong kỳ thi IT Passport. Trong kỳ thi thực tế, thường được hỏi \"có phân biệt đúng các thuật ngữ này không\", nên việc hiểu rõ định nghĩa thuật ngữ là quan trọng.",
+      "en": "Both accessibility and usability are very important terms in IT Passport exam. In actual exam, often asked 'can distinguish these terms correctly,' so understanding term definitions is important.",
+      "terms": [
+        {
+          "kanji": "共",
+          "reading": "とも"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "区別",
+          "reading": "くべつ"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "アクセシビリティとユーザビリティ",
+        "vi": "Khả năng tiếp cận và Khả năng sử dụng",
+        "en": "Accessibility and Usability"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "定義"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Định nghĩa"
+        ],
+        "en": [
+          "Term",
+          "Definition"
+        ]
+      },
+      "rows": [
+        {
+          "term": {
+            "ja": "アクセシビリティ",
+            "vi": "Khả năng tiếp cận",
+            "en": "Accessibility"
+          },
+          "definition": {
+            "ja": "高齢者や障害者を含む、すべての人がサービスを制限なく使える度合い。",
+            "vi": "Mức độ mà tất cả mọi người bao gồm người cao tuổi và người khuyết tật có thể sử dụng dịch vụ không hạn chế.",
+            "en": "Degree to which all people including elderly and disabled can use services without restrictions."
+          }
+        },
+        {
+          "term": {
+            "ja": "ユーザビリティ",
+            "vi": "Khả năng sử dụng",
+            "en": "Usability"
+          },
+          "definition": {
+            "ja": "利用者がストレスを感じずに、目標とする要求を達成できる度合い。",
+            "vi": "Mức độ mà người dùng có thể đạt được yêu cầu mục tiêu mà không cảm thấy căng thẳng.",
+            "en": "Degree to which users can achieve target requirements without feeling stress."
+          }
+        }
+      ],
+      "note": {
+        "ja": "重要！それぞれの違いを記憶！",
+        "vi": "Quan trọng! Ghi nhớ sự khác biệt của mỗi loại!",
+        "en": "Important! Remember differences!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "一言でいうと、アクセシビリティとは「アクセスのしやすさ」です。つまり、年齢や身体的な条件にかかわらず、誰もがサービスを使える度合いを表します。例えば、Webサイトの文字サイズを変更できる機能を用意すると、アクセシビリティは向上します。なぜなら、この機能によって、老眼などで小さい文字が読めないユーザーもこのWebサイトを利用できるようになるからです。",
+      "vi": "Nói ngắn gọn, khả năng tiếp cận là \"sự dễ dàng truy cập\". Nghĩa là biểu thị mức độ mà bất kỳ ai cũng có thể sử dụng dịch vụ bất kể tuổi tác hoặc điều kiện thể chất. Ví dụ, nếu chuẩn bị chức năng thay đổi kích thước chữ của trang web, khả năng tiếp cận sẽ cải thiện. Vì chức năng này giúp người dùng bị lão thị không thể đọc chữ nhỏ cũng có thể sử dụng trang web.",
+      "en": "In short, accessibility is 'ease of access.' Meaning degree to which anyone can use services regardless of age or physical conditions. For example, providing function to change website text size improves accessibility. Because this function allows users with presbyopia who cannot read small text to use website.",
+      "terms": [
+        {
+          "kanji": "一言",
+          "reading": "ひとこと"
+        },
+        {
+          "kanji": "年齢",
+          "reading": "ねんれい"
+        },
+        {
+          "kanji": "身体的",
+          "reading": "しんたいてき"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "誰",
+          "reading": "だれ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "度合",
+          "reading": "どあい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "文字",
+          "reading": "もじ"
+        },
+        {
+          "kanji": "変更",
+          "reading": "へんこう"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "用意",
+          "reading": "ようい"
+        },
+        {
+          "kanji": "向上",
+          "reading": "こうじょう"
+        },
+        {
+          "kanji": "老眼",
+          "reading": "ろうがん"
+        },
+        {
+          "kanji": "小",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方、ユーザビリティとは「使いやすさ」です。「使えるかどうか」ではなく、「使いやすいかどうか」の度合いです。例えば、Webサイトのすべてのページにナビゲーションメニューを配置することで、より使いやすくすることなどが挙げられます。",
+      "vi": "Mặt khác, khả năng sử dụng là \"sự dễ sử dụng\". Không phải \"có thể sử dụng hay không\" mà là mức độ của \"có dễ sử dụng hay không\". Ví dụ, việc đặt menu điều hướng trên tất cả các trang của trang web giúp dễ sử dụng hơn.",
+      "en": "On other hand, usability is 'ease of use.' Not 'whether can use' but degree of 'whether easy to use.' For example, placing navigation menu on all website pages makes it easier to use.",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "度合",
+          "reading": "どあい"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "配置",
+          "reading": "はいち"
+        },
+        {
+          "kanji": "挙",
+          "reading": "きょ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "アクセシビリティとユーザビリティ",
+        "vi": "Khả năng tiếp cận và Khả năng sử dụng",
+        "en": "Accessibility and Usability"
+      },
+      "description": {
+        "ja": "アクセシビリティ：使えない→使える。ユーザビリティ：使える→使いやすい",
+        "vi": "Khả năng tiếp cận: Không thể sử dụng → Có thể sử dụng. Khả năng sử dụng: Có thể sử dụng → Dễ sử dụng",
+        "en": "Accessibility: Cannot use → Can use. Usability: Can use → Easy to use"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ユニバーサルデザインとは、年齢、文化、言語、能力の違い、障害の有無などにかかわらず、できるだけ多くの人が利用できることを目指した設計である",
+          "vi": "Thiết kế phổ quát là thiết kế hướng đến việc càng nhiều người có thể sử dụng càng tốt, bất kể tuổi tác, văn hóa, ngôn ngữ, khả năng khác nhau, có khuyết tật hay không",
+          "en": "Universal design is design aiming for as many people as possible to use regardless of age, culture, language, ability, disability"
+        },
+        {
+          "ja": "ユニバーサルデザインとバリアフリーは異なる",
+          "vi": "Thiết kế phổ quát và Không rào cản khác nhau",
+          "en": "Universal design and barrier-free are different"
+        },
+        {
+          "ja": "アクセシビリティとは、高齢者や障害者を含む、すべての人がサービスを制限なく使える度合い",
+          "vi": "Khả năng tiếp cận là mức độ mà tất cả mọi người bao gồm người cao tuổi và người khuyết tật có thể sử dụng dịch vụ không hạn chế",
+          "en": "Accessibility is degree to which all people including elderly and disabled can use services without restrictions"
+        },
+        {
+          "ja": "ユーザビリティとは、利用者がストレスを感じずに、目標とする要求を達成できる度合い",
+          "vi": "Khả năng sử dụng là mức độ mà người dùng có thể đạt được yêu cầu mục tiêu mà không cảm thấy căng thẳng",
+          "en": "Usability is degree to which users can achieve target requirements without feeling stress"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "アクセシビリティ",
+      "vi": "Khả năng tiếp cận",
+      "en": "Accessibility",
+      "my": "အက်ဆက်စစ်ဘီလီတီ"
+    },
+    {
+      "term": "ユーザビリティ",
+      "vi": "Khả năng sử dụng",
+      "en": "Usability",
+      "my": "ယူဇာဘီလီတီ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

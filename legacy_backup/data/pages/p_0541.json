@@ -1,0 +1,266 @@
+{
+  "page_id": 541,
+  "image": "p_0541.png",
+  "chapter": 15,
+  "section": "15-01",
+  "page_number": 525,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ランサムウェア",
+      "vi": "Ransomware",
+      "en": "Ransomware"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ランサムウェア",
+        "vi": "Ransomware",
+        "en": "Ransomware"
+      },
+      "definition": {
+        "ja": "ランサムウェア（Ransomware）とは、PCやファイルを使用不能にしたうえで、回復のための金銭を要求するソフトウェアです。ランサムウェアに感染すると勝手にファイルやデータが暗号化されてしまい、正常にアクセスできなくなります。",
+        "vi": "Ransomware là phần mềm yêu cầu tiền để khôi phục sau khi làm cho PC hoặc file không thể sử dụng. Khi bị nhiễm ransomware, file và dữ liệu bị mã hóa tự động và không thể truy cập bình thường.",
+        "en": "Ransomware is software that demands money for recovery after making PC or files unusable. When infected with ransomware, files and data are automatically encrypted and cannot be accessed normally."
+      },
+      "etymology": {
+        "ja": "Ransomwareは「Ransom（身代金）」と「Software」をつなげた造語です。",
+        "vi": "Ransomware là từ ghép của \"Ransom (tiền chuộc)\" và \"Software\".",
+        "en": "Ransomware is coined word combining 'Ransom' and 'Software.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "トロイの木馬",
+      "vi": "Trojan Horse",
+      "en": "Trojan Horse"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "トロイの木馬",
+        "vi": "Trojan Horse",
+        "en": "Trojan Horse"
+      },
+      "definition": {
+        "ja": "トロイの木馬とは、有用であるかのように見せかけて利用者にインストールさせ、コンピュータに侵入するソフトウェアです。マルウェアの一種です。",
+        "vi": "Trojan Horse là phần mềm giả vờ hữu ích để người dùng cài đặt, sau đó xâm nhập máy tính. Là một loại malware.",
+        "en": "Trojan Horse is software that tricks users into installing it by appearing useful, then infiltrates computer. It's a type of malware."
+      },
+      "etymology": {
+        "ja": "ギリシア神話に登場する、兵士が中に潜んでいる巨大な木の馬です。",
+        "vi": "Là con ngựa gỗ khổng lồ có binh lính ẩn nấp bên trong, xuất hiện trong thần thoại Hy Lạp.",
+        "en": "Giant wooden horse with soldiers hiding inside, from Greek mythology."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "RAT",
+      "vi": "RAT",
+      "en": "RAT"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "RAT",
+        "vi": "RAT",
+        "en": "RAT"
+      },
+      "definition": {
+        "ja": "RAT（Remote Administration Tool／Remote Access Tool／Remote Access Trojan）とは、物理的に離れたパソコンを、ネットワーク経由で遠隔操作するマルウェアです。",
+        "vi": "RAT (Remote Administration Tool / Remote Access Tool / Remote Access Trojan) là malware điều khiển từ xa máy tính ở xa về mặt vật lý qua mạng.",
+        "en": "RAT (Remote Administration Tool / Remote Access Tool / Remote Access Trojan) is malware that remotely controls physically distant computers via network."
+      },
+      "etymology": {
+        "ja": "「Remote Administration Tool」とは「遠隔管理ツール」という意味です。",
+        "vi": "\"Remote Administration Tool\" có nghĩa là \"công cụ quản lý từ xa\".",
+        "en": "'Remote Administration Tool' means 'remote management tool.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "バックドア",
+      "vi": "Backdoor",
+      "en": "Backdoor"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "バックドア",
+        "vi": "Backdoor",
+        "en": "Backdoor"
+      },
+      "definition": {
+        "ja": "バックドア（Backdoor）とは、システムに意図的に設けられた秘密のアクセス経路です。バックドアが設置されると、攻撃者がシステムに簡単に再侵入できてしまいます。",
+        "vi": "Backdoor là đường truy cập bí mật được cố ý tạo trong hệ thống. Khi backdoor được cài đặt, kẻ tấn công có thể dễ dàng xâm nhập lại hệ thống.",
+        "en": "Backdoor is secret access path intentionally placed in system. When backdoor is installed, attackers can easily re-infiltrate system."
+      },
+      "etymology": {
+        "ja": "Backdoorとは「裏口」という意味です。正規の入口ではなく、裏口から不正アクセスを行うので、このように呼ばれるようになりました。",
+        "vi": "Backdoor có nghĩa là \"cửa sau\". Được gọi như vậy vì truy cập trái phép từ cửa sau chứ không phải lối vào chính thức.",
+        "en": "Backdoor means 'back door.' Called this because it accesses illegally from back door, not official entrance."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "フィッシング",
+      "vi": "Phishing",
+      "en": "Phishing"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "フィッシング",
+        "vi": "Phishing",
+        "en": "Phishing"
+      },
+      "definition": {
+        "ja": "フィッシング（Phishing）とは、金融機関などを装い、利用者を偽サイトに誘導し、暗証番号やクレジットカード番号などを入力させて、それらを不正に取得することです。",
+        "vi": "Phishing là việc giả làm tổ chức tài chính, dẫn dụ người dùng đến trang web giả, yêu cầu nhập mã PIN hoặc số thẻ tín dụng, và lấy chúng một cách bất hợp pháp.",
+        "en": "Phishing is impersonating financial institutions, luring users to fake sites, making them enter PINs or credit card numbers, and illegally obtaining them."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では「銀行やクレジットカード会社などを装った偽のWebページを開設し、金融機関や公的機関などを装った偽の電子メールなどで、利用者を巧みに誘導して、暗証番号やクレジットカード番号などの個人情報を盗み取る行為」という文章で出題されることがあります。",
+      "vi": "Trong kỳ thi IT Passport, có thể được ra đề với câu \"hành vi mở trang web giả giả làm ngân hàng hoặc công ty thẻ tín dụng, khéo léo dẫn dụ người dùng bằng email giả giả làm tổ chức tài chính hoặc cơ quan công quyền, đánh cắp thông tin cá nhân như mã PIN hoặc số thẻ tín dụng\".",
+      "en": "In IT Passport exam, may appear as 'acts of setting up fake Web pages pretending to be banks or credit card companies, skillfully luring users with fake emails pretending to be financial or public institutions, stealing personal information like PINs or credit card numbers.'",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "銀行",
+          "reading": "ぎんこう"
+        },
+        {
+          "kanji": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "kanji": "装",
+          "reading": "そう"
+        },
+        {
+          "kanji": "偽",
+          "reading": "にせ"
+        },
+        {
+          "kanji": "開設",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "金融機関",
+          "reading": "きんゆうきかん"
+        },
+        {
+          "kanji": "公的機関",
+          "reading": "こうてききかん"
+        },
+        {
+          "kanji": "電子",
+          "reading": "でんし"
+        },
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "kanji": "巧",
+          "reading": "こう"
+        },
+        {
+          "kanji": "誘導",
+          "reading": "ゆうどう"
+        },
+        {
+          "kanji": "暗証番号",
+          "reading": "あんしょうばんごう"
+        },
+        {
+          "kanji": "番号",
+          "reading": "ばんごう"
+        },
+        {
+          "kanji": "個人情報",
+          "reading": "こじんじょうほう"
+        },
+        {
+          "kanji": "盗",
+          "reading": "とう"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "行為",
+          "reading": "こうい"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "語源",
+        "vi": "Nguồn gốc từ",
+        "en": "Etymology"
+      },
+      "content": {
+        "ja": "「Phreaking（電話回線の不正使用）」と「Fishing（釣り）」をつなげた造語です。「被害者を騙して釣る」というニュアンスがあります。",
+        "vi": "Là từ ghép của \"Phreaking (sử dụng trái phép đường điện thoại)\" và \"Fishing (câu cá)\". Có sắc thái \"lừa và câu nạn nhân\".",
+        "en": "Coined word combining 'Phreaking (illegal use of phone lines)' and 'Fishing.' Has nuance of 'deceiving and catching victims.'"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ランサムウェア",
+      "vi": "Ransomware (Mã độc tống tiền)",
+      "en": "Ransomware",
+      "my": "ရန်ဆမ်ဝဲ (လေှာင်တောင်းဆော့ဝဲ)"
+    },
+    {
+      "term": "トロイの木馬",
+      "vi": "Trojan Horse (Ngựa thành Troy)",
+      "en": "Trojan Horse",
+      "my": "ထရိုဂျန်မြင်း"
+    },
+    {
+      "term": "RAT",
+      "full": "Remote Access Trojan",
+      "vi": "RAT (Trojan truy cập từ xa)",
+      "en": "RAT (Remote Access Trojan)",
+      "my": "RAT (အဝေးမှ ရရှိခွင့်သူ ထရိုဂျန်)"
+    },
+    {
+      "term": "バックドア",
+      "vi": "Backdoor (Cửa hậu)",
+      "en": "Backdoor",
+      "my": "နောက်တံခါး"
+    },
+    {
+      "term": "フィッシング",
+      "vi": "Phishing (Lừa đảo trực tuyến)",
+      "en": "Phishing",
+      "my": "ဖိရှင် (အင်တာနက်လိမ်မှု)"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

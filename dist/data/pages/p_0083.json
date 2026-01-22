@@ -1,0 +1,401 @@
+{
+  "page_id": 83,
+  "image": "p_0083.png",
+  "chapter": 2,
+  "section": "02-03",
+  "page_number": 67,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・不正アクセス禁止法：不正なアクセスを禁止する法律\n・なりすましによるアクセス：他人のIDとパスワードを不正利用して、コンピュータにアクセスすること\n・セキュリティホールからのアクセス：セキュリティホールを悪用して、コンピュータにアクセスすること\n・ウイルス作成罪：コンピュータウイルスを作成、提供、供用、取得、保管する犯罪",
+        "vi": "・Luật cấm truy cập trái phép: Luật cấm truy cập bất hợp pháp\n・Truy cập bằng mạo danh: Sử dụng trái phép ID và mật khẩu người khác để truy cập máy tính\n・Truy cập qua lỗ hổng bảo mật: Lợi dụng lỗ hổng bảo mật để truy cập máy tính\n・Tội tạo virus: Tội tạo, cung cấp, sử dụng, thu thập, lưu trữ virus máy tính",
+        "en": "・Unauthorized Access Prohibition Law: Law prohibiting illegal access\n・Access by impersonation: Accessing computers by illegally using others' IDs and passwords\n・Access through security holes: Accessing computers by exploiting security holes\n・Virus creation crime: Crime of creating, providing, using, obtaining, storing computer viruses",
+        "my": "・ Unauthorized Access Prohibition Law: တရားမဝင်ဝင်ရောက်မှုကို တားမြစ်သော ဥပဒေ\n・ Impersonation: အခြားသူ၏ ID နှင့် password ကို တရားမဝင်သုံး၍ ကွန်ပျူတာ ဝင်ရောက်ခြင်း\n・ Security holes: လုံခြုံရေးအားနည်းချက်များကို အသုံးချ၍ ကွန်ပျူတာ ဝင်ရောက်ခြင်း\n・ Virus creation crime: ကွန်ပျူတာ ဗိုင်းရပ်စ် ဖန်တီး၊ ပံ့ပိုး၊ သုံးစွဲ၊ ရယူ၊ သိမ်းဆည်းသော ရာဇဝတ်မှု",
+        "terms": [
+          {
+            "kanji": "不正",
+            "reading": "ふせい"
+          },
+          {
+            "kanji": "禁止法",
+            "reading": "きんしほう"
+          },
+          {
+            "kanji": "禁止",
+            "reading": "きんし"
+          },
+          {
+            "kanji": "法律",
+            "reading": "ほうりつ"
+          },
+          {
+            "kanji": "他人",
+            "reading": "たにん"
+          },
+          {
+            "kanji": "不正利用",
+            "reading": "ふせいりよう"
+          },
+          {
+            "kanji": "悪用",
+            "reading": "あくよう"
+          },
+          {
+            "kanji": "作成罪",
+            "reading": "さくせいつみ"
+          },
+          {
+            "kanji": "作成",
+            "reading": "さくせい"
+          },
+          {
+            "kanji": "提供",
+            "reading": "ていきょう"
+          },
+          {
+            "kanji": "供用",
+            "reading": "きょうよう"
+          },
+          {
+            "kanji": "取得",
+            "reading": "しゅとく"
+          },
+          {
+            "kanji": "保管",
+            "reading": "ほかん"
+          },
+          {
+            "kanji": "犯罪",
+            "reading": "はんざい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "報酬よりも、罰金",
+        "vi": "Phạt tiền hơn là phần thưởng",
+        "en": "Penalties Rather Than Rewards",
+        "my": "ဆုလာဘ်ထက် ပြစ်ဒဏ်"
+      },
+      "content": {
+        "ja": "ITパスポート試験はCBT方式（p.4）で実施されるため、受験生は一年中、いつでもITパスポート試験を受験できます。これは多くの受験生にとって便利なはおありますが、一方で、「0月○日の試験日を目指して、がんばろう」という気持ちになりにくいというデメリットもあります。\n\nそこで、筆者のお勧めの勉強方法を紹介します。それは「学習を開始する段階で、自分の意志で受験日を決定し、実際に受験申込みを行う」ことです。実際に受験申込みを行うことにより、受験料の7,500円（税込）を支払うということです。受験料を支払うことに意味があります。\n\n多くの人は「○○を達成したときの報酬」よりも、「○○できなかったときの罰金を避けたい」のほうがより強いモチベーションになります。つまり、「ITパスポートに合格したら1万円もらえる」というより「ITパスポートに落ちたら1万円支払う」という罰金を提示されたほうが、モチベーションを維持できるのです。この人間の特性を利用して、先に受験料を支払った上で学習を忘れば、それは7,500円という「罰金」を支払うことと同じです。\n\n少し強引な方法なので好みが分かれると思いますが、このようにしてモチベーションを維持するのも、試験対策のテクニックの1つです。みなさんは報酬と罰金のどちらが、より強いモチベーションになるでしょうか、一度、考えてみてください。\n\nなお、ITパスポート試験は人気の資格試験のため、CBT方式といえど、試験直前の申込みでは、希望の試験会場が満席で受験できない場合もあるので覚えておいてください。ITパスポート試験（CBT方式）は、およそ3カ月先の日付まで受験を申込むことができます。",
+        "vi": "Kỳ thi IT Passport được thực hiện theo hình thức CBT (trang 4), nên thí sinh có thể thi bất cứ lúc nào trong năm. Điều này thuận tiện cho nhiều thí sinh, nhưng mặt khác, khó có cảm giác \"Cố gắng nhắm đến ngày thi X\".\n\nVì vậy, tôi giới thiệu phương pháp học của mình. Đó là \"ngay khi bắt đầu học, tự quyết định ngày thi và thực sự đăng ký thi\". Thực sự đăng ký thi có nghĩa là trả lệ phí 7,500 yên (đã bao gồm thuế). Việc trả lệ phí có ý nghĩa.\n\nNhiều người có động lực mạnh hơn khi \"muốn tránh bị phạt nếu không làm được XX\" hơn là \"phần thưởng khi đạt XX\". Nghĩa là, \"Nếu rớt IT Passport phải trả 1 triệu yên\" tạo động lực duy trì mạnh hơn \"Nếu đỗ IT Passport sẽ được 1 triệu yên\". Lợi dụng đặc điểm con người này, nếu trả lệ phí thi trước rồi quên học, điều đó giống như trả \"phạt\" 7,500 yên.\n\nĐây là phương pháp hơi mạnh tay nên có thể không phù hợp với tất cả mọi người, nhưng duy trì động lực theo cách này cũng là một kỹ thuật chuẩn bị thi. Hãy suy nghĩ xem phần thưởng hay hình phạt tạo động lực mạnh hơn cho bạn.\n\nLưu ý, vì IT Passport là kỳ thi phổ biến, ngay cả hình thức CBT, nếu đăng ký ngay trước kỳ thi, có thể không thi được vì địa điểm mong muốn đã hết chỗ. IT Passport (CBT) có thể đăng ký trước khoảng 3 tháng.",
+        "en": "The IT Passport exam is conducted in CBT format (p.4), so candidates can take it anytime year-round. This is convenient but has the downside of lacking \"Let's aim for exam day X\" motivation.\n\nSo I'll introduce my recommended study method: \"When starting to study, decide your exam date and actually register\". Actually registering means paying the 7,500 yen fee (tax included). Paying has meaning.\n\nMany people are more motivated by \"wanting to avoid penalty for not achieving XX\" than \"rewards for achieving XX\". In other words, \"Pay 10,000 yen if you fail IT Passport\" maintains motivation better than \"Receive 10,000 yen if you pass\". Using this human trait, if you pay the exam fee first then forget to study, it's like paying a 7,500 yen \"penalty\".\n\nThis is a somewhat forceful method that may not suit everyone, but maintaining motivation this way is also an exam preparation technique. Think about whether rewards or penalties motivate you more.\n\nNote that since IT Passport is popular, even with CBT, last-minute registration may not be possible if preferred venues are full. IT Passport (CBT) can be registered for dates up to about 3 months ahead.",
+        "my": "IT Passport စာမေးပွဲကို CBT ပုံစံဖြင့် ပြုလုပ်သောကြောင့် ကိုယ်စားလှယ်လောင်းများ တစ်နှစ်ပတ်လုံး မည်သည့်အချိန်မဆို ဖြေဆိုနိုင်သည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "方式",
+            "reading": "ほうしき"
+          },
+          {
+            "kanji": "実施",
+            "reading": "じっし"
+          },
+          {
+            "kanji": "受験生",
+            "reading": "じゅけんせい"
+          },
+          {
+            "kanji": "一年中",
+            "reading": "いちねんじゅう"
+          },
+          {
+            "kanji": "受験",
+            "reading": "じゅけん"
+          },
+          {
+            "kanji": "多",
+            "reading": "おお"
+          },
+          {
+            "kanji": "便利",
+            "reading": "べんり"
+          },
+          {
+            "kanji": "一方",
+            "reading": "いっぽう"
+          },
+          {
+            "kanji": "月",
+            "reading": "がつ"
+          },
+          {
+            "kanji": "日",
+            "reading": "にち"
+          },
+          {
+            "kanji": "試験日",
+            "reading": "しけんび"
+          },
+          {
+            "kanji": "目指",
+            "reading": "もくし"
+          },
+          {
+            "kanji": "気持",
+            "reading": "きもち"
+          },
+          {
+            "kanji": "筆者",
+            "reading": "ひっしゃ"
+          },
+          {
+            "kanji": "勧",
+            "reading": "かん"
+          },
+          {
+            "kanji": "勉強方法",
+            "reading": "べんきょうほうほう"
+          },
+          {
+            "kanji": "紹介",
+            "reading": "しょうかい"
+          },
+          {
+            "kanji": "学習",
+            "reading": "がくしゅう"
+          },
+          {
+            "kanji": "開始",
+            "reading": "かいし"
+          },
+          {
+            "kanji": "段階",
+            "reading": "だんかい"
+          },
+          {
+            "kanji": "自分",
+            "reading": "じぶん"
+          },
+          {
+            "kanji": "意志",
+            "reading": "いし"
+          },
+          {
+            "kanji": "受験日",
+            "reading": "じゅけんにち"
+          },
+          {
+            "kanji": "決定",
+            "reading": "けってい"
+          },
+          {
+            "kanji": "実際",
+            "reading": "じっさい"
+          },
+          {
+            "kanji": "受験申込",
+            "reading": "じゅけんもうしこみ"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "受験料",
+            "reading": "じゅけんりょう"
+          },
+          {
+            "kanji": "円",
+            "reading": "えん"
+          },
+          {
+            "kanji": "税込",
+            "reading": "ぜいこみ"
+          },
+          {
+            "kanji": "支払",
+            "reading": "しはらい"
+          },
+          {
+            "kanji": "意味",
+            "reading": "いみ"
+          },
+          {
+            "kanji": "人",
+            "reading": "ひと"
+          },
+          {
+            "kanji": "達成",
+            "reading": "たっせい"
+          },
+          {
+            "kanji": "報酬",
+            "reading": "ほうしゅう"
+          },
+          {
+            "kanji": "罰金",
+            "reading": "ばっきん"
+          },
+          {
+            "kanji": "避",
+            "reading": "ひ"
+          },
+          {
+            "kanji": "強",
+            "reading": "つよ"
+          },
+          {
+            "kanji": "合格",
+            "reading": "ごうかく"
+          },
+          {
+            "kanji": "万円",
+            "reading": "まんえん"
+          },
+          {
+            "kanji": "落",
+            "reading": "らく"
+          },
+          {
+            "kanji": "万円支払",
+            "reading": "まんえんしはらい"
+          },
+          {
+            "kanji": "提示",
+            "reading": "ていじ"
+          },
+          {
+            "kanji": "維持",
+            "reading": "いじ"
+          },
+          {
+            "kanji": "人間",
+            "reading": "にんげん"
+          },
+          {
+            "kanji": "特性",
+            "reading": "とくせい"
+          },
+          {
+            "kanji": "利用",
+            "reading": "りよう"
+          },
+          {
+            "kanji": "先",
+            "reading": "さき"
+          },
+          {
+            "kanji": "上",
+            "reading": "うえ"
+          },
+          {
+            "kanji": "忘",
+            "reading": "ぼう"
+          },
+          {
+            "kanji": "同",
+            "reading": "どう"
+          },
+          {
+            "kanji": "少",
+            "reading": "すく"
+          },
+          {
+            "kanji": "強引",
+            "reading": "ごういん"
+          },
+          {
+            "kanji": "方法",
+            "reading": "ほうほう"
+          },
+          {
+            "kanji": "好",
+            "reading": "こう"
+          },
+          {
+            "kanji": "分",
+            "reading": "ふん"
+          },
+          {
+            "kanji": "思",
+            "reading": "おもい"
+          },
+          {
+            "kanji": "試験対策",
+            "reading": "しけんたいさく"
+          },
+          {
+            "kanji": "一度",
+            "reading": "いちど"
+          },
+          {
+            "kanji": "考",
+            "reading": "こう"
+          },
+          {
+            "kanji": "人気",
+            "reading": "にんき"
+          },
+          {
+            "kanji": "資格試験",
+            "reading": "しかくしけん"
+          },
+          {
+            "kanji": "試験直前",
+            "reading": "しけんちょくぜん"
+          },
+          {
+            "kanji": "申込",
+            "reading": "もうしこみ"
+          },
+          {
+            "kanji": "希望",
+            "reading": "きぼう"
+          },
+          {
+            "kanji": "試験会場",
+            "reading": "しけんかいじょう"
+          },
+          {
+            "kanji": "満席",
+            "reading": "まんせき"
+          },
+          {
+            "kanji": "場合",
+            "reading": "ばあい"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          },
+          {
+            "kanji": "月先",
+            "reading": "がつさき"
+          },
+          {
+            "kanji": "日付",
+            "reading": "ひづけ"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true,
+    "is_study_tip_page": true
+  }
+}

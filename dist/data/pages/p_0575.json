@@ -1,0 +1,184 @@
+{
+  "page_id": 575,
+  "image": "p_0575.png",
+  "chapter": 15,
+  "section": "15-06",
+  "page_number": 559,
+  "content": [
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！プロキシサーバ",
+        "vi": "Chi tiết hơn! Proxy Server",
+        "en": "More Details! Proxy Server"
+      },
+      "content": {
+        "ja": "DMZの他に、外部ネットワークと社内ネットワークの間に配置されるものに「プロキシサーバ」があります。プロキシサーバ（Proxy Server）とは、社内ネットワークの「代理（Proxy）」になって、外部ネットワークにアクセスするサーバです。プロキシサーバを設置することで、社内ネットワークからのアクセスを監視したり、外部ネットワークからのアクセスに対して社内コンピュータのIPアドレスを隠したりすることができます。プロキシサーバもWebサーバやメールサーバと同様に、DMZに置くことで攻撃を受けるリスクを低減できます。なお、プロキシサーバのうち、HTTPでの通信（Webブラウザとwebサーバ間の通信）に特化したものをHTTPプロキシサーバといいます。",
+        "vi": "Ngoài DMZ, có \"Proxy Server\" được đặt giữa mạng bên ngoài và mạng nội bộ. Proxy Server là server truy cập mạng bên ngoài thay mặt \"đại diện (Proxy)\" cho mạng nội bộ. Bằng việc đặt Proxy Server, có thể giám sát truy cập từ mạng nội bộ và ẩn địa chỉ IP của máy tính nội bộ đối với truy cập từ mạng bên ngoài. Proxy Server cũng giống như Web server hoặc Mail server, có thể giảm rủi ro bị tấn công bằng cách đặt trong DMZ. Ngoài ra, trong các Proxy Server, cái chuyên về truyền thông HTTP (truyền thông giữa trình duyệt Web và Web server) được gọi là HTTP Proxy Server.",
+        "en": "Besides DMZ, 'Proxy Server' is placed between external network and internal network. Proxy Server is server accessing external network as 'proxy' for internal network. By installing Proxy Server, can monitor access from internal network and hide internal computer IP addresses from external network access. Proxy Server, like Web server or Mail server, can reduce attack risk by placing in DMZ. Also, among Proxy Servers, those specialized for HTTP communication (communication between Web browser and Web server) are called HTTP Proxy Server."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "SSL/TLS",
+      "vi": "SSL/TLS",
+      "en": "SSL/TLS"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "SSL/TLS",
+        "vi": "SSL/TLS",
+        "en": "SSL/TLS"
+      },
+      "full_name": "Secure Sockets Layer/Transport Layer Security",
+      "definition": {
+        "ja": "SSL/TLS（Secure Sockets Layer/Transport Layer Security）とは、パソコンとサーバ間の通信を暗号化する通信プロトコルです。SSL/TLSを使用すると、インターネットを介した情報のやり取りを安全に行うことができます。",
+        "vi": "SSL/TLS (Secure Sockets Layer/Transport Layer Security) là giao thức truyền thông mã hóa truyền thông giữa máy tính và server. Khi sử dụng SSL/TLS, có thể trao đổi thông tin an toàn qua Internet.",
+        "en": "SSL/TLS (Secure Sockets Layer/Transport Layer Security) is communication protocol encrypting communication between computer and server. Using SSL/TLS, can safely exchange information via Internet."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "SSLとTLSは別々の通信プロトコルです。SSLは脆弱性があるので使わないほうが良いとされています。そこでSSLを元にして、TLSという通信プロトコルが作られました。ただし、すでにSSLという名称が広く世間に知られていたので、SSL/TLSと併記される場合が多いです。また、過去に「SSL」という表記で出題されたこともあります。",
+      "vi": "SSL và TLS là các giao thức truyền thông riêng biệt. SSL được cho là không nên sử dụng vì có lỗ hổng. Vì vậy, giao thức truyền thông TLS được tạo dựa trên SSL. Tuy nhiên, vì tên SSL đã được biết rộng rãi, nên thường được viết kèm là SSL/TLS. Ngoài ra, trong quá khứ cũng đã có đề thi sử dụng ký hiệu \"SSL\".",
+      "en": "SSL and TLS are separate communication protocols. SSL is said to be not good to use due to vulnerabilities. So TLS communication protocol was created based on SSL. However, since SSL name was already widely known, often written together as SSL/TLS. Also, past exams have sometimes used notation 'SSL.'",
+      "terms": [
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "通信",
+          "reading": "つうしん"
+        },
+        {
+          "kanji": "脆弱性",
+          "reading": "ぜいじゃくせい"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "元",
+          "reading": "もと"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "名称",
+          "reading": "めいしょう"
+        },
+        {
+          "kanji": "広",
+          "reading": "ひろ"
+        },
+        {
+          "kanji": "世間",
+          "reading": "せけん"
+        },
+        {
+          "kanji": "知",
+          "reading": "ち"
+        },
+        {
+          "kanji": "併記",
+          "reading": "へいき"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "過去",
+          "reading": "かこ"
+        },
+        {
+          "kanji": "表記",
+          "reading": "ひょうき"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "SSL/TLSを使った通信",
+        "vi": "Truyền thông sử dụng SSL/TLS",
+        "en": "Communication Using SSL/TLS"
+      },
+      "comparison": [
+        {
+          "title": {
+            "ja": "SSL/TLSでない通信",
+            "vi": "Truyền thông không có SSL/TLS",
+            "en": "Communication Without SSL/TLS"
+          },
+          "description": {
+            "ja": "DATA（平文）がそのまま送られ、盗み見される",
+            "vi": "DATA (văn bản gốc) được gửi nguyên trạng và bị nhìn trộm",
+            "en": "DATA (plaintext) sent as-is and peeked at"
+          }
+        },
+        {
+          "title": {
+            "ja": "SSL/TLSによる通信",
+            "vi": "Truyền thông bằng SSL/TLS",
+            "en": "Communication With SSL/TLS"
+          },
+          "description": {
+            "ja": "DATA（暗号化）で安全に送られ、盗み見されても解読不可",
+            "vi": "DATA (mã hóa) được gửi an toàn, ngay cả khi bị nhìn trộm cũng không thể giải mã",
+            "en": "DATA (encrypted) sent safely, cannot be decrypted even if peeked at"
+          }
+        }
+      ],
+      "note": {
+        "ja": "SSL/TLSを使ったWebサイトのURLは「https://」で始まります。",
+        "vi": "URL của trang web sử dụng SSL/TLS bắt đầu bằng \"https://\".",
+        "en": "URL of websites using SSL/TLS starts with 'https://'."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "プロキシサーバ",
+      "vi": "Proxy Server",
+      "en": "Proxy Server",
+      "my": "ပရောက်ဆီ ဆာဗာ"
+    },
+    {
+      "term": "SSL",
+      "full": "Secure Sockets Layer",
+      "vi": "SSL",
+      "en": "Secure Sockets Layer",
+      "my": "လုံခြုံစိတ်စော်ခက်အလွှာ"
+    },
+    {
+      "term": "TLS",
+      "full": "Transport Layer Security",
+      "vi": "TLS",
+      "en": "Transport Layer Security",
+      "my": "သယယူအလွှာ လုံခြုံရေး"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

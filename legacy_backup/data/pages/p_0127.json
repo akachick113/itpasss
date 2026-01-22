@@ -1,0 +1,381 @@
+{
+  "page_id": 127,
+  "image": "p_0127.png",
+  "chapter": 3,
+  "section": "03-03",
+  "page_number": 111,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "その他の関連用語",
+        "vi": "Thuật ngữ liên quan khác",
+        "en": "Other Related Terms"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "UX（User Experience）",
+            "利用者が商品やサービスを利用することで得られる体験。"
+          ],
+          "vi": [
+            "UX (User Experience)",
+            "Trải nghiệm người dùng có được khi sử dụng sản phẩm hoặc dịch vụ."
+          ],
+          "en": [
+            "UX (User Experience)",
+            "Experience users get from using products or services."
+          ]
+        },
+        {
+          "ja": [
+            "マーチャンダイジング",
+            "適切な商品（Right Goods）を、適切な時期（Right Time）、適切な価格（Right Price）で、適切な量（Right Quantity）を、適切な場所（Right Place）で提供するマーケティング戦略。5つの頭文字を取って、ファイブライト（5 Rights）とも呼ばれる。"
+          ],
+          "vi": [
+            "Merchandising",
+            "Chiến lược Marketing cung cấp sản phẩm phù hợp (Right Goods), thời điểm phù hợp (Right Time), giá phù hợp (Right Price), số lượng phù hợp (Right Quantity), địa điểm phù hợp (Right Place). Còn gọi là Five Rights."
+          ],
+          "en": [
+            "Merchandising",
+            "Marketing strategy providing right goods, right time, right price, right quantity, right place. Also called Five Rights."
+          ]
+        },
+        {
+          "ja": [
+            "ポジショニング",
+            "自社製品の差別化ポイントを明確にすること。"
+          ],
+          "vi": [
+            "Positioning",
+            "Làm rõ điểm khác biệt của sản phẩm công ty."
+          ],
+          "en": [
+            "Positioning",
+            "Clarifying differentiation points of company products."
+          ]
+        },
+        {
+          "ja": [
+            "ダイレクトマーケティング",
+            "ダイレクトメールや電子メール、電話などを用いて、商品を直接消費者に売ること。"
+          ],
+          "vi": [
+            "Direct Marketing",
+            "Bán sản phẩm trực tiếp cho người tiêu dùng qua thư trực tiếp, email, điện thoại."
+          ],
+          "en": [
+            "Direct Marketing",
+            "Selling products directly to consumers via direct mail, email, phone."
+          ]
+        },
+        {
+          "ja": [
+            "セグメントマーケティング",
+            "市場を細分化（セグメント化）して、それぞれのセグメントに適したマーケティングを行うこと。"
+          ],
+          "vi": [
+            "Segment Marketing",
+            "Chia nhỏ thị trường (phân khúc) và thực hiện Marketing phù hợp với từng phân khúc."
+          ],
+          "en": [
+            "Segment Marketing",
+            "Segmenting market and doing marketing suited for each segment."
+          ]
+        },
+        {
+          "ja": [
+            "インバウンド需要",
+            "訪日した外国人が日本国内にもたらす消費需要。"
+          ],
+          "vi": [
+            "Inbound Demand",
+            "Nhu cầu tiêu dùng mà người nước ngoài đến Nhật mang lại cho nội địa Nhật."
+          ],
+          "en": [
+            "Inbound Demand",
+            "Consumption demand brought by foreigners visiting Japan."
+          ]
+        },
+        {
+          "ja": [
+            "オムニチャネル",
+            "実店舗とオンラインストアを連携させて商品を提供する考え方。"
+          ],
+          "vi": [
+            "Omni-channel",
+            "Cách nghĩ cung cấp sản phẩm bằng cách liên kết cửa hàng thực và cửa hàng online."
+          ],
+          "en": [
+            "Omni-channel",
+            "Concept of providing products by linking physical and online stores."
+          ]
+        },
+        {
+          "ja": [
+            "プル戦略",
+            "メーカーが広告などで間接的に消費者に訴えかけ、商品を指名買いしてもらうよう仕向ける戦略。"
+          ],
+          "vi": [
+            "Pull Strategy",
+            "Chiến lược nhà sản xuất gián tiếp hấp dẫn người tiêu dùng qua quảng cáo để họ chủ động tìm mua sản phẩm."
+          ],
+          "en": [
+            "Pull Strategy",
+            "Strategy where manufacturers indirectly appeal to consumers through advertising to have them seek products."
+          ]
+        },
+        {
+          "ja": [
+            "プッシュ戦略",
+            "メーカーが小売業者に対して、商品を積極的に販売してもらうよう仕向ける戦略。"
+          ],
+          "vi": [
+            "Push Strategy",
+            "Chiến lược nhà sản xuất hướng nhà bán lẻ tích cực bán sản phẩm."
+          ],
+          "en": [
+            "Push Strategy",
+            "Strategy where manufacturers encourage retailers to actively sell products."
+          ]
+        },
+        {
+          "ja": [
+            "ニーズ志向",
+            "消費者が求めている商品やサービスを開発して提供する考え方。"
+          ],
+          "vi": [
+            "Needs-oriented",
+            "Cách nghĩ phát triển và cung cấp sản phẩm/dịch vụ người tiêu dùng cần."
+          ],
+          "en": [
+            "Needs-oriented",
+            "Concept of developing and providing products/services consumers want."
+          ]
+        },
+        {
+          "ja": [
+            "シーズ志向",
+            "企業が独自に持っている技術やアイデアを生かした商品やサービスを開発して提供する考え方。"
+          ],
+          "vi": [
+            "Seeds-oriented",
+            "Cách nghĩ phát triển và cung cấp sản phẩm/dịch vụ tận dụng công nghệ và ý tưởng riêng của doanh nghiệp."
+          ],
+          "en": [
+            "Seeds-oriented",
+            "Concept of developing products/services utilizing company's unique technology and ideas."
+          ]
+        },
+        {
+          "ja": [
+            "フェルミ推定",
+            "実際に調査するのが難しい量を「すでにわかっている情報」と「論理的な考え方」を用いて概算する手法。"
+          ],
+          "vi": [
+            "Fermi Estimation",
+            "Phương pháp ước tính số lượng khó điều tra thực tế bằng cách dùng thông tin đã biết và cách tư duy logic."
+          ],
+          "en": [
+            "Fermi Estimation",
+            "Method estimating quantities difficult to survey using known information and logical thinking."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "UXとは、商品やサービスなどを実際に利用することによって得られる体験",
+        "vi": "UX là trải nghiệm có được khi thực sự sử dụng sản phẩm hoặc dịch vụ",
+        "en": "UX is the experience gained from actually using products or services",
+        "my": "UX သည် ထုတ်ကုန်များ သို့မဟုတ် ဝန်ဆောင်မှုများကို အမှန်တကယ် အသုံးပြုခြင်းမှ ရရှိသော အတွေ့အကြုံဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "商品",
+            "reading": "しょうひん"
+          },
+          {
+            "kanji": "実際",
+            "reading": "じっさい"
+          },
+          {
+            "kanji": "利用",
+            "reading": "りよう"
+          },
+          {
+            "kanji": "得",
+            "reading": "え"
+          },
+          {
+            "kanji": "体験",
+            "reading": "たいけん"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "「ー」（長音記号）について",
+        "vi": "Về dấu kéo dài âm (ー)",
+        "en": "About the Long Vowel Mark (ー)",
+        "my": "Long Vowel Mark (ー) အကြောင်း"
+      },
+      "content": {
+        "ja": "JIS（日本産業規格）は、長音記号の表記ルールを2019年に変更しました。例えば「leader」は、改正前では「リーダ」と表記されていましたが、改正後には「リーダー」と表記されるようになりました。ITパスポート試験に記載される技術用語の表記は、基本的にJISのルールに則っているため、過去問題の中で長音記号があるものとないものが混在しています。このような背景がありますが、これから学習をはじめる方は、長音記号の有無に関して、あまり気にせずに学習を進めることをお勧めします。",
+        "vi": "JIS (Tiêu chuẩn công nghiệp Nhật Bản) đã thay đổi quy tắc viết dấu kéo dài âm năm 2019. Ví dụ leader trước đây viết là リーダ nhưng sau khi sửa đổi viết là リーダー. Vì thuật ngữ kỹ thuật trong IT Passport tuân theo quy tắc JIS, nên trong đề thi cũ có cả có và không có dấu kéo dài âm. Với người mới bắt đầu học, khuyên nên học mà không quá quan tâm đến việc có hay không có dấu kéo dài âm.",
+        "en": "JIS (Japanese Industrial Standards) changed long vowel mark rules in 2019. For example, leader was written リーダ before revision but リーダー after. Since IT Passport technical terms follow JIS rules, past questions have both with and without long vowel marks. For those starting to study, we recommend not worrying too much about long vowel marks.",
+        "my": "JIS (Japanese Industrial Standards) သည် 2019 တွင် long vowel mark စည်းမျဉ်းများကို ပြောင်းလဲခဲ့သည်။",
+        "terms": [
+          {
+            "kanji": "日本産業規格",
+            "reading": "にほんさんぎょうきかく"
+          },
+          {
+            "kanji": "長音記号",
+            "reading": "ちょうおんきごう"
+          },
+          {
+            "kanji": "表記",
+            "reading": "ひょうき"
+          },
+          {
+            "kanji": "年",
+            "reading": "ねん"
+          },
+          {
+            "kanji": "変更",
+            "reading": "へんこう"
+          },
+          {
+            "kanji": "例",
+            "reading": "れい"
+          },
+          {
+            "kanji": "改正前",
+            "reading": "かいせいまえ"
+          },
+          {
+            "kanji": "改正後",
+            "reading": "かいせいご"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "記載",
+            "reading": "きさい"
+          },
+          {
+            "kanji": "技術用語",
+            "reading": "ぎじゅつようご"
+          },
+          {
+            "kanji": "基本的",
+            "reading": "きほんてき"
+          },
+          {
+            "kanji": "則",
+            "reading": "のり"
+          },
+          {
+            "kanji": "過去問題",
+            "reading": "かこもんだい"
+          },
+          {
+            "kanji": "中",
+            "reading": "なか"
+          },
+          {
+            "kanji": "混在",
+            "reading": "こんざい"
+          },
+          {
+            "kanji": "背景",
+            "reading": "はいけい"
+          },
+          {
+            "kanji": "学習",
+            "reading": "がくしゅう"
+          },
+          {
+            "kanji": "方",
+            "reading": "ほう"
+          },
+          {
+            "kanji": "有無",
+            "reading": "うむ"
+          },
+          {
+            "kanji": "関",
+            "reading": "かん"
+          },
+          {
+            "kanji": "気",
+            "reading": "き"
+          },
+          {
+            "kanji": "進",
+            "reading": "すすむ"
+          },
+          {
+            "kanji": "勧",
+            "reading": "かん"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "UX",
+      "reading": "ゆーえっくす",
+      "romaji": "User Experience",
+      "vi": "Trải nghiệm người dùng",
+      "en": "User Experience",
+      "my": "UX"
+    },
+    {
+      "kanji": "オムニチャネル",
+      "reading": "おむにちゃねる",
+      "romaji": "Omni-channel",
+      "vi": "Đa kênh",
+      "en": "Omni-channel",
+      "my": "Omni-channel"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

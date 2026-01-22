@@ -1,0 +1,357 @@
+{
+  "page_id": 369,
+  "image": "p_0369.png",
+  "chapter": 9,
+  "section": "09-08",
+  "page_number": 353,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "順次処理",
+      "reading": "じゅんじしょり",
+      "vi": "Xử lý tuần tự",
+      "en": "Sequential Processing"
+    },
+    {
+      "type": "paragraph",
+      "ja": "これから解説する「選択処理」や「繰り返し処理」を指定しなかった場合、コンピュータは、上から順番にプログラムを1つずつ実行していきます。このように、上から順番にプログラムを実行することを「順次処理」といいます。",
+      "vi": "Nếu không chỉ định \"xử lý lựa chọn\" hoặc \"xử lý lặp\" sẽ giải thích sau, máy tính sẽ thực hiện chương trình từng cái một theo thứ tự từ trên. Như vậy, việc thực hiện chương trình theo thứ tự từ trên gọi là \"xử lý tuần tự\".",
+      "en": "If 'selection processing' or 'loop processing' explained later aren't specified, computer executes program one by one from top in order. Executing program from top in order like this is called 'sequential processing.'",
+      "terms": [
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "選択処理",
+          "reading": "せんたくしょり"
+        },
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "順番",
+          "reading": "じゅんばん"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "順次処理",
+          "reading": "じゅんじしょり"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "選択処理とif",
+      "reading": "せんたくしょりとイフ",
+      "vi": "Xử lý lựa chọn và if",
+      "en": "Selection Processing and if"
+    },
+    {
+      "type": "paragraph",
+      "ja": "選択処理（ある条件に合致した場合のみ処理を実行したい場合）は「if」を使います。ifを使うとプログラムの処理を分岐できます（前ページの図の「選択処理」を参照）。",
+      "vi": "Xử lý lựa chọn (khi muốn chỉ thực hiện xử lý khi phù hợp điều kiện nào đó) sử dụng \"if\". Dùng if có thể phân nhánh xử lý chương trình (xem \"xử lý lựa chọn\" trong hình trang trước).",
+      "en": "Selection processing (when wanting to execute processing only when matching certain condition) uses 'if.' Using if can branch program processing (see 'Selection Processing' in previous page's diagram).",
+      "terms": [
+        {
+          "kanji": "選択処理",
+          "reading": "せんたくしょり"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "合致",
+          "reading": "がっち"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "分岐",
+          "reading": "ぶんき"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "選択処理では、処理を実行する前に条件式を判断し、条件式を満たす場合のみ処理を実行します。条件式を満たさない場合、処理は実行されません。",
+      "vi": "Trong xử lý lựa chọn, phán đoán biểu thức điều kiện trước khi thực hiện xử lý, chỉ thực hiện xử lý khi thỏa biểu thức điều kiện. Nếu không thỏa biểu thức điều kiện, xử lý không được thực hiện.",
+      "en": "In selection processing, judge conditional expression before executing processing, execute processing only when conditional expression is satisfied. If conditional expression not satisfied, processing is not executed.",
+      "terms": [
+        {
+          "kanji": "選択処理",
+          "reading": "せんたくしょり"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "条件式",
+          "reading": "じょうけんしき"
+        },
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        },
+        {
+          "kanji": "満",
+          "reading": "まん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "以下は選択処理（if）の書式です。",
+      "vi": "Sau đây là định dạng xử lý lựa chọn (if).",
+      "en": "Following is selection processing (if) format.",
+      "terms": [
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "選択処理",
+          "reading": "せんたくしょり"
+        },
+        {
+          "kanji": "書式",
+          "reading": "しょしき"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【書式】選択処理",
+        "vi": "【Định dạng】Xử lý lựa chọn",
+        "en": "[Format] Selection Processing"
+      },
+      "code": "if (条件式)\n    処理\nendif",
+      "explanation": {
+        "ja": "・最初にifを書き、その後に( )（丸括弧）を書く\n・( )の中に条件式（p.345）を書く\n・続いて、処理を書き、最後にendifを書く",
+        "vi": "・Viết if trước, sau đó viết ( ) (ngoặc tròn)\n・Viết biểu thức điều kiện (trang 345) trong ( )\n・Tiếp theo, viết xử lý, cuối cùng viết endif",
+        "en": "・Write if first, then write ( ) (parentheses)\n・Write conditional expression (p.345) in ( )\n・Then, write processing, finally write endif"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "指定した条件式の結果が「真（正しい）」の場合のみ、ifとendifの間に書かれた処理が実行されます。処理とは「0個以上の文の集まり」です。「0個以上」という変な呼び方をするのは、ifとendifの間の文が0個でもよいことを意味します。",
+      "vi": "Chỉ khi kết quả biểu thức điều kiện đã chỉ định là \"đúng (chính xác)\", xử lý viết giữa if và endif mới được thực hiện. Xử lý là \"tập hợp 0 hoặc nhiều lệnh\". Gọi \"0 hoặc nhiều\" kỳ lạ có nghĩa là có thể có 0 lệnh giữa if và endif.",
+      "en": "Only when specified conditional expression result is 'true (correct),' processing written between if and endif is executed. Processing is 'collection of 0 or more statements.' Strange term '0 or more' means there can be 0 statements between if and endif.",
+      "terms": [
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "条件式",
+          "reading": "じょうけんしき"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "真",
+          "reading": "まこと"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "個以上",
+          "reading": "こいじょう"
+        },
+        {
+          "kanji": "文",
+          "reading": "ぶん"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "変",
+          "reading": "へん"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "方",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "個",
+          "reading": "こ"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "以下は、変数numの値が「0」より大きい場合のみ、「正の整数です」と表示する（出力する）プログラム例です。",
+      "vi": "Sau đây là ví dụ chương trình chỉ hiển thị (xuất) \"là số nguyên dương\" khi giá trị biến num lớn hơn \"0\".",
+      "en": "Following is example program displaying (outputting) 'is positive integer' only when variable num value is greater than '0.'",
+      "terms": [
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "整数",
+          "reading": "せいすう"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】選択処理",
+        "vi": "【Ví dụ chương trình】Xử lý lựa chọn",
+        "en": "[Program Example] Selection Processing"
+      },
+      "code": "if (numが0より大きい)\n    \"正の整数です\"を出力する\nendif"
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "if",
+      "vi": "if (nếu)",
+      "en": "if",
+      "my": "အိဖ်"
+    },
+    {
+      "term": "endif",
+      "vi": "endif (kết thúc if)",
+      "en": "endif",
+      "my": "အင်ဒ်အိဖ်"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

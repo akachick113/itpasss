@@ -1,0 +1,148 @@
+{
+  "page_id": 527,
+  "image": "p_0527.png",
+  "chapter": 14,
+  "section": "14-05",
+  "page_number": 511,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "マルチホップ",
+      "vi": "Multi-hop",
+      "en": "Multi-hop"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "マルチホップ",
+        "vi": "Multi-hop",
+        "en": "Multi-hop"
+      },
+      "definition": {
+        "ja": "マルチホップとは、IoTデバイス同士が無線通信を中継（ホップ）し、これをリレー式に繰り返すことで、広範囲の通信を実現する技術です。マルチホップの利点は、基地局からの電波が届かない山間部などの地域でも通信が可能になる点にあります。",
+        "vi": "Multi-hop là công nghệ thực hiện truyền thông phạm vi rộng bằng cách các thiết bị IoT chuyển tiếp (hop) truyền thông không dây với nhau và lặp lại theo kiểu tiếp sức. Ưu điểm của multi-hop là có thể truyền thông ngay cả ở vùng núi nơi sóng từ trạm cơ sở không đến được.",
+        "en": "Multi-hop is technology realizing wide-range communication by IoT devices relaying (hopping) wireless communication with each other and repeating in relay style. Advantage of multi-hop is enabling communication even in mountainous areas where radio waves from base stations don't reach."
+      }
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "マルチホップ",
+        "vi": "Multi-hop",
+        "en": "Multi-hop"
+      },
+      "description": {
+        "ja": "IoTデバイス同士がバケツリレーのように中継を繰り返す。IoTデバイス → IoTデバイス → IoTデバイス → IoTデバイス",
+        "vi": "Các thiết bị IoT lặp lại chuyển tiếp như chuyền xô. Thiết bị IoT → Thiết bị IoT → Thiết bị IoT → Thiết bị IoT",
+        "en": "IoT devices repeat relay like bucket brigade. IoT Device → IoT Device → IoT Device → IoT Device"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "エッジコンピューティング",
+      "vi": "Edge Computing",
+      "en": "Edge Computing"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "エッジコンピューティング",
+        "vi": "Edge Computing",
+        "en": "Edge Computing"
+      },
+      "definition": {
+        "ja": "エッジコンピューティングとは、IoT機器の近くにサーバを配置することで応答速度を高める技術です。エッジコンピューティングは主に工場に設置されたセンサーなどのIoT機器との通信で使われます。",
+        "vi": "Edge Computing là công nghệ nâng cao tốc độ phản hồi bằng cách đặt máy chủ gần thiết bị IoT. Edge Computing chủ yếu được sử dụng trong truyền thông với các thiết bị IoT như cảm biến được cài đặt trong nhà máy.",
+        "en": "Edge Computing is technology increasing response speed by placing servers near IoT devices. Edge Computing is mainly used in communication with IoT devices like sensors installed in factories."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "従来のクラウドコンピューティングでは、サーバはユーザーから離れた場所にあるので通信に時間がかかっていました。",
+      "vi": "Trong Cloud Computing truyền thống, vì máy chủ ở xa người dùng nên truyền thông mất thời gian.",
+      "en": "In traditional Cloud Computing, since servers are far from users, communication took time.",
+      "terms": [
+        {
+          "kanji": "従来",
+          "reading": "じゅうらい"
+        },
+        {
+          "kanji": "離",
+          "reading": "り"
+        },
+        {
+          "kanji": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "kanji": "通信",
+          "reading": "つうしん"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方で、エッジコンピューティングではサーバを工場の近くに配置するので、センサーとの通信を高速に行うことができます。そして、必要なデータだけをクラウドコンピューティングと通信します。",
+      "vi": "Mặt khác, trong Edge Computing, vì máy chủ được đặt gần nhà máy, có thể truyền thông với cảm biến với tốc độ cao. Và chỉ truyền thông dữ liệu cần thiết với Cloud Computing.",
+      "en": "On other hand, in Edge Computing, since servers are placed near factories, can communicate with sensors at high speed. And only communicate necessary data with Cloud Computing.",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "工場",
+          "reading": "こうじょう"
+        },
+        {
+          "kanji": "近",
+          "reading": "きん"
+        },
+        {
+          "kanji": "配置",
+          "reading": "はいち"
+        },
+        {
+          "kanji": "通信",
+          "reading": "つうしん"
+        },
+        {
+          "kanji": "高速",
+          "reading": "こうそく"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "マルチホップ",
+      "vi": "Multi-hop",
+      "en": "Multi-hop",
+      "my": "မန်တီဟော့ပ်"
+    },
+    {
+      "term": "エッジコンピューティング",
+      "vi": "Edge Computing",
+      "en": "Edge Computing",
+      "my": "အတ်ခွန်း ကွန်ပျူတင်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

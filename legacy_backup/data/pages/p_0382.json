@@ -1,0 +1,59 @@
+{
+    "page_id": 382,
+    "image": "p_0382.png",
+    "chapter": 9,
+    "section": "practice",
+    "page_number": 366,
+    "content": [
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "出る順！過去問＆完全解説",
+                "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích hoàn chỉnh",
+                "en": "By Frequency! Past Questions & Complete Explanations"
+            },
+            "note": {
+                "ja": "解答・解説はp.368参照",
+                "vi": "Xem đáp án và giải thích ở trang 368",
+                "en": "See p.368 for answers and explanations"
+            }
+        },
+        {
+            "type": "exam_question",
+            "number": "9-7",
+            "year": "令和6年度",
+            "question": {
+                "ja": "関数convertは、整数型の配列を一定のルールで文字列に変換するプログラムである。関数convertをconvert（arrayInput）として呼び出したときの戻り値が\"AABAB\"になる引数arrayInputの値はどれか。ここで、arrayInputの要素数は1以上とし、配列の要素番号は1から始まる。",
+                "vi": "Hàm convert là chương trình chuyển đổi mảng kiểu số nguyên thành chuỗi theo quy tắc nhất định. Khi gọi hàm convert là convert(arrayInput), giá trị đối số arrayInput nào cho giá trị trả về là \"AABAB\"? Ở đây, số phần tử của arrayInput là 1 trở lên, và số thứ tự phần tử mảng bắt đầu từ 1.",
+                "en": "Function convert is program converting integer array to string by certain rule. When calling function convert as convert(arrayInput), which arrayInput argument value gives return value \"AABAB\"? Here, arrayInput element count is 1 or more, and array element index starts from 1."
+            },
+            "program": {
+                "code": "○文字列型: convert (整数型の配列: arrayInput)\n    文字列型: stringOutput ← \"\"    // 空文字列を格納\n    整数型: i\n    for (iを1からarrayInputの要素数まで1ずつ増やす)\n        if (arrayInput[i]が1と等しい)\n            stringOutputの末尾に\"A\"を追加する\n        else\n            stringOutputの末尾に\"B\"を追加する\n        endif\n    endfor\n    return stringOutput"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "value": "{0, 0, 1, 2, 1}"
+                },
+                {
+                    "choice": "イ",
+                    "value": "{0, 1, 2, 1, 1}"
+                },
+                {
+                    "choice": "ウ",
+                    "value": "{1, 0, 1, 2, 0}"
+                },
+                {
+                    "choice": "エ",
+                    "value": "{1, 1, 2, 1, 0}"
+                }
+            ],
+            "correct_answer": "エ"
+        }
+    ],
+    "answers_summary": "問題9-7 エ",
+    "meta": {
+        "has_questions": true,
+        "question_count": 1
+    }
+}

@@ -1,0 +1,323 @@
+{
+  "page_id": 392,
+  "image": "p_0392.png",
+  "chapter": 10,
+  "section": "10-02",
+  "page_number": 376,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "サーバの仮想化とは、1台のコンピュータ上で仮想的に複数のサーバを動作させる技術",
+          "vi": "Ảo hóa server là công nghệ vận hành ảo nhiều server trên một máy tính",
+          "en": "Server virtualization is technology virtually operating multiple servers on one computer"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "システム構成による分類",
+      "reading": "システムこうせいによるぶんるい",
+      "vi": "Phân loại theo cấu trúc hệ thống",
+      "en": "Classification by System Configuration"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システムをシステム構成で分類すると、次の3種類に分類できます。次ページの図も確認しながら読み進めてください。",
+      "vi": "Khi phân loại hệ thống theo cấu trúc hệ thống, có thể phân thành 3 loại sau. Hãy đọc kết hợp với hình ở trang tiếp theo.",
+      "en": "Classifying systems by system configuration, can classify into following 3 types. Please read while also checking diagram on next page.",
+      "terms": [
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "システム構成による分類",
+        "vi": "Phân loại theo cấu trúc hệ thống",
+        "en": "Classification by System Configuration"
+      },
+      "headers": {
+        "ja": [
+          "分類",
+          "説明"
+        ],
+        "vi": [
+          "Phân loại",
+          "Giải thích"
+        ],
+        "en": [
+          "Classification",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "type": {
+            "ja": "シンプレックスシステム",
+            "vi": "Hệ thống đơn",
+            "en": "Simplex System"
+          },
+          "description": {
+            "ja": "1つのコンピュータだけのシステム構成。システム構成のなかで最もシンプルな構成。このシステムでは、システムのどこか一箇所でも障害が発生すると、システムは停止する。",
+            "vi": "Cấu trúc hệ thống chỉ có một máy tính. Cấu trúc đơn giản nhất trong các cấu trúc hệ thống. Trong hệ thống này, nếu xảy ra sự cố ở bất kỳ nơi nào, hệ thống sẽ dừng.",
+            "en": "System configuration with only one computer. Simplest configuration among system configurations. In this system, if failure occurs anywhere, system stops."
+          }
+        },
+        {
+          "type": {
+            "ja": "デュプレックスシステム",
+            "vi": "Hệ thống đôi (duplex)",
+            "en": "Duplex System"
+          },
+          "description": {
+            "ja": "メインで動作するコンピュータと、故障に備えて待機しているコンピュータの2つのコンピュータからなるシステム構成。シンプレックスシステムに予備のコンピュータを追加した構成。",
+            "vi": "Cấu trúc hệ thống gồm 2 máy tính: máy chính hoạt động và máy chờ phòng khi hỏng. Cấu trúc thêm máy tính dự phòng vào hệ thống đơn.",
+            "en": "System configuration with 2 computers: main operating computer and standby computer for failures. Configuration adding backup computer to simplex system."
+          }
+        },
+        {
+          "type": {
+            "ja": "デュアルシステム",
+            "vi": "Hệ thống kép (dual)",
+            "en": "Dual System"
+          },
+          "description": {
+            "ja": "2つのコンピュータが同じ処理を行い、結果を照合して正しいことを確認するシステム構成。",
+            "vi": "Cấu trúc hệ thống 2 máy tính thực hiện cùng xử lý và so sánh kết quả để xác nhận chính xác.",
+            "en": "System configuration where 2 computers perform same processing and compare results to confirm correctness."
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、デュプレックスシステムとデュアルシステムを区別する問題がよく出題されます。混同しないように注意してください。「Duplex」は「2重」、「Dual」は「2つ」という意味です。",
+      "vi": "Trong kỳ thi IT Passport, thường có câu hỏi phân biệt hệ thống duplex và hệ thống dual. Hãy cẩn thận không nhầm lẫn. \"Duplex\" có nghĩa là \"2 tầng\", \"Dual\" có nghĩa là \"2 cái\".",
+      "en": "In IT Passport exam, questions distinguishing duplex system and dual system often appear. Be careful not to confuse. 'Duplex' means '2 layers,' 'Dual' means '2 units.'",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "区別",
+          "reading": "くべつ"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "混同",
+          "reading": "こんどう"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        },
+        {
+          "kanji": "重",
+          "reading": "じゅう"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、デュアルシステムでは2つのコンピュータが両方とも動作していますが、処理能力が2倍になるわけではありません。上記のとおり、2つのコンピュータがまったく同じ動作を行うため、処理能力自体はシンプレックスシステムとほぼ同じです。この点は間違えやすいので注意してください。",
+      "vi": "Tham khảo, trong hệ thống dual 2 máy tính đều hoạt động, nhưng khả năng xử lý không tăng gấp đôi. Như đã nói, vì 2 máy tính thực hiện hoạt động hoàn toàn giống nhau nên khả năng xử lý gần như bằng hệ thống đơn. Điểm này dễ nhầm nên hãy chú ý.",
+      "en": "Note that in dual system 2 computers both operate, but processing power doesn't double. As stated, since 2 computers perform exactly same operation, processing power itself is almost same as simplex system. Be careful as this point is easy to mistake.",
+      "terms": [
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "動作",
+          "reading": "どうさ"
+        },
+        {
+          "kanji": "処理能力",
+          "reading": "しょりのうりょく"
+        },
+        {
+          "kanji": "倍",
+          "reading": "ばい"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "処理能力自体",
+          "reading": "しょりのうりょくじたい"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "間違",
+          "reading": "かんい"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "デュアルシステムの最大の特徴は「障害を検知できる」ことにあります。例えば、コンピュータAの計算結果が「4」なのに、もう一方のコンピュータBの計算結果が「6」となった場合は、どこかに異常があると判断できます。このように、デュアルシステムでは同じ処理を2つのコンピュータで行うことにより、処理の正しさを確認します。",
+      "vi": "Đặc điểm lớn nhất của hệ thống dual là \"có thể phát hiện lỗi\". Ví dụ, nếu kết quả tính toán của máy tính A là \"4\" nhưng kết quả của máy tính B là \"6\", có thể phán đoán là có bất thường ở đâu đó. Như vậy, trong hệ thống dual, bằng cách thực hiện cùng xử lý trên 2 máy tính, xác nhận tính đúng đắn của xử lý.",
+      "en": "Dual system's biggest feature is 'can detect failures.' For example, if computer A's calculation result is '4' but other computer B's result is '6,' can judge there's abnormality somewhere. Like this, in dual system, by performing same processing on 2 computers, confirms processing correctness.",
+      "terms": [
+        {
+          "kanji": "最大",
+          "reading": "さいだい"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "障害",
+          "reading": "しょうがい"
+        },
+        {
+          "kanji": "検知",
+          "reading": "けんち"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "計算結果",
+          "reading": "けいさんけっか"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "異常",
+          "reading": "いじょう"
+        },
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "シンプレックスシステム",
+      "vi": "Hệ thống đơn",
+      "en": "Simplex System",
+      "my": "ရိုးရှင်း စနစ်"
+    },
+    {
+      "term": "デュプレックスシステム",
+      "vi": "Hệ thống đôi (duplex)",
+      "en": "Duplex System",
+      "my": "ဒူပလက် စနစ်"
+    },
+    {
+      "term": "デュアルシステム",
+      "vi": "Hệ thống kép (dual)",
+      "en": "Dual System",
+      "my": "ဒူရဲ စနစ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

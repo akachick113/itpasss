@@ -1,0 +1,247 @@
+{
+  "page_id": 512,
+  "image": "p_0512.png",
+  "chapter": 14,
+  "section": "14-04",
+  "page_number": 496,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "14-04",
+      "title": {
+        "ja": "インターネットの仕組み",
+        "vi": "Cơ chế của Internet",
+        "en": "How Internet Works"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "世界をつなぐ巨大ネットワーク",
+        "vi": "Mạng khổng lồ kết nối thế giới",
+        "en": "Giant Network Connecting World"
+      },
+      "content": {
+        "ja": "地球上には無数のLANやWANが存在します。それらがつながったネットワークをインターネットといいます。",
+        "vi": "Trên Trái Đất tồn tại vô số LAN và WAN. Mạng kết nối chúng với nhau được gọi là Internet.",
+        "en": "On Earth, countless LANs and WANs exist. Network connecting them is called Internet."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは「インターネット」の仕組みについて解説します。本項では多数の用語が登場します。過去問を分析すると「RSS」の出題回数が最も多いのですが、それ以外の用語も万遍なく出題される傾向があります。それらの用語を個別に1つひとつ覚えるのは大変です。用語同士を関連づけたり、複数の用語を1つのグループに分類するなどして、全体像を把握することが大切です。",
+      "vi": "Từ đây sẽ giải thích về cơ chế của \"Internet\". Trong phần này có nhiều thuật ngữ xuất hiện. Phân tích đề thi cũ cho thấy \"RSS\" có số lần ra đề nhiều nhất, nhưng các thuật ngữ khác cũng có xu hướng được ra đề đều đặn. Việc nhớ từng thuật ngữ riêng lẻ rất khó. Điều quan trọng là liên kết các thuật ngữ với nhau hoặc phân loại nhiều thuật ngữ vào 1 nhóm để nắm được toàn cảnh.",
+      "en": "From here will explain mechanism of 'Internet.' Many terms appear in this section. Analyzing past questions, 'RSS' appears most frequently, but other terms also tend to appear evenly. Remembering each term individually is difficult. Important to associate terms with each other or classify multiple terms into 1 group to grasp overall picture.",
+      "terms": [
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "多数",
+          "reading": "たすう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        },
+        {
+          "kanji": "過去問",
+          "reading": "かこもん"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "出題回数",
+          "reading": "しゅつだいかいすう"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "以外",
+          "reading": "いがい"
+        },
+        {
+          "kanji": "万遍",
+          "reading": "まんべん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "傾向",
+          "reading": "けいこう"
+        },
+        {
+          "kanji": "個別",
+          "reading": "こべつ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "大変",
+          "reading": "たいへん"
+        },
+        {
+          "kanji": "用語同士",
+          "reading": "ようごどうし"
+        },
+        {
+          "kanji": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "全体像",
+          "reading": "ぜんたいぞう"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "インターネットとIPアドレス",
+      "vi": "Internet và Địa chỉ IP",
+      "en": "Internet and IP Address"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "インターネット",
+        "vi": "Internet",
+        "en": "Internet"
+      },
+      "definition": {
+        "ja": "インターネットとは、世界各地の無数のネットワークをつないだ巨大なネットワークです。インターネット上では膨大な情報が日々やり取りされています。",
+        "vi": "Internet là mạng khổng lồ kết nối vô số mạng ở khắp nơi trên thế giới. Trên Internet, lượng thông tin khổng lồ được trao đổi hàng ngày.",
+        "en": "Internet is giant network connecting countless networks around world. On Internet, vast amount of information is exchanged daily."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "インターネット上で通信をするには「IPアドレス」を使って、通信相手のコンピュータの場所を特定する必要があります。",
+      "vi": "Để truyền thông trên Internet, cần sử dụng \"Địa chỉ IP\" để xác định vị trí máy tính của đối tác truyền thông.",
+      "en": "To communicate on Internet, need to use 'IP Address' to identify location of communication partner's computer.",
+      "terms": [
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "通信",
+          "reading": "つうしん"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "通信相手",
+          "reading": "つうしんあいて"
+        },
+        {
+          "kanji": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "IPアドレス",
+        "vi": "Địa chỉ IP",
+        "en": "IP Address"
+      },
+      "definition": {
+        "ja": "IPアドレス（Internet Protocol Address）とは、ネットワークに接続している「コンピュータ」を識別するための番号です。名称に「アドレス＝住所」という言葉が含まれていることからも、IPアドレスがネットワーク上の住所（コンピュータの場所）を示す値であることがわかります。",
+        "vi": "Địa chỉ IP (Internet Protocol Address) là số để nhận dạng \"máy tính\" đang kết nối với mạng. Từ việc tên có chứa từ \"Address = Địa chỉ\", có thể hiểu rằng địa chỉ IP là giá trị chỉ địa chỉ trên mạng (vị trí máy tính).",
+        "en": "IP Address (Internet Protocol Address) is number to identify 'computer' connected to network. From name containing word 'Address,' can understand that IP Address is value indicating address on network (computer location)."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "IPアドレスは、具体的には「13.112.248.159」や「192.168.1.1」のように、数値とピリオドで構成されます。",
+      "vi": "Cụ thể, địa chỉ IP được cấu thành từ số và dấu chấm như \"13.112.248.159\" hay \"192.168.1.1\".",
+      "en": "Specifically, IP Address is composed of numbers and periods like '13.112.248.159' or '192.168.1.1.'",
+      "terms": [
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "数値",
+          "reading": "すうち"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "インターネット",
+      "vi": "Internet",
+      "en": "Internet",
+      "my": "အင်တာနက်"
+    },
+    {
+      "term": "IPアドレス",
+      "full": "Internet Protocol Address",
+      "vi": "Địa chỉ IP",
+      "en": "IP Address",
+      "my": "IP လိပ်စာ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

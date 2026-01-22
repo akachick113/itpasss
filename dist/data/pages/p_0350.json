@@ -1,0 +1,303 @@
+{
+  "page_id": 350,
+  "image": "p_0350.png",
+  "chapter": 9,
+  "section": "09-05",
+  "page_number": 334,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "09-05",
+      "title": {
+        "ja": "アルゴリズムとフローチャート",
+        "vi": "Thuật toán và Lưu đồ",
+        "en": "Algorithms and Flowcharts"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "文字よりも図",
+        "vi": "Hình vẽ hơn chữ",
+        "en": "Diagrams Over Text"
+      },
+      "content": {
+        "ja": "コンピュータに処理してもらう命令は、文字で書くよりも、図にしたほうが、人間にとっては理解しやすいです。",
+        "vi": "Các lệnh để máy tính xử lý, dễ hiểu hơn với con người khi vẽ thành hình thay vì viết bằng chữ.",
+        "en": "Commands for computer processing are easier for humans to understand as diagrams rather than text."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "本項で覚えることは「アルゴリズムの日本語での言い方」と「フローチャートの見方」の2つだけです。",
+      "vi": "Trong phần này chỉ cần nhớ 2 điều: \"cách nói tiếng Nhật của Algorithm\" và \"cách đọc Flowchart\".",
+      "en": "Only 2 things to remember here: 'Japanese term for Algorithm' and 'how to read Flowcharts.'",
+      "terms": [
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "kanji": "言",
+          "reading": "い"
+        },
+        {
+          "kanji": "方",
+          "reading": "かた"
+        },
+        {
+          "kanji": "見方",
+          "reading": "みかた"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "アルゴリズム",
+      "reading": "あるごりずむ",
+      "vi": "Thuật toán",
+      "en": "Algorithm"
+    },
+    {
+      "type": "paragraph",
+      "ja": "アルゴリズムとは、問題を解決するときの手順です。数学者のアル＝フワーリズミーの名前に由来しているといわれています（諸説あり）。",
+      "vi": "Thuật toán là thủ tục khi giải quyết vấn đề. Được cho là bắt nguồn từ tên của nhà toán học Al-Khwarizmi (có nhiều thuyết).",
+      "en": "Algorithm is procedure for solving problems. Said to be derived from mathematician Al-Khwarizmi's name (various theories).",
+      "terms": [
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "手順",
+          "reading": "てじゅん"
+        },
+        {
+          "kanji": "数学者",
+          "reading": "すうがくしゃ"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "由来",
+          "reading": "ゆらい"
+        },
+        {
+          "kanji": "諸説",
+          "reading": "しょせつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "アルゴリズムは1つの問題に対して1つとは限りません。複数ある場合もあります。例えば、1から100までの整数の総和を求める問題の場合は、単純に1、2、3…と順々にたし算していけば答えを得ることができます。他にも、「（1＋100）×100÷2」という「和の公式」を使うこともでき算出できます。これもアルゴリズムの1つです。このアルゴリズムを、コンピュータにわかる形式で伝えることができれば、人間が手作業で行っている処理を省略できます。",
+      "vi": "Thuật toán không chỉ có 1 cho 1 vấn đề. Có thể có nhiều. Ví dụ, với bài toán tìm tổng các số nguyên từ 1 đến 100, có thể cộng tuần tự 1, 2, 3... để được đáp án. Ngoài ra, cũng có thể dùng \"công thức tổng\" là \"(1+100)×100÷2\" để tính. Đây cũng là 1 thuật toán. Nếu có thể truyền đạt thuật toán này dưới dạng máy tính hiểu được, có thể loại bỏ xử lý thủ công của con người.",
+      "en": "Algorithms aren't limited to 1 per problem. There can be multiple. For example, to find sum of integers 1 to 100, can add 1, 2, 3... sequentially for answer. Also can use 'sum formula' '(1+100)×100÷2' to calculate. This is also an algorithm. If can convey this algorithm in form computer understands, can eliminate manual human processing.",
+      "terms": [
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "限",
+          "reading": "げん"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "整数",
+          "reading": "せいすう"
+        },
+        {
+          "kanji": "総和",
+          "reading": "そうわ"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "単純",
+          "reading": "たんじゅん"
+        },
+        {
+          "kanji": "順",
+          "reading": "じゅん"
+        },
+        {
+          "kanji": "算",
+          "reading": "さん"
+        },
+        {
+          "kanji": "答",
+          "reading": "こたえ"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "和",
+          "reading": "わ"
+        },
+        {
+          "kanji": "公式",
+          "reading": "こうしき"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "算出",
+          "reading": "さんしゅつ"
+        },
+        {
+          "kanji": "形式",
+          "reading": "けいしき"
+        },
+        {
+          "kanji": "伝",
+          "reading": "でん"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "手作業",
+          "reading": "てさぎょう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "省略",
+          "reading": "しょうりゃく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、ITパスポート試験では手順と同じ意味で「手続」という言葉が使われることがあるので注意してください。",
+      "vi": "Ngoài ra, trong kỳ thi IT Passport, từ \"thủ tục\" đôi khi được sử dụng với nghĩa giống như \"quy trình\" nên hãy chú ý.",
+      "en": "Note that in IT Passport exam, word 'procedure' is sometimes used with same meaning as 'process,' so be careful.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "手順",
+          "reading": "てじゅん"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "手続",
+          "reading": "てつづき"
+        },
+        {
+          "kanji": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "アルゴリズムとは、問題を解決するときの手順（手続）",
+          "vi": "Thuật toán là thủ tục (quy trình) khi giải quyết vấn đề",
+          "en": "Algorithm is procedure (process) for solving problems"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "アルゴリズム",
+      "reading": "あるごりずむ",
+      "romaji": "Algorithm",
+      "vi": "Thuật toán",
+      "en": "Algorithm",
+      "ja_synonym": "手順、手続",
+      "my": "အလ်ဂိုရွင်းသမ်"
+    },
+    {
+      "term": "フローチャート",
+      "reading": "ふろーちゃーと",
+      "romaji": "Flowchart",
+      "vi": "Lưu đồ",
+      "en": "Flowchart",
+      "my": "ဖလိုးချာတ်"
+    }
+  ],
+  "meta": {
+    "has_illustration": true,
+    "has_exam_tip": true
+  }
+}

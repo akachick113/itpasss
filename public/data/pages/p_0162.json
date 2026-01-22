@@ -1,0 +1,165 @@
+{
+    "page_id": 162,
+    "image": "p_0162.png",
+    "chapter": 4,
+    "section": "questions",
+    "page_number": 146,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "4-13",
+            "year": "令和5年度",
+            "question": {
+                "ja": "AIに利用されるニューラルネットワークにおける活性化関数に関する記述として、適切なものはどれか。",
+                "vi": "Đâu là mô tả phù hợp về hàm kích hoạt trong Neural Network được sử dụng cho AI?",
+                "en": "Which is an appropriate description of activation functions in neural networks used for AI?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "ニューラルネットワークから得られた結果を基に計算し、結果の信頼度を出力する。",
+                    "vi": "Tính toán dựa trên kết quả từ Neural Network và xuất độ tin cậy của kết quả.",
+                    "en": "Calculates based on results from neural network and outputs result reliability."
+                },
+                {
+                    "label": "イ",
+                    "ja": "入力層と出力層のニューロンの数を基に計算し、中間層に必要なニューロンの数を出力する。",
+                    "vi": "Tính toán dựa trên số neuron của lớp đầu vào và đầu ra, xuất số neuron cần thiết cho lớp trung gian.",
+                    "en": "Calculates based on number of neurons in input and output layers, outputs required number of neurons for hidden layer."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ニューロンの接続構成を基に計算し、最適なニューロンの数を出力する。",
+                    "vi": "Tính toán dựa trên cấu hình kết nối neuron, xuất số neuron tối ưu.",
+                    "en": "Calculates based on neuron connection configuration, outputs optimal number of neurons."
+                },
+                {
+                    "label": "エ",
+                    "ja": "一つのニューロンにおいて、入力された値を基に計算し、次のニューロンに渡す値を出力する。",
+                    "vi": "Trong một neuron, tính toán dựa trên giá trị đầu vào, xuất giá trị truyền cho neuron tiếp theo.",
+                    "en": "In one neuron, calculates based on input values, outputs values to pass to next neuron.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-14",
+            "year": "令和2年度",
+            "question": {
+                "ja": "ディープラーニングを構成する技術の一つであり、人間の脳内にある神経回路を数学的なモデルで表現したものはどれか。",
+                "vi": "Một trong các công nghệ cấu thành Deep Learning, thể hiện mạch thần kinh trong não người bằng mô hình toán học là gì?",
+                "en": "Which is one technology constituting deep learning that expresses neural circuits in human brain using mathematical models?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "コンテンツデリバリネットワーク",
+                    "vi": "Content Delivery Network",
+                    "en": "Content Delivery Network"
+                },
+                {
+                    "label": "イ",
+                    "ja": "ストレージエリアネットワーク",
+                    "vi": "Storage Area Network",
+                    "en": "Storage Area Network"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ニューラルネットワーク",
+                    "vi": "Neural Network",
+                    "en": "Neural Network",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "ユビキタスネットワーク",
+                    "vi": "Ubiquitous Network",
+                    "en": "Ubiquitous Network"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-15",
+            "year": "令和2年度",
+            "question": {
+                "ja": "ある会社のECサイトでは、利用者からのチャットでの多様な問い合わせについて、オペレーターが対応する仕組みから、ソフトウェアによる自動対応に変更した。このとき、利用者の過去のチャット内容などを学習させ、会話の流れから適切な回答を推測できる仕組みに変更するために使われた技術として、最も適切なものはどれか。",
+                "vi": "Trang EC của một công ty đã đổi từ cơ chế operator trả lời các câu hỏi đa dạng qua chat từ người dùng sang tự động trả lời bằng phần mềm. Khi đó, công nghệ phù hợp nhất được sử dụng để thay đổi sang cơ chế học nội dung chat quá khứ của người dùng và suy luận câu trả lời phù hợp từ luồng hội thoại là gì?",
+                "en": "An EC site changed from operators answering diverse chat inquiries from users to automatic response by software. Which technology was most appropriately used to change to a system that learns from users' past chat content and can infer appropriate answers from conversation flow?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "AI",
+                    "vi": "AI",
+                    "en": "AI",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "AR",
+                    "vi": "AR",
+                    "en": "AR"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "CRM",
+                    "vi": "CRM",
+                    "en": "CRM"
+                },
+                {
+                    "label": "エ",
+                    "ja": "ERP",
+                    "vi": "ERP",
+                    "en": "ERP"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-16",
+            "year": "令和3年度",
+            "question": {
+                "ja": "IoT機器やスマートフォンなどの端末に搭載されているGPS機能を利用して、この端末が自らの位置情報を得る仕組みとして、適切なものはどれか。",
+                "vi": "Cơ chế phù hợp để thiết bị IoT hoặc smartphone sử dụng chức năng GPS được trang bị để lấy thông tin vị trí của chính nó là gì?",
+                "en": "Which is the appropriate mechanism for IoT devices or smartphones to obtain their own location information using equipped GPS function?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "端末の位置情報の通知要求を電波に乗せて人工衛星に送信し、これに対する応答を受信することによって位置情報を得る。",
+                    "vi": "Gửi yêu cầu thông báo vị trí thiết bị qua sóng đến vệ tinh, nhận phản hồi để lấy thông tin vị trí.",
+                    "en": "Send location notification request via radio waves to satellite, receive response to get location."
+                },
+                {
+                    "label": "イ",
+                    "ja": "端末の位置情報の通知要求を電波に乗せて地上の無線基地局に送信し、これに対する応答を受信することによって位置情報を得る。",
+                    "vi": "Gửi yêu cầu thông báo vị trí thiết bị qua sóng đến trạm gốc không dây mặt đất, nhận phản hồi để lấy thông tin vị trí.",
+                    "en": "Send location notification request via radio waves to ground wireless base station, receive response to get location."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "三つ以上の人工衛星が発信している電波を受信し、電波の発信時刻と受信時刻の差などから端末の位置情報を得る。",
+                    "vi": "Nhận sóng từ 3 vệ tinh trở lên, lấy thông tin vị trí thiết bị từ chênh lệch thời gian phát và nhận sóng.",
+                    "en": "Receive radio waves from 3+ satellites, get location from difference between transmission and reception times.",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "三つ以上の地上の無線基地局が発信している電波を受信し、電波の発信時刻と受信時刻の差などから端末の位置情報を得る。",
+                    "vi": "Nhận sóng từ 3 trạm gốc không dây mặt đất trở lên, lấy thông tin vị trí thiết bị từ chênh lệch thời gian phát và nhận sóng.",
+                    "en": "Receive radio waves from 3+ ground wireless base stations, get location from difference between transmission and reception times."
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "questions_covered": "4-13, 4-14, 4-15, 4-16",
+        "answers": "4-13: エ, 4-14: ウ, 4-15: ア, 4-16: ウ"
+    }
+}

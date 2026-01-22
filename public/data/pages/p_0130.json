@@ -1,0 +1,99 @@
+{
+    "page_id": 130,
+    "image": "p_0130.png",
+    "chapter": 3,
+    "section": "questions",
+    "page_number": 114,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "3-9",
+            "year": "令和6年度",
+            "question": {
+                "ja": "ベンチャーキャピタルに関する記述として、最も適切なものはどれか。",
+                "vi": "Mô tả phù hợp nhất về Venture Capital là gì?",
+                "en": "Which is the most appropriate description of Venture Capital?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "新しい技術の獲得や、規模の経済性の追求などを目的に、他の企業と共同出資会社を設立する手法",
+                    "vi": "Phương pháp thành lập công ty góp vốn chung với doanh nghiệp khác để có được công nghệ mới hoặc theo đuổi tính kinh tế quy mô",
+                    "en": "Method establishing joint investment company with other companies to acquire new technology or pursue economies of scale"
+                },
+                {
+                    "label": "イ",
+                    "ja": "株式売却による利益獲得などを目的に、新しい製品やサービスを武器に市場に参入しようとする企業に対して出資などを行う企業",
+                    "vi": "Doanh nghiệp đầu tư vào doanh nghiệp đang cố thâm nhập thị trường bằng sản phẩm/dịch vụ mới để thu lợi từ bán cổ phiếu",
+                    "en": "Company investing in companies entering market with new products/services to gain profit from share sales",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "新サービスや技術革新などの創出を目的に、国や学術機関、他の企業など外部の組織と共同関係を結び、積極的に技術や資源を交換し、自社に取り込む手法",
+                    "vi": "Phương pháp lập quan hệ hợp tác với tổ chức bên ngoài như quốc gia, tổ chức học thuật, doanh nghiệp khác để tích cực trao đổi công nghệ/nguồn lực và đưa vào công ty mình",
+                    "en": "Method establishing cooperation with external organizations like governments, academia, other companies to actively exchange technology/resources"
+                },
+                {
+                    "label": "エ",
+                    "ja": "特定された課題の解決を目的に、一定の期間を設けて企業内に立ち上げられ、構成員を関連部門から招集し、目的が達成された時点で解散する組織",
+                    "vi": "Tổ chức được thành lập trong doanh nghiệp với thời hạn nhất định để giải quyết vấn đề cụ thể, triệu tập thành viên từ bộ phận liên quan và giải tán khi đạt mục tiêu",
+                    "en": "Organization established within company for specific period to solve identified issues, recruiting members from related departments and disbanding when objective achieved"
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "ja": "解答・解説",
+            "vi": "Đáp án & Giải thích",
+            "en": "Answers & Explanations"
+        },
+        {
+            "type": "answer_explanation",
+            "number": "3-1",
+            "answer": "ア",
+            "explanation": {
+                "ja": "市場成長率が低く、市場占有率が高いのは「金のなる木」です。なお、プロダクトポートフォリオマネジメント（PPM）に関しては、白紙の状態から、2つの軸と4つの象限を図に描き起こせるようになっておいてください。",
+                "vi": "Tốc độ tăng trưởng thấp và thị phần cao là Bò sữa (Cash Cow). Lưu ý, về PPM, hãy có khả năng vẽ 2 trục và 4 phần từ trang trắng.",
+                "en": "Low growth rate and high share is Cash Cow. Note: for PPM, be able to draw 2 axes and 4 quadrants from blank paper."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "3-2",
+            "answer": "イ",
+            "explanation": {
+                "ja": "機会と脅威は自社では変えることができない要因で「外部要因」。一方、強みと弱みは自社で変えることができます「内部要因」。選択肢イ以外はすべて、自社ではコントロールすることができない外部要因であるため、強みと弱みの評価の対象にはなりません。",
+                "vi": "Cơ hội và mối đe dọa là yếu tố bên ngoài mà công ty không thể thay đổi. Mặt khác, điểm mạnh và điểm yếu là yếu tố nội bộ có thể thay đổi. Tất cả trừ lựa chọn イ là yếu tố bên ngoài không thể kiểm soát nên không phải đối tượng đánh giá điểm mạnh và điểm yếu.",
+                "en": "Opportunities and threats are external factors company cannot change. Strengths and weaknesses are internal factors that can be changed. All except choice B are external factors that cannot be controlled, so not subject to strength/weakness evaluation."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "3-3",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "「連携を強化」というキーワードがある選択肢がアライアンスです。\n\nア. M&Aの効果です。\n\nイ. アウトソーシングの効果です。\n\nエ. 持ち株会社の効果です。",
+                "vi": "Lựa chọn có từ khóa tăng cường liên kết là Alliance.\n\nア Hiệu quả của M&A.\n\nイ Hiệu quả của Outsourcing.\n\nエ Hiệu quả của công ty mẹ (holding company).",
+                "en": "Choice with keyword strengthen cooperation is Alliance.\n\nA. Effect of M&A.\n\nB. Effect of Outsourcing.\n\nD. Effect of holding company."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "3-4",
+            "answer": "ア",
+            "explanation": {
+                "ja": "「共同出資」というキーワードがある選択肢がジョイントベンチャーの説明になります。「M&A」「ジョイントベンチャー」「アライアンス」の3用語は区別が難しいので、p.106で各用語の違いをしっかりと把握しておいてください。\n\nイ. アライアンスの説明です。\n\nウ. M&Aの説明です。\n\nエ. ライセンス契約の説明です。ライセンス契約を相互に認めると「クロスライセンス」になります。",
+                "vi": "Lựa chọn có từ khóa góp vốn chung là giải thích Joint Venture. 3 thuật ngữ M&A, Joint Venture, Alliance khó phân biệt nên hãy nắm rõ sự khác biệt ở trang 106.\n\nイ Giải thích Alliance.\n\nウ Giải thích M&A.\n\nエ Giải thích hợp đồng cấp phép. Nếu công nhận hợp đồng cấp phép lẫn nhau sẽ thành Cross License.",
+                "en": "Choice with keyword joint investment is Joint Venture explanation. M&A, Joint Venture, Alliance are difficult to distinguish, so understand differences on p.106.\n\nB. Alliance explanation.\n\nC. M&A explanation.\n\nD. License agreement explanation. Mutual license agreements become Cross License."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "3-1, 3-2, 3-3, 3-4"
+    }
+}

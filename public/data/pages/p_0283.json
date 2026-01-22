@@ -1,0 +1,301 @@
+{
+  "page_id": 283,
+  "image": "p_0283.png",
+  "chapter": 7,
+  "section": "07-03",
+  "page_number": 267,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "アローダイアグラムの記号",
+        "vi": "Ký hiệu Arrow Diagram",
+        "en": "Arrow Diagram Symbols"
+      },
+      "headers": {
+        "ja": [
+          "記号",
+          "名称",
+          "意味"
+        ],
+        "vi": [
+          "Ký hiệu",
+          "Tên",
+          "Ý nghĩa"
+        ],
+        "en": [
+          "Symbol",
+          "Name",
+          "Meaning"
+        ]
+      },
+      "rows": [
+        {
+          "symbol": "→",
+          "name": {
+            "ja": "作業",
+            "vi": "Công việc",
+            "en": "Work"
+          },
+          "meaning": {
+            "ja": "所要日数がある作業を示す",
+            "vi": "Biểu thị công việc có số ngày cần thiết",
+            "en": "Shows work that has required days"
+          }
+        },
+        {
+          "symbol": "○",
+          "name": {
+            "ja": "結合点",
+            "vi": "Điểm kết hợp",
+            "en": "Node"
+          },
+          "meaning": {
+            "ja": "作業の開始や終了を示す",
+            "vi": "Biểu thị bắt đầu hoặc kết thúc công việc",
+            "en": "Shows start or end of work"
+          }
+        },
+        {
+          "symbol": "--->",
+          "name": {
+            "ja": "ダミー作業",
+            "vi": "Dummy Work",
+            "en": "Dummy Work"
+          },
+          "meaning": {
+            "ja": "所要日数がゼロの作業を示す",
+            "vi": "Biểu thị công việc có số ngày cần thiết bằng 0",
+            "en": "Shows work that has zero required days"
+          },
+          "note": {
+            "ja": "0日が作業に思われがちだが、作業は…",
+            "vi": "Dễ bị nhầm 0 ngày là công việc, nhưng công việc thì...",
+            "en": "0 days tends to be thought of as work, but work is..."
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ダミー作業とは、所要日数が0日の作業です。0日なので作業としては何もしませんが、依存関係を表すために記載します。下図にはダミー作業が1つ含まれています。この記号によって「作業Eは作業A、B、Dが完了しないと開始できない」という意味になります。",
+      "vi": "Dummy Work là công việc có số ngày cần thiết là 0 ngày. Vì là 0 ngày nên không làm gì như công việc, nhưng ghi để biểu diễn mối quan hệ phụ thuộc. Hình dưới có 1 Dummy Work. Ký hiệu này có nghĩa \"Công việc E không thể bắt đầu nếu công việc A, B, D chưa hoàn thành\".",
+      "en": "Dummy Work is work with 0 required days. Since it's 0 days, nothing is done as work, but it's written to show dependency relationships. The figure below contains 1 Dummy Work. This symbol means 'Work E cannot start until Work A, B, D are completed.'",
+      "terms": [
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "所要日数",
+          "reading": "しょようにっすう"
+        },
+        {
+          "kanji": "日",
+          "reading": "にち"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "依存関係",
+          "reading": "いぞんかんけい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "記号",
+          "reading": "きごう"
+        },
+        {
+          "kanji": "完了",
+          "reading": "かんりょう"
+        },
+        {
+          "kanji": "開始",
+          "reading": "かいし"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "アローダイアグラムの例",
+        "vi": "Ví dụ Arrow Diagram",
+        "en": "Arrow Diagram Example"
+      },
+      "nodes": [
+        "A (1日)",
+        "B (2日)",
+        "C (2日)",
+        "D",
+        "E (1日)"
+      ],
+      "description": {
+        "ja": "A→B→Eの経路とA→C→EとA→D→Eの経路がある",
+        "vi": "Có đường đi A→B→E, A→C→E và A→D→E",
+        "en": "Has paths A→B→E, A→C→E and A→D→E"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "クリティカルパス",
+      "reading": "くりてぃかるぱす",
+      "vi": "Critical Path",
+      "en": "Critical Path",
+      "note": "クリティカルパスの日数計算が出る！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "クリティカルパスとは、プロジェクトにおいて最も時間のかかる経路です。この経路上の作業が遅れると、プロジェクト全体が遅れるため、プロジェクト管理において重視されます。下図においては、A→B→Eの経路がクリティカルパスです。全作業を完了するまでに6日間必要です。なお、このようなクリティカルパスを特定する技法のことを「クリティカルパス法」といいます。",
+      "vi": "Critical Path là đường đi mất nhiều thời gian nhất trong dự án. Nếu công việc trên đường này bị trễ, toàn bộ dự án bị trễ, nên được coi trọng trong quản lý dự án. Trong hình dưới, đường đi A→B→E là Critical Path. Cần 6 ngày để hoàn thành tất cả công việc. Ngoài ra, kỹ thuật xác định Critical Path như vậy gọi là \"Critical Path Method\".",
+      "en": "Critical Path is the path that takes most time in a project. If work on this path is delayed, the entire project is delayed, so it's emphasized in project management. In the figure below, path A→B→E is Critical Path. 6 days are needed to complete all work. Also, the technique to identify such Critical Path is called 'Critical Path Method.'",
+      "terms": [
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "経路",
+          "reading": "けいろ"
+        },
+        {
+          "kanji": "経路上",
+          "reading": "けいろじょう"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "遅",
+          "reading": "ち"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "重視",
+          "reading": "じゅうし"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "全作業",
+          "reading": "ぜんさぎょう"
+        },
+        {
+          "kanji": "完了",
+          "reading": "かんりょう"
+        },
+        {
+          "kanji": "日間必要",
+          "reading": "にちかんひつよう"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "技法",
+          "reading": "ぎほう"
+        },
+        {
+          "kanji": "法",
+          "reading": "ほう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "クリティカルパス",
+        "vi": "Critical Path",
+        "en": "Critical Path"
+      },
+      "paths": [
+        {
+          "path": "A→B→E",
+          "days": 6,
+          "is_critical": true
+        },
+        {
+          "path": "A→C→E",
+          "days": 4,
+          "is_critical": false
+        },
+        {
+          "path": "A→D→E",
+          "days": 5,
+          "is_critical": false
+        }
+      ],
+      "note": {
+        "ja": "クリティカルパスとは…「プロジェクトにおいて最も時間のかかる経路」＝「プロジェクトの全作業を完了するのに必要な日数」なので、クリティカルパス上の作業が遅れると、プロジェクト全体が遅れる！",
+        "vi": "Critical Path là... \"Đường đi mất nhiều thời gian nhất trong dự án\" = \"Số ngày cần thiết để hoàn thành tất cả công việc dự án\", nên nếu công việc trên Critical Path bị trễ, toàn bộ dự án bị trễ!",
+        "en": "Critical Path is... 'Path taking most time in project' = 'Days needed to complete all project work', so if work on Critical Path is delayed, entire project is delayed!"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ダミー作業",
+      "reading": "だみーさぎょう",
+      "romaji": "Dummy Sagyou",
+      "vi": "Công việc giả",
+      "en": "Dummy Work",
+      "my": "ဒမ်မီ အလုပ်"
+    },
+    {
+      "kanji": "クリティカルパス",
+      "reading": "くりてぃかるぱす",
+      "romaji": "Critical Path",
+      "vi": "Đường găng",
+      "en": "Critical Path",
+      "my": "အရေးပိုင် လမ်းကြောင်း"
+    },
+    {
+      "kanji": "クリティカルパス法",
+      "reading": "くりてぃかるぱすほう",
+      "romaji": "Critical Path Hou",
+      "vi": "Phương pháp đường găng",
+      "en": "Critical Path Method",
+      "my": "အရေးပိုင် လမ်းကြောင်း နည်းလမ်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true
+  }
+}

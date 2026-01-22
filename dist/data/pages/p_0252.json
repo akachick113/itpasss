@@ -1,0 +1,226 @@
+{
+  "page_id": 252,
+  "image": "p_0252.png",
+  "chapter": 6,
+  "section": "06-04",
+  "page_number": 236,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "この作業において、人間が書いたプログラムを機械語に変換することを「コンパイル」といい、この処理を行う機能を「コンパイラ」といいます。",
+      "vi": "Trong công việc này, việc chuyển đổi chương trình con người viết sang ngôn ngữ máy gọi là \"Compile\", và chức năng thực hiện xử lý này gọi là \"Compiler\".",
+      "en": "In this work, converting programs written by humans to machine language is called 'Compile,' and the function that performs this processing is called 'Compiler.'",
+      "terms": [
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "機械語",
+          "reading": "きかいご"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "プログラム言語から機械語へ",
+        "vi": "Từ ngôn ngữ lập trình đến ngôn ngữ máy",
+        "en": "From Programming Language to Machine Language"
+      },
+      "flow": [
+        {
+          "step": "プログラム言語",
+          "vi": "Ngôn ngữ lập trình",
+          "en": "Programming Language",
+          "example": "ABC"
+        },
+        {
+          "step": "コンパイラ",
+          "vi": "Compiler",
+          "en": "Compiler",
+          "description": {
+            "ja": "プログラムを機械語に変換する機能",
+            "vi": "Chức năng chuyển đổi chương trình sang ngôn ngữ máy",
+            "en": "Function to convert programs to machine language"
+          }
+        },
+        {
+          "step": "機械語",
+          "vi": "Ngôn ngữ máy",
+          "en": "Machine Language",
+          "example": "01011"
+        }
+      ],
+      "actors": {
+        "left": {
+          "ja": "人間",
+          "vi": "Con người",
+          "en": "Human"
+        },
+        "right": {
+          "ja": "コンピュータ",
+          "vi": "Máy tính",
+          "en": "Computer"
+        }
+      }
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "プログラミング工程の重要用語",
+        "vi": "Thuật ngữ quan trọng của công đoạn lập trình",
+        "en": "Important Terms for Programming Phase"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "term": {
+            "ja": "ソースコード",
+            "vi": "Source Code",
+            "en": "Source Code"
+          },
+          "explanation": {
+            "ja": "人間が読みやすいプログラム言語で書かれたプログラム。コンパイラが機械語に翻訳する前のプログラムのこと。ソースコードはコンパイラによって機械語に変換される。",
+            "vi": "Chương trình viết bằng ngôn ngữ lập trình dễ đọc cho con người. Là chương trình trước khi compiler dịch sang ngôn ngữ máy. Source code được compiler chuyển đổi sang ngôn ngữ máy.",
+            "en": "Programs written in programming languages readable by humans. Programs before compiler translates to machine language. Source code is converted to machine language by compiler."
+          }
+        },
+        {
+          "term": {
+            "ja": "コンパイラ",
+            "vi": "Compiler",
+            "en": "Compiler"
+          },
+          "explanation": {
+            "ja": "人間が書いたプログラムをコンピュータが読むことのできる機械語に変換する機能。コンパイル（Compile）とは「編集する」という意味。",
+            "vi": "Chức năng chuyển đổi chương trình con người viết sang ngôn ngữ máy mà máy tính có thể đọc. Compile có nghĩa là \"biên dịch\".",
+            "en": "Function to convert programs written by humans to machine language computers can read. Compile means 'to compile.'"
+          }
+        },
+        {
+          "term": {
+            "ja": "機械語",
+            "vi": "Ngôn ngữ máy",
+            "en": "Machine Language"
+          },
+          "explanation": {
+            "ja": "コンピュータが読むことができる、0と1で表された言語。",
+            "vi": "Ngôn ngữ được biểu diễn bằng 0 và 1 mà máy tính có thể đọc.",
+            "en": "Language represented in 0s and 1s that computers can read."
+          }
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "プログラミングは、ソフトウェア詳細設計の後に行う工程である",
+        "vi": "Lập trình là công đoạn thực hiện sau Thiết kế chi tiết phần mềm",
+        "en": "Programming is the phase performed after Detailed Software Design",
+        "terms": [
+          {
+            "kanji": "詳細設計",
+            "reading": "しょうさいせっけい"
+          },
+          {
+            "kanji": "後",
+            "reading": "のち"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "工程",
+            "reading": "こうてい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "study_tip",
+      "title": {
+        "ja": "ITパスポート試験は「5分の積み重ね」で合格できる",
+        "vi": "Kỳ thi IT Passport có thể đỗ bằng \"tích lũy 5 phút\"",
+        "en": "IT Passport Exam Can Be Passed by 'Accumulating 5 Minutes'"
+      },
+      "content": {
+        "ja": "分散学習と集中学習の効果の違いについてはp.17で解説しましたが、ここではさらなる分散学習を紹介します。それが「隙切れ時間を使った勉強」です。日常生活を振り返ると、3～5分の空き時間が一日のなかにいくつもあることに気づきます。通勤・通学の電車やバス、駅の待ち時間、食事後の息休憩の残り時間、お風呂、トイレ、待ち合わせの待ち時間など。これらの時間を「スマホで暇つぶし」に費やすのではなく、試験勉強のために使ってみてください。これは、とても効果的な学習方法の1つです。",
+        "vi": "Về sự khác biệt giữa học phân tán và học tập trung đã giải thích ở trang 17, ở đây giới thiệu thêm học phân tán. Đó là \"học bằng thời gian rảnh\". Nhìn lại cuộc sống hàng ngày, bạn sẽ nhận ra có nhiều khoảng thời gian trống 3-5 phút trong ngày như tàu xe đi làm/đi học, thời gian chờ ở ga, thời gian nghỉ sau bữa ăn, tắm, toilet, thời gian chờ hẹn. Thay vì dành những thời gian này để \"giết thời gian với smartphone\", hãy thử dùng để học thi. Đây là một trong những phương pháp học rất hiệu quả.",
+        "en": "The difference between distributed and concentrated learning was explained on p.17, but here we introduce more distributed learning. That is 'studying using spare time.' Looking back at daily life, you'll notice there are many 3-5 minute gaps throughout the day - trains/buses for commuting, waiting at stations, rest time after meals, bath, toilet, waiting for appointments. Instead of spending this time 'killing time with smartphones,' try using it for exam study. This is one of the very effective learning methods."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "コンパイル",
+      "reading": "こんぱいる",
+      "romaji": "Compile",
+      "vi": "Biên dịch",
+      "en": "Compile",
+      "my": "ကံပိုင်း"
+    },
+    {
+      "kanji": "ソースコード",
+      "reading": "そーすこーど",
+      "romaji": "Source Code",
+      "vi": "Mã nguồn",
+      "en": "Source Code",
+      "my": "အရင်းမြစ် ကုဒ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

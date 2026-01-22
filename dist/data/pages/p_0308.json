@@ -1,0 +1,146 @@
+{
+    "page_id": 308,
+    "image": "p_0308.png",
+    "chapter": 8,
+    "section": "practice",
+    "page_number": 292,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "8-6",
+            "year": "平成26年度",
+            "question": {
+                "ja": "メールシステムに関するサービスマネジメントのPDCAサイクルのうち、C（Check）に該当するものはどれか。",
+                "vi": "Trong PDCA Cycle của Service Management về hệ thống email, cái nào tương ứng với C (Check)?",
+                "en": "In Service Management PDCA Cycle for mail system, which corresponds to C (Check)?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. メールシステムの応答時間を短縮するために、サーバ構成の見直しを提案した。",
+                    "vi": "ア. Đề xuất xem xét lại cấu hình server để rút ngắn thời gian phản hồi của hệ thống email.",
+                    "en": "ア. Proposed reviewing server configuration to shorten mail system response time."
+                },
+                {
+                    "ja": "イ. メールシステムの稼働率などの目標値を設定し、必要な資源を明確にした。",
+                    "vi": "イ. Đặt giá trị mục tiêu như tỷ lệ hoạt động của hệ thống email và làm rõ tài nguyên cần thiết.",
+                    "en": "イ. Set target values like mail system uptime rate and clarified necessary resources."
+                },
+                {
+                    "ja": "ウ. メールシステムの障害回数や回復時間を測定して稼働率を算出し、目標値との比較を行った。",
+                    "vi": "ウ. Đo số lần sự cố và thời gian khôi phục hệ thống email, tính tỷ lệ hoạt động và so sánh với giá trị mục tiêu.",
+                    "en": "ウ. Measured mail system failure count and recovery time, calculated uptime rate and compared with target values."
+                },
+                {
+                    "ja": "エ. メールシステムの設計内容に従って、ファイルの割当てなどのシステムのセットアップ作業を実施した。",
+                    "vi": "エ. Thực hiện công việc setup hệ thống như phân bổ file theo nội dung thiết kế hệ thống email.",
+                    "en": "エ. Performed system setup work like file allocation according to mail system design content."
+                }
+            ],
+            "correct_answer": "ウ"
+        },
+        {
+            "type": "exam_question",
+            "number": "8-7",
+            "year": "平成22年度",
+            "question": {
+                "ja": "ITサービスにおいて、問題が発生したときの解決プロセスにはインシデント管理と問題管理がある。インシデント管理の説明として、適切なものはどれか。",
+                "vi": "Trong IT Service, process giải quyết khi xảy ra vấn đề có Incident Management và Problem Management. Mô tả nào thích hợp cho Incident Management?",
+                "en": "In IT Service, resolution process when problem occurs has Incident Management and Problem Management. Which description is appropriate for Incident Management?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. 将来発生する可能性のある問題の原因を取り除き、問題発生を未然に防ぐ。",
+                    "vi": "ア. Loại bỏ nguyên nhân của vấn đề có thể xảy ra trong tương lai, ngăn chặn vấn đề trước.",
+                    "en": "ア. Remove causes of problems that may occur in future, prevent problems beforehand."
+                },
+                {
+                    "ja": "イ. 発生した問題によって生じたサービスの低下や停止から、可能な限り迅速にサービスを復旧させる。",
+                    "vi": "イ. Khôi phục dịch vụ nhanh nhất có thể từ sự suy giảm hoặc ngừng dịch vụ do vấn đề phát sinh.",
+                    "en": "イ. Restore service as quickly as possible from service degradation or stoppage caused by occurred problem."
+                },
+                {
+                    "ja": "ウ. 発生した問題によって生じた変更を、効果的かつ効率的に実施する。",
+                    "vi": "ウ. Thực hiện hiệu quả các thay đổi phát sinh do vấn đề xảy ra.",
+                    "en": "ウ. Effectively and efficiently implement changes caused by occurred problem."
+                },
+                {
+                    "ja": "エ. 発生した問題の根本原因を突き止め、恒久的な解決策を提供する。",
+                    "vi": "エ. Tìm ra nguyên nhân gốc của vấn đề phát sinh và cung cấp giải pháp vĩnh viễn.",
+                    "en": "エ. Identify root cause of occurred problem and provide permanent solution."
+                }
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "8-8",
+            "year": "平成26年度",
+            "question": {
+                "ja": "情報システムの利用者対応のため、サービスデスクの導入を検討している。サービスデスクにおけるインシデントの受付や対応に関する記述のうち、最も適切なものはどれか。",
+                "vi": "Đang xem xét triển khai Service Desk để ứng phó người dùng hệ thống thông tin. Mô tả nào thích hợp nhất về tiếp nhận và xử lý Incident tại Service Desk?",
+                "en": "Considering introducing Service Desk for information system user support. Which description is most appropriate about receiving and handling Incidents at Service Desk?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. 利用者からの障害連絡に対しては、解決方法が正式に決まるまでは利用者へ情報提供を行わない。",
+                    "vi": "ア. Không cung cấp thông tin cho người dùng về thông báo sự cố cho đến khi phương pháp giải quyết được quyết định chính thức.",
+                    "en": "ア. Don't provide information to users for failure reports until solution is officially decided."
+                },
+                {
+                    "ja": "イ. 利用者からの障害連絡に対しては、障害の原因の究明ではなく、サービスの回復を主眼として対応する。",
+                    "vi": "イ. Đối với thông báo sự cố từ người dùng, tập trung vào khôi phục dịch vụ chứ không phải tìm nguyên nhân sự cố.",
+                    "en": "イ. For failure reports from users, focus on service recovery rather than investigating failure cause."
+                },
+                {
+                    "ja": "ウ. 利用者からの問い合わせ受付は、利用者の組織の状況にかかわらずに、電子メール、電話、FAXなどのうち、いずれか一つの手段に統一する。",
+                    "vi": "ウ. Thống nhất tiếp nhận yêu cầu từ người dùng thành một phương tiện trong email, điện thoại, FAX, bất kể tình hình tổ chức người dùng.",
+                    "en": "ウ. Unify inquiry reception from users to one method among email, phone, FAX regardless of user organization situation."
+                },
+                {
+                    "ja": "エ. 利用者からの問い合わせは、すぐに解決できなかったものだけを記録する。",
+                    "vi": "エ. Chỉ ghi lại những yêu cầu từ người dùng không thể giải quyết ngay.",
+                    "en": "エ. Only record inquiries from users that couldn't be resolved immediately."
+                }
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "8-9",
+            "year": "令和7年度",
+            "question": {
+                "ja": "チャットボットの説明として、最も適切なものはどれか。",
+                "vi": "Mô tả nào thích hợp nhất cho Chatbot?",
+                "en": "Which is most appropriate description for Chatbot?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. 質問に対して、ソフトウェアがリアルタイムで自動応答する仕組み",
+                    "vi": "ア. Cơ chế phần mềm tự động phản hồi theo thời gian thực đối với câu hỏi",
+                    "en": "ア. Mechanism where software automatically responds in real-time to questions"
+                },
+                {
+                    "ja": "イ. センサーを搭載した機器や制御装置が直接インターネットにつながり、お互いに情報をやり取りする仕組み",
+                    "vi": "イ. Cơ chế thiết bị có sensor hoặc bộ điều khiển kết nối trực tiếp Internet và trao đổi thông tin với nhau",
+                    "en": "イ. Mechanism where devices with sensors or controllers connect directly to Internet and exchange information"
+                },
+                {
+                    "ja": "ウ. 人間に代わって荷物を運ぶなどの作業を行う機械的な仕組み",
+                    "vi": "ウ. Cơ chế cơ khí thực hiện công việc như vận chuyển hàng hóa thay con người",
+                    "en": "ウ. Mechanical mechanism performing work like carrying luggage instead of humans"
+                },
+                {
+                    "ja": "エ. ルール化された定型的な操作を人間の代わりにソフトウェアが自動で行う仕組み",
+                    "vi": "エ. Cơ chế phần mềm tự động thực hiện các thao tác định sẵn theo quy tắc thay con người",
+                    "en": "エ. Mechanism where software automatically performs rule-based routine operations instead of humans"
+                }
+            ],
+            "correct_answer": "ア"
+        }
+    ],
+    "answers_summary": "問題8-6 ウ　問題8-7 イ　問題8-8 イ　問題8-9 ア",
+    "meta": {
+        "has_questions": true,
+        "question_count": 4
+    }
+}

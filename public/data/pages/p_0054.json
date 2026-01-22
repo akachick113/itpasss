@@ -1,0 +1,164 @@
+{
+  "page_id": 54,
+  "image": "p_0054.png",
+  "chapter": 1,
+  "section": "01-07",
+  "page_number": 38,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "(1) y=300x\n(2) y=100x+500,000\n\nよって、\n\n(3) 300x=100x+500,000\n    200x=500,000\n    x=2,500 ← xは販売個数\n\nこれより、\n\n(4) y=300×2,500\n    y=750,000 ← yは金額\n\n上記の計算式より、このケーキ屋さんの損益分岐点は、販売個数が2,500個で、売上高が750,000円のところであると判断できます。",
+      "vi": "(1) y=300x\n(2) y=100x+500,000\n\nDo đó,\n\n(3) 300x=100x+500,000\n    200x=500,000\n    x=2,500 ← x là số lượng bán\n\nTừ đây,\n\n(4) y=300×2,500\n    y=750,000 ← y là số tiền\n\nTừ công thức tính trên, có thể kết luận điểm hòa vốn của tiệm bánh này là số lượng bán 2,500 cái và doanh thu 750,000 yên.",
+      "en": "(1) y=300x\n(2) y=100x+500,000\n\nTherefore,\n\n(3) 300x=100x+500,000\n    200x=500,000\n    x=2,500 ← x is number sold\n\nFrom this,\n\n(4) y=300×2,500\n    y=750,000 ← y is amount\n\nFrom the above calculation, we can determine that this cake shop's break-even point is 2,500 units sold with sales of 750,000 yen.",
+      "my": "အထက်ပါ တွက်ချက်မှုမှ ဤကိတ်မုန့်ဆိုင်၏ break-even point သည် ရောင်းရအရေအတွက် 2,500 နှင့် ရောင်းရငွေ 750,000 yen ဖြစ်ကြောင်း ဆုံးဖြတ်နိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "販売個数",
+          "reading": "はんばいこすう"
+        },
+        {
+          "kanji": "金額",
+          "reading": "きんがく"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "計算式",
+          "reading": "けいさんしき"
+        },
+        {
+          "kanji": "屋",
+          "reading": "や"
+        },
+        {
+          "kanji": "損益分岐点",
+          "reading": "そんえきぶんきてん"
+        },
+        {
+          "kanji": "個",
+          "reading": "こ"
+        },
+        {
+          "kanji": "売上高",
+          "reading": "うりあげだか"
+        },
+        {
+          "kanji": "円",
+          "reading": "えん"
+        },
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "損益分岐点の求め方を理解することが大切！",
+        "vi": "Điều quan trọng là hiểu cách tìm điểm hòa vốn!",
+        "en": "It's important to understand how to find break-even point!",
+        "my": "Break-even point ရှာနည်းကို နားလည်ရန် အရေးကြီးသည်!",
+        "terms": [
+          {
+            "kanji": "損益分岐点",
+            "reading": "そんえきぶんきてん"
+          },
+          {
+            "kanji": "大切",
+            "reading": "たいせつ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "実際のITパスポート試験では、損益分岐点ではなく、変動費や、利益を求める問題も出題されますが、上記の「売上の直線」と「費用の直線」の2つの直線の求め方さえ理解しておけば、何が問われても答えを算出できます。",
+        "vi": "Trong kỳ thi IT Passport thực tế, không chỉ có câu hỏi về điểm hòa vốn mà còn có câu hỏi tìm chi phí biến đổi hoặc lợi nhuận. Nhưng nếu hiểu cách tìm 2 đường thẳng \"đường doanh thu\" và \"đường chi phí\" như trên, dù hỏi gì cũng có thể tính được đáp án.",
+        "en": "In the actual IT Passport exam, questions asking for variable costs or profit are also asked, not just break-even point. But if you understand how to find the 2 lines \"sales line\" and \"cost line\" above, you can calculate the answer no matter what is asked.",
+        "my": "IT Passport စာမေးပွဲအစစ်တွင် break-even point သာမက variable costs သို့မဟုတ် profit ရှာရန် မေးခွန်းများလည်း မေးသည်။",
+        "terms": [
+          {
+            "kanji": "実際",
+            "reading": "じっさい"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "損益分岐点",
+            "reading": "そんえきぶんきてん"
+          },
+          {
+            "kanji": "変動費",
+            "reading": "へんどうひ"
+          },
+          {
+            "kanji": "利益",
+            "reading": "りえき"
+          },
+          {
+            "kanji": "求",
+            "reading": "きゅう"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "上記",
+            "reading": "じょうき"
+          },
+          {
+            "kanji": "売上",
+            "reading": "うりあげ"
+          },
+          {
+            "kanji": "直線",
+            "reading": "ちょくせん"
+          },
+          {
+            "kanji": "費用",
+            "reading": "ひよう"
+          },
+          {
+            "kanji": "方",
+            "reading": "かた"
+          },
+          {
+            "kanji": "理解",
+            "reading": "りかい"
+          },
+          {
+            "kanji": "何",
+            "reading": "なに"
+          },
+          {
+            "kanji": "問",
+            "reading": "とん"
+          },
+          {
+            "kanji": "答",
+            "reading": "こたえ"
+          },
+          {
+            "kanji": "算出",
+            "reading": "さんしゅつ"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_learn_more": true,
+    "has_formula": true
+  }
+}

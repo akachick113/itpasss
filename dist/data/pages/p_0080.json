@@ -1,0 +1,305 @@
+{
+  "page_id": 80,
+  "image": "p_0080.png",
+  "chapter": 2,
+  "section": "02-03",
+  "page_number": 64,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "サイバーセキュリティ基本法の対象者とその責務（一部抜粋）",
+        "vi": "Đối tượng và trách nhiệm của Luật cơ bản về An ninh mạng (trích)",
+        "en": "Cybersecurity Basic Act Targets and Responsibilities (Excerpt)"
+      },
+      "headers": {
+        "ja": [
+          "条文",
+          "対象者",
+          "責務"
+        ],
+        "vi": [
+          "Điều",
+          "Đối tượng",
+          "Trách nhiệm"
+        ],
+        "en": [
+          "Article",
+          "Target",
+          "Responsibility"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "第4条",
+            "国",
+            "サイバーセキュリティに関する総合的な施策を策定し、および実施する責務。"
+          ],
+          "vi": [
+            "Điều 4",
+            "Chính phủ",
+            "Trách nhiệm xây dựng và thực hiện các chính sách tổng hợp về an ninh mạng."
+          ],
+          "en": [
+            "Article 4",
+            "Government",
+            "Responsibility to formulate and implement comprehensive cybersecurity policies."
+          ]
+        },
+        {
+          "ja": [
+            "第5条",
+            "地方公共団体",
+            "サイバーセキュリティに関する自主的な施策を策定し、および実施する責務。"
+          ],
+          "vi": [
+            "Điều 5",
+            "Chính quyền địa phương",
+            "Trách nhiệm xây dựng và thực hiện các chính sách tự chủ về an ninh mạng."
+          ],
+          "en": [
+            "Article 5",
+            "Local Authorities",
+            "Responsibility to formulate and implement autonomous cybersecurity policies."
+          ]
+        },
+        {
+          "ja": [
+            "第6条",
+            "重要社会基盤事業者",
+            "・自主的かつ積極的にサイバーセキュリティの確保に努める\n・国または地方公共団体が実施するサイバーセキュリティに関する施策に協力する"
+          ],
+          "vi": [
+            "Điều 6",
+            "Các tổ chức cơ sở hạ tầng xã hội quan trọng",
+            "・Nỗ lực tự chủ và tích cực đảm bảo an ninh mạng\n・Hợp tác với các chính sách an ninh mạng do chính phủ hoặc chính quyền địa phương thực hiện"
+          ],
+          "en": [
+            "Article 6",
+            "Critical Infrastructure Operators",
+            "・Actively ensure cybersecurity voluntarily\n・Cooperate with government/local cybersecurity policies"
+          ]
+        },
+        {
+          "ja": [
+            "第7条",
+            "サイバー関連事業者・その他事業者",
+            "・自主的かつ積極的にサイバーセキュリティの確保に努める\n・国または地方公共団体が実施するサイバーセキュリティに関する施策に協力する"
+          ],
+          "vi": [
+            "Điều 7",
+            "Các doanh nghiệp liên quan đến mạng và doanh nghiệp khác",
+            "・Nỗ lực tự chủ và tích cực đảm bảo an ninh mạng\n・Hợp tác với các chính sách an ninh mạng do chính phủ hoặc chính quyền địa phương thực hiện"
+          ],
+          "en": [
+            "Article 7",
+            "Cyber-related and Other Businesses",
+            "・Actively ensure cybersecurity voluntarily\n・Cooperate with government/local cybersecurity policies"
+          ]
+        },
+        {
+          "ja": [
+            "第8条",
+            "教育研究機関",
+            "・自主的かつ積極的にサイバーセキュリティの確保に努める\n・サイバーセキュリティに係る人材の育成並びにサイバーセキュリティに関する研究およびその成果の普及に努める\n・国または地方公共団体が実施するサイバーセキュリティに関する施策に協力する"
+          ],
+          "vi": [
+            "Điều 8",
+            "Cơ sở giáo dục và nghiên cứu",
+            "・Nỗ lực tự chủ và tích cực đảm bảo an ninh mạng\n・Nỗ lực đào tạo nhân lực an ninh mạng và nghiên cứu, phổ biến kết quả\n・Hợp tác với các chính sách an ninh mạng"
+          ],
+          "en": [
+            "Article 8",
+            "Educational/Research Institutions",
+            "・Actively ensure cybersecurity voluntarily\n・Train cybersecurity personnel, research and disseminate results\n・Cooperate with cybersecurity policies"
+          ]
+        },
+        {
+          "ja": [
+            "第9条",
+            "国民",
+            "・サイバーセキュリティの重要性に関する関心と理解を深める\n・サイバーセキュリティの確保に必要な注意を払う"
+          ],
+          "vi": [
+            "Điều 9",
+            "Công dân",
+            "・Nâng cao quan tâm và hiểu biết về tầm quan trọng của an ninh mạng\n・Chú ý cần thiết để đảm bảo an ninh mạng"
+          ],
+          "en": [
+            "Article 9",
+            "Citizens",
+            "・Deepen interest and understanding of cybersecurity importance\n・Pay necessary attention to ensure cybersecurity"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "法律の対象者は国全体",
+      "reading": "ほうりつのたいしょうしゃはくにぜんたい",
+      "vi": "Đối tượng của luật là toàn bộ quốc gia",
+      "en": "Law's Targets are the Entire Nation",
+      "my": "ဥပဒေ၏ ပစ်မှတ်သည် နိုင်ငံတစ်ခုလုံးဖြစ်သည်"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、上記の対象者の中から「国」と「地方公共団体」だけを代表例として取り出し、「国と地方公共団体などの責務を明らかにした法律」と記載されることが多いですが、その他の対象者が出題されることもあるので「対象者は国全体」と覚えておいてください。",
+      "vi": "Trong kỳ thi IT Passport, thường chỉ trích dẫn \"Chính phủ\" và \"Chính quyền địa phương\" từ các đối tượng trên, ghi là \"Luật làm rõ trách nhiệm của chính phủ và chính quyền địa phương\", nhưng các đối tượng khác cũng có thể được ra đề nên hãy nhớ \"đối tượng là toàn bộ quốc gia\".",
+      "en": "In IT Passport exams, often only \"Government\" and \"Local Authorities\" are cited as examples, written as \"Law clarifying responsibilities of government and local authorities\". However, other targets may appear in questions, so remember \"targets are the entire nation\".",
+      "my": "IT Passport စာမေးပွဲတွင် \"အစိုးရ\" နှင့် \"ဒေသဆိုင်ရာအာဏာပိုင်များ\" ကိုသာ ဥပမာအဖြစ် ကိုးကားလေ့ရှိသည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "対象者",
+          "reading": "たいしょうしゃ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "国",
+          "reading": "くに"
+        },
+        {
+          "kanji": "地方公共団体",
+          "reading": "ちほうこうきょうだんたい"
+        },
+        {
+          "kanji": "代表例",
+          "reading": "だいひょうれい"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "責務",
+          "reading": "せきむ"
+        },
+        {
+          "kanji": "明",
+          "reading": "めい"
+        },
+        {
+          "kanji": "法律",
+          "reading": "ほうりつ"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "国全体",
+          "reading": "くにぜんたい"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・サイバーセキュリティ基本法とは、サイバー攻撃から国を守るための基本理念を定めた法律\n・サイバーセキュリティ基本法の対象者は、国全体（国、地方公共団体、企業、国民）である",
+        "vi": "・Luật cơ bản về An ninh mạng là luật quy định lý niệm cơ bản để bảo vệ quốc gia khỏi tấn công mạng\n・Đối tượng của Luật này là toàn bộ quốc gia (Chính phủ, Chính quyền địa phương, Doanh nghiệp, Công dân)",
+        "en": "・Cybersecurity Basic Act establishes basic principles to protect the nation from cyberattacks\n・Its targets are the entire nation (Government, Local Authorities, Companies, Citizens)",
+        "my": "・ Cybersecurity Basic Act သည် ဆိုက်ဘာတိုက်ခိုက်မှုမှ နိုင်ငံကို ကာကွယ်ရန် အခြေခံမူများ ချမှတ်သည်\n・ ၎င်း၏ပစ်မှတ်များသည် နိုင်ငံတစ်ခုလုံး (အစိုးရ၊ ဒေသဆိုင်ရာအာဏာပိုင်များ၊ ကုမ္ပဏီများ၊ နိုင်ငံသားများ) ဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "基本法",
+            "reading": "きほんほう"
+          },
+          {
+            "kanji": "攻撃",
+            "reading": "こうげき"
+          },
+          {
+            "kanji": "国",
+            "reading": "くに"
+          },
+          {
+            "kanji": "守",
+            "reading": "しゅ"
+          },
+          {
+            "kanji": "基本理念",
+            "reading": "きほんりねん"
+          },
+          {
+            "kanji": "定",
+            "reading": "てい"
+          },
+          {
+            "kanji": "法律",
+            "reading": "ほうりつ"
+          },
+          {
+            "kanji": "対象者",
+            "reading": "たいしょうしゃ"
+          },
+          {
+            "kanji": "国全体",
+            "reading": "くにぜんたい"
+          },
+          {
+            "kanji": "地方公共団体",
+            "reading": "ちほうこうきょうだんたい"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "国民",
+            "reading": "こくみん"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

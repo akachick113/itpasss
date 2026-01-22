@@ -1,0 +1,174 @@
+{
+    "page_id": 533,
+    "image": "p_0533.png",
+    "chapter": 14,
+    "section": "Answer",
+    "page_number": 517,
+    "content": [
+        {
+            "type": "answer_header",
+            "title": {
+                "ja": "解答・解説",
+                "vi": "Đáp án và Giải thích",
+                "en": "Answers and Explanations"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "14-1",
+            "answer": "イ",
+            "explanation": {
+                "ja": "「識別」→「Identifier」→「ID」と連想できれば、「ID」が含まれる選択肢はESSIDのみです。",
+                "vi": "Nếu có thể liên tưởng \"Nhận dạng\" → \"Identifier\" → \"ID\", thì lựa chọn chứa \"ID\" chỉ có ESSID.",
+                "en": "If can associate 'identify' → 'Identifier' → 'ID,' only option containing 'ID' is ESSID."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "Bluetoothとは、コンピュータと周辺機器などを無線で接続するインタフェースの規格です。",
+                        "vi": "Bluetooth là quy cách giao diện kết nối không dây máy tính và thiết bị ngoại vi.",
+                        "en": "Bluetooth is interface standard for wirelessly connecting computers and peripherals."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "LTEとは、携帯電話のデータ通信の規格です。",
+                        "vi": "LTE là quy cách truyền thông dữ liệu điện thoại di động.",
+                        "en": "LTE is mobile phone data communication standard."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "WPA2とは、無線LANの暗号化方式の規格です。",
+                        "vi": "WPA2 là quy cách phương thức mã hóa LAN không dây.",
+                        "en": "WPA2 is wireless LAN encryption standard."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "14-2",
+            "answer": "エ",
+            "explanation": {
+                "ja": "「LANやWANを相互接続」というキーワードからルーターであると判断します。",
+                "vi": "Từ từ khóa \"Kết nối LAN và WAN với nhau\", phán đoán đó là router.",
+                "en": "From keyword 'interconnecting LAN and WAN,' determine it's router."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "モデムの説明です。",
+                        "vi": "Là giải thích về modem.",
+                        "en": "Is explanation of modem."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "ブリッジの説明です。",
+                        "vi": "Là giải thích về bridge.",
+                        "en": "Is explanation of bridge."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "リピータハブの説明です。",
+                        "vi": "Là giải thích về repeater hub.",
+                        "en": "Is explanation of repeater hub."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "14-3",
+            "answer": "イ",
+            "explanation": {
+                "ja": "デフォルトゲートウェイとは、LAN内で、外部のネットワークとの出入口に設置されたルーターです。",
+                "vi": "Default Gateway là router được lắp đặt ở cổng vào ra với mạng bên ngoài trong LAN.",
+                "en": "Default Gateway is router installed at gateway to external network within LAN."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "スプリッタとは、電話回線を使ってインターネットに接続するときに、電話用の音声信号とインターネット用のデータ信号を分ける装置です。",
+                        "vi": "Splitter là thiết bị phân chia tín hiệu âm thanh điện thoại và tín hiệu dữ liệu Internet khi kết nối Internet qua đường điện thoại.",
+                        "en": "Splitter is device separating phone voice signals and Internet data signals when connecting to Internet using phone line."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "ハブとは、LAN内で、複数のパソコンを接続するための中継点となる装置です。",
+                        "vi": "Hub là thiết bị làm điểm trung chuyển để kết nối nhiều máy tính trong LAN.",
+                        "en": "Hub is device serving as relay point for connecting multiple computers within LAN."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "リピータとは、LAN内で、長いケーブルを通って弱くなってしまった信号を増幅させる装置です。",
+                        "vi": "Repeater là thiết bị khuếch đại tín hiệu yếu đi sau khi đi qua cáp dài trong LAN.",
+                        "en": "Repeater is device amplifying signals weakened after passing through long cables within LAN."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "14-4",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "LANとWANを区別するポイントは「電気通信事業者の通信回線を使っているかいないか」です。WANでは通信事業者の通信回線を使います。その他の選択肢はすべてLANの説明です。これらは自社の敷地内なので、通信回線を敷設するのは自由で、免許を持った通信事業者である必要はありません。",
+                "vi": "Điểm phân biệt LAN và WAN là \"có sử dụng đường truyền thông của doanh nghiệp viễn thông hay không\". WAN sử dụng đường truyền thông của doanh nghiệp viễn thông. Các lựa chọn khác đều là giải thích về LAN. Vì chúng nằm trong khuôn viên công ty, nên việc lắp đặt đường truyền thông là tự do, không cần phải là doanh nghiệp viễn thông có giấy phép.",
+                "en": "Point distinguishing LAN and WAN is 'whether using telecom carrier's communication lines.' WAN uses telecom carrier's lines. Other options are all LAN explanations. Since these are within company premises, installing communication lines is free, no need to be licensed telecom carrier."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "14-5",
+            "answer": "エ",
+            "explanation": {
+                "ja": "SMTPが「Simple Mail Transfer Protocol」の略語であることがわかれば、「Mail Transfer（電子メールの転送）」から、エが正解であると判断できます。",
+                "vi": "Nếu biết SMTP là viết tắt của \"Simple Mail Transfer Protocol\", từ \"Mail Transfer (chuyển tiếp email)\" có thể phán đoán đáp án đúng là エ.",
+                "en": "If know SMTP is abbreviation of 'Simple Mail Transfer Protocol,' from 'Mail Transfer' can determine エ is correct."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "HTTPに関する記述です。",
+                        "vi": "Là mô tả về HTTP.",
+                        "en": "Is description about HTTP."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "SNMPに関する記述です。",
+                        "vi": "Là mô tả về SNMP.",
+                        "en": "Is description about SNMP."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "telnetに関する記述です。",
+                        "vi": "Là mô tả về telnet.",
+                        "en": "Is description about telnet."
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "is_answer": true
+    }
+}

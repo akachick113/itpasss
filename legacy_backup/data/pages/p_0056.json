@@ -1,0 +1,398 @@
+{
+  "page_id": 56,
+  "image": "p_0056.png",
+  "chapter": 1,
+  "section": "01-08",
+  "page_number": 40,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "貸借対照表",
+      "reading": "たいしゃくたいしょうひょう",
+      "vi": "Bảng cân đối kế toán",
+      "en": "Balance Sheet",
+      "my": "Balance Sheet"
+    },
+    {
+      "type": "paragraph",
+      "ja": "貸借対照表とは、簡単にいうと「ある時点の企業の全財産が記載された表」です。貸借対照表を見ると、ある時点での企業の資産、負債、純資産がわかります。",
+      "vi": "Bảng cân đối kế toán, nói đơn giản là \"bảng ghi toàn bộ tài sản của doanh nghiệp tại một thời điểm\". Nhìn vào bảng cân đối kế toán, có thể biết được tài sản, nợ phải trả, và vốn chủ sở hữu của doanh nghiệp tại thời điểm đó.",
+      "en": "A balance sheet is simply \"a table recording all of a company's assets at a point in time.\" Looking at a balance sheet, you can see a company's assets, liabilities, and net assets at that point.",
+      "my": "Balance sheet သည် \"အချိန်တစ်ခုတွင် ကုမ္ပဏီ၏ ပိုင်ဆိုင်မှုအားလုံးကို မှတ်တမ်းတင်ထားသော ဇယား\" ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "貸借対照表",
+          "reading": "たいしゃくたいしょうひょう"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "時点",
+          "reading": "じてん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "全財産",
+          "reading": "ぜんざいさん"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "資産",
+          "reading": "しさん"
+        },
+        {
+          "kanji": "負債",
+          "reading": "ふさい"
+        },
+        {
+          "kanji": "純資産",
+          "reading": "じゅんしさん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "上図を見るとわかるように、貸借対照表では、左側の「資産」の金額と、右側の「負債」と「純資産」の合計金額が必ず同額になります。このように、左右の値が釣り合う（バランスする）ことから、貸借対照表は英語では「バランスシート（Balance Sheet：B/S）」といいます。",
+      "vi": "Như có thể thấy từ hình trên, trong bảng cân đối kế toán, số tiền \"Tài sản\" bên trái và tổng số tiền \"Nợ phải trả\" và \"Vốn chủ sở hữu\" bên phải luôn bằng nhau. Vì các giá trị hai bên cân bằng như vậy, bảng cân đối kế toán trong tiếng Anh gọi là \"Balance Sheet (B/S)\".",
+      "en": "As you can see from the figure above, in a balance sheet, the \"Assets\" amount on the left and the total of \"Liabilities\" and \"Net Assets\" on the right are always equal. Because both sides balance, the balance sheet is called \"Balance Sheet (B/S)\" in English.",
+      "my": "အထက်ပါပုံမှ မြင်နိုင်သကဲ့သို့ balance sheet တွင် ဘယ်ဘက်ရှိ \"Assets\" ပမာဏနှင့် ညာဘက်ရှိ \"Liabilities\" နှင့် \"Net Assets\" စုစုပေါင်း တူညီသည်။",
+      "terms": [
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "貸借対照表",
+          "reading": "たいしゃくたいしょうひょう"
+        },
+        {
+          "kanji": "左側",
+          "reading": "ひだりがわ"
+        },
+        {
+          "kanji": "資産",
+          "reading": "しさん"
+        },
+        {
+          "kanji": "金額",
+          "reading": "きんがく"
+        },
+        {
+          "kanji": "右側",
+          "reading": "みぎがわ"
+        },
+        {
+          "kanji": "負債",
+          "reading": "ふさい"
+        },
+        {
+          "kanji": "純資産",
+          "reading": "じゅんしさん"
+        },
+        {
+          "kanji": "合計金額",
+          "reading": "ごうけいきんがく"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "同額",
+          "reading": "どうがく"
+        },
+        {
+          "kanji": "左右",
+          "reading": "さゆう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "釣",
+          "reading": "つり"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "英語",
+          "reading": "えいご"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "貸借対照表の左側の資産の部を「総資産」といいます。また、右上の負債の部を「他人資本」といい、右下の純資産の部を「自己資本」といいます。さらに、「他人資本」と「自己資本」を合わせて「総資本」といいます。\n\n総資産は「企業が持っている全財産」です。また、他人資本は「返済が必要なお金」、自己資本は「返済する必要がないお金」です。\n\nITパスポート試験では「自己資本」に関する問題が頻出です。自己資本は「返済する必要がないお金」なので、企業の体力の目安となる重要な項目です。\n\n自己資本に関する問題は「資本金の位置」「自己資本比率」「自己資本利益率（ROE）」の3つが問われます。ここでは「資本金の位置」と「自己資本比率」について解説します。「自己資本利益率（ROE）」についてはp.46で詳しく説明します。",
+      "vi": "Phần tài sản bên trái bảng cân đối kế toán gọi là \"Tổng tài sản\". Phần nợ phải trả ở góc phải trên gọi là \"Vốn vay (vốn người khác)\", phần vốn chủ sở hữu ở góc phải dưới gọi là \"Vốn tự có\". Thêm vào đó, \"Vốn vay\" và \"Vốn tự có\" cộng lại gọi là \"Tổng vốn\".\n\nTổng tài sản là \"toàn bộ tài sản mà doanh nghiệp sở hữu\". Vốn vay là \"tiền cần hoàn trả\", vốn tự có là \"tiền không cần hoàn trả\".\n\nTrong IT Passport, câu hỏi về \"vốn tự có\" thường được ra đề. Vì vốn tự có là \"tiền không cần hoàn trả\" nên là chỉ số quan trọng đánh giá sức khỏe tài chính của doanh nghiệp.\n\nCâu hỏi về vốn tự có gồm 3 loại: \"vị trí vốn điều lệ\", \"tỷ lệ vốn tự có\", và \"tỷ suất lợi nhuận trên vốn tự có (ROE)\". Ở đây giải thích \"vị trí vốn điều lệ\" và \"tỷ lệ vốn tự có\". \"ROE\" sẽ được giải thích chi tiết ở trang 46.",
+      "en": "The assets section on the left of the balance sheet is called \"Total Assets.\" The liabilities section at the top right is called \"Borrowed Capital (Other's Capital),\" and the net assets section at the bottom right is called \"Equity (Own Capital).\" Together, \"Borrowed Capital\" and \"Equity\" are called \"Total Capital.\"\n\nTotal assets are \"all assets the company owns.\" Borrowed capital is \"money that needs to be repaid,\" and equity is \"money that doesn't need to be repaid.\"\n\nIn the IT Passport exam, questions about \"equity\" appear frequently. Since equity is \"money that doesn't need to be repaid,\" it's an important indicator of a company's financial health.\n\nEquity questions cover 3 topics: \"capital position,\" \"equity ratio,\" and \"return on equity (ROE).\" Here we'll explain \"capital position\" and \"equity ratio.\" \"ROE\" will be explained in detail on p.46.",
+      "my": "Balance sheet ၏ ဘယ်ဘက်ရှိ assets section ကို \"Total Assets\" ဟုခေါ်သည်။",
+      "terms": [
+        {
+          "kanji": "貸借対照表",
+          "reading": "たいしゃくたいしょうひょう"
+        },
+        {
+          "kanji": "左側",
+          "reading": "ひだりがわ"
+        },
+        {
+          "kanji": "資産",
+          "reading": "しさん"
+        },
+        {
+          "kanji": "部",
+          "reading": "ぶ"
+        },
+        {
+          "kanji": "総資産",
+          "reading": "そうしさん"
+        },
+        {
+          "kanji": "右上",
+          "reading": "みぎうえ"
+        },
+        {
+          "kanji": "負債",
+          "reading": "ふさい"
+        },
+        {
+          "kanji": "他人資本",
+          "reading": "たにんしほん"
+        },
+        {
+          "kanji": "右下",
+          "reading": "みぎした"
+        },
+        {
+          "kanji": "純資産",
+          "reading": "じゅんしさん"
+        },
+        {
+          "kanji": "自己資本",
+          "reading": "じこしほん"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "総資本",
+          "reading": "そうしほん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "全財産",
+          "reading": "ぜんざいさん"
+        },
+        {
+          "kanji": "返済",
+          "reading": "へんさい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "金",
+          "reading": "きん"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "頻出",
+          "reading": "ひんしゅつ"
+        },
+        {
+          "kanji": "体力",
+          "reading": "たいりょく"
+        },
+        {
+          "kanji": "目安",
+          "reading": "めやす"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "資本金",
+          "reading": "しほんきん"
+        },
+        {
+          "kanji": "位置",
+          "reading": "いち"
+        },
+        {
+          "kanji": "自己資本比率",
+          "reading": "じこしほんひりつ"
+        },
+        {
+          "kanji": "自己資本利益率",
+          "reading": "じこしほんりえきりつ"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "説明",
+          "reading": "せつめい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "資本金の位置",
+      "reading": "しほんきんのいち",
+      "vi": "Vị trí vốn điều lệ",
+      "en": "Capital Position",
+      "my": "Capital Position"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では「資本金が貸借対照表のどこに記載されるか」が出題されます。資本金は、株主が企業に出資した金額です。純資産に分類されます。",
+      "vi": "Trong IT Passport, câu hỏi \"vốn điều lệ được ghi ở đâu trong bảng cân đối kế toán\" sẽ được ra đề. Vốn điều lệ là số tiền cổ đông đầu tư vào doanh nghiệp. Được phân loại vào vốn chủ sở hữu.",
+      "en": "The IT Passport exam asks \"where capital is recorded in the balance sheet.\" Capital is the amount shareholders invested in the company. It's classified under net assets.",
+      "my": "IT Passport စာမေးပွဲတွင် \"capital ကို balance sheet ၏ မည်သည့်နေရာတွင် မှတ်တမ်းတင်သနည်း\" ဟု မေးသည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "資本金",
+          "reading": "しほんきん"
+        },
+        {
+          "kanji": "貸借対照表",
+          "reading": "たいしゃくたいしょうひょう"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "株主",
+          "reading": "かぶぬし"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "出資",
+          "reading": "しゅっし"
+        },
+        {
+          "kanji": "金額",
+          "reading": "きんがく"
+        },
+        {
+          "kanji": "純資産",
+          "reading": "じゅんしさん"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "貸借対照表",
+      "reading": "たいしゃくたいしょうひょう",
+      "romaji": "Taishaku Taishouhyou",
+      "vi": "Bảng cân đối kế toán",
+      "en": "Balance Sheet",
+      "my": "Balance Sheet"
+    },
+    {
+      "kanji": "資産",
+      "reading": "しさん",
+      "romaji": "Shisan",
+      "vi": "Tài sản",
+      "en": "Assets",
+      "my": "ပိုင်ဆိုင်မှုများ"
+    },
+    {
+      "kanji": "負債",
+      "reading": "ふさい",
+      "romaji": "Fusai",
+      "vi": "Nợ phải trả",
+      "en": "Liabilities",
+      "my": "အကြွေးများ"
+    },
+    {
+      "kanji": "純資産",
+      "reading": "じゅんしさん",
+      "romaji": "Jun Shisan",
+      "vi": "Vốn chủ sở hữu",
+      "en": "Net Assets",
+      "my": "အသားပိုင်ဆိုင်မှုများ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "has_exam_tip": false
+  }
+}

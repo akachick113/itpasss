@@ -1,0 +1,180 @@
+{
+  "page_id": 537,
+  "image": "p_0537.png",
+  "chapter": 15,
+  "section": "Intro",
+  "page_number": 521,
+  "content": [
+    {
+      "type": "chapter_header",
+      "number": 15,
+      "title": {
+        "ja": "情報セキュリティ",
+        "vi": "Bảo mật thông tin",
+        "en": "Information Security"
+      }
+    },
+    {
+      "type": "chapter_points",
+      "title": {
+        "ja": "この章のポイント！",
+        "vi": "Điểm chính của chương này!",
+        "en": "Key Points of This Chapter!"
+      },
+      "content": {
+        "ja": "いよいよ最後の章になりました。この章では年々重要度が増している「情報セキュリティ」について解説します。情報セキュリティの全体的な役割や重要性を把握したうえで、個別の対策方法などを理解することに注力してください。",
+        "vi": "Cuối cùng cũng đến chương cuối. Chương này sẽ giải thích về \"Bảo mật thông tin\" mà tầm quan trọng ngày càng tăng mỗi năm. Hãy tập trung vào việc hiểu các phương pháp đối phó riêng lẻ sau khi nắm được vai trò tổng thể và tầm quan trọng của bảo mật thông tin.",
+        "en": "Finally the last chapter. This chapter explains 'Information Security' which increases in importance each year. Focus on understanding individual countermeasures after grasping overall role and importance of information security."
+      }
+    },
+    {
+      "type": "study_focus",
+      "title": {
+        "ja": "ここに注目して読もう！",
+        "vi": "Hãy chú ý đọc phần này!",
+        "en": "Pay Attention to This!"
+      },
+      "items": [
+        {
+          "ja": "情報セキュリティの基本的な考え方",
+          "vi": "Cách suy nghĩ cơ bản về bảo mật thông tin",
+          "en": "Basic concept of information security"
+        },
+        {
+          "ja": "マルウェアや様々な攻撃手法への対策などの技術的セキュリティ対策の考え方、種類と特徴",
+          "vi": "Cách suy nghĩ, loại và đặc điểm của biện pháp bảo mật kỹ thuật như đối phó với malware và các phương pháp tấn công khác nhau",
+          "en": "Concept, types and characteristics of technical security measures against malware and various attack methods"
+        },
+        {
+          "ja": "ID・パスワード、デジタル署名、生体認証など、認証技術の種類と特徴",
+          "vi": "Loại và đặc điểm của công nghệ xác thực như ID/mật khẩu, chữ ký số, xác thực sinh trắc học",
+          "en": "Types and characteristics of authentication technologies like ID/password, digital signature, biometric authentication"
+        },
+        {
+          "ja": "暗号化技術の仕組みと特徴",
+          "vi": "Cơ chế và đặc điểm của công nghệ mã hóa",
+          "en": "Mechanism and characteristics of encryption technology"
+        }
+      ],
+      "reference": "https://www.jitec.ipa.go.jp/shiken/syllabus/ni10b000007sxy-att/syllabus_ip_ver6_4.pdf"
+    },
+    {
+      "type": "exam_scope_table",
+      "title": {
+        "ja": "試験範囲全体における本章の位置づけ",
+        "vi": "Vị trí của chương này trong toàn bộ phạm vi thi",
+        "en": "Position of This Chapter in Overall Exam Scope"
+      },
+      "headers": {
+        "ja": [
+          "分野",
+          "大分類"
+        ],
+        "vi": [
+          "Phân loại",
+          "Phân loại lớn"
+        ],
+        "en": [
+          "Category",
+          "Major Classification"
+        ]
+      },
+      "rows": [
+        {
+          "category": {
+            "ja": "ストラテジ系",
+            "vi": "Chiến lược",
+            "en": "Strategy"
+          },
+          "items": [
+            {
+              "ja": "企業と法務",
+              "vi": "Doanh nghiệp và Pháp luật",
+              "en": "Business and Legal"
+            },
+            {
+              "ja": "経営戦略",
+              "vi": "Chiến lược kinh doanh",
+              "en": "Business Strategy"
+            },
+            {
+              "ja": "システム戦略",
+              "vi": "Chiến lược hệ thống",
+              "en": "System Strategy"
+            }
+          ]
+        },
+        {
+          "category": {
+            "ja": "マネジメント系",
+            "vi": "Quản lý",
+            "en": "Management"
+          },
+          "items": [
+            {
+              "ja": "開発技術",
+              "vi": "Công nghệ phát triển",
+              "en": "Development Technology"
+            },
+            {
+              "ja": "プロジェクトマネジメント",
+              "vi": "Quản lý dự án",
+              "en": "Project Management"
+            },
+            {
+              "ja": "サービスマネジメント",
+              "vi": "Quản lý dịch vụ",
+              "en": "Service Management"
+            }
+          ]
+        },
+        {
+          "category": {
+            "ja": "テクノロジ系",
+            "vi": "Công nghệ",
+            "en": "Technology"
+          },
+          "items": [
+            {
+              "ja": "基礎理論",
+              "vi": "Lý thuyết cơ bản",
+              "en": "Basic Theory"
+            },
+            {
+              "ja": "コンピュータシステム",
+              "vi": "Hệ thống máy tính",
+              "en": "Computer System"
+            },
+            {
+              "ja": "技術要素",
+              "vi": "Yếu tố kỹ thuật",
+              "en": "Technical Elements",
+              "highlight": true
+            }
+          ]
+        }
+      ],
+      "note": {
+        "ja": "本章はココ！",
+        "vi": "Chương này ở đây!",
+        "en": "This chapter is here!"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "情報セキュリティ",
+      "vi": "Bảo mật thông tin",
+      "en": "Information Security",
+      "my": "သတင်းအချက်အလက်လုံခြုံရေး"
+    }
+  ],
+  "meta": {
+    "is_chapter_intro": true,
+    "chapter_title": {
+      "ja": "情報セキュリティ",
+      "vi": "Bảo mật thông tin",
+      "en": "Information Security"
+    }
+  }
+}

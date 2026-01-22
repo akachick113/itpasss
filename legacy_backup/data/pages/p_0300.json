@@ -1,0 +1,324 @@
+{
+  "page_id": 300,
+  "image": "p_0300.png",
+  "chapter": 8,
+  "section": "08-02",
+  "page_number": 284,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "例」です。「○○という事例はPDCAのうちのどのプロセスであるか」という設問です。事例そのものはさまざまなので暗記はできません。PDCAを構成する4つの用語（Plan・Do・Check・Act）と、それぞれに関連する4つのキーワード「計画」「実行」「評価」「改善」を覚えてください。",
+      "vi": "Đó là câu hỏi \"Ví dụ ○○ thuộc quy trình nào trong PDCA\". Vì bản thân ví dụ rất đa dạng nên không thể ghi nhớ. Hãy nhớ 4 thuật ngữ cấu thành PDCA (Plan・Do・Check・Act) và 4 từ khóa liên quan \"Kế hoạch\" \"Thực hiện\" \"Đánh giá\" \"Cải thiện\".",
+      "en": "It's questions like 'Which PDCA process does example ○○ belong to.' Since examples vary, memorization isn't possible. Remember 4 PDCA terms (Plan・Do・Check・Act) and 4 related keywords 'Plan' 'Execute' 'Evaluate' 'Improve.'",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "事例",
+          "reading": "じれい"
+        },
+        {
+          "kanji": "設問",
+          "reading": "せつもん"
+        },
+        {
+          "kanji": "暗記",
+          "reading": "あんき"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "kanji": "計画",
+          "reading": "けいかく"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "「計画」に近い用語が入っている選択肢は、Plan",
+          "vi": "Lựa chọn có thuật ngữ gần với \"Kế hoạch\" là Plan",
+          "en": "Choice with term close to 'Plan' is Plan"
+        },
+        {
+          "ja": "「実行」に近い用語が入っている選択肢は、Do",
+          "vi": "Lựa chọn có thuật ngữ gần với \"Thực hiện\" là Do",
+          "en": "Choice with term close to 'Execute' is Do"
+        },
+        {
+          "ja": "「評価」に近い用語が入っている選択肢は、Check",
+          "vi": "Lựa chọn có thuật ngữ gần với \"Đánh giá\" là Check",
+          "en": "Choice with term close to 'Evaluate' is Check"
+        },
+        {
+          "ja": "「改善」に近い用語が入っている選択肢は、Act",
+          "vi": "Lựa chọn có thuật ngữ gần với \"Cải thiện\" là Act",
+          "en": "Choice with term close to 'Improve' is Act"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "略語を覚える",
+        "vi": "Ghi nhớ từ viết tắt",
+        "en": "Remember Abbreviations",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ITパスポート試験では、「サービスレベル管理」という日本語よりも、「SLM」という英略語のほうがよく出ます。英略語は非常に多く覚えるのが面倒ですが、SLMは頻出用語なのでぜひ覚えておいてください。",
+        "vi": "Trong kỳ thi IT Passport, từ viết tắt tiếng Anh \"SLM\" xuất hiện nhiều hơn tiếng Nhật \"サービスレベル管理\". Từ viết tắt tiếng Anh rất nhiều và phiền để nhớ, nhưng SLM là thuật ngữ thường ra đề nên hãy nhớ.",
+        "en": "In IT Passport exam, English abbreviation 'SLM' appears more than Japanese 'サービスレベル管理.' English abbreviations are many and tedious to remember, but SLM is frequent term so please remember it."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "SLA",
+      "reading": "えすえるえー",
+      "vi": "SLA",
+      "en": "SLA"
+    },
+    {
+      "type": "paragraph",
+      "ja": "SLA（Service Level Agreement：サービスレベル合意書）とは、サービス提供者とサービス利用者との間で取り決めた「サービスレベル（サービスの品質や範囲）」を明文化した書類です。",
+      "vi": "SLA (Service Level Agreement: Thỏa thuận mức dịch vụ) là tài liệu văn bản hóa \"Service Level (chất lượng và phạm vi dịch vụ)\" được quyết định giữa nhà cung cấp dịch vụ và người dùng dịch vụ.",
+      "en": "SLA (Service Level Agreement) is document that formalizes 'Service Level (service quality and scope)' agreed between service provider and service user.",
+      "terms": [
+        {
+          "kanji": "合意書",
+          "reading": "ごういしょ"
+        },
+        {
+          "kanji": "提供者",
+          "reading": "ていきょうしゃ"
+        },
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "品質",
+          "reading": "ひんしつ"
+        },
+        {
+          "kanji": "範囲",
+          "reading": "はんい"
+        },
+        {
+          "kanji": "明文化",
+          "reading": "めいぶんか"
+        },
+        {
+          "kanji": "書類",
+          "reading": "しょるい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "サービスを維持していくには、サービスサポートや定期点検、設備の維持などの費用がかかります。しかし、サービスは目に見える物理的な物ではないため、どの程度のサービスレベルが適切であるのかが曖昧になりがちです。",
+      "vi": "Để duy trì dịch vụ, cần chi phí như Service Support, kiểm tra định kỳ, duy trì thiết bị. Tuy nhiên, vì dịch vụ không phải là vật lý có thể nhìn thấy, nên mức Service Level nào là phù hợp thường không rõ ràng.",
+      "en": "Maintaining service requires costs like Service Support, regular maintenance, equipment upkeep. However, since service isn't visible physical thing, appropriate Service Level tends to be ambiguous.",
+      "terms": [
+        {
+          "kanji": "維持",
+          "reading": "いじ"
+        },
+        {
+          "kanji": "定期点検",
+          "reading": "ていきてんけん"
+        },
+        {
+          "kanji": "設備",
+          "reading": "せつび"
+        },
+        {
+          "kanji": "費用",
+          "reading": "ひよう"
+        },
+        {
+          "kanji": "目",
+          "reading": "め"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "物理的",
+          "reading": "ぶつりてき"
+        },
+        {
+          "kanji": "物",
+          "reading": "もの"
+        },
+        {
+          "kanji": "程度",
+          "reading": "ていど"
+        },
+        {
+          "kanji": "適切",
+          "reading": "てきせつ"
+        },
+        {
+          "kanji": "曖昧",
+          "reading": "あいまい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "そこで、事前に話し合ってSLAを作成して文書を残しておくことで、サービスの提供者と利用者の間でサービスレベルについて合意をしておくことが重要になります。",
+      "vi": "Do đó, quan trọng là thảo luận trước, tạo SLA và lưu lại văn bản để nhà cung cấp dịch vụ và người dùng đồng ý về Service Level.",
+      "en": "So it's important to discuss beforehand, create SLA and keep document so service provider and user agree on Service Level.",
+      "terms": [
+        {
+          "kanji": "事前",
+          "reading": "じぜん"
+        },
+        {
+          "kanji": "話",
+          "reading": "はなし"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "残",
+          "reading": "ざん"
+        },
+        {
+          "kanji": "提供者",
+          "reading": "ていきょうしゃ"
+        },
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "合意",
+          "reading": "ごうい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このサービス利用者側がSLAを作るメリットは、求めるサービスレベルを保証してもらえることです。万がーサービスレベルがSLAの内容を満たし",
+      "vi": "Lợi ích khi phía người dùng dịch vụ tạo SLA là được đảm bảo Service Level mong muốn. Nếu Service Level đáp ứng nội dung SLA",
+      "en": "Benefit of service user side creating SLA is getting desired Service Level guaranteed. If Service Level meets SLA content",
+      "terms": [
+        {
+          "kanji": "利用者側",
+          "reading": "りようしゃがわ"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "保証",
+          "reading": "ほしょう"
+        },
+        {
+          "kanji": "万",
+          "reading": "まん"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "満",
+          "reading": "まん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "SLA",
+      "reading": "えすえるえー",
+      "romaji": "SLA",
+      "vi": "Thỏa thuận mức dịch vụ",
+      "en": "Service Level Agreement",
+      "my": "အစ်အဲလ်အေ"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true
+  }
+}

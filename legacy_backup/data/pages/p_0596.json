@@ -1,0 +1,249 @@
+{
+    "page_id": 596,
+    "image": "p_0596.png",
+    "chapter": "review",
+    "section": "exam_review",
+    "page_number": 580,
+    "content": [
+        {
+            "type": "review_chapter",
+            "chapter_num": 5,
+            "title": {
+                "ja": "5章",
+                "vi": "Chương 5",
+                "en": "Chapter 5"
+            },
+            "terms": [
+                {
+                    "ja": "情報システム戦略を立案する際に「あるべき姿」を明確した上で、経営課題を選出し、対応策を検討",
+                    "vi": "Khi lập chiến lược hệ thống thông tin, làm rõ \"hình ảnh nên có\" rồi chọn vấn đề kinh doanh và xem xét biện pháp đối phó",
+                    "en": "When planning information system strategy, clarify 'ideal state' then select business issues and consider countermeasures"
+                },
+                {
+                    "ja": "EA（エンタープライズアーキテクチャ）とは、企業全体から見て、大きな組織の情報システムを最適化するための手法",
+                    "vi": "EA (Enterprise Architecture) là phương pháp tối ưu hóa hệ thống thông tin của tổ chức lớn từ góc nhìn toàn doanh nghiệp",
+                    "en": "EA (Enterprise Architecture) is method optimizing information systems of large organizations from enterprise-wide perspective"
+                },
+                {
+                    "ja": "エンタープライズサーチとは、企業内のさまざまなデータを一元的に検索するための仕組み",
+                    "vi": "Enterprise Search là cơ chế tìm kiếm tập trung các dữ liệu khác nhau trong doanh nghiệp",
+                    "en": "Enterprise Search is mechanism for centrally searching various data within company"
+                },
+                {
+                    "ja": "SoEとは、ユーザーとのつながりを強化するためのシステム",
+                    "vi": "SoE là hệ thống để tăng cường kết nối với người dùng",
+                    "en": "SoE is system for strengthening connection with users"
+                },
+                {
+                    "ja": "SoRとは、データを正確に記録・運用、保守するための仕組み。従来型のシステム",
+                    "vi": "SoR là cơ chế ghi chép, vận hành, bảo trì dữ liệu chính xác. Hệ thống kiểu truyền thống",
+                    "en": "SoR is mechanism for accurately recording, operating, maintaining data. Traditional type system"
+                },
+                {
+                    "ja": "BPR（データフロー図）とは、業務プロセスを「データの流れ」として図形で表す",
+                    "vi": "BPR (Biểu đồ luồng dữ liệu) là biểu diễn quy trình nghiệp vụ bằng hình dưới dạng \"luồng dữ liệu\"",
+                    "en": "BPR (Data Flow Diagram) represents business process as 'data flow' in diagram form"
+                },
+                {
+                    "ja": "BPRとは、業務プロセスを抜本的に再設計する手法である",
+                    "vi": "BPR là phương pháp thiết kế lại căn bản quy trình nghiệp vụ",
+                    "en": "BPR is method fundamentally redesigning business processes"
+                },
+                {
+                    "ja": "BPMとは、業務プロセスを継続的に改善する手法",
+                    "vi": "BPM là phương pháp cải tiến liên tục quy trình nghiệp vụ",
+                    "en": "BPM is method continuously improving business processes"
+                },
+                {
+                    "ja": "ワークフローシステムとは、決済申請手続き等を電子化するシステム",
+                    "vi": "Hệ thống Workflow là hệ thống điện tử hóa thủ tục đăng ký thanh toán",
+                    "en": "Workflow system is system digitalizing payment application procedures etc."
+                },
+                {
+                    "ja": "グループウェアとは、共同作業を複数人で円滑に行うためのソフトウェアである",
+                    "vi": "Groupware là phần mềm để nhiều người thực hiện công việc chung một cách suôn sẻ",
+                    "en": "Groupware is software for multiple people to smoothly conduct collaborative work"
+                },
+                {
+                    "ja": "RPAは事務処理を自動化する技術",
+                    "vi": "RPA là công nghệ tự động hóa xử lý văn phòng",
+                    "en": "RPA is technology automating office work"
+                },
+                {
+                    "ja": "テレワークとは、勤務時間や就業場所に制限されない働き方",
+                    "vi": "Telework là cách làm việc không bị giới hạn bởi giờ làm việc và nơi làm việc",
+                    "en": "Telework is work style not limited by work hours or workplace"
+                },
+                {
+                    "ja": "シェアリングエコノミーとは、個人や企業に資産を使わせる仕組み",
+                    "vi": "Sharing Economy là cơ chế cho cá nhân hoặc doanh nghiệp sử dụng tài sản",
+                    "en": "Sharing Economy is mechanism allowing individuals or companies to use assets"
+                },
+                {
+                    "ja": "コネクテッドカー：複数の電力/ガス会社に対してエネルギーを流通する仕組み",
+                    "vi": "Connected Car: Cơ chế lưu thông năng lượng cho nhiều công ty điện/gas",
+                    "en": "Connected Car: Mechanism distributing energy to multiple electric/gas companies"
+                },
+                {
+                    "ja": "オムニチャネルとは、複数のチャネル（販売経路）を連携",
+                    "vi": "Omni-channel là liên kết nhiều kênh (đường bán hàng)",
+                    "en": "Omni-channel is linking multiple channels (sales routes)"
+                },
+                {
+                    "ja": "ハウジングサービスとは、他社の設地の敷地内にサーバを設置して利用するサービス",
+                    "vi": "Housing Service là dịch vụ đặt và sử dụng server trong cơ sở của công ty khác",
+                    "en": "Housing Service is service installing and using servers in other company's premises"
+                },
+                {
+                    "ja": "ホスティングサービスとは、他社が所有しているサーバを利用するサービス",
+                    "vi": "Hosting Service là dịch vụ sử dụng server thuộc sở hữu của công ty khác",
+                    "en": "Hosting Service is service using servers owned by other company"
+                },
+                {
+                    "ja": "クラウドコンピューティングとは、他社の設地の敷地内にあるサーバを利用するサービス（サーバの所在は不明確）",
+                    "vi": "Cloud Computing là dịch vụ sử dụng server trong cơ sở của công ty khác (vị trí server không rõ ràng)",
+                    "en": "Cloud Computing is service using servers in other company's premises (server location unclear)"
+                },
+                {
+                    "ja": "IaaSとは、ハードウェアなどの基盤を提供するサービスである",
+                    "vi": "IaaS là dịch vụ cung cấp nền tảng như phần cứng",
+                    "en": "IaaS is service providing infrastructure like hardware"
+                },
+                {
+                    "ja": "PaaSとは、プラットフォームを提供するサービスである",
+                    "vi": "PaaS là dịch vụ cung cấp nền tảng",
+                    "en": "PaaS is service providing platform"
+                },
+                {
+                    "ja": "SaaSとは、ソフトウェアを提供するサービスである",
+                    "vi": "SaaS là dịch vụ cung cấp phần mềm",
+                    "en": "SaaS is service providing software"
+                },
+                {
+                    "ja": "DaaSとは、デスクトップ環境を提供するサービスである",
+                    "vi": "DaaS là dịch vụ cung cấp môi trường desktop",
+                    "en": "DaaS is service providing desktop environment"
+                }
+            ]
+        },
+        {
+            "type": "review_terms_continued",
+            "terms": [
+                {
+                    "ja": "ビッグデータとデータウェアハウスの違い",
+                    "vi": "Sự khác biệt giữa Big Data và Data Warehouse",
+                    "en": "Difference between Big Data and Data Warehouse"
+                },
+                {
+                    "ja": "ビッグデータのほうが「データ量が多い」「データの更新頻度が高い」「データの種類が豊富」",
+                    "vi": "Big Data có \"lượng dữ liệu nhiều hơn\", \"tần suất cập nhật dữ liệu cao hơn\", \"loại dữ liệu phong phú hơn\"",
+                    "en": "Big Data has 'more data volume,' 'higher data update frequency,' 'richer data types'"
+                },
+                {
+                    "ja": "データマイニングとは、データを分析して有用なパターンを発見すること",
+                    "vi": "Data Mining là phân tích dữ liệu để phát hiện mẫu hữu ích",
+                    "en": "Data Mining is analyzing data to discover useful patterns"
+                },
+                {
+                    "ja": "ゲーミフィケーションとは、ゲーム要素を使ってユーザーにサービスを使ってもらえるように活動させること",
+                    "vi": "Gamification là sử dụng yếu tố game để kích hoạt người dùng sử dụng dịch vụ",
+                    "en": "Gamification is using game elements to activate users to use services"
+                },
+                {
+                    "ja": "情報リテラシーとは、情報を活用する能力",
+                    "vi": "Information Literacy là khả năng sử dụng thông tin",
+                    "en": "Information Literacy is ability to utilize information"
+                },
+                {
+                    "ja": "デジタルトランスフォーメーションとは、デジタル技術を活用することが企業活動・社会全体を変革すること",
+                    "vi": "Digital Transformation là việc sử dụng công nghệ số để thay đổi hoạt động doanh nghiệp và toàn xã hội",
+                    "en": "Digital Transformation is using digital technology to transform corporate activities and society as a whole"
+                },
+                {
+                    "ja": "ソフトウェアライフサイクルプロセス（SLCP）とは、ソフトウェアの企画、要件定義、運用、保守までの一連の活動を体系化した取り決め",
+                    "vi": "Software Life Cycle Process (SLCP) là quy định hệ thống hóa các hoạt động liên tục từ lập kế hoạch, định nghĩa yêu cầu, vận hành, bảo trì phần mềm",
+                    "en": "Software Life Cycle Process (SLCP) is agreement systematizing continuous activities from planning, requirements definition, operation, maintenance of software"
+                },
+                {
+                    "ja": "システム化構想の立案とは、経営面を考慮に入れた各部門に必要なシステムを検討",
+                    "vi": "Lập kế hoạch hệ thống hóa là xem xét hệ thống cần thiết cho từng bộ phận có tính đến yếu tố kinh doanh",
+                    "en": "System planning is considering systems needed for each department taking management into account"
+                },
+                {
+                    "ja": "システム化計画の立案とは、システム化の進め方を明確化すること",
+                    "vi": "Lập kế hoạch hệ thống hóa là làm rõ cách tiến hành hệ thống hóa",
+                    "en": "System plan formulation is clarifying how to proceed with systematization"
+                },
+                {
+                    "ja": "ROIの計算式は、ROI＝利益÷投資額",
+                    "vi": "Công thức tính ROI là ROI = Lợi nhuận ÷ Số tiền đầu tư",
+                    "en": "ROI formula is ROI = Profit ÷ Investment amount"
+                },
+                {
+                    "ja": "要件定義プロセスとは、業務要件を決定するプロセス",
+                    "vi": "Quy trình định nghĩa yêu cầu là quy trình xác định yêu cầu nghiệp vụ",
+                    "en": "Requirements definition process is process determining business requirements"
+                },
+                {
+                    "ja": "RFIとは情報提供依頼書、RFPは提案依頼書",
+                    "vi": "RFI là thư yêu cầu cung cấp thông tin, RFP là thư yêu cầu đề xuất",
+                    "en": "RFI is Request for Information, RFP is Request for Proposal"
+                },
+                {
+                    "ja": "RFIとRFPとは役割が異なる（ベンダーの選定）",
+                    "vi": "RFI và RFP có vai trò khác nhau (lựa chọn vendor)",
+                    "en": "RFI and RFP have different roles (vendor selection)"
+                },
+                {
+                    "ja": "RFIDoは自社に合う「ベンダーの一次選定」と「技術情報の入手」に役立つ",
+                    "vi": "RFI hữu ích cho \"lựa chọn sơ bộ vendor\" và \"thu thập thông tin kỹ thuật\" phù hợp với công ty mình",
+                    "en": "RFI is useful for 'preliminary vendor selection' and 'obtaining technical information' suitable for own company"
+                }
+            ]
+        },
+        {
+            "type": "review_chapter",
+            "chapter_num": 6,
+            "title": {
+                "ja": "6章",
+                "vi": "Chương 6",
+                "en": "Chapter 6"
+            },
+            "terms": [
+                {
+                    "ja": "システム要件定義とは、システムに必要な機能と性能を決める工程",
+                    "vi": "Định nghĩa yêu cầu hệ thống là công đoạn quyết định chức năng và hiệu năng cần thiết cho hệ thống",
+                    "en": "System requirements definition is process determining functions and performance needed for system"
+                },
+                {
+                    "ja": "システム要件とは、業務要件のうち、システムで実現する役割のこと",
+                    "vi": "Yêu cầu hệ thống là vai trò thực hiện bởi hệ thống trong yêu cầu nghiệp vụ",
+                    "en": "System requirements are roles realized by system among business requirements"
+                },
+                {
+                    "ja": "機能要件と非機能要件",
+                    "vi": "Yêu cầu chức năng và yêu cầu phi chức năng",
+                    "en": "Functional requirements and non-functional requirements"
+                },
+                {
+                    "ja": "機能要件とは、それを記載していない、システムにもとづく機能",
+                    "vi": "Yêu cầu chức năng là chức năng dựa trên hệ thống không liệt kê",
+                    "en": "Functional requirements are functions based on system not listed"
+                },
+                {
+                    "ja": "非機能要件とは、非機能要件",
+                    "vi": "Yêu cầu phi chức năng là yêu cầu phi chức năng",
+                    "en": "Non-functional requirements are non-functional requirements"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "is_review": true,
+        "chapters_covered": [
+            5,
+            6
+        ]
+    }
+}

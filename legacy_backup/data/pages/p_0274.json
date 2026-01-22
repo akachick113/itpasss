@@ -1,0 +1,228 @@
+{
+  "page_id": 274,
+  "image": "p_0274.png",
+  "chapter": 7,
+  "section": "07-01",
+  "page_number": 258,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "07-01",
+      "title": {
+        "ja": "プロジェクトマネジメントと3つの制約",
+        "vi": "Quản lý dự án và 3 ràng buộc",
+        "en": "Project Management and 3 Constraints"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "プロジェクトマネージャは監督",
+        "vi": "Project Manager là huấn luyện viên",
+        "en": "Project Manager is the Coach"
+      },
+      "content": {
+        "ja": "プロジェクトマネージャは、サッカーでいえば監督です。サッカーの監督の目標は「ワールドカップで優勝すること」などとなるでしょう。",
+        "vi": "Project Manager giống như huấn luyện viên trong bóng đá. Mục tiêu của huấn luyện viên bóng đá sẽ là \"vô địch World Cup\" chẳng hạn.",
+        "en": "Project Manager is like a coach in soccer. The soccer coach's goal would be something like 'winning the World Cup.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからはシステム開発を行うプロジェクトの管理方法（マネジメント方法）について解説します。",
+      "vi": "Từ đây sẽ giải thích về phương pháp quản lý (phương pháp management) dự án phát triển hệ thống.",
+      "en": "From here, we'll explain management methods for system development projects.",
+      "terms": [
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "管理方法",
+          "reading": "かんりほうほう"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では「プロジェクトスケジュールマネジメント」と「プロジェクトコミュニケーションマネジメント」「WBS」の3つの用語の出題頻度が高いので、まずはこの3つの用語を確実に習得してください。",
+      "vi": "Trong kỳ thi IT Passport, 3 thuật ngữ \"Project Schedule Management\", \"Project Communication Management\" và \"WBS\" có tần suất ra đề cao, nên trước tiên hãy nắm chắc 3 thuật ngữ này.",
+      "en": "In IT Passport exam, 3 terms 'Project Schedule Management,' 'Project Communication Management,' and 'WBS' have high exam frequency, so first master these 3 terms.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "確実",
+          "reading": "かくじつ"
+        },
+        {
+          "kanji": "習得",
+          "reading": "しゅうとく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "次いで、「アローダイアグラム」「プロジェクトスコープマネジメント」「プロジェクトリスクマネジメント」「プロジェクト資源マネジメント」などがよく出題されています。上記の頻出用語を見ていただければわかるように、接頭辞に「プロジェクト」という言葉がつく用語が多いため、それぞれの用語を正しく覚えるのは大変ですが、混同しないように注意してください。",
+      "vi": "Tiếp theo, \"Arrow Diagram\", \"Project Scope Management\", \"Project Risk Management\", \"Project Resource Management\" cũng thường ra đề. Như bạn có thể thấy từ các thuật ngữ thường gặp trên, có nhiều thuật ngữ có tiền tố \"Project\", nên việc nhớ chính xác mỗi thuật ngữ khá vất vả, nhưng hãy cẩn thận không nhầm lẫn.",
+      "en": "Next, 'Arrow Diagram,' 'Project Scope Management,' 'Project Risk Management,' 'Project Resource Management' are also frequently tested. As you can see from these frequent terms, many terms have 'Project' prefix, so remembering each term correctly is difficult, but be careful not to confuse them.",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "資源",
+          "reading": "しげん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "頻出用語",
+          "reading": "ひんしゅつようご"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "接頭辞",
+          "reading": "せっとうじ"
+        },
+        {
+          "kanji": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "大変",
+          "reading": "たいへん"
+        },
+        {
+          "kanji": "混同",
+          "reading": "こんどう"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "プロジェクトとは",
+      "reading": "ぷろじぇくととは",
+      "vi": "Project là gì",
+      "en": "What is a Project"
+    },
+    {
+      "type": "paragraph",
+      "ja": "そもそも「プロジェクト」とは何でしょうか。プロジェクトとは、期限内に独自のモノやサービスを作るための業務です。特徴は次の2点です。",
+      "vi": "Vậy \"Project\" là gì? Project là nghiệp vụ để tạo ra sản phẩm hoặc dịch vụ độc đáo trong thời hạn. Có 2 đặc điểm sau.",
+      "en": "What exactly is a 'Project'? A project is work to create unique products or services within a deadline. It has 2 characteristics:",
+      "terms": [
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "期限内",
+          "reading": "きげんない"
+        },
+        {
+          "kanji": "独自",
+          "reading": "どくじ"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "プロジェクト",
+      "reading": "ぷろじぇくと",
+      "romaji": "Project",
+      "vi": "Dự án",
+      "en": "Project",
+      "my": "ပရောဂျက်"
+    },
+    {
+      "kanji": "プロジェクトマネージャ",
+      "reading": "ぷろじぇくとまねーじゃ",
+      "romaji": "Project Manager",
+      "vi": "Quản lý dự án",
+      "en": "Project Manager",
+      "my": "ပရောဂျက် မန်နေ့ဂျာ"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

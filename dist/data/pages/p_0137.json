@@ -1,0 +1,318 @@
+{
+  "page_id": 137,
+  "image": "p_0137.png",
+  "chapter": 3,
+  "section": "03-04",
+  "page_number": 121,
+  "content": [
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "ERPとSCM",
+        "vi": "ERP và SCM",
+        "en": "ERP and SCM",
+        "my": "ERP နှင့် SCM",
+        "terms": [
+          {
+            "kanji": "ERP",
+            "reading": "いーあーるぴー"
+          },
+          {
+            "kanji": "SCM",
+            "reading": "えすしーえむ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ERPとSCMは基本的な考え方は似ていますが、大きく異なる点があります。それは、ERPが「社内の最適化」を目的としていることに対して、SCMは「社外も含めたプロセス全体の最適化」である点です。この違いはしっかりと覚えておいてください。",
+        "vi": "ERP và SCM có cách tư duy cơ bản tương tự, nhưng có điểm khác biệt lớn. Đó là ERP nhằm mục đích tối ưu hóa nội bộ công ty trong khi SCM là tối ưu hóa toàn bộ quy trình bao gồm cả bên ngoài. Hãy nhớ kỹ sự khác biệt này.",
+        "en": "ERP and SCM have similar basic concepts but with a major difference. ERP aims for internal company optimization while SCM is optimization of entire processes including external companies. Remember this difference well.",
+        "my": "ERP နှင့် SCM တို့သည် အခြေခံအယူအဆ ဆင်တူသော်လည်း ကြီးမားသော ကွာခြားချက်ရှိသည်။",
+        "terms": [
+          {
+            "kanji": "基本的",
+            "reading": "きほんてき"
+          },
+          {
+            "kanji": "考",
+            "reading": "こう"
+          },
+          {
+            "kanji": "方",
+            "reading": "かた"
+          },
+          {
+            "kanji": "似",
+            "reading": "じ"
+          },
+          {
+            "kanji": "大",
+            "reading": "おお"
+          },
+          {
+            "kanji": "異",
+            "reading": "い"
+          },
+          {
+            "kanji": "点",
+            "reading": "てん"
+          },
+          {
+            "kanji": "社内",
+            "reading": "しゃない"
+          },
+          {
+            "kanji": "最適化",
+            "reading": "さいてきか"
+          },
+          {
+            "kanji": "目的",
+            "reading": "もくてき"
+          },
+          {
+            "kanji": "対",
+            "reading": "つい"
+          },
+          {
+            "kanji": "社外",
+            "reading": "しゃがい"
+          },
+          {
+            "kanji": "含",
+            "reading": "がん"
+          },
+          {
+            "kanji": "全体",
+            "reading": "ぜんたい"
+          },
+          {
+            "kanji": "違",
+            "reading": "い"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "MA（マーケティングオートメーション）",
+        "vi": "MA (Marketing Automation)",
+        "en": "MA (Marketing Automation)",
+        "my": "MA (Marketing Automation)",
+        "terms": [
+          {
+            "kanji": "マーケティング",
+            "reading": "まーけてぃんぐ"
+          },
+          {
+            "kanji": "MA",
+            "reading": "えむえー"
+          }
+        ]
+      },
+      "content": {
+        "ja": "MA（Marketing Automation）とは、見込み客獲得などの営業活動を効率化することです。MAを行うためのシステムを「MAツール」といいます。MAツールは先述したSFAやCRMとも前のマーケティング活動で利用されます。",
+        "vi": "MA (Marketing Automation) là hiệu quả hóa hoạt động kinh doanh như thu hút khách hàng tiềm năng. Hệ thống để thực hiện MA gọi là MA Tool. MA Tool được sử dụng cùng với SFA và CRM đã nói trong hoạt động Marketing trước đó.",
+        "en": "MA (Marketing Automation) is streamlining sales activities like acquiring leads. The system for MA is called MA Tool. MA Tool is used with previously mentioned SFA and CRM in marketing activities.",
+        "my": "MA (Marketing Automation) သည် လိုင်းများရယူခြင်းကဲ့သို့သော အရောင်းလုပ်ငန်းများကို ချောမွေ့စေခြင်းဖြစ်သည်။",
+        "terms": [
+          {
+            "kanji": "見込",
+            "reading": "みこみ"
+          },
+          {
+            "kanji": "客獲得",
+            "reading": "きゃくかくとく"
+          },
+          {
+            "kanji": "営業活動",
+            "reading": "えいぎょうかつどう"
+          },
+          {
+            "kanji": "効率化",
+            "reading": "こうりつか"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "先述",
+            "reading": "せんじゅつ"
+          },
+          {
+            "kanji": "前",
+            "reading": "まえ"
+          },
+          {
+            "kanji": "活動",
+            "reading": "かつどう"
+          },
+          {
+            "kanji": "利用",
+            "reading": "りよう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "その他の関連用語",
+      "vi": "Thuật ngữ liên quan khác",
+      "en": "Other Related Terms"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験における出題頻度はそれほど高くはないのですが、本章と関連性の高い用語を一覧で簡単に解説します。なお、これらの用語は問題文や選択肢の中に出てくることもあるので、余裕のある人は覚えておくようにしましょう。",
+      "vi": "Tần suất ra đề trong IT Passport không cao lắm, nhưng sẽ giải thích đơn giản các thuật ngữ liên quan cao với chương này. Lưu ý, các thuật ngữ này có thể xuất hiện trong đề bài hoặc lựa chọn nên ai có thời gian hãy nhớ.",
+      "en": "Though not frequently tested in IT Passport, here's a simple list of terms highly related to this chapter. These terms may appear in questions or choices, so remember them if you have time.",
+      "my": "IT Passport တွင် မကြာခဏ စမ်းသပ်ခြင်း မရှိသော်လည်း ဤအခန်းနှင့် အလွန်သက်ဆိုင်သော ဝေါဟာရများ စာရင်းကို ဖော်ပြထားသည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "本章",
+          "reading": "ほんしょう"
+        },
+        {
+          "kanji": "関連性",
+          "reading": "かんれんせい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "一覧",
+          "reading": "いちらん"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "問題文",
+          "reading": "もんだいぶん"
+        },
+        {
+          "kanji": "選択肢",
+          "reading": "せんたくし"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "余裕",
+          "reading": "よゆう"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "その他の関連用語",
+        "vi": "Thuật ngữ liên quan khác",
+        "en": "Other Related Terms"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "ナレッジマネジメント",
+            "個人の知識や情報を組織全体で共有すること。"
+          ],
+          "vi": [
+            "Knowledge Management",
+            "Chia sẻ kiến thức và thông tin cá nhân trong toàn tổ chức."
+          ],
+          "en": [
+            "Knowledge Management",
+            "Sharing individual knowledge and information across the organization."
+          ]
+        },
+        {
+          "ja": [
+            "TOC",
+            "全体のパフォーマンスが特定のボトルネックによって制限されているという理論。「Theory Of Constraints（制約条件理論）」の略語。ボトルネックを解消することで、全体のパフォーマンスを上げることができる。"
+          ],
+          "vi": [
+            "TOC",
+            "Lý thuyết cho rằng hiệu suất tổng thể bị giới hạn bởi bottleneck cụ thể. Viết tắt của Theory Of Constraints (Lý thuyết điều kiện ràng buộc). Bằng cách giải quyết bottleneck, có thể nâng cao hiệu suất tổng thể."
+          ],
+          "en": [
+            "TOC",
+            "Theory that overall performance is limited by specific bottlenecks. Abbreviation of Theory Of Constraints. By resolving bottlenecks, overall performance can be improved."
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "MA",
+      "reading": "えむえー",
+      "romaji": "Marketing Automation",
+      "vi": "Tự động hóa Marketing",
+      "en": "Marketing Automation",
+      "my": "MA"
+    },
+    {
+      "kanji": "ナレッジマネジメント",
+      "reading": "なれっじまねじめんと",
+      "romaji": "Knowledge Management",
+      "vi": "Quản lý tri thức",
+      "en": "Knowledge Management",
+      "my": "အသိပညာစီမံခန့်ခွဲမှု"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "has_learn_more": true
+  }
+}

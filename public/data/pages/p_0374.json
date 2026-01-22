@@ -1,0 +1,219 @@
+{
+  "page_id": 374,
+  "image": "p_0374.png",
+  "chapter": 9,
+  "section": "09-08",
+  "page_number": 358,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "処理の実行後に条件を判断する「do」",
+      "reading": "ドゥー",
+      "vi": "\"do\" phán đoán điều kiện sau khi thực hiện xử lý",
+      "en": "'do' Judging Condition After Executing Processing"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のwhileでは、先に条件を判断して、条件を満たす場合のみ処理を実行しました。これとは反対に、「do」を使うと、先に処理を行って、その後に条件を判断することができます（下図を参照）。",
+      "vi": "Trong while ở trên, phán đoán điều kiện trước, chỉ thực hiện xử lý khi thỏa điều kiện. Ngược lại, dùng \"do\" có thể thực hiện xử lý trước, sau đó mới phán đoán điều kiện (xem hình dưới).",
+      "en": "In above while, judged condition first, executed processing only when condition satisfied. Opposite to this, using 'do' can execute processing first, then judge condition afterwards (see diagram below).",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "先",
+          "reading": "さき"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        },
+        {
+          "kanji": "満",
+          "reading": "まん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "反対",
+          "reading": "はんたい"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "do",
+        "vi": "do",
+        "en": "do"
+      },
+      "description": {
+        "ja": "処理を実行した後に条件式を判定し、Yesならまた処理に戻り、Noなら終了するフローチャート",
+        "vi": "Flowchart: thực hiện xử lý trước, sau đó kiểm tra biểu thức điều kiện, nếu Yes quay lại xử lý, nếu No kết thúc",
+        "en": "Flowchart: execute processing first, then check conditional expression, if Yes return to processing, if No exit"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "「条件」と「処理」の位置が、whileの場合（p.356）から逆転していることがわかります。以下はdoの書式です。",
+      "vi": "Có thể thấy vị trí của \"điều kiện\" và \"xử lý\" đảo ngược so với trường hợp while (trang 356). Sau đây là định dạng do.",
+      "en": "Can see 'condition' and 'processing' positions are reversed from while case (p.356). Following is do format.",
+      "terms": [
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "位置",
+          "reading": "いち"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "逆転",
+          "reading": "ぎゃくてん"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "書式",
+          "reading": "しょしき"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【書式】繰り返し処理（do）",
+        "vi": "【Định dạng】Xử lý lặp (do)",
+        "en": "[Format] Loop Processing (do)"
+      },
+      "code": "do\n    処理\nwhile (条件式)",
+      "explanation": {
+        "ja": "・最初にdoを書く\n・次に、処理を書く\n・最後にwhileを書き、( )の中に条件式（p.345）を書く",
+        "vi": "・Viết do trước\n・Tiếp theo, viết xử lý\n・Cuối cùng viết while và viết biểu thức điều kiện (trang 345) trong ( )",
+        "en": "・Write do first\n・Next, write processing\n・Finally write while and write conditional expression (p.345) in ( )"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "以下はdoを使って☆マークを10個分出力する例です。なお、書き方は異なりますが、出力結果は先述したwhileと同じです（p.356）。",
+      "vi": "Sau đây là ví dụ xuất 10 dấu ☆ dùng do. Tham khảo, cách viết khác nhưng kết quả xuất giống while đã nói trước (trang 356).",
+      "en": "Following is example outputting 10 ☆ marks using do. Note that writing differs but output result is same as while described earlier (p.356).",
+      "terms": [
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "個分出力",
+          "reading": "こぶんしゅつちから"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "方",
+          "reading": "かた"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "出力結果",
+          "reading": "しゅつりょくけっか"
+        },
+        {
+          "kanji": "先述",
+          "reading": "せんじゅつ"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】繰り返し処理（do）",
+        "vi": "【Ví dụ chương trình】Xử lý lặp (do)",
+        "en": "[Program Example] Loop Processing (do)"
+      },
+      "code": "整数型: cnt ← 1\ndo\n    \"☆\"を出力する\n    cnt ← cnt + 1\nwhile (cntが10以下)"
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "do",
+      "vi": "do (thực hiện)",
+      "en": "do",
+      "my": "ဒို"
+    },
+    {
+      "term": "do-while",
+      "vi": "Vòng lặp do-while (kiểm tra điều kiện sau)",
+      "en": "do-while loop (post-condition check)",
+      "my": "ဒို-ဝောင်း ကွင်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

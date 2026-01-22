@@ -1,0 +1,116 @@
+{
+    "page_id": 309,
+    "image": "p_0309.png",
+    "chapter": 8,
+    "section": "practice",
+    "page_number": 293,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "8-10",
+            "year": "令和6年度",
+            "question": {
+                "ja": "サービスデスクを評価するためには適切なKPIを定めて評価する必要がある。顧客満足度を高めるために値が小さい方が良いKPIとして、適切なものだけを全て挙げたものはどれか。",
+                "vi": "Để đánh giá Service Desk, cần xác định KPI thích hợp và đánh giá. KPI nào thích hợp mà giá trị nhỏ hơn thì tốt hơn để nâng cao sự hài lòng của khách hàng? Chọn tất cả những cái thích hợp.",
+                "en": "To evaluate Service Desk, appropriate KPIs need to be defined and evaluated. Select all appropriate KPIs where smaller value is better to increase customer satisfaction."
+            },
+            "sub_choices": [
+                {
+                    "ja": "a. SLAで合意された目標時間内に対応が完了したインシデント件数の割合",
+                    "vi": "a. Tỷ lệ số Incident được xử lý hoàn tất trong thời gian mục tiêu đã thỏa thuận trong SLA",
+                    "en": "a. Percentage of incidents handled within SLA agreed target time"
+                },
+                {
+                    "ja": "b. 1回の問合せで解決ができたインシデント件数の割合",
+                    "vi": "b. Tỷ lệ số Incident được giải quyết trong 1 lần hỏi",
+                    "en": "b. Percentage of incidents resolved in single inquiry"
+                },
+                {
+                    "ja": "c. 二次担当へエスカレーションされたインシデント件数の割合",
+                    "vi": "c. Tỷ lệ số Incident escalation đến bộ phận cấp 2",
+                    "en": "c. Percentage of incidents escalated to second-level support"
+                },
+                {
+                    "ja": "d. 利用者がサービスデスク担当者につながるまでに費やした時間",
+                    "vi": "d. Thời gian người dùng phải chờ để kết nối với nhân viên Service Desk",
+                    "en": "d. Time spent by users to connect to Service Desk staff"
+                }
+            ],
+            "choices": [
+                "ア. a, b",
+                "イ. a, d",
+                "ウ. b, c",
+                "エ. c, d"
+            ],
+            "correct_answer": "エ"
+        },
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "解答・解説",
+                "vi": "Đáp án và Giải thích",
+                "en": "Answers and Explanations"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-1",
+            "correct_answer": "ア",
+            "explanation": {
+                "ja": "SLAの目的はサービスの範囲と品質を明確にすることです。「範囲」と「品質」というキーワードが含まれている選択肢が正答であることが多いです。",
+                "vi": "Mục đích của SLA là làm rõ phạm vi và chất lượng dịch vụ. Lựa chọn có từ khóa \"phạm vi\" và \"chất lượng\" thường là đáp án đúng.",
+                "en": "SLA's purpose is to clarify service scope and quality. Choices containing keywords 'scope' and 'quality' are often correct."
+            },
+            "choices_explanation": {
+                "イ": {
+                    "ja": "システム監査の目的です。",
+                    "vi": "Là mục đích của System Audit.",
+                    "en": "This is System Audit's purpose."
+                },
+                "ウ": {
+                    "ja": "システム機能定義の目的です。",
+                    "vi": "Là mục đích của định nghĩa chức năng hệ thống.",
+                    "en": "This is system function definition's purpose."
+                },
+                "エ": {
+                    "ja": "PMBOKの知識エリアの1つ「プロジェクト資源マネジメント」の目的の1つです。",
+                    "vi": "Là một trong những mục đích của \"Project Resource Management\" trong 10 Knowledge Area của PMBOK.",
+                    "en": "This is one purpose of 'Project Resource Management' in PMBOK Knowledge Areas."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-2",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "問題文にある「サービスの品質を高めようとする」という記述から、サービスマネジメント、もしくはITサービスマネジメントであると判断できます。文中の「可用性」はサービスデリバリの範囲である「可用性管理」のことです。",
+                "vi": "Từ mô tả \"cố gắng nâng cao chất lượng dịch vụ\" trong đề bài, có thể phán đoán là Service Management hoặc IT Service Management. \"Availability\" trong câu là \"Availability Management\" thuộc phạm vi Service Delivery.",
+                "en": "From description 'trying to improve service quality' in question, can determine it's Service Management or IT Service Management. 'Availability' in text refers to 'Availability Management' within Service Delivery scope."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "技術戦略マネジメントとは、技術開発戦略の立案、計画、実行を管理することです。",
+                    "vi": "Technology Strategy Management là quản lý lập kế hoạch, kế hoạch và thực hiện chiến lược phát triển công nghệ.",
+                    "en": "Technology Strategy Management is managing planning, planning, and execution of technology development strategy."
+                },
+                "ウ": {
+                    "ja": "プロジェクトスコープマネジメントとは、プロジェクトの作業範囲を管理することです。PMBOKの10の知識エリアのうちの1つです。",
+                    "vi": "Project Scope Management là quản lý phạm vi công việc của dự án. Là 1 trong 10 Knowledge Area của PMBOK.",
+                    "en": "Project Scope Management is managing project work scope. One of PMBOK's 10 Knowledge Areas."
+                },
+                "エ": {
+                    "ja": "プロジェクトタイムマネジメント（現在の名称は「プロジェクトスケジュールマネジメント」）とは、プロジェクトのスケジュールを管理することです。PMBOKの10の知識エリアのうちの1つです。",
+                    "vi": "Project Time Management (tên hiện tại là \"Project Schedule Management\") là quản lý lịch trình dự án. Là 1 trong 10 Knowledge Area của PMBOK.",
+                    "en": "Project Time Management (current name 'Project Schedule Management') is managing project schedule. One of PMBOK's 10 Knowledge Areas."
+                }
+            }
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "has_answers": true,
+        "question_count": 1,
+        "answer_count": 2
+    }
+}

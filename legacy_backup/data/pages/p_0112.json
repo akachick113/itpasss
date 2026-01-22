@@ -1,0 +1,66 @@
+{
+    "page_id": 112,
+    "image": "p_0112.png",
+    "chapter": 2,
+    "section": "answers",
+    "page_number": 96,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "2-21",
+            "answer": "ア",
+            "explanation": {
+                "ja": "POSシステム（Point of Sales System）とは、商品が売れた際に、その商品の情報をネットワークを通じて管理することで経営に役立てる仕組みです。このPOSシステムには「JANコード」が採用されることが多いです。JANコード（Japanese Article Number Code）とは、世界共通の商品識別番号です。\n\nイ. JAS（Japanese Agricultural Standards）は、日本農林規格です。\n\nウ. JIS（Japanese Industrial Standards）は、日本産業規格です。\n\nエ. QR（Quick Response）は、記録容量の大きい2次元コードです。",
+                "vi": "POS System (Point of Sales System) là hệ thống quản lý thông tin sản phẩm qua mạng khi bán để hỗ trợ kinh doanh. JAN Code thường được sử dụng trong hệ thống POS. JAN Code (Japanese Article Number Code) là số nhận dạng sản phẩm chung toàn cầu.\n\nイ JAS (Japanese Agricultural Standards) là Tiêu chuẩn nông lâm Nhật Bản.\n\nウ JIS (Japanese Industrial Standards) là Tiêu chuẩn công nghiệp Nhật Bản.\n\nエ QR (Quick Response) là mã 2 chiều có dung lượng lớn.",
+                "en": "POS System (Point of Sales System) manages product information through network when sold to aid business. JAN Code is often used in POS systems. JAN Code (Japanese Article Number Code) is a globally common product identification number.\n\nB. JAS (Japanese Agricultural Standards) is Japanese agricultural/forestry standard.\n\nC. JIS (Japanese Industrial Standards) is Japanese industrial standard.\n\nD. QR (Quick Response) is a 2D code with large storage capacity."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-22",
+            "answer": "エ",
+            "explanation": {
+                "ja": "QRコード（Quick Response Code）は、数字だけでなく、英字や漢字など多くの情報を記録できる2次元コードです。QRコードの3つの特徴である「2次元」「英字や漢字も記録できる」「どの角度からも読み取れる」は必ず覚えておいてください。\n\nア. ASCIIコードは、ANSI（米国規格協会）が制定した文字コード体系です。\n\nイ. Gコードはテレビ番組の録画予約用のコードです。\n\nウ. JANコードは、世界共通の商品識別番号です。",
+                "vi": "QR Code (Quick Response Code) là mã 2 chiều có thể ghi nhiều thông tin như số, chữ cái, chữ Hán. Nhớ kỹ 3 đặc điểm của QR Code: 2 chiều, ghi được chữ cái và chữ Hán, đọc được từ mọi góc độ.\n\nア ASCII Code là hệ thống mã ký tự do ANSI (Hiệp hội tiêu chuẩn Mỹ) định chế.\n\nイ G Code là mã để đặt ghi hình chương trình TV.\n\nウ JAN Code là số nhận dạng sản phẩm chung toàn cầu.",
+                "en": "QR Code (Quick Response Code) is a 2D code that can record many types of information including numbers, letters, kanji. Remember QR Code's 3 features: 2D, can record letters and kanji, readable from any angle.\n\nA. ASCII Code is a character code system established by ANSI (American National Standards Institute).\n\nB. G Code is for scheduling TV program recording.\n\nC. JAN Code is a globally common product identification number."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-23",
+            "answer": "イ",
+            "explanation": {
+                "ja": "環境マネジメントシステムに関する国際規格はISO 14000シリーズです。\n\nア. ISO 9000は、品質マネジメントシステムの国際規格です。\n\nウ. ISO/IEC 20000は、ITサービスマネジメントシステムの国際規格です。\n\nエ. ISO/IEC 27000は、情報セキュリティマネジメントシステムの国際規格です。",
+                "vi": "Tiêu chuẩn quốc tế về hệ thống quản lý môi trường là ISO 14000 series.\n\nア ISO 9000 là tiêu chuẩn quốc tế về hệ thống quản lý chất lượng.\n\nウ ISO/IEC 20000 là tiêu chuẩn quốc tế về hệ thống quản lý dịch vụ IT.\n\nエ ISO/IEC 27000 là tiêu chuẩn quốc tế về hệ thống quản lý bảo mật thông tin.",
+                "en": "International standard for environmental management system is ISO 14000 series.\n\nA. ISO 9000 is international standard for quality management system.\n\nC. ISO/IEC 20000 is international standard for IT service management system.\n\nD. ISO/IEC 27000 is international standard for information security management system."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-24",
+            "answer": "イ",
+            "explanation": {
+                "ja": "品質マネジメントシステムに関する国際規格はISO 9000シリーズです。\n\nア. ISMS（Information Security Management System：情報セキュリティマネジメントシステム）とは、組織の情報資産について、機密性、完全性、可用性の3つのバランスを維持・改善するための仕組みです。\n\nウ. ITIL（Information Technology Infrastructure Library）とは、ITサービスマネジメントのベストプラクティス（最良の事例）をまとめた書籍です。\n\nエ. プライバシーマークとは、個人情報を適切に扱う事業者に与えられるマークです。",
+                "vi": "Tiêu chuẩn quốc tế về hệ thống quản lý chất lượng là ISO 9000 series.\n\nア ISMS (Information Security Management System) là cơ chế duy trì và cải thiện 3 yếu tố: tính bảo mật, toàn vẹn, khả dụng của tài sản thông tin tổ chức.\n\nウ ITIL (Information Technology Infrastructure Library) là sách tổng hợp best practice (thực tiễn tốt nhất) về quản lý dịch vụ IT.\n\nエ Privacy Mark là dấu hiệu được cấp cho doanh nghiệp xử lý thông tin cá nhân phù hợp.",
+                "en": "International standard for quality management system is ISO 9000 series.\n\nA. ISMS (Information Security Management System) maintains and improves 3 balances of organizational information assets: confidentiality, integrity, availability.\n\nC. ITIL (Information Technology Infrastructure Library) compiles IT service management best practices.\n\nD. Privacy Mark is given to businesses handling personal information appropriately."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-25",
+            "answer": "エ",
+            "explanation": {
+                "ja": "フォーラム標準とは、特定の業界団体（フォーラム）が定めた標準です。選択肢の「特定の分野に関心のある複数の企業などが集まって結成した組織」が業界団体を指します。\n\nア. 工業規格に関する記述です。ISO（国際標準化機構）やJIS（日本産業規格）などが制定する規格のうち、工業分野についてのものを指します。\n\nイ. デジュレスタンダードに関する記述です。\n\nウ. デファクトスタンダードに関する記述です。",
+                "vi": "Forum standard là tiêu chuẩn do tổ chức ngành cụ thể (forum) quy định. Trong lựa chọn, tổ chức được thành lập bởi nhiều doanh nghiệp quan tâm đến lĩnh vực cụ thể chỉ tổ chức ngành.\n\nア Mô tả về tiêu chuẩn công nghiệp. Chỉ tiêu chuẩn về lĩnh vực công nghiệp do ISO (Tổ chức tiêu chuẩn hóa quốc tế) hoặc JIS (Tiêu chuẩn công nghiệp Nhật Bản) định chế.\n\nイ Mô tả về De jure standard.\n\nウ Mô tả về De facto standard.",
+                "en": "Forum standard is set by specific industry groups (forums). In the choice, organizations formed by multiple companies interested in specific fields refers to industry groups.\n\nA. Description of industrial standards. Refers to standards in industrial field set by ISO (International Organization for Standardization) or JIS (Japanese Industrial Standards).\n\nB. Description of De jure standard.\n\nC. Description of De facto standard."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "2-21, 2-22, 2-23, 2-24, 2-25"
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "page_id": 529,
+    "image": "p_0529.png",
+    "chapter": 14,
+    "section": "Practice",
+    "page_number": 513,
+    "content": [
+        {
+            "type": "practice_header",
+            "title": {
+                "ja": "出る順！過去問＆完全解説",
+                "vi": "Câu hỏi ôn tập theo thứ tự ra đề!",
+                "en": "Practice Questions in Order of Frequency!"
+            },
+            "note": {
+                "ja": "解答・解説はp.517参照",
+                "vi": "Xem đáp án và giải thích ở trang 517",
+                "en": "See answers and explanations on p.517"
+            }
+        },
+        {
+            "type": "practice_question",
+            "number": "14-1",
+            "year": "平成28年度",
+            "question": {
+                "ja": "無線LANのネットワークを識別するために使われるものはどれか。",
+                "vi": "Cái nào được sử dụng để nhận dạng mạng LAN không dây?",
+                "en": "Which is used to identify wireless LAN network?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": "Bluetooth"
+                },
+                {
+                    "label": "イ",
+                    "text": "ESSID"
+                },
+                {
+                    "label": "ウ",
+                    "text": "LTE"
+                },
+                {
+                    "label": "エ",
+                    "text": "WPA2"
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "14-2",
+            "year": "平成24年度",
+            "question": {
+                "ja": "ルーターの説明として、適切なものはどれか。",
+                "vi": "Giải thích nào về router là phù hợp?",
+                "en": "Which is appropriate explanation of router?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "LANと電話回線を相互接続する機器で、データの変調と復調を行う。",
+                        "vi": "Thiết bị kết nối LAN và đường điện thoại, thực hiện điều chế và giải điều chế dữ liệu.",
+                        "en": "Device interconnecting LAN and phone line, performing data modulation and demodulation."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "LANの端末を相互接続する機器で、受信データのMACアドレスを解析して究先の端末に転送する。",
+                        "vi": "Thiết bị kết nối các đầu cuối LAN, phân tích địa chỉ MAC của dữ liệu nhận và chuyển tiếp đến đầu cuối đích.",
+                        "en": "Device interconnecting LAN terminals, analyzing MAC address of received data and forwarding to destination terminal."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "LANの端末を相互接続する機器で、受信データを全ての端末に転送する。",
+                        "vi": "Thiết bị kết nối các đầu cuối LAN, chuyển tiếp dữ liệu nhận đến tất cả các đầu cuối.",
+                        "en": "Device interconnecting LAN terminals, forwarding received data to all terminals."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "LANやWANを相互接続する機器で、受信データのIPアドレスを解析して適切なネットワークに転送する。",
+                        "vi": "Thiết bị kết nối LAN và WAN, phân tích địa chỉ IP của dữ liệu nhận và chuyển tiếp đến mạng thích hợp.",
+                        "en": "Device interconnecting LAN and WAN, analyzing IP address of received data and forwarding to appropriate network."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "14-3",
+            "year": "平成28年度",
+            "question": {
+                "ja": "オフィスや家庭内のネットワークからインターネットなどの他のネットワークへアクセスするときに、他のネットワークへの出入口の役割を果たすものはどれか。",
+                "vi": "Khi truy cập từ mạng văn phòng hoặc gia đình đến mạng khác như Internet, cái nào đóng vai trò cổng vào ra đến mạng khác?",
+                "en": "When accessing from office or home network to other networks like Internet, which serves as gateway to other networks?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "スプリッタ",
+                        "vi": "Splitter",
+                        "en": "Splitter"
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "デフォルトゲートウェイ",
+                        "vi": "Default Gateway",
+                        "en": "Default Gateway"
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "ハブ",
+                        "vi": "Hub",
+                        "en": "Hub"
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "リピータ",
+                        "vi": "Repeater",
+                        "en": "Repeater"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "14-4",
+            "year": "平成29年度",
+            "question": {
+                "ja": "ネットワークの構成のうち、WANに該当するものはどれか。",
+                "vi": "Trong cấu hình mạng, cái nào thuộc về WAN?",
+                "en": "Among network configurations, which corresponds to WAN?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "自社が管理する通信回線を使用して、同一敷地内の建物間を結ぶネットワーク",
+                        "vi": "Mạng kết nối giữa các tòa nhà trong cùng khuôn viên sử dụng đường truyền thông do công ty tự quản lý",
+                        "en": "Network connecting buildings in same premises using communication lines managed by own company"
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "自社ビル内のフロア間を結ぶネットワーク",
+                        "vi": "Mạng kết nối giữa các tầng trong tòa nhà công ty",
+                        "en": "Network connecting floors in own company building"
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "通信事業者の通信回線を使用して、本社と他県の支社を結ぶネットワーク",
+                        "vi": "Mạng kết nối trụ sở chính và chi nhánh ở tỉnh khác sử dụng đường truyền thông của nhà cung cấp dịch vụ truyền thông",
+                        "en": "Network connecting headquarters and branches in other prefectures using communication carrier's lines"
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "フロア内の各PCを結ぶネットワーク",
+                        "vi": "Mạng kết nối các PC trong tầng",
+                        "en": "Network connecting PCs within floor"
+                    }
+                }
+            ]
+        }
+    ],
+    "answer_key": {
+        "14-1": "イ",
+        "14-2": "エ",
+        "14-3": "イ",
+        "14-4": "ウ"
+    },
+    "meta": {
+        "is_practice": true
+    }
+}

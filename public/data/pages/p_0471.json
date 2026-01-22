@@ -1,0 +1,100 @@
+{
+  "page_id": 471,
+  "image": "p_0471.png",
+  "chapter": 13,
+  "section": "intro",
+  "page_number": 455,
+  "content": [
+    {
+      "type": "chapter_header",
+      "number": 13,
+      "title": {
+        "ja": "データベース",
+        "vi": "Cơ sở dữ liệu",
+        "en": "Database"
+      }
+    },
+    {
+      "type": "chapter_overview",
+      "content": {
+        "ja": "ここでは、データベース、およびデータベース管理システム（DBMS：Database Management System）の概要や目的を正しく理解することが大切です。また、ITパスポート試験では、データベースに格納されているデータを操作する方法もよく出題されます。",
+        "vi": "Ở đây, việc hiểu đúng tổng quan và mục đích của cơ sở dữ liệu và hệ thống quản lý cơ sở dữ liệu (DBMS: Database Management System) là quan trọng. Ngoài ra, trong kỳ thi IT Passport, phương pháp thao tác dữ liệu được lưu trong cơ sở dữ liệu cũng thường được ra đề.",
+        "en": "Here, properly understanding overview and purpose of database and Database Management System (DBMS) is important. Also, in IT Passport exam, methods for manipulating data stored in database often appear."
+      }
+    },
+    {
+      "type": "study_points",
+      "title": {
+        "ja": "ここに注目して読もう！",
+        "vi": "Hãy chú ý đọc những điểm này!",
+        "en": "Focus on These Points!"
+      },
+      "items": [
+        {
+          "ja": "データベース及びデータベース管理システム（DBMS）の意義、目的、考え方",
+          "vi": "Ý nghĩa, mục đích, cách suy nghĩ về cơ sở dữ liệu và hệ thống quản lý cơ sở dữ liệu (DBMS)",
+          "en": "Meaning, purpose, concept of database and DBMS"
+        },
+        {
+          "ja": "データの分析・設計の考え方、データベースのモデルの特徴",
+          "vi": "Cách suy nghĩ về phân tích và thiết kế dữ liệu, đặc điểm của mô hình cơ sở dữ liệu",
+          "en": "Concept of data analysis/design, database model characteristics"
+        },
+        {
+          "ja": "データの抽出などの操作方法",
+          "vi": "Phương pháp thao tác như trích xuất dữ liệu",
+          "en": "Operation methods like data extraction"
+        },
+        {
+          "ja": "排他制御など、データベースの処理方法",
+          "vi": "Phương pháp xử lý cơ sở dữ liệu như điều khiển loại trừ",
+          "en": "Database processing methods like exclusive control"
+        }
+      ],
+      "reference_url": "https://www.ipa.go.jp/shiken/syllabus/h10b0000007sxy-att/syllabus_ip_ver6_4.pdf"
+    },
+    {
+      "type": "exam_scope",
+      "title": {
+        "ja": "試験範囲全体における本章の位置づけ",
+        "vi": "Vị trí của chương này trong toàn bộ phạm vi thi",
+        "en": "Position of This Chapter in Overall Exam Scope"
+      },
+      "position": {
+        "field": {
+          "ja": "テクノロジ系",
+          "vi": "Hệ công nghệ",
+          "en": "Technology"
+        },
+        "major_category": {
+          "ja": "技術要素",
+          "vi": "Yếu tố kỹ thuật",
+          "en": "Technical Elements"
+        },
+        "highlight": {
+          "ja": "本章はココ！",
+          "vi": "Chương này ở đây!",
+          "en": "This chapter is here!"
+        }
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "データベース",
+      "vi": "Cơ sở dữ liệu",
+      "en": "Database",
+      "my": "[Database]"
+    },
+    {
+      "term": "DBMS",
+      "full": "Database Management System",
+      "vi": "Hệ thống quản lý cơ sở dữ liệu",
+      "en": "Database Management System",
+      "my": "[Database Management System]"
+    }
+  ],
+  "meta": {
+    "is_chapter_intro": true
+  }
+}

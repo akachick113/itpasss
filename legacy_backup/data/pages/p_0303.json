@@ -1,0 +1,465 @@
+{
+  "page_id": 303,
+  "image": "p_0303.png",
+  "chapter": 8,
+  "section": "08-03",
+  "page_number": 287,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "インシデント管理",
+      "reading": "いんしでんとかんり",
+      "vi": "Incident Management",
+      "en": "Incident Management",
+      "note": "5項目あるサービスサポートの中でも頻出！よく出題される！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "インシデント管理とは、サービスを迅速に復旧させる活動です。インシデント（Incident）の本来の意味は「重大事件に発展するリスクのある出来事」です。",
+      "vi": "Incident Management là hoạt động khôi phục dịch vụ nhanh chóng. Ý nghĩa gốc của Incident là \"sự kiện có nguy cơ phát triển thành sự cố nghiêm trọng\".",
+      "en": "Incident Management is activity to quickly restore service. Original meaning of Incident is 'event with risk of developing into serious incident.'",
+      "terms": [
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "迅速",
+          "reading": "じんそく"
+        },
+        {
+          "kanji": "復旧",
+          "reading": "ふっきゅう"
+        },
+        {
+          "kanji": "活動",
+          "reading": "かつどう"
+        },
+        {
+          "kanji": "本来",
+          "reading": "ほんらい"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "重大事件",
+          "reading": "じゅうだいじけん"
+        },
+        {
+          "kanji": "発展",
+          "reading": "はってん"
+        },
+        {
+          "kanji": "出来事",
+          "reading": "できごと"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験の出題範囲でのインシデントとは「正常に業務を遂行できない状況」です。具体的には「PCが起動しない」「電子メールが送信できない」といった状況をインシデントといいます。",
+      "vi": "Trong phạm vi đề thi IT Passport, Incident là \"tình huống không thể thực hiện nghiệp vụ bình thường\". Cụ thể, các tình huống như \"PC không khởi động\", \"không thể gửi email\" được gọi là Incident.",
+      "en": "In IT Passport exam scope, Incident is 'situation where normal work cannot be performed.' Specifically, situations like 'PC won't start,' 'can't send email' are called Incidents.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題範囲",
+          "reading": "しゅつだいはんい"
+        },
+        {
+          "kanji": "正常",
+          "reading": "せいじょう"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "遂行",
+          "reading": "すいこう"
+        },
+        {
+          "kanji": "状況",
+          "reading": "じょうきょう"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "起動",
+          "reading": "きどう"
+        },
+        {
+          "kanji": "電子",
+          "reading": "でんし"
+        },
+        {
+          "kanji": "送信",
+          "reading": "そうしん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "インシデント管理では、こういった状況を迅速に復旧させるための作業を行います。「インシデント管理」と聞くと、トラブルや障害の根本原因を解決するような作業をイメージする人が多いのですが、インシデント管理では問題の根本解決は行いません。サービスの継続を優先し、問題を回避する手段があるならば（それが根本解決ではなかったとしても）、それを実行します（PCの再起動など）。",
+      "vi": "Trong Incident Management, thực hiện công việc để khôi phục nhanh chóng những tình huống như vậy. Khi nghe \"Incident Management\", nhiều người hình dung công việc giải quyết nguyên nhân gốc của sự cố hoặc lỗi, nhưng Incident Management không giải quyết gốc vấn đề. Ưu tiên tiếp tục dịch vụ, nếu có cách tránh vấn đề (dù không phải giải pháp gốc), sẽ thực hiện (khởi động lại PC...).",
+      "en": "In Incident Management, work is done to quickly restore such situations. Many imagine 'Incident Management' as solving root cause of trouble or failure, but Incident Management doesn't fundamentally solve problems. Priority is service continuity; if there's way to avoid problem (even if not root solution), it's executed (PC restart, etc.).",
+      "terms": [
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "状況",
+          "reading": "じょうきょう"
+        },
+        {
+          "kanji": "迅速",
+          "reading": "じんそく"
+        },
+        {
+          "kanji": "復旧",
+          "reading": "ふっきゅう"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "聞",
+          "reading": "ぶん"
+        },
+        {
+          "kanji": "障害",
+          "reading": "しょうがい"
+        },
+        {
+          "kanji": "根本原因",
+          "reading": "こんぽんげんいん"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "根本解決",
+          "reading": "こんぽんかいけつ"
+        },
+        {
+          "kanji": "継続",
+          "reading": "けいぞく"
+        },
+        {
+          "kanji": "優先",
+          "reading": "ゆうせん"
+        },
+        {
+          "kanji": "回避",
+          "reading": "かいひ"
+        },
+        {
+          "kanji": "手段",
+          "reading": "しゅだん"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "再起動",
+          "reading": "さいきどう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "また、トラブルや障害の根本原因は次項の「問題管理」プロセスで解決します。",
+      "vi": "Ngoài ra, nguyên nhân gốc của sự cố và lỗi được giải quyết trong Process \"Problem Management\" tiếp theo.",
+      "en": "Also, root cause of trouble and failure is resolved in next 'Problem Management' Process.",
+      "terms": [
+        {
+          "kanji": "障害",
+          "reading": "しょうがい"
+        },
+        {
+          "kanji": "根本原因",
+          "reading": "こんぽんげんいん"
+        },
+        {
+          "kanji": "次項",
+          "reading": "じこう"
+        },
+        {
+          "kanji": "問題管理",
+          "reading": "もんだいかんり"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "問題管理",
+      "reading": "もんだいかんり",
+      "vi": "Problem Management",
+      "en": "Problem Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "問題管理とは、インシデント（正常に業務を遂行できない状況）の根本原因を究明し、再発を防止する活動です。前項の「インシデント管理」では障害の根本原因の究明よりも、迅速な復旧が求められますが、問題管理では、障害の根本原因の究明が主たる作業になります。",
+      "vi": "Problem Management là hoạt động tìm nguyên nhân gốc của Incident (tình huống không thể thực hiện nghiệp vụ bình thường) và ngăn chặn tái phát. \"Incident Management\" trước đòi hỏi khôi phục nhanh hơn là tìm nguyên nhân gốc của sự cố, nhưng trong Problem Management, tìm nguyên nhân gốc của sự cố là công việc chính.",
+      "en": "Problem Management is activity to investigate root cause of Incident (situation where normal work cannot be performed) and prevent recurrence. Previous 'Incident Management' requires quick restoration rather than investigating root cause, but in Problem Management, investigating root cause of failure is main work.",
+      "terms": [
+        {
+          "kanji": "問題管理",
+          "reading": "もんだいかんり"
+        },
+        {
+          "kanji": "正常",
+          "reading": "せいじょう"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "遂行",
+          "reading": "すいこう"
+        },
+        {
+          "kanji": "状況",
+          "reading": "じょうきょう"
+        },
+        {
+          "kanji": "根本原因",
+          "reading": "こんぽんげんいん"
+        },
+        {
+          "kanji": "究明",
+          "reading": "きゅうめい"
+        },
+        {
+          "kanji": "再発",
+          "reading": "さいはつ"
+        },
+        {
+          "kanji": "防止",
+          "reading": "ぼうし"
+        },
+        {
+          "kanji": "活動",
+          "reading": "かつどう"
+        },
+        {
+          "kanji": "前項",
+          "reading": "ぜんこう"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "障害",
+          "reading": "しょうがい"
+        },
+        {
+          "kanji": "迅速",
+          "reading": "じんそく"
+        },
+        {
+          "kanji": "復旧",
+          "reading": "ふっきゅう"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "インシデント≠問題",
+      "reading": "いんしでんとはもんだいではない",
+      "vi": "Incident ≠ Problem",
+      "en": "Incident ≠ Problem"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では「インシデント」と「問題」が明確に区別されています。繰り返しになりますが、インシデントとは「通常の業務を遂行できない状況」です。風邪で例えるならば、インシデントは発熱や咳などの症状です。一方で、問題とは、インシデントを引き起こしている根本原因です。風邪で例えるならばウイルスや細菌などです。「PCが起動しない状況」がインシデントであり、「電源プラグがコンセントから抜けていた」が問題です。",
+      "vi": "Trong kỳ thi IT Passport, \"Incident\" và \"Problem\" được phân biệt rõ ràng. Lặp lại, Incident là \"tình huống không thể thực hiện nghiệp vụ bình thường\". Ví dụ với cảm cúm, Incident là triệu chứng như sốt hoặc ho. Mặt khác, Problem là nguyên nhân gốc gây ra Incident. Ví dụ với cảm cúm là virus hoặc vi khuẩn. \"Tình huống PC không khởi động\" là Incident, \"phích cắm bị rút khỏi ổ điện\" là Problem.",
+      "en": "In IT Passport exam, 'Incident' and 'Problem' are clearly distinguished. To repeat, Incident is 'situation where normal work cannot be performed.' Like cold, Incident is symptoms like fever or cough. On other hand, Problem is root cause causing Incident. Like cold, it's virus or bacteria. 'Situation where PC won't start' is Incident, 'power plug unplugged from outlet' is Problem.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "区別",
+          "reading": "くべつ"
+        },
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "遂行",
+          "reading": "すいこう"
+        },
+        {
+          "kanji": "状況",
+          "reading": "じょうきょう"
+        },
+        {
+          "kanji": "風邪",
+          "reading": "かぜ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "発熱",
+          "reading": "はつねつ"
+        },
+        {
+          "kanji": "咳",
+          "reading": "せき"
+        },
+        {
+          "kanji": "症状",
+          "reading": "しょうじょう"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "引",
+          "reading": "ひき"
+        },
+        {
+          "kanji": "起",
+          "reading": "き"
+        },
+        {
+          "kanji": "根本原因",
+          "reading": "こんぽんげんいん"
+        },
+        {
+          "kanji": "細菌",
+          "reading": "さいきん"
+        },
+        {
+          "kanji": "起動",
+          "reading": "きどう"
+        },
+        {
+          "kanji": "電源",
+          "reading": "でんげん"
+        },
+        {
+          "kanji": "抜",
+          "reading": "ばつ"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "サービスサポートにおける「インシデント」と「問題」の違いが出題される。インシデントは「状況」、問題は「根本原因」",
+          "vi": "Ra đề về sự khác biệt giữa \"Incident\" và \"Problem\" trong Service Support. Incident là \"tình huống\", Problem là \"nguyên nhân gốc\"",
+          "en": "Difference between 'Incident' and 'Problem' in Service Support is tested. Incident is 'situation,' Problem is 'root cause'"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "インシデント",
+      "reading": "いんしでんと",
+      "romaji": "Incident",
+      "vi": "Sự cố",
+      "en": "Incident",
+      "my": "အဖြစ်အပျက်"
+    },
+    {
+      "kanji": "問題",
+      "reading": "もんだい",
+      "romaji": "Mondai",
+      "vi": "Vấn đề",
+      "en": "Problem",
+      "my": "မေးခွန်း"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

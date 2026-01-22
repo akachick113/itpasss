@@ -1,0 +1,141 @@
+{
+    "page_id": 65,
+    "image": "p_0065.png",
+    "chapter": 1,
+    "section": "practice",
+    "page_number": 49,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "1-17",
+            "year": "平成25年度",
+            "question": {
+                "ja": "製品Aの生産及び販売に必要な固定費は年間3,000万円である。製品Aの単価が2万円、生産及び販売に掛かる1個当たりの変動費が5,000円であるとき、製品Aの損益分岐点における販売個数は何個か。",
+                "vi": "Chi phí cố định cần thiết để sản xuất và bán sản phẩm A là 30 triệu yên/năm. Khi đơn giá sản phẩm A là 20,000 yên, chi phí biến đổi mỗi sản phẩm là 5,000 yên, số lượng bán tại điểm hòa vốn của sản phẩm A là bao nhiêu?",
+                "en": "Fixed costs for producing and selling Product A are 30 million yen per year. When Product A's unit price is 20,000 yen and variable cost per unit is 5,000 yen, what is the break-even point sales quantity?"
+            },
+            "options": {
+                "ja": [
+                    "ア. 1,500",
+                    "イ. 2,000",
+                    "ウ. 4,000",
+                    "エ. 6,000"
+                ],
+                "vi": [
+                    "ア. 1,500",
+                    "イ. 2,000",
+                    "ウ. 4,000",
+                    "エ. 6,000"
+                ],
+                "en": [
+                    "A. 1,500",
+                    "B. 2,000",
+                    "C. 4,000",
+                    "D. 6,000"
+                ]
+            },
+            "answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "1-18",
+            "year": "平成25年度",
+            "question": {
+                "ja": "ROE（Return On Equity）を説明したものはどれか。",
+                "vi": "Giải thích nào mô tả ROE (Return On Equity)?",
+                "en": "Which explanation describes ROE (Return On Equity)?"
+            },
+            "options": {
+                "ja": [
+                    "ア. 株主だけでなく、債権者も含めた資金提供者の立場から、企業が所有している資産全体の収益性を表す指標",
+                    "イ. 株主の立場から、企業が、どれだけ資本コストを上回る利益を生み出したかを表す指標",
+                    "ウ. 現在の株価が、前期実績又は今期予想の1株当たり利益の何倍かを表す指標",
+                    "エ. 自己資本に対して、どれだけの利益を生み出したかを表す指標"
+                ],
+                "vi": [
+                    "ア. Chỉ số thể hiện lợi nhuận của toàn bộ tài sản doanh nghiệp sở hữu, từ góc độ nhà cung cấp vốn bao gồm cả chủ nợ, không chỉ cổ đông",
+                    "イ. Chỉ số thể hiện từ góc độ cổ đông, doanh nghiệp đã tạo ra bao nhiêu lợi nhuận vượt chi phí vốn",
+                    "ウ. Chỉ số thể hiện giá cổ phiếu hiện tại gấp bao nhiêu lần lợi nhuận mỗi cổ phiếu của kỳ trước hoặc dự kiến kỳ này",
+                    "エ. Chỉ số thể hiện đã tạo ra bao nhiêu lợi nhuận so với vốn tự có"
+                ],
+                "en": [
+                    "A. Indicator showing profitability of all company assets from the perspective of fund providers including creditors, not just shareholders",
+                    "B. Indicator showing from shareholders' perspective how much profit exceeded capital cost",
+                    "C. Indicator showing how many times current stock price is compared to earnings per share",
+                    "D. Indicator showing how much profit was generated relative to equity"
+                ]
+            },
+            "answer": "エ"
+        },
+        {
+            "type": "exam_question",
+            "number": "1-19",
+            "year": "平成2年度",
+            "question": {
+                "ja": "財務諸表のうち、\"営業活動\"、\"投資活動\"、\"財務活動\"の三つの活動区分に分けて表すものはどれか。",
+                "vi": "Trong các báo cáo tài chính, báo cáo nào được chia thành 3 phân loại hoạt động: \"Hoạt động kinh doanh\", \"Hoạt động đầu tư\", \"Hoạt động tài chính\"?",
+                "en": "Which financial statement is divided into 3 activity categories: Operating Activities, Investing Activities, and Financing Activities?"
+            },
+            "options": {
+                "ja": [
+                    "ア. キャッシュフロー計算書",
+                    "イ. 損益計算書",
+                    "ウ. 貸借対照表",
+                    "エ. 有価証券報告書"
+                ],
+                "vi": [
+                    "ア. Báo cáo lưu chuyển tiền tệ",
+                    "イ. Báo cáo kết quả kinh doanh",
+                    "ウ. Bảng cân đối kế toán",
+                    "エ. Báo cáo chứng khoán"
+                ],
+                "en": [
+                    "A. Cash Flow Statement",
+                    "B. Income Statement",
+                    "C. Balance Sheet",
+                    "D. Securities Report"
+                ]
+            },
+            "answer": "ア"
+        },
+        {
+            "type": "exam_question",
+            "number": "1-20",
+            "year": "令和6年度",
+            "question": {
+                "ja": "ある商品の販売量と気温の関係が一次式で近似できるとき、予測した気温から商品の販売量を推定する手法として、適切なものはどれか。",
+                "vi": "Khi mối quan hệ giữa lượng bán hàng và nhiệt độ có thể xấp xỉ bằng phương trình bậc nhất, phương pháp nào phù hợp để ước tính lượng bán từ nhiệt độ dự đoán?",
+                "en": "When the relationship between sales volume and temperature can be approximated by a linear equation, which method is appropriate to estimate sales from predicted temperature?"
+            },
+            "options": {
+                "ja": [
+                    "ア. 回帰分析",
+                    "イ. 線形計画法",
+                    "ウ. デルファイ法",
+                    "エ. パレート分析"
+                ],
+                "vi": [
+                    "ア. Phân tích hồi quy",
+                    "イ. Quy hoạch tuyến tính",
+                    "ウ. Phương pháp Delphi",
+                    "エ. Phân tích Pareto"
+                ],
+                "en": [
+                    "A. Regression Analysis",
+                    "B. Linear Programming",
+                    "C. Delphi Method",
+                    "D. Pareto Analysis"
+                ]
+            },
+            "answer": "ア"
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_practice_page": true,
+        "questions_covered": "1-17, 1-18, 1-19, 1-20",
+        "answers": "イ, エ, ア, ア"
+    }
+}

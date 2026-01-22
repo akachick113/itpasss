@@ -1,0 +1,155 @@
+{
+    "page_id": 235,
+    "image": "p_0235.png",
+    "chapter": 5,
+    "section": "practice",
+    "page_number": 219,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "5-23",
+            "year": "平成30年度",
+            "question": {
+                "ja": "ある業務システムの新規開発を計画している企業が、SIベンダーに出すRFPの目的として、最も適切なものはどれか。",
+                "vi": "Mục đích phù hợp nhất của RFP mà một doanh nghiệp đang lên kế hoạch phát triển mới hệ thống nghiệp vụ gửi cho SI Vendor là gì?",
+                "en": "What is the most appropriate purpose of an RFP that a company planning new business system development sends to SI vendors?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "開発する業務システムの実現方法とその可能性を知るために、ベンダーから必要な技術情報を得たい。",
+                    "vi": "Muốn nhận thông tin kỹ thuật cần thiết từ vendor để biết phương pháp triển khai và khả năng của hệ thống nghiệp vụ cần phát triển.",
+                    "en": "Want to obtain necessary technical information from vendors to know the implementation method and feasibility of the business system to be developed."
+                },
+                {
+                    "label": "イ",
+                    "ja": "業務システムの開発を依頼する候補を絞り込むために、得られる情報からベンダーの能力を見たい。",
+                    "vi": "Muốn xem năng lực của vendor từ thông tin thu được để thu hẹp ứng viên ủy thác phát triển hệ thống nghiệp vụ.",
+                    "en": "Want to see vendor capabilities from obtained information to narrow down candidates for commissioning business system development."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "業務システムの開発を依頼するために、ベンダーの示す提案内容から最適な依頼先を選定したい。",
+                    "vi": "Muốn chọn đối tác ủy thác tối ưu từ nội dung đề xuất mà vendor đưa ra để ủy thác phát triển hệ thống nghiệp vụ.",
+                    "en": "Want to select the optimal partner from vendor proposals to commission business system development.",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "業務システムの開発を依頼するベンダーと機密保持契約を結ぶため、ベンダーからの了解を取り付けたい。",
+                    "vi": "Muốn có sự đồng ý từ vendor để ký hợp đồng bảo mật với vendor ủy thác phát triển hệ thống nghiệp vụ.",
+                    "en": "Want to obtain vendor consent to sign a confidentiality agreement with the vendor commissioning business system development."
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-24",
+            "year": "令和7年度",
+            "question": {
+                "ja": "新しいITソリューションの活用の是非を判断するために、そのITソリューションの提供者に、活用事例や技術情報などの提供を依頼する文書として、最も適切なものはどれか。",
+                "vi": "Tài liệu phù hợp nhất để yêu cầu nhà cung cấp IT Solution cung cấp các ví dụ ứng dụng và thông tin kỹ thuật nhằm đánh giá có nên sử dụng IT Solution mới hay không?",
+                "en": "What is the most appropriate document to request IT solution providers to provide application examples and technical information to judge whether to use new IT solutions?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "EDI",
+                    "vi": "EDI",
+                    "en": "EDI"
+                },
+                {
+                    "label": "イ",
+                    "ja": "KPI",
+                    "vi": "KPI",
+                    "en": "KPI"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "RFI",
+                    "vi": "RFI",
+                    "en": "RFI",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "RFP",
+                    "vi": "RFP",
+                    "en": "RFP"
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "ja": "解答・解説",
+            "vi": "Đáp án & Giải thích",
+            "en": "Answers & Explanations"
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-11",
+            "answer": "イ",
+            "explanation": {
+                "ja": "「情報を収集・発信」というキーワードから、情報リテラシーの説明であると判断できます。",
+                "vi": "Từ keyword \"thu thập, phát thông tin\", có thể phán đoán đây là giải thích về Information Literacy.",
+                "en": "From the keyword 'collecting and sending information,' it can be judged as explaining Information Literacy."
+            },
+            "choice_explanations": [
+                {
+                    "label": "ア",
+                    "ja": "デジタルディバイドの説明です。",
+                    "vi": "Đây là giải thích về Digital Divide.",
+                    "en": "This explains Digital Divide."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ITガバナンスの説明です。",
+                    "vi": "Đây là giải thích về IT Governance.",
+                    "en": "This explains IT Governance."
+                },
+                {
+                    "label": "エ",
+                    "ja": "アクセシビリティの説明です。",
+                    "vi": "Đây là giải thích về Accessibility.",
+                    "en": "This explains Accessibility."
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-12",
+            "answer": "イ",
+            "explanation": {
+                "ja": "データから「有用な情報を抽出」というキーワードからデータマイニングの説明だと判断できます。",
+                "vi": "Từ keyword \"trích xuất thông tin hữu ích\" từ dữ liệu, có thể phán đoán đây là giải thích về Data Mining.",
+                "en": "From the keyword 'extract useful information' from data, it can be judged as explaining Data Mining."
+            },
+            "choice_explanations": [
+                {
+                    "label": "ア",
+                    "ja": "データクレンジングは、データベースの中にあるデータの間違いや重複を修正して、データの品質を高くすることです。クレンジングとは「洗う」という意味です。",
+                    "vi": "Data Cleansing là sửa lỗi và trùng lặp trong dữ liệu database để nâng cao chất lượng dữ liệu. Cleansing có nghĩa là \"rửa\".",
+                    "en": "Data Cleansing is correcting errors and duplicates in database data to improve data quality. Cleansing means 'washing.'"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "データマネージングとは、データを適切に管理して、信頼性と整合性を確保することです。",
+                    "vi": "Data Managing là quản lý dữ liệu phù hợp để đảm bảo độ tin cậy và tính nhất quán.",
+                    "en": "Data Managing is appropriately managing data to ensure reliability and consistency."
+                },
+                {
+                    "label": "エ",
+                    "ja": "データモデリングとは、データ同士の関係を単純化して図に表すことです。データベースを設計する際に必要となる図を作ることです。",
+                    "vi": "Data Modeling là đơn giản hóa mối quan hệ giữa các dữ liệu và biểu diễn bằng sơ đồ. Là tạo sơ đồ cần thiết khi thiết kế database.",
+                    "en": "Data Modeling is simplifying relationships between data and representing them in diagrams. It's creating diagrams needed when designing databases."
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 2,
+        "has_answers": true,
+        "answer_count": 2
+    }
+}

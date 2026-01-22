@@ -1,0 +1,434 @@
+{
+  "page_id": 342,
+  "image": "p_0342.png",
+  "chapter": 9,
+  "section": "09-02",
+  "page_number": 326,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "論理演算の具体例",
+      "reading": "ろんりえんざんのぐたいれい",
+      "vi": "Ví dụ cụ thể của Phép toán Logic",
+      "en": "Specific Examples of Logical Operations"
+    },
+    {
+      "type": "paragraph",
+      "ja": "論理演算で扱う値は0と1の2種類しかありませんが、0を「偽」（正しくない）、1を「真」（正しい）という意味に置き換えることで、さまざまな計算ができるようになります。例えば、AND演算は左項と右項の両方が「1」の場合のみ、「1」となる論理演算であるため、次の計算結果が「1」の場合、その対象は「成人女性」であると判断できます。",
+      "vi": "Phép toán logic chỉ xử lý 2 loại giá trị 0 và 1, nhưng bằng cách thay thế 0 là \"sai\" (không đúng), 1 là \"đúng\" (chính xác), có thể thực hiện nhiều phép tính. Ví dụ, AND chỉ cho kết quả \"1\" khi cả bên trái và bên phải đều là \"1\", nên nếu kết quả sau là \"1\", có thể phán đoán đối tượng là \"phụ nữ trưởng thành\".",
+      "en": "Logical operations handle only 2 values: 0 and 1, but by replacing 0 with 'false' and 1 with 'true,' various calculations become possible. For example, AND returns '1' only when both left and right are '1,' so if following result is '1,' target can be judged as 'adult woman.'",
+      "terms": [
+        {
+          "kanji": "論理演算",
+          "reading": "ろんりえんざん"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "偽",
+          "reading": "にせ"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "真",
+          "reading": "まこと"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "換",
+          "reading": "かん"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "演算",
+          "reading": "えんざん"
+        },
+        {
+          "kanji": "左項",
+          "reading": "ひだりこう"
+        },
+        {
+          "kanji": "右項",
+          "reading": "みぎこう"
+        },
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "計算結果",
+          "reading": "けいさんけっか"
+        },
+        {
+          "kanji": "対象",
+          "reading": "たいしょう"
+        },
+        {
+          "kanji": "成人女性",
+          "reading": "せいじんじょせい"
+        },
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        }
+      ]
+    },
+    {
+      "type": "example_box",
+      "content": {
+        "ja": "18歳以上 AND 女性",
+        "vi": "Trên 18 tuổi AND Nữ",
+        "en": "18+ years AND Female"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "もしあなたが18歳未満であれば、「18歳以上」と記載されている左の項目に対しては偽であるため「0」になります。18歳以上なら「1」（真）になります。",
+      "vi": "Nếu bạn dưới 18 tuổi, với mục bên trái ghi \"trên 18 tuổi\" là sai nên là \"0\". Nếu trên 18 tuổi thì là \"1\" (đúng).",
+      "en": "If under 18, for left item stating '18+' it's false so '0.' If 18+, it's '1' (true).",
+      "terms": [
+        {
+          "kanji": "歳未満",
+          "reading": "としみまん"
+        },
+        {
+          "kanji": "歳以上",
+          "reading": "としいじょう"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "左",
+          "reading": "ひだり"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "偽",
+          "reading": "にせ"
+        },
+        {
+          "kanji": "真",
+          "reading": "まこと"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "そして、もしあなたが男性ならば、「女性」と記載されている右の項目に対しては偽であるため「0」になります。女性なら「1」（真）になります。",
+      "vi": "Và nếu bạn là nam, với mục bên phải ghi \"nữ\" là sai nên là \"0\". Nếu là nữ thì là \"1\" (đúng).",
+      "en": "And if male, for right item stating 'female' it's false so '0.' If female, it's '1' (true).",
+      "terms": [
+        {
+          "kanji": "男性",
+          "reading": "だんせい"
+        },
+        {
+          "kanji": "女性",
+          "reading": "じょせい"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "右",
+          "reading": "みぎ"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "偽",
+          "reading": "にせ"
+        },
+        {
+          "kanji": "真",
+          "reading": "まこと"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "この計算式の論理演算子はANDなので、「18歳以上」、かつ、「女性」の場合、計算結果が「1」（真）になります。",
+      "vi": "Toán tử logic của công thức này là AND nên trường hợp \"trên 18 tuổi\" đồng thời \"nữ\", kết quả là \"1\" (đúng).",
+      "en": "This formula's operator is AND, so when '18+' and 'female,' result is '1' (true).",
+      "terms": [
+        {
+          "kanji": "計算式",
+          "reading": "けいさんしき"
+        },
+        {
+          "kanji": "論理演算子",
+          "reading": "ろんりえんざんこ"
+        },
+        {
+          "kanji": "歳以上",
+          "reading": "としいじょう"
+        },
+        {
+          "kanji": "女性",
+          "reading": "じょせい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "計算結果",
+          "reading": "けいさんけっか"
+        },
+        {
+          "kanji": "真",
+          "reading": "まこと"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "論理演算の例",
+        "vi": "Ví dụ phép toán logic",
+        "en": "Logical Operation Example"
+      },
+      "cases": [
+        {
+          "case": {
+            "ja": "18歳以上の女性の場合",
+            "vi": "Trường hợp nữ trên 18 tuổi",
+            "en": "18+ female case"
+          },
+          "calculation": "18歳以上 AND 女性 = 1 AND 1 = 1（真）"
+        },
+        {
+          "case": {
+            "ja": "18歳以上の男性の場合",
+            "vi": "Trường hợp nam trên 18 tuổi",
+            "en": "18+ male case"
+          },
+          "calculation": "18歳以上 AND 女性 = 1 AND 0 = 0（偽）"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "括弧の扱い",
+      "reading": "かっこのあつかい",
+      "vi": "Xử lý ngoặc",
+      "en": "Handling Parentheses"
+    },
+    {
+      "type": "paragraph",
+      "ja": "論理演算には、四則演算と同様に、計算の優先順位を示す括弧「（）」も用意されています。使用ルールは四則演算と同じです。括弧内の計算を先に行うだけです。",
+      "vi": "Phép toán logic cũng có ngoặc \"()\" để chỉ thứ tự ưu tiên tính toán giống như tứ tắc. Quy tắc sử dụng giống tứ tắc. Chỉ cần tính trong ngoặc trước.",
+      "en": "Logical operations also have parentheses '()' to show calculation priority like arithmetic. Usage rules are same as arithmetic. Just calculate inside parentheses first.",
+      "terms": [
+        {
+          "kanji": "論理演算",
+          "reading": "ろんりえんざん"
+        },
+        {
+          "kanji": "四則演算",
+          "reading": "しそくえんざん"
+        },
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "優先順位",
+          "reading": "ゆうせんじゅんい"
+        },
+        {
+          "kanji": "示",
+          "reading": "じ"
+        },
+        {
+          "kanji": "括弧",
+          "reading": "かっこ"
+        },
+        {
+          "kanji": "用意",
+          "reading": "ようい"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "括弧内",
+          "reading": "かっこない"
+        },
+        {
+          "kanji": "先",
+          "reading": "さき"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "example_box",
+      "content": {
+        "ja": "18歳以上 AND（女性 OR 学生）",
+        "vi": "Trên 18 tuổi AND (Nữ OR Sinh viên)",
+        "en": "18+ AND (Female OR Student)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記の論理演算では、まず「女性 OR 学生」が処理されます。OR演算ではいずれかが「1」（真）の場合に計算結果が「1」（真）になるので、女性であるか、または、学生であれば、右の項目は「1」（真）になります。",
+      "vi": "Trong phép toán logic trên, trước tiên \"Nữ OR Sinh viên\" được xử lý. Với OR, nếu một trong hai là \"1\" (đúng) thì kết quả là \"1\" (đúng), nên nếu là nữ hoặc sinh viên thì mục bên phải là \"1\" (đúng).",
+      "en": "In above logical operation, first 'Female OR Student' is processed. In OR, if either is '1' (true), result is '1' (true), so if female or student, right item is '1' (true).",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "論理演算",
+          "reading": "ろんりえんざん"
+        },
+        {
+          "kanji": "女性",
+          "reading": "じょせい"
+        },
+        {
+          "kanji": "学生",
+          "reading": "がくせい"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "演算",
+          "reading": "えんざん"
+        },
+        {
+          "kanji": "真",
+          "reading": "まこと"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "計算結果",
+          "reading": "けいさんけっか"
+        },
+        {
+          "kanji": "右",
+          "reading": "みぎ"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このことから、上記の論理演算では「18歳以上のうち、女性または学生の場合」に、計算結果が「1」（真）になります。",
+      "vi": "Từ đó, trong phép toán logic trên, trường hợp \"trên 18 tuổi, là nữ hoặc sinh viên\" thì kết quả là \"1\" (đúng).",
+      "en": "From this, in above logical operation, when '18+, female or student,' result is '1' (true).",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "論理演算",
+          "reading": "ろんりえんざん"
+        },
+        {
+          "kanji": "歳以上",
+          "reading": "としいじょう"
+        },
+        {
+          "kanji": "女性",
+          "reading": "じょせい"
+        },
+        {
+          "kanji": "学生",
+          "reading": "がくせい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "計算結果",
+          "reading": "けいさんけっか"
+        },
+        {
+          "kanji": "真",
+          "reading": "まこと"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "has_diagram": true
+  }
+}

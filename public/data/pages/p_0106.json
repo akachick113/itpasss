@@ -1,0 +1,134 @@
+{
+    "page_id": 106,
+    "image": "p_0106.png",
+    "chapter": 2,
+    "section": "questions",
+    "page_number": 90,
+    "content": [
+        {
+            "type": "section_header",
+            "ja": "出る順！過去問＆完全解説",
+            "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích đầy đủ",
+            "en": "By Frequency! Past Questions & Full Explanations"
+        },
+        {
+            "type": "exam_question",
+            "number": "2-13",
+            "year": "平成21年度",
+            "question": {
+                "ja": "コンプライアンス経営を説明したものはどれか。",
+                "vi": "Đâu là giải thích về kinh doanh tuân thủ (Compliance)?",
+                "en": "Which explains compliance management?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "株主に対して企業活動の正当性を保持するために、経営管理が適切に行われているかどうかを監視し、点検する。",
+                    "vi": "Giám sát và kiểm tra xem quản lý kinh doanh có phù hợp không để duy trì tính hợp pháp của hoạt động doanh nghiệp với cổ đông.",
+                    "en": "Monitor and check if management is appropriate to maintain legitimacy of corporate activities to shareholders."
+                },
+                {
+                    "label": "イ",
+                    "ja": "株主やそのほかの利害関係者に対して、経営活動の内容、実績に関する説明責任を負う。",
+                    "vi": "Chịu trách nhiệm giải thích nội dung và thành tích hoạt động kinh doanh với cổ đông và các bên liên quan khác.",
+                    "en": "Bear responsibility to explain business content and results to shareholders and other stakeholders."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "企業倫理に基づき、ルール、マニュアル、チェックシステムなどを整備して、法令や社会規範を遵守した企業活動を行う。",
+                    "vi": "Dựa trên đạo đức doanh nghiệp, chuẩn bị quy tắc, hướng dẫn, hệ thống kiểm tra, và tiến hành hoạt động tuân thủ pháp luật và chuẩn mực xã hội.",
+                    "en": "Based on corporate ethics, prepare rules, manuals, check systems to conduct activities complying with laws and social norms.",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "投資家やアナリストに対して、投資判断に必要な正確な経営情報を適時に、かつ続けて提供する。",
+                    "vi": "Cung cấp thông tin kinh doanh chính xác cần thiết cho quyết định đầu tư cho nhà đầu tư và nhà phân tích kịp thời và liên tục.",
+                    "en": "Provide accurate business information necessary for investment decisions to investors and analysts timely and continuously."
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-14",
+            "year": "令和5年度",
+            "question": {
+                "ja": "ソーシャルメディアポリシーを制定する目的として、適切なものだけを全て挙げたものはどれか。\n\na. 企業がソーシャルメディアを使用する際の心得やルールなどを取り決めて、社外の人々が理解できるようにするため\nb. 企業に属する役員や従業員が、公私関らずにソーシャルメディアを使用する際のルールを示すため\nc. ソーシャルメディアが企業に対して取材や問い合わせを行う際の条件や窓口での取扱いのルールを示すため",
+                "vi": "Mục đích lập chính sách mạng xã hội, đâu là tất cả các mục đích phù hợp?\n\na. Để người bên ngoài hiểu được quy tắc và nguyên tắc khi doanh nghiệp sử dụng mạng xã hội\nb. Để chỉ ra quy tắc khi giám đốc và nhân viên thuộc doanh nghiệp sử dụng mạng xã hội bất kể công tư\nc. Để chỉ ra điều kiện và quy tắc xử lý khi mạng xã hội phỏng vấn hoặc liên hệ doanh nghiệp",
+                "en": "As purposes for establishing social media policy, which are ALL appropriate?\n\na. For people outside to understand rules when company uses social media\nb. To show rules when executives and employees use social media regardless of public/private\nc. To show conditions and handling rules when social media interviews or contacts company"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "a",
+                    "vi": "a",
+                    "en": "a"
+                },
+                {
+                    "label": "イ",
+                    "ja": "a, b",
+                    "vi": "a, b",
+                    "en": "a, b",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "a, c",
+                    "vi": "a, c",
+                    "en": "a, c"
+                },
+                {
+                    "label": "エ",
+                    "ja": "b, c",
+                    "vi": "b, c",
+                    "en": "b, c"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-15",
+            "year": "平成25年度",
+            "question": {
+                "ja": "個人情報に該当しないものはどれか。",
+                "vi": "Đâu KHÔNG phải là thông tin cá nhân?",
+                "en": "Which is NOT personal information?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "50音別電話帳に記載されている氏名、住所、電話番号",
+                    "vi": "Họ tên, địa chỉ, số điện thoại trong danh bạ theo thứ tự bảng chữ cái",
+                    "en": "Name, address, phone number in alphabetical phone directory"
+                },
+                {
+                    "label": "イ",
+                    "ja": "自社の従業員の氏名、住所が記載された住所録",
+                    "vi": "Sổ địa chỉ ghi tên và địa chỉ nhân viên công ty",
+                    "en": "Address book with company employee names and addresses"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "社員コードだけで構成され、他の情報と容易に照合できない社員リスト",
+                    "vi": "Danh sách nhân viên chỉ gồm mã nhân viên, không dễ dàng đối chiếu với thông tin khác",
+                    "en": "Employee list consisting only of employee codes, not easily matched with other information",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "防犯カメラに記録された、個人が識別できる映像",
+                    "vi": "Video ghi lại bởi camera an ninh có thể nhận dạng cá nhân",
+                    "en": "Video recorded by security camera that can identify individuals"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "questions_covered": "2-13, 2-14, 2-15",
+        "answers": "2-13: ウ, 2-14: イ, 2-15: ウ"
+    }
+}

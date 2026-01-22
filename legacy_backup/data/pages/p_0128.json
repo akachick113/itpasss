@@ -1,0 +1,134 @@
+{
+    "page_id": 128,
+    "image": "p_0128.png",
+    "chapter": 3,
+    "section": "questions",
+    "page_number": 112,
+    "content": [
+        {
+            "type": "section_header",
+            "ja": "出る順！過去問＆完全解説",
+            "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích đầy đủ",
+            "en": "By Frequency! Past Questions & Full Explanations"
+        },
+        {
+            "type": "exam_question",
+            "number": "3-1",
+            "year": "平成21年度",
+            "question": {
+                "ja": "プロダクトポートフォリオマネジメントでは、縦軸に市場成長率、横軸に市場占有率をとったマトリックス図を四つの象限に区分し、製品の市場における位置付けを分析して資源配分を検討する。四つの象限のうち、市場成長率は低いが市場占有率を高く保っている製品の位置付けはどれか。",
+                "vi": "Trong PPM, ma trận với trục dọc là tốc độ tăng trưởng thị trường và trục ngang là thị phần được chia thành 4 phần để phân tích vị trí sản phẩm trên thị trường và xem xét phân bổ nguồn lực. Trong 4 phần, đâu là vị trí của sản phẩm có tốc độ tăng trưởng thấp nhưng thị phần cao?",
+                "en": "In PPM, a matrix with market growth rate on vertical axis and market share on horizontal is divided into 4 quadrants to analyze product market positioning and resource allocation. Which is the position of products with low growth rate but high market share?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "金のなる木",
+                    "vi": "Bò sữa (Cash Cow)",
+                    "en": "Cash Cow",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "花形製品",
+                    "vi": "Ngôi sao (Star)",
+                    "en": "Star"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "負け犬",
+                    "vi": "Chó (Dog)",
+                    "en": "Dog"
+                },
+                {
+                    "label": "エ",
+                    "ja": "問題児",
+                    "vi": "Dấu hỏi (Question Mark)",
+                    "en": "Question Mark"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "3-2",
+            "year": "サンプル問題",
+            "question": {
+                "ja": "SWOT分析は、企業の戦略立案の際に、機会と脅威、強みと弱みを検討する分析手法である。強みと弱みの評価の対象となるものはどれか。",
+                "vi": "SWOT Analysis là phương pháp phân tích xem xét cơ hội và mối đe dọa, điểm mạnh và điểm yếu khi lập chiến lược doanh nghiệp. Đâu là đối tượng đánh giá điểm mạnh và điểm yếu?",
+                "en": "SWOT Analysis examines opportunities, threats, strengths, weaknesses when developing corporate strategy. Which is the subject of strength and weakness evaluation?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "競合する企業の数",
+                    "vi": "Số lượng doanh nghiệp cạnh tranh",
+                    "en": "Number of competing companies"
+                },
+                {
+                    "label": "イ",
+                    "ja": "自社の商品価格",
+                    "vi": "Giá sản phẩm của công ty mình",
+                    "en": "Company's product price",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ターゲットとしている市場の伸び",
+                    "vi": "Tăng trưởng thị trường mục tiêu",
+                    "en": "Target market growth"
+                },
+                {
+                    "label": "エ",
+                    "ja": "日本経済の動向",
+                    "vi": "Xu hướng kinh tế Nhật Bản",
+                    "en": "Japanese economic trends"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "3-3",
+            "year": "平成24年度",
+            "question": {
+                "ja": "企業戦略におけるアライアンスの効果として適切なものはどれか。",
+                "vi": "Đâu là hiệu quả phù hợp của Alliance trong chiến lược doanh nghiệp?",
+                "en": "Which is an appropriate effect of Alliance in corporate strategy?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "異文化をもった相手企業が合併や買収によって加わることで、混乱や摩擦が生じることがあるが、有形・無形の経営資源を得ることができる。",
+                    "vi": "Khi doanh nghiệp đối tác có văn hóa khác tham gia qua sáp nhập hoặc mua lại, có thể xảy ra hỗn loạn và xung đột, nhưng có thể có được nguồn lực hữu hình và vô hình.",
+                    "en": "When partner with different culture joins through M&A, confusion and friction may occur, but tangible and intangible resources can be obtained."
+                },
+                {
+                    "label": "イ",
+                    "ja": "外部の専門業者にその企業にとって中核でない業務を委託することによって、企業本来の業務に人員をシフトすることができる。",
+                    "vi": "Bằng cách ủy thác nghiệp vụ không phải cốt lõi cho chuyên gia bên ngoài, có thể chuyển nhân sự sang nghiệp vụ chính của doanh nghiệp.",
+                    "en": "By outsourcing non-core work to external specialists, personnel can be shifted to company's core work."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "技術提携、生産や販売の委託、合弁会社の設立などによって、複数の企業が互いの独自性を維持しながら連携を強化することができる。",
+                    "vi": "Thông qua hợp tác kỹ thuật, ủy thác sản xuất/bán hàng, thành lập liên doanh, nhiều doanh nghiệp có thể tăng cường liên kết trong khi duy trì tính độc đáo.",
+                    "en": "Through technical partnerships, production/sales contracting, joint ventures, multiple companies can strengthen cooperation while maintaining uniqueness.",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "グループ企業の株式を保有することによって、本社機能に特化した会社形態として経営を行うことができる。",
+                    "vi": "Bằng cách nắm giữ cổ phiếu của doanh nghiệp tập đoàn, có thể kinh doanh dưới hình thức công ty chuyên về chức năng trụ sở chính.",
+                    "en": "By holding group company shares, can manage as company specialized in headquarters functions."
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "questions_covered": "3-1, 3-2, 3-3",
+        "answers": "3-1: ア, 3-2: イ, 3-3: ウ"
+    }
+}

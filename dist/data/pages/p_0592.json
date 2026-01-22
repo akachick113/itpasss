@@ -1,0 +1,100 @@
+{
+    "page_id": 592,
+    "image": "p_0592.png",
+    "chapter": 15,
+    "section": "answer_explanations_2",
+    "page_number": 576,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "id": "15-27",
+            "answer": "ア",
+            "explanation": {
+                "ja": "「記憶」「所有物」「生体情報」のうちの2つの要素を使って本人確認をする認証方式を2要素認証といいます。",
+                "vi": "Phương thức xác thực sử dụng 2 trong các yếu tố \"trí nhớ\", \"vật sở hữu\", \"thông tin sinh trắc\" để xác nhận bản thân được gọi là xác thực 2 yếu tố.",
+                "en": "Authentication method using 2 of elements 'memory,' 'possession,' 'biometric information' for identity verification is called 2-factor authentication."
+            },
+            "wrong_options": {
+                "イ": {
+                    "ja": "バイオメトリクス認証に関する説明です。",
+                    "vi": "Đây là giải thích về xác thực sinh trắc học.",
+                    "en": "This is explanation about biometric authentication."
+                },
+                "ウ": {
+                    "ja": "パスワード認証に関する説明です。",
+                    "vi": "Đây là giải thích về xác thực mật khẩu.",
+                    "en": "This is explanation about password authentication."
+                },
+                "エ": {
+                    "ja": "シングルサインオンの説明です。",
+                    "vi": "Đây là giải thích về Single Sign-On.",
+                    "en": "This is explanation about Single Sign-On."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "15-28",
+            "answer": "エ",
+            "explanation": {
+                "ja": "通信の暗号化に関しては「HTTPS」と「WPA2」をセットで覚えておきましょう。HTTPS（HyperText Transfer Protocol over SSL/TLS）とは、SSL/TLSを用いて「HTTPによる通信」を暗号化するためのプロトコルです。一方、WPA2（Wi-Fi Protected Access 2）とは、無線LAN上の通信を暗号化する規格です。ITパスポート試験では「HTTPS」や「WPA2」が「暗号化する範囲」が頻繁に問われます。HTTPSが暗号化する範囲は「WebブラウザからWebサーバの間」です。WPA2が暗号化する範囲は「PCからアクセスポイントまでの間」です。",
+                "vi": "Về mã hóa truyền thông, hãy nhớ \"HTTPS\" và \"WPA2\" như một cặp. HTTPS (HyperText Transfer Protocol over SSL/TLS) là giao thức mã hóa \"truyền thông bằng HTTP\" sử dụng SSL/TLS. Mặt khác, WPA2 (Wi-Fi Protected Access 2) là tiêu chuẩn mã hóa truyền thông trên mạng LAN không dây. Trong kỳ thi IT Passport, \"phạm vi mã hóa\" của \"HTTPS\" và \"WPA2\" thường được hỏi. Phạm vi HTTPS mã hóa là \"từ trình duyệt Web đến Web server\". Phạm vi WPA2 mã hóa là \"từ PC đến access point\".",
+                "en": "For communication encryption, remember 'HTTPS' and 'WPA2' as a pair. HTTPS (HyperText Transfer Protocol over SSL/TLS) is protocol encrypting 'HTTP communication' using SSL/TLS. On other hand, WPA2 (Wi-Fi Protected Access 2) is standard encrypting communication on wireless LAN. In IT Passport exam, 'encryption scope' of 'HTTPS' and 'WPA2' is frequently asked. HTTPS encryption scope is 'from Web browser to Web server.' WPA2 encryption scope is 'from PC to access point.'"
+            },
+            "wrong_options": {
+                "ア": {
+                    "ja": "MACアドレスフィルタリングは、アクセスポイントに接続できるMACアドレスを制限する機能です。なお、MACアドレスフィルタリングは不正なアクセスを防ぐ一定の効果がありますが、無線の電波は常に発信されているので、盗聴の対策にはなりません。",
+                    "vi": "Lọc địa chỉ MAC là chức năng giới hạn địa chỉ MAC có thể kết nối với access point. Ngoài ra, lọc địa chỉ MAC có hiệu quả nhất định ngăn truy cập trái phép, nhưng vì sóng vô tuyến luôn được phát ra nên không phải biện pháp đối phó nghe lén.",
+                    "en": "MAC address filtering is function limiting MAC addresses that can connect to access point. Also, MAC address filtering has certain effect preventing unauthorized access, but since wireless radio waves are always transmitted, it's not countermeasure against eavesdropping."
+                },
+                "イ": {
+                    "ja": "ESSIDステルスの説明です。ESSIDステルスとは、アクセスポイントの名前を隠す機能です。ESSIDステルスは不正なアクセスへの対策であり、無線の電波は常に発信されているので、盗聴の対策にはなりません。",
+                    "vi": "Đây là giải thích về ESSID Stealth. ESSID Stealth là chức năng ẩn tên access point. ESSID Stealth là biện pháp đối phó truy cập trái phép, vì sóng vô tuyến luôn được phát ra nên không phải biện pháp đối phó nghe lén.",
+                    "en": "This is ESSID stealth explanation. ESSID stealth is function hiding access point name. ESSID stealth is countermeasure against unauthorized access, since wireless radio waves are always transmitted, it's not countermeasure against eavesdropping."
+                },
+                "ウ": {
+                    "ja": "推測しにくいESSIDにすることは、不正なアクセスへの対策となりますが、無線の電波は常に発信されているので、盗聴の対策にはなりません。",
+                    "vi": "Đặt ESSID khó đoán là biện pháp đối phó truy cập trái phép, nhưng vì sóng vô tuyến luôn được phát ra nên không phải biện pháp đối phó nghe lén.",
+                    "en": "Setting hard-to-guess ESSID is countermeasure against unauthorized access, but since wireless radio waves are always transmitted, it's not countermeasure against eavesdropping."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "15-29",
+            "answer": "ア",
+            "explanation": {
+                "ja": "PCやハードディスクを譲渡・返却する際には、ハードディスクをランダムなデータで複数回の上書きをする必要があります。なお、選択肢イとウの方法では、ハードディスクのデータを復元できる可能性があるので、情報漏えいのリスクが高まります。また、選択肢エの方法では、譲渡・返却を受けた人がハードディスクを使用できません。",
+                "vi": "Khi chuyển nhượng hoặc trả lại PC hoặc HDD, cần ghi đè nhiều lần HDD bằng dữ liệu ngẫu nhiên. Ngoài ra, với phương pháp lựa chọn イ và ウ, có khả năng khôi phục dữ liệu HDD nên rủi ro rò rỉ thông tin tăng cao. Ngoài ra, với phương pháp lựa chọn エ, người nhận chuyển nhượng/trả lại không thể sử dụng HDD.",
+                "en": "When transferring or returning PC or hard disk, need to overwrite hard disk multiple times with random data. Also, with methods in options イ and ウ, hard disk data may be recoverable so information leakage risk increases. Also, with method in option エ, person receiving transfer/return cannot use hard disk."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "15-30",
+            "answer": "ア",
+            "explanation": {
+                "ja": "WAF（Web Application Firewall）はSQLインジェクションやクロスサイトスクリプティング（XSS）など、Webアプリケーションの脆弱性を狙った攻撃からサイトを守ります。",
+                "vi": "WAF (Web Application Firewall) bảo vệ site khỏi các cuộc tấn công nhắm vào lỗ hổng của ứng dụng Web như SQL Injection hoặc Cross-Site Scripting (XSS).",
+                "en": "WAF (Web Application Firewall) protects site from attacks targeting Web application vulnerabilities like SQL Injection or Cross-Site Scripting (XSS)."
+            },
+            "wrong_options": {
+                "イ": {
+                    "ja": "VPN（Virtual Private Network）の説明です。",
+                    "vi": "Đây là giải thích về VPN (Virtual Private Network).",
+                    "en": "This is explanation about VPN (Virtual Private Network)."
+                },
+                "ウ": {
+                    "ja": "DLP（Data Loss Prevention）の説明です。",
+                    "vi": "Đây là giải thích về DLP (Data Loss Prevention).",
+                    "en": "This is explanation about DLP (Data Loss Prevention)."
+                },
+                "エ": {
+                    "ja": "DMZ（Demilitarized Zone）の説明です。",
+                    "vi": "Đây là giải thích về DMZ (Demilitarized Zone).",
+                    "en": "This is explanation about DMZ (Demilitarized Zone)."
+                }
+            }
+        }
+    ]
+}

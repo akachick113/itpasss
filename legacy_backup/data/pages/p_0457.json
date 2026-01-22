@@ -1,0 +1,227 @@
+{
+  "page_id": 457,
+  "image": "p_0457.png",
+  "chapter": 12,
+  "section": "12-04",
+  "page_number": 441,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ITパスポート試験では、関数を使って値を計算する問題が出題されますが、関数の使い方は試験問題に掲載されているので暗記する必要はありません。記載されている使い方を見たうえで、セル番地を指定して計算するような問題が出題されます。本章末の過去問題を参考にしてください。",
+          "vi": "Trong kỳ thi IT Passport, có câu hỏi tính giá trị bằng hàm, nhưng không cần ghi nhớ vì cách sử dụng hàm được ghi trong đề thi. Sẽ có câu hỏi chỉ định địa chỉ ô và tính toán sau khi xem cách sử dụng được ghi. Hãy tham khảo đề thi cũ ở cuối chương.",
+          "en": "In IT Passport exam, questions calculating values using functions appear, but no need to memorize since function usage is written in exam. Questions specifying cell addresses and calculating after seeing written usage appear. Refer to past questions at chapter end."
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！CBT試験の場合の表計算仕様画面",
+        "vi": "Chi tiết hơn! Màn hình thông số bảng tính trong trường hợp thi CBT",
+        "en": "More Details! Spreadsheet Specification Screen for CBT Exam"
+      },
+      "content": {
+        "ja": "CBT試験では、画面右上にある「表計算仕様」ボタンを押すと、関数の使い方が表示されます。",
+        "vi": "Trong kỳ thi CBT, khi nhấn nút \"Thông số bảng tính\" ở góc trên bên phải màn hình, cách sử dụng hàm sẽ hiển thị.",
+        "en": "In CBT exam, pressing 'Spreadsheet Specification' button at top right of screen displays function usage."
+      },
+      "url": "https://www3.jitec.ipa.go.jp/JitesCbt/html/examination/trial.html"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "複写",
+      "vi": "Sao chép",
+      "en": "Copy"
+    },
+    {
+      "type": "paragraph",
+      "ja": "複写とは、あるセルの内容を別のセルにコピーすることです。一般的には「コピー」という用語が使われていますが、ITパスポート試験では「複写」という用語が使われるので覚えておいてください。",
+      "vi": "Sao chép là copy nội dung của một ô sang ô khác. Nói chung thuật ngữ \"copy\" được sử dụng, nhưng trong kỳ thi IT Passport sử dụng thuật ngữ \"sao chép\" nên hãy nhớ.",
+      "en": "Copy is copying content of one cell to another cell. Generally term 'copy' is used, but in IT Passport exam term '複写' (copy) is used so remember.",
+      "terms": [
+        {
+          "kanji": "複写",
+          "reading": "ふくしゃ"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "一般的",
+          "reading": "いっぱんてき"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "次ページの図を見てください。例えば、セルE2をセルE3に複写すると、セルE3の値は「290」になります。通常のコピーにおいては「240」が期待される結果ですが、表計算ソフトでは、自動的に花子さんの合計値を算出する計算式「合計(B3:D3)」に変換されて入力されます。",
+      "vi": "Xem hình trang sau. Ví dụ, nếu sao chép ô E2 sang ô E3, giá trị của ô E3 sẽ là \"290\". Với copy thông thường, \"240\" là kết quả mong đợi, nhưng với phần mềm bảng tính, tự động được chuyển đổi và nhập công thức tính tổng của Hanako là \"Tổng(B3:D3)\".",
+      "en": "See next page diagram. For example, if copying cell E2 to E3, E3 value becomes '290'. In normal copy '240' expected, but spreadsheet software automatically converts to formula calculating Hanako's total 'SUM(B3:D3).'",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "複写",
+          "reading": "ふくしゃ"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "期待",
+          "reading": "きたい"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "表計算",
+          "reading": "ひょうけいさん"
+        },
+        {
+          "kanji": "自動的",
+          "reading": "じどうてき"
+        },
+        {
+          "kanji": "花子",
+          "reading": "はなこ"
+        },
+        {
+          "kanji": "合計値",
+          "reading": "ごうけいち"
+        },
+        {
+          "kanji": "算出",
+          "reading": "さんしゅつ"
+        },
+        {
+          "kanji": "計算式",
+          "reading": "けいさんしき"
+        },
+        {
+          "kanji": "合計",
+          "reading": "ごうけい"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、表計算ソフトは人間の手間を省くように、自動的にセル番地を変更してくれます。",
+      "vi": "Như vậy, phần mềm bảng tính tự động thay đổi địa chỉ ô để tiết kiệm công sức con người.",
+      "en": "Like this, spreadsheet software automatically changes cell addresses to save human effort.",
+      "terms": [
+        {
+          "kanji": "表計算",
+          "reading": "ひょうけいさん"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "手間",
+          "reading": "てま"
+        },
+        {
+          "kanji": "省",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "自動的",
+          "reading": "じどうてき"
+        },
+        {
+          "kanji": "番地",
+          "reading": "ばんち"
+        },
+        {
+          "kanji": "変更",
+          "reading": "へんこう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "複写",
+      "reading": "ふくしゃ",
+      "vi": "Sao chép",
+      "en": "Copy",
+      "my": "ကော်ပီ"
+    },
+    {
+      "term": "CBT",
+      "full": "Computer Based Testing",
+      "vi": "Thi trên máy tính",
+      "en": "Computer Based Testing",
+      "my": "စီဘီတီ"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "page_id": 201,
+  "image": "p_0201.png",
+  "chapter": 5,
+  "section": "05-03",
+  "page_number": 185,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・BPRとは、業務プロセスを抜本的に再設計する手法である\n・BPMとは、業務プロセスを継続的に改善する手法である\n・ワークフローシステムとは、決裁申請手続を効率化するシステムである\n・グループウェアとは、共同作業を複数人で円滑に行うためのソフトウェアである",
+        "vi": "・BPR là phương pháp tái thiết kế triệt để quy trình nghiệp vụ\n・BPM là phương pháp cải thiện liên tục quy trình nghiệp vụ\n・Workflow System là hệ thống hiệu quả hóa thủ tục đăng ký thanh toán\n・Groupware là phần mềm để nhiều người thực hiện công việc cộng tác suôn sẻ",
+        "en": "・BPR is a method for radically redesigning business processes\n・BPM is a method for continuously improving business processes\n・Workflow System is a system that makes approval request procedures more efficient\n・Groupware is software for multiple people to smoothly perform collaborative work",
+        "my": "・ BPR သည် business processes ကို အကြမ်းဖျင်း ပြန်လည်ဒီဇိုင်းဆွဲရန် နည်းလမ်းဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "抜本的",
+            "reading": "ばっぽんてき"
+          },
+          {
+            "kanji": "再設計",
+            "reading": "さいせっけい"
+          },
+          {
+            "kanji": "手法",
+            "reading": "しゅほう"
+          },
+          {
+            "kanji": "継続的",
+            "reading": "けいぞくてき"
+          },
+          {
+            "kanji": "改善",
+            "reading": "かいぜん"
+          },
+          {
+            "kanji": "決裁申請手続",
+            "reading": "けっさいしんせいてつづき"
+          },
+          {
+            "kanji": "効率化",
+            "reading": "こうりつか"
+          },
+          {
+            "kanji": "共同作業",
+            "reading": "きょうどうさぎょう"
+          },
+          {
+            "kanji": "複数人",
+            "reading": "ふくすうにん"
+          },
+          {
+            "kanji": "円滑",
+            "reading": "えんかつ"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "RPA",
+      "reading": "あーるぴーえー",
+      "vi": "RPA",
+      "en": "RPA"
+    },
+    {
+      "type": "paragraph",
+      "ja": "RPA（Robotic Process Automation）とは、ソフトウェアロボットで事務作業を自動化することです。RPAは昨今、業務プロセスを改善する新たな手法として注目されています。\n\nRPAは出題される可能性が非常に高い用語なので、必ず覚えておいてください。特に次の2つの特徴は必修です。\n\n・RPAは工場のロボットではない\n・RPAは定型的な作業しかできない\n\nRPAに「Robotic」という言葉が含まれることから、自動車を組み立てるロボットアームのような機械を想像する人が多いのですが、RPAは「手で触ることができないソフトウェアロボット」です。ロボットには「人の代わりに仕事をする装置」という意味があり、RPAは事務作業を自動化します。\n\nもう1つのRPAの大きな特徴として「RPAはあらかじめ設定された定型的な作業しか実行できない」というものがあります。RPAが業務内容を理解して、自動的に最適な処理を実行するようなことはありません。そのためRPAは、作業ルールが変化する業務や高度な意思決定が必要な業務には向いていません。\n\n一方で、定型的な（決まり切った）、単純な事務作業に対しては、人が行うよりも正確に、かつ高速に作業を実行できます。このため、人手不足や人件費高騰が深刻化する昨今では、単純な事務作業はできるだけ、RPAを用いて自動化しようという流れになってきています。\n\nITパスポート試験ではRPAの特徴である「定型的」という言葉もキーワードになりますので、ぜひ覚えておいてください。",
+      "vi": "RPA (Robotic Process Automation) là tự động hóa công việc văn phòng bằng robot phần mềm. RPA gần đây được chú ý như phương pháp mới cải thiện quy trình nghiệp vụ.\n\nRPA là thuật ngữ có khả năng ra đề rất cao nên hãy nhớ kỹ. Đặc biệt 2 đặc điểm sau là bắt buộc:\n\n・RPA không phải robot nhà máy\n・RPA chỉ có thể làm công việc định hình\n\nVì RPA có từ Robotic nên nhiều người tưởng tượng máy móc như cánh tay robot lắp ráp ô tô, nhưng RPA là robot phần mềm không thể chạm tay. Robot có nghĩa là thiết bị làm việc thay người, RPA tự động hóa công việc văn phòng.\n\nĐặc điểm lớn khác của RPA là RPA chỉ có thể thực hiện công việc định hình được cài đặt trước. RPA không hiểu nội dung nghiệp vụ và tự động thực hiện xử lý tối ưu. Vì vậy RPA không phù hợp cho nghiệp vụ có quy tắc thay đổi hoặc cần quyết định cấp cao.\n\nMặt khác, với công việc văn phòng đơn giản, định hình, có thể thực hiện chính xác và nhanh hơn người. Vì vậy, trong bối cảnh thiếu nhân lực và chi phí nhân công tăng cao, xu hướng là tự động hóa công việc văn phòng đơn giản bằng RPA.\n\nTrong IT Passport, từ khóa định hình đặc trưng của RPA cũng là từ khóa nên hãy nhớ.",
+      "en": "RPA (Robotic Process Automation) is automating office work with software robots. RPA is recently attracting attention as a new method for improving business processes.\n\nRPA is a term very likely to be tested, so definitely remember it. Especially these 2 characteristics are essential:\n\n・RPA is not a factory robot\n・RPA can only do routine work\n\nSince RPA contains 'Robotic', many imagine machines like robot arms assembling cars, but RPA is 'software robots you can't touch'. Robot means 'device that works instead of people', and RPA automates office work.\n\nAnother major RPA characteristic is 'RPA can only execute pre-set routine work'. RPA doesn't understand work content and automatically execute optimal processing. So RPA isn't suitable for work where rules change or requiring high-level decision-making.\n\nHowever, for routine, simple office work, it can work more accurately and faster than humans. So today with labor shortages and rising labor costs, the trend is to automate simple office work with RPA.\n\nIn IT Passport, the keyword 'routine' characteristic of RPA is also a keyword, so please remember it.",
+      "my": "RPA (Robotic Process Automation) သည် software robots ဖြင့် ရုံးအလုပ်ကို အလိုအလျောက်ပြုလုပ်ခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "事務作業",
+          "reading": "じむさぎょう"
+        },
+        {
+          "kanji": "自動化",
+          "reading": "じどうか"
+        },
+        {
+          "kanji": "昨今",
+          "reading": "さっこん"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "新",
+          "reading": "しん"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "注目",
+          "reading": "ちゅうもく"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "特",
+          "reading": "とく"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "必修",
+          "reading": "ひっしゅう"
+        },
+        {
+          "kanji": "工場",
+          "reading": "こうじょう"
+        },
+        {
+          "kanji": "定型的",
+          "reading": "ていけいてき"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "自動車",
+          "reading": "じどうしゃ"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "立",
+          "reading": "りつ"
+        },
+        {
+          "kanji": "機械",
+          "reading": "きかい"
+        },
+        {
+          "kanji": "想像",
+          "reading": "そうぞう"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "手",
+          "reading": "て"
+        },
+        {
+          "kanji": "触",
+          "reading": "しょく"
+        },
+        {
+          "kanji": "代",
+          "reading": "だい"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "設定",
+          "reading": "せってい"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "業務内容",
+          "reading": "ぎょうむないよう"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "自動的",
+          "reading": "じどうてき"
+        },
+        {
+          "kanji": "最適",
+          "reading": "さいてき"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "変化",
+          "reading": "へんか"
+        },
+        {
+          "kanji": "高度",
+          "reading": "こうど"
+        },
+        {
+          "kanji": "意思決定",
+          "reading": "いしけってい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "向",
+          "reading": "こう"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "切",
+          "reading": "せつ"
+        },
+        {
+          "kanji": "単純",
+          "reading": "たんじゅん"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "正確",
+          "reading": "せいかく"
+        },
+        {
+          "kanji": "高速",
+          "reading": "こうそく"
+        },
+        {
+          "kanji": "人手不足",
+          "reading": "ひとでぶそく"
+        },
+        {
+          "kanji": "人件費高騰",
+          "reading": "じんけんひこうとう"
+        },
+        {
+          "kanji": "深刻化",
+          "reading": "しんこくか"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "RPA",
+      "reading": "あーるぴーえー",
+      "romaji": "Robotic Process Automation",
+      "vi": "Tự động hóa quy trình robot",
+      "en": "Robotic Process Automation",
+      "my": "စက်ရုပ် လုပ်ငန်းစဉ် အလိုအလျောက်"
+    },
+    {
+      "kanji": "定型的",
+      "reading": "ていけいてき",
+      "romaji": "Teikeiteki",
+      "vi": "Định hình",
+      "en": "Routine/Standardized",
+      "my": "ပုံမှန်/စံနှုန်း"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

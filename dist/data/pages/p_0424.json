@@ -1,0 +1,390 @@
+{
+  "page_id": 424,
+  "image": "p_0424.png",
+  "chapter": 11,
+  "section": "11-04",
+  "page_number": 408,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "DRAMとSRAMの違い",
+      "vi": "Sự khác biệt giữa DRAM và SRAM",
+      "en": "Difference Between DRAM and SRAM"
+    },
+    {
+      "type": "paragraph",
+      "ja": "RAMには「DRAM」と「SRAM」の2種類があります（p.406の図を参照）。",
+      "vi": "RAM có 2 loại \"DRAM\" và \"SRAM\" (xem hình trang 406).",
+      "en": "RAM has 2 types: 'DRAM' and 'SRAM' (see diagram on p.406).",
+      "terms": [
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "DRAMとは",
+      "vi": "DRAM là gì",
+      "en": "What is DRAM"
+    },
+    {
+      "type": "paragraph",
+      "ja": "DRAM（Dynamic RAM）とは、絶えずリフレッシュを繰り返し続けているRAM（揮発性メモリ）です。リフレッシュとは、データが消えないように1秒間に何度も繰り返し電荷を加えることです。",
+      "vi": "DRAM (Dynamic RAM) là RAM (bộ nhớ bay hơi) liên tục lặp lại việc làm mới. Làm mới là việc thêm điện tích nhiều lần trong 1 giây để dữ liệu không biến mất.",
+      "en": "DRAM (Dynamic RAM) is RAM (volatile memory) constantly repeating refresh. Refresh is adding electric charge repeatedly many times per second so data doesn't disappear.",
+      "terms": [
+        {
+          "kanji": "絶",
+          "reading": "ぜつ"
+        },
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "続",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "揮発性",
+          "reading": "きはつせい"
+        },
+        {
+          "kanji": "消",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "秒間",
+          "reading": "びょうかん"
+        },
+        {
+          "kanji": "何度",
+          "reading": "なんど"
+        },
+        {
+          "kanji": "電荷",
+          "reading": "でんか"
+        },
+        {
+          "kanji": "加",
+          "reading": "か"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "DRAMは主に主記憶装置（メインメモリ）で使われているメモリです。DRAMに蓄えられる電荷はものすごく小さいので、常にリフレッシュを行わないと、すぐにデータが消えてしまいます。一方で、DRAMは回路が単純で小さいので、データ容量の大きいメモリを安く作ることができます。",
+      "vi": "DRAM là memory chủ yếu được sử dụng trong bộ nhớ chính (main memory). Vì điện tích được tích trong DRAM rất nhỏ, nên nếu không liên tục làm mới, dữ liệu sẽ biến mất ngay. Mặt khác, vì mạch của DRAM đơn giản và nhỏ, có thể làm memory dung lượng lớn với giá rẻ.",
+      "en": "DRAM is memory mainly used in main memory. Since electric charge stored in DRAM is very small, if not constantly refreshing, data disappears immediately. On other hand, since DRAM circuit is simple and small, can make large capacity memory cheaply.",
+      "terms": [
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "主記憶装置",
+          "reading": "しゅきおくそうち"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "蓄",
+          "reading": "ちく"
+        },
+        {
+          "kanji": "電荷",
+          "reading": "でんか"
+        },
+        {
+          "kanji": "小",
+          "reading": "ちい"
+        },
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "消",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "回路",
+          "reading": "かいろ"
+        },
+        {
+          "kanji": "単純",
+          "reading": "たんじゅん"
+        },
+        {
+          "kanji": "容量",
+          "reading": "ようりょう"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "安",
+          "reading": "やす"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "SRAMとは",
+      "vi": "SRAM là gì",
+      "en": "What is SRAM"
+    },
+    {
+      "type": "paragraph",
+      "ja": "SRAM（Static RAM）とは、リフレッシュをする必要がないRAM（揮発性メモリ）です。リフレッシュが不要であるため、非常に高速に動作します。そのため、主にキャッシュメモリとして使われています。SRAMのデメリットは値段が高い点にあります。",
+      "vi": "SRAM (Static RAM) là RAM (bộ nhớ bay hơi) không cần làm mới. Vì không cần làm mới nên hoạt động rất nhanh. Vì vậy, chủ yếu được sử dụng như bộ nhớ cache. Nhược điểm của SRAM là giá cao.",
+      "en": "SRAM (Static RAM) is RAM (volatile memory) that doesn't need refresh. Since refresh is unnecessary, operates very fast. Therefore, mainly used as cache memory. SRAM's disadvantage is high price.",
+      "terms": [
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "揮発性",
+          "reading": "きはつせい"
+        },
+        {
+          "kanji": "不要",
+          "reading": "ふよう"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "高速",
+          "reading": "こうそく"
+        },
+        {
+          "kanji": "動作",
+          "reading": "どうさ"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "値段",
+          "reading": "ねだん"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "フラッシュメモリの概要",
+      "vi": "Tổng quan về flash memory",
+      "en": "Overview of Flash Memory"
+    },
+    {
+      "type": "paragraph",
+      "ja": "フラッシュメモリとは、電気的にデータの書き換えができるROM（不揮発性メモリ）です。",
+      "vi": "Flash memory là ROM (bộ nhớ không bay hơi) có thể ghi lại dữ liệu bằng điện.",
+      "en": "Flash memory is ROM (non-volatile memory) that can electrically rewrite data.",
+      "terms": [
+        {
+          "kanji": "電気的",
+          "reading": "でんきてき"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "換",
+          "reading": "かん"
+        },
+        {
+          "kanji": "不揮発性",
+          "reading": "ふきはつせい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ROMの中には工場で記録されたデータが出荷後は書き換えのできない、読み出し専用のROMがあります。一方で、フラッシュメモリは利用者がデータの書き換えを行うことができます。これまでに説明した「SSD」「USBメモリ」「SDカード」の中身はすべてフラッシュメモリです。",
+      "vi": "Trong ROM có ROM chỉ đọc mà dữ liệu được ghi tại nhà máy không thể ghi lại sau khi xuất xưởng. Mặt khác, flash memory cho phép người dùng ghi lại dữ liệu. Bên trong \"SSD\", \"USB memory\", \"thẻ SD\" đã giải thích đều là flash memory.",
+      "en": "Among ROM, there's read-only ROM where data recorded at factory can't be rewritten after shipping. On other hand, flash memory allows users to rewrite data. Inside 'SSD,' 'USB memory,' 'SD card' explained so far are all flash memory.",
+      "terms": [
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "工場",
+          "reading": "こうじょう"
+        },
+        {
+          "kanji": "記録",
+          "reading": "きろく"
+        },
+        {
+          "kanji": "出荷後",
+          "reading": "しゅっかご"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "換",
+          "reading": "かん"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "専用",
+          "reading": "せんよう"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "説明",
+          "reading": "せつめい"
+        },
+        {
+          "kanji": "中身",
+          "reading": "なかみ"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "RAMとは、揮発性メモリの総称",
+          "vi": "RAM là tên gọi chung của bộ nhớ bay hơi",
+          "en": "RAM is general term for volatile memory"
+        },
+        {
+          "ja": "ROMとは、不揮発性メモリの総称",
+          "vi": "ROM là tên gọi chung của bộ nhớ không bay hơi",
+          "en": "ROM is general term for non-volatile memory"
+        },
+        {
+          "ja": "DRAMは、主記憶装置（メインメモリ）に使われる",
+          "vi": "DRAM được sử dụng trong bộ nhớ chính (main memory)",
+          "en": "DRAM is used in main memory"
+        },
+        {
+          "ja": "SRAMは、キャッシュメモリに使われる",
+          "vi": "SRAM được sử dụng trong bộ nhớ cache",
+          "en": "SRAM is used in cache memory"
+        },
+        {
+          "ja": "SSDやUSBメモリ、SDカードの中身はフラッシュメモリである",
+          "vi": "Bên trong SSD, USB memory, thẻ SD là flash memory",
+          "en": "Inside SSD, USB memory, SD card is flash memory"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "DRAM",
+      "full": "Dynamic RAM",
+      "vi": "DRAM",
+      "en": "Dynamic RAM",
+      "my": "ဒိုင်နမစ် ရမ်"
+    },
+    {
+      "term": "SRAM",
+      "full": "Static RAM",
+      "vi": "SRAM",
+      "en": "Static RAM",
+      "my": "စတဲတစ် ရမ်"
+    },
+    {
+      "term": "フラッシュメモリ",
+      "vi": "Flash memory",
+      "en": "Flash Memory",
+      "my": "ဖလက်ရှ မဲမရီ"
+    },
+    {
+      "term": "リフレッシュ",
+      "vi": "Làm mới (Refresh)",
+      "en": "Refresh",
+      "my": "ရီဖရက်ရှ"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

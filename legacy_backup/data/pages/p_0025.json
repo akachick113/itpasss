@@ -1,0 +1,459 @@
+{
+  "page_id": 25,
+  "image": "p_0025.png",
+  "chapter": 0,
+  "section": "00-03",
+  "page_number": 9,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "で、「暇があれば本書を開く」ようにしてください。最初のうちはなかなか覚えられなかったことも、二度三度と読むうちに自ずと記憶に定着していきます。",
+      "vi": "Hãy cố gắng 'mở sách ra mỗi khi có thời gian rảnh'. Những điều ban đầu khó nhớ sẽ tự động được ghi nhớ khi bạn đọc lần 2, lần 3.",
+      "en": "Try to 'open this book whenever you have free time'. Things that were hard to remember at first will naturally stick as you read them a second or third time.",
+      "my": "'အချိန်ရတိုင်း စာအုပ်ဖွင့်ဖတ်ရန်' ကြိုးစားပါ။ ပထမတွင် မှတ်ရခက်ခဲသောအရာများသည် ဒုတိယ၊ တတိယအကြိမ် ဖတ်သောအခါ သဘာဝအတိုင်း မှတ်မိလာမည်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "暇",
+          "reading": "ひま"
+        },
+        {
+          "kanji": "本書",
+          "reading": "ほんしょ"
+        },
+        {
+          "kanji": "開",
+          "reading": "かい"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "二度三度",
+          "reading": "にどさんど"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "自",
+          "reading": "じ"
+        },
+        {
+          "kanji": "記憶",
+          "reading": "きおく"
+        },
+        {
+          "kanji": "定着",
+          "reading": "ていちゃく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "また、用語の暗記に関しては「寝る前の10分」に復習することをお勧めします。人間の脳は寝ている間に記憶を定着させるため、寝る前の数十分は、試験学習者にとっては非常に大切な時間です。本書巻末に「寝る前10分に試験直前に効果的！重要用語を総復習！」（p.577）を用意しているので、寝る前に時間を決めて復習してみてください。",
+      "vi": "Ngoài ra, về việc ghi nhớ thuật ngữ, chúng tôi khuyên bạn nên ôn tập trong '10 phút trước khi ngủ'. Vì não người củng cố ký ức trong khi ngủ, khoảng chục phút trước khi ngủ là thời gian rất quý báu đối với người học thi. Cuối sách có phần 'Ôn tập tổng hợp thuật ngữ quan trọng - Hiệu quả 10 phút trước khi ngủ và trước kỳ thi!' (trang 577), hãy dành thời gian ôn tập trước khi ngủ.",
+      "en": "Also, for memorizing terminology, we recommend reviewing during the '10 minutes before bed'. Since the human brain consolidates memories during sleep, the last several minutes before sleep are very valuable for exam learners. At the end of this book, we've prepared 'Important Terminology Review - Effective 10 minutes before bed and exam!' (p.577), so set aside time to review before bed.",
+      "my": "ထို့ပြင် ဝေါဟာရများ မှတ်သားရန်အတွက် 'အိပ်ရာမဝင်မီ မိနစ် ၁၀' တွင် ပြန်လည်သုံးသပ်ရန် အကြံပြုပါသည်။",
+      "terms": [
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "暗記",
+          "reading": "あんき"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "寝",
+          "reading": "ね"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "復習",
+          "reading": "ふくしゅう"
+        },
+        {
+          "kanji": "勧",
+          "reading": "かん"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "脳",
+          "reading": "のう"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "記憶",
+          "reading": "きおく"
+        },
+        {
+          "kanji": "定着",
+          "reading": "ていちゃく"
+        },
+        {
+          "kanji": "数十分",
+          "reading": "すうじゅっぷん"
+        },
+        {
+          "kanji": "試験学習者",
+          "reading": "しけんがくしゅうしゃ"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "本書巻末",
+          "reading": "ほんしょかんまつ"
+        },
+        {
+          "kanji": "試験直前",
+          "reading": "しけんちょくぜん"
+        },
+        {
+          "kanji": "効果的",
+          "reading": "こうかてき"
+        },
+        {
+          "kanji": "重要用語",
+          "reading": "じゅうようようご"
+        },
+        {
+          "kanji": "総復習",
+          "reading": "そうふくしゅう"
+        },
+        {
+          "kanji": "用意",
+          "reading": "ようい"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "頻出の過去問を解く",
+      "reading": "ひんしゅつのかこもんをとく",
+      "vi": "Giải các đề thi cũ thường xuất hiện",
+      "en": "Solve frequently appearing past questions",
+      "my": "မကြာခဏထွက်သော အတိတ်မေးခွန်းများကို ဖြေပါ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、過去に出題された問題と似た問題が何度も繰り返し出題されます。このため、頻出の過去問題を解くことが、一発合格への最短ルートです。本書では特に出題頻度の高い過去問題を厳選して掲載しているので、時間の許す限り、過去問題に取り組んでください。",
+      "vi": "Trong kỳ thi IT Passport, các câu hỏi tương tự như đề thi cũ được lặp lại nhiều lần. Do đó, việc giải các đề thi cũ thường xuất hiện là con đường ngắn nhất để đỗ ngay từ lần đầu. Cuốn sách này đã tuyển chọn kỹ các đề thi cũ có tần suất xuất hiện cao, vì vậy hãy làm đề thi cũ càng nhiều càng tốt trong thời gian cho phép.",
+      "en": "In the IT Passport exam, questions similar to past exams are repeatedly tested. Therefore, solving frequently appearing past questions is the shortest route to passing on your first attempt. This book carefully selects high-frequency past questions, so please work on past questions as much as time allows.",
+      "my": "IT Passport စာမေးပွဲတွင် အတိတ်စာမေးပွဲများနှင့် ဆင်တူသော မေးခွန်းများကို ထပ်ခါထပ်ခါ မေးလေ့ရှိသည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "過去",
+          "reading": "かこ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "似",
+          "reading": "じ"
+        },
+        {
+          "kanji": "何度",
+          "reading": "なんど"
+        },
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "頻出",
+          "reading": "ひんしゅつ"
+        },
+        {
+          "kanji": "過去問題",
+          "reading": "かこもんだい"
+        },
+        {
+          "kanji": "解",
+          "reading": "かい"
+        },
+        {
+          "kanji": "一発合格",
+          "reading": "いっぱつごうかく"
+        },
+        {
+          "kanji": "最短",
+          "reading": "さいたん"
+        },
+        {
+          "kanji": "本書",
+          "reading": "ほんしょ"
+        },
+        {
+          "kanji": "特",
+          "reading": "とく"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "厳選",
+          "reading": "げんせん"
+        },
+        {
+          "kanji": "掲載",
+          "reading": "けいさい"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "許",
+          "reading": "もと"
+        },
+        {
+          "kanji": "限",
+          "reading": "げん"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "過去問を解くことの大切さ",
+        "vi": "Tầm quan trọng của việc giải đề thi cũ",
+        "en": "The importance of solving past questions",
+        "my": "အတိတ်မေးခွန်းများ ဖြေရန် အရေးကြီးမှု",
+        "terms": [
+          {
+            "kanji": "過去問",
+            "reading": "かこもん"
+          },
+          {
+            "kanji": "大切",
+            "reading": "たいせつ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験の試験勉強において、過去問題を解くことは非常に重要です。まずは本書に掲載されている最重要のものから解き始めましょう。ある程度正解できるようになったら、公式サイトに公開されている過去問題や本書が提供している過去問アプリで過去問を解いてください。教科書を読むだけではなかなか試験の感覚はつかめません。教科書と過去問題をバランスよく取り入れることが大切です。",
+        "vi": "Trong việc học thi IT Passport, việc giải đề thi cũ là rất quan trọng. Hãy bắt đầu bằng việc giải những đề quan trọng nhất được đăng trong sách này. Khi đã có thể trả lời đúng ở mức độ nhất định, hãy giải các đề thi cũ được công bố trên trang web chính thức hoặc qua ứng dụng đề thi cũ mà sách này cung cấp. Chỉ đọc sách giáo khoa thì khó nắm bắt được cảm giác thi. Điều quan trọng là cân bằng giữa sách giáo khoa và đề thi cũ.",
+        "en": "In studying for the IT Passport exam, solving past questions is very important. Start with the most important ones in this book. Once you can answer correctly to some degree, solve past questions published on the official website or through the past question app this book provides. Just reading the textbook won't give you a feel for the exam. It's important to balance the textbook with past questions.",
+        "my": "IT Passport စာမေးပွဲအတွက် လေ့လာရာတွင် အတိတ်မေးခွန်းများ ဖြေရှင်းခြင်းသည် အလွန်အရေးကြီးသည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "試験勉強",
+            "reading": "しけんべんきょう"
+          },
+          {
+            "kanji": "過去問題",
+            "reading": "かこもんだい"
+          },
+          {
+            "kanji": "解",
+            "reading": "かい"
+          },
+          {
+            "kanji": "非常",
+            "reading": "ひじょう"
+          },
+          {
+            "kanji": "重要",
+            "reading": "じゅうよう"
+          },
+          {
+            "kanji": "本書",
+            "reading": "ほんしょ"
+          },
+          {
+            "kanji": "掲載",
+            "reading": "けいさい"
+          },
+          {
+            "kanji": "最重要",
+            "reading": "さいじゅうよう"
+          },
+          {
+            "kanji": "始",
+            "reading": "し"
+          },
+          {
+            "kanji": "程度正解",
+            "reading": "ていどせいかい"
+          },
+          {
+            "kanji": "公式",
+            "reading": "こうしき"
+          },
+          {
+            "kanji": "公開",
+            "reading": "こうかい"
+          },
+          {
+            "kanji": "提供",
+            "reading": "ていきょう"
+          },
+          {
+            "kanji": "過去問",
+            "reading": "かこもん"
+          },
+          {
+            "kanji": "教科書",
+            "reading": "きょうかしょ"
+          },
+          {
+            "kanji": "読",
+            "reading": "どく"
+          },
+          {
+            "kanji": "感覚",
+            "reading": "かんかく"
+          },
+          {
+            "kanji": "取",
+            "reading": "しゅ"
+          },
+          {
+            "kanji": "入",
+            "reading": "にゅう"
+          },
+          {
+            "kanji": "大切",
+            "reading": "たいせつ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "link_box",
+      "title": {
+        "ja": "ITパスポート試験の過去問（公式サイト）",
+        "vi": "Đề thi cũ IT Passport (Trang web chính thức)",
+        "en": "IT Passport Past Questions (Official Site)"
+      },
+      "url": "https://www3.jitec.ipa.go.jp/JitesCbt/html/openinfo/questions.html"
+    },
+    {
+      "type": "link_box",
+      "title": {
+        "ja": "ITパスポート試験の過去問アプリ（解説付き）",
+        "vi": "Ứng dụng đề thi cũ IT Passport (có giải thích)",
+        "en": "IT Passport Past Question App (with explanations)"
+      },
+      "url": "https://it-pass.jp/app"
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "過去問",
+      "reading": "かこもん",
+      "romaji": "Kakomon",
+      "vi": "Đề thi cũ",
+      "en": "Past exam questions",
+      "my": "အတိတ်စာမေးပွဲမေးခွန်းများ"
+    },
+    {
+      "kanji": "頻出",
+      "reading": "ひんしゅつ",
+      "romaji": "Hinshutsu",
+      "vi": "Thường xuất hiện",
+      "en": "Frequently appearing",
+      "my": "မကြာခဏထွက်လေ့ရှိသော"
+    },
+    {
+      "kanji": "厳選",
+      "reading": "げんせん",
+      "romaji": "Gensen",
+      "vi": "Tuyển chọn kỹ lưỡng",
+      "en": "Carefully selected",
+      "my": "သေချာသပ်ရွေးချယ်ထားသော"
+    },
+    {
+      "kanji": "復習",
+      "reading": "ふくしゅう",
+      "romaji": "Fukushuu",
+      "vi": "Ôn tập",
+      "en": "Review",
+      "my": "ပြန်လည်သုံးသပ်ခြင်း"
+    },
+    {
+      "kanji": "記憶",
+      "reading": "きおく",
+      "romaji": "Kioku",
+      "vi": "Ký ức",
+      "en": "Memory",
+      "my": "အမှတ်ဥာဏ်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": false,
+    "has_learn_more": true,
+    "has_links": true
+  }
+}

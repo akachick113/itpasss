@@ -1,0 +1,257 @@
+{
+  "page_id": 151,
+  "image": "p_0151.png",
+  "chapter": 4,
+  "section": "04-02",
+  "page_number": 135,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "AI関連の最重要用語",
+        "vi": "Thuật ngữ quan trọng nhất liên quan AI",
+        "en": "Most Important AI-Related Terms"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "機械学習（Machine Learning）",
+            "人間が持つ学習能力を、コンピュータ上に再現する技術。AI技術の1つ。コンピュータに「学習用のデータ」を与えることで、コンピュータ自身が将来予測や意思決定を行えるようになる。"
+          ],
+          "vi": [
+            "Machine Learning (Học máy)",
+            "Công nghệ tái tạo khả năng học của con người trên máy tính. Một trong các công nghệ AI. Bằng cách cho máy tính dữ liệu học, máy tính có thể tự dự đoán tương lai và ra quyết định."
+          ],
+          "en": [
+            "Machine Learning",
+            "Technology reproducing human learning ability on computers. One AI technology. By giving computers 'learning data', computers can predict futures and make decisions."
+          ]
+        },
+        {
+          "ja": [
+            "ニューラルネットワーク",
+            "人間の脳の中にある「神経回路（ニューロン）が信号をやり取りする仕組み」をコンピュータ上に再現する技術。機械学習の1つ。"
+          ],
+          "vi": [
+            "Neural Network (Mạng nơ-ron)",
+            "Công nghệ tái tạo cơ chế trao đổi tín hiệu của mạch thần kinh (neuron) trong não người trên máy tính. Một trong các phương pháp Machine Learning."
+          ],
+          "en": [
+            "Neural Network",
+            "Technology reproducing the mechanism of neural circuits (neurons) exchanging signals in human brain on computers. One machine learning method."
+          ]
+        },
+        {
+          "ja": [
+            "ディープラーニング（深層学習）",
+            "ニューラルネットワークを多層化したモデル。"
+          ],
+          "vi": [
+            "Deep Learning (Học sâu)",
+            "Mô hình mạng nơ-ron đa lớp."
+          ],
+          "en": [
+            "Deep Learning",
+            "Multi-layered neural network model."
+          ]
+        },
+        {
+          "ja": [
+            "生成AI",
+            "テキスト、音声、静止画、動画などのオリジナルコンテンツを自動的に「生成」するAI。生成AIの構築にはディープラーニングが用いられる。"
+          ],
+          "vi": [
+            "Generative AI (AI tạo sinh)",
+            "AI tự động tạo nội dung gốc như văn bản, giọng nói, ảnh tĩnh, video. Deep Learning được sử dụng để xây dựng Generative AI."
+          ],
+          "en": [
+            "Generative AI",
+            "AI that automatically 'generates' original content like text, audio, images, video. Deep learning is used to build generative AI."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "機械学習",
+      "reading": "きかいがくしゅう",
+      "vi": "Machine Learning",
+      "en": "Machine Learning",
+      "my": "Machine Learning"
+    },
+    {
+      "type": "paragraph",
+      "ja": "機械学習は大きく「教師あり学習」「教師なし学習」「強化学習」の3つに分類できます。それぞれについて解説します。",
+      "vi": "Machine Learning được phân thành 3 loại lớn: Học có giám sát, Học không giám sát, Học tăng cường. Sẽ giải thích từng loại.",
+      "en": "Machine learning can be broadly classified into 3 types: Supervised Learning, Unsupervised Learning, Reinforcement Learning. Each will be explained.",
+      "my": "Machine learning ကို အမျိုးအစား ၃ မျိုး ခွဲခြားနိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "機械学習",
+          "reading": "きかいがくしゅう"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "教師",
+          "reading": "きょうし"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "強化学習",
+          "reading": "きょうかがくしゅう"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "教師あり学習",
+      "vi": "Học có giám sát",
+      "en": "Supervised Learning"
+    },
+    {
+      "type": "paragraph",
+      "ja": "教師あり学習とは、入力データと正解データをセットにしてコンピュータに与える手法です。例えば、「5」と書かれた「手書き数字の写真」が入力データの場合、その写真に写っているものが5という「数字」であるという情報を正解データとして、入力データとセットでコンピュータに与えます。この作業を何度も繰り返すことで、最終的にコンピュータは、与えられた手書き数字の画像に書かれている数字を判別できるようになります。",
+      "vi": "Học có giám sát là phương pháp cho máy tính dữ liệu đầu vào và dữ liệu đáp án theo bộ. Ví dụ, nếu dữ liệu đầu vào là ảnh chữ số viết tay 5, thì thông tin ảnh đó là số 5 là dữ liệu đáp án, được cho vào máy tính cùng với dữ liệu đầu vào. Lặp lại công việc này nhiều lần, cuối cùng máy tính có thể phân biệt chữ số trong ảnh chữ số viết tay được cho.",
+      "en": "Supervised learning gives computers input data paired with correct answer data. For example, if input is a 'handwritten number photo' showing '5', the information that it is the number '5' is given as correct answer data paired with input. Repeating this allows computers to eventually identify numbers in handwritten digit images.",
+      "my": "Supervised learning သည် ကွန်ပျူတာများကို မှန်ကန်သော အဖြေဒေတာနှင့် တွဲဖက်ထားသော input data ပေးသည်။",
+      "terms": [
+        {
+          "kanji": "教師",
+          "reading": "きょうし"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "正解",
+          "reading": "せいかい"
+        },
+        {
+          "kanji": "与",
+          "reading": "よ"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "手書",
+          "reading": "てがき"
+        },
+        {
+          "kanji": "数字",
+          "reading": "すうじ"
+        },
+        {
+          "kanji": "写真",
+          "reading": "しゃしん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "写",
+          "reading": "しゃ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "何度",
+          "reading": "なんど"
+        },
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "最終的",
+          "reading": "さいしゅうてき"
+        },
+        {
+          "kanji": "画像",
+          "reading": "がぞう"
+        },
+        {
+          "kanji": "判別",
+          "reading": "はんべつ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "機械学習",
+      "reading": "きかいがくしゅう",
+      "romaji": "Kikai Gakushuu",
+      "vi": "Học máy",
+      "en": "Machine Learning",
+      "my": "Machine Learning"
+    },
+    {
+      "kanji": "ディープラーニング",
+      "reading": "でぃーぷらーにんぐ",
+      "romaji": "Deep Learning",
+      "vi": "Học sâu",
+      "en": "Deep Learning",
+      "my": "Deep Learning"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "page_id": 398,
+  "image": "p_0398.png",
+  "chapter": 10,
+  "section": "10-04",
+  "page_number": 382,
+  "content": [
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "ベンチマークテストとベンチマーキング",
+        "vi": "Benchmark test và Benchmarking",
+        "en": "Benchmark Test and Benchmarking",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "上記の「ベンチマークテスト」と「ベンチマーキング」は、名前は似ていますが、内容は異なるので混同しないように注意してください。ベンチマーキングは、自社のやり方と業界で最も成功している企業のやり方を比較する方法です。つまり、自社と成功企業の「差」を見つける手法です。",
+        "vi": "\"Benchmark test\" và \"Benchmarking\" ở trên có tên giống nhau nhưng nội dung khác nhau nên hãy cẩn thận không nhầm lẫn. Benchmarking là phương pháp so sánh cách làm của công ty mình với cách làm của công ty thành công nhất trong ngành. Tức là, phương pháp tìm \"sự khác biệt\" giữa công ty mình và công ty thành công.",
+        "en": "Above 'benchmark test' and 'benchmarking' have similar names but different content, be careful not to confuse. Benchmarking is method comparing your company's way with most successful company in industry. Meaning, method finding 'difference' between your company and successful company."
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "応答時間（レスポンスタイム）とは、処理にかかる時間",
+          "vi": "Thời gian phản hồi (response time) là thời gian cần cho xử lý",
+          "en": "Response time is time needed for processing"
+        },
+        {
+          "ja": "ベンチマークテストとは、システムの性能を比較するために行うテスト",
+          "vi": "Benchmark test là bài test thực hiện để so sánh hiệu suất hệ thống",
+          "en": "Benchmark test is test performed to compare system performance"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（2）経済性：安いか",
+      "vi": "(2) Tính kinh tế: Có rẻ không",
+      "en": "(2) Economy: Is It Cheap"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システムの評価基準には「経済性」も含まれます。ビジネスでシステムを活用する以上、トータルコストや費用対効果を考慮することは非常に大切です。",
+      "vi": "Tiêu chuẩn đánh giá hệ thống cũng bao gồm \"tính kinh tế\". Vì sử dụng hệ thống trong kinh doanh, việc xem xét tổng chi phí và hiệu quả chi phí rất quan trọng.",
+      "en": "System evaluation criteria also includes 'economy.' Since utilizing systems in business, considering total cost and cost effectiveness is very important.",
+      "terms": [
+        {
+          "kanji": "評価基準",
+          "reading": "ひょうかきじゅん"
+        },
+        {
+          "kanji": "経済性",
+          "reading": "けいざいせい"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "活用",
+          "reading": "かつよう"
+        },
+        {
+          "kanji": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "kanji": "費用対効果",
+          "reading": "ひようついこうか"
+        },
+        {
+          "kanji": "考慮",
+          "reading": "こうりょ"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "システムの経済性を評価する指標",
+        "vi": "Chỉ số đánh giá tính kinh tế của hệ thống",
+        "en": "Metrics Evaluating System Economy"
+      },
+      "headers": {
+        "ja": [
+          "指標",
+          "説明"
+        ],
+        "vi": [
+          "Chỉ số",
+          "Giải thích"
+        ],
+        "en": [
+          "Metric",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "metric": {
+            "ja": "初期コスト（イニシャルコスト）",
+            "vi": "Chi phí ban đầu (Initial cost)",
+            "en": "Initial Cost"
+          },
+          "description": {
+            "ja": "システムの導入にかかる費用。試験では「システム導入時に発生する費用」という表現で記載されることもある。",
+            "vi": "Chi phí để triển khai hệ thống. Trong thi đôi khi được ghi là \"chi phí phát sinh khi triển khai hệ thống\".",
+            "en": "Cost for system implementation. In exam sometimes described as 'cost incurred when implementing system.'"
+          }
+        },
+        {
+          "metric": {
+            "ja": "運用コスト（ランニングコスト）",
+            "vi": "Chi phí vận hành (Running cost)",
+            "en": "Operating Cost (Running Cost)"
+          },
+          "description": {
+            "ja": "システムの運用や故障を直すのにかかる費用。試験では「導入後に発生する運用・管理費の総額」という表現で記載されることもある。",
+            "vi": "Chi phí để vận hành hệ thống và sửa chữa sự cố. Trong thi đôi khi được ghi là \"tổng chi phí vận hành/quản lý phát sinh sau khi triển khai\".",
+            "en": "Cost for system operation and fixing failures. In exam sometimes described as 'total operation/management cost incurred after implementation.'"
+          }
+        },
+        {
+          "metric": {
+            "ja": "TCO（Total Cost of Ownership）",
+            "vi": "TCO (Tổng chi phí sở hữu)",
+            "en": "TCO (Total Cost of Ownership)"
+          },
+          "description": {
+            "ja": "初期コストと運用コストを合わせた費用。",
+            "vi": "Chi phí gộp chi phí ban đầu và chi phí vận hành.",
+            "en": "Cost combining initial cost and operating cost."
+          }
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "TCOとは、初期コストと、運用コストの総額",
+          "vi": "TCO là tổng chi phí ban đầu và chi phí vận hành",
+          "en": "TCO is total of initial cost and operating cost"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "初期コスト",
+      "vi": "Chi phí ban đầu",
+      "en": "Initial Cost",
+      "my": "ကနဥးစက် ကုန်ကျစိုး"
+    },
+    {
+      "term": "運用コスト",
+      "vi": "Chi phí vận hành",
+      "en": "Operating Cost",
+      "my": "လည်ပတ် ကုန်ကျစိုး"
+    },
+    {
+      "term": "TCO",
+      "full": "Total Cost of Ownership",
+      "vi": "Tổng chi phí sở hữu",
+      "en": "Total Cost of Ownership",
+      "my": "စုစုပေါင်း ကုန်ကျစိုး စုစုပေါင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

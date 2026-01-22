@@ -1,0 +1,95 @@
+{
+    "page_id": 469,
+    "image": "p_0469.png",
+    "chapter": 12,
+    "section": "practice",
+    "page_number": 453,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "id": "12-6",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "レプリケーションとは、あるコンピュータのデータベースの内容を他のコンピュータに複製し、常に同期を取ることで両者の内容を一致させるDBMS（データベース管理システム）の機能です。この機能によって可用性などを高めることが可能です。",
+                "vi": "Sao chép (Replication) là chức năng của DBMS (Hệ thống quản lý cơ sở dữ liệu) sao chép nội dung cơ sở dữ liệu của một máy tính sang máy tính khác và luôn đồng bộ để nội dung của cả hai khớp nhau. Chức năng này có thể nâng cao tính khả dụng.",
+                "en": "Replication is DBMS (Database Management System) function that copies database content from one computer to another and always synchronizes so both contents match. This function can improve availability."
+            },
+            "wrong_choices": [
+                {
+                    "id": "ア",
+                    "text": {
+                        "ja": "アーカイブとは、データを保管庫（アーカイブ）にコピーして長期間保存することです。",
+                        "vi": "Lưu trữ (Archive) là sao chép dữ liệu vào kho lưu trữ (archive) và bảo quản dài hạn.",
+                        "en": "Archive is copying data to storage (archive) and preserving long-term."
+                    }
+                },
+                {
+                    "id": "イ",
+                    "text": {
+                        "ja": "バックアップとは、通常使用している記憶装置とは別の記憶装置上にデータの複製を取っておくことです。",
+                        "vi": "Sao lưu (Backup) là tạo bản sao dữ liệu trên thiết bị lưu trữ khác với thiết bị lưu trữ đang sử dụng thông thường.",
+                        "en": "Backup is keeping data copy on storage device different from normally used storage device."
+                    }
+                },
+                {
+                    "id": "エ",
+                    "text": {
+                        "ja": "ロールバックとは、トランザクションを実行中に障害が発生した際に、データベースをトランザクション開始直前の状態に戻す手法です。",
+                        "vi": "Rollback là phương pháp khôi phục cơ sở dữ liệu về trạng thái ngay trước khi bắt đầu giao dịch khi xảy ra sự cố trong quá trình thực hiện giao dịch.",
+                        "en": "Rollback is method restoring database to state just before transaction started when failure occurs during transaction execution."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "id": "12-7",
+            "answer": "エ",
+            "explanation": {
+                "ja": "IFの書式は以下のとおりです。",
+                "vi": "Cú pháp của IF như sau.",
+                "en": "IF format is as follows."
+            },
+            "formula_explanation": {
+                "syntax": "IF（論理式, 式1, 式2）",
+                "description": {
+                    "ja": "論理式が正しいときは「式1の値」を返し、誤りのときは「式2の値」を返します。設問のIF関数が表しているのは「数学または英語が50点以上ならば合格」です。この条件を満たすのは「山田太郎」「佐藤次郎」「田中梅子」「山本友也」「小林潤也」の5人です。",
+                    "vi": "Khi biểu thức logic đúng thì trả về \"giá trị của thức 1\", khi sai thì trả về \"giá trị của thức 2\". Hàm IF trong câu hỏi biểu thị \"nếu Toán hoặc Tiếng Anh từ 50 điểm trở lên thì đậu\". 5 người thỏa mãn điều kiện này là \"Yamada Taro\", \"Sato Jiro\", \"Tanaka Umeko\", \"Yamamoto Tomoya\", \"Kobayashi Junya\".",
+                    "en": "When logical formula is correct returns 'value of formula 1', when wrong returns 'value of formula 2'. IF function in question represents 'if Math or English is 50 points or more then pass.' 5 people satisfying this condition are 'Yamada Taro,' 'Sato Jiro,' 'Tanaka Umeko,' 'Yamamoto Tomoya,' 'Kobayashi Junya.'"
+                }
+            }
+        },
+        {
+            "type": "note_box",
+            "title": {
+                "ja": "関数の公式を覚える必要はない",
+                "vi": "Không cần nhớ công thức hàm",
+                "en": "No Need to Memorize Function Formulas",
+                "note": "学習のポイント"
+            },
+            "content": {
+                "ja": "ITパスポート試験の問題表示画面の右上に「表計算仕様」というボタンがあります（p.441）。そこに表計算ソフトの機能があるので、関数の詳細を覚える必要はありません。",
+                "vi": "Ở góc trên bên phải màn hình hiển thị đề thi IT Passport có nút \"Thông số bảng tính\" (trang 441). Vì chức năng phần mềm bảng tính ở đó, nên không cần nhớ chi tiết hàm.",
+                "en": "At top right of IT Passport question display screen is 'Spreadsheet Specification' button (p.441). Since spreadsheet functions are there, no need to memorize function details."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "12-8",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "$マーク（絶対参照）の使い方の問題です。複写したときに自動的に列や行を変更させないようにするには$マークを使います。",
+                "vi": "Đây là câu hỏi về cách sử dụng dấu $ (tham chiếu tuyệt đối). Để không tự động thay đổi cột hoặc hàng khi sao chép, sử dụng dấu $.",
+                "en": "Question about how to use $ mark (absolute reference). To not automatically change column or row when copying, use $ mark."
+            },
+            "detailed_explanation": {
+                "ja": "税抜き価格で変化すると困るのは列です。行は商品Aと商品Bで自動的に変化したほうが便利です。つまり税抜き価格は「$B4」で参照します。また、税率で変化すると困るのは行です。列は消費税率1と消費税率2で自動的に変化したほうが便利です。つまり税率は「D$2」で参照します。この2つの条件を満たす「ウ」が正解です。",
+                "vi": "Điều gặp khó khăn nếu thay đổi với giá chưa thuế là cột. Hàng nên tự động thay đổi cho sản phẩm A và B thì tiện hơn. Nghĩa là giá chưa thuế tham chiếu bằng \"$B4\". Ngoài ra, điều gặp khó khăn nếu thay đổi với thuế suất là hàng. Cột nên tự động thay đổi cho thuế suất 1 và thuế suất 2 thì tiện hơn. Nghĩa là thuế suất tham chiếu bằng \"D$2\". \"ウ\" thỏa mãn 2 điều kiện này là đáp án đúng.",
+                "en": "What's problematic if changes with pre-tax price is column. Row should automatically change for product A and B for convenience. Meaning pre-tax price references '$B4.' Also, what's problematic if changes with tax rate is row. Column should automatically change for tax rate 1 and 2 for convenience. Meaning tax rate references 'D$2.' 'ウ' satisfying these 2 conditions is correct answer."
+            }
+        }
+    ],
+    "meta": {
+        "is_practice_page": true
+    }
+}

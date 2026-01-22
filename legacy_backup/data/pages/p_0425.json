@@ -1,0 +1,258 @@
+{
+  "page_id": 425,
+  "image": "p_0425.png",
+  "chapter": 11,
+  "section": "11-05",
+  "page_number": 409,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "11-05",
+      "title": {
+        "ja": "入力と出力",
+        "vi": "Nhập và Xuất",
+        "en": "Input and Output"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "3色ですべての色を作る",
+        "vi": "Tạo tất cả màu từ 3 màu",
+        "en": "Creating All Colors from 3 Colors"
+      },
+      "content": {
+        "ja": "コンピュータのディスプレイは、赤、緑、青のたった3色だけで、多彩な色の映像を作り出しています。",
+        "vi": "Màn hình máy tính tạo ra hình ảnh đa dạng màu sắc chỉ với 3 màu đỏ, xanh lá, xanh dương.",
+        "en": "Computer display creates colorful images with just 3 colors: red, green, blue."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここでは、コンピュータの5つの役割のうちの「入力」と「出力」について解説します。ITパスポート試験では「dpi」「プリンターの種類」の2つの用語がよく出題されます。このことを念頭に置いて本項を読み進めてください。",
+      "vi": "Ở đây giải thích về \"nhập\" và \"xuất\" trong 5 vai trò của máy tính. Trong kỳ thi IT Passport, 2 thuật ngữ \"dpi\" và \"các loại máy in\" thường được ra đề. Hãy đọc phần này với điều này trong đầu.",
+      "en": "Here explains 'input' and 'output' among 5 computer roles. In IT Passport exam, 2 terms 'dpi' and 'printer types' often appear. Read this section keeping this in mind.",
+      "terms": [
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "念頭",
+          "reading": "ねんとう"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "入力装置",
+      "vi": "Thiết bị nhập",
+      "en": "Input Devices"
+    },
+    {
+      "type": "paragraph",
+      "ja": "入力装置とは、コンピュータにデータを入力するための装置です。ITパスポート試験では次の入力装置が出題範囲に含まれています。",
+      "vi": "Thiết bị nhập là thiết bị để nhập dữ liệu vào máy tính. Trong kỳ thi IT Passport, các thiết bị nhập sau nằm trong phạm vi ra đề.",
+      "en": "Input device is device for inputting data to computer. In IT Passport exam, following input devices are included in scope.",
+      "terms": [
+        {
+          "kanji": "入力装置",
+          "reading": "にゅうりょくそうち"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "出題範囲",
+          "reading": "しゅつだいはんい"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "入力装置",
+        "vi": "Thiết bị nhập",
+        "en": "Input Devices"
+      },
+      "headers": {
+        "ja": [
+          "名称",
+          "説明"
+        ],
+        "vi": [
+          "Tên gọi",
+          "Giải thích"
+        ],
+        "en": [
+          "Name",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "name": {
+            "ja": "キーボード",
+            "vi": "Bàn phím",
+            "en": "Keyboard"
+          },
+          "description": {
+            "ja": "指でキーを押して、文字などの情報を送信する装置。",
+            "vi": "Thiết bị gửi thông tin như chữ cái bằng cách nhấn phím bằng ngón tay.",
+            "en": "Device sending information like characters by pressing keys with fingers."
+          }
+        },
+        {
+          "name": {
+            "ja": "マウス",
+            "vi": "Chuột",
+            "en": "Mouse"
+          },
+          "description": {
+            "ja": "底の発光部と受光部によって移動の量・方向・速度を読み取る装置。ノートパソコンではマウスの代わりにトラックパッドが使われることもある。",
+            "vi": "Thiết bị đọc lượng, hướng, tốc độ di chuyển bằng bộ phận phát sáng và nhận sáng ở đáy. Trong laptop, trackpad đôi khi được sử dụng thay cho chuột.",
+            "en": "Device reading movement amount, direction, speed by light-emitting and light-receiving parts on bottom. In laptops, trackpad sometimes used instead of mouse."
+          }
+        },
+        {
+          "name": {
+            "ja": "タッチパネル",
+            "vi": "Bảng cảm ứng",
+            "en": "Touch Panel"
+          },
+          "description": {
+            "ja": "指で触れることによって画面上の位置を入力する装置。指の位置を検出する方式はいくつかの種類があるが、スマートフォンで採用されている方式は静電容量方式。静電容量方式とは、指が画面に近づくと静電容量の変化を検出し、その位置を割り出す方式。",
+            "vi": "Thiết bị nhập vị trí trên màn hình bằng cách chạm ngón tay. Có một số loại phương pháp phát hiện vị trí ngón tay, nhưng phương pháp được sử dụng trong điện thoại thông minh là phương pháp điện dung. Phương pháp điện dung là phương pháp phát hiện sự thay đổi điện dung khi ngón tay tiến gần màn hình và xác định vị trí.",
+            "en": "Device inputting position on screen by touching with finger. Several methods detect finger position, but method used in smartphones is capacitive method. Capacitive method detects capacitance change when finger approaches screen and determines position."
+          }
+        },
+        {
+          "name": {
+            "ja": "ペンタブレット",
+            "vi": "Bảng vẽ bút",
+            "en": "Pen Tablet"
+          },
+          "description": {
+            "ja": "ペン型の道具を使って画面上の位置を入力する装置。主にイラストや漫画などのデザインの仕事で使われることが多い。",
+            "vi": "Thiết bị nhập vị trí trên màn hình bằng dụng cụ hình bút. Chủ yếu được sử dụng trong công việc thiết kế như minh họa và manga.",
+            "en": "Device inputting position on screen using pen-shaped tool. Mainly used in design work like illustrations and manga."
+          }
+        },
+        {
+          "name": {
+            "ja": "スキャナー",
+            "vi": "Máy quét",
+            "en": "Scanner"
+          },
+          "description": {
+            "ja": "紙面を走査することによって、画像を読み取ってデジタルデータに変換する装置。また、スキャナーで読み取った画面上の文字を認識し、テキストデータに変換する技術のことを「OCR」（Optical Character Recognition：光学式文字認識）という。",
+            "vi": "Thiết bị đọc hình ảnh bằng cách quét trang giấy và chuyển đổi thành dữ liệu số. Ngoài ra, công nghệ nhận dạng chữ trên màn hình được đọc bởi máy quét và chuyển đổi thành dữ liệu văn bản được gọi là \"OCR\" (Optical Character Recognition: Nhận dạng ký tự quang học).",
+            "en": "Device reading images by scanning paper and converting to digital data. Also, technology recognizing characters on screen read by scanner and converting to text data is called 'OCR' (Optical Character Recognition)."
+          }
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！ポインティングデバイス",
+        "vi": "Chi tiết hơn! Thiết bị trỏ",
+        "en": "More Details! Pointing Device"
+      },
+      "content": {
+        "ja": "ポインティングデバイスとは、コンピュータ画面の任意の位置を指定するための入力装置です。前ページの表のうち、マウス、タッチパネル、ペンタブレットが、ポインティングデバイスです。",
+        "vi": "Thiết bị trỏ là thiết bị nhập để chỉ định vị trí bất kỳ trên màn hình máy tính. Trong bảng trang trước, chuột, bảng cảm ứng, bảng vẽ bút là thiết bị trỏ.",
+        "en": "Pointing device is input device for specifying any position on computer screen. In previous page's table, mouse, touch panel, pen tablet are pointing devices."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "入力装置",
+      "reading": "にゅうりょくそうち",
+      "vi": "Thiết bị nhập",
+      "en": "Input Device",
+      "my": "အဝင်း ကိရိယာ"
+    },
+    {
+      "term": "静電容量方式",
+      "reading": "せいでんようりょうほうしき",
+      "vi": "Phương pháp điện dung",
+      "en": "Capacitive Method",
+      "my": "ကပဲစစ်တန်း နည်းလမ်း"
+    },
+    {
+      "term": "OCR",
+      "full": "Optical Character Recognition",
+      "vi": "Nhận dạng ký tự quang học",
+      "en": "Optical Character Recognition",
+      "my": "အေားစီအာ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "is_key_content": true
+  }
+}

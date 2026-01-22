@@ -1,0 +1,206 @@
+{
+    "page_id": 494,
+    "image": "p_0494.png",
+    "chapter": 13,
+    "section": "practice",
+    "page_number": 478,
+    "content": [
+        {
+            "type": "practice_question",
+            "number": "13-5",
+            "year": "令和6年度",
+            "question": {
+                "ja": "関係データベースを構成する要素の関係を表す図において、図中のa〜cに入れる字句の適切な組合せはどれか。",
+                "vi": "Trong hình biểu thị quan hệ của các yếu tố cấu thành cơ sở dữ liệu quan hệ, tổ hợp các thuật ngữ thích hợp để điền vào a〜c trong hình là gì?",
+                "en": "In diagram showing relationships of elements composing relational database, what is appropriate combination of terms to fill a-c in diagram?"
+            },
+            "diagram_description": {
+                "ja": "関係データベース → aの集まり → bの集まり → [c]の集まり",
+                "vi": "Cơ sở dữ liệu quan hệ → Tập hợp a → Tập hợp b → Tập hợp [c]",
+                "en": "Relational database → Collection of a → Collection of b → Collection of [c]"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "a": {
+                        "ja": "表",
+                        "vi": "Bảng",
+                        "en": "Table"
+                    },
+                    "b": {
+                        "ja": "フィールド",
+                        "vi": "Trường",
+                        "en": "Field"
+                    },
+                    "c": {
+                        "ja": "レコード",
+                        "vi": "Bản ghi",
+                        "en": "Record"
+                    }
+                },
+                {
+                    "label": "イ",
+                    "a": {
+                        "ja": "表",
+                        "vi": "Bảng",
+                        "en": "Table"
+                    },
+                    "b": {
+                        "ja": "レコード",
+                        "vi": "Bản ghi",
+                        "en": "Record"
+                    },
+                    "c": {
+                        "ja": "フィールド",
+                        "vi": "Trường",
+                        "en": "Field"
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "a": {
+                        "ja": "フィールド",
+                        "vi": "Trường",
+                        "en": "Field"
+                    },
+                    "b": {
+                        "ja": "表",
+                        "vi": "Bảng",
+                        "en": "Table"
+                    },
+                    "c": {
+                        "ja": "レコード",
+                        "vi": "Bản ghi",
+                        "en": "Record"
+                    }
+                },
+                {
+                    "label": "エ",
+                    "a": {
+                        "ja": "レコード",
+                        "vi": "Bản ghi",
+                        "en": "Record"
+                    },
+                    "b": {
+                        "ja": "表",
+                        "vi": "Bảng",
+                        "en": "Table"
+                    },
+                    "c": {
+                        "ja": "フィールド",
+                        "vi": "Trường",
+                        "en": "Field"
+                    }
+                }
+            ],
+            "answer": "イ"
+        },
+        {
+            "type": "practice_question",
+            "number": "13-6",
+            "year": "平成22年度",
+            "question": {
+                "ja": "2台のPCから1つのファイルを並行して更新した。ファイル中の同一データ（データ1）に対する処理が①〜④の順に行われたとき、データ1はどの値になるか。ここで、データ1の初期値は5であった。",
+                "vi": "Cập nhật song song 1 tệp từ 2 PC. Khi xử lý đối với cùng dữ liệu (Dữ liệu 1) trong tệp được thực hiện theo thứ tự ①〜④, Dữ liệu 1 sẽ có giá trị bao nhiêu? Ở đây, giá trị ban đầu của Dữ liệu 1 là 5.",
+                "en": "Updated 1 file in parallel from 2 PCs. When processing for same data (Data 1) in file is done in order ①-④, what value becomes Data 1? Here, initial value of Data 1 was 5."
+            },
+            "diagram_description": {
+                "ja": "PC-A：①データ1を読み込み、10を足す。③①の結果を、データ1に書き込む。PC-B：②データ1を読み込み、1を引く。④②の結果を、データ1に書き込む。",
+                "vi": "PC-A: ①Đọc Dữ liệu 1, cộng 10. ③Ghi kết quả ① vào Dữ liệu 1. PC-B: ②Đọc Dữ liệu 1, trừ 1. ④Ghi kết quả ② vào Dữ liệu 1.",
+                "en": "PC-A: ①Read Data 1, add 10. ③Write result of ① to Data 1. PC-B: ②Read Data 1, subtract 1. ④Write result of ② to Data 1."
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "value": "4"
+                },
+                {
+                    "label": "イ",
+                    "value": "5"
+                },
+                {
+                    "label": "ウ",
+                    "value": "14"
+                },
+                {
+                    "label": "エ",
+                    "value": "15"
+                }
+            ],
+            "answer": "ア"
+        },
+        {
+            "type": "practice_question",
+            "number": "13-7",
+            "year": "平成28年度",
+            "question": {
+                "ja": "複数の利用者がデータベースの同じレコードを更新するときに、データの整合性を保つために行う制御として、適切なものはどれか。",
+                "vi": "Khi nhiều người dùng cập nhật cùng bản ghi của cơ sở dữ liệu, điều khiển nào thích hợp để giữ tính toàn vẹn của dữ liệu?",
+                "en": "When multiple users update same database record, which control is appropriate to maintain data integrity?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "ja": "正規化",
+                    "vi": "Chuẩn hóa",
+                    "en": "Normalization"
+                },
+                {
+                    "label": "イ",
+                    "ja": "タイマー監視",
+                    "vi": "Giám sát hẹn giờ",
+                    "en": "Timer Monitoring"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ロールフォワード",
+                    "vi": "Rollforward",
+                    "en": "Rollforward"
+                },
+                {
+                    "label": "エ",
+                    "ja": "ロック／アンロック",
+                    "vi": "Lock/Unlock",
+                    "en": "Lock/Unlock"
+                }
+            ],
+            "answer": "エ"
+        },
+        {
+            "type": "answer_key",
+            "answers": [
+                {
+                    "number": "13-1",
+                    "answer": "エ"
+                },
+                {
+                    "number": "13-2",
+                    "answer": "イ"
+                },
+                {
+                    "number": "13-3",
+                    "answer": "ア"
+                },
+                {
+                    "number": "13-4",
+                    "answer": "ウ"
+                },
+                {
+                    "number": "13-5",
+                    "answer": "イ"
+                },
+                {
+                    "number": "13-6",
+                    "answer": "ア"
+                },
+                {
+                    "number": "13-7",
+                    "answer": "エ"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "is_practice_questions": true
+    }
+}

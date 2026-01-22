@@ -1,0 +1,517 @@
+{
+  "page_id": 61,
+  "image": "p_0061.png",
+  "chapter": 1,
+  "section": "01-08",
+  "page_number": 45,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "黒字倒産のリスクはキャッシュフロー計算書で見つける",
+      "reading": "くろじとうさんのりすくはきゃっしゅふろーけいさんしょでみつける",
+      "vi": "Tìm rủi ro phá sản dù có lời bằng Báo cáo lưu chuyển tiền tệ",
+      "en": "Finding Profitable Bankruptcy Risk with Cash Flow Statement",
+      "my": "Cash Flow Statement ဖြင့် Profitable Bankruptcy Risk ကို ရှာခြင်း"
+    },
+    {
+      "type": "paragraph",
+      "ja": "黒字倒産のリスクは、損益計算書では発見できません。なぜなら、実際に売上があれば、たとえそれがまだ未回収（売掛金）であったとしても、損益計算書では利益として記載されるからです。\n\nそこで登場するのが「キャッシュフロー計算書」です。キャッシュフロー計算書には、利益ではなく、「企業に現金がどのくらい残っているのか」を記載するので、黒字倒産のリスクを見つけられます。",
+      "vi": "Rủi ro phá sản dù có lời không thể phát hiện từ báo cáo kết quả kinh doanh. Vì nếu có doanh thu thực tế, dù đó vẫn là khoản chưa thu hồi (khoản phải thu), nó vẫn được ghi là lợi nhuận trong báo cáo kết quả kinh doanh.\n\nĐây là lúc \"Báo cáo lưu chuyển tiền tệ\" xuất hiện. Báo cáo lưu chuyển tiền tệ ghi \"doanh nghiệp còn bao nhiêu tiền mặt\" chứ không phải lợi nhuận, nên có thể tìm ra rủi ro phá sản dù có lời.",
+      "en": "Profitable bankruptcy risk cannot be discovered from income statements. Because if there's actual sales, even if it's still uncollected (accounts receivable), it's recorded as profit in income statements.\n\nThis is where \"Cash Flow Statement\" comes in. Cash flow statements record \"how much cash the company has remaining\" rather than profit, so you can find profitable bankruptcy risks.",
+      "my": "Profitable bankruptcy risk ကို income statements မှ ရှာမတွေ့နိုင်ပါ။",
+      "terms": [
+        {
+          "kanji": "黒字倒産",
+          "reading": "くろじとうさん"
+        },
+        {
+          "kanji": "損益計算書",
+          "reading": "そんえきけいさんしょ"
+        },
+        {
+          "kanji": "発見",
+          "reading": "はっけん"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "売上",
+          "reading": "うりあげ"
+        },
+        {
+          "kanji": "未回収",
+          "reading": "みかいしゅう"
+        },
+        {
+          "kanji": "売掛金",
+          "reading": "うりかけきん"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        },
+        {
+          "kanji": "計算書",
+          "reading": "けいさんしょ"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "現金",
+          "reading": "げんきん"
+        },
+        {
+          "kanji": "残",
+          "reading": "ざん"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "キャッシュフロー計算書の読み方",
+      "reading": "きゃっしゅふろーけいさんしょのよみかた",
+      "vi": "Cách đọc Báo cáo lưu chuyển tiền tệ",
+      "en": "How to Read Cash Flow Statement",
+      "my": "Cash Flow Statement ဖတ်နည်း"
+    },
+    {
+      "type": "paragraph",
+      "ja": "キャッシュフロー計算書の使い方の一例として、借入金（企業の借金）が増えた分から、株主への配当金の支払額を引いて、残る現金を計算することなどがあります（下図を参照）。\n\n借入金とは銀行などから借り入れた金額です。お金を借りると、企業には現金が入るのでプラスになります。また、配当金は株主に還元するお金です。お金を株主に渡すため（企業から現金が流出するため）、マイナスになります。",
+      "vi": "Một ví dụ về cách sử dụng báo cáo lưu chuyển tiền tệ là tính số tiền mặt còn lại bằng cách trừ số tiền cổ tức trả cho cổ đông từ số tiền vay (nợ của doanh nghiệp) tăng lên (xem hình dưới).\n\nTiền vay là số tiền vay từ ngân hàng. Khi vay tiền, doanh nghiệp nhận được tiền mặt nên là số dương. Cổ tức là tiền hoàn trả cho cổ đông. Vì trả tiền cho cổ đông (tiền mặt chảy ra khỏi doanh nghiệp) nên là số âm.",
+      "en": "One example of using cash flow statements is calculating remaining cash by subtracting dividend payments to shareholders from the increase in borrowings (company debt) (see figure below).\n\nBorrowings are amounts borrowed from banks. When borrowing money, cash comes into the company so it's positive. Dividends are money returned to shareholders. Since money goes to shareholders (cash flows out of company), it's negative.",
+      "my": "Cash flow statements အသုံးပြုပုံ ဥပမာတစ်ခုမှာ...",
+      "terms": [
+        {
+          "kanji": "計算書",
+          "reading": "けいさんしょ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "方",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "一例",
+          "reading": "いちれい"
+        },
+        {
+          "kanji": "借入金",
+          "reading": "かりいれきん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "借金",
+          "reading": "しゃっきん"
+        },
+        {
+          "kanji": "増",
+          "reading": "ぞう"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "株主",
+          "reading": "かぶぬし"
+        },
+        {
+          "kanji": "配当金",
+          "reading": "はいとうきん"
+        },
+        {
+          "kanji": "支払額",
+          "reading": "しはらいがく"
+        },
+        {
+          "kanji": "引",
+          "reading": "ひき"
+        },
+        {
+          "kanji": "残",
+          "reading": "ざん"
+        },
+        {
+          "kanji": "現金",
+          "reading": "げんきん"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        },
+        {
+          "kanji": "銀行",
+          "reading": "ぎんこう"
+        },
+        {
+          "kanji": "借",
+          "reading": "しゃく"
+        },
+        {
+          "kanji": "入",
+          "reading": "にゅう"
+        },
+        {
+          "kanji": "金額",
+          "reading": "きんがく"
+        },
+        {
+          "kanji": "金",
+          "reading": "きん"
+        },
+        {
+          "kanji": "還元",
+          "reading": "かんげん"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        },
+        {
+          "kanji": "流出",
+          "reading": "りゅうしゅつ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "キャッシュフロー計算書",
+        "vi": "Báo cáo lưu chuyển tiền tệ",
+        "en": "Cash Flow Statement"
+      },
+      "headers": {
+        "ja": [
+          "項目",
+          "単位：百万円"
+        ],
+        "vi": [
+          "Mục",
+          "Đơn vị: triệu yên"
+        ],
+        "en": [
+          "Item",
+          "Unit: million yen"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "Ⅰ. 営業活動によるキャッシュフロー",
+            ""
+          ],
+          "vi": [
+            "I. Dòng tiền từ hoạt động kinh doanh",
+            ""
+          ],
+          "en": [
+            "I. Cash Flow from Operating Activities",
+            ""
+          ]
+        },
+        {
+          "ja": [
+            "  税引前当期純利益",
+            "10"
+          ],
+          "vi": [
+            "  Lợi nhuận trước thuế",
+            "10"
+          ],
+          "en": [
+            "  Profit before tax",
+            "10"
+          ]
+        },
+        {
+          "ja": [
+            "  減価償却費",
+            "6"
+          ],
+          "vi": [
+            "  Chi phí khấu hao",
+            "6"
+          ],
+          "en": [
+            "  Depreciation",
+            "6"
+          ]
+        },
+        {
+          "ja": [
+            "  売上債権の減少",
+            "4"
+          ],
+          "vi": [
+            "  Giảm khoản phải thu",
+            "4"
+          ],
+          "en": [
+            "  Decrease in receivables",
+            "4"
+          ]
+        },
+        {
+          "ja": [
+            "  法人税等の支払い",
+            "-3"
+          ],
+          "vi": [
+            "  Nộp thuế thu nhập doanh nghiệp",
+            "-3"
+          ],
+          "en": [
+            "  Corporate tax payment",
+            "-3"
+          ]
+        },
+        {
+          "ja": [
+            "  営業活動によるキャッシュフロー①",
+            "17"
+          ],
+          "vi": [
+            "  Dòng tiền từ hoạt động kinh doanh ①",
+            "17"
+          ],
+          "en": [
+            "  Cash flow from operating activities ①",
+            "17"
+          ]
+        },
+        {
+          "ja": [
+            "Ⅱ. 投資活動によるキャッシュフロー",
+            ""
+          ],
+          "vi": [
+            "II. Dòng tiền từ hoạt động đầu tư",
+            ""
+          ],
+          "en": [
+            "II. Cash Flow from Investing Activities",
+            ""
+          ]
+        },
+        {
+          "ja": [
+            "  固定資産の購入",
+            "-5"
+          ],
+          "vi": [
+            "  Mua tài sản cố định",
+            "-5"
+          ],
+          "en": [
+            "  Fixed asset purchase",
+            "-5"
+          ]
+        },
+        {
+          "ja": [
+            "  有価証券の売却",
+            "3"
+          ],
+          "vi": [
+            "  Bán chứng khoán",
+            "3"
+          ],
+          "en": [
+            "  Securities sale",
+            "3"
+          ]
+        },
+        {
+          "ja": [
+            "  投資活動によるキャッシュフロー②",
+            "-2"
+          ],
+          "vi": [
+            "  Dòng tiền từ hoạt động đầu tư ②",
+            "-2"
+          ],
+          "en": [
+            "  Cash flow from investing activities ②",
+            "-2"
+          ]
+        },
+        {
+          "ja": [
+            "Ⅲ. 財務活動によるキャッシュフロー",
+            ""
+          ],
+          "vi": [
+            "III. Dòng tiền từ hoạt động tài chính",
+            ""
+          ],
+          "en": [
+            "III. Cash Flow from Financing Activities",
+            ""
+          ]
+        },
+        {
+          "ja": [
+            "  借入金の増加",
+            "8"
+          ],
+          "vi": [
+            "  Tăng tiền vay",
+            "8"
+          ],
+          "en": [
+            "  Increase in borrowings",
+            "8"
+          ]
+        },
+        {
+          "ja": [
+            "  配当金の支払い",
+            "-2"
+          ],
+          "vi": [
+            "  Trả cổ tức",
+            "-2"
+          ],
+          "en": [
+            "  Dividend payment",
+            "-2"
+          ]
+        },
+        {
+          "ja": [
+            "  財務活動によるキャッシュフロー③",
+            "6"
+          ],
+          "vi": [
+            "  Dòng tiền từ hoạt động tài chính ③",
+            "6"
+          ],
+          "en": [
+            "  Cash flow from financing activities ③",
+            "6"
+          ]
+        },
+        {
+          "ja": [
+            "Ⅳ. 現金及び現金同等物の増加額 ①+②+③=④",
+            "21"
+          ],
+          "vi": [
+            "IV. Số tiền tăng ①+②+③=④",
+            "21"
+          ],
+          "en": [
+            "IV. Increase in cash ①+②+③=④",
+            "21"
+          ]
+        },
+        {
+          "ja": [
+            "Ⅴ. 現金及び現金同等物期首残高⑤",
+            "48"
+          ],
+          "vi": [
+            "V. Số dư đầu kỳ ⑤",
+            "48"
+          ],
+          "en": [
+            "V. Beginning balance ⑤",
+            "48"
+          ]
+        },
+        {
+          "ja": [
+            "Ⅵ. 現金及び現金同等物期末残高 ④+⑤",
+            "69"
+          ],
+          "vi": [
+            "VI. Số dư cuối kỳ ④+⑤",
+            "69"
+          ],
+          "en": [
+            "VI. Ending balance ④+⑤",
+            "69"
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "借入金",
+      "reading": "かりいれきん",
+      "romaji": "Kariirekin",
+      "vi": "Tiền vay",
+      "en": "Borrowings",
+      "my": "ချေးငွေ"
+    },
+    {
+      "kanji": "配当金",
+      "reading": "はいとうきん",
+      "romaji": "Haitoukin",
+      "vi": "Cổ tức",
+      "en": "Dividends",
+      "my": "အမြတ်ဝေငွေ"
+    },
+    {
+      "kanji": "営業活動",
+      "reading": "えいぎょうかつどう",
+      "romaji": "Eigyou Katsudou",
+      "vi": "Hoạt động kinh doanh",
+      "en": "Operating Activities",
+      "my": "လုပ်ငန်းလှုပ်ရှားမှုများ"
+    },
+    {
+      "kanji": "投資活動",
+      "reading": "とうしかつどう",
+      "romaji": "Toushi Katsudou",
+      "vi": "Hoạt động đầu tư",
+      "en": "Investing Activities",
+      "my": "ရင်းနှီးမှုလှုပ်ရှားမှုများ"
+    },
+    {
+      "kanji": "財務活動",
+      "reading": "ざいむかつどう",
+      "romaji": "Zaimu Katsudou",
+      "vi": "Hoạt động tài chính",
+      "en": "Financing Activities",
+      "my": "ဘဏ္ိာရေးလှုပ်ရှားမှုများ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false
+  }
+}

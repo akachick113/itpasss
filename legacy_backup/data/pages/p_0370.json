@@ -1,0 +1,203 @@
+{
+  "page_id": 370,
+  "image": "p_0370.png",
+  "chapter": 9,
+  "section": "09-08",
+  "page_number": 354,
+  "content": [
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！インデント",
+        "vi": "Chi tiết hơn! Thụt lề",
+        "en": "More Details! Indentation"
+      },
+      "content": {
+        "ja": "上記の「\"正の整数です\"を出力する」（処理）が、前後にあるifやendifよりも数文字分、字下げされている（文の先頭に空白が入っている）ことがわかります。これを「インデント」といいます。",
+        "vi": "Có thể thấy \"xuất \\\"là số nguyên dương\\\"\" (xử lý) ở trên được thụt vào vài ký tự so với if và endif trước sau (có khoảng trắng ở đầu lệnh). Đây gọi là \"thụt lề\".",
+        "en": "Can see above '\"is positive integer\" output' (processing) is indented few characters from if and endif before/after (space at statement start). This is called 'indentation.'"
+      },
+      "detail": {
+        "ja": "選択処理の（処理）の中にインデントを入れると、複数行の範囲が見やすくなります。結果的にプログラムが読みやすくなります。そのため、プログラムを記述する際は処理の内容ごとにインデントを入れることが一般的です。これは、後述する繰り返し処理や関数などの場合も同じです。",
+        "vi": "Khi thụt lề trong (xử lý) của xử lý lựa chọn, phạm vi nhiều dòng dễ nhìn hơn. Kết quả là chương trình dễ đọc hơn. Do đó, khi viết chương trình, thường thụt lề theo nội dung xử lý. Điều này cũng tương tự cho xử lý lặp và hàm sẽ nói sau.",
+        "en": "When adding indentation in (processing) of selection processing, multi-line range becomes easier to see. As result, program becomes easier to read. So when writing program, indenting by processing content is common. This is same for loop processing and functions described later."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "else",
+      "reading": "エルス",
+      "vi": "else",
+      "en": "else"
+    },
+    {
+      "type": "paragraph",
+      "ja": "条件式の結果が「偽（正しくない）」の場合にも何らかの処理を実行したい場合は、elseを使用します。elseを使用すると、条件式の結果によって実行する処理を切り替えることができます。",
+      "vi": "Khi muốn thực hiện xử lý nào đó ngay cả khi kết quả biểu thức điều kiện là \"sai (không đúng)\", sử dụng else. Dùng else có thể chuyển đổi xử lý thực hiện theo kết quả biểu thức điều kiện.",
+      "en": "When wanting to execute some processing even when conditional expression result is 'false (incorrect),' use else. Using else can switch processing to execute based on conditional expression result.",
+      "terms": [
+        {
+          "kanji": "条件式",
+          "reading": "じょうけんしき"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "偽",
+          "reading": "にせ"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "切",
+          "reading": "せつ"
+        },
+        {
+          "kanji": "替",
+          "reading": "かえ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "else",
+        "vi": "else",
+        "en": "else"
+      },
+      "description": {
+        "ja": "条件式でYesなら処理1、Noなら処理2を実行するフローチャート",
+        "vi": "Flowchart thực hiện xử lý 1 nếu Yes, xử lý 2 nếu No theo biểu thức điều kiện",
+        "en": "Flowchart executing processing 1 if Yes, processing 2 if No based on conditional expression"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "以下はelseを使った選択処理の書式です。",
+      "vi": "Sau đây là định dạng xử lý lựa chọn dùng else.",
+      "en": "Following is selection processing format using else.",
+      "terms": [
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "選択処理",
+          "reading": "せんたくしょり"
+        },
+        {
+          "kanji": "書式",
+          "reading": "しょしき"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【書式】選択処理（elseあり）",
+        "vi": "【Định dạng】Xử lý lựa chọn (có else)",
+        "en": "[Format] Selection Processing (with else)"
+      },
+      "code": "if (条件式)\n    処理1\nelse\n    処理2\nendif"
+    },
+    {
+      "type": "paragraph",
+      "ja": "以下は、変数numの値が「0」より大きい場合は「正の整数です」と表示し、それ以外の場合は「負の整数か0です」を表示するプログラム例です。",
+      "vi": "Sau đây là ví dụ chương trình hiển thị \"là số nguyên dương\" khi giá trị biến num lớn hơn \"0\", và hiển thị \"là số nguyên âm hoặc 0\" trong các trường hợp khác.",
+      "en": "Following is example program displaying 'is positive integer' when variable num value is greater than '0,' and displaying 'is negative integer or 0' in other cases.",
+      "terms": [
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "整数",
+          "reading": "せいすう"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        },
+        {
+          "kanji": "以外",
+          "reading": "いがい"
+        },
+        {
+          "kanji": "負",
+          "reading": "ふ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "else",
+      "vi": "else (ngược lại)",
+      "en": "else",
+      "my": "အဲလ်ဇ်"
+    },
+    {
+      "term": "インデント",
+      "vi": "Thụt lề",
+      "en": "Indentation",
+      "my": "စာကြောင်းမှတ်ချန်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

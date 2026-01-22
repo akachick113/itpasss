@@ -1,0 +1,209 @@
+{
+  "page_id": 565,
+  "image": "p_0565.png",
+  "chapter": 15,
+  "section": "15-04",
+  "page_number": 549,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "公開鍵暗号方式",
+        "vi": "Phương thức mã hóa khóa công khai",
+        "en": "Public Key Encryption"
+      },
+      "description": {
+        "ja": "太郎は花子の公開鍵で暗号化。次郎も公開鍵を持っているが復号できない。花子だけが秘密鍵で復号できる。",
+        "vi": "Taro mã hóa bằng khóa công khai của Hanako. Jiro cũng có khóa công khai nhưng không thể giải mã. Chỉ Hanako có thể giải mã bằng khóa bí mật.",
+        "en": "Taro encrypts with Hanako's public key. Jiro also has public key but cannot decrypt. Only Hanako can decrypt with private key."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "公開鍵暗号方式の欠点",
+      "vi": "Nhược điểm của phương thức mã hóa khóa công khai",
+      "en": "Disadvantages of Public Key Encryption"
+    },
+    {
+      "type": "paragraph",
+      "ja": "公開鍵暗号方式にも欠点があります。それは「誰でも暗号化できる」ことによる、なりすましです。例えば、上図において、次郎くんが太郎くんになりすまして、花子さんに「花子なんか大嫌い、太郎より」という手紙を送ることが可能です。このような「なりすまし」を防ぐための技術が次節で解説する「デジタル署名」です。",
+      "vi": "Phương thức mã hóa khóa công khai cũng có nhược điểm. Đó là giả mạo danh tính do \"ai cũng có thể mã hóa\". Ví dụ, trong hình trên, Jiro có thể giả làm Taro và gửi thư \"Ghét Hanako lắm, Taro\" cho Hanako. Công nghệ để ngăn \"giả mạo\" như vậy là \"Chữ ký số\" được giải thích ở phần tiếp theo.",
+      "en": "Public Key Encryption also has disadvantages. That's impersonation from 'anyone can encrypt.' For example, in figure above, Jiro could impersonate Taro and send letter 'I hate Hanako, from Taro' to Hanako. Technology to prevent such 'impersonation' is 'Digital Signature' explained in next section.",
+      "terms": [
+        {
+          "kanji": "公開鍵暗号方式",
+          "reading": "こうかいかぎあんごうほうしき"
+        },
+        {
+          "kanji": "欠点",
+          "reading": "けってん"
+        },
+        {
+          "kanji": "誰",
+          "reading": "だれ"
+        },
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "次郎",
+          "reading": "じろう"
+        },
+        {
+          "kanji": "太郎",
+          "reading": "たろう"
+        },
+        {
+          "kanji": "花子",
+          "reading": "はなこ"
+        },
+        {
+          "kanji": "大嫌",
+          "reading": "だいいや"
+        },
+        {
+          "kanji": "手紙",
+          "reading": "てがみ"
+        },
+        {
+          "kanji": "送",
+          "reading": "そう"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "防",
+          "reading": "ぼう"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "次節",
+          "reading": "じせつ"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "署名",
+          "reading": "しょめい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "また公開鍵暗号方式は共通鍵暗号方式に比べ、暗号化と復号に時間がかかります。",
+      "vi": "Ngoài ra, phương thức mã hóa khóa công khai mất nhiều thời gian hơn để mã hóa và giải mã so với phương thức mã hóa khóa chung.",
+      "en": "Also Public Key Encryption takes more time for encryption and decryption compared to Symmetric Key Encryption.",
+      "terms": [
+        {
+          "kanji": "公開鍵暗号方式",
+          "reading": "こうかいかぎあんごうほうしき"
+        },
+        {
+          "kanji": "共通鍵暗号方式",
+          "reading": "きょうつうかぎあんごうほうしき"
+        },
+        {
+          "kanji": "比",
+          "reading": "ひ"
+        },
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "復号",
+          "reading": "ふくごう"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "共通鍵暗号方式では、暗号化と復号の鍵が同じ",
+          "vi": "Trong phương thức mã hóa khóa chung, khóa mã hóa và giải mã giống nhau",
+          "en": "In Symmetric Key Encryption, encryption and decryption keys are same"
+        },
+        {
+          "ja": "公開鍵暗号方式では、暗号化と復号の鍵が異なる",
+          "vi": "Trong phương thức mã hóa khóa công khai, khóa mã hóa và giải mã khác nhau",
+          "en": "In Public Key Encryption, encryption and decryption keys are different"
+        },
+        {
+          "ja": "共通鍵暗号方式のメリットは、暗号化や復号が高速",
+          "vi": "Ưu điểm của phương thức mã hóa khóa chung là mã hóa và giải mã nhanh",
+          "en": "Advantage of Symmetric Key Encryption is fast encryption and decryption"
+        },
+        {
+          "ja": "公開鍵暗号方式では、秘密鍵は第三者に知られてはいけない",
+          "vi": "Trong phương thức mã hóa khóa công khai, khóa bí mật không được để bên thứ ba biết",
+          "en": "In Public Key Encryption, private key must not be known by third party"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！ハイブリッド暗号方式",
+        "vi": "Chi tiết hơn! Phương thức mã hóa lai",
+        "en": "More Details! Hybrid Encryption"
+      },
+      "content": {
+        "ja": "共通鍵暗号方式に欠点があるなら、そもそも共通鍵暗号方式を学ぶ必要などないように思います。しかし、実際には共通鍵暗号方式のほうが高速なので、現在でも使われています。どのように使われているのかというと、まず太郎が文章を共通鍵で暗号する。次に花子の「公開鍵」を使って「共通鍵」を暗号化し、それを花子に渡し、最後に花子が秘密鍵で復号して共通鍵を得る、というものです。後述するSSL/TLS（p.559）はこのハイブリッド暗号を使った技術です。",
+        "vi": "Nếu phương thức mã hóa khóa chung có nhược điểm, thì có vẻ như không cần học nó. Tuy nhiên, thực tế phương thức mã hóa khóa chung nhanh hơn nên vẫn được sử dụng hiện nay. Cách sử dụng: đầu tiên Taro mã hóa văn bản bằng khóa chung. Tiếp theo mã hóa \"khóa chung\" bằng \"khóa công khai\" của Hanako và gửi cho Hanako, cuối cùng Hanako giải mã bằng khóa bí mật để có được khóa chung. SSL/TLS (trang 559) được đề cập sau là công nghệ sử dụng mã hóa lai này.",
+        "en": "If Symmetric Key Encryption has disadvantages, seems no need to learn it. However, actually Symmetric Key Encryption is faster so still used today. How it's used: first Taro encrypts text with shared key. Next encrypts 'shared key' with Hanako's 'public key' and gives to Hanako, finally Hanako decrypts with private key to get shared key. SSL/TLS (p.559) mentioned later is technology using this Hybrid Encryption."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "なりすまし",
+      "vi": "Giả mạo danh tính",
+      "en": "Impersonation",
+      "my": "အယောင်ဆင်ခြင်း"
+    },
+    {
+      "term": "ハイブリッド暗号方式",
+      "vi": "Phương thức mã hóa lai",
+      "en": "Hybrid Encryption",
+      "my": "ဟိုက်ဘရစ် ကုဒ်ဝှက်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+    "page_id": 110,
+    "image": "p_0110.png",
+    "chapter": 2,
+    "section": "answers",
+    "page_number": 94,
+    "content": [
+        {
+            "type": "section_header",
+            "ja": "解答・解説",
+            "vi": "Đáp án & Giải thích",
+            "en": "Answers & Explanations"
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-13",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "「企業倫理」「ルール」「法令を遵守する」といったキーワードから、コンプライアンスに留意した経営だとわかります。\n\nア. コーポレートガバナンス（p.307）の説明です。\n\nイ. アカウンタビリティ（説明責任）の説明です。\n\nエ. IR（Investor Relations）の説明です。",
+                "vi": "Từ các từ khóa đạo đức doanh nghiệp, quy tắc, tuân thủ pháp luật, có thể biết đây là kinh doanh chú ý đến Compliance.\n\nア Giải thích về Corporate Governance (trang 307).\n\nイ Giải thích về Accountability (trách nhiệm giải trình).\n\nエ Giải thích về IR (Investor Relations).",
+                "en": "From keywords corporate ethics, rules, comply with laws, this is management mindful of Compliance.\n\nA. Explanation of Corporate Governance (p.307).\n\nB. Explanation of Accountability.\n\nD. Explanation of IR (Investor Relations)."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-14",
+            "answer": "イ",
+            "explanation": {
+                "ja": "ソーシャルメディアポリシーとは、組織がソーシャルメディアを使用する際のルールをまとめた文書です。a～cについての解説は以下の通りです。したがって、正しい記述はaとbです。\n\na. 正しい。ソーシャルメディアポリシーの目的の1つは、組織がソーシャルメディアに取り組む姿勢を外部に示すことです。\n\nb. 正しい。ソーシャルメディアポリシーの目的の1つは、組織のメンバーがソーシャルメディアを使用する際のルールを示すことであり、私的な発信でも所属する組織に影響を与える可能性があるため、公私の区別をせず、その取扱いについてのルールが必要となります。\n\nc. 誤り。ソーシャルメディアポリシーの目的は、ソーシャルメディアの使用に関するルールを示すことであり、ソーシャルメディアが企業に対して取材や問い合わせを行う際の条件や窓口の取扱いルールを示すものではありません。",
+                "vi": "Chính sách mạng xã hội là văn bản tổng hợp quy tắc khi tổ chức sử dụng mạng xã hội. Giải thích a~c như sau. Do đó, mô tả đúng là a và b.\n\na. Đúng. Một mục đích là thể hiện thái độ của tổ chức đối với mạng xã hội ra bên ngoài.\n\nb. Đúng. Một mục đích là chỉ ra quy tắc khi thành viên tổ chức sử dụng mạng xã hội, vì phát tín hiệu cá nhân cũng có thể ảnh hưởng đến tổ chức nên cần quy tắc không phân biệt công tư.\n\nc. Sai. Mục đích là chỉ ra quy tắc sử dụng mạng xã hội, không phải chỉ điều kiện khi mạng xã hội phỏng vấn hoặc liên hệ doanh nghiệp.",
+                "en": "Social Media Policy is a document summarizing rules when organizations use social media. Explanation of a~c follows. Thus, correct descriptions are a and b.\n\na. Correct. One purpose is showing organization's attitude toward social media externally.\n\nb. Correct. One purpose is showing rules when organization members use social media, as personal posts can affect organization, rules without public/private distinction are needed.\n\nc. Wrong. Purpose is showing social media use rules, not conditions when social media interviews or contacts companies."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-15",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "個人情報保護法委員会が定める「個人情報の保護に関する法律についてのガイドライン」によると、「氏名」だけで個人情報になります。本書のITパスポート試験の問題では、「氏名」の意味を含む言葉として、「従業員」や「名刺」などという言葉も出題されます。試験対策としては、「氏名」と「個人が識別できる身体的特徴」のいずれかがあるものは個人情報だと覚えておけば大丈夫です。\n\nア. 「氏名」が含まれているので個人情報です。\n\nイ. 「氏名」が含まれているので個人情報です。\n\nエ. 「個人が識別できる身体的特徴」なので、個人情報です。",
+                "vi": "Theo Hướng dẫn về Luật bảo vệ thông tin cá nhân, chỉ Họ tên cũng là thông tin cá nhân. Trong IT Passport, từ có nghĩa tương tự như Họ tên cũng xuất hiện như Nhân viên hoặc Danh thiếp. Để ôn thi, chỉ cần nhớ cái gì có Họ tên hoặc Đặc điểm cơ thể có thể nhận dạng cá nhân là thông tin cá nhân.\n\nア Có Họ tên nên là thông tin cá nhân.\n\nイ Có Họ tên nên là thông tin cá nhân.\n\nエ Là Đặc điểm cơ thể có thể nhận dạng cá nhân nên là thông tin cá nhân.",
+                "en": "According to Personal Information Protection guidelines, Name alone is personal information. In IT Passport, words with similar meaning like Employee or Business card also appear. For exam prep, remember anything with Name or Physical characteristics that can identify individuals is personal information.\n\nA. Contains Name so is personal information.\n\nB. Contains Name so is personal information.\n\nD. Is Physical characteristics that can identify individuals, so personal information."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-16",
+            "answer": "イ",
+            "explanation": {
+                "ja": "個人情報を本人の同意なく第三者に提供することはできません。ただし、生命の危険がある場合や法令に基づく場合などは、本人の同意がなくても提供できます。\n\na. 正しい。生命・身体・財産の保護に必要な場合です。\n\nb. 誤り。例外に含まれません。通常どおり、本人の同意がなければ個人データの提供はできません。\n\nc. 正しい。法令に基づく場合（警察からの照会）です。\n\nよって、選択肢aとcがこの行為に該当します。",
+                "vi": "Không thể cung cấp thông tin cá nhân cho bên thứ ba mà không có sự đồng ý. Tuy nhiên, khi có nguy hiểm tính mạng hoặc theo quy định pháp luật, có thể cung cấp mà không cần đồng ý.\n\na. Đúng. Cần thiết để bảo vệ sinh mạng, thân thể, tài sản.\n\nb. Sai. Không thuộc ngoại lệ. Thông thường không thể cung cấp mà không có sự đồng ý.\n\nc. Đúng. Theo quy định pháp luật (yêu cầu từ cảnh sát).\n\nDo đó, lựa chọn a và c thuộc hành vi này.",
+                "en": "Cannot provide personal information to third parties without consent. However, when there's danger to life or based on law, can provide without consent.\n\na. Correct. Necessary to protect life, body, property.\n\nb. Wrong. Not an exception. Normally cannot provide without consent.\n\nc. Correct. Based on law (police inquiry).\n\nThus, choices a and c are such acts."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "2-13, 2-14, 2-15, 2-16"
+    }
+}

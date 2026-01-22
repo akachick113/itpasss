@@ -1,0 +1,24 @@
+
+> it-passport-study-guide@0.0.0 build
+> vite build
+
+[36mvite v5.4.21 [32mbuilding for production...[36m[39m
+transforming...
+[32m笨・[39m 22 modules transformed.
+x Build failed in 851ms
+error during build:
+src/utils/furigana.js (35:11): Expression expected
+file: C:/Users/2240699/.gemini/antigravity/scratch/itpasss/src/utils/furigana.js:35:11
+
+33: export const FuriganaText = ({ text, terms }) => {
+34:     const html = parseText(text, terms);
+35:     return <span dangerouslySetInnerHTML={{ __html: html }} />;
+               ^
+36: };
+
+    at getRollupError (file:///C:/Users/2240699/.gemini/antigravity/scratch/itpasss/node_modules/rollup/dist/es/shared/parseAst.js:401:41)
+    at ParseError.initialise (file:///C:/Users/2240699/.gemini/antigravity/scratch/itpasss/node_modules/rollup/dist/es/shared/node-entry.js:14537:28)
+    at convertNode (file:///C:/Users/2240699/.gemini/antigravity/scratch/itpasss/node_modules/rollup/dist/es/shared/node-entry.js:16421:10)
+    at convertProgram (file:///C:/Users/2240699/.gemini/antigravity/scratch/itpasss/node_modules/rollup/dist/es/shared/node-entry.js:15661:12)
+    at Module.setSource (file:///C:/Users/2240699/.gemini/antigravity/scratch/itpasss/node_modules/rollup/dist/es/shared/node-entry.js:17421:24)
+    at async ModuleLoader.addModuleSource (file:///C:/Users/2240699/.gemini/antigravity/scratch/itpasss/node_modules/rollup/dist/es/shared/node-entry.js:21496:13)

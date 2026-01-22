@@ -1,0 +1,120 @@
+{
+  "page_id": 273,
+  "image": "p_0273.png",
+  "chapter": 7,
+  "section": "intro",
+  "page_number": 257,
+  "content": [
+    {
+      "type": "chapter_header",
+      "number": 7,
+      "title": {
+        "ja": "プロジェクトマネジメント",
+        "vi": "Quản lý dự án",
+        "en": "Project Management"
+      }
+    },
+    {
+      "type": "chapter_overview",
+      "title": {
+        "ja": "この章のポイント！",
+        "vi": "Điểm chính của chương này!",
+        "en": "Key Points of This Chapter!"
+      },
+      "content": {
+        "ja": "本章ではプロジェクトマネジメントの意義や目的、考え方などを解説します。プロジェクトマネジメントは、システム開発を円滑に行うためには不可欠です。本章を読んでプロジェクトマネジメントの基本的な知識を習得してください。",
+        "vi": "Chương này giải thích ý nghĩa, mục đích và cách suy nghĩ của quản lý dự án. Quản lý dự án là không thể thiếu để thực hiện phát triển hệ thống một cách trơn tru. Hãy đọc chương này và nắm vững kiến thức cơ bản về quản lý dự án.",
+        "en": "This chapter explains the meaning, purpose, and thinking of project management. Project management is essential for smooth system development. Please read this chapter and acquire basic knowledge of project management."
+      }
+    },
+    {
+      "type": "key_topics",
+      "title": {
+        "ja": "ここに注目して読もう！",
+        "vi": "Hãy chú ý khi đọc!",
+        "en": "Pay Attention to These!"
+      },
+      "items": [
+        {
+          "ja": "プロジェクトマネジメントの意義、目的、考え方",
+          "vi": "Ý nghĩa, mục đích, cách suy nghĩ của quản lý dự án",
+          "en": "Meaning, purpose, and thinking of project management"
+        },
+        {
+          "ja": "プロジェクトマネジメントのプロセスの基本的な流れ",
+          "vi": "Luồng cơ bản của quy trình quản lý dự án",
+          "en": "Basic flow of project management process"
+        }
+      ]
+    },
+    {
+      "type": "exam_scope",
+      "title": {
+        "ja": "試験範囲全体における本章の位置づけ",
+        "vi": "Vị trí của chương này trong toàn bộ phạm vi thi",
+        "en": "Position of This Chapter in Overall Exam Scope"
+      },
+      "table": {
+        "headers": {
+          "ja": [
+            "分野",
+            "大分類"
+          ],
+          "vi": [
+            "Lĩnh vực",
+            "Phân loại lớn"
+          ],
+          "en": [
+            "Field",
+            "Major Category"
+          ]
+        },
+        "rows": [
+          {
+            "field": "ストラテジ系",
+            "categories": [
+              "企業と法務",
+              "経営戦略",
+              "システム戦略"
+            ]
+          },
+          {
+            "field": "マネジメント系",
+            "categories": [
+              "開発技術",
+              "プロジェクトマネジメント",
+              "サービスマネジメント"
+            ],
+            "highlight": "プロジェクトマネジメント"
+          },
+          {
+            "field": "テクノロジ系",
+            "categories": [
+              "基礎理論",
+              "コンピュータシステム",
+              "技術要素"
+            ]
+          }
+        ]
+      },
+      "note": {
+        "ja": "本章はココ！",
+        "vi": "Chương này ở đây!",
+        "en": "This chapter is here!"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "プロジェクトマネジメント",
+      "reading": "ぷろじぇくとまねじめんと",
+      "romaji": "Project Management",
+      "vi": "Quản lý dự án",
+      "en": "Project Management",
+      "my": "ပရောဂျက် မန်နေ့ဂျ်မန့်"
+    }
+  ],
+  "meta": {
+    "is_chapter_intro": true
+  }
+}

@@ -1,0 +1,69 @@
+{
+    "page_id": 189,
+    "image": "p_0189.png",
+    "chapter": 4,
+    "section": "answers",
+    "page_number": 173,
+    "content": [
+        {
+            "type": "section_header",
+            "ja": "解答・解説",
+            "vi": "Đáp án và Giải thích",
+            "en": "Answers and Explanations"
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-17",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "「設計情報をデータベース化」からCADであると判断できます。\n\nア. RFIDを活用した業務改善の事例です。\nイ. センシング技術を活用した業務改善の事例です。\nエ. FA（Factory Automation）を活用した業務改善の事例です。",
+                "vi": "Từ khóa 'tạo cơ sở dữ liệu thông tin thiết kế' cho thấy đây là CAD.\n\nA. Là ví dụ cải tiến nghiệp vụ sử dụng RFID.\nB. Là ví dụ cải tiến nghiệp vụ sử dụng công nghệ cảm biến.\nD. Là ví dụ cải tiến nghiệp vụ sử dụng FA (Factory Automation).",
+                "en": "From 'database design information', we can determine it's CAD.\n\nA. Example of business improvement using RFID.\nB. Example of business improvement using sensing technology.\nD. Example of business improvement using FA (Factory Automation)."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-18",
+            "answer": "ア",
+            "explanation": {
+                "ja": "「開発期間の短縮」からコンカレントエンジニアリングであると判断できます。\n\nイ. 標準化戦略の目的です。\nウ. SWOT分析やコアコンピタンス、技術開発戦略などの目的となりうる内容です。\nエ. シックスシグマの目的です。",
+                "vi": "Từ khóa 'rút ngắn thời gian phát triển' cho thấy đây là Concurrent Engineering.\n\nB. Là mục đích của chiến lược tiêu chuẩn hóa.\nC. Là nội dung có thể là mục đích của phân tích SWOT, năng lực cốt lõi, chiến lược phát triển công nghệ.\nD. Là mục đích của Six Sigma.",
+                "en": "From 'shortening development time', we can determine it's Concurrent Engineering.\n\nB. Purpose of standardization strategy.\nC. Could be purpose of SWOT analysis, core competence, technology development strategy.\nD. Purpose of Six Sigma."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-19",
+            "answer": "イ",
+            "explanation": {
+                "ja": "「工作機械を制御」からCAMであると判断できます。アはCADを活用する場面です。ウはMRPを活用する場面です。エは生産管理システムを活用する場合です。",
+                "vi": "Từ khóa 'điều khiển máy công cụ' cho thấy đây là CAM. A là trường hợp sử dụng CAD. C là trường hợp sử dụng MRP. D là trường hợp sử dụng hệ thống quản lý sản xuất.",
+                "en": "From 'control machine tools', we can determine it's CAM. A is a CAD usage case. C is an MRP usage case. D is a production management system usage case."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-20",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "「必要な時期に必要な量」からJIT生産方式であると判断できます。\n\nア. BPO（Business Process Outsourcing）とは、経理、総務、コールセンター運営などの事業プロセスを外部委託することです。\nイ. CIM（Computer Integrated Manufacturing）とは、CADで作成した設計図や、CAMで作成した加工データなど、製造業の活動に関わる情報を一元管理する生産管理システムです。\nエ. OEM（Original Equipment Manufacturer）とは、他社ブランドで販売される製品を、自社で製造することです。",
+                "vi": "Từ khóa 'số lượng cần thiết vào thời điểm cần thiết' cho thấy đây là JIT Production.\n\nA. BPO (Business Process Outsourcing) là thuê ngoài quy trình kinh doanh như kế toán, tổng vụ, vận hành call center.\nB. CIM (Computer Integrated Manufacturing) là hệ thống quản lý sản xuất quản lý tập trung thông tin liên quan đến hoạt động sản xuất như bản vẽ thiết kế từ CAD, dữ liệu gia công từ CAM.\nD. OEM (Original Equipment Manufacturer) là tự sản xuất sản phẩm được bán dưới thương hiệu công ty khác.",
+                "en": "From 'needed quantities at needed times', we can determine it's JIT Production.\n\nA. BPO (Business Process Outsourcing) is outsourcing business processes like accounting, general affairs, call center operations.\nB. CIM (Computer Integrated Manufacturing) is a production management system centrally managing manufacturing-related information like CAD designs and CAM processing data.\nD. OEM (Original Equipment Manufacturer) is manufacturing products sold under other companies' brands."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-21",
+            "answer": "エ",
+            "explanation": {
+                "ja": "「購入履歴などの顧客のデータを分析して、各個人に最適な商品やサービスの情報を提供する技術をレコメンデーション」といいます。",
+                "vi": "Công nghệ phân tích dữ liệu khách hàng như lịch sử mua hàng và cung cấp thông tin sản phẩm/dịch vụ tối ưu cho từng cá nhân gọi là Recommendation.",
+                "en": "The technology that analyzes customer data like purchase history and provides optimal product/service information to individuals is called 'Recommendation'."
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 5
+    }
+}

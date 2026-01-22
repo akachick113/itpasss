@@ -1,0 +1,161 @@
+{
+    "page_id": 187,
+    "image": "p_0187.png",
+    "chapter": 4,
+    "section": "practice",
+    "page_number": 171,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "4-22",
+            "year": "令和5年度",
+            "question": {
+                "ja": "フリーミアムの事例として、適切なものはどれか。",
+                "vi": "Ví dụ phù hợp về Freemium là gì?",
+                "en": "Which is an appropriate example of Freemium?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "購入した定額パスをもっていれば、期間内は何杯でもドリンクをもらえるファーストフード店のサービス",
+                    "vi": "Dịch vụ quán fast food có thể nhận bao nhiêu đồ uống tùy thích trong thời hạn nếu có vé trọn gói đã mua",
+                    "en": "Fast food service where you can get unlimited drinks within the period if you have a purchased flat-rate pass"
+                },
+                {
+                    "label": "イ",
+                    "ja": "無料でダウンロードして使うことはできるが、プログラムの改変は許されていない統計解析プログラム",
+                    "vi": "Chương trình phân tích thống kê có thể tải miễn phí và sử dụng nhưng không được phép sửa đổi chương trình",
+                    "en": "Statistical analysis program that can be downloaded and used for free but modification is not permitted"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "名刺を個人で登録・管理する基本機能を無料で提供し、社内関係者と他でつくった顧客情報の共有や人物検索などの追加機能を有料で提供する名刺管理サービス",
+                    "vi": "Dịch vụ quản lý danh thiếp cung cấp miễn phí chức năng cơ bản đăng ký và quản lý danh thiếp cá nhân, và có phí cho chức năng bổ sung như chia sẻ thông tin khách hàng với đồng nghiệp trong công ty và tìm kiếm người",
+                    "en": "Business card management service providing basic personal registration/management for free, and paid additional features like sharing customer info with colleagues and person search",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "有料広告を収入源とすることによって、無料で配布している地域限定の生活情報などの広報誌",
+                    "vi": "Tạp chí quảng cáo phân phát miễn phí thông tin sinh hoạt giới hạn địa phương bằng nguồn thu từ quảng cáo trả phí",
+                    "en": "PR magazine distributed free with local living information funded by paid advertising revenue"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-23",
+            "year": "令和6年度",
+            "question": {
+                "ja": "IoTの事例として、最も適切なものはどれか。",
+                "vi": "Ví dụ phù hợp nhất về IoT là gì?",
+                "en": "Which is the most appropriate example of IoT?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "オークション会場と会員のPCをインターネットで接続することによって、会員は自宅からでもオークションに参加できる。",
+                    "vi": "Bằng cách kết nối internet giữa hội trường đấu giá và PC của hội viên, hội viên có thể tham gia đấu giá từ nhà.",
+                    "en": "By connecting auction venue and member PCs via internet, members can participate in auctions from home."
+                },
+                {
+                    "label": "イ",
+                    "ja": "社内のサーバ上にあるグループウェアを外部のデータセンターのサーバに移することによって、社員はインターネット経由していつでもどこでも利用できる。",
+                    "vi": "Bằng cách chuyển groupware trên server công ty sang server của data center bên ngoài, nhân viên có thể sử dụng mọi lúc mọi nơi qua internet.",
+                    "en": "By moving groupware from internal server to external data center server, employees can access anytime anywhere via internet."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "飲み薬の容器にセンサーを埋め込むことによって、薬局がインターネット経由で服用履歴を管理し、服薬指導に役立てることができる。",
+                    "vi": "Bằng cách nhúng sensor vào hộp thuốc uống, nhà thuốc có thể quản lý lịch sử uống thuốc qua internet và sử dụng cho hướng dẫn dùng thuốc.",
+                    "en": "By embedding sensors in medicine containers, pharmacies can manage medication history via internet and use it for medication guidance.",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "予備校が授業映像をWebサイトで配信することによって、受験者はスマートフォンやPCを用いて、いつでもどこでも授業を受けることができる。",
+                    "vi": "Bằng cách trường luyện thi phát video bài giảng trên website, thí sinh có thể học bằng smartphone hoặc PC mọi lúc mọi nơi.",
+                    "en": "By prep schools streaming class videos on websites, examinees can take classes anytime anywhere using smartphones or PCs."
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-24",
+            "year": "平成24年度",
+            "question": {
+                "ja": "炊飯器やエアコンなどの家電製品に内蔵される、機器の特定の機能を実現するためのシステムを何というか。",
+                "vi": "Hệ thống được tích hợp trong sản phẩm gia dụng như nồi cơm điện hay điều hòa để thực hiện chức năng cụ thể của thiết bị gọi là gì?",
+                "en": "What is the system built into home appliances like rice cookers and air conditioners to realize specific device functions called?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "エキスパートシステム",
+                    "vi": "Expert System",
+                    "en": "Expert System"
+                },
+                {
+                    "label": "イ",
+                    "ja": "エンタープライズシステム",
+                    "vi": "Enterprise System",
+                    "en": "Enterprise System"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "組込みシステム",
+                    "vi": "Embedded System",
+                    "en": "Embedded System",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "シンプレックスシステム",
+                    "vi": "Simplex System",
+                    "en": "Simplex System"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-25",
+            "year": "平成26年度",
+            "question": {
+                "ja": "組込みソフトウェアに該当するものはどれか。",
+                "vi": "Phần mềm nhúng tương ứng là gì?",
+                "en": "Which corresponds to embedded software?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "PCにあらかじめインストールされているオペレーティングシステム",
+                    "vi": "Hệ điều hành được cài đặt sẵn trên PC",
+                    "en": "Operating system pre-installed on PC"
+                },
+                {
+                    "label": "イ",
+                    "ja": "スマートフォンに自分でダウンロードしたゲームソフトウェア",
+                    "vi": "Phần mềm game tự tải xuống smartphone",
+                    "en": "Game software downloaded to smartphone by yourself"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "デジタルカメラの焦点を自動的に合わせるソフトウェア",
+                    "vi": "Phần mềm tự động lấy nét máy ảnh kỹ thuật số",
+                    "en": "Software that automatically focuses digital camera",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "補助記憶媒体に記録されたカーナビゲーションシステムの地図更新データ",
+                    "vi": "Dữ liệu cập nhật bản đồ của hệ thống điều hướng ô tô được ghi trên phương tiện lưu trữ phụ",
+                    "en": "Map update data for car navigation system recorded on auxiliary storage media"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 4
+    }
+}

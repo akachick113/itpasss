@@ -1,0 +1,382 @@
+{
+  "page_id": 320,
+  "image": "p_0320.png",
+  "chapter": 8,
+  "section": "08-05",
+  "page_number": 304,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "監査の全体像",
+        "vi": "Toàn cảnh Audit",
+        "en": "Overall Audit Picture"
+      },
+      "flow": [
+        {
+          "step": "①",
+          "ja": "依頼",
+          "vi": "Yêu cầu",
+          "en": "Request"
+        },
+        {
+          "step": "②",
+          "ja": "計画",
+          "vi": "Kế hoạch",
+          "en": "Plan"
+        },
+        {
+          "step": "③",
+          "ja": "調査",
+          "vi": "Điều tra",
+          "en": "Investigation"
+        },
+        {
+          "step": "④",
+          "ja": "報告",
+          "vi": "Báo cáo",
+          "en": "Report"
+        },
+        {
+          "step": "⑤",
+          "ja": "改善命令",
+          "vi": "Lệnh cải thiện",
+          "en": "Improvement Order"
+        },
+        {
+          "step": "⑥",
+          "ja": "改善",
+          "vi": "Cải thiện",
+          "en": "Improvement"
+        }
+      ],
+      "actors": [
+        {
+          "ja": "依頼人",
+          "vi": "Người yêu cầu",
+          "en": "Client"
+        },
+        {
+          "ja": "監査人",
+          "vi": "Auditor",
+          "en": "Auditor"
+        },
+        {
+          "ja": "被監査部門",
+          "vi": "Bộ phận bị audit",
+          "en": "Audited Department"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（1）依頼",
+      "reading": "いらい",
+      "vi": "(1) Yêu cầu",
+      "en": "(1) Request"
+    },
+    {
+      "type": "paragraph",
+      "ja": "監査は依頼人が監査人に依頼をするところからスタートします。依頼人は通常、経営者です。経営者が社内の情報システムが安全か、効率的か、不正がないかなどを調べるために監査を依頼します。",
+      "vi": "Audit bắt đầu từ việc Client (người yêu cầu) yêu cầu Auditor. Client thường là ban lãnh đạo. Ban lãnh đạo yêu cầu audit để điều tra xem hệ thống thông tin trong công ty có an toàn, hiệu quả, có gian lận không.",
+      "en": "Audit starts from Client requesting Auditor. Client is usually management. Management requests audit to investigate whether company's information system is safe, efficient, free of fraud.",
+      "terms": [
+        {
+          "kanji": "監査",
+          "reading": "かんさ"
+        },
+        {
+          "kanji": "依頼人",
+          "reading": "いらいにん"
+        },
+        {
+          "kanji": "監査人",
+          "reading": "かんさにん"
+        },
+        {
+          "kanji": "依頼",
+          "reading": "いらい"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "経営者",
+          "reading": "けいえいしゃ"
+        },
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "kanji": "効率的",
+          "reading": "こうりつてき"
+        },
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "調",
+          "reading": "ちょう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（2）計画",
+      "reading": "けいかく",
+      "vi": "(2) Kế hoạch",
+      "en": "(2) Plan"
+    },
+    {
+      "type": "paragraph",
+      "ja": "依頼を受けた監査人は調査の前に、監査計画を立てます。監査計画では監査の目的、範囲、スケジュールなどを決めます。",
+      "vi": "Auditor nhận yêu cầu lập kế hoạch audit trước khi điều tra. Trong kế hoạch audit, quyết định mục đích, phạm vi, lịch trình audit.",
+      "en": "Auditor who received request creates audit plan before investigation. Audit plan decides audit purpose, scope, schedule, etc.",
+      "terms": [
+        {
+          "kanji": "依頼",
+          "reading": "いらい"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "監査人",
+          "reading": "かんさにん"
+        },
+        {
+          "kanji": "調査",
+          "reading": "ちょうさ"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "監査計画",
+          "reading": "かんさけいかく"
+        },
+        {
+          "kanji": "立",
+          "reading": "りつ"
+        },
+        {
+          "kanji": "監査",
+          "reading": "かんさ"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "範囲",
+          "reading": "はんい"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（3）調査",
+      "reading": "ちょうさ",
+      "vi": "(3) Điều tra",
+      "en": "(3) Investigation"
+    },
+    {
+      "type": "paragraph",
+      "ja": "監査人は、監査計画に基づいて、被監査部門を調査します。監査人は通常、公認会計士やコンサルタント会社、社内の監査部門などが行います。監査する人によって監査は次の2種類に分けられます。",
+      "vi": "Auditor điều tra bộ phận bị audit dựa trên kế hoạch audit. Auditor thường là kế toán viên công chứng, công ty tư vấn, bộ phận audit nội bộ. Audit được chia thành 2 loại tùy theo người audit.",
+      "en": "Auditor investigates audited department based on audit plan. Auditor is usually certified public accountant, consulting company, or internal audit department. Audit is divided into 2 types depending on who audits.",
+      "terms": [
+        {
+          "kanji": "監査人",
+          "reading": "かんさにん"
+        },
+        {
+          "kanji": "監査計画",
+          "reading": "かんさけいかく"
+        },
+        {
+          "kanji": "基",
+          "reading": "もと"
+        },
+        {
+          "kanji": "被監査部門",
+          "reading": "ひかんさぶもん"
+        },
+        {
+          "kanji": "調査",
+          "reading": "ちょうさ"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "公認会計士",
+          "reading": "こうにんかいけいし"
+        },
+        {
+          "kanji": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "監査部門",
+          "reading": "かんさぶもん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "監査",
+          "reading": "かんさ"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "監査の種類",
+        "vi": "Các loại Audit",
+        "en": "Types of Audit"
+      },
+      "headers": {
+        "ja": [
+          "種類",
+          "説明"
+        ],
+        "vi": [
+          "Loại",
+          "Giải thích"
+        ],
+        "en": [
+          "Type",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "type": {
+            "ja": "内部監査",
+            "vi": "Internal Audit",
+            "en": "Internal Audit"
+          },
+          "description": {
+            "ja": "社内の監査部門など、社内の監査人による監査。",
+            "vi": "Audit bởi auditor nội bộ như bộ phận audit trong công ty.",
+            "en": "Audit by internal auditors like company's audit department."
+          }
+        },
+        {
+          "type": {
+            "ja": "外部監査",
+            "vi": "External Audit",
+            "en": "External Audit"
+          },
+          "description": {
+            "ja": "公認会計士やコンサルタント会社など、社外の監査人による監査。",
+            "vi": "Audit bởi auditor bên ngoài như kế toán viên công chứng hoặc công ty tư vấn.",
+            "en": "Audit by external auditors like certified public accountants or consulting companies."
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "システム監査の対象は、通常、そのシステムを使っている部門です。社内には営",
+      "vi": "Đối tượng của System Audit thường là bộ phận sử dụng hệ thống đó. Trong công ty có bộ phận kinh doanh",
+      "en": "System Audit target is usually department using that system. Within company, there's sales",
+      "terms": [
+        {
+          "kanji": "監査",
+          "reading": "かんさ"
+        },
+        {
+          "kanji": "対象",
+          "reading": "たいしょう"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "部門",
+          "reading": "ぶもん"
+        },
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "営",
+          "reading": "えい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "内部監査",
+      "reading": "ないぶかんさ",
+      "romaji": "Naibu Kansa",
+      "vi": "Kiểm toán nội bộ",
+      "en": "Internal Audit",
+      "my": "အတွင်းပိုင်း စစ်ဆေး"
+    },
+    {
+      "kanji": "外部監査",
+      "reading": "がいぶかんさ",
+      "romaji": "Gaibu Kansa",
+      "vi": "Kiểm toán bên ngoài",
+      "en": "External Audit",
+      "my": "ပြင်ပပိုင်း စစ်ဆေး"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_table": true
+  }
+}

@@ -1,0 +1,148 @@
+{
+    "page_id": 497,
+    "image": "p_0497.png",
+    "chapter": 13,
+    "section": "practice",
+    "page_number": 481,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "13-4",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "問題文には「行（レコード）だけを全て抽出する操作」と書かれています。これは「行を取り出す」という意味なので「選択」が正解です。",
+                "vi": "Trong đề thi có ghi \"thao tác trích xuất tất cả chỉ hàng (bản ghi)\". Vì đây có nghĩa là \"lấy ra hàng\" nên \"Chọn\" là đáp án đúng.",
+                "en": "Question says 'operation extracting all rows (records) only.' This means 'extracting rows' so 'Select' is correct answer."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "ja": "結合とは、複数の表をくっつけて、1つの表を作ることです。",
+                    "vi": "Kết hợp là ghép nhiều bảng để tạo 1 bảng.",
+                    "en": "Join is combining multiple tables to create 1 table."
+                },
+                {
+                    "label": "イ",
+                    "ja": "射影とは、表から列を取り出すことです。",
+                    "vi": "Chiếu là lấy cột từ bảng.",
+                    "en": "Project is extracting columns from table."
+                },
+                {
+                    "label": "エ",
+                    "ja": "和とは、2つのデータ操作の結果をくっつける操作です。",
+                    "vi": "Hợp là thao tác ghép kết quả của 2 thao tác dữ liệu.",
+                    "en": "Union is operation combining results of 2 data operations."
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "13-5",
+            "answer": "イ",
+            "explanation": {
+                "ja": "関係データベースとは、データを表（テーブル）で管理するデータベースです。通常、関係データベースでは、データの内容や種類ごとに表を分けてデータを管理します。つまり、関係データベースは「表」の集まりです。また、表は「複数の行（レコード）」で構成されます。1行が1組のデータのまとまりを表します。さらに、レコードを構成する個々の要素を「フィールド」といいます。",
+                "vi": "Cơ sở dữ liệu quan hệ là cơ sở dữ liệu quản lý dữ liệu bằng bảng (table). Thông thường, trong cơ sở dữ liệu quan hệ, quản lý dữ liệu bằng cách chia bảng theo nội dung và loại dữ liệu. Nghĩa là, cơ sở dữ liệu quan hệ là tập hợp các \"bảng\". Ngoài ra, bảng được cấu thành từ \"nhiều hàng (bản ghi)\". 1 hàng biểu thị 1 tập hợp dữ liệu. Hơn nữa, các yếu tố riêng lẻ cấu thành bản ghi được gọi là \"trường\".",
+                "en": "Relational database is database managing data with tables. Normally, relational database manages data by dividing tables by data content and type. Meaning, relational database is collection of 'tables.' Also, table consists of 'multiple rows (records).' 1 row represents 1 set of data. Furthermore, individual elements composing record are called 'fields.'"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "13-6",
+            "answer": "ア",
+            "explanation": {
+                "ja": "排他制御がない場合に複数の人がデータを更新すると、データの整合性が保てないという事例です。",
+                "vi": "Đây là ví dụ về việc không thể giữ tính toàn vẹn dữ liệu khi nhiều người cập nhật dữ liệu mà không có điều khiển loại trừ.",
+                "en": "This is example where data integrity cannot be maintained when multiple people update data without exclusive control."
+            },
+            "calculation": [
+                {
+                    "step": 1,
+                    "ja": "5 + 10 = 15",
+                    "vi": "5 + 10 = 15",
+                    "en": "5 + 10 = 15"
+                },
+                {
+                    "step": 2,
+                    "ja": "5 − 1 = 4",
+                    "vi": "5 − 1 = 4",
+                    "en": "5 − 1 = 4"
+                },
+                {
+                    "step": 3,
+                    "ja": "データ1は15になる",
+                    "vi": "Dữ liệu 1 trở thành 15",
+                    "en": "Data 1 becomes 15"
+                },
+                {
+                    "step": 4,
+                    "ja": "データ1は4になる",
+                    "vi": "Dữ liệu 1 trở thành 4",
+                    "en": "Data 1 becomes 4"
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "13-7",
+            "answer": "エ",
+            "explanation": {
+                "ja": "複数の利用者がデータベースの同じレコードを更新するときに、データの整合性を保つために行う制御は「ロック／アンロック」です。ロックとは、データベースにおいて、一時的に他の人のデータの読み書きを制限することです。アンロックはロックを解除することです。この制御によって処理を排他制御できます。",
+                "vi": "Điều khiển để giữ tính toàn vẹn dữ liệu khi nhiều người dùng cập nhật cùng bản ghi của cơ sở dữ liệu là \"Lock/Unlock\". Lock là việc tạm thời hạn chế đọc ghi dữ liệu của người khác trong cơ sở dữ liệu. Unlock là mở khóa. Điều khiển này cho phép xử lý điều khiển loại trừ.",
+                "en": "Control to maintain data integrity when multiple users update same database record is 'Lock/Unlock.' Lock is temporarily restricting others' data read/write in database. Unlock is releasing lock. This control enables exclusive control of processing."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "ja": "正規化とは、データベースを作るときに、データの冗長性をなくし、データの一貫性と整合性を図ることです。",
+                    "vi": "Chuẩn hóa là loại bỏ tính dư thừa dữ liệu và đảm bảo tính nhất quán và toàn vẹn khi tạo cơ sở dữ liệu.",
+                    "en": "Normalization is eliminating data redundancy and ensuring consistency and integrity when creating database."
+                },
+                {
+                    "label": "イ",
+                    "ja": "タイマー監視とは、止まっているトランザクションがないかを一定間隔で調べて、デッドロックを見つけることです。",
+                    "vi": "Giám sát hẹn giờ là kiểm tra định kỳ xem có giao dịch bị dừng không để tìm deadlock.",
+                    "en": "Timer monitoring is checking at regular intervals for stopped transactions to find deadlocks."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ロールフォワードとは、データベースのハードウェアに障害が起きたときに、バックアップファイルを使って、トランザクション後のログファイルを読み込んで、障害直前のデータベースを再現する手法です。",
+                    "vi": "Rollforward là phương pháp khi có sự cố phần cứng cơ sở dữ liệu, sử dụng tệp sao lưu để đọc tệp nhật ký sau giao dịch và tái tạo cơ sở dữ liệu ngay trước sự cố.",
+                    "en": "Rollforward is method when database hardware failure occurs, using backup file to read post-transaction log file and recreate database just before failure."
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "13-8",
+            "answer": "エ",
+            "explanation": {
+                "ja": "主キーとは、表の中からある特定の行を識別するための列です。",
+                "vi": "Khóa chính là cột để nhận dạng một hàng cụ thể từ bảng.",
+                "en": "Primary key is column to identify specific row from table."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "ja": "列のデータ型（整数や文字列といったデータの種類）に数値以外を設定する理由です。",
+                    "vi": "Lý do đặt kiểu dữ liệu cột (loại dữ liệu như số nguyên hoặc chuỗi) không phải số.",
+                    "en": "Reason for setting column data type (data types like integer or string) to non-numeric."
+                },
+                {
+                    "label": "イ",
+                    "ja": "主キー以外の列でも検索を行えます。",
+                    "vi": "Có thể tìm kiếm cả với cột không phải khóa chính.",
+                    "en": "Can also search with columns other than primary key."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "主キーを設定した列は他の表の外部キーから参照されます。",
+                    "vi": "Cột được đặt khóa chính được tham chiếu từ khóa ngoại của bảng khác.",
+                    "en": "Column with primary key set is referenced from foreign key of other tables."
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "is_answer_explanation": true
+    }
+}

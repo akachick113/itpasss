@@ -1,0 +1,369 @@
+{
+  "page_id": 230,
+  "image": "p_0230.png",
+  "chapter": 5,
+  "section": "05-08",
+  "page_number": 214,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "なお、ベンダーがRFIに応える形で提供する情報には、ベンダーが非公開にしている内容も含まれます。そのような非公開の情報は秘密にしておくべきなので、ユーザーとベンダーの間でNDA（Non-Disclosure Agreement：機密保持契約、または秘密保持契約）を結ぶこともあります。",
+      "vi": "Ngoài ra, thông tin Vendor cung cấp để đáp ứng RFI có thể bao gồm nội dung không công khai của Vendor. Vì những thông tin không công khai đó cần giữ bí mật, nên đôi khi User và Vendor ký NDA (Non-Disclosure Agreement: Thỏa thuận bảo mật).",
+      "en": "Note that information vendors provide in response to RFI may include content vendors keep private. Since such private information should be kept secret, NDAs (Non-Disclosure Agreements) may be signed between users and vendors.",
+      "my": "RFI ကို တုံ့ပြန်ရန် vendors များ ပေးဆောင်သော အချက်အလက်များတွင် vendors များ private ထားသော content များ ပါဝင်နိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "応",
+          "reading": "おう"
+        },
+        {
+          "kanji": "形",
+          "reading": "かたち"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "非公開",
+          "reading": "ひこうかい"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "秘密",
+          "reading": "ひみつ"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "機密保持契約",
+          "reading": "きみつほじけいやく"
+        },
+        {
+          "kanji": "秘密保持契約",
+          "reading": "ひみつほじけいやく"
+        },
+        {
+          "kanji": "結",
+          "reading": "けつ"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "英語略記が一般的",
+        "vi": "Viết tắt tiếng Anh phổ biến",
+        "en": "English Abbreviations Are Common"
+      },
+      "content": {
+        "ja": "ITパスポート試験では「情報提供依頼書」ではなく「RFI」と表記されることが多いです。日本語で「情報提供依頼書」と書くと、問題が簡単になりすぎるからです。",
+        "vi": "Trong IT Passport thường viết RFI chứ không phải 'Thư yêu cầu cung cấp thông tin'. Vì nếu viết tiếng Nhật 'Thư yêu cầu cung cấp thông tin' thì đề sẽ quá dễ.",
+        "en": "In IT Passport exams, it's often written as 'RFI' rather than 'Request for Information' in Japanese. Because writing it in full Japanese would make questions too easy.",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "情報提供依頼書",
+            "reading": "じょうほうていきょういらいしょ"
+          },
+          {
+            "kanji": "表記",
+            "reading": "ひょうき"
+          },
+          {
+            "kanji": "多",
+            "reading": "た"
+          },
+          {
+            "kanji": "日本語",
+            "reading": "にほんご"
+          },
+          {
+            "kanji": "書",
+            "reading": "かき"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "簡単",
+            "reading": "かんたん"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "RFP",
+      "reading": "あーるえふぴー",
+      "vi": "RFP",
+      "en": "RFP"
+    },
+    {
+      "type": "paragraph",
+      "ja": "RFP（Request For Proposal：提案依頼書）とは、発注候補のベンダーに対して、具体的なシステム設計や機器構成、受注条件などを記載した提案書の提出を依頼する文書です。RFPは実際の発注よりも前にやり取りされます。\n\n全体の流れとしては、情報システムを開発した企業は、前ステップのRFIで得た情報をもとにして発注候補を数社に絞り、そのうえで、RFPを発注候補へ送ります。RFPを受け取ったベンダーは、RFPに応える形で、システムの設計案を書いた提案書を返送します。",
+      "vi": "RFP (Request For Proposal: Yêu cầu đề xuất) là tài liệu yêu cầu Vendor ứng cử viên đặt hàng nộp đề xuất ghi thiết kế hệ thống cụ thể, cấu hình thiết bị, điều kiện nhận đơn. RFP được trao đổi trước khi đặt hàng thực tế.\n\nVề quy trình tổng thể, doanh nghiệp muốn phát triển hệ thống thông tin dựa trên thông tin từ RFI bước trước để thu hẹp ứng cử viên đặt hàng xuống vài công ty, sau đó gửi RFP cho ứng cử viên. Vendor nhận RFP sẽ gửi lại đề xuất viết kế hoạch thiết kế hệ thống để đáp ứng RFP.",
+      "en": "RFP (Request For Proposal) is a document requesting candidate vendors to submit proposals describing specific system design, equipment configuration, order conditions, etc. RFP is exchanged before actual ordering.\n\nIn the overall flow, a company wanting to develop an information system narrows down order candidates to a few companies based on information from the previous RFI step, then sends RFP to candidates. Vendors receiving RFP send back proposals with system design plans in response.",
+      "my": "RFP (Request For Proposal) သည် specific system design၊ equipment configuration၊ order conditions စသည်တို့ကို ဖော်ပြသော proposals တင်သွင်းရန် candidate vendors များထံ တောင်းဆိုသော document ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "提案依頼書",
+          "reading": "ていあんいらいしょ"
+        },
+        {
+          "kanji": "発注候補",
+          "reading": "はっちゅうこうほ"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "設計",
+          "reading": "せっけい"
+        },
+        {
+          "kanji": "機器構成",
+          "reading": "ききこうせい"
+        },
+        {
+          "kanji": "受注条件",
+          "reading": "じゅちゅうじょうけん"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "提案書",
+          "reading": "ていあんしょ"
+        },
+        {
+          "kanji": "提出",
+          "reading": "ていしゅつ"
+        },
+        {
+          "kanji": "依頼",
+          "reading": "いらい"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "発注",
+          "reading": "はっちゅう"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "数社",
+          "reading": "すうしゃ"
+        },
+        {
+          "kanji": "絞",
+          "reading": "こう"
+        },
+        {
+          "kanji": "送",
+          "reading": "そう"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "応",
+          "reading": "おう"
+        },
+        {
+          "kanji": "形",
+          "reading": "かたち"
+        },
+        {
+          "kanji": "設計案",
+          "reading": "せっけいあん"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "返送",
+          "reading": "へんそう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "お金を支払う発注者側がわざわざ時間をかけてRFPのような文書を作成するのは、後々のトラブルを防ぐためです。口約束だけで話を進めてしまうと、後でベンダーと「言った、言わない」のトラブルになる可能性があります。そこで、要件定義プロセスで決めた要件をRFPに記載して、ベンダーに明確に伝えます。",
+      "vi": "Lý do bên đặt hàng phải tốn thời gian tạo tài liệu như RFP là để ngăn rắc rối sau này. Nếu chỉ hứa miệng, sau này có thể xảy ra tranh chấp với Vendor về 'đã nói, không nói'. Vì vậy, ghi yêu cầu đã xác định trong Quy trình định nghĩa yêu cầu vào RFP và truyền đạt rõ ràng cho Vendor.",
+      "en": "The reason the ordering party paying money takes time to create documents like RFP is to prevent later troubles. If proceeding only with verbal promises, there may be 'said/didn't say' disputes with vendors later. So requirements determined in the Requirements Definition Process are written in RFP and clearly communicated to vendors.",
+      "my": "ငွေပေးဆောင်သော ordering party က RFP ကဲ့သို့ documents ဖန်တီးရန် အချိန်ယူရသည့် အကြောင်းရင်းမှာ နောက်ပိုင်း troubles များကို ကာကွယ်ရန်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "金",
+          "reading": "きん"
+        },
+        {
+          "kanji": "支払",
+          "reading": "しはらい"
+        },
+        {
+          "kanji": "発注者側",
+          "reading": "はっちゅうものがわ"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "防",
+          "reading": "ぼう"
+        },
+        {
+          "kanji": "口約束",
+          "reading": "くちやくそく"
+        },
+        {
+          "kanji": "話",
+          "reading": "はなし"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "言",
+          "reading": "げん"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "要件",
+          "reading": "ようけん"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "伝",
+          "reading": "でん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "RFP",
+      "reading": "あーるえふぴー",
+      "romaji": "Request for Proposal",
+      "vi": "Yêu cầu đề xuất",
+      "en": "Request for Proposal",
+      "my": "အဆိုပြုချက် တောင်းခံချက်"
+    },
+    {
+      "kanji": "提案依頼書",
+      "reading": "ていあんいらいしょ",
+      "romaji": "Teian Iraisho",
+      "vi": "Thư yêu cầu đề xuất",
+      "en": "Request for Proposal",
+      "my": "အဆိုပြုချက် တောင်းခံစာ"
+    },
+    {
+      "kanji": "NDA",
+      "reading": "えぬでぃーえー",
+      "romaji": "Non-Disclosure Agreement",
+      "vi": "Thỏa thuận bảo mật",
+      "en": "Non-Disclosure Agreement",
+      "my": "လျို့ဝှက်ထိန်းသိမ်းခြင်း သဘောတူညီချက်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false
+  }
+}

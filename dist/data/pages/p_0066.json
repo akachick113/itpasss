@@ -1,0 +1,75 @@
+{
+    "page_id": 66,
+    "image": "p_0066.png",
+    "chapter": 1,
+    "section": "answers",
+    "page_number": 50,
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "ja": "解答・解説",
+            "reading": "かいとう・かいせつ",
+            "vi": "Đáp án và Giải thích",
+            "en": "Answers and Explanations",
+            "my": "အဖြေများနှင့် ရှင်းလင်းချက်များ"
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-10",
+            "answer": "イ",
+            "explanation": {
+                "ja": "ABC分析とは、データをパレート図で表し、「データの重要度」に応じて、データを3つのグループにランク分けする分析手法です。ABC分析で着目するデータの例としては、「不良品の数」や「売上高」などがあります。選択肢の中で「売上高」という1つのデータの重要度でグループを3つに分けているのはイのみです。\n\nア. コホート分析の事例です。\nウ. 3C分析の事例です。\nエ. RFM分析の事例です。",
+                "vi": "Phân tích ABC là phương pháp phân tích thể hiện dữ liệu bằng biểu đồ Pareto và xếp hạng dữ liệu thành 3 nhóm theo \"mức độ quan trọng của dữ liệu\". Ví dụ về dữ liệu trong phân tích ABC bao gồm \"số lượng sản phẩm lỗi\" và \"doanh thu\". Trong các lựa chọn, chỉ có イ chia thành 3 nhóm theo mức độ quan trọng của một loại dữ liệu là \"doanh thu\".\n\nア. Là ví dụ về phân tích Cohort.\nウ. Là ví dụ về phân tích 3C.\nエ. Là ví dụ về phân tích RFM.",
+                "en": "ABC analysis is a method that displays data in a Pareto chart and ranks data into 3 groups according to \"data importance\". Examples of data used in ABC analysis include \"defect count\" and \"sales\". Among the options, only B divides into 3 groups by importance of one data type: \"sales\".\n\nA. Example of Cohort analysis.\nC. Example of 3C analysis.\nD. Example of RFM analysis."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-11",
+            "answer": "エ",
+            "explanation": {
+                "ja": "「発生頻度順に並べて棒グラフで示し、累積値を折れ線グラフで重ねて示したもの」という記述からパレート図であると判断できます。\n\nア. 散布図とは、2種類のデータの関係性を表すグラフです。\nイ. チェックシートとは、業務やプロジェクトなどの作業項目がリスト化されたシートです。\nウ. 特性要因図とは、問題と原因の関係を整理する際に使う、魚の骨の形に似た図です。",
+                "vi": "Từ mô tả \"sắp xếp theo thứ tự tần suất xuất hiện bằng biểu đồ cột, với giá trị tích lũy bằng biểu đồ đường\", có thể đánh giá đây là biểu đồ Pareto.\n\nア. Đồ thị phân tán là biểu đồ thể hiện mối quan hệ giữa 2 loại dữ liệu.\nイ. Bảng kiểm tra là bảng liệt kê các hạng mục công việc của nghiệp vụ hoặc dự án.\nウ. Biểu đồ nhân quả là biểu đồ có hình xương cá, dùng để sắp xếp mối quan hệ giữa vấn đề và nguyên nhân.",
+                "en": "From the description \"arranged by frequency with bar graph, cumulative values overlaid with line graph\", this can be identified as a Pareto chart.\n\nA. Scatter plot shows relationships between 2 types of data.\nB. Check sheet lists work items for tasks or projects.\nC. Cause-and-effect diagram is a fishbone-shaped diagram for organizing problem-cause relationships."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-12",
+            "answer": "イ",
+            "explanation": {
+                "ja": "「2種類のデータの関係性」というキーワードから散布図と判断できます。\n\nア. 決定表（Decision Table）は、上段に条件、下段にその条件に対する結果をまとめた表です。\nウ. 特性要因図は、品質に影響を与える事項の関係を整理する際に使う、魚の骨の形に似た図です。\nエ. パレート図は、「件数の棒グラフ」と「比率の折れ線グラフ」で構成される図です。",
+                "vi": "Từ từ khóa \"mối quan hệ giữa 2 loại dữ liệu\" có thể đánh giá là đồ thị phân tán.\n\nア. Bảng quyết định (Decision Table) là bảng với điều kiện ở hàng trên và kết quả cho điều kiện đó ở hàng dưới.\nウ. Biểu đồ nhân quả là biểu đồ hình xương cá dùng để sắp xếp mối quan hệ của các yếu tố ảnh hưởng đến chất lượng.\nエ. Biểu đồ Pareto là biểu đồ gồm \"biểu đồ cột số lượng\" và \"biểu đồ đường tỷ lệ\".",
+                "en": "From the keyword \"relationship between 2 types of data\", this is identified as scatter plot.\n\nA. Decision Table has conditions on top and results for those conditions below.\nC. Cause-and-effect diagram is fishbone-shaped for organizing quality-affecting factors.\nD. Pareto chart consists of \"count bar graph\" and \"ratio line graph\"."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-13",
+            "answer": "エ",
+            "explanation": {
+                "ja": "複数のデータをクモの巣のような放射状に表した図をレーダーチャートといいます。レーダーチャートを使うとデータ全体のバランスを見ることができます。\n\nア. 円グラフは、個々のデータの大きさを、円における割合を表すグラフです。\nイ. 散布図は、2種類のデータの関係性を表す図です。\nウ. パレート図は、棒グラフと折れ線グラフを組み合わせたグラフです。",
+                "vi": "Biểu đồ thể hiện nhiều dữ liệu dạng phóng xạ như mạng nhện được gọi là biểu đồ radar. Sử dụng biểu đồ radar có thể xem sự cân bằng của toàn bộ dữ liệu.\n\nア. Biểu đồ tròn thể hiện kích thước của từng dữ liệu dưới dạng tỷ lệ trong vòng tròn.\nイ. Đồ thị phân tán thể hiện mối quan hệ giữa 2 loại dữ liệu.\nウ. Biểu đồ Pareto là biểu đồ kết hợp biểu đồ cột và biểu đồ đường.",
+                "en": "A chart showing multiple data in spider web-like radial format is called radar chart. Radar charts let you see overall data balance.\n\nA. Pie chart shows each data's size as proportions in a circle.\nB. Scatter plot shows relationships between 2 data types.\nC. Pareto chart combines bar and line graphs."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-14",
+            "answer": "イ",
+            "explanation": {
+                "ja": "ブレーンストーミングの4大ルールは「他人のアイディアの批判は禁止」「アイディアは質よりも量」「自由奔放なアイディア大歓迎」「他人のアイディアに便乗してもよい」です。便乗してもよいので「イ」が正解です。\n\nア. 自由奔放なアイディアを控えているので誤りです。\nウ. テーマに適していないアイディアを取捨選択し、量より質を重視しているので誤りです。\nエ. 批判を奨励しているので誤りです。",
+                "vi": "4 quy tắc lớn của Brainstorming là \"Cấm phê bình ý tưởng của người khác\", \"Ý tưởng ưu tiên số lượng hơn chất lượng\", \"Chào đón ý tưởng tự do\", \"Có thể dựa trên ý tưởng của người khác\". Vì được phép dựa trên ý tưởng người khác nên \"イ\" là đáp án đúng.\n\nア. Sai vì hạn chế ý tưởng tự do.\nウ. Sai vì chọn lọc ý tưởng không phù hợp chủ đề, ưu tiên chất lượng hơn số lượng.\nエ. Sai vì khuyến khích phê bình.",
+                "en": "Brainstorming's 4 major rules are: \"No criticizing others' ideas\", \"Quantity over quality\", \"Welcome free ideas\", \"Building on others' ideas is OK\". Since building on ideas is allowed, \"B\" is correct.\n\nA. Wrong because it restricts free ideas.\nC. Wrong because it selects ideas and prioritizes quality over quantity.\nD. Wrong because it encourages criticism."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "1-10, 1-11, 1-12, 1-13, 1-14"
+    }
+}

@@ -1,0 +1,367 @@
+{
+  "page_id": 256,
+  "image": "p_0256.png",
+  "chapter": 6,
+  "section": "06-05",
+  "page_number": 240,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ブラックボックステスト",
+      "reading": "ぶらっくぼっくすてすと",
+      "vi": "Black Box Test",
+      "en": "Black Box Test",
+      "note": {
+        "ja": "黒い箱（ブラックボックス）とは？",
+        "vi": "Hộp đen (Black Box) là gì?",
+        "en": "What is Black Box?"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ブラックボックステストとは、入力と出力だけに着目し、ある入力に対して仕様書どおりの出力が得られるかどうかを確認するテスト手法です。ブラックボックステストでは、システムが実際にどのような処理を行っているのかは問題ではありません。結果が正しければ良しとします。このように、箱の中身（具体的な処理の内容）をまったく気にしない（つまり、まったく見ない）ことから、この名称で呼ばれています。",
+      "vi": "Black Box Test là phương pháp kiểm thử chỉ tập trung vào đầu vào và đầu ra, xác nhận với một đầu vào nhất định có nhận được đầu ra đúng theo thông số không. Trong Black Box Test, hệ thống thực sự xử lý như thế nào không phải vấn đề. Chỉ cần kết quả đúng là được. Như vậy, vì không quan tâm đến bên trong hộp (nội dung xử lý cụ thể) (tức hoàn toàn không nhìn), nên được gọi tên này.",
+      "en": "Black Box Test is a test method that focuses only on input and output, confirming if expected output according to specifications is obtained for a given input. In Black Box Test, what processing the system actually performs doesn't matter. If the result is correct, it's fine. Because the box contents (specific processing) are completely ignored (not looked at at all), it's called this.",
+      "terms": [
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "着目",
+          "reading": "ちゃくもく"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "仕様書",
+          "reading": "しようしょ"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "箱",
+          "reading": "はこ"
+        },
+        {
+          "kanji": "中身",
+          "reading": "なかみ"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "気",
+          "reading": "き"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "名称",
+          "reading": "めいしょう"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ブラックボックステストは開発者だけでなく、発注者側（実際のユーザー）も行います。ブラックボックステストは主に結合テストとシステムテストで行われます。",
+      "vi": "Black Box Test được thực hiện không chỉ bởi nhà phát triển mà cả phía đặt hàng (người dùng thực tế). Black Box Test chủ yếu được thực hiện trong kiểm thử tích hợp và kiểm thử hệ thống.",
+      "en": "Black Box Test is performed not only by developers but also by the ordering side (actual users). Black Box Test is mainly done in integration testing and system testing.",
+      "terms": [
+        {
+          "kanji": "開発者",
+          "reading": "かいはつしゃ"
+        },
+        {
+          "kanji": "発注者側",
+          "reading": "はっちゅうものがわ"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "結合",
+          "reading": "けつごう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ホワイトボックステストとブラックボックステスト",
+        "vi": "White Box Test và Black Box Test",
+        "en": "White Box Test and Black Box Test"
+      },
+      "comparison": [
+        {
+          "type": {
+            "ja": "ホワイトボックステスト",
+            "vi": "White Box Test",
+            "en": "White Box Test"
+          },
+          "description": {
+            "ja": "入力 → [内部が見える箱] → 出力",
+            "vi": "Đầu vào → [Hộp thấy được bên trong] → Đầu ra",
+            "en": "Input → [Box with visible inside] → Output"
+          }
+        },
+        {
+          "type": {
+            "ja": "ブラックボックステスト",
+            "vi": "Black Box Test",
+            "en": "Black Box Test"
+          },
+          "description": {
+            "ja": "入力 → [? 内部が見えない箱] → 出力",
+            "vi": "Đầu vào → [? Hộp không thấy bên trong] → Đầu ra",
+            "en": "Input → [? Box with invisible inside] → Output"
+          }
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "各テストのメリットとデメリット",
+      "reading": "かくてすとのめりっととでめりっと",
+      "vi": "Ưu điểm và Nhược điểm của mỗi loại kiểm thử",
+      "en": "Merits and Demerits of Each Test"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ホワイトボックステストとブラックボックステストには、それぞれにメリットとデメリットがあります。このため、システム開発においては双方のメリット、デメリットを理解したうえで、2つのテスト手法の両方を行うことが重要です。両方のテストを行うことではじめて、品質の高いシステム開発が可能になります。",
+      "vi": "White Box Test và Black Box Test đều có ưu điểm và nhược điểm riêng. Do đó, trong phát triển hệ thống, quan trọng là hiểu ưu nhược điểm của cả hai và thực hiện cả 2 phương pháp kiểm thử. Chỉ khi thực hiện cả 2 loại kiểm thử mới có thể phát triển hệ thống chất lượng cao.",
+      "en": "White Box Test and Black Box Test each have merits and demerits. Therefore, in system development, it's important to understand the merits and demerits of both and perform both test methods. Only by performing both tests can high-quality system development be achieved.",
+      "terms": [
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "双方",
+          "reading": "そうほう"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "品質",
+          "reading": "ひんしつ"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "ホワイトボックステストとブラックボックステストのメリットとデメリット",
+        "vi": "Ưu điểm và Nhược điểm của White Box Test và Black Box Test",
+        "en": "Merits and Demerits of White Box Test and Black Box Test"
+      },
+      "headers": {
+        "ja": [
+          "種類",
+          "メリット",
+          "デメリット"
+        ],
+        "vi": [
+          "Loại",
+          "Ưu điểm",
+          "Nhược điểm"
+        ],
+        "en": [
+          "Type",
+          "Merit",
+          "Demerit"
+        ]
+      },
+      "rows": [
+        {
+          "type": {
+            "ja": "ホワイトボックステスト",
+            "vi": "White Box Test",
+            "en": "White Box Test"
+          },
+          "merit": {
+            "ja": "すべての処理（分岐経路）を検証できる。",
+            "vi": "Có thể xác minh tất cả xử lý (đường phân nhánh).",
+            "en": "Can verify all processing (branch paths)."
+          },
+          "demerit": {
+            "ja": "プログラマの誤解による不具合（バグ）は見つけられない。",
+            "vi": "Không tìm được lỗi (bug) do hiểu nhầm của programmer.",
+            "en": "Can't find bugs caused by programmer's misunderstanding."
+          }
+        },
+        {
+          "type": {
+            "ja": "ブラックボックステスト",
+            "vi": "Black Box Test",
+            "en": "Black Box Test"
+          },
+          "merit": {
+            "ja": "仕様どおりの動作をするかを検証できる。",
+            "vi": "Có thể xác minh hoạt động có đúng theo thông số không.",
+            "en": "Can verify if operation follows specifications."
+          },
+          "demerit": {
+            "ja": "すべての処理をテストしないので、発生頻度が低い不具合（バグ）が残る可能性がある。",
+            "vi": "Vì không kiểm thử tất cả xử lý, có khả năng còn lỗi (bug) tần suất thấp.",
+            "en": "Since not all processing is tested, low-frequency bugs may remain."
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のように、ホワイトボックステストでは、プログラムを書いた開発者がテストを行うため、そもそも開発者がシステムの仕様を誤解していた場合、それは「不具合」として扱われないため、その不具合（バグ）は見つけられないのです。",
+      "vi": "Như trên, trong White Box Test, vì nhà phát triển viết chương trình thực hiện kiểm thử, nếu ngay từ đầu nhà phát triển hiểu sai thông số hệ thống, nó không được xử lý như \"lỗi\", nên lỗi (bug) đó không tìm được.",
+      "en": "As above, in White Box Test, since the developer who wrote the program performs testing, if the developer misunderstood the system specifications from the start, it's not treated as a 'bug,' so that bug can't be found.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "開発者",
+          "reading": "かいはつしゃ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "仕様",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "誤解",
+          "reading": "ごかい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "不具合",
+          "reading": "ふぐあい"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ブラックボックステスト",
+      "reading": "ぶらっくぼっくすてすと",
+      "romaji": "Black Box Test",
+      "vi": "Kiểm thử hộp đen",
+      "en": "Black Box Test",
+      "my": "ဘလက်ဘောက်စ် စမ်းသပ်ချက်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true
+  }
+}

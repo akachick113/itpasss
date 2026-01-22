@@ -1,0 +1,369 @@
+{
+  "page_id": 561,
+  "image": "p_0561.png",
+  "chapter": 15,
+  "section": "15-04",
+  "page_number": 545,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "15-04",
+      "title": {
+        "ja": "暗号技術の基本",
+        "vi": "Cơ bản về công nghệ mã hóa",
+        "en": "Basics of Encryption Technology"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "三角関係は暗号化で制す",
+        "vi": "Kiểm soát tam giác tình cảm bằng mã hóa",
+        "en": "Control Love Triangle with Encryption"
+      },
+      "content": {
+        "ja": "インターネット上で、恋敵に知られずに意中の相手にラブレターを送るには、暗号化が必要です。",
+        "vi": "Trên Internet, để gửi thư tình đến người trong mộng mà không bị đối thủ biết, cần mã hóa.",
+        "en": "On Internet, encryption is needed to send love letter to person of interest without rival knowing."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "前節では「情報セキュリティの脅威」を解説しました。ここからは、それらの脅威への対応策を解説します。",
+      "vi": "Phần trước đã giải thích \"Mối đe dọa bảo mật thông tin\". Từ đây sẽ giải thích biện pháp đối phó với những mối đe dọa đó.",
+      "en": "Previous section explained 'Information Security Threats.' From here will explain countermeasures for those threats.",
+      "terms": [
+        {
+          "kanji": "前節",
+          "reading": "ぜんせつ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "脅威",
+          "reading": "きょうい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "対応策",
+          "reading": "たいおうさく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "まずは「暗号技術」です。暗号技術は情報セキュリティ対策において最も重要であり、かつ基本的な技術です。ITパスポート試験でも必ずといっていいほど出題される技術なので、基本的な仕組みをきちんと理解するようにしてください。用語としては「共通鍵暗号方式」「公開鍵暗号方式」が頻出です。各用語の特徴や概要は必ず習得しておいてください。",
+      "vi": "Đầu tiên là \"Công nghệ mã hóa\". Công nghệ mã hóa là quan trọng nhất và là công nghệ cơ bản trong biện pháp bảo mật thông tin. Là công nghệ gần như chắc chắn được ra đề trong kỳ thi IT Passport, nên hãy hiểu rõ cơ chế cơ bản. Về thuật ngữ, \"Phương thức mã hóa khóa chung\" và \"Phương thức mã hóa khóa công khai\" xuất hiện thường xuyên. Hãy chắc chắn nắm vững đặc điểm và tổng quan của từng thuật ngữ.",
+      "en": "First is 'Encryption Technology.' Encryption technology is most important and basic technology in information security measures. Since it's technology almost certainly appearing on IT Passport exam, understand basic mechanism properly. Terms 'Symmetric Key Encryption' and 'Public Key Encryption' appear frequently. Make sure to master characteristics and overview of each term.",
+      "terms": [
+        {
+          "kanji": "暗号技術",
+          "reading": "あんごうぎじゅつ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "対策",
+          "reading": "たいさく"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "共通鍵暗号方式",
+          "reading": "きょうつうかぎあんごうほうしき"
+        },
+        {
+          "kanji": "公開鍵暗号方式",
+          "reading": "こうかいかぎあんごうほうしき"
+        },
+        {
+          "kanji": "頻出",
+          "reading": "ひんしゅつ"
+        },
+        {
+          "kanji": "各用語",
+          "reading": "かくようご"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "概要",
+          "reading": "がいよう"
+        },
+        {
+          "kanji": "習得",
+          "reading": "しゅうとく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "また昨今、社会的にも情報セキュリティの重要度が増していることもあって、ITパスポート試験でも情報セキュリティ関連の用語がよく出題されるようになってきています。ですから、重要な用語はしっかりと理解しつつも、個別の用語のみを暗記するのではなく、関連用語も含め、情報セキュリティ関連全体をしっかりと理解することが大切です。",
+      "vi": "Ngoài ra, do tầm quan trọng của bảo mật thông tin trong xã hội ngày nay đang tăng, các thuật ngữ liên quan đến bảo mật thông tin cũng được ra đề thường xuyên hơn trong kỳ thi IT Passport. Vì vậy, trong khi hiểu rõ các thuật ngữ quan trọng, điều quan trọng là không chỉ học thuộc từng thuật ngữ riêng lẻ mà còn hiểu rõ toàn bộ bảo mật thông tin bao gồm các thuật ngữ liên quan.",
+      "en": "Also recently, as importance of information security in society increases, information security related terms are appearing more on IT Passport exam. Therefore, while understanding important terms well, important is not just memorizing individual terms but understanding entire information security including related terms.",
+      "terms": [
+        {
+          "kanji": "昨今",
+          "reading": "さっこん"
+        },
+        {
+          "kanji": "社会的",
+          "reading": "しゃかいてき"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "重要度",
+          "reading": "じゅうようど"
+        },
+        {
+          "kanji": "増",
+          "reading": "ぞう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "個別",
+          "reading": "こべつ"
+        },
+        {
+          "kanji": "暗記",
+          "reading": "あんき"
+        },
+        {
+          "kanji": "関連用語",
+          "reading": "かんれんようご"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "関連全体",
+          "reading": "かんれんぜんたい"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "暗号技術とは",
+      "vi": "Công nghệ mã hóa là gì",
+      "en": "What is Encryption Technology"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "暗号技術",
+        "vi": "Công nghệ mã hóa",
+        "en": "Encryption Technology"
+      },
+      "definition": {
+        "ja": "暗号技術とは、文章を読めなくする技術です。なお、暗号化する前の、誰でも読める文章のことを「平文」といいます。",
+        "vi": "Công nghệ mã hóa là công nghệ làm cho văn bản không thể đọc được. Ngoài ra, văn bản mà ai cũng có thể đọc trước khi mã hóa được gọi là \"văn bản gốc\".",
+        "en": "Encryption Technology is technology making text unreadable. Also, text that anyone can read before encryption is called 'plaintext.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "暗号技術は大切な情報を守るためには必要不可欠です。例えば、みなさんがネットショッピングをするときに記入しているクレジットカード番号も、もし平文のままやり取りされれば、悪意ある人に盗み取られてしまう危険性があります。一方、暗号技術を利用すれば、他者に解読されることなく、特定の相手だけに文章を届けることができます。",
+      "vi": "Công nghệ mã hóa là không thể thiếu để bảo vệ thông tin quan trọng. Ví dụ, số thẻ tín dụng bạn nhập khi mua sắm trực tuyến, nếu được trao đổi ở dạng văn bản gốc, có nguy cơ bị người có ác ý đánh cắp. Mặt khác, nếu sử dụng công nghệ mã hóa, có thể gửi văn bản chỉ đến người nhận cụ thể mà không bị người khác giải mã.",
+      "en": "Encryption technology is indispensable for protecting important information. For example, credit card numbers you enter when online shopping, if exchanged as plaintext, risk being stolen by malicious people. On other hand, using encryption technology, can deliver text only to specific recipients without being decrypted by others.",
+      "terms": [
+        {
+          "kanji": "暗号技術",
+          "reading": "あんごうぎじゅつ"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "必要不可欠",
+          "reading": "ひつようふかけつ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "記入",
+          "reading": "きにゅう"
+        },
+        {
+          "kanji": "番号",
+          "reading": "ばんごう"
+        },
+        {
+          "kanji": "平文",
+          "reading": "へいぶん"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "悪意",
+          "reading": "あくい"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "盗",
+          "reading": "とう"
+        },
+        {
+          "kanji": "危険性",
+          "reading": "きけんせい"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "他者",
+          "reading": "たしゃ"
+        },
+        {
+          "kanji": "解読",
+          "reading": "かいどく"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "相手",
+          "reading": "あいて"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "届",
+          "reading": "とどけ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "暗号技術",
+      "vi": "Công nghệ mã hóa",
+      "en": "Encryption Technology",
+      "my": "ကုဒ်ဝှက်ခြင်းနည်ပညာ"
+    },
+    {
+      "term": "平文",
+      "reading": "ひらぶん",
+      "vi": "Văn bản gốc",
+      "en": "Plaintext",
+      "my": "ရိုးစာသား (ပြင်စာ)"
+    },
+    {
+      "term": "共通鍵暗号方式",
+      "vi": "Phương thức mã hóa khóa chung",
+      "en": "Symmetric Key Encryption",
+      "my": "အပြိုင်တူသော့ချက် ကုဒ်ဝှက်ခြင်း"
+    },
+    {
+      "term": "公開鍵暗号方式",
+      "vi": "Phương thức mã hóa khóa công khai",
+      "en": "Public Key Encryption",
+      "my": "အများသို့သော့ချက် ကုဒ်ဝှက်ခြင်း"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "page_id": 548,
+  "image": "p_0548.png",
+  "chapter": 15,
+  "section": "15-02",
+  "page_number": 532,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "4つのリスク対応策",
+      "vi": "4 biện pháp đối phó rủi ro",
+      "en": "4 Risk Response Measures"
+    },
+    {
+      "type": "paragraph",
+      "ja": "リスクマネジメントの最後のプロセスである「リスク対応」では、明確になったリスクに対して、①どのような対処を、②いつまでに行うか、を決めます。",
+      "vi": "Trong \"Đối phó rủi ro\", quy trình cuối cùng của Quản lý rủi ro, quyết định ①đối phó như thế nào, ②đến bao giờ đối với rủi ro đã rõ ràng.",
+      "en": "In 'Risk Response,' the last Risk Management process, decide ①what measures to take, ②by when for identified risks.",
+      "terms": [
+        {
+          "kanji": "最後",
+          "reading": "さいご"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "対処",
+          "reading": "たいしょ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "リスク対応の方法には、大きく「リスク回避」「リスク低減」「リスク共有」「リスク保有」の4つがあります。",
+      "vi": "Phương pháp đối phó rủi ro có 4 loại lớn: \"Tránh rủi ro\", \"Giảm rủi ro\", \"Chia sẻ rủi ro\", \"Giữ lại rủi ro\".",
+      "en": "Risk response methods have 4 major types: 'Risk Avoidance,' 'Risk Reduction,' 'Risk Sharing,' 'Risk Retention.'",
+      "terms": [
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "回避",
+          "reading": "かいひ"
+        },
+        {
+          "kanji": "低減",
+          "reading": "ていげん"
+        },
+        {
+          "kanji": "共有",
+          "reading": "きょうゆう"
+        },
+        {
+          "kanji": "保有",
+          "reading": "ほゆう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "リスク対応策は、「07-05 プロジェクトリスクマネジメント」で学んだ4つの対応策（p.271）の内容とほぼ同じです。異なるのは、プロジェクトリスクマネジメントがプロジェクトを遂行する際のリスクへの対策であるのに対し、本章のリスクマネジメントは経営資源に対するリスク対応策であることです。",
+      "vi": "Biện pháp đối phó rủi ro gần như giống với 4 biện pháp đã học ở \"07-05 Quản lý rủi ro dự án\" (trang 271). Điểm khác là Quản lý rủi ro dự án là đối phó rủi ro khi thực hiện dự án, còn Quản lý rủi ro trong chương này là đối phó rủi ro đối với nguồn lực kinh doanh.",
+      "en": "Risk response measures are almost same as 4 measures learned in '07-05 Project Risk Management' (p.271). Difference is Project Risk Management is risk response when executing projects, while Risk Management in this chapter is risk response for management resources.",
+      "terms": [
+        {
+          "kanji": "対応策",
+          "reading": "たいおうさく"
+        },
+        {
+          "kanji": "学",
+          "reading": "がく"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "遂行",
+          "reading": "すいこう"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "対策",
+          "reading": "たいさく"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "本章",
+          "reading": "ほんしょう"
+        },
+        {
+          "kanji": "経営資源",
+          "reading": "けいえいしげん"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "4つのリスク対応策",
+        "vi": "4 biện pháp đối phó rủi ro",
+        "en": "4 Risk Response Measures"
+      },
+      "headers": {
+        "ja": [
+          "リスク対応策",
+          "説明"
+        ],
+        "vi": [
+          "Biện pháp đối phó",
+          "Giải thích"
+        ],
+        "en": [
+          "Response Measure",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "term": {
+            "ja": "リスク回避",
+            "vi": "Tránh rủi ro",
+            "en": "Risk Avoidance"
+          },
+          "description": {
+            "ja": "脅威発生の要因を停止するか、またはまったく別の方法に変更することで、リスクが発生する可能性を取り去ること。",
+            "vi": "Loại bỏ khả năng xảy ra rủi ro bằng cách dừng yếu tố gây mối đe dọa hoặc thay đổi sang phương pháp hoàn toàn khác.",
+            "en": "Removing possibility of risk occurring by stopping threat factors or changing to completely different method."
+          }
+        },
+        {
+          "term": {
+            "ja": "リスク低減",
+            "vi": "Giảm rủi ro",
+            "en": "Risk Reduction"
+          },
+          "description": {
+            "ja": "脆弱性に対して情報セキュリティ対策を講じることによって、問題発生の可能性を下げること。",
+            "vi": "Giảm khả năng xảy ra vấn đề bằng cách thực hiện biện pháp bảo mật thông tin đối với lỗ hổng.",
+            "en": "Reducing possibility of problems occurring by implementing information security measures against vulnerabilities."
+          }
+        },
+        {
+          "term": {
+            "ja": "リスク共有",
+            "vi": "Chia sẻ rủi ro",
+            "en": "Risk Sharing"
+          },
+          "description": {
+            "ja": "リスクを他社などに移すこと。",
+            "vi": "Chuyển rủi ro cho công ty khác,v.v.",
+            "en": "Transferring risk to other companies."
+          }
+        },
+        {
+          "term": {
+            "ja": "リスク保有",
+            "vi": "Giữ lại rủi ro",
+            "en": "Risk Retention"
+          },
+          "description": {
+            "ja": "リスクに対してセキュリティ対策を行わず、許容範囲内として受け入れること。",
+            "vi": "Không thực hiện biện pháp bảo mật đối với rủi ro và chấp nhận trong phạm vi cho phép.",
+            "en": "Not implementing security measures for risk and accepting within allowable range."
+          }
+        }
+      ],
+      "note": {
+        "ja": "対策が異なる！",
+        "vi": "Biện pháp khác nhau!",
+        "en": "Measures differ!"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ITパスポート試験では、4つのリスク対応の事例が問われます。事例は千差万別なので暗記することはできません。4つのリスク対応の意味をきちんと理解したうえで、章末問題などで感覚を養ってください。",
+          "vi": "Trong kỳ thi IT Passport, các ví dụ về 4 loại đối phó rủi ro được hỏi. Vì ví dụ rất đa dạng nên không thể học thuộc lòng. Sau khi hiểu rõ ý nghĩa của 4 loại đối phó, hãy rèn luyện cảm giác bằng các bài tập cuối chương.",
+          "en": "In IT Passport exam, examples of 4 risk responses are asked. Since examples vary widely, cannot memorize. After understanding meaning of 4 responses, develop sense through chapter-end questions."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "リスク回避",
+      "vi": "Risk Avoidance (Tránh rủi ro)",
+      "en": "Risk Avoidance",
+      "my": "အန္တရာယ် ရှောင်ရှား"
+    },
+    {
+      "term": "リスク低減",
+      "vi": "Risk Reduction (Giảm rủi ro)",
+      "en": "Risk Reduction",
+      "my": "အန္တရာယ် လျှော့ချ"
+    },
+    {
+      "term": "リスク共有",
+      "vi": "Risk Sharing (Chia sẻ rủi ro)",
+      "en": "Risk Sharing",
+      "my": "အန္တရာယ် မျှဝေ"
+    },
+    {
+      "term": "リスク保有",
+      "vi": "Risk Retention (Giữ lại rủi ro)",
+      "en": "Risk Retention",
+      "my": "အန္တရာယ် ထိန်းထား"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

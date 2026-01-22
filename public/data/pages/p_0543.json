@@ -1,0 +1,176 @@
+{
+  "page_id": 543,
+  "image": "p_0543.png",
+  "chapter": 15,
+  "section": "15-01",
+  "page_number": 527,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "辞書攻撃",
+      "vi": "Dictionary Attack",
+      "en": "Dictionary Attack"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "辞書攻撃",
+        "vi": "Dictionary Attack",
+        "en": "Dictionary Attack"
+      },
+      "definition": {
+        "ja": "辞書攻撃（Dictionary Attack）とは、辞書や人名録などにのっている単語をすべて試して、パスワードを割り出す攻撃です。",
+        "vi": "Dictionary Attack là cuộc tấn công tìm ra mật khẩu bằng cách thử tất cả các từ có trong từ điển hoặc danh bạ tên.",
+        "en": "Dictionary Attack is attack that finds password by trying all words in dictionaries or name directories."
+      },
+      "etymology": {
+        "ja": "パスワードを割り出すために「辞書に掲載されている単語」などを使うことから命名されました。",
+        "vi": "Được đặt tên vì sử dụng \"các từ được liệt kê trong từ điển\" để tìm ra mật khẩu.",
+        "en": "Named because it uses 'words listed in dictionaries' to find passwords."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "パスワードリスト攻撃",
+      "vi": "Password List Attack",
+      "en": "Password List Attack"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "パスワードリスト攻撃",
+        "vi": "Password List Attack",
+        "en": "Password List Attack"
+      },
+      "definition": {
+        "ja": "パスワードリスト攻撃（List Based Attack）とは、他のサービスから不正に入手したIDとパスワードの一覧を使って正規ルートから不正アクセスする攻撃です。",
+        "vi": "Password List Attack (List Based Attack) là cuộc tấn công truy cập trái phép từ đường chính thức bằng cách sử dụng danh sách ID và mật khẩu lấy được bất hợp pháp từ dịch vụ khác.",
+        "en": "Password List Attack (List Based Attack) is attack accessing illegally from legitimate route using list of IDs and passwords illegally obtained from other services."
+      },
+      "etymology": {
+        "ja": "不正アクセスにIDとパスワードの一覧（パスワードリスト）を使うことから命名されました。",
+        "vi": "Được đặt tên vì sử dụng danh sách ID và mật khẩu (password list) để truy cập trái phép.",
+        "en": "Named because it uses list of IDs and passwords (password list) for illegal access."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "クロスサイトスクリプティング",
+      "vi": "Cross Site Scripting",
+      "en": "Cross Site Scripting"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "クロスサイトスクリプティング",
+        "vi": "Cross Site Scripting",
+        "en": "Cross Site Scripting"
+      },
+      "definition": {
+        "ja": "クロスサイトスクリプティング（Cross Site Scripting）とは、Webページにユーザーの入力データをそのまま表示するフォーム、または処理があるときに、第三者が悪意あるスクリプトを埋め込むことで、cookieなどのデータを盗む攻撃です。",
+        "vi": "Cross Site Scripting là cuộc tấn công đánh cắp dữ liệu như cookie bằng cách bên thứ ba nhúng script độc hại khi trang Web có form hoặc xử lý hiển thị dữ liệu nhập của người dùng nguyên trạng.",
+        "en": "Cross Site Scripting is attack stealing data like cookies by third party embedding malicious script when Web page has form or processing that displays user input data as-is."
+      },
+      "etymology": {
+        "ja": "サイトを横断して（クロスサイト）、スクリプト処理（スクリプティング）なので、このように呼ばれます。",
+        "vi": "Được gọi như vậy vì xử lý script (scripting) vượt qua các trang (cross site).",
+        "en": "Called this because it's script processing (scripting) across sites (cross site)."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "バッファオーバーフロー攻撃",
+      "vi": "Buffer Overflow Attack",
+      "en": "Buffer Overflow Attack"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "バッファオーバーフロー攻撃",
+        "vi": "Buffer Overflow Attack",
+        "en": "Buffer Overflow Attack"
+      },
+      "definition": {
+        "ja": "バッファオーバーフロー攻撃（Buffer Overflow Attack）とは、データの格納領域（バッファ）に入りきらないほどの大きなデータを送りつけて、システムを不正操作する攻撃です。この攻撃は、プログラムのセキュリティホール（脆弱性）を突いて行われるため、パッチ（修正プログラム）を適用して脆弱性をふさぐことが重要です。",
+        "vi": "Buffer Overflow Attack là cuộc tấn công thao tác hệ thống trái phép bằng cách gửi dữ liệu lớn đến mức không thể chứa trong vùng lưu trữ dữ liệu (buffer). Vì cuộc tấn công này khai thác lỗ hổng bảo mật (vulnerability) của chương trình, việc áp dụng patch (chương trình sửa lỗi) để bịt lỗ hổng là quan trọng.",
+        "en": "Buffer Overflow Attack is attack manipulating system illegally by sending data too large to fit in data storage area (buffer). Since this attack exploits program's security hole (vulnerability), applying patch (fix program) to close vulnerability is important."
+      },
+      "etymology": {
+        "ja": "データの格納領域（バッファ）が溢れる（オーバーフロー）ことから命名されました。",
+        "vi": "Được đặt tên vì vùng lưu trữ dữ liệu (buffer) bị tràn (overflow).",
+        "en": "Named because data storage area (buffer) overflows."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "セキュリティホール",
+      "vi": "Security Hole",
+      "en": "Security Hole"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "セキュリティホール",
+        "vi": "Security Hole",
+        "en": "Security Hole"
+      },
+      "definition": {
+        "ja": "セキュリティホール（Security Hole）とは、不正アクセスなどに利用される、コンピュータシステムやネットワークに存在する弱点や欠陥のことです。「脆弱性」とも呼ばれます。",
+        "vi": "Security Hole là điểm yếu hoặc khuyết điểm tồn tại trong hệ thống máy tính hoặc mạng được sử dụng cho truy cập trái phép. Còn được gọi là \"lỗ hổng\".",
+        "en": "Security Hole is weakness or flaw existing in computer system or network used for illegal access. Also called 'vulnerability.'"
+      },
+      "etymology": {
+        "ja": "セキュリティ上の「抜け穴（Hole）」という意味です。",
+        "vi": "Có nghĩa là \"lỗ hổng (Hole)\" về bảo mật.",
+        "en": "Means 'hole' in security."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "辞書攻撃",
+      "vi": "Dictionary Attack (Tấn công từ điển)",
+      "en": "Dictionary Attack",
+      "my": "အဘိဓာန်တိုက်ခိုက်"
+    },
+    {
+      "term": "パスワードリスト攻撃",
+      "vi": "Password List Attack (Tấn công danh sách mật khẩu)",
+      "en": "Password List Attack",
+      "my": "စကားလုံးစာရင်း တိုက်ခိုက်"
+    },
+    {
+      "term": "クロスサイトスクリプティング",
+      "vi": "Cross Site Scripting (XSS)",
+      "en": "Cross Site Scripting (XSS)",
+      "my": "XSS (ကရော့စ်ဆိုက် စကရစ်တင်း)"
+    },
+    {
+      "term": "バッファオーバーフロー攻撃",
+      "vi": "Buffer Overflow Attack (Tấn công tràn bộ đệm)",
+      "en": "Buffer Overflow Attack",
+      "my": "ဘက်ဖာ အိုးဘာဖလိုး တိုက်ခိုက်"
+    },
+    {
+      "term": "セキュリティホール",
+      "vi": "Security Hole (Lỗ hổng bảo mật)",
+      "en": "Security Hole",
+      "my": "လုံခြုံရေးအပေါက်"
+    },
+    {
+      "term": "脆弱性",
+      "reading": "ぜいじゃくせい",
+      "vi": "Vulnerability (Lỗ hổng)",
+      "en": "Vulnerability",
+      "my": "အားနည်းချက် (အပေါက်)"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

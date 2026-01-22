@@ -1,0 +1,405 @@
+{
+  "page_id": 96,
+  "image": "p_0096.png",
+  "chapter": 2,
+  "section": "02-05",
+  "page_number": 80,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "個人情報保護法",
+      "reading": "こじんじょうほうほごほう",
+      "vi": "Luật bảo vệ thông tin cá nhân",
+      "en": "Personal Information Protection Law",
+      "my": "ကိုယ်ရေးအချက်အလက် ကာကွယ်မှုဥပဒေ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "個人情報保護法は、本項において最も重要な法律です。ITパスポート試験でも頻出の用語です。そうであるにもかかわらず、覚えるべきことはとても少ないので、筆者は「個人情報の問題は必ず正答できるボーナス問題だ」と考えています。みなさんも正答できるようになっておくことをお勧めします。\n\n最初にお伝えしておきますが、個人情報保護法に関する問題は「氏名」と「身体的特徴」の2つのキーワードを覚えておくだけで、ほぼすべての問題を解くことができます。そのことを念頭において、以降の解説を読み進めてください。",
+      "vi": "Luật bảo vệ thông tin cá nhân là luật quan trọng nhất trong phần này. Đây cũng là thuật ngữ thường được ra đề trong kỳ thi IT Passport. Mặc dù vậy, vì có rất ít điều cần nhớ, tác giả cho rằng câu hỏi về thông tin cá nhân là câu hỏi thưởng chắc chắn trả lời đúng. Khuyến nghị bạn cũng nên có thể trả lời đúng.\n\nĐầu tiên, câu hỏi về Luật bảo vệ thông tin cá nhân có thể giải được hầu hết chỉ bằng cách nhớ 2 từ khóa: Họ tên và Đặc điểm cơ thể. Hãy nhớ điều này khi đọc giải thích tiếp theo.",
+      "en": "Personal Information Protection Law is the most important law here. It's frequently tested on IT Passport. Despite this, there's very little to memorize, so I consider personal information questions as bonus questions you can definitely answer correctly.\n\nFirst, personal information protection questions can be solved by just remembering 2 keywords: Name and Physical characteristics. Keep this in mind while reading further.",
+      "my": "Personal Information Protection Law သည် ဤနေရာတွင် အရေးကြီးဆုံးဥပဒေဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "個人情報保護法",
+          "reading": "こじんじょうほうほごほう"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "法律",
+          "reading": "ほうりつ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "頻出",
+          "reading": "ひんしゅつ"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "少",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "筆者",
+          "reading": "ひっしゃ"
+        },
+        {
+          "kanji": "個人情報",
+          "reading": "こじんじょうほう"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "正答",
+          "reading": "せいとう"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "勧",
+          "reading": "かん"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "伝",
+          "reading": "でん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "氏名",
+          "reading": "しめい"
+        },
+        {
+          "kanji": "身体的特徴",
+          "reading": "しんたいてきとくちょう"
+        },
+        {
+          "kanji": "解",
+          "reading": "かい"
+        },
+        {
+          "kanji": "念頭",
+          "reading": "ねんとう"
+        },
+        {
+          "kanji": "以降",
+          "reading": "いこう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "個人情報保護法の概要",
+      "vi": "Tổng quan về Luật bảo vệ thông tin cá nhân",
+      "en": "Overview of Personal Information Protection Law"
+    },
+    {
+      "type": "paragraph",
+      "ja": "個人情報保護法とは、氏名、住所、電話番号など、個人が特定できる情報を、正しく取り扱うための法律です。テクノロジの発達によって膨大な量の個人情報がコンピュータに保存されるようになったため、それらが流出したときの被害も大きなりました。そのため、個人情報を守るための法律である個人情報保護法が作られました。\n\nただし、個人に関する情報がすべて個人情報保護法で守られているわけではありません。この法律で守られている個人情報のうち、ITパスポート試験で問われる具体例は主に次の3点です。\n\n・氏名と住所\n・社員名と役職\n・個人が識別できる映像や音声\n\n「個人が識別できる映像や音声」については意外に思う人もいるかもしれませんが、個人情報には身体的特徴なども含まれます。顔がはっきり映った防犯カメラの映像があれば個人を特定できるので、この映像も個人情報になります。",
+      "vi": "Luật bảo vệ thông tin cá nhân là luật để xử lý đúng thông tin có thể xác định cá nhân như họ tên, địa chỉ, số điện thoại. Do sự phát triển của công nghệ, lượng lớn thông tin cá nhân được lưu trữ trên máy tính, nên thiệt hại khi rò rỉ cũng lớn hơn. Vì vậy, Luật bảo vệ thông tin cá nhân được tạo ra.\n\nTuy nhiên, không phải tất cả thông tin về cá nhân đều được bảo vệ bởi luật này. Trong số thông tin cá nhân được bảo vệ, các ví dụ cụ thể được hỏi trong IT Passport chủ yếu là 3 điểm sau:\n\n・Họ tên và địa chỉ\n・Tên nhân viên và chức vụ\n・Hình ảnh hoặc âm thanh có thể xác định cá nhân\n\nVề Hình ảnh hoặc âm thanh có thể xác định cá nhân, có người có thể ngạc nhiên, nhưng thông tin cá nhân bao gồm cả đặc điểm cơ thể. Nếu có video camera an ninh quay rõ mặt thì có thể xác định cá nhân, nên video này cũng là thông tin cá nhân.",
+      "en": "Personal Information Protection Law handles information that can identify individuals like name, address, phone number correctly. As technology developed, massive personal information is stored on computers, so damage from leaks became larger. Thus, Personal Information Protection Law was created.\n\nHowever, not all personal information is protected by this law. Among protected personal information, IT Passport mainly asks about:\n\n・Name and address\n・Employee name and position\n・Images or audio that can identify individuals\n\nSome may be surprised about Images or audio that can identify individuals, but personal information includes physical characteristics. If security camera footage clearly shows a face, individuals can be identified, so this footage is also personal information.",
+      "my": "Personal Information Protection Law သည် နာမည်၊ လိပ်စာ၊ ဖုန်းနံပါတ်ကဲ့သို့ ပုဂ္ဂိုလ်များကို ခွဲခြားနိုင်သော အချက်အလက်များကို မှန်ကန်စွာ ကိုင်တွယ်သည်။",
+      "terms": [
+        {
+          "kanji": "個人情報保護法",
+          "reading": "こじんじょうほうほごほう"
+        },
+        {
+          "kanji": "氏名",
+          "reading": "しめい"
+        },
+        {
+          "kanji": "住所",
+          "reading": "じゅうしょ"
+        },
+        {
+          "kanji": "電話番号",
+          "reading": "でんわばんごう"
+        },
+        {
+          "kanji": "個人",
+          "reading": "こじん"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "法律",
+          "reading": "ほうりつ"
+        },
+        {
+          "kanji": "発達",
+          "reading": "はったつ"
+        },
+        {
+          "kanji": "膨大",
+          "reading": "ぼうだい"
+        },
+        {
+          "kanji": "量",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "個人情報",
+          "reading": "こじんじょうほう"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "流出",
+          "reading": "りゅうしゅつ"
+        },
+        {
+          "kanji": "被害",
+          "reading": "ひがい"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "社員名",
+          "reading": "しゃいんめい"
+        },
+        {
+          "kanji": "役職",
+          "reading": "やくしょく"
+        },
+        {
+          "kanji": "識別",
+          "reading": "しきべつ"
+        },
+        {
+          "kanji": "映像",
+          "reading": "えいぞう"
+        },
+        {
+          "kanji": "音声",
+          "reading": "おんせい"
+        },
+        {
+          "kanji": "意外",
+          "reading": "いがい"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "身体的特徴",
+          "reading": "しんたいてきとくちょう"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "顔",
+          "reading": "かお"
+        },
+        {
+          "kanji": "映",
+          "reading": "えい"
+        },
+        {
+          "kanji": "防犯",
+          "reading": "ぼうはん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "個人情報関連のその他の用語",
+      "vi": "Thuật ngữ khác liên quan đến thông tin cá nhân",
+      "en": "Other Personal Information Terms"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記の個人情報の他に、ITパスポート試験では次ページの表の用語が出題されることがあります。それぞれの特徴を把握しておいてください。",
+      "vi": "Ngoài thông tin cá nhân trên, kỳ thi IT Passport có thể ra đề các thuật ngữ trong bảng trang tiếp theo. Hãy nắm rõ đặc điểm của từng thuật ngữ.",
+      "en": "Besides the above personal information, IT Passport may test terms in the next page's table. Understand each term's features.",
+      "my": "အထက်ပါ ကိုယ်ရေးအချက်အလက်များ အပြင် IT Passport သည် နောက်စာမျက်နှာဇယား၏ ဝေါဟာရများကို စမ်းသပ်နိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "個人情報",
+          "reading": "こじんじょうほう"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "個人情報保護法",
+      "reading": "こじんじょうほうほごほう",
+      "romaji": "Kojin Jouhou Hogo Hou",
+      "vi": "Luật bảo vệ thông tin cá nhân",
+      "en": "Personal Information Protection Law",
+      "my": "ကိုယ်ရေးအချက်အလက် ကာကွယ်မှုဥပဒေ"
+    },
+    {
+      "kanji": "個人情報",
+      "reading": "こじんじょうほう",
+      "romaji": "Kojin Jouhou",
+      "vi": "Thông tin cá nhân",
+      "en": "Personal Information",
+      "my": "ကိုယ်ရေးအချက်အလက်"
+    },
+    {
+      "kanji": "身体的特徴",
+      "reading": "しんたいてきとくちょう",
+      "romaji": "Shintaiteki Tokuchou",
+      "vi": "Đặc điểm cơ thể",
+      "en": "Physical Characteristics",
+      "my": "ခန္ဓာကိုယ်အင်္ဂရပ်များ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false
+  }
+}

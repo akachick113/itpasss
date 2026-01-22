@@ -1,0 +1,290 @@
+{
+  "page_id": 335,
+  "image": "p_0335.png",
+  "chapter": 9,
+  "section": "09-01",
+  "page_number": 319,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "まずは、コンピュータが得意とする2進数を、人間が読みやすい10進数に変換する方法から解説します。",
+      "vi": "Trước tiên, hãy giải thích phương pháp chuyển đổi số nhị phân (mà máy tính giỏi) sang số thập phân (dễ đọc với con người).",
+      "en": "First, let's explain method to convert binary (which computers are good at) to decimal (easy for humans to read).",
+      "terms": [
+        {
+          "kanji": "得意",
+          "reading": "とくい"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "2進数→10進数",
+      "reading": "にしんすうからじゅっしんすう",
+      "vi": "Nhị phân → Thập phân",
+      "en": "Binary → Decimal"
+    },
+    {
+      "type": "paragraph",
+      "ja": "2進数を10進数に変換するには、最初に次の計算を行います。",
+      "vi": "Để chuyển đổi số nhị phân sang số thập phân, đầu tiên thực hiện phép tính sau.",
+      "en": "To convert binary to decimal, first perform following calculation.",
+      "terms": [
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "formula",
+      "title": {
+        "ja": "各桁の数字×2ⁿ（nは[桁数-1]）",
+        "vi": "Số của mỗi chữ số × 2ⁿ (n là [số chữ số - 1])",
+        "en": "Each digit × 2ⁿ (n is [number of digits - 1])"
+      },
+      "note": {
+        "ja": "苦手意識がある人も一度は挑戦！",
+        "vi": "Người không tự tin cũng hãy thử một lần!",
+        "en": "Even if not confident, try once!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "その後、かけ算した各桁の数字をたし算します。ちなみに2⁰は1なので、1桁目は常に0か1になります。例えば、2進数の「100」や「111」を10進数に変換するには次のように計算します。",
+      "vi": "Sau đó, cộng các số đã nhân của mỗi chữ số. Vì 2⁰ = 1 nên chữ số thứ 1 luôn là 0 hoặc 1. Ví dụ, để chuyển đổi \"100\" hoặc \"111\" nhị phân sang thập phân, tính như sau.",
+      "en": "Then, add multiplied digits. Since 2⁰ = 1, first digit is always 0 or 1. For example, to convert binary '100' or '111' to decimal, calculate as follows.",
+      "terms": [
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "算",
+          "reading": "さん"
+        },
+        {
+          "kanji": "各桁",
+          "reading": "かっけた"
+        },
+        {
+          "kanji": "数字",
+          "reading": "すうじ"
+        },
+        {
+          "kanji": "桁目",
+          "reading": "けため"
+        },
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        }
+      ]
+    },
+    {
+      "type": "calculation_example",
+      "title": {
+        "ja": "2進数「100」→10進数",
+        "vi": "Nhị phân \"100\" → Thập phân",
+        "en": "Binary '100' → Decimal"
+      },
+      "steps": [
+        "1×2² + 0×2¹ + 0×2⁰",
+        "= 4 + 0 + 0 = 4"
+      ],
+      "result": {
+        "ja": "2進数の「100」は10進数では「4」",
+        "vi": "\"100\" nhị phân là \"4\" thập phân",
+        "en": "Binary '100' is '4' in decimal"
+      }
+    },
+    {
+      "type": "calculation_example",
+      "title": {
+        "ja": "2進数「111」→10進数",
+        "vi": "Nhị phân \"111\" → Thập phân",
+        "en": "Binary '111' → Decimal"
+      },
+      "steps": [
+        "1×2² + 1×2¹ + 1×2⁰",
+        "= 4 + 2 + 1 = 7"
+      ],
+      "result": {
+        "ja": "2進数の「111」は10進数では「7」",
+        "vi": "\"111\" nhị phân là \"7\" thập phân",
+        "en": "Binary '111' is '7' in decimal"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "10進数→2進数",
+      "reading": "じゅっしんすうからにしんすう",
+      "vi": "Thập phân → Nhị phân",
+      "en": "Decimal → Binary"
+    },
+    {
+      "type": "paragraph",
+      "ja": "10進数を2進数に変換するには、10進数の数を2でわり算して商が0になるまで計算を行い、余りを下から並べます。",
+      "vi": "Để chuyển đổi số thập phân sang số nhị phân, chia số thập phân cho 2 đến khi thương bằng 0, rồi xếp phần dư từ dưới lên.",
+      "en": "To convert decimal to binary, divide decimal by 2 until quotient is 0, then arrange remainders from bottom to top.",
+      "terms": [
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "算",
+          "reading": "さん"
+        },
+        {
+          "kanji": "商",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "余",
+          "reading": "よ"
+        },
+        {
+          "kanji": "下",
+          "reading": "した"
+        },
+        {
+          "kanji": "並",
+          "reading": "なみ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、10進数の「4」を2進数に変換するには次のように計算します。",
+      "vi": "Ví dụ, để chuyển đổi \"4\" thập phân sang nhị phân, tính như sau.",
+      "en": "For example, to convert decimal '4' to binary, calculate as follows.",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        }
+      ]
+    },
+    {
+      "type": "calculation_example",
+      "title": {
+        "ja": "10進数「4」→2進数",
+        "vi": "Thập phân \"4\" → Nhị phân",
+        "en": "Decimal '4' → Binary"
+      },
+      "steps": [
+        "4 ÷ 2 = 2 ... 余り 0",
+        "2 ÷ 2 = 1 ... 余り 0",
+        "1 ÷ 2 = 0 ... 余り 1",
+        "→ 下から上に余りを並べる: 100"
+      ],
+      "result": {
+        "ja": "10進数の「4」は、2進数では「100」",
+        "vi": "\"4\" thập phân là \"100\" nhị phân",
+        "en": "Decimal '4' is '100' in binary"
+      }
+    }
+  ],
+  "meta": {
+    "has_calculation": true
+  }
+}

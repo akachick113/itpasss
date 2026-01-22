@@ -1,0 +1,306 @@
+{
+  "page_id": 216,
+  "image": "p_0216.png",
+  "chapter": 5,
+  "section": "05-05",
+  "page_number": 200,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "データマイニングとは",
+      "vi": "Data Mining là gì",
+      "en": "What is Data Mining"
+    },
+    {
+      "type": "paragraph",
+      "ja": "データマイニングとは、蓄積されている膨大なデータから、有益な情報を取り出すための手法の総称です。「マイニング」とは、本来は「金を掘る」という意味です。\n\nITパスポート試験では、「データマイニング」という用語の定義が出題されることがあります。",
+      "vi": "Data Mining là tổng hợp các phương pháp để trích xuất thông tin hữu ích từ dữ liệu khổng lồ được tích lũy. Mining ban đầu có nghĩa là đào vàng.\n\nTrong IT Passport, đôi khi định nghĩa thuật ngữ Data Mining được ra đề.",
+      "en": "Data Mining is a collective term for methods to extract useful information from accumulated massive data. 'Mining' originally means 'digging for gold'.\n\nIn IT Passport, the definition of 'Data Mining' is sometimes tested.",
+      "my": "Data Mining သည် စုဆောင်းထားသော ကြီးမားသောဒေတာမှ အသုံးဝင်သော အချက်အလက်များကို ထုတ်ယူရန် နည်းလမ်းများ၏ စုစည်းနာမည်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "蓄積",
+          "reading": "ちくせき"
+        },
+        {
+          "kanji": "膨大",
+          "reading": "ぼうだい"
+        },
+        {
+          "kanji": "有益",
+          "reading": "ゆうえき"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "総称",
+          "reading": "そうしょう"
+        },
+        {
+          "kanji": "本来",
+          "reading": "ほんらい"
+        },
+        {
+          "kanji": "金",
+          "reading": "きん"
+        },
+        {
+          "kanji": "掘",
+          "reading": "くつ"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "データマイニング関連の用語",
+        "vi": "Thuật ngữ liên quan đến Data Mining",
+        "en": "Data Mining Related Terms"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "テキストマイニング",
+            "文字列を対象としたデータマイニングのこと。"
+          ],
+          "vi": [
+            "Text Mining",
+            "Data Mining nhắm vào chuỗi văn bản."
+          ],
+          "en": [
+            "Text Mining",
+            "Data mining targeting text strings."
+          ]
+        },
+        {
+          "ja": [
+            "データサイエンス",
+            "統計学や機械学習などを利用してデータを分析する学問。データ分析を行う研究者や技術者のことを「データサイエンティスト」という。"
+          ],
+          "vi": [
+            "Data Science",
+            "Khoa học phân tích dữ liệu sử dụng thống kê học và machine learning. Nhà nghiên cứu hoặc kỹ sư phân tích dữ liệu gọi là Data Scientist."
+          ],
+          "en": [
+            "Data Science",
+            "Science analyzing data using statistics and machine learning. Researchers and engineers doing data analysis are called 'Data Scientists'."
+          ]
+        },
+        {
+          "ja": [
+            "ゲーミフィケーション",
+            "ポイントやアイテムの獲得といったゲーム要素を、ゲーム以外の商品やサービスに応用して、顧客がその商品やサービスを使い続ける動機付けを行うこと。"
+          ],
+          "vi": [
+            "Gamification",
+            "Áp dụng yếu tố game như thu thập điểm hoặc item vào sản phẩm hoặc dịch vụ ngoài game để tạo động lực cho khách hàng tiếp tục sử dụng."
+          ],
+          "en": [
+            "Gamification",
+            "Applying game elements like earning points or items to non-game products/services to motivate customers to continue using them."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "情報リテラシーの習得の重要性",
+      "vi": "Tầm quan trọng của việc tiếp thu Information Literacy",
+      "en": "Importance of Acquiring Information Literacy"
+    },
+    {
+      "type": "paragraph",
+      "ja": "情報リテラシー（Information Literacy）とは、情報を活用する能力です。「リテラシー」の本来の意味は「読み書きする能力」ですが、「情報」と組み合わせることで「情報を集めたり、発信したりする能力」や「コンピュータやインターネットなどのITを使う能力」という意味になります。",
+      "vi": "Information Literacy là năng lực sử dụng thông tin. Ý nghĩa ban đầu của Literacy là năng lực đọc viết, nhưng kết hợp với thông tin có nghĩa là năng lực thu thập hoặc phát thông tin và năng lực sử dụng IT như máy tính hoặc internet.",
+      "en": "Information Literacy is the ability to utilize information. 'Literacy' originally means 'ability to read and write', but combined with 'information', it means 'ability to gather or send information' and 'ability to use IT like computers and internet'.",
+      "my": "Information Literacy သည် အချက်အလက်ကို အသုံးချနိုင်စွမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "活用",
+          "reading": "かつよう"
+        },
+        {
+          "kanji": "能力",
+          "reading": "のうりょく"
+        },
+        {
+          "kanji": "本来",
+          "reading": "ほんらい"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "発信",
+          "reading": "はっしん"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "デジタルディバイド",
+      "reading": "でじたるでぃばいど",
+      "vi": "Digital Divide",
+      "en": "Digital Divide"
+    },
+    {
+      "type": "paragraph",
+      "ja": "デジタルディバイド（Digital Divide）とは、情報リテラシーの違いによって生じる、経済的・社会的な格差のことです。「ディバイド」は「格差」という意味です。デジタルディバイドを解消するには、情報リテラシーを向上させる必要があります。",
+      "vi": "Digital Divide là sự chênh lệch kinh tế và xã hội phát sinh do sự khác biệt về Information Literacy. Divide có nghĩa là khoảng cách. Để giải quyết Digital Divide cần nâng cao Information Literacy.",
+      "en": "Digital Divide is the economic and social gap caused by differences in Information Literacy. 'Divide' means 'gap'. To solve Digital Divide, Information Literacy needs to be improved.",
+      "my": "Digital Divide သည် Information Literacy ကွာခြားချက်ကြောင့် ဖြစ်ပေါ်လာသော စီးပွားရေးနှင့် လူမှုရေး ကွာဟချက်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "経済的",
+          "reading": "けいざいてき"
+        },
+        {
+          "kanji": "社会的",
+          "reading": "しゃかいてき"
+        },
+        {
+          "kanji": "格差",
+          "reading": "かくさ"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "解消",
+          "reading": "かいしょう"
+        },
+        {
+          "kanji": "向上",
+          "reading": "こうじょう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "データマイニング",
+      "reading": "でーたまいにんぐ",
+      "romaji": "Data Mining",
+      "vi": "Khai thác dữ liệu",
+      "en": "Data Mining",
+      "my": "ဒေတာ တူးဖော်ခြင်း"
+    },
+    {
+      "kanji": "情報リテラシー",
+      "reading": "じょうほうりてらしー",
+      "romaji": "Information Literacy",
+      "vi": "Năng lực thông tin",
+      "en": "Information Literacy",
+      "my": "သတင်းအချက်အလက် ကျွမ်းကျင်မှု"
+    },
+    {
+      "kanji": "デジタルディバイド",
+      "reading": "でじたるでぃばいど",
+      "romaji": "Digital Divide",
+      "vi": "Khoảng cách số",
+      "en": "Digital Divide",
+      "my": "ဒစ်ဂျစ်တယ် ကွာဟချက်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true
+  }
+}

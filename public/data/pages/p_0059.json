@@ -1,0 +1,502 @@
+{
+  "page_id": 59,
+  "image": "p_0059.png",
+  "chapter": 1,
+  "section": "01-08",
+  "page_number": 43,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "損益計算書の項目（★マークがついているものが最重要用語）",
+        "vi": "Các mục trong báo cáo kết quả kinh doanh (★ là thuật ngữ quan trọng nhất)",
+        "en": "Income Statement Items (★ marks most important terms)"
+      },
+      "headers": {
+        "ja": [
+          "項目",
+          "説明",
+          "参考例(百万円)"
+        ],
+        "vi": [
+          "Mục",
+          "Giải thích",
+          "Ví dụ (triệu yên)"
+        ],
+        "en": [
+          "Item",
+          "Explanation",
+          "Example (million yen)"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "売上高",
+            "商品を売って得た金額。",
+            "100"
+          ],
+          "vi": [
+            "Doanh thu",
+            "Số tiền thu được từ bán hàng.",
+            "100"
+          ],
+          "en": [
+            "Sales",
+            "Amount earned from selling goods.",
+            "100"
+          ]
+        },
+        {
+          "ja": [
+            "売上原価",
+            "商品を作るための費用（＝変動費）。",
+            "30"
+          ],
+          "vi": [
+            "Giá vốn hàng bán",
+            "Chi phí để sản xuất hàng (= chi phí biến đổi).",
+            "30"
+          ],
+          "en": [
+            "Cost of Sales",
+            "Cost to make products (= variable cost).",
+            "30"
+          ]
+        },
+        {
+          "ja": [
+            "★売上総利益",
+            "売上高ー売上原価。粗利益ともいう。この項目を見ると「商品力」を知ることができる。",
+            "70"
+          ],
+          "vi": [
+            "★Lợi nhuận gộp",
+            "Doanh thu - Giá vốn. Còn gọi là lợi nhuận thô. Nhìn mục này để biết \"sức mạnh sản phẩm\".",
+            "70"
+          ],
+          "en": [
+            "★Gross Profit",
+            "Sales - Cost of Sales. Also called gross margin. Shows \"product strength\".",
+            "70"
+          ]
+        },
+        {
+          "ja": [
+            "販売費及び一般管理費",
+            "商品を販売・管理するための費用（＝固定費）。略して「販管費」とも",
+            "5"
+          ],
+          "vi": [
+            "Chi phí bán hàng và quản lý",
+            "Chi phí bán hàng và quản lý (= chi phí cố định). Viết tắt là \"SGA\".",
+            "5"
+          ],
+          "en": [
+            "Selling & Admin Expenses",
+            "Costs for selling and managing (= fixed cost). Abbreviated as SGA.",
+            "5"
+          ]
+        },
+        {
+          "ja": [
+            "★営業利益",
+            "売上総利益ー販管費。本業で稼いだ利益。「営業＝本業」と考えるとわかりやすい。この項目を見ると「企業の本業の競争力」がわかる",
+            "50"
+          ],
+          "vi": [
+            "★Lợi nhuận hoạt động",
+            "Lợi nhuận gộp - Chi phí SGA. Lợi nhuận từ hoạt động chính. \"Hoạt động = chính\". Mục này cho thấy \"năng lực cạnh tranh của hoạt động chính\".",
+            "50"
+          ],
+          "en": [
+            "★Operating Profit",
+            "Gross Profit - SGA. Profit from main business. Shows \"main business competitiveness\".",
+            "50"
+          ]
+        },
+        {
+          "ja": [
+            "営業外収益",
+            "本業以外で稼いだ収益。例えば、利息や株の配当益などによる収入",
+            "15"
+          ],
+          "vi": [
+            "Thu nhập ngoài hoạt động",
+            "Thu nhập kiếm được ngoài hoạt động chính. Ví dụ: tiền lãi, cổ tức.",
+            "15"
+          ],
+          "en": [
+            "Non-operating Income",
+            "Income earned outside main business. E.g., interest, dividends.",
+            "15"
+          ]
+        },
+        {
+          "ja": [
+            "営業外費用",
+            "本業以外でかかった費用。例えば、利息の支払いや株の売却損など",
+            "5"
+          ],
+          "vi": [
+            "Chi phí ngoài hoạt động",
+            "Chi phí phát sinh ngoài hoạt động chính. Ví dụ: trả lãi, lỗ bán cổ phiếu.",
+            "5"
+          ],
+          "en": [
+            "Non-operating Expenses",
+            "Expenses outside main business. E.g., interest payments, stock sale losses.",
+            "5"
+          ]
+        },
+        {
+          "ja": [
+            "★経常利益",
+            "営業利益＋営業外収益ー営業外費用。この項目を見ると、「本業と副業を合わせた企業全体の競争力」を知ることができる",
+            "60"
+          ],
+          "vi": [
+            "★Lợi nhuận thường xuyên",
+            "Lợi nhuận hoạt động + Thu nhập ngoài hoạt động - Chi phí ngoài hoạt động. Mục này cho thấy \"năng lực cạnh tranh tổng thể của doanh nghiệp\".",
+            "60"
+          ],
+          "en": [
+            "★Ordinary Profit",
+            "Operating Profit + Non-operating Income - Non-operating Expenses. Shows \"overall company competitiveness\".",
+            "60"
+          ]
+        },
+        {
+          "ja": [
+            "特別利益",
+            "臨時の利益。例えば、自社ビルを売って得たお金など",
+            "5"
+          ],
+          "vi": [
+            "Lợi nhuận đặc biệt",
+            "Lợi nhuận tạm thời. Ví dụ: tiền bán tòa nhà công ty.",
+            "5"
+          ],
+          "en": [
+            "Extraordinary Income",
+            "Temporary profit. E.g., money from selling company building.",
+            "5"
+          ]
+        },
+        {
+          "ja": [
+            "特別損失",
+            "臨時の損失。例えば、地震や火災などの損害、裁判などで発生した損失",
+            "10"
+          ],
+          "vi": [
+            "Tổn thất đặc biệt",
+            "Tổn thất tạm thời. Ví dụ: thiệt hại từ động đất, hỏa hoạn, kiện tụng.",
+            "10"
+          ],
+          "en": [
+            "Extraordinary Loss",
+            "Temporary loss. E.g., earthquake, fire damage, lawsuit losses.",
+            "10"
+          ]
+        },
+        {
+          "ja": [
+            "税引前当期純利益",
+            "税金を引く前の利益。",
+            "35"
+          ],
+          "vi": [
+            "Lợi nhuận trước thuế",
+            "Lợi nhuận trước khi trừ thuế.",
+            "35"
+          ],
+          "en": [
+            "Profit Before Tax",
+            "Profit before deducting taxes.",
+            "35"
+          ]
+        },
+        {
+          "ja": [
+            "法人税等",
+            "税金を払うための費用。",
+            "10"
+          ],
+          "vi": [
+            "Thuế thu nhập doanh nghiệp",
+            "Chi phí nộp thuế.",
+            "10"
+          ],
+          "en": [
+            "Corporate Tax",
+            "Cost for paying taxes.",
+            "10"
+          ]
+        },
+        {
+          "ja": [
+            "★当期純利益",
+            "最終的な利益。",
+            "25"
+          ],
+          "vi": [
+            "★Lợi nhuận ròng",
+            "Lợi nhuận cuối cùng.",
+            "25"
+          ],
+          "en": [
+            "★Net Profit",
+            "Final profit.",
+            "25"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "営業外損益と特別損益",
+        "vi": "Lãi lỗ ngoài hoạt động và Lãi lỗ đặc biệt",
+        "en": "Non-operating and Extraordinary Profit/Loss",
+        "my": "Non-operating နှင့် Extraordinary Profit/Loss"
+      },
+      "content": {
+        "ja": "上表のうち、営業外収益と営業外費用を合わせて「営業外損益」といいます。また、特別利益と特別損失を合わせて「特別損益」といいます。これらの用語が試験に出題されることもありますので覚えておいてください。",
+        "vi": "Trong bảng trên, thu nhập ngoài hoạt động và chi phí ngoài hoạt động gộp lại gọi là \"lãi lỗ ngoài hoạt động\". Lợi nhuận đặc biệt và tổn thất đặc biệt gộp lại gọi là \"lãi lỗ đặc biệt\". Các thuật ngữ này cũng có thể xuất hiện trong thi nên hãy ghi nhớ.",
+        "en": "In the table above, non-operating income and non-operating expenses together are called \"non-operating profit/loss.\" Extraordinary income and extraordinary loss together are called \"extraordinary profit/loss.\" These terms may appear on exams, so please remember them.",
+        "my": "အထက်ပါဇယားတွင် non-operating income နှင့် non-operating expenses ကို \"non-operating profit/loss\" ဟုခေါ်သည်။",
+        "terms": [
+          {
+            "kanji": "上表",
+            "reading": "じょうひょう"
+          },
+          {
+            "kanji": "営業外収益",
+            "reading": "えいぎょうがいしゅうえき"
+          },
+          {
+            "kanji": "営業外費用",
+            "reading": "えいぎょうがいひよう"
+          },
+          {
+            "kanji": "合",
+            "reading": "ごう"
+          },
+          {
+            "kanji": "営業外損益",
+            "reading": "えいぎょうがいそんえき"
+          },
+          {
+            "kanji": "特別利益",
+            "reading": "とくべつりえき"
+          },
+          {
+            "kanji": "特別損失",
+            "reading": "とくべつそんしつ"
+          },
+          {
+            "kanji": "特別損益",
+            "reading": "とくべつそんえき"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          }
+        ]
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・売上総利益 ＝ 売上高 ー 売上原価\n・営業利益 ＝ 売上総利益 ー 販管費\n・経常利益 ＝ 営業利益 ＋ 営業外収益 ー 営業外費用\n・当期純利益 ＝ 最終的な利益",
+        "vi": "・Lợi nhuận gộp = Doanh thu - Giá vốn\n・Lợi nhuận hoạt động = Lợi nhuận gộp - Chi phí SGA\n・Lợi nhuận thường xuyên = Lợi nhuận hoạt động + Thu nhập ngoài hoạt động - Chi phí ngoài hoạt động\n・Lợi nhuận ròng = Lợi nhuận cuối cùng",
+        "en": "・Gross Profit = Sales - Cost of Sales\n・Operating Profit = Gross Profit - SGA\n・Ordinary Profit = Operating Profit + Non-operating Income - Non-operating Expenses\n・Net Profit = Final profit",
+        "my": "・Gross Profit = Sales - Cost of Sales",
+        "terms": [
+          {
+            "kanji": "売上総利益",
+            "reading": "うりあげそうりえき"
+          },
+          {
+            "kanji": "売上高",
+            "reading": "うりあげだか"
+          },
+          {
+            "kanji": "売上原価",
+            "reading": "うりあげげんか"
+          },
+          {
+            "kanji": "営業利益",
+            "reading": "えいぎょうりえき"
+          },
+          {
+            "kanji": "販管費",
+            "reading": "はんかんひ"
+          },
+          {
+            "kanji": "経常利益",
+            "reading": "けいじょうりえき"
+          },
+          {
+            "kanji": "営業外収益",
+            "reading": "えいぎょうがいしゅうえき"
+          },
+          {
+            "kanji": "営業外費用",
+            "reading": "えいぎょうがいひよう"
+          },
+          {
+            "kanji": "当期純利益",
+            "reading": "とうきじゅんりえき"
+          },
+          {
+            "kanji": "最終的",
+            "reading": "さいしゅうてき"
+          },
+          {
+            "kanji": "利益",
+            "reading": "りえき"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "営業と営業外、経常と特別",
+        "vi": "Hoạt động và Ngoài hoạt động, Thường xuyên và Đặc biệt",
+        "en": "Operating vs Non-operating, Ordinary vs Extraordinary",
+        "my": "Operating vs Non-operating, Ordinary vs Extraordinary"
+      },
+      "content": {
+        "ja": "・営業とは「本業」、営業外とは「副業」のこと\n・経常とは「通常時」という意味で、毎年発生する利益のこと\n・特別とは「臨時」という意味で、一時的に発生する利益・費用のこと",
+        "vi": "・Hoạt động nghĩa là \"hoạt động chính\", ngoài hoạt động nghĩa là \"hoạt động phụ\"\n・Thường xuyên nghĩa là \"bình thường\", lợi nhuận phát sinh hàng năm\n・Đặc biệt nghĩa là \"tạm thời\", lợi nhuận/chi phí phát sinh tạm thời",
+        "en": "・Operating means \"main business\", non-operating means \"side business\"\n・Ordinary means \"normal time\", profit occurring every year\n・Extraordinary means \"temporary\", profit/expenses occurring temporarily",
+        "my": "・Operating ဆိုသည်မှာ \"main business\", non-operating ဆိုသည်မှာ \"side business\"",
+        "terms": [
+          {
+            "kanji": "営業",
+            "reading": "えいぎょう"
+          },
+          {
+            "kanji": "本業",
+            "reading": "ほんぎょう"
+          },
+          {
+            "kanji": "営業外",
+            "reading": "えいぎょうがい"
+          },
+          {
+            "kanji": "副業",
+            "reading": "ふくぎょう"
+          },
+          {
+            "kanji": "経常",
+            "reading": "けいじょう"
+          },
+          {
+            "kanji": "通常時",
+            "reading": "つうじょうとき"
+          },
+          {
+            "kanji": "意味",
+            "reading": "いみ"
+          },
+          {
+            "kanji": "毎年発生",
+            "reading": "まいとしはっせい"
+          },
+          {
+            "kanji": "利益",
+            "reading": "りえき"
+          },
+          {
+            "kanji": "特別",
+            "reading": "とくべつ"
+          },
+          {
+            "kanji": "臨時",
+            "reading": "りんじ"
+          },
+          {
+            "kanji": "一時的",
+            "reading": "いちじてき"
+          },
+          {
+            "kanji": "発生",
+            "reading": "はっせい"
+          },
+          {
+            "kanji": "費用",
+            "reading": "ひよう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "売上総利益",
+      "reading": "うりあげそうりえき",
+      "romaji": "Uriage Sourieki",
+      "vi": "Lợi nhuận gộp",
+      "en": "Gross Profit",
+      "my": "အကြမ်းအမြတ်"
+    },
+    {
+      "kanji": "営業利益",
+      "reading": "えいぎょうりえき",
+      "romaji": "Eigyou Rieki",
+      "vi": "Lợi nhuận hoạt động",
+      "en": "Operating Profit",
+      "my": "လုပ်ငန်းအမြတ်"
+    },
+    {
+      "kanji": "経常利益",
+      "reading": "けいじょうりえき",
+      "romaji": "Keijou Rieki",
+      "vi": "Lợi nhuận thường xuyên",
+      "en": "Ordinary Profit",
+      "my": "ပုံမှန်အမြတ်"
+    },
+    {
+      "kanji": "当期純利益",
+      "reading": "とうきじゅんりえき",
+      "romaji": "Touki Junrieki",
+      "vi": "Lợi nhuận ròng",
+      "en": "Net Profit",
+      "my": "အသားအမြတ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

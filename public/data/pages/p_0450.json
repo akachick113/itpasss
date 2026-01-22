@@ -1,0 +1,198 @@
+{
+  "page_id": 450,
+  "image": "p_0450.png",
+  "chapter": 12,
+  "section": "12-02",
+  "page_number": 434,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "行頭の「../」で1つ上の階層（上図ではルートディレクトリ）を指します。このように「./」と「../」を使い分けることで、カレントディレクトリから階層を上がったり、下がったりすることができ、結果的にあらゆるファイルやフォルダをパスで指定できるようになります。",
+      "vi": "\"../\" ở đầu dòng chỉ 1 cấp trên (trong hình trên là thư mục gốc). Bằng cách phân biệt sử dụng \"./\" và \"../\" như vậy, có thể đi lên hoặc xuống cấp từ thư mục hiện tại, kết quả là có thể chỉ định tất cả tệp và thư mục bằng đường dẫn.",
+      "en": "'../' at line start points to 1 level up (root directory in above diagram). By distinguishing use of './' and '../' like this, can go up or down levels from current directory, as result can specify all files and folders by path.",
+      "terms": [
+        {
+          "kanji": "行頭",
+          "reading": "ぎょうとう"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "階層",
+          "reading": "かいそう"
+        },
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "指",
+          "reading": "ゆび"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "下",
+          "reading": "した"
+        },
+        {
+          "kanji": "結果的",
+          "reading": "けっかてき"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、当然のことながら、「どんぐりころころ.mp3」はルートディレクトリから絶対パスで指定することも可能です。その場合は次のようにパスを指定します。",
+      "vi": "Ngoài ra, đương nhiên, \"donguri_korokoro.mp3\" cũng có thể được chỉ định bằng đường dẫn tuyệt đối từ thư mục gốc. Trong trường hợp đó, chỉ định đường dẫn như sau.",
+      "en": "Also, naturally, 'donguri_korokoro.mp3' can also be specified by absolute path from root directory. In that case, specify path as follows.",
+      "terms": [
+        {
+          "kanji": "当然",
+          "reading": "とうぜん"
+        },
+        {
+          "kanji": "絶対",
+          "reading": "ぜったい"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "code": "/音楽/どんぐりころころ.mp3"
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、システム内に保存されている特定のファイルやフォルダを指定する方法には、絶対パスと相対パスの2種類があります。それぞれの指定方法をしっかりと覚えておいてください。",
+      "vi": "Như vậy, có 2 loại phương pháp chỉ định tệp hoặc thư mục cụ thể được lưu trong hệ thống: đường dẫn tuyệt đối và đường dẫn tương đối. Hãy nhớ kỹ mỗi phương pháp chỉ định.",
+      "en": "Like this, there are 2 types of methods to specify specific files or folders stored in system: absolute path and relative path. Remember each specification method well.",
+      "terms": [
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "絶対",
+          "reading": "ぜったい"
+        },
+        {
+          "kanji": "相対",
+          "reading": "そうたい"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "指定方法",
+          "reading": "していほうほう"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ルートディレクトリとは、最上位の階層に当たるディレクトリ",
+          "vi": "Thư mục gốc là thư mục ở cấp cao nhất",
+          "en": "Root directory is directory at top level"
+        },
+        {
+          "ja": "カレントディレクトリとは、現時点でユーザーが操作を行っているディレクトリ",
+          "vi": "Thư mục hiện tại là thư mục mà người dùng hiện đang thao tác",
+          "en": "Current directory is directory user is currently operating"
+        },
+        {
+          "ja": "絶対パスとは、ルートディレクトリを基点としてファイルやディレクトリの所在場所を示す表記",
+          "vi": "Đường dẫn tuyệt đối là ký hiệu chỉ vị trí của tệp hoặc thư mục lấy thư mục gốc làm điểm gốc",
+          "en": "Absolute path is notation indicating file or directory location with root directory as base point"
+        },
+        {
+          "ja": "相対パスとは、カレントディレクトリを基点としてファイルやディレクトリの所在場所を示す表記",
+          "vi": "Đường dẫn tương đối là ký hiệu chỉ vị trí của tệp hoặc thư mục lấy thư mục hiện tại làm điểm gốc",
+          "en": "Relative path is notation indicating file or directory location with current directory as base point"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "絶対パス",
+      "reading": "ぜったいパス",
+      "vi": "Đường dẫn tuyệt đối",
+      "en": "Absolute Path",
+      "my": "အက်စိုလိုတ် ပက်"
+    },
+    {
+      "term": "相対パス",
+      "reading": "そうたいパス",
+      "vi": "Đường dẫn tương đối",
+      "en": "Relative Path",
+      "my": "ရီလေးထစ် ပက်"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true,
+    "has_code_example": true,
+    "is_key_content": true
+  }
+}

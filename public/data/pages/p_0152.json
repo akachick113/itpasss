@@ -1,0 +1,160 @@
+{
+  "page_id": 152,
+  "image": "p_0152.png",
+  "chapter": 4,
+  "section": "04-02",
+  "page_number": 136,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "教師なし学習",
+      "vi": "Học không giám sát",
+      "en": "Unsupervised Learning"
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方、教師なし学習とは、入力データのみをコンピュータに与える手法です。教師なし学習が用いられる理由は、人間にも正解がわからない物事の予測をしてもらいたいからです。そのような正解データがないケースでもコンピュータが自動で学習できる仕組みが教師なし学習です。",
+      "vi": "Mặt khác, Học không giám sát là phương pháp chỉ cho máy tính dữ liệu đầu vào. Lý do sử dụng học không giám sát là vì muốn dự đoán những thứ mà con người cũng không biết đáp án. Học không giám sát là cơ chế máy tính có thể tự học ngay cả khi không có dữ liệu đáp án như vậy.",
+      "en": "Meanwhile, unsupervised learning only gives computers input data. It's used because we want predictions for things even humans don't know the answers to. Unsupervised learning is a mechanism where computers can learn automatically even without such correct answer data.",
+      "my": "တစ်ဖက်တွင် unsupervised learning သည် ကွန်ပျူတာများကို input data သာ ပေးသည်။",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "教師",
+          "reading": "きょうし"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "与",
+          "reading": "よ"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "理由",
+          "reading": "りゆう"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "正解",
+          "reading": "せいかい"
+        },
+        {
+          "kanji": "物事",
+          "reading": "ものごと"
+        },
+        {
+          "kanji": "予測",
+          "reading": "よそく"
+        },
+        {
+          "kanji": "自動",
+          "reading": "じどう"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば入力データとして「○」「△」「□」の3つの形の写真をコンピュータに与えます。正解データは与えません。この作業を何度も繰り返すことで、コンピュータは3つの形の特徴を区別し、別々のグループに分けられるようになります。",
+      "vi": "Ví dụ, cho máy tính ảnh 3 hình: ○, △, □ làm dữ liệu đầu vào. Không cho dữ liệu đáp án. Lặp lại công việc này nhiều lần, máy tính có thể phân biệt đặc điểm của 3 hình và chia thành các nhóm riêng.",
+      "en": "For example, give computers photos of 3 shapes: ○, △, □ as input data. No correct answer data is given. Repeating this allows computers to distinguish features of 3 shapes and separate them into groups.",
+      "my": "ဥပမာအားဖြင့် ကွန်ပျူတာများကို input data အဖြစ် ပုံသဏ္ဍာန် ၃ မျိုး (○, △, □) ၏ ဓာတ်ပုံများ ပေးပါ။",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "形",
+          "reading": "かたち"
+        },
+        {
+          "kanji": "写真",
+          "reading": "しゃしん"
+        },
+        {
+          "kanji": "与",
+          "reading": "よ"
+        },
+        {
+          "kanji": "正解",
+          "reading": "せいかい"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "何度",
+          "reading": "なんど"
+        },
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "区別",
+          "reading": "くべつ"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "教師なし学習",
+      "reading": "きょうしなしがくしゅう",
+      "romaji": "Kyoushi Nashi Gakushuu",
+      "vi": "Học không giám sát",
+      "en": "Unsupervised Learning",
+      "my": "Unsupervised Learning"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true
+  }
+}

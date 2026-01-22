@@ -1,0 +1,304 @@
+{
+  "page_id": 217,
+  "image": "p_0217.png",
+  "chapter": 5,
+  "section": "05-05",
+  "page_number": 201,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "デジタルトランスフォーメーション",
+      "reading": "でじたるとらんすふぉーめーしょん",
+      "vi": "Digital Transformation",
+      "en": "Digital Transformation"
+    },
+    {
+      "type": "paragraph",
+      "ja": "デジタルトランスフォーメーション（Digital Transformation：DX）とは、デジタル技術を使って、経営や人々の生活を変革することです。\n\n従来、デジタル技術は事業を効率化するための補助的な道具でした。一方、デジタルトランスフォーメーションは、事業そのものをデジタル技術に合わせるように作り替える取り組みです。例えば、タクシーには運転手が必要ですが、AIなどによって自動運転技術が実現すれば、運転手が必要なくなるかもしれません。そうなると、タクシー業界は大きな変化を求められることになります。\n\nなお、英語では「Transformation」を「X」の一文字に省略することがあります。これは、接頭辞の「Trans」に「交差」という意味があるからです。このため、デジタルトランスフォーメーションは「DX」と略されます。",
+      "vi": "Digital Transformation (DX) là sử dụng công nghệ số để biến đổi kinh doanh và cuộc sống con người.\n\nTrước đây, công nghệ số là công cụ hỗ trợ để hiệu quả hóa kinh doanh. Mặt khác, Digital Transformation là nỗ lực tái tạo bản thân kinh doanh để phù hợp với công nghệ số. Ví dụ, taxi cần tài xế, nhưng nếu công nghệ lái tự động được thực hiện bằng AI, có thể không cần tài xế nữa. Như vậy ngành taxi sẽ phải đối mặt với thay đổi lớn.\n\nNgoài ra, trong tiếng Anh đôi khi Transformation được viết tắt thành X. Vì tiền tố Trans có nghĩa là giao nhau. Vì vậy Digital Transformation được viết tắt là DX.",
+      "en": "Digital Transformation (DX) is using digital technology to transform business and people's lives.\n\nPreviously, digital technology was an auxiliary tool for business efficiency. On the other hand, Digital Transformation is an effort to remake business itself to fit digital technology. For example, taxis need drivers, but if autonomous driving through AI is realized, drivers may become unnecessary. Then the taxi industry will face major changes.\n\nIn English, 'Transformation' is sometimes abbreviated to 'X'. This is because the prefix 'Trans' means 'crossing'. So Digital Transformation is abbreviated as 'DX'.",
+      "my": "Digital Transformation (DX) သည် စီးပွားရေးနှင့် လူတို့၏ ဘဝကို ပြောင်းလဲရန် ဒစ်ဂျစ်တယ်နည်းပညာကို အသုံးပြုခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "生活",
+          "reading": "せいかつ"
+        },
+        {
+          "kanji": "変革",
+          "reading": "へんかく"
+        },
+        {
+          "kanji": "従来",
+          "reading": "じゅうらい"
+        },
+        {
+          "kanji": "事業",
+          "reading": "じぎょう"
+        },
+        {
+          "kanji": "効率化",
+          "reading": "こうりつか"
+        },
+        {
+          "kanji": "補助的",
+          "reading": "ほじょてき"
+        },
+        {
+          "kanji": "道具",
+          "reading": "どうぐ"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "替",
+          "reading": "かえ"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "運転手",
+          "reading": "うんてんしゅ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "自動運転技術",
+          "reading": "じどううんてんぎじゅつ"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "業界",
+          "reading": "ぎょうかい"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "変化",
+          "reading": "へんか"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "英語",
+          "reading": "えいご"
+        },
+        {
+          "kanji": "一文字",
+          "reading": "ひともじ"
+        },
+        {
+          "kanji": "省略",
+          "reading": "しょうりゃく"
+        },
+        {
+          "kanji": "接頭辞",
+          "reading": "せっとうじ"
+        },
+        {
+          "kanji": "交差",
+          "reading": "こうさ"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "略",
+          "reading": "りゃく"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・ビッグデータとデータウェアハウスの違いは、ビッグデータのほうが「データ量が多い」「データの更新頻度が高い」「データの種類が豊富」の3つ\n・データマイニングとは、データを分析して有用な情報を抽出することである\n・ゲーミフィケーションとは、ゲーム要素を用いて、自社サービスを使ってもらえるように顧客を動機付けすること\n・情報リテラシーとは、情報を活用する能力である\n・デジタルディバイドとは、情報リテラシーの違いによって生じる、経済的・社会的な格差のことである\n・デジタルトランスフォーメーションとは、デジタル技術を使った変革のこと",
+        "vi": "・Sự khác biệt giữa Big Data và Data Warehouse là Big Data có 3 điểm: khối lượng dữ liệu lớn hơn, tần suất cập nhật cao hơn, loại dữ liệu phong phú hơn\n・Data Mining là phân tích dữ liệu và trích xuất thông tin hữu ích\n・Gamification là tạo động lực cho khách hàng sử dụng dịch vụ bằng yếu tố game\n・Information Literacy là năng lực sử dụng thông tin\n・Digital Divide là sự chênh lệch kinh tế xã hội do khác biệt về Information Literacy\n・Digital Transformation là biến đổi sử dụng công nghệ số",
+        "en": "・Difference between Big Data and Data Warehouse: Big Data has 3 features - more data volume, higher update frequency, richer data types\n・Data Mining is analyzing data and extracting useful information\n・Gamification is motivating customers to use services using game elements\n・Information Literacy is the ability to utilize information\n・Digital Divide is economic/social gap caused by Information Literacy differences\n・Digital Transformation is transformation using digital technology",
+        "my": "・ Big Data နှင့် Data Warehouse အကြား ကွာခြားချက်",
+        "terms": [
+          {
+            "kanji": "違",
+            "reading": "い"
+          },
+          {
+            "kanji": "量",
+            "reading": "りょう"
+          },
+          {
+            "kanji": "多",
+            "reading": "おお"
+          },
+          {
+            "kanji": "更新頻度",
+            "reading": "こうしんひんど"
+          },
+          {
+            "kanji": "高",
+            "reading": "たか"
+          },
+          {
+            "kanji": "種類",
+            "reading": "しゅるい"
+          },
+          {
+            "kanji": "豊富",
+            "reading": "ほうふ"
+          },
+          {
+            "kanji": "分析",
+            "reading": "ぶんせき"
+          },
+          {
+            "kanji": "有用",
+            "reading": "ゆうよう"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "抽出",
+            "reading": "ちゅうしゅつ"
+          },
+          {
+            "kanji": "要素",
+            "reading": "ようそ"
+          },
+          {
+            "kanji": "用",
+            "reading": "よう"
+          },
+          {
+            "kanji": "自社",
+            "reading": "じしゃ"
+          },
+          {
+            "kanji": "使",
+            "reading": "つか"
+          },
+          {
+            "kanji": "顧客",
+            "reading": "こきゃく"
+          },
+          {
+            "kanji": "動機付",
+            "reading": "どうきつき"
+          },
+          {
+            "kanji": "活用",
+            "reading": "かつよう"
+          },
+          {
+            "kanji": "能力",
+            "reading": "のうりょく"
+          },
+          {
+            "kanji": "生",
+            "reading": "なま"
+          },
+          {
+            "kanji": "経済的",
+            "reading": "けいざいてき"
+          },
+          {
+            "kanji": "社会的",
+            "reading": "しゃかいてき"
+          },
+          {
+            "kanji": "格差",
+            "reading": "かくさ"
+          },
+          {
+            "kanji": "技術",
+            "reading": "ぎじゅつ"
+          },
+          {
+            "kanji": "変革",
+            "reading": "へんかく"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "デジタルトランスフォーメーション",
+      "reading": "でじたるとらんすふぉーめーしょん",
+      "romaji": "Digital Transformation",
+      "vi": "Chuyển đổi số",
+      "en": "Digital Transformation",
+      "my": "ဒစ်ဂျစ်တယ် အသွင်းအပြောင်း"
+    },
+    {
+      "kanji": "DX",
+      "reading": "でぃーえっくす",
+      "romaji": "DX",
+      "vi": "DX",
+      "en": "DX",
+      "my": "DX"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

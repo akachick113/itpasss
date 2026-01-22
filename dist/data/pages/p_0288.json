@@ -1,0 +1,253 @@
+{
+  "page_id": 288,
+  "image": "p_0288.png",
+  "chapter": 7,
+  "section": "07-05",
+  "page_number": 272,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（3）リスク軽減",
+      "reading": "りすくけいげん",
+      "vi": "Risk Mitigation",
+      "en": "Risk Mitigation"
+    },
+    {
+      "type": "paragraph",
+      "ja": "リスク軽減とは、リスクの発生確率を下げたり、被害額を小さくすることです。例えば、より多くのテストを実施して、不具合が起こる可能性を減らしたり、安定した技術を使って製品を開発し、不具合が起こる可能性を減らすことなどが、リスク軽減の方法として考えられます。",
+      "vi": "Risk Mitigation là giảm xác suất phát sinh rủi ro hoặc giảm mức thiệt hại. Ví dụ, có thể nghĩ đến cách giảm rủi ro như thực hiện nhiều kiểm thử hơn để giảm khả năng xảy ra lỗi, hoặc phát triển sản phẩm bằng công nghệ ổn định để giảm khả năng xảy ra lỗi.",
+      "en": "Risk Mitigation is reducing risk probability or reducing damage amount. For example, conducting more tests to reduce defect possibility, or developing products with stable technology to reduce defect possibility can be considered as mitigation methods.",
+      "terms": [
+        {
+          "kanji": "軽減",
+          "reading": "けいげん"
+        },
+        {
+          "kanji": "発生確率",
+          "reading": "はっせいかくりつ"
+        },
+        {
+          "kanji": "下",
+          "reading": "した"
+        },
+        {
+          "kanji": "被害額",
+          "reading": "ひがいがく"
+        },
+        {
+          "kanji": "小",
+          "reading": "ちい"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "実施",
+          "reading": "じっし"
+        },
+        {
+          "kanji": "不具合",
+          "reading": "ふぐあい"
+        },
+        {
+          "kanji": "起",
+          "reading": "お"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "減",
+          "reading": "げん"
+        },
+        {
+          "kanji": "安定",
+          "reading": "あんてい"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（4）リスク受容",
+      "reading": "りすくじゅよう",
+      "vi": "Risk Acceptance",
+      "en": "Risk Acceptance"
+    },
+    {
+      "type": "paragraph",
+      "ja": "リスク受容とは、リスクをそのまま受け入れることです。被害額よりも、リスク対応費用のほうが高額であるような場合は、リスクをそのまま受け入れるほうが合理的であると判断する場合もあります。「何もしない」という対応策です。",
+      "vi": "Risk Acceptance là chấp nhận rủi ro nguyên trạng. Khi chi phí đối phó rủi ro cao hơn mức thiệt hại, có trường hợp phán đoán rằng chấp nhận rủi ro nguyên trạng là hợp lý hơn. Đây là chiến lược đối phó \"không làm gì\".",
+      "en": "Risk Acceptance is accepting risk as is. When risk response cost is higher than damage amount, sometimes accepting risk as is may be judged more rational. It's a response strategy of 'doing nothing.'",
+      "terms": [
+        {
+          "kanji": "受容",
+          "reading": "じゅよう"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "被害額",
+          "reading": "ひがいがく"
+        },
+        {
+          "kanji": "対応費用",
+          "reading": "たいおうひよう"
+        },
+        {
+          "kanji": "高額",
+          "reading": "こうがく"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "合理的",
+          "reading": "ごうりてき"
+        },
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "対応策",
+          "reading": "たいおうさく"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "4つの対応策",
+        "vi": "4 chiến lược đối phó",
+        "en": "4 Response Strategies"
+      },
+      "items": [
+        {
+          "ja": "リスク回避",
+          "vi": "Risk Avoidance",
+          "en": "Risk Avoidance",
+          "icon": "person_leaving"
+        },
+        {
+          "ja": "リスク転嫁",
+          "vi": "Risk Transfer",
+          "en": "Risk Transfer",
+          "icon": "person_passing"
+        },
+        {
+          "ja": "リスク軽減",
+          "vi": "Risk Mitigation",
+          "en": "Risk Mitigation",
+          "icon": "person_cleaning"
+        },
+        {
+          "ja": "リスク受容",
+          "vi": "Risk Acceptance",
+          "en": "Risk Acceptance",
+          "icon": "person_sitting"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "リスク回避：リスクを取らない",
+          "vi": "Risk Avoidance: Không nhận rủi ro",
+          "en": "Risk Avoidance: Don't take risk"
+        },
+        {
+          "ja": "リスク転嫁：他人にリスクを取ってもらう",
+          "vi": "Risk Transfer: Để người khác nhận rủi ro",
+          "en": "Risk Transfer: Have others take risk"
+        },
+        {
+          "ja": "リスク軽減：リスクを減らす",
+          "vi": "Risk Mitigation: Giảm rủi ro",
+          "en": "Risk Mitigation: Reduce risk"
+        },
+        {
+          "ja": "リスク受容：リスクを受け入れる",
+          "vi": "Risk Acceptance: Chấp nhận rủi ro",
+          "en": "Risk Acceptance: Accept risk"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "リスク軽減",
+      "reading": "りすくけいげん",
+      "romaji": "Risk Keigen",
+      "vi": "Giảm thiểu rủi ro",
+      "en": "Risk Mitigation",
+      "my": "အန္တရာယ် လျော့ချခြင်း"
+    },
+    {
+      "kanji": "リスク受容",
+      "reading": "りすくじゅよう",
+      "romaji": "Risk Juyou",
+      "vi": "Chấp nhận rủi ro",
+      "en": "Risk Acceptance",
+      "my": "အန္တရာယ် လက်ခံခြင်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

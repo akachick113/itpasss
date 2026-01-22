@@ -1,0 +1,131 @@
+{
+    "page_id": 271,
+    "image": "p_0271.png",
+    "chapter": 6,
+    "section": "answers",
+    "page_number": 255,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "6-6",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "システム要件を「ハードウェア」「ソフトウェア」「手作業」のいずれかに振り分けるのは「システム方式設計」で行う作業です。",
+                "vi": "Phân bổ yêu cầu hệ thống vào \"Phần cứng\", \"Phần mềm\" hoặc \"Thủ công\" là công việc thực hiện trong \"Thiết kế phương thức hệ thống\".",
+                "en": "Allocating system requirements to 'Hardware,' 'Software,' or 'Manual work' is work done in 'System Architecture Design.'"
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "運用テストとは、利用者が実際にシステムを運用し、業務の運用が要件どおり実施できることを検証する工程です。",
+                    "vi": "Operational Test là công đoạn người dùng thực sự vận hành hệ thống, xác minh vận hành nghiệp vụ có thể thực hiện đúng theo yêu cầu.",
+                    "en": "Operational Test is a phase where users actually operate system, verifying business operations can be performed as required."
+                },
+                "ウ": {
+                    "ja": "ソフトウェア導入とは、ソフトウェアを本番環境にインストールする工程です。",
+                    "vi": "Software Deployment là công đoạn cài đặt phần mềm vào môi trường thực tế.",
+                    "en": "Software Deployment is the phase to install software into production environment."
+                },
+                "エ": {
+                    "ja": "ソフトウェア要件定義とは、ソフトウェアの機能、性能、インタフェースなどを決める工程です。",
+                    "vi": "Software Requirements Definition là công đoạn quyết định chức năng, hiệu suất, interface của phần mềm.",
+                    "en": "Software Requirements Definition is the phase to decide software functions, performance, interfaces, etc."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "6-7",
+            "correct_answer": "ウ",
+            "explanation": {
+                "ja": "ウォーターフォールモデルでは、前工程の完了後に次の工程をはじめます。",
+                "vi": "Trong Waterfall Model, bắt đầu công đoạn tiếp theo sau khi hoàn thành công đoạn trước.",
+                "en": "In Waterfall Model, the next phase begins after completing the previous phase."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "ラウンドトリップモデルの記述です。",
+                    "vi": "Là mô tả của Round Trip Model.",
+                    "en": "This describes Round Trip Model."
+                },
+                "イ": {
+                    "ja": "スパイラルモデルの記述です。サブシステムとは「システムを分割した単位」です。スパイラルモデルでは1回のウォーターフォールモデルを行うことで1つのサブシステムが完成します。",
+                    "vi": "Là mô tả của Spiral Model. Subsystem là \"đơn vị chia hệ thống\". Trong Spiral Model, 1 subsystem hoàn thành bằng cách thực hiện 1 lần Waterfall Model.",
+                    "en": "This describes Spiral Model. Subsystem is 'unit dividing system.' In Spiral Model, 1 subsystem is completed by performing Waterfall Model once."
+                },
+                "エ": {
+                    "ja": "プロトタイピングモデルの記述です。",
+                    "vi": "Là mô tả của Prototyping Model.",
+                    "en": "This describes Prototyping Model."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "6-8",
+            "correct_answer": "ウ",
+            "explanation": {
+                "ja": "ソフトウェア保守（保守プロセス）とは、稼働中に見つかったバグを修正したり、ソフトウェアに新機能を追加したりするプロセスです。",
+                "vi": "Software Maintenance (Maintenance Process) là quy trình sửa bug tìm thấy khi đang hoạt động hoặc thêm tính năng mới vào phần mềm.",
+                "en": "Software Maintenance (Maintenance Process) is the process to fix bugs found during operation or add new features to software."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "システム化の企画（企画プロセス）は、経営者のニーズと課題を確認するプロセスです。",
+                    "vi": "System Planning (Planning Process) là quy trình xác nhận nhu cầu và vấn đề của ban quản lý.",
+                    "en": "System Planning (Planning Process) is the process to confirm management needs and issues."
+                },
+                "イ": {
+                    "ja": "システム運用（運用プロセス）は、完成したシステムを本番環境で動かすプロセスです。",
+                    "vi": "System Operation (Operation Process) là quy trình chạy hệ thống hoàn thành trong môi trường thực tế.",
+                    "en": "System Operation (Operation Process) is the process to run completed system in production environment."
+                },
+                "エ": {
+                    "ja": "要件定義（要件定義プロセス）は、ユーザーのニーズを知るプロセスです。",
+                    "vi": "Requirements Definition (Requirements Definition Process) là quy trình hiểu nhu cầu người dùng.",
+                    "en": "Requirements Definition (Requirements Definition Process) is the process to know user needs."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "6-9",
+            "correct_answer": "ア",
+            "explanation": {
+                "ja": "「短期間で開発とリリースを繰り返す」というキーワードからこの選択肢がアジャイル開発に関すると判断できます。",
+                "vi": "Từ từ khóa \"lặp lại phát triển và release trong thời gian ngắn\" có thể phán đoán lựa chọn này liên quan đến Agile Development.",
+                "en": "From keyword 'repeat development and release in short period,' this choice can be determined to be about Agile Development."
+            },
+            "choices_explanation": {
+                "イ": {
+                    "ja": "開発標準化に関する記述です。",
+                    "vi": "Là mô tả về tiêu chuẩn hóa phát triển.",
+                    "en": "This describes development standardization."
+                },
+                "ウ": {
+                    "ja": "ウォーターフォールモデルに関する記述です。",
+                    "vi": "Là mô tả về Waterfall Model.",
+                    "en": "This describes Waterfall Model."
+                },
+                "エ": {
+                    "ja": "プロトタイピングモデルに関する記述です。",
+                    "vi": "Là mô tả về Prototyping Model.",
+                    "en": "This describes Prototyping Model."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "6-10",
+            "correct_answer": "ウ",
+            "explanation": {
+                "ja": "「開発側と運用側が密接に連携」というキーワードから、ウが正解であると判断できます。アはプロトタイピングモデル、イはウォーターフォールモデル、エはアジャイル開発に関する記述です。",
+                "vi": "Từ từ khóa \"phía phát triển và phía vận hành hợp tác chặt chẽ\", có thể phán đoán ウ là đáp án đúng. ア là Prototyping Model, イ là Waterfall Model, エ là mô tả về Agile Development.",
+                "en": "From keyword 'development and operations sides closely cooperate,' ウ can be determined as correct. ア is Prototyping Model, イ is Waterfall Model, エ describes Agile Development."
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 5
+    }
+}

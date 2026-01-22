@@ -1,0 +1,241 @@
+{
+  "page_id": 255,
+  "image": "p_0255.png",
+  "chapter": 6,
+  "section": "06-05",
+  "page_number": 239,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "単体テスト：プログラムに誤りがないことを検証する",
+          "vi": "Kiểm thử đơn vị: Xác minh chương trình không có lỗi",
+          "en": "Unit Test: Verifies programs have no errors"
+        },
+        {
+          "ja": "結合テスト：プログラム同士のインタフェースが合うかを検証する",
+          "vi": "Kiểm thử tích hợp: Xác minh interface giữa các chương trình có khớp không",
+          "en": "Integration Test: Verifies if interfaces between programs match"
+        },
+        {
+          "ja": "システムテスト：システム要件（機能と性能）が仕様通りに動作するかを検証する",
+          "vi": "Kiểm thử hệ thống: Xác minh yêu cầu hệ thống (chức năng và hiệu suất) có hoạt động đúng theo thông số không",
+          "en": "System Test: Verifies system requirements (functions and performance) work according to specifications"
+        },
+        {
+          "ja": "運用テスト：本番環境でシステムを運用し、業務要件どおりにシステムが動作することを検証する",
+          "vi": "Kiểm thử vận hành: Vận hành hệ thống trong môi trường thực tế, xác minh hệ thống hoạt động đúng theo yêu cầu nghiệp vụ",
+          "en": "Operational Test: Operates system in production environment, verifies system works according to business requirements"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "いきなり運用テストは行えるか",
+        "vi": "Có thể thực hiện ngay kiểm thử vận hành không",
+        "en": "Can Operational Testing Be Done Immediately",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "「最初から運用テストを行えば、テストの作業量を減らせるのでは？」と思った人もいるかもしれませんが、運用テストを行った際にもし不具合があった場合、その不具合の原因がどこにあるのかを特定するのは非常に困難です。そのため、テストは小さいところ（ソフトウェアユニット単位）から開始し、そこで不具合がないことを確認してから、より大きなテストへと進めていきます。",
+        "vi": "Có thể có người nghĩ \"Nếu thực hiện kiểm thử vận hành từ đầu thì có thể giảm khối lượng công việc kiểm thử không?\", nhưng nếu có lỗi khi thực hiện kiểm thử vận hành, việc xác định nguyên nhân lỗi ở đâu rất khó khăn. Do đó, kiểm thử bắt đầu từ phần nhỏ (đơn vị Software Unit), xác nhận không có lỗi ở đó rồi mới tiến đến kiểm thử lớn hơn.",
+        "en": "You might think 'If we do operational testing from the start, can we reduce testing workload?' but if there are bugs during operational testing, identifying where the bug cause is becomes very difficult. Therefore, testing starts from small parts (Software Unit level), confirms no bugs there, then proceeds to larger tests."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ホワイトボックステストとブラックボックステスト",
+      "reading": "ほわいとぼっくすてすととぶらっくぼっくすてすと",
+      "vi": "White Box Test và Black Box Test",
+      "en": "White Box Test and Black Box Test"
+    },
+    {
+      "type": "paragraph",
+      "ja": "単体テストでは通常「ホワイトボックステスト」を行います。また、結合テストとシステムテストでは「ブラックボックステスト」を行います。",
+      "vi": "Trong kiểm thử đơn vị thường thực hiện \"White Box Test\". Trong kiểm thử tích hợp và kiểm thử hệ thống thực hiện \"Black Box Test\".",
+      "en": "Unit testing usually uses 'White Box Test.' Integration testing and system testing use 'Black Box Test.'",
+      "terms": [
+        {
+          "kanji": "単体",
+          "reading": "たんたい"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "結合",
+          "reading": "けつごう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ホワイトボックステスト",
+      "reading": "ほわいとぼっくすてすと",
+      "vi": "White Box Test",
+      "en": "White Box Test",
+      "note": {
+        "ja": "白い箱（ホワイトボックス）とは？",
+        "vi": "Hộp trắng (White Box) là gì?",
+        "en": "What is White Box?"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ホワイトボックステストとは、入力したデータが、意図どおりに処理されているかを、プログラムの内部構造を分析して確認するテスト手法です。箱の中身（具体的な処理の内容）を見ながらテストするイメージに近いことからこの名称で呼ばれています。ホワイトボックステストでは、プログラムに記述されているすべての処理を実行し、動作を確認します。",
+      "vi": "White Box Test là phương pháp kiểm thử xác nhận dữ liệu đã nhập có được xử lý đúng như ý định không bằng cách phân tích cấu trúc bên trong chương trình. Được gọi tên này vì gần với hình ảnh kiểm thử trong khi nhìn vào bên trong hộp (nội dung xử lý cụ thể). Trong White Box Test, thực thi tất cả xử lý được ghi trong chương trình và xác nhận hoạt động.",
+      "en": "White Box Test is a test method that analyzes the internal structure of programs to confirm if input data is processed as intended. It's called this because it's like testing while looking inside the box (specific processing content). In White Box Test, all processing described in the program is executed and operation is confirmed.",
+      "terms": [
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "意図",
+          "reading": "いと"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "内部構造",
+          "reading": "ないぶこうぞう"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "箱",
+          "reading": "はこ"
+        },
+        {
+          "kanji": "中身",
+          "reading": "なかみ"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "近",
+          "reading": "きん"
+        },
+        {
+          "kanji": "名称",
+          "reading": "めいしょう"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "記述",
+          "reading": "きじゅつ"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "動作",
+          "reading": "どうさ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ホワイトボックステストは開発者（プログラマ）が行います。プログラムの内容を理解するには専門的な知識が必要なので、発注者側（実際のユーザー）はこのテストは行いません。",
+      "vi": "White Box Test được thực hiện bởi nhà phát triển (programmer). Vì cần kiến thức chuyên môn để hiểu nội dung chương trình, nên phía đặt hàng (người dùng thực tế) không thực hiện kiểm thử này.",
+      "en": "White Box Test is performed by developers (programmers). Since specialized knowledge is needed to understand program content, the ordering side (actual users) doesn't perform this test.",
+      "terms": [
+        {
+          "kanji": "開発者",
+          "reading": "かいはつしゃ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "専門的",
+          "reading": "せんもんてき"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "発注者側",
+          "reading": "はっちゅうものがわ"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ホワイトボックステスト",
+      "reading": "ほわいとぼっくすてすと",
+      "romaji": "White Box Test",
+      "vi": "Kiểm thử hộp trắng",
+      "en": "White Box Test",
+      "my": "ဝိုက်ဘောက်စ် စမ်းသပ်ချက်"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true
+  }
+}

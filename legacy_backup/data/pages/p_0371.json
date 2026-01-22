@@ -1,0 +1,204 @@
+{
+  "page_id": 371,
+  "image": "p_0371.png",
+  "chapter": 9,
+  "section": "09-08",
+  "page_number": 355,
+  "content": [
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】選択処理（elseあり）",
+        "vi": "【Ví dụ chương trình】Xử lý lựa chọn (có else)",
+        "en": "[Program Example] Selection Processing (with else)"
+      },
+      "code": "if (numは0より大きい)\n    \"正の整数です\"を出力する\nelse\n    \"負の整数か0です\"を出力する\nendif"
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、elseを使うことで、変数numの値が「0」より大きいときの処理と、それ以外の処理を切り分けることができます。",
+      "vi": "Như vậy, bằng cách dùng else, có thể phân chia xử lý khi giá trị biến num lớn hơn \"0\" và xử lý trong các trường hợp khác.",
+      "en": "Like this, by using else, can separate processing when variable num value is greater than '0' and processing in other cases.",
+      "terms": [
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "以外",
+          "reading": "いがい"
+        },
+        {
+          "kanji": "切",
+          "reading": "せつ"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "elseif",
+      "reading": "エルスイフ",
+      "vi": "elseif",
+      "en": "elseif"
+    },
+    {
+      "type": "paragraph",
+      "ja": "elseifを使用すると、複数の条件を設定できます。",
+      "vi": "Khi sử dụng elseif, có thể thiết lập nhiều điều kiện.",
+      "en": "Using elseif, can set multiple conditions.",
+      "terms": [
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "設定",
+          "reading": "せってい"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "elseif",
+        "vi": "elseif",
+        "en": "elseif"
+      },
+      "description": {
+        "ja": "条件式1でYesなら処理1、Noなら条件式2を判定しYesなら処理2、Noなら処理3を実行するフローチャート",
+        "vi": "Flowchart: nếu điều kiện 1 Yes thì xử lý 1, nếu No thì kiểm tra điều kiện 2, nếu Yes thì xử lý 2, nếu No thì xử lý 3",
+        "en": "Flowchart: if condition 1 Yes then processing 1, if No check condition 2, if Yes processing 2, if No processing 3"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "以下はelseifを使った選択処理の書式です。",
+      "vi": "Sau đây là định dạng xử lý lựa chọn dùng elseif.",
+      "en": "Following is selection processing format using elseif.",
+      "terms": [
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "選択処理",
+          "reading": "せんたくしょり"
+        },
+        {
+          "kanji": "書式",
+          "reading": "しょしき"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【書式】選択処理（elseifあり）",
+        "vi": "【Định dạng】Xử lý lựa chọn (có elseif)",
+        "en": "[Format] Selection Processing (with elseif)"
+      },
+      "code": "if (条件式1)\n    処理1\nelseif (条件式2)\n    処理2\nelse\n    処理3\nendif"
+    },
+    {
+      "type": "paragraph",
+      "ja": "以下は、変数numの値が「0」より大きい場合は「正の整数です」と表示し、「0」より小さい場合は「負の整数です」と表示し、さらに、それ以外の場合は「0です」と表示するプログラム例です。",
+      "vi": "Sau đây là ví dụ chương trình: hiển thị \"là số nguyên dương\" khi giá trị biến num lớn hơn \"0\", hiển thị \"là số nguyên âm\" khi nhỏ hơn \"0\", và hiển thị \"là 0\" trong các trường hợp khác.",
+      "en": "Following is example program: display 'is positive integer' when variable num is greater than '0,' display 'is negative integer' when less than '0,' and display 'is 0' in other cases.",
+      "terms": [
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "整数",
+          "reading": "せいすう"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        },
+        {
+          "kanji": "小",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "負",
+          "reading": "ふ"
+        },
+        {
+          "kanji": "以外",
+          "reading": "いがい"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "elseif",
+      "vi": "elseif (nếu khác)",
+      "en": "elseif",
+      "my": "အဲလ်ဇ်အိဖ်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

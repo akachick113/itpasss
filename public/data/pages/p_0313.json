@@ -1,0 +1,398 @@
+{
+  "page_id": 313,
+  "image": "p_0313.png",
+  "chapter": 8,
+  "section": "08-04",
+  "page_number": 297,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "BCM（Business Continuity Management：事業継続管理）と、BCP（Business Continuity Plan：事業継続計画）は、企業活動を継続するため（止めないため）のとても重要な管理手法です。",
+      "vi": "BCM (Business Continuity Management) và BCP (Business Continuity Plan) là phương pháp quản lý rất quan trọng để tiếp tục (không dừng) hoạt động doanh nghiệp.",
+      "en": "BCM (Business Continuity Management) and BCP (Business Continuity Plan) are very important management methods to continue (not stop) business activities.",
+      "terms": [
+        {
+          "kanji": "事業継続管理",
+          "reading": "じぎょうけいぞくかんり"
+        },
+        {
+          "kanji": "事業継続計画",
+          "reading": "じぎょうけいぞくけいかく"
+        },
+        {
+          "kanji": "企業活動",
+          "reading": "きぎょうかつどう"
+        },
+        {
+          "kanji": "継続",
+          "reading": "けいぞく"
+        },
+        {
+          "kanji": "止",
+          "reading": "し"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "管理手法",
+          "reading": "かんりしゅほう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "具体的には、システムの二重化や分散配置、および停電に備えた自家発電装置調達などが挙げられます。ITパスポート試験ではこういった具体的な対策方法が問われることもありますが、ここでは、その前段階として「不測の事態でもビジネスを継続するための経営手法のことをBCMという」「BCMの中で策定する計画のことをBCPという」という2つのことをしっかりと覚えておいてください。",
+      "vi": "Cụ thể là nhân đôi hệ thống, phân bổ phân tán, và mua sắm thiết bị phát điện dự phòng cho mất điện. Trong kỳ thi IT Passport, đôi khi hỏi về các biện pháp cụ thể như vậy, nhưng ở đây, hãy nhớ chắc 2 điều: \"BCM là phương pháp kinh doanh để tiếp tục business ngay cả trong tình huống bất ngờ\", \"BCP là kế hoạch được lập trong BCM\".",
+      "en": "Specifically, system duplication, distributed placement, and procuring backup power generators for power outages. In IT Passport exam, such specific countermeasures may be asked, but here, remember these 2 things: 'BCM is management method to continue business even in unexpected situations,' 'BCP is plan created within BCM.'",
+      "terms": [
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "二重化",
+          "reading": "にじゅうか"
+        },
+        {
+          "kanji": "分散配置",
+          "reading": "ぶんさんはいち"
+        },
+        {
+          "kanji": "停電",
+          "reading": "ていでん"
+        },
+        {
+          "kanji": "備",
+          "reading": "そな"
+        },
+        {
+          "kanji": "自家発電装置調達",
+          "reading": "じかはつでんそうちちょうたつ"
+        },
+        {
+          "kanji": "挙",
+          "reading": "きょ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "対策方法",
+          "reading": "たいさくほうほう"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "前段階",
+          "reading": "ぜんだんかい"
+        },
+        {
+          "kanji": "不測",
+          "reading": "ふそく"
+        },
+        {
+          "kanji": "事態",
+          "reading": "じたい"
+        },
+        {
+          "kanji": "継続",
+          "reading": "けいぞく"
+        },
+        {
+          "kanji": "経営手法",
+          "reading": "けいえいしゅほう"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "策定",
+          "reading": "さくてい"
+        },
+        {
+          "kanji": "計画",
+          "reading": "けいかく"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "BCMとは、災害が起きても事業を継続するための経営手法",
+          "vi": "BCM là phương pháp kinh doanh để tiếp tục hoạt động ngay cả khi có thảm họa",
+          "en": "BCM is management method to continue business even when disaster occurs"
+        },
+        {
+          "ja": "BCPとは、事業をいかに継続するかをまとめた計画",
+          "vi": "BCP là kế hoạch tổng hợp cách tiếp tục hoạt động kinh doanh",
+          "en": "BCP is plan summarizing how to continue business"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ファシリティマネジメント",
+      "reading": "ふぁしりてぃまねじめんと",
+      "vi": "Facility Management",
+      "en": "Facility Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ファシリティマネジメントとは、建物や設備の保有や運用、維持などを最適化する手法です。ファシリティ（Facility）とは「設備」という意味です。",
+      "vi": "Facility Management là phương pháp tối ưu hóa việc sở hữu, vận hành và bảo trì tòa nhà và thiết bị. Facility có nghĩa là \"thiết bị\".",
+      "en": "Facility Management is method to optimize ownership, operation, and maintenance of buildings and facilities. Facility means 'equipment.'",
+      "terms": [
+        {
+          "kanji": "建物",
+          "reading": "たてもの"
+        },
+        {
+          "kanji": "設備",
+          "reading": "せつび"
+        },
+        {
+          "kanji": "保有",
+          "reading": "ほゆう"
+        },
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        },
+        {
+          "kanji": "維持",
+          "reading": "いじ"
+        },
+        {
+          "kanji": "最適化",
+          "reading": "さいてきか"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ファシリティマネジメントの目的は大きく4つあります。",
+      "vi": "Facility Management có 4 mục đích chính.",
+      "en": "Facility Management has 4 main purposes.",
+      "terms": [
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "ファシリティマネジメントの主な目的",
+        "vi": "Các mục đích chính của Facility Management",
+        "en": "Main Purposes of Facility Management"
+      },
+      "headers": {
+        "ja": [
+          "目的",
+          "具体例"
+        ],
+        "vi": [
+          "Mục đích",
+          "Ví dụ cụ thể"
+        ],
+        "en": [
+          "Purpose",
+          "Specific Example"
+        ]
+      },
+      "rows": [
+        {
+          "purpose": {
+            "ja": "安全性",
+            "vi": "An toàn",
+            "en": "Safety"
+          },
+          "example": {
+            "ja": "耐震対策や避難経路の確保",
+            "vi": "Biện pháp chống động đất và đảm bảo lối thoát hiểm",
+            "en": "Earthquake measures and securing evacuation routes"
+          }
+        },
+        {
+          "purpose": {
+            "ja": "コスト削減",
+            "vi": "Giảm chi phí",
+            "en": "Cost Reduction"
+          },
+          "example": {
+            "ja": "電力消費が少ないIT機器の採用",
+            "vi": "Sử dụng thiết bị IT tiêu thụ điện năng thấp",
+            "en": "Adopting IT equipment with low power consumption"
+          }
+        },
+        {
+          "purpose": {
+            "ja": "快適性",
+            "vi": "Tiện nghi",
+            "en": "Comfort"
+          },
+          "example": {
+            "ja": "机、椅子、音や光などの環境の整備",
+            "vi": "Chuẩn bị môi trường như bàn, ghế, âm thanh và ánh sáng",
+            "en": "Preparing environment like desks, chairs, sound and light"
+          }
+        },
+        {
+          "purpose": {
+            "ja": "機能",
+            "vi": "Chức năng",
+            "en": "Function"
+          },
+          "example": {
+            "ja": "入退出管理などのセキュリティ対策の実施",
+            "vi": "Thực hiện biện pháp bảo mật như quản lý ra vào",
+            "en": "Implementing security measures like entry/exit management"
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、ファシリティマネジメントに関する用語として、「UPS」と「自家発電装置」の2つの用語が重要です。",
+      "vi": "Trong kỳ thi IT Passport, 2 thuật ngữ quan trọng liên quan đến Facility Management là \"UPS\" và \"Máy phát điện dự phòng\".",
+      "en": "In IT Passport exam, 2 important terms related to Facility Management are 'UPS' and 'Backup Power Generator.'",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "自家発電装置",
+          "reading": "じかはつでんそうち"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "UPS",
+      "reading": "ゆーぴーえす",
+      "vi": "UPS",
+      "en": "UPS",
+      "note": "よく出る！自家発電装置との違いを確認！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "UPS（Uninterruptible Power Supply：無停電電源装置）とは、停電時にコンピュータに一時的に電力を供給する装置です。UPSは「停電時、すぐに電力を供給できる」というメリットがあります。一方、「UPSは一時的にしか電力を供給できない」というデメリットもあります。UPSが始動したら、早急にコンピュータをシャットダウンするなどして、作業中のデータを守ることが重要です。",
+      "vi": "UPS (Uninterruptible Power Supply: Nguồn điện liên tục) là thiết bị cung cấp điện tạm thời cho máy tính khi mất điện. UPS có ưu điểm \"có thể cung cấp điện ngay lập tức khi mất điện\". Mặt khác, cũng có nhược điểm \"UPS chỉ có thể cung cấp điện tạm thời\". Khi UPS khởi động, quan trọng là nhanh chóng shutdown máy tính để bảo vệ dữ liệu đang làm việc.",
+      "en": "UPS (Uninterruptible Power Supply) is device that temporarily supplies power to computer during power outage. UPS has advantage of 'can supply power immediately during outage.' However, also has disadvantage that 'UPS can only supply power temporarily.' When UPS starts, it's important to quickly shut down computer to protect working data.",
+      "terms": [
+        {
+          "kanji": "無停電電源装置",
+          "reading": "むていでんでんげんそうち"
+        },
+        {
+          "kanji": "停電時",
+          "reading": "ていでんとき"
+        },
+        {
+          "kanji": "一時的",
+          "reading": "いちじてき"
+        },
+        {
+          "kanji": "電力",
+          "reading": "でんりょく"
+        },
+        {
+          "kanji": "供給",
+          "reading": "きょうきゅう"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "始動",
+          "reading": "しどう"
+        },
+        {
+          "kanji": "早急",
+          "reading": "さっきゅう"
+        },
+        {
+          "kanji": "作業中",
+          "reading": "さぎょうちゅう"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "UPS",
+      "reading": "ゆーぴーえす",
+      "romaji": "UPS",
+      "vi": "Bộ nguồn liên tục",
+      "en": "Uninterruptible Power Supply",
+      "my": "ယူပီအစ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true
+  }
+}

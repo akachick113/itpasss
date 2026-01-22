@@ -1,0 +1,325 @@
+{
+  "page_id": 405,
+  "image": "p_0405.png",
+  "chapter": 10,
+  "section": "10-06",
+  "page_number": 389,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "上図のシステム①は直列システムです。また、システム②は並列システムです。システム①と②を組み合わせた全体のシステムを複合システムといいます。",
+      "vi": "Hệ thống ① trong hình trên là hệ thống nối tiếp. Và hệ thống ② là hệ thống song song. Hệ thống tổng thể kết hợp hệ thống ① và ② được gọi là hệ thống kết hợp.",
+      "en": "System ① in above diagram is series system. Also system ② is parallel system. Overall system combining systems ① and ② is called combined system.",
+      "terms": [
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "直列",
+          "reading": "ちょくれつ"
+        },
+        {
+          "kanji": "並列",
+          "reading": "へいれつ"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "複合",
+          "reading": "ふくごう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "複合システムの稼働率は、先に部品となるシステムの稼働率を計算したうえで、さらにそれらのシステムを1つの装置としてみなして計算します。このため、上図のシステム場合は、まず、システム①とシステム②の稼働率を個別に算出し、そのうえで、システム全体（システム①とシステム②の組み合わせ、今回の場合は直列）の稼働率を計算します。よって、上図の複合システムの稼働率は約「0.71」となります。",
+      "vi": "Tỉ lệ khả dụng của hệ thống kết hợp được tính bằng cách trước tiên tính tỉ lệ khả dụng của các hệ thống là bộ phận, sau đó xem các hệ thống đó như một thiết bị để tính. Vì vậy, với hệ thống trong hình trên, trước tiên tính tỉ lệ khả dụng của hệ thống ① và hệ thống ② riêng lẻ, sau đó tính tỉ lệ khả dụng của toàn bộ hệ thống (kết hợp hệ thống ① và ②, trong trường hợp này là nối tiếp). Do đó, tỉ lệ khả dụng của hệ thống kết hợp trong hình trên là khoảng \"0.71\".",
+      "en": "Combined system availability is calculated by first calculating availability of component systems, then treating those systems as one device for calculation. Therefore, for system in above diagram, first calculate availability of system ① and system ② individually, then calculate availability of entire system (combination of systems ① and ②, series in this case). Thus, combined system availability in above diagram is approximately '0.71.'",
+      "terms": [
+        {
+          "kanji": "複合",
+          "reading": "ふくごう"
+        },
+        {
+          "kanji": "稼働率",
+          "reading": "かどうりつ"
+        },
+        {
+          "kanji": "先",
+          "reading": "さき"
+        },
+        {
+          "kanji": "部品",
+          "reading": "ぶひん"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "個別",
+          "reading": "こべつ"
+        },
+        {
+          "kanji": "算出",
+          "reading": "さんしゅつ"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "今回",
+          "reading": "こんかい"
+        },
+        {
+          "kanji": "直列",
+          "reading": "ちょくれつ"
+        },
+        {
+          "kanji": "約",
+          "reading": "やく"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "稼働率の計算方法は必ず覚えよう！",
+        "vi": "Nhất định phải nhớ phương pháp tính tỉ lệ khả dụng!",
+        "en": "Must Remember Availability Calculation Method!",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ITパスポート試験では、稼働率を求める問題が必ずといっていいほど1問は出題されます。だから、計算が苦手な人も諦めず、計算方法を必ず覚えておいてください。直列システムの計算方法は簡単なので、並列システムの計算方法をしっかりと習得しておいてください。",
+        "vi": "Trong kỳ thi IT Passport, có thể nói chắc chắn có 1 câu hỏi yêu cầu tính tỉ lệ khả dụng. Vì vậy, ngay cả người không giỏi tính toán cũng không nên bỏ cuộc, hãy nhất định nhớ phương pháp tính. Vì phương pháp tính hệ thống nối tiếp đơn giản, hãy nắm vững phương pháp tính hệ thống song song.",
+        "en": "In IT Passport exam, can say definitely 1 question requiring availability calculation appears. So even if weak at calculation, don't give up, must remember calculation method. Since series system calculation is simple, master parallel system calculation method well."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "バスタブ曲線",
+      "reading": "バスタブきょくせん",
+      "vi": "Đường cong bồn tắm",
+      "en": "Bathtub Curve"
+    },
+    {
+      "type": "paragraph",
+      "ja": "バスタブ曲線とは、装置の故障率と時間経過の関係を表した曲線です。曲線の形が浴槽（バスタブ）と似ているのでこう呼ばれます。",
+      "vi": "Đường cong bồn tắm là đường cong biểu thị quan hệ giữa tỉ lệ sự cố của thiết bị và thời gian trôi qua. Được gọi như vậy vì hình dạng đường cong giống bồn tắm (bathtub).",
+      "en": "Bathtub curve is curve representing relationship between device failure rate and time passage. Called so because curve shape resembles bathtub.",
+      "terms": [
+        {
+          "kanji": "曲線",
+          "reading": "きょくせん"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "故障率",
+          "reading": "こしょうりつ"
+        },
+        {
+          "kanji": "時間経過",
+          "reading": "じかんけいか"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "形",
+          "reading": "かたち"
+        },
+        {
+          "kanji": "浴槽",
+          "reading": "よくそう"
+        },
+        {
+          "kanji": "似",
+          "reading": "じ"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "一般的に、装置は稼働をはじめた直後に故障率が高くなります。その後の稼働が安定してくると故障率が低くなりますが、装置が寿命に近づくと摩耗から故障率は高くなります。",
+      "vi": "Nói chung, thiết bị có tỉ lệ sự cố cao ngay sau khi bắt đầu hoạt động. Sau đó khi hoạt động ổn định, tỉ lệ sự cố giảm, nhưng khi thiết bị gần hết tuổi thọ, tỉ lệ sự cố tăng do mài mòn.",
+      "en": "Generally, device failure rate is high immediately after starting operation. After operation stabilizes, failure rate decreases, but as device nears end of life, failure rate increases due to wear.",
+      "terms": [
+        {
+          "kanji": "一般的",
+          "reading": "いっぱんてき"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "稼働",
+          "reading": "かどう"
+        },
+        {
+          "kanji": "直後",
+          "reading": "ちょくご"
+        },
+        {
+          "kanji": "故障率",
+          "reading": "こしょうりつ"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "安定",
+          "reading": "あんてい"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "寿命",
+          "reading": "じゅみょう"
+        },
+        {
+          "kanji": "近",
+          "reading": "きん"
+        },
+        {
+          "kanji": "摩耗",
+          "reading": "まもう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "バスタブ曲線",
+        "vi": "Đường cong bồn tắm",
+        "en": "Bathtub Curve"
+      },
+      "description": {
+        "ja": "縦軸に故障率、横軸に経過時間を取ったグラフ。初期故障期（故障率高い）→偶発故障期（故障率低く安定）→摩耗故障期（故障率再び上昇）の3つの期間を示すU字型の曲線",
+        "vi": "Đồ thị với trục dọc là tỉ lệ sự cố, trục ngang là thời gian trôi qua. Đường cong hình chữ U cho thấy 3 giai đoạn: giai đoạn sự cố ban đầu (tỉ lệ sự cố cao) → giai đoạn sự cố ngẫu nhiên (tỉ lệ sự cố thấp ổn định) → giai đoạn sự cố mài mòn (tỉ lệ sự cố tăng lại)",
+        "en": "Graph with failure rate on vertical axis, elapsed time on horizontal axis. U-shaped curve showing 3 periods: initial failure period (high failure rate) → random failure period (low stable failure rate) → wear-out failure period (failure rate rises again)"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "直列システムの稼働率 = 装置Aの稼働率 × 装置Bの稼働率",
+          "vi": "Tỉ lệ khả dụng hệ thống nối tiếp = Tỉ lệ khả dụng thiết bị A × Tỉ lệ khả dụng thiết bị B",
+          "en": "Series system availability = Device A availability × Device B availability"
+        },
+        {
+          "ja": "並列システムの稼働率 = 1 − (1 − 装置Aの稼働率) × (1 − 装置Bの稼働率)",
+          "vi": "Tỉ lệ khả dụng hệ thống song song = 1 − (1 − Tỉ lệ khả dụng thiết bị A) × (1 − Tỉ lệ khả dụng thiết bị B)",
+          "en": "Parallel system availability = 1 − (1 − Device A availability) × (1 − Device B availability)"
+        },
+        {
+          "ja": "複合システムの稼働率 = システムの一部分の稼働率を計算し、最後にシステム全体の稼働率を計算する",
+          "vi": "Tỉ lệ khả dụng hệ thống kết hợp = Tính tỉ lệ khả dụng của một phần hệ thống, cuối cùng tính tỉ lệ khả dụng của toàn bộ hệ thống",
+          "en": "Combined system availability = Calculate partial system availability, finally calculate entire system availability"
+        },
+        {
+          "ja": "装置の故障率と時間経過の関係を表した曲線のことをバスタブ曲線という",
+          "vi": "Đường cong biểu thị quan hệ giữa tỉ lệ sự cố của thiết bị và thời gian trôi qua được gọi là đường cong bồn tắm",
+          "en": "Curve representing relationship between device failure rate and time passage is called bathtub curve"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "バスタブ曲線",
+      "reading": "バスタブきょくせん",
+      "vi": "Đường cong bồn tắm",
+      "en": "Bathtub Curve",
+      "my": "ဘာ့တပ် ကန်"
+    },
+    {
+      "term": "初期故障期",
+      "vi": "Giai đoạn sự cố ban đầu",
+      "en": "Initial Failure Period",
+      "my": "ကနဥးပိုင်း ဖိုးရှဂန်"
+    },
+    {
+      "term": "偶発故障期",
+      "vi": "Giai đoạn sự cố ngẫu nhiên",
+      "en": "Random Failure Period",
+      "my": "မျက်စဲ ဖိုးရှဂန်"
+    },
+    {
+      "term": "摩耗故障期",
+      "vi": "Giai đoạn sự cố mài mòn",
+      "en": "Wear-out Failure Period",
+      "my": "ပွန်းစီး ဖိုးရှဂန်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_note_box": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "page_id": 45,
+  "image": "p_0045.png",
+  "chapter": 1,
+  "section": "01-05",
+  "page_number": 29,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "01-05",
+      "ja": "業務分析と業務計画",
+      "reading": "ぎょうむぶんせきとぎょうむけいかく",
+      "vi": "Phân tích nghiệp vụ và Kế hoạch nghiệp vụ",
+      "en": "Business Analysis and Planning",
+      "my": "စီးပွားရေးခွဲခြမ်းစိတ်ဖြာခြင်းနှင့် အစီအစဉ်ရေးဆွဲခြင်း"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "グラフを使い分ける",
+        "vi": "Sử dụng đồ thị đúng cách",
+        "en": "Using graphs appropriately",
+        "my": "ဂရပ်များကို သင့်လျော်စွာ အသုံးပြုခြင်း"
+      },
+      "content": {
+        "ja": "世の中にはさまざまな種類のグラフがあります。経営者は最適なグラフを使い分けて、業務を分析し、計画を立てます。",
+        "vi": "Trên thế giới có nhiều loại đồ thị khác nhau. Nhà quản lý sử dụng đồ thị phù hợp để phân tích nghiệp vụ và lập kế hoạch.",
+        "en": "There are many types of graphs in the world. Managers use appropriate graphs to analyze business operations and make plans.",
+        "my": "ကမ္ဘာပေါ်တွင် ဂရပ်အမျိုးအစားများစွာ ရှိသည်။ မန်နေဂျာများသည် စီးပွားရေးလုပ်ငန်းများကို ခွဲခြမ်းစိတ်ဖြာပြီး အစီအစဉ်များ ရေးဆွဲရန် သင့်လျော်သော ဂရပ်များကို အသုံးပြုသည်။",
+        "terms": [
+          {
+            "kanji": "世",
+            "reading": "よ"
+          },
+          {
+            "kanji": "中",
+            "reading": "なか"
+          },
+          {
+            "kanji": "種類",
+            "reading": "しゅるい"
+          },
+          {
+            "kanji": "経営者",
+            "reading": "けいえいしゃ"
+          },
+          {
+            "kanji": "最適",
+            "reading": "さいてき"
+          },
+          {
+            "kanji": "使",
+            "reading": "し"
+          },
+          {
+            "kanji": "分",
+            "reading": "ふん"
+          },
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "分析",
+            "reading": "ぶんせき"
+          },
+          {
+            "kanji": "計画",
+            "reading": "けいかく"
+          },
+          {
+            "kanji": "立",
+            "reading": "りつ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "経営者は、数学的・科学的に裏付けのある分析ツール（道具）を使って、合理的に経営判断を行います。ITパスポート試験では、そのツールの特徴や使い方が出題されます。ここでは試験によく出題される用語を中心に解説していきます。",
+      "vi": "Nhà quản lý sử dụng các công cụ phân tích có cơ sở toán học và khoa học để đưa ra quyết định kinh doanh hợp lý. Trong kỳ thi IT Passport, đặc điểm và cách sử dụng các công cụ này được ra đề. Ở đây chúng tôi sẽ giải thích các thuật ngữ thường xuất hiện trong kỳ thi.",
+      "en": "Managers use mathematically and scientifically-backed analysis tools to make rational business decisions. The IT Passport exam tests the characteristics and usage of these tools. Here we will explain terms that frequently appear on the exam.",
+      "my": "မန်နေဂျာများသည် ကျိုးကြောင်းဆီလျော်သော စီးပွားရေးဆုံးဖြတ်ချက်များ ချရန် သင်္ချာနှင့် သိပ္ပံအရ အထောက်အကူပြုသော ခွဲခြမ်းစိတ်ဖြာရေးကိရိယာများကို အသုံးပြုသည်။",
+      "terms": [
+        {
+          "kanji": "経営者",
+          "reading": "けいえいしゃ"
+        },
+        {
+          "kanji": "数学的",
+          "reading": "すうがくてき"
+        },
+        {
+          "kanji": "科学的",
+          "reading": "かがくてき"
+        },
+        {
+          "kanji": "裏付",
+          "reading": "うらづけ"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "道具",
+          "reading": "どうぐ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "合理的",
+          "reading": "ごうりてき"
+        },
+        {
+          "kanji": "経営判断",
+          "reading": "けいえいはんだん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "方",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "中心",
+          "reading": "ちゅうしん"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "パレート図",
+      "reading": "ぱれーとず",
+      "vi": "Biểu đồ Pareto",
+      "en": "Pareto Chart",
+      "my": "Pareto Chart"
+    },
+    {
+      "type": "paragraph",
+      "ja": "パレート図とは、棒グラフと折れ線グラフを組み合わせたグラフです（次ページの図を参照）。棒グラフではデータを大きい順に左から並べ、かつ、折れ線グラフではデータの累積比率（%）を表します。この図を使うことで、最も重要なデータ（件数が多いデータ）を一目で確認できます。",
+      "vi": "Biểu đồ Pareto là đồ thị kết hợp biểu đồ cột và biểu đồ đường (xem hình trang sau). Biểu đồ cột sắp xếp dữ liệu theo thứ tự giảm dần từ trái sang, và biểu đồ đường thể hiện tỷ lệ tích lũy (%) của dữ liệu. Sử dụng biểu đồ này có thể xác nhận dữ liệu quan trọng nhất (dữ liệu có số lượng nhiều) chỉ trong một cái nhìn.",
+      "en": "A Pareto chart is a graph that combines bar graphs and line graphs (see figure on next page). The bar graph arranges data in descending order from left, and the line graph shows cumulative percentage (%). Using this chart, you can identify the most important data (data with the most occurrences) at a glance.",
+      "my": "Pareto chart သည် bar graphs နှင့် line graphs ပေါင်းစပ်ထားသော ဂရပ်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "棒",
+          "reading": "ぼう"
+        },
+        {
+          "kanji": "折",
+          "reading": "おり"
+        },
+        {
+          "kanji": "線",
+          "reading": "せん"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "順",
+          "reading": "じゅん"
+        },
+        {
+          "kanji": "左",
+          "reading": "ひだり"
+        },
+        {
+          "kanji": "並",
+          "reading": "なみ"
+        },
+        {
+          "kanji": "累積比率",
+          "reading": "るいせきひりつ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "件数",
+          "reading": "けんすう"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "一目",
+          "reading": "いちもく"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ABC分析",
+      "reading": "えーびーしーぶんせき",
+      "vi": "Phân tích ABC",
+      "en": "ABC Analysis",
+      "my": "ABC Analysis"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ABC分析とは、データをパレート図で表し、「データの重要度」に応じて、データを3つのグループにランク分けする分析手法です。\n\n次ページの例では、累積比率がおよそ0〜70%になる「傷」と「ゆがみ」をAグループに、「そり」「異物混入」「ひび割れ」をBグループに、「色むら」「強度不足」をCグループに分類しています。このように、不良品となった原因の数をABC分析することで、優先的に改善すべき問題を把握することができます。",
+      "vi": "Phân tích ABC là phương pháp phân tích biểu diễn dữ liệu bằng biểu đồ Pareto và phân loại dữ liệu thành 3 nhóm theo \"mức độ quan trọng của dữ liệu\".\n\nTrong ví dụ trang sau, \"Vết xước\" và \"Biến dạng\" có tỷ lệ tích lũy khoảng 0-70% được xếp vào nhóm A, \"Cong vênh\", \"Lẫn tạp chất\", \"Nứt\" vào nhóm B, \"Không đều màu\", \"Độ bền không đủ\" vào nhóm C. Như vậy, bằng cách phân tích ABC nguyên nhân sản phẩm lỗi, có thể nắm bắt được vấn đề cần ưu tiên cải thiện.",
+      "en": "ABC analysis is an analysis method that displays data in a Pareto chart and ranks data into 3 groups according to \"data importance.\"\n\nIn the next page's example, \"Scratches\" and \"Distortion\" with cumulative ratios of about 0-70% are classified as Group A, \"Warping,\" \"Foreign matter contamination,\" \"Cracks\" as Group B, and \"Color unevenness,\" \"Insufficient strength\" as Group C. By ABC analyzing the causes of defective products, you can identify problems that should be prioritized for improvement.",
+      "my": "ABC analysis သည် Pareto chart တွင် data ကိုပြသပြီး \"data ၏ အရေးပါမှု\" အလိုက် data ကို အုပ်စု ၃ ခုအဖြစ် အဆင့်သတ်မှတ်သော ခွဲခြမ်းစိတ်ဖြာနည်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "重要度",
+          "reading": "じゅうようど"
+        },
+        {
+          "kanji": "応",
+          "reading": "おう"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "分析手法",
+          "reading": "ぶんせきしゅほう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "累積比率",
+          "reading": "るいせきひりつ"
+        },
+        {
+          "kanji": "傷",
+          "reading": "きず"
+        },
+        {
+          "kanji": "異物混入",
+          "reading": "いぶつこんにゅう"
+        },
+        {
+          "kanji": "割",
+          "reading": "わり"
+        },
+        {
+          "kanji": "色",
+          "reading": "いろ"
+        },
+        {
+          "kanji": "強度不足",
+          "reading": "きょうどふそく"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "不良品",
+          "reading": "ふりょうひん"
+        },
+        {
+          "kanji": "原因",
+          "reading": "げんいん"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "優先的",
+          "reading": "ゆうせんてき"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "パレート図",
+      "reading": "ぱれーとず",
+      "romaji": "Pareto Zu",
+      "vi": "Biểu đồ Pareto",
+      "en": "Pareto Chart",
+      "my": "Pareto ဇယား"
+    },
+    {
+      "kanji": "ABC分析",
+      "reading": "えーびーしーぶんせき",
+      "romaji": "ABC Bunseki",
+      "vi": "Phân tích ABC",
+      "en": "ABC Analysis",
+      "my": "ABC ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    },
+    {
+      "kanji": "累積比率",
+      "reading": "るいせきひりつ",
+      "romaji": "Ruiseki Hiritsu",
+      "vi": "Tỷ lệ tích lũy",
+      "en": "Cumulative Ratio",
+      "my": "စုပုံအချိုး"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": false,
+    "diagram_type": "radar_chart"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "page_id": 501,
+  "image": "p_0501.png",
+  "chapter": 14,
+  "section": "14-01",
+  "page_number": 485,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "ことです。",
+      "vi": "của nó.",
+      "en": "of it."
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように聞くと、「LANとWANの境目はどこにあるのだろうか」と思った人もいると思いますが、実は、LANとWANの違いは「ネットワークの規模」ではなく、「電気通信事業者が設置した通信回線を使うか否か」にあります。電気通信事業者が設置した通信回線を使ったネットワークのことをWANといいます。",
+      "vi": "Khi nghe như vậy, có người có thể nghĩ \"Ranh giới giữa LAN và WAN ở đâu\", nhưng thực ra, sự khác biệt giữa LAN và WAN không phải là \"quy mô mạng\" mà là \"có sử dụng đường truyền thông do nhà cung cấp viễn thông lắp đặt hay không\". Mạng sử dụng đường truyền thông do nhà cung cấp viễn thông lắp đặt được gọi là WAN.",
+      "en": "Hearing this, some people may think 'Where is boundary between LAN and WAN,' but actually, difference between LAN and WAN is not 'network scale' but 'whether using communication lines installed by telecom carrier or not.' Network using communication lines installed by telecom carrier is called WAN.",
+      "terms": [
+        {
+          "kanji": "聞",
+          "reading": "き"
+        },
+        {
+          "kanji": "境目",
+          "reading": "さかいめ"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "実",
+          "reading": "み"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "規模",
+          "reading": "きぼ"
+        },
+        {
+          "kanji": "電気通信事業者",
+          "reading": "でんきつうしんじぎょうもの"
+        },
+        {
+          "kanji": "設置",
+          "reading": "せっち"
+        },
+        {
+          "kanji": "通信回線",
+          "reading": "つうしんかいせん"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "否",
+          "reading": "ひ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "LANとWAN",
+        "vi": "LAN và WAN",
+        "en": "LAN and WAN"
+      },
+      "description": {
+        "ja": "東京と大阪にオフィスがある会社を例に考える。遠く離れた2つのオフィスをネットワークでつなぐには、電気通信事業者が設置した通信回線を使う必要があります。このネットワークは「WAN」に分類される",
+        "vi": "Lấy ví dụ công ty có văn phòng ở Tokyo và Osaka. Để kết nối 2 văn phòng xa nhau bằng mạng, cần sử dụng đường truyền thông do nhà cung cấp viễn thông lắp đặt. Mạng này được phân loại là \"WAN\"",
+        "en": "Consider company with offices in Tokyo and Osaka as example. To connect 2 distant offices with network, need to use communication lines installed by telecom carrier. This network is classified as 'WAN'"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "LANとWANの違いは、電気通信事業者が設置した通信回線を使うか否かである（WANは使う、LANは使わない）",
+          "vi": "Sự khác biệt giữa LAN và WAN là có sử dụng đường truyền thông do nhà cung cấp viễn thông lắp đặt hay không (WAN có sử dụng, LAN không sử dụng)",
+          "en": "Difference between LAN and WAN is whether using communication lines installed by telecom carrier (WAN uses, LAN doesn't use)"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "インターネット接続サービス事業者と携帯電話会社",
+        "vi": "Nhà cung cấp dịch vụ kết nối Internet và công ty điện thoại di động",
+        "en": "Internet Connection Service Providers and Mobile Phone Companies",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "家にインターネット回線を引く際に「プロバイダ」という言葉を聞いたことがある人もいるかもしれません。プロバイダの日本語の名称は「インターネット接続サービス事業者（ISP：Internet Service Provider）」です。このプロバイダも電気通信事業者に含まれます。また、携帯電話会社も電気通信事業者です。これらの企業が提供している通信回線を利用したネットワーク環境はすべて「WAN」に分類されます。",
+        "vi": "Có người có thể đã nghe từ \"Provider\" khi kéo đường Internet vào nhà. Tên tiếng Nhật của provider là \"Nhà cung cấp dịch vụ kết nối Internet (ISP: Internet Service Provider)\". Provider này cũng thuộc nhà cung cấp viễn thông. Ngoài ra, công ty điện thoại di động cũng là nhà cung cấp viễn thông. Tất cả môi trường mạng sử dụng đường truyền thông do các doanh nghiệp này cung cấp đều được phân loại là \"WAN\".",
+        "en": "Some may have heard word 'Provider' when installing Internet line at home. Japanese name for provider is 'Internet Service Provider (ISP).' This provider is also included in telecom carriers. Also, mobile phone companies are also telecom carriers. All network environments using communication lines provided by these companies are classified as 'WAN.'"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "電気通信事業者",
+      "reading": "でんきつうしんじぎょうしゃ",
+      "vi": "Nhà cung cấp viễn thông",
+      "en": "Telecom Carrier",
+      "my": "တီလီကန် ကရီယာ"
+    },
+    {
+      "term": "プロバイダ",
+      "vi": "Provider (Nhà cung cấp)",
+      "en": "Provider",
+      "my": "ပရိုဗိုင်ဒါ"
+    },
+    {
+      "term": "ISP",
+      "full": "Internet Service Provider",
+      "vi": "ISP (Nhà cung cấp dịch vụ Internet)",
+      "en": "ISP (Internet Service Provider)",
+      "my": "အိုင်အက်စ်ပီ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

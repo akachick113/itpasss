@@ -1,0 +1,290 @@
+{
+  "page_id": 222,
+  "image": "p_0222.png",
+  "chapter": 5,
+  "section": "05-06",
+  "page_number": 206,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "共通フレームと2つのSLCPの関係",
+      "vi": "Mối quan hệ giữa Common Frame và 2 SLCP",
+      "en": "Relationship Between Common Frame and 2 SLCPs"
+    },
+    {
+      "type": "paragraph",
+      "ja": "先述したソフトウェアライフサイクルプロセス（ISO/IEC 12207）と、システムライフサイクルプロセス（ISO/IEC 15288）は、それぞれ、「ソフトウェア」と「システム」に関する規格ですが、システムはソフトウェアを含む概念です。そのため、この2つの規格は重なり合う部分も多いです。\n\nそこで、この2つの規格をまとめ、さらに日本独自のアレンジを加えたガイドラインを作ることになりました。それが「共通フレーム」です。",
+      "vi": "Software Life Cycle Process (ISO/IEC 12207) và System Life Cycle Process (ISO/IEC 15288) đã nói ở trên là tiêu chuẩn về Software và System, nhưng System là khái niệm bao gồm Software. Vì vậy, 2 tiêu chuẩn này có nhiều phần chồng chéo.\n\nVì vậy, đã tổng hợp 2 tiêu chuẩn này và thêm điều chỉnh riêng của Nhật Bản để tạo guideline. Đó là Common Frame.",
+      "en": "The aforementioned Software Life Cycle Process (ISO/IEC 12207) and System Life Cycle Process (ISO/IEC 15288) are standards for 'Software' and 'System' respectively, but System is a concept that includes Software. So these 2 standards overlap considerably.\n\nTherefore, these 2 standards were combined with Japan-specific arrangements to create a guideline. That's 'Common Frame'.",
+      "my": "အထက်တွင် ဖော်ပြခဲ့သော Software Life Cycle Process နှင့် System Life Cycle Process တို့သည် Software နှင့် System အသီးသီးအတွက် စံနှုန်းများဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "先述",
+          "reading": "せんじゅつ"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "規格",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "概念",
+          "reading": "がいねん"
+        },
+        {
+          "kanji": "重",
+          "reading": "じゅう"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "部分",
+          "reading": "ぶぶん"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "日本独自",
+          "reading": "にほんどくじ"
+        },
+        {
+          "kanji": "加",
+          "reading": "か"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "共通",
+          "reading": "きょうつう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "共通フレームと2つのSLCPの関係",
+        "vi": "Mối quan hệ giữa Common Frame và 2 SLCP",
+        "en": "Relationship Between Common Frame and 2 SLCPs"
+      },
+      "headers": {
+        "ja": [
+          "",
+          "ISO/IEC",
+          "JIS",
+          "IPA"
+        ],
+        "vi": [
+          "",
+          "ISO/IEC",
+          "JIS",
+          "IPA"
+        ],
+        "en": [
+          "",
+          "ISO/IEC",
+          "JIS",
+          "IPA"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "システムライフサイクルプロセス",
+            "15288 制定",
+            "X0170 アレンジ",
+            "共通フレーム"
+          ],
+          "vi": [
+            "System Life Cycle Process",
+            "15288 Quy định",
+            "X0170 Điều chỉnh",
+            "Common Frame"
+          ],
+          "en": [
+            "System Life Cycle Process",
+            "15288 Established",
+            "X0170 Arranged",
+            "Common Frame"
+          ]
+        },
+        {
+          "ja": [
+            "ソフトウェアライフサイクルプロセス",
+            "12207 制定",
+            "X0160 アレンジ",
+            "共通フレーム"
+          ],
+          "vi": [
+            "Software Life Cycle Process",
+            "12207 Quy định",
+            "X0160 Điều chỉnh",
+            "Common Frame"
+          ],
+          "en": [
+            "Software Life Cycle Process",
+            "12207 Established",
+            "X0160 Arranged",
+            "Common Frame"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "共通フレームの作者とITパスポート試験",
+        "vi": "Tác giả Common Frame và IT Passport",
+        "en": "Common Frame Author and IT Passport",
+        "terms": [
+          {
+            "kanji": "共通フレーム",
+            "reading": "きょうつうふれーむ"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "すでにお気づきの人もいると思いますが、共通フレームの主著者である独立行政法人情報処理推進機構（IPA）は同時に、ITパスポート試験の実施団体でもあります。このため、ITパスポート試験でも、共通フレームに記載されている内容がよく出題されます。共通フレームは経済産業省のイチ押しのキーワードです。",
+        "vi": "Có thể bạn đã nhận ra, IPA (tác giả chính của Common Frame) đồng thời là đơn vị tổ chức IT Passport. Vì vậy, IT Passport cũng thường ra nội dung được ghi trong Common Frame. Common Frame là từ khóa được Bộ Kinh tế Thương mại và Công nghiệp đẩy mạnh.",
+        "en": "As you may have noticed, IPA (main author of Common Frame) is also the organization administering IT Passport. So IT Passport frequently tests content from Common Frame. Common Frame is a keyword pushed by the Ministry of Economy, Trade and Industry.",
+        "terms": [
+          {
+            "kanji": "気",
+            "reading": "き"
+          },
+          {
+            "kanji": "人",
+            "reading": "にん"
+          },
+          {
+            "kanji": "思",
+            "reading": "おもい"
+          },
+          {
+            "kanji": "共通",
+            "reading": "きょうつう"
+          },
+          {
+            "kanji": "主著者",
+            "reading": "しゅちょもの"
+          },
+          {
+            "kanji": "独立行政法人情報処理推進機構",
+            "reading": "どくりつぎょうせいほうじんじょうほうしょりすいしんきこう"
+          },
+          {
+            "kanji": "同時",
+            "reading": "どうじ"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "実施団体",
+            "reading": "じっしだんたい"
+          },
+          {
+            "kanji": "記載",
+            "reading": "きさい"
+          },
+          {
+            "kanji": "内容",
+            "reading": "ないよう"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "経済産業省",
+            "reading": "けいざいさんぎょうしょう"
+          },
+          {
+            "kanji": "押",
+            "reading": "おう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "5つのプロセス",
+      "vi": "5 quy trình",
+      "en": "5 Processes"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験で取り上げられる共通フレームでは、ソフトウェアライフサイクルは次の5つのプロセスに分類されます。",
+      "vi": "Trong Common Frame được đề cập trong IT Passport, Software Lifecycle được phân thành 5 quy trình sau.",
+      "en": "In the Common Frame covered by IT Passport, the Software Lifecycle is classified into the following 5 processes.",
+      "my": "IT Passport တွင် ပါဝင်သော Common Frame တွင် Software Lifecycle ကို အောက်ပါ process ၅ ခုအဖြစ် ခွဲခြားထားသည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "共通",
+          "reading": "きょうつう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ISO/IEC 12207",
+      "reading": "あいえすおーあいいーしー いちにーにーぜろなな",
+      "romaji": "ISO/IEC 12207",
+      "vi": "ISO/IEC 12207",
+      "en": "ISO/IEC 12207",
+      "my": "ISO/IEC 12207"
+    },
+    {
+      "kanji": "ISO/IEC 15288",
+      "reading": "あいえすおーあいいーしー いちごーにーはちはち",
+      "romaji": "ISO/IEC 15288",
+      "vi": "ISO/IEC 15288",
+      "en": "ISO/IEC 15288",
+      "my": "ISO/IEC 15288"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true
+  }
+}

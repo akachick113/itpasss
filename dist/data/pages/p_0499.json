@@ -1,0 +1,160 @@
+{
+  "page_id": 499,
+  "image": "p_0499.png",
+  "chapter": 14,
+  "section": "intro",
+  "page_number": 483,
+  "content": [
+    {
+      "type": "chapter_header",
+      "number": 14,
+      "title": {
+        "ja": "ネットワーク",
+        "vi": "Mạng",
+        "en": "Network"
+      }
+    },
+    {
+      "type": "chapter_intro_box",
+      "title": {
+        "ja": "この章のポイント！",
+        "vi": "Điểm chính của chương này!",
+        "en": "Key Points of This Chapter!"
+      },
+      "content": {
+        "ja": "本章では現在のシステムに欠かすことのできない必須技術の1つである「ネットワーク」について解説します。本章を読み進める際は、ネットワークの基本構成（LANやWANなど）、ネットワーク機器、および広く利用されている主な通信プロトコルに注目してください。",
+        "vi": "Chương này giải thích về \"Mạng\" - một trong những kỹ thuật bắt buộc không thể thiếu trong hệ thống hiện tại. Khi đọc chương này, hãy chú ý đến cấu hình cơ bản của mạng (LAN, WAN,...), thiết bị mạng, và các giao thức truyền thông chính được sử dụng rộng rãi.",
+        "en": "This chapter explains 'Network' - one of essential technologies indispensable to current systems. When reading this chapter, pay attention to basic network configuration (LAN, WAN, etc.), network devices, and main communication protocols widely used."
+      }
+    },
+    {
+      "type": "key_points_box",
+      "title": {
+        "ja": "ここに注目して読もう！",
+        "vi": "Hãy đọc và chú ý điểm này!",
+        "en": "Read and Focus on This!"
+      },
+      "items": [
+        {
+          "ja": "ネットワークに関するLANやWANの種類と構成、インターネットやLANの接続装置の役割",
+          "vi": "Loại và cấu hình LAN, WAN liên quan đến mạng, vai trò của thiết bị kết nối Internet và LAN",
+          "en": "Types and configuration of LAN/WAN related to network, role of Internet and LAN connection devices"
+        },
+        {
+          "ja": "通信プロトコルの必要性、代表的なプロトコルの役割",
+          "vi": "Sự cần thiết của giao thức truyền thông, vai trò của các giao thức đại diện",
+          "en": "Necessity of communication protocols, role of representative protocols"
+        },
+        {
+          "ja": "インターネットの特徴と基本的な仕組み",
+          "vi": "Đặc điểm và cơ chế cơ bản của Internet",
+          "en": "Features and basic mechanism of Internet"
+        },
+        {
+          "ja": "電子メール、インターネットサービスの特徴、通信サービスの種類、伝送速度など",
+          "vi": "Đặc điểm của email, dịch vụ Internet, loại dịch vụ truyền thông, tốc độ truyền tải,...",
+          "en": "Features of email, Internet services, types of communication services, transmission speed, etc."
+        }
+      ]
+    },
+    {
+      "type": "exam_scope_table",
+      "title": {
+        "ja": "試験範囲全体における本章の位置づけ",
+        "vi": "Vị trí của chương này trong toàn bộ phạm vi thi",
+        "en": "Position of This Chapter in Overall Exam Scope"
+      },
+      "categories": [
+        {
+          "area": {
+            "ja": "ストラテジ系",
+            "vi": "Hệ chiến lược",
+            "en": "Strategy"
+          },
+          "main": [
+            {
+              "ja": "企業と法務",
+              "vi": "Doanh nghiệp và Pháp luật",
+              "en": "Business & Law"
+            },
+            {
+              "ja": "経営戦略",
+              "vi": "Chiến lược kinh doanh",
+              "en": "Business Strategy"
+            },
+            {
+              "ja": "システム戦略",
+              "vi": "Chiến lược hệ thống",
+              "en": "System Strategy"
+            }
+          ]
+        },
+        {
+          "area": {
+            "ja": "マネジメント系",
+            "vi": "Hệ quản lý",
+            "en": "Management"
+          },
+          "main": [
+            {
+              "ja": "開発技術",
+              "vi": "Kỹ thuật phát triển",
+              "en": "Development Technology"
+            },
+            {
+              "ja": "プロジェクトマネジメント",
+              "vi": "Quản lý dự án",
+              "en": "Project Management"
+            },
+            {
+              "ja": "サービスマネジメント",
+              "vi": "Quản lý dịch vụ",
+              "en": "Service Management"
+            }
+          ]
+        },
+        {
+          "area": {
+            "ja": "テクノロジ系",
+            "vi": "Hệ công nghệ",
+            "en": "Technology"
+          },
+          "main": [
+            {
+              "ja": "基礎理論",
+              "vi": "Lý thuyết cơ bản",
+              "en": "Basic Theory"
+            },
+            {
+              "ja": "コンピュータシステム",
+              "vi": "Hệ thống máy tính",
+              "en": "Computer System"
+            },
+            {
+              "ja": "技術要素",
+              "vi": "Yếu tố kỹ thuật",
+              "en": "Technical Elements",
+              "highlight": true
+            }
+          ]
+        }
+      ],
+      "current_chapter_note": {
+        "ja": "本章はココ！",
+        "vi": "Chương này ở đây!",
+        "en": "This chapter is here!"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ネットワーク",
+      "vi": "Mạng",
+      "en": "Network",
+      "my": "နက်ဝက်"
+    }
+  ],
+  "meta": {
+    "is_chapter_intro": true
+  }
+}

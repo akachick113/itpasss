@@ -1,0 +1,234 @@
+{
+  "page_id": 542,
+  "image": "p_0542.png",
+  "chapter": 15,
+  "section": "15-01",
+  "page_number": 526,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "スパムメール",
+      "vi": "Spam Mail",
+      "en": "Spam Mail"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "スパムメール",
+        "vi": "Spam Mail",
+        "en": "Spam Mail"
+      },
+      "definition": {
+        "ja": "スパムメールとは、受信者の承諾なしに無差別に送付されるメールのことです。",
+        "vi": "Spam Mail là email được gửi bừa bãi mà không có sự đồng ý của người nhận.",
+        "en": "Spam Mail is email sent indiscriminately without recipient's consent."
+      },
+      "etymology": {
+        "ja": "スパム（Spam）は肉の缶詰のことです。イギリスのコメディ番組の中で、レストランにいたお客さんが、他の客からスパムという言葉を連呼されて迷惑を受けたことから「たくさんの迷惑なもの＝スパム」と呼ぶようになり、迷惑メールをスパムメールと呼ぶようになりました。",
+        "vi": "Spam là thịt hộp. Trong chương trình hài Anh, khách trong nhà hàng bị phiền bởi khách khác liên tục nói từ Spam, nên \"nhiều thứ phiền phức = Spam\", và email phiền phức được gọi là Spam Mail.",
+        "en": "Spam is canned meat. In British comedy show, restaurant customer was annoyed by others repeatedly saying Spam, so 'many annoying things = Spam,' and annoying email became Spam Mail."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "オートラン",
+      "vi": "Autorun",
+      "en": "Autorun"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "オートラン",
+        "vi": "Autorun",
+        "en": "Autorun"
+      },
+      "definition": {
+        "ja": "オートランとは、外部記憶媒体をPCに接続した際に、自動的にその媒体の中のプログラムを実行するOSの機能です。",
+        "vi": "Autorun là chức năng của OS tự động thực thi chương trình trong phương tiện khi kết nối phương tiện lưu trữ ngoài vào PC.",
+        "en": "Autorun is OS function that automatically executes programs in media when connecting external storage media to PC."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "この機能が悪用されると、マルウェア感染の原因となります。例えば、USBメモリをコンピュータに差し込むと、自動的にマルウェアが起動して感染してしまうようなケースがあります。そのため、セキュリティ対策としてオートランを無効にすることが推奨されています。",
+      "vi": "Nếu chức năng này bị lạm dụng, sẽ trở thành nguyên nhân lây nhiễm malware. Ví dụ, khi cắm USB vào máy tính, malware tự động khởi động và lây nhiễm. Vì vậy, khuyến nghị vô hiệu hóa Autorun như biện pháp bảo mật.",
+      "en": "If this function is abused, it becomes cause of malware infection. For example, when inserting USB into computer, malware automatically starts and infects. Therefore, disabling Autorun is recommended as security measure.",
+      "terms": [
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "悪用",
+          "reading": "あくよう"
+        },
+        {
+          "kanji": "感染",
+          "reading": "かんせん"
+        },
+        {
+          "kanji": "原因",
+          "reading": "げんいん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "差",
+          "reading": "さ"
+        },
+        {
+          "kanji": "込",
+          "reading": "こみ"
+        },
+        {
+          "kanji": "自動的",
+          "reading": "じどうてき"
+        },
+        {
+          "kanji": "起動",
+          "reading": "きどう"
+        },
+        {
+          "kanji": "対策",
+          "reading": "たいさく"
+        },
+        {
+          "kanji": "無効",
+          "reading": "むこう"
+        },
+        {
+          "kanji": "推奨",
+          "reading": "すいしょう"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "語源",
+        "vi": "Nguồn gốc từ",
+        "en": "Etymology"
+      },
+      "content": {
+        "ja": "Windowsに書かれている「AUTORUN.INF」という名前の設定ファイルが語源です。AUTORUN.INFとは、PCに外部記憶媒体を接続した際に、指定されたプログラムを自動的に実行するプログラムです。",
+        "vi": "Nguồn gốc từ file cấu hình \"AUTORUN.INF\" được viết trong Windows. AUTORUN.INF là chương trình tự động thực thi chương trình được chỉ định khi kết nối phương tiện lưu trữ ngoài vào PC.",
+        "en": "Etymology is configuration file 'AUTORUN.INF' written in Windows. AUTORUN.INF is program that automatically executes specified program when connecting external storage media to PC."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "DoS攻撃",
+      "vi": "DoS Attack",
+      "en": "DoS Attack"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "DoS攻撃",
+        "vi": "DoS Attack",
+        "en": "DoS Attack"
+      },
+      "definition": {
+        "ja": "DoS攻撃（Denial of Service Attack）とは、電子メールやWebサーバへの要求（Webリクエスト）などを大量に送りつけて、ネットワーク上のサービスを提供不能にすることです。",
+        "vi": "DoS Attack (Denial of Service Attack) là việc gửi số lượng lớn email hoặc yêu cầu đến Web server (Web Request), làm cho dịch vụ trên mạng không thể cung cấp.",
+        "en": "DoS Attack (Denial of Service Attack) is sending large amounts of email or Web server requests (Web Requests), making network services unavailable."
+      },
+      "etymology": {
+        "ja": "「Denial of Service」とは「サービス妨害」という意味です。",
+        "vi": "\"Denial of Service\" có nghĩa là \"từ chối dịch vụ\".",
+        "en": "'Denial of Service' means 'service denial.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ゼロデイ攻撃",
+      "vi": "Zero-day Attack",
+      "en": "Zero-day Attack"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ゼロデイ攻撃",
+        "vi": "Zero-day Attack",
+        "en": "Zero-day Attack"
+      },
+      "definition": {
+        "ja": "ゼロデイ攻撃（Zero-day Attack）とは、ソフトウェアの脆弱性が発見された際に、それが修正される前にその脆弱性を突いて攻撃することです。",
+        "vi": "Zero-day Attack là việc tấn công bằng cách khai thác lỗ hổng khi phát hiện lỗ hổng phần mềm, trước khi nó được sửa.",
+        "en": "Zero-day Attack is attacking by exploiting vulnerability before it's fixed when software vulnerability is discovered."
+      },
+      "etymology": {
+        "ja": "開発者にとって対策する時間が1日もない（Zero-day）という意味です。",
+        "vi": "Có nghĩa là nhà phát triển không có thời gian để đối phó dù 1 ngày (Zero-day).",
+        "en": "Means developers have no time (Zero-day) to take countermeasures."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "総当たり攻撃",
+      "vi": "Brute Force Attack",
+      "en": "Brute Force Attack"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "総当たり攻撃",
+        "vi": "Brute Force Attack",
+        "en": "Brute Force Attack"
+      },
+      "definition": {
+        "ja": "総当たり攻撃（Brute Force Attack）とは、パスワードとして考えられる文字列のすべての組み合わせを実行することでパスワードを割り出す攻撃です。",
+        "vi": "Brute Force Attack là cuộc tấn công tìm ra mật khẩu bằng cách thực thi tất cả các tổ hợp chuỗi ký tự có thể là mật khẩu.",
+        "en": "Brute Force Attack is attack that finds password by executing all combinations of character strings that could be password."
+      },
+      "etymology": {
+        "ja": "すべての組み合わせを試すことから「総当たり」と命名されました。",
+        "vi": "Được đặt tên \"Brute Force\" vì thử tất cả các tổ hợp.",
+        "en": "Named 'Brute Force' because it tries all combinations."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "スパムメール",
+      "vi": "Spam Mail (Thư rác)",
+      "en": "Spam Mail",
+      "my": "စပမ်းမေး (အမှိုက်စာ)"
+    },
+    {
+      "term": "オートラン",
+      "vi": "Autorun",
+      "en": "Autorun",
+      "my": "အော်တိုရန်"
+    },
+    {
+      "term": "DoS攻撃",
+      "full": "Denial of Service Attack",
+      "vi": "DoS Attack (Tấn công từ chối dịch vụ)",
+      "en": "DoS Attack (Denial of Service Attack)",
+      "my": "DoS တိုက်ခိုက် (ဝန်ဆောင်မှုငြင်းပယ်တိုက်ခိုက်)"
+    },
+    {
+      "term": "ゼロデイ攻撃",
+      "vi": "Zero-day Attack (Tấn công zero-day)",
+      "en": "Zero-day Attack",
+      "my": "ဇီးရိုးဒေး တိုက်ခိုက်"
+    },
+    {
+      "term": "総当たり攻撃",
+      "vi": "Brute Force Attack (Tấn công vét cạn)",
+      "en": "Brute Force Attack",
+      "my": "ဘရု့ဖို့စ် တိုက်ခိုက် (အကုန်လုံးစမ်းတိုက်ခိုက်)"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

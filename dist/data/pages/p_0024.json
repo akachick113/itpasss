@@ -1,0 +1,410 @@
+{
+  "page_id": 24,
+  "image": "p_0024.png",
+  "chapter": 0,
+  "section": "00-03",
+  "page_number": 8,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "00-03",
+      "ja": "効果的な学習方法",
+      "reading": "こうかてきながくしゅうほうほう",
+      "vi": "Phương pháp học tập hiệu quả",
+      "en": "Effective Study Methods",
+      "my": "ထိရောက်သော လေ့လာနည်းများ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "本書は、ITパスポート試験に、短期間で一発合格するための試験対策本です。ここでは、本書をより効率よく使うための方法や、一発合格を達成するための効果的な勉強方法を解説します。",
+      "vi": "Cuốn sách này là tài liệu ôn thi giúp bạn đỗ kỳ thi IT Passport ngay từ lần đầu trong thời gian ngắn. Ở đây, chúng tôi sẽ giải thích cách sử dụng sách hiệu quả hơn và phương pháp học tập hiệu quả để đỗ ngay từ lần đầu.",
+      "en": "This book is an exam preparation guide to help you pass the IT Passport exam on your first attempt in a short period. Here, we explain how to use this book more efficiently and effective study methods to achieve first-attempt success.",
+      "my": "ဤစာအုပ်သည် IT Passport စာမေးပွဲကို ပထမအကြိမ်တွင်ပင် အချိန်တိုအတွင်း အောင်မြင်စေရန် စာမေးပွဲပြင်ဆင်ရေးလမ်းညွှန်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "本書",
+          "reading": "ほんしょ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "短期間",
+          "reading": "たんきかん"
+        },
+        {
+          "kanji": "一発合格",
+          "reading": "いっぱつごうかく"
+        },
+        {
+          "kanji": "試験対策本",
+          "reading": "しけんたいさくほん"
+        },
+        {
+          "kanji": "効率",
+          "reading": "こうりつ"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "達成",
+          "reading": "たっせい"
+        },
+        {
+          "kanji": "効果的",
+          "reading": "こうかてき"
+        },
+        {
+          "kanji": "勉強方法",
+          "reading": "べんきょうほうほう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "まずは軽い気持ちで一回通読する",
+      "reading": "まずはかるいきもちでいっかいつうどくする",
+      "vi": "Trước tiên hãy đọc lướt một lần với tâm trạng nhẹ nhàng",
+      "en": "First, read through once with a light mindset",
+      "my": "ပထမဦးစွာ စိတ်ပေါ့ပါးစွာ တစ်ခါဖတ်ပါ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "資格試験に挑戦するとき、多くの人は新たな気持ちで学習を開始しがちです。中には「1ページ目からしっかりと暗記していくぞ」と気合十分な人もいると思います。しかし、そのような学習方法はあまりお勧めしません。",
+      "vi": "Khi thử sức với kỳ thi chứng chỉ, nhiều người thường bắt đầu học với tâm trạng mới mẻ. Có người còn quyết tâm 'Sẽ ghi nhớ kỹ từ trang đầu tiên'. Tuy nhiên, phương pháp học như vậy không được khuyến khích.",
+      "en": "When challenging a certification exam, many people start studying with a fresh mindset. Some may be determined to 'memorize thoroughly from page one'. However, such study methods are not recommended.",
+      "my": "လက်မှတ်စာမေးပွဲကို စိန်ခေါ်သောအခါ လူအများစုသည် စိတ်သစ်ဖြင့် လေ့လာမှုကို စတင်လေ့ရှိသည်။",
+      "terms": [
+        {
+          "kanji": "資格試験",
+          "reading": "しかくしけん"
+        },
+        {
+          "kanji": "挑戦",
+          "reading": "ちょうせん"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "新",
+          "reading": "あたら"
+        },
+        {
+          "kanji": "気持",
+          "reading": "きもち"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "開始",
+          "reading": "かいし"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "目",
+          "reading": "め"
+        },
+        {
+          "kanji": "暗記",
+          "reading": "あんき"
+        },
+        {
+          "kanji": "気合十分",
+          "reading": "きあいじゅうぶん"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "学習方法",
+          "reading": "がくしゅうほうほう"
+        },
+        {
+          "kanji": "勧",
+          "reading": "かん"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "すべてを完璧に理解する必要はない",
+        "vi": "Không cần hiểu hoàn hảo tất cả",
+        "en": "You don't need to understand everything perfectly",
+        "my": "အားလုံးကို ကောင်းစွာနားလည်ရန် မလိုအပ်ပါ",
+        "terms": [
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験の出題範囲（シラバス）は非常に広範囲であるため、すべての内容を完璧に理解しようとすると挫折します。問題は四肢択一式なので、まずは軽い気持ちで読み通すことからはじめてください。",
+        "vi": "Vì phạm vi đề thi (syllabus) IT Passport rất rộng, nếu cố gắng hiểu hoàn hảo tất cả nội dung, bạn sẽ dễ nản chí. Vì đề thi là trắc nghiệm 4 lựa chọn, hãy bắt đầu bằng việc đọc lướt với tâm trạng nhẹ nhàng.",
+        "en": "Since the IT Passport exam scope (syllabus) is very broad, trying to understand everything perfectly will lead to frustration. Since questions are multiple choice, start by reading through with a light mindset.",
+        "my": "IT Passport စာမေးပွဲနယ်ပယ် (syllabus) သည် အလွန်ကျယ်ပြန့်သောကြောင့် အားလုံးကို ပြည့်စုံစွာနားလည်ရန် ကြိုးစားပါက စိတ်ပျက်မည်ဖြစ်သည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "出題範囲",
+            "reading": "しゅつだいはんい"
+          },
+          {
+            "kanji": "非常",
+            "reading": "ひじょう"
+          },
+          {
+            "kanji": "広範囲",
+            "reading": "こうはんい"
+          },
+          {
+            "kanji": "内容",
+            "reading": "ないよう"
+          },
+          {
+            "kanji": "完璧",
+            "reading": "かんぺき"
+          },
+          {
+            "kanji": "理解",
+            "reading": "りかい"
+          },
+          {
+            "kanji": "挫折",
+            "reading": "ざせつ"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "四肢択一式",
+            "reading": "ししたくいつしき"
+          },
+          {
+            "kanji": "軽",
+            "reading": "かる"
+          },
+          {
+            "kanji": "気持",
+            "reading": "きもち"
+          },
+          {
+            "kanji": "読",
+            "reading": "よ"
+          },
+          {
+            "kanji": "通",
+            "reading": "とおり"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "スキマ時間と「寝る前の10分」を活用する",
+      "reading": "すきまじかんと「ねるまえの10ぷん」をかつようする",
+      "vi": "Tận dụng thời gian rảnh và '10 phút trước khi ngủ'",
+      "en": "Utilize spare time and '10 minutes before bed'",
+      "my": "အချိန်လပ်နှင့် 'အိပ်ရာမဝင်မီ မိနစ် ၁၀' ကို အသုံးချပါ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験に一発で合格するために必要な知識は、本書を一読するだけでは、なかなか定着しません。いったん読み終えたら2回目、3回目の通読に入ります。2回目以降は、1回目に理解できなかった内容を覚えるようにします。本書は、スキマ時間に学習しやすいよう、1つの項目（節）を20分～30分ほどで読み切れる分量に抑えています。通勤・通学の途中や、ちょっとした待ち時間などを活用してください。",
+      "vi": "Kiến thức cần thiết để đỗ kỳ thi IT Passport ngay từ lần đầu không thể được củng cố chỉ bằng việc đọc sách một lần. Sau khi đọc xong, hãy bắt đầu đọc lần 2, lần 3. Từ lần thứ 2 trở đi, hãy cố gắng ghi nhớ những nội dung chưa hiểu ở lần đầu. Cuốn sách này được thiết kế để mỗi mục (phần) có thể đọc xong trong khoảng 20-30 phút, thuận tiện cho việc học trong thời gian rảnh. Hãy tận dụng thời gian đi làm/đi học hoặc những lúc chờ đợi.",
+      "en": "The knowledge needed to pass the IT Passport exam on the first try cannot be consolidated by just reading this book once. After finishing, start reading a second and third time. From the second time onwards, try to remember content you didn't understand the first time. This book is designed so each section can be read in about 20-30 minutes, convenient for studying during spare time. Use time during commuting or waiting.",
+      "my": "IT Passport စာမေးပွဲကို ပထမအကြိမ်တည်း အောင်မြင်ရန် လိုအပ်သော ဗဟုသုတသည် ဤစာအုပ်ကို တစ်ကြိမ်တည်း ဖတ်ရုံဖြင့် မခိုင်မြဲနိုင်ပါ။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "一発",
+          "reading": "いっぱつ"
+        },
+        {
+          "kanji": "合格",
+          "reading": "ごうかく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "本書",
+          "reading": "ほんしょ"
+        },
+        {
+          "kanji": "一読",
+          "reading": "いちどく"
+        },
+        {
+          "kanji": "定着",
+          "reading": "ていちゃく"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "終",
+          "reading": "おわり"
+        },
+        {
+          "kanji": "回目",
+          "reading": "かいめ"
+        },
+        {
+          "kanji": "通読",
+          "reading": "つうどく"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "回目以降",
+          "reading": "かいめいこう"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "節",
+          "reading": "ふし"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "切",
+          "reading": "せつ"
+        },
+        {
+          "kanji": "分量",
+          "reading": "ぶんりょう"
+        },
+        {
+          "kanji": "抑",
+          "reading": "よく"
+        },
+        {
+          "kanji": "通勤",
+          "reading": "つうきん"
+        },
+        {
+          "kanji": "通学",
+          "reading": "つうがく"
+        },
+        {
+          "kanji": "途中",
+          "reading": "とちゅう"
+        },
+        {
+          "kanji": "待",
+          "reading": "ま"
+        },
+        {
+          "kanji": "活用",
+          "reading": "かつよう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "一発合格",
+      "reading": "いっぱつごうかく",
+      "romaji": "Ippatsu Goukaku",
+      "vi": "Đỗ ngay lần đầu",
+      "en": "First-attempt pass",
+      "my": "ပထမအကြိမ်တွင် အောင်မြင်ခြင်း"
+    },
+    {
+      "kanji": "通読",
+      "reading": "つうどく",
+      "romaji": "Tsuudoku",
+      "vi": "Đọc thông suốt",
+      "en": "Reading through",
+      "my": "ဖတ်ရှုခြင်း"
+    },
+    {
+      "kanji": "スキマ時間",
+      "reading": "すきまじかん",
+      "romaji": "Sukima Jikan",
+      "vi": "Thời gian rảnh",
+      "en": "Spare time",
+      "my": "အချိန်လပ်"
+    },
+    {
+      "kanji": "挫折",
+      "reading": "ざせつ",
+      "romaji": "Zasetsu",
+      "vi": "Nản chí, từ bỏ",
+      "en": "Frustration, giving up",
+      "my": "စိတ်ပျက်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": false,
+    "has_learn_more": true
+  }
+}

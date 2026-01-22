@@ -1,0 +1,249 @@
+{
+  "page_id": 566,
+  "image": "p_0566.png",
+  "chapter": 15,
+  "section": "15-05",
+  "page_number": 550,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "15-05",
+      "title": {
+        "ja": "デジタル署名と認証局",
+        "vi": "Chữ ký số và Cơ quan chứng thực",
+        "en": "Digital Signature and Certificate Authority"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "本人であることを証明する",
+        "vi": "Chứng minh đó là bản thân",
+        "en": "Proving Identity"
+      },
+      "content": {
+        "ja": "契約書には、本人であることを証明するために、捺印したり、サインを書いたりします。インターネットでも同じような仕組みを用いて本人であることを確認しています。",
+        "vi": "Trong hợp đồng, đóng dấu hoặc ký tên để chứng minh đó là bản thân. Trên Internet cũng sử dụng cơ chế tương tự để xác nhận danh tính.",
+        "en": "In contracts, stamp or sign to prove identity. On Internet, similar mechanism is used to confirm identity."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "デジタル署名とは",
+      "vi": "Chữ ký số là gì",
+      "en": "What is Digital Signature"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "デジタル署名",
+        "vi": "Chữ ký số",
+        "en": "Digital Signature"
+      },
+      "definition": {
+        "ja": "デジタル署名とは、公開鍵暗号方式を使って、データに電子的に署名を行うことです。",
+        "vi": "Chữ ký số là việc ký điện tử vào dữ liệu bằng cách sử dụng phương thức mã hóa khóa công khai.",
+        "en": "Digital Signature is electronically signing data using Public Key Encryption."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "デジタル署名は、企業がインターネットを使って契約書などを送る際に使われます。従来の紙の契約書の場合は、印鑑やサインによって、それらの書類が本物であることを証明しますが、データに印鑑を押したり、サインを書いたりすることができないため、その代わりに、デジタル署名を使います。",
+      "vi": "Chữ ký số được sử dụng khi doanh nghiệp gửi hợp đồng qua Internet. Với hợp đồng giấy truyền thống, con dấu hoặc chữ ký chứng minh tài liệu là thật, nhưng vì không thể đóng dấu hoặc ký trên dữ liệu, thay vào đó sử dụng chữ ký số.",
+      "en": "Digital Signature is used when companies send contracts via Internet. With traditional paper contracts, stamps or signatures prove documents are authentic, but since cannot stamp or sign on data, use Digital Signature instead.",
+      "terms": [
+        {
+          "kanji": "署名",
+          "reading": "しょめい"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "契約書",
+          "reading": "けいやくしょ"
+        },
+        {
+          "kanji": "送",
+          "reading": "おく"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "従来",
+          "reading": "じゅうらい"
+        },
+        {
+          "kanji": "紙",
+          "reading": "かみ"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "印鑑",
+          "reading": "いんかん"
+        },
+        {
+          "kanji": "書類",
+          "reading": "しょるい"
+        },
+        {
+          "kanji": "本物",
+          "reading": "ほんもの"
+        },
+        {
+          "kanji": "証明",
+          "reading": "しょうめい"
+        },
+        {
+          "kanji": "押",
+          "reading": "おう"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "代",
+          "reading": "だい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "デジタル署名の大原則は次のとおりです。",
+      "vi": "Nguyên tắc cơ bản của chữ ký số như sau.",
+      "en": "Fundamental principle of Digital Signature is as follows.",
+      "terms": [
+        {
+          "kanji": "署名",
+          "reading": "しょめい"
+        },
+        {
+          "kanji": "大原則",
+          "reading": "だいげんそく"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "デジタル署名の大原則",
+        "vi": "Nguyên tắc cơ bản của chữ ký số",
+        "en": "Fundamental Principle of Digital Signature"
+      },
+      "content": {
+        "ja": "秘密鍵で暗号化した文章は、ペアとなる公開鍵でしか復号できない。",
+        "vi": "Văn bản được mã hóa bằng khóa bí mật chỉ có thể giải mã bằng khóa công khai ghép cặp.",
+        "en": "Text encrypted with private key can only be decrypted with paired public key."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "公開鍵暗号方式の大原則（p.548）と比べ、秘密鍵と公開鍵の位置が入れ替わっている点に注目してください。公開鍵暗号方式では「誰もが暗号化でき、特定の人しか復号できない」のが特徴でしたが、デジタル署名では「特定の人のみ暗号化でき、誰でも復号できる」のが特徴です。",
+      "vi": "So với nguyên tắc cơ bản của phương thức mã hóa khóa công khai (trang 548), hãy chú ý vị trí của khóa bí mật và khóa công khai đã hoán đổi. Trong phương thức mã hóa khóa công khai, đặc điểm là \"ai cũng có thể mã hóa, chỉ người cụ thể mới giải mã được\", nhưng trong chữ ký số, đặc điểm là \"chỉ người cụ thể mới mã hóa được, ai cũng giải mã được\".",
+      "en": "Compared to Public Key Encryption's fundamental principle (p.548), note private key and public key positions are swapped. In Public Key Encryption, feature was 'anyone can encrypt, only specific person can decrypt,' but in Digital Signature, feature is 'only specific person can encrypt, anyone can decrypt.'",
+      "terms": [
+        {
+          "kanji": "公開鍵暗号方式",
+          "reading": "こうかいかぎあんごうほうしき"
+        },
+        {
+          "kanji": "大原則",
+          "reading": "だいげんそく"
+        },
+        {
+          "kanji": "比",
+          "reading": "ひ"
+        },
+        {
+          "kanji": "秘密鍵",
+          "reading": "ひみつかぎ"
+        },
+        {
+          "kanji": "公開鍵",
+          "reading": "こうかいかぎ"
+        },
+        {
+          "kanji": "位置",
+          "reading": "いち"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "替",
+          "reading": "かえ"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "注目",
+          "reading": "ちゅうもく"
+        },
+        {
+          "kanji": "誰",
+          "reading": "だれ"
+        },
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "復号",
+          "reading": "ふくごう"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "署名",
+          "reading": "しょめい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "デジタル署名",
+      "vi": "Chữ ký số",
+      "en": "Digital Signature",
+      "my": "ဒစ်ဂျစ်တယ် လက်မှတ်"
+    },
+    {
+      "term": "電子署名",
+      "vi": "Chữ ký điện tử",
+      "en": "Electronic Signature",
+      "my": "အီလက်ထရောနစ် လက်မှတ်"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

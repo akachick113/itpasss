@@ -1,0 +1,387 @@
+{
+  "page_id": 219,
+  "image": "p_0219.png",
+  "chapter": 5,
+  "section": "05-06",
+  "page_number": 203,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "経営",
+      "vi": "Kinh doanh",
+      "en": "Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "次に、経営環境の中で競合他社よりも優位な立場を築くための方法を、経営資源ごとに解説しました。限られた経営資源を駆使して、経営目標を達成するために企業を営むことを「経営」といいます。\n\n・ヒト（HRM、OJTなど）\n・モノ（生産管理、CADなど）\n・カネ（損益分岐点、損益計算書など）\n・情報（知的財産権など）",
+      "vi": "Tiếp theo đã giải thích phương pháp xây dựng vị thế ưu việt hơn đối thủ trong môi trường kinh doanh theo từng nguồn lực kinh doanh. Kinh doanh là điều hành doanh nghiệp để đạt mục tiêu kinh doanh bằng cách sử dụng tối đa nguồn lực kinh doanh có hạn.\n\n・Con người (HRM, OJT...)\n・Vật chất (Quản lý sản xuất, CAD...)\n・Tiền bạc (Điểm hòa vốn, Báo cáo lợi nhuận...)\n・Thông tin (Quyền sở hữu trí tuệ...)",
+      "en": "Next, we explained methods for building an advantageous position over competitors in the business environment, by management resource. Management is running a company to achieve business goals by utilizing limited management resources.\n\n・People (HRM, OJT, etc.)\n・Things (Production management, CAD, etc.)\n・Money (Break-even point, P&L statement, etc.)\n・Information (Intellectual property rights, etc.)",
+      "my": "ထို့နောက် စီးပွားရေးပတ်ဝန်းကျင်တွင် ပြိုင်ဘက်များထက် အားသာသော ရပ်တည်မှုတည်ဆောက်ရန် နည်းလမ်းများကို ရှင်းပြခဲ့သည်။",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "経営環境",
+          "reading": "けいえいかんきょう"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "競合他社",
+          "reading": "きょうごうたしゃ"
+        },
+        {
+          "kanji": "優位",
+          "reading": "ゆうい"
+        },
+        {
+          "kanji": "立場",
+          "reading": "たちば"
+        },
+        {
+          "kanji": "築",
+          "reading": "ちく"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "経営資源",
+          "reading": "けいえいしげん"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "限",
+          "reading": "げん"
+        },
+        {
+          "kanji": "駆使",
+          "reading": "くし"
+        },
+        {
+          "kanji": "経営目標",
+          "reading": "けいえいもくひょう"
+        },
+        {
+          "kanji": "達成",
+          "reading": "たっせい"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "営",
+          "reading": "えい"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "生産管理",
+          "reading": "せいさんかんり"
+        },
+        {
+          "kanji": "損益分岐点",
+          "reading": "そんえきぶんきてん"
+        },
+        {
+          "kanji": "損益計算書",
+          "reading": "そんえきけいさんしょ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "知的財産権",
+          "reading": "ちてきざいさんけん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "事業",
+      "vi": "Sự nghiệp",
+      "en": "Business"
+    },
+    {
+      "type": "paragraph",
+      "ja": "経営は複数の「事業」から構成されます（p.21）。事業に関しては、事業戦略を立てるためにBSC（バランススコアカード）、CSF（重要成功要因）、KPI（重要業績評価指標）などを学びました。",
+      "vi": "Kinh doanh bao gồm nhiều sự nghiệp (trang 21). Về sự nghiệp, đã học BSC (Balanced Scorecard), CSF (Critical Success Factor), KPI (Key Performance Indicator) để lập chiến lược sự nghiệp.",
+      "en": "Management consists of multiple 'businesses' (p.21). For business, we learned BSC (Balanced Scorecard), CSF (Critical Success Factor), KPI (Key Performance Indicator) for building business strategy.",
+      "my": "Management သည် 'business' အများအပြားဖြင့် ဖွဲ့စည်းထားသည်။",
+      "terms": [
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "事業",
+          "reading": "じぎょう"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "事業戦略",
+          "reading": "じぎょうせんりゃく"
+        },
+        {
+          "kanji": "立",
+          "reading": "りつ"
+        },
+        {
+          "kanji": "重要成功要因",
+          "reading": "じゅうようせいこうよういん"
+        },
+        {
+          "kanji": "重要業績評価指標",
+          "reading": "じゅうようぎょうせきひょうかしひょう"
+        },
+        {
+          "kanji": "学",
+          "reading": "がく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "業務",
+      "vi": "Nghiệp vụ",
+      "en": "Work/Operations"
+    },
+    {
+      "type": "paragraph",
+      "ja": "事業は複数の「業務」から構成されます（p.21）。業務に関しては、業務プロセスやDFD（データフロー図）などを学びました。",
+      "vi": "Sự nghiệp bao gồm nhiều nghiệp vụ (trang 21). Về nghiệp vụ, đã học quy trình nghiệp vụ và DFD (Data Flow Diagram).",
+      "en": "Business consists of multiple 'operations' (p.21). For operations, we learned business processes and DFD (Data Flow Diagram).",
+      "my": "Business သည် 'operations' အများအပြားဖြင့် ဖွဲ့စည်းထားသည်။",
+      "terms": [
+        {
+          "kanji": "事業",
+          "reading": "じぎょう"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "学",
+          "reading": "がく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "システム",
+      "vi": "Hệ thống",
+      "en": "System"
+    },
+    {
+      "type": "paragraph",
+      "ja": "業務は「システム」と「手作業」から構成されます（p.21）。システムに関しては、次のようなさまざまなシステムを学びました。\n\n・経営層が使うシステム（CRM、SCM、ERPなど）\n・生産部門が使うシステム（CAD、CAM、JITなど）\n・販売部門が使うシステム（SFAなど）\n\n以上がこれまでに学んだ知識の全体像です。そして今、みなさんがいるのが「このシステムをどのようにして作るのか」というところです。まずは、この点をしっかり確認してください。ただ読み進めるのではなく、「今、どの部分を学習しているのか」「なぜこの用語を学ぶ必要があるのか」といった視点を常に持っておくだけで、学習効率は飛躍的に向上します。それでは、本章の内容に戻ります。",
+      "vi": "Nghiệp vụ bao gồm hệ thống và công việc thủ công (trang 21). Về hệ thống, đã học các hệ thống đa dạng sau:\n\n・Hệ thống quản lý sử dụng (CRM, SCM, ERP...)\n・Hệ thống bộ phận sản xuất sử dụng (CAD, CAM, JIT...)\n・Hệ thống bộ phận bán hàng sử dụng (SFA...)\n\nĐây là toàn cảnh kiến thức đã học. Và bây giờ, các bạn đang ở 'làm thế nào để tạo hệ thống này'. Hãy xác nhận điểm này trước. Không chỉ đọc tiếp mà luôn giữ góc nhìn 'đang học phần nào' 'tại sao cần học thuật ngữ này' sẽ nâng cao hiệu quả học tập đáng kể. Bây giờ quay lại nội dung chương này.",
+      "en": "Operations consist of 'systems' and 'manual work' (p.21). For systems, we learned various systems:\n\n・Systems management uses (CRM, SCM, ERP, etc.)\n・Systems production department uses (CAD, CAM, JIT, etc.)\n・Systems sales department uses (SFA, etc.)\n\nThis is the overall picture of knowledge learned so far. And now, where you are is 'how to build this system'. First, confirm this point firmly. Not just reading on, but always keeping the perspective 'what part am I learning now' 'why do I need to learn this term' will dramatically improve learning efficiency. Now let's return to this chapter's content.",
+      "my": "Operations သည် 'systems' နှင့် 'manual work' တို့ဖြင့် ဖွဲ့စည်းထားသည်။",
+      "terms": [
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "手作業",
+          "reading": "てさぎょう"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "学",
+          "reading": "がく"
+        },
+        {
+          "kanji": "経営層",
+          "reading": "けいえいそう"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "生産部門",
+          "reading": "せいさんぶもん"
+        },
+        {
+          "kanji": "販売部門",
+          "reading": "はんばいぶもん"
+        },
+        {
+          "kanji": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "全体像",
+          "reading": "ぜんたいぞう"
+        },
+        {
+          "kanji": "今",
+          "reading": "いま"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "部分",
+          "reading": "ぶぶん"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "視点",
+          "reading": "してん"
+        },
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "学習効率",
+          "reading": "がくしゅうこうりつ"
+        },
+        {
+          "kanji": "飛躍的",
+          "reading": "ひやくてき"
+        },
+        {
+          "kanji": "向上",
+          "reading": "こうじょう"
+        },
+        {
+          "kanji": "本章",
+          "reading": "ほんしょう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "経営",
+      "reading": "けいえい",
+      "romaji": "Keiei",
+      "vi": "Kinh doanh",
+      "en": "Management",
+      "my": "စီမံခန့်ခွဲမှု"
+    },
+    {
+      "kanji": "事業",
+      "reading": "じぎょう",
+      "romaji": "Jigyou",
+      "vi": "Sự nghiệp",
+      "en": "Business",
+      "my": "စီးပွားရေး"
+    },
+    {
+      "kanji": "業務",
+      "reading": "ぎょうむ",
+      "romaji": "Gyoumu",
+      "vi": "Nghiệp vụ",
+      "en": "Operations",
+      "my": "လုပ်ငန်းမှုများ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false
+  }
+}

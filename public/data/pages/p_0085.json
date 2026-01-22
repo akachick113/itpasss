@@ -1,0 +1,325 @@
+{
+  "page_id": 85,
+  "image": "p_0085.png",
+  "chapter": 2,
+  "section": "02-04",
+  "page_number": 69,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "3種類の契約",
+        "vi": "3 loại hợp đồng",
+        "en": "3 Types of Contracts"
+      },
+      "headers": {
+        "ja": [
+          "名称",
+          "説明"
+        ],
+        "vi": [
+          "Tên",
+          "Giải thích"
+        ],
+        "en": [
+          "Name",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "雇用契約",
+            "労働者が会社から直接、雇用と指示を受ける契約。労働者と企業の間で雇用契約書を作成し、雇用契約を結ぶ。"
+          ],
+          "vi": [
+            "Hợp đồng lao động",
+            "Hợp đồng mà người lao động nhận việc làm và chỉ dẫn trực tiếp từ công ty. Lập hợp đồng lao động giữa người lao động và doanh nghiệp"
+          ],
+          "en": [
+            "Employment Contract",
+            "Contract where workers receive employment and instructions directly from company. Create employment contract between worker and company"
+          ]
+        },
+        {
+          "ja": [
+            "労働者派遣契約",
+            "労働者が派遣元から雇用を受け、派遣先から指示を受ける契約。この契約では、派遣元（お金を出す会社）と派遣元（お金をもらう会社）の間で労働者派遣契約書を作り、労働者派遣契約を結ぶ。また、派遣会社に雇用される労働者を「派遣労働者」という。"
+          ],
+          "vi": [
+            "Hợp đồng phái cử lao động",
+            "Hợp đồng mà người lao động được thuê bởi công ty phái cử và nhận chỉ dẫn từ công ty tiếp nhận. Hợp đồng này được lập giữa công ty phái cử và công ty tiếp nhận. Người lao động được công ty phái cử thuê gọi là lao động phái cử"
+          ],
+          "en": [
+            "Worker Dispatch Contract",
+            "Contract where workers are employed by dispatch company and receive instructions from client company. Contract is made between dispatch and client companies. Workers employed by dispatch company are called dispatched workers"
+          ]
+        },
+        {
+          "ja": [
+            "請負契約",
+            "受注者（ベンダー）が仕事の完成を約束し、発注者（ユーザー）がその仕事に報酬を支払う契約。受注者と発注者の間で請負契約書を作成し、請負契約を結ぶ。"
+          ],
+          "vi": [
+            "Hợp đồng thầu",
+            "Hợp đồng mà bên nhận thầu (Vendor) cam kết hoàn thành công việc và bên đặt thầu (User) trả tiền. Lập hợp đồng thầu giữa bên nhận và bên đặt thầu"
+          ],
+          "en": [
+            "Subcontract",
+            "Contract where contractor (Vendor) promises to complete work and client (User) pays for it. Create subcontract between contractor and client"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "ユーザーとベンダー",
+        "vi": "User và Vendor",
+        "en": "User and Vendor",
+        "my": "User နှင့် Vendor",
+        "terms": [
+          {
+            "kanji": "ユーザー",
+            "reading": "ゆーざー"
+          },
+          {
+            "kanji": "ベンダー",
+            "reading": "べんだー"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験では、「システム開発における請負契約」に関する問題が出題されるため、発注者のことを「ユーザー」（システムを使う人）、受注者のことを「ベンダー」（システムを作る人）と呼ぶことがあります。",
+        "vi": "Trong kỳ thi IT Passport, vì có câu hỏi về Hợp đồng thầu trong phát triển hệ thống nên bên đặt thầu được gọi là User (người sử dụng hệ thống) và bên nhận thầu được gọi là Vendor (người tạo hệ thống).",
+        "en": "In IT Passport exams, questions about Subcontracts in system development appear, so the client is called User (system user) and contractor is called Vendor (system maker).",
+        "my": "IT Passport စာမေးပွဲတွင် စနစ်ဖွံ့ဖြိုးရေးတွင် Subcontracts နှင့်ပတ်သက်သော မေးခွန်းများ ပေါ်လာသည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "開発",
+            "reading": "かいはつ"
+          },
+          {
+            "kanji": "請負契約",
+            "reading": "うけおいけいやく"
+          },
+          {
+            "kanji": "関",
+            "reading": "かん"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "発注者",
+            "reading": "はっちゅうもの"
+          },
+          {
+            "kanji": "使",
+            "reading": "つか"
+          },
+          {
+            "kanji": "人",
+            "reading": "ひと"
+          },
+          {
+            "kanji": "受注者",
+            "reading": "じゅちゅうもの"
+          },
+          {
+            "kanji": "作",
+            "reading": "つく"
+          },
+          {
+            "kanji": "呼",
+            "reading": "こ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "雇用契約",
+      "reading": "こようけいやく",
+      "vi": "Hợp đồng lao động",
+      "en": "Employment Contract",
+      "my": "အလုပ်ခန့်ထားမှုစာချုပ်"
+    },
+    {
+      "type": "paragraph",
+      "ja": "雇用契約における「労働者」とは、就業形態（正社員、契約社員、アルバイト、パートタイマーなど）に関わらず、企業と雇用契約を結んでいるすべての人です。つまり、会社と雇用関係にある人といえます。雇用契約では、契約した企業から雇用と指示を受けます。",
+      "vi": "Người lao động trong hợp đồng lao động là tất cả những người đã ký hợp đồng lao động với doanh nghiệp, bất kể hình thức làm việc (nhân viên chính thức, nhân viên hợp đồng, làm thêm, bán thời gian). Nghĩa là những người có quan hệ lao động với công ty. Trong hợp đồng lao động, nhận việc làm và chỉ dẫn từ doanh nghiệp đã ký hợp đồng.",
+      "en": "Workers in employment contracts are all people who have signed employment contracts with companies, regardless of employment type (full-time, contract, part-time). In other words, people in employment relationship with the company. In employment contracts, you receive employment and instructions from the contracted company.",
+      "my": "အလုပ်ခန့်ထားမှုစာချုပ်တွင် အလုပ်သမားများဆိုသည်မှာ အလုပ်အမျိုးအစား (အချိန်ပြည့်၊ စာချုပ်၊ အချိန်ပိုင်း) မခွဲခြားဘဲ ကုမ္ပဏီများနှင့် အလုပ်ခန့်ထားမှုစာချုပ် လက်မှတ်ထိုးထားသူ အားလုံးဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "雇用契約",
+          "reading": "こようけいやく"
+        },
+        {
+          "kanji": "労働者",
+          "reading": "ろうどうしゃ"
+        },
+        {
+          "kanji": "就業形態",
+          "reading": "しゅうぎょうけいたい"
+        },
+        {
+          "kanji": "正社員",
+          "reading": "せいしゃいん"
+        },
+        {
+          "kanji": "契約社員",
+          "reading": "けいやくしゃいん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "結",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "kanji": "雇用関係",
+          "reading": "こようかんけい"
+        },
+        {
+          "kanji": "契約",
+          "reading": "けいやく"
+        },
+        {
+          "kanji": "雇用",
+          "reading": "こよう"
+        },
+        {
+          "kanji": "指示",
+          "reading": "しじ"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "労働者派遣契約",
+      "reading": "ろうどうしゃはけんけいやく",
+      "vi": "Hợp đồng phái cử lao động",
+      "en": "Worker Dispatch Contract",
+      "my": "အလုပ်သမားစေလွှတ်မှုစာချုပ်"
+    },
+    {
+      "type": "paragraph",
+      "ja": "労働者は、派遣先から指示は受けますが、給与は雇用関係の派遣元から支払われます。ITパスポート試験では「派遣元」と「派遣先」という言葉で表記されます。これら2つの言葉をきちんと区別できるようになっておいてください。",
+      "vi": "Người lao động nhận chỉ dẫn từ công ty tiếp nhận, nhưng lương được trả từ công ty phái cử - nơi có quan hệ lao động. Trong kỳ thi IT Passport sử dụng từ Công ty phái cử và Công ty tiếp nhận. Hãy phân biệt rõ 2 từ này.",
+      "en": "Workers receive instructions from the client company, but salary is paid from the dispatch company with employment relationship. IT Passport uses terms Dispatch Source and Dispatch Destination. Make sure to distinguish these 2 terms.",
+      "my": "အလုပ်သမားများသည် client ကုမ္ပဏီထံမှ ညွှန်ကြားချက်များ ရရှိသော်လည်း လစာကို အလုပ်ခန့်ထားမှုဆက်ဆံရေးရှိသော dispatch ကုမ္ပဏီမှ ပေးသည်။",
+      "terms": [
+        {
+          "kanji": "労働者",
+          "reading": "ろうどうしゃ"
+        },
+        {
+          "kanji": "派遣先",
+          "reading": "はけんさき"
+        },
+        {
+          "kanji": "指示",
+          "reading": "しじ"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "給与",
+          "reading": "きゅうよ"
+        },
+        {
+          "kanji": "雇用関係",
+          "reading": "こようかんけい"
+        },
+        {
+          "kanji": "派遣元",
+          "reading": "はけんもと"
+        },
+        {
+          "kanji": "支払",
+          "reading": "しはらい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "kanji": "表記",
+          "reading": "ひょうき"
+        },
+        {
+          "kanji": "区別",
+          "reading": "くべつ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "雇用契約",
+      "reading": "こようけいやく",
+      "romaji": "Koyou Keiyaku",
+      "vi": "Hợp đồng lao động",
+      "en": "Employment Contract",
+      "my": "အလုပ်ခန့်ထားမှုစာချုပ်"
+    },
+    {
+      "kanji": "派遣元",
+      "reading": "はけんもと",
+      "romaji": "Haken Moto",
+      "vi": "Công ty phái cử",
+      "en": "Dispatch Source",
+      "my": "စေလွှတ်ရင်းမြစ်"
+    },
+    {
+      "kanji": "派遣先",
+      "reading": "はけんさき",
+      "romaji": "Haken Saki",
+      "vi": "Công ty tiếp nhận",
+      "en": "Dispatch Destination",
+      "my": "စေလွှတ်အရောက်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "has_learn_more": true
+  }
+}

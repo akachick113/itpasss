@@ -1,0 +1,162 @@
+{
+    "page_id": 555,
+    "image": "p_0555.png",
+    "chapter": 15,
+    "section": "Practice",
+    "page_number": 539,
+    "content": [
+        {
+            "type": "practice_header",
+            "title": {
+                "ja": "出る順！過去問&完全解説",
+                "vi": "Theo thứ tự xuất hiện! Đề thi và giải thích hoàn chỉnh",
+                "en": "By Frequency! Past Questions & Full Explanations"
+            },
+            "note": {
+                "ja": "解答・解説はp.542参照",
+                "vi": "Xem đáp án và giải thích ở trang 542",
+                "en": "See p.542 for answers and explanations"
+            }
+        },
+        {
+            "type": "practice_question",
+            "number": "15-1",
+            "year": "平成24年度",
+            "question": {
+                "ja": "クロスサイトスクリプティングの特徴に関する記述として、適切なものはどれか。",
+                "vi": "Mô tả nào về đặc điểm của Cross Site Scripting là phù hợp?",
+                "en": "Which is appropriate description about characteristics of Cross Site Scripting?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "Webサイトに入力されたデータに含まれる悪意あるスクリプトを、そのままWebブラウザに送ってしまうという脆弱性を利用する。",
+                        "vi": "Lợi dụng lỗ hổng gửi script độc hại có trong dữ liệu nhập vào trang web nguyên trạng đến trình duyệt Web.",
+                        "en": "Exploits vulnerability sending malicious script contained in data input to website as-is to Web browser."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "入力されたデータの長さをチェックしていないWebサイト上のアプリケーションに対し、長すぎるデータを送りつける。",
+                        "vi": "Gửi dữ liệu quá dài đến ứng dụng trên trang web không kiểm tra độ dài dữ liệu nhập.",
+                        "en": "Sends too-long data to application on website not checking input data length."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "有用なソフトウェアに見せかけて利用者にインストールさせ、コンピュータに侵入する。",
+                        "vi": "Giả vờ phần mềm hữu ích để người dùng cài đặt, sau đó xâm nhập máy tính.",
+                        "en": "Pretends to be useful software to make users install, then infiltrates computer."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "ワープロソフトや表計算ソフトの操作手順を記録し、呼び出して実行する機能を不正に利用する。",
+                        "vi": "Lợi dụng trái phép chức năng ghi và gọi thực thi quy trình thao tác của phần mềm soạn thảo văn bản hoặc bảng tính.",
+                        "en": "Illegally uses function recording and executing operation procedures of word processor or spreadsheet software."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "15-2",
+            "year": "令和6年度",
+            "question": {
+                "ja": "IoT機器のセキュリティ対策のうち、ソーシャルエンジニアリング対策として、最も適切なものはどれか。",
+                "vi": "Trong các biện pháp bảo mật thiết bị IoT, biện pháp nào phù hợp nhất như biện pháp đối phó Social Engineering?",
+                "en": "Among IoT device security measures, which is most appropriate as Social Engineering countermeasure?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "IoT機器とサーバとの通信は、盗聴を防止するために常に暗号化通信で行う。",
+                        "vi": "Truyền thông giữa thiết bị IoT và server luôn thực hiện bằng truyền thông mã hóa để ngăn nghe lén.",
+                        "en": "Communication between IoT device and server always uses encrypted communication to prevent eavesdropping."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "IoT機器の脆弱性を突いた攻撃を防止するために、機器のメーカーから最新のファームウェアを入手してアップデートを行う。",
+                        "vi": "Để ngăn tấn công khai thác lỗ hổng thiết bị IoT, lấy firmware mới nhất từ nhà sản xuất thiết bị và cập nhật.",
+                        "en": "To prevent attacks exploiting IoT device vulnerabilities, obtain latest firmware from device manufacturer and update."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "IoT機器へのマルウェア感染を防止するためにマルウェア対策ソフトを導入する。",
+                        "vi": "Đưa vào phần mềm chống malware để ngăn lây nhiễm malware vào thiết bị IoT.",
+                        "en": "Introduce malware countermeasure software to prevent malware infection of IoT devices."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "IoT機器を廃棄するときは、内蔵されている記憶装置からの情報漏えいを防止するために物理的に破壊する。",
+                        "vi": "Khi bỏ thiết bị IoT, phá hủy vật lý để ngăn rò rỉ thông tin từ thiết bị lưu trữ tích hợp.",
+                        "en": "When discarding IoT device, physically destroy to prevent information leakage from built-in storage device."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "15-3",
+            "year": "平成27年度",
+            "question": {
+                "ja": "スパイウェアが目的としている動作の説明として、最も適切なものはどれか。",
+                "vi": "Giải thích nào về hoạt động mà Spyware nhắm đến là phù hợp nhất?",
+                "en": "Which is most appropriate explanation of action Spyware aims for?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "OSやソフトウェアの動作を不安定にする。",
+                        "vi": "Làm hoạt động của OS hoặc phần mềm không ổn định.",
+                        "en": "Destabilize OS or software operation."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "ファイルシステム上から勝手にファイルを削除する。",
+                        "vi": "Tự ý xóa file từ hệ thống file.",
+                        "en": "Arbitrarily deletes files from file system."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "ブラウザをハイジャックして特定の動作を強制する。",
+                        "vi": "Chiếm quyền trình duyệt và buộc thực hiện hành động cụ thể.",
+                        "en": "Hijacks browser and forces specific actions."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "利用者に気付かれないように個人情報などを収集する。",
+                        "vi": "Thu thập thông tin cá nhân mà người dùng không nhận ra.",
+                        "en": "Collects personal information without user noticing."
+                    }
+                }
+            ]
+        }
+    ],
+    "answer_key": {
+        "15-1": "ア",
+        "15-2": "エ",
+        "15-3": "エ"
+    },
+    "meta": {
+        "is_practice": true
+    }
+}

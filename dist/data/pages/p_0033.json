@@ -1,0 +1,411 @@
+{
+  "page_id": 33,
+  "image": "p_0033.png",
+  "chapter": 1,
+  "section": "01-02",
+  "page_number": 17,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ステークホルダ",
+      "reading": "すてーくほるだ",
+      "vi": "Stakeholder (Các bên liên quan)",
+      "en": "Stakeholder",
+      "my": "Stakeholder"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ステークホルダ（Stakeholder）とは、企業と利害関係にある人です。具体的には、従業員、株主、取引先、消費者、行政機関、地域社会などです。一見すると、地域社会は企業と利害関係がないように思えますが、あなたの家の近所に突然、工場ができて交通渋滞が起きたり、公害が起こったりすれば、それは立派な「害」になります。同様に、大型商業施設ができると利便性が高まれば「利」だと思うでしょう。このため、地域社会もステークホルダに含まれます。",
+      "vi": "Stakeholder là những người có quan hệ lợi ích với doanh nghiệp. Cụ thể bao gồm nhân viên, cổ đông, đối tác kinh doanh, người tiêu dùng, cơ quan hành chính, cộng đồng địa phương, v.v. Thoạt nhìn, có vẻ cộng đồng địa phương không có quan hệ lợi ích với doanh nghiệp, nhưng nếu đột nhiên một nhà máy xuất hiện gần nhà bạn gây tắc nghẽn giao thông hay ô nhiễm, đó rõ ràng là \"hại\". Tương tự, nếu một trung tâm thương mại lớn được xây dựng và làm tăng tiện ích, bạn sẽ nghĩ đó là \"lợi\". Vì vậy, cộng đồng địa phương cũng được bao gồm trong stakeholder.",
+      "en": "Stakeholders are people who have an interest relationship with the company. Specifically, this includes employees, shareholders, business partners, consumers, government agencies, local communities, etc. At first glance, local communities may seem to have no interest relationship with companies, but if a factory suddenly appears near your home causing traffic jams or pollution, that clearly becomes \"harm.\" Similarly, if a large commercial facility improves convenience, you'd think it's \"beneficial.\" Therefore, local communities are also included as stakeholders.",
+      "my": "Stakeholder များသည် ကုမ္ပဏီနှင့် အကျိုးစီးပွားဆက်နွယ်မှုရှိသူများဖြစ်သည်။ အထူးသဖြင့် ဝန်ထမ်းများ၊ အစုရှယ်ယာဝင်များ၊ စီးပွားရေးမိတ်ဖက်များ၊ စားသုံးသူများ၊ အစိုးရအဖွဲ့အစည်းများ၊ ဒေသခံလူ့အဖွဲ့အစည်းများ ပါဝင်သည်။",
+      "terms": [
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "利害関係",
+          "reading": "りがいかんけい"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "従業員",
+          "reading": "じゅうぎょういん"
+        },
+        {
+          "kanji": "株主",
+          "reading": "かぶぬし"
+        },
+        {
+          "kanji": "取引先",
+          "reading": "とりひきさき"
+        },
+        {
+          "kanji": "消費者",
+          "reading": "しょうひしゃ"
+        },
+        {
+          "kanji": "行政機関",
+          "reading": "ぎょうせいきかん"
+        },
+        {
+          "kanji": "地域社会",
+          "reading": "ちいきしゃかい"
+        },
+        {
+          "kanji": "一見",
+          "reading": "いっけん"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "家",
+          "reading": "いえ"
+        },
+        {
+          "kanji": "近所",
+          "reading": "きんじょ"
+        },
+        {
+          "kanji": "突然",
+          "reading": "とつぜん"
+        },
+        {
+          "kanji": "工場",
+          "reading": "こうじょう"
+        },
+        {
+          "kanji": "交通渋滞",
+          "reading": "こうつうじゅうたい"
+        },
+        {
+          "kanji": "起",
+          "reading": "お"
+        },
+        {
+          "kanji": "公害",
+          "reading": "こうがい"
+        },
+        {
+          "kanji": "立派",
+          "reading": "りっぱ"
+        },
+        {
+          "kanji": "害",
+          "reading": "がい"
+        },
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        },
+        {
+          "kanji": "大型商業施設",
+          "reading": "おおがたしょうぎょうしせつ"
+        },
+        {
+          "kanji": "利便性",
+          "reading": "りべんせい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "利",
+          "reading": "り"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "重要ポイント",
+        "vi": "Điểm quan trọng",
+        "en": "Key Point",
+        "my": "အရေးကြီးသောအချက်"
+      },
+      "content": {
+        "ja": "企業はすべてのステークホルダに利益をもたらすように行動する必要があります。ITパスポート試験では「ステークホルダ」という用語の意味が問われたり、問題文のなかに記述されたりするので必ず覚えておいてください。",
+        "vi": "Doanh nghiệp cần hành động để mang lại lợi ích cho tất cả stakeholder. Trong kỳ thi IT Passport, ý nghĩa của thuật ngữ \"stakeholder\" được hỏi hoặc xuất hiện trong đề bài, vì vậy hãy nhớ kỹ.",
+        "en": "Companies must act to bring benefits to all stakeholders. In the IT Passport exam, the meaning of \"stakeholder\" is asked or appears in problem statements, so be sure to remember it.",
+        "my": "ကုမ္ပဏီများသည် stakeholder အားလုံးအတွက် အကျိုးရှိစေရန် လုပ်ဆောင်ရမည်။",
+        "terms": [
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "利益",
+            "reading": "りえき"
+          },
+          {
+            "kanji": "行動",
+            "reading": "こうどう"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          },
+          {
+            "kanji": "意味",
+            "reading": "いみ"
+          },
+          {
+            "kanji": "問",
+            "reading": "とん"
+          },
+          {
+            "kanji": "問題文",
+            "reading": "もんだいぶん"
+          },
+          {
+            "kanji": "記述",
+            "reading": "きじゅつ"
+          },
+          {
+            "kanji": "必",
+            "reading": "ひつ"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "集中学習よりも、分散学習",
+        "vi": "Học phân tán hơn là học tập trung",
+        "en": "Distributed learning over concentrated learning",
+        "my": "အာရုံစိုက်လေ့လာမှုထက် ဖြန့်ကျက်လေ့လာမှု",
+        "terms": [
+          {
+            "kanji": "分散学習",
+            "reading": "ぶんさんがくしゅう"
+          },
+          {
+            "kanji": "集中学習",
+            "reading": "しゅうちゅうがくしゅう"
+          },
+          {
+            "kanji": "学習",
+            "reading": "がくしゅう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "勉強の方法はそれぞれです。週末に十数時間まとめて学習するタイプの人もいれば、毎日コツコツやるタイプの人もいます。前者の学習方法を「集中学習」、後者を「分散学習」といいます。みなさんにとって、どちらの学習方法のほうが適しているかは一概にはいえないのですが、ある実験によると、集中学習よりも、分散学習のほうが「覚えたことを忘れにくい」という結果があります。つまり、同じ20時間勉強する場合でも、「平日はまったく勉強せず、土日に10時間ずつ勉強」する「集中学習」よりも、「平日は毎日2時間、週末は5時間勉強する」という分散学習のほうが効果的な可能性が高いのです。そのため、ITパスポート試験のように、数週間〜数カ月にわたって学習を続けるような資格試験の勉強をする場合は、集中学習よりも、分散学習のほうをおすすめします。一度、検討してみてください。",
+        "vi": "Phương pháp học tùy theo từng người. Có người học gộp hàng chục giờ vào cuối tuần, có người kiên trì học mỗi ngày. Phương pháp trước gọi là \"học tập trung\", phương pháp sau gọi là \"học phân tán\". Không thể nói chắc phương pháp nào phù hợp hơn với bạn, nhưng theo một thí nghiệm, học phân tán có kết quả \"khó quên những gì đã học\" hơn học tập trung. Nghĩa là, cùng học 20 giờ, \"học phân tán\" như \"mỗi ngày trong tuần 2 giờ, cuối tuần 5 giờ\" có khả năng hiệu quả hơn \"học tập trung\" như \"không học ngày thường, cuối tuần học 10 giờ mỗi ngày\". Do đó, khi học cho kỳ thi chứng chỉ kéo dài vài tuần đến vài tháng như IT Passport, chúng tôi khuyên bạn nên học phân tán hơn là học tập trung. Hãy cân nhắc thử.",
+        "en": "Study methods vary. Some people study intensively for dozens of hours on weekends, while others study steadily every day. The former is called \"concentrated learning,\" the latter \"distributed learning.\" We can't say definitively which is better for you, but according to experiments, distributed learning results in being \"less likely to forget what you've learned\" than concentrated learning. In other words, even with the same 20 hours of study, distributed learning like \"2 hours each weekday, 5 hours on weekends\" is likely more effective than concentrated learning like \"no study on weekdays, 10 hours each weekend day.\" Therefore, for exams like IT Passport that require studying over weeks to months, we recommend distributed learning over concentrated learning. Please consider it.",
+        "my": "လေ့လာနည်းများ ကွဲပြားသည်။ တစ်ချို့က သီတင်းပတ်ကုန်တွင် နာရီများစွာ အာရုံစိုက်လေ့လာပြီး တစ်ချို့က နေ့စဉ် တိကျစွာ လေ့လာသည်။",
+        "terms": [
+          {
+            "kanji": "勉強",
+            "reading": "べんきょう"
+          },
+          {
+            "kanji": "方法",
+            "reading": "ほうほう"
+          },
+          {
+            "kanji": "週末",
+            "reading": "しゅうまつ"
+          },
+          {
+            "kanji": "十数時間",
+            "reading": "じゅうすうじかん"
+          },
+          {
+            "kanji": "学習",
+            "reading": "がくしゅう"
+          },
+          {
+            "kanji": "人",
+            "reading": "ひと"
+          },
+          {
+            "kanji": "毎日",
+            "reading": "まいにち"
+          },
+          {
+            "kanji": "前者",
+            "reading": "ぜんしゃ"
+          },
+          {
+            "kanji": "学習方法",
+            "reading": "がくしゅうほうほう"
+          },
+          {
+            "kanji": "集中学習",
+            "reading": "しゅうちゅうがくしゅう"
+          },
+          {
+            "kanji": "後者",
+            "reading": "こうしゃ"
+          },
+          {
+            "kanji": "分散学習",
+            "reading": "ぶんさんがくしゅう"
+          },
+          {
+            "kanji": "適",
+            "reading": "てき"
+          },
+          {
+            "kanji": "一概",
+            "reading": "いちがい"
+          },
+          {
+            "kanji": "実験",
+            "reading": "じっけん"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          },
+          {
+            "kanji": "忘",
+            "reading": "ぼう"
+          },
+          {
+            "kanji": "結果",
+            "reading": "けっか"
+          },
+          {
+            "kanji": "同",
+            "reading": "どう"
+          },
+          {
+            "kanji": "時間勉強",
+            "reading": "じかんべんきょう"
+          },
+          {
+            "kanji": "場合",
+            "reading": "ばあい"
+          },
+          {
+            "kanji": "平日",
+            "reading": "へいじつ"
+          },
+          {
+            "kanji": "土日",
+            "reading": "どにち"
+          },
+          {
+            "kanji": "時間",
+            "reading": "じかん"
+          },
+          {
+            "kanji": "効果的",
+            "reading": "こうかてき"
+          },
+          {
+            "kanji": "可能性",
+            "reading": "かのうせい"
+          },
+          {
+            "kanji": "高",
+            "reading": "たか"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "数週間",
+            "reading": "すうしゅうかん"
+          },
+          {
+            "kanji": "数",
+            "reading": "かず"
+          },
+          {
+            "kanji": "月",
+            "reading": "がつ"
+          },
+          {
+            "kanji": "続",
+            "reading": "ぞく"
+          },
+          {
+            "kanji": "資格試験",
+            "reading": "しかくしけん"
+          },
+          {
+            "kanji": "一度",
+            "reading": "いちど"
+          },
+          {
+            "kanji": "検討",
+            "reading": "けんとう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ステークホルダ",
+      "reading": "すてーくほるだ",
+      "romaji": "Suteekuhoruda",
+      "vi": "Các bên liên quan",
+      "en": "Stakeholder",
+      "my": "အကျိုးစီးပွားဆက်နွယ်မှုရှိသူများ"
+    },
+    {
+      "kanji": "利害関係",
+      "reading": "りがいかんけい",
+      "romaji": "Rigai Kankei",
+      "vi": "Quan hệ lợi ích",
+      "en": "Interest Relationship",
+      "my": "အကျိုးစီးပွားဆက်ဆံ"
+    },
+    {
+      "kanji": "分散学習",
+      "reading": "ぶんさんがくしゅう",
+      "romaji": "Bunsan Gakushuu",
+      "vi": "Học phân tán",
+      "en": "Distributed Learning",
+      "my": "ဖြန့်ကျက်လေ့လာခြင်း"
+    },
+    {
+      "kanji": "集中学習",
+      "reading": "しゅうちゅうがくしゅう",
+      "romaji": "Shuuchuu Gakushuu",
+      "vi": "Học tập trung",
+      "en": "Concentrated Learning",
+      "my": "အာရုံစိုက်လေ့လာခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

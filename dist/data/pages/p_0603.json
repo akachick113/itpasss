@@ -1,0 +1,313 @@
+{
+    "page_id": 603,
+    "image": "p_0603.png",
+    "chapter": "index",
+    "section": "index",
+    "page_number": 587,
+    "content": [
+        {
+            "type": "index_section",
+            "section_title": "G・H・I",
+            "entries": [
+                {
+                    "term": "GDPR (General Data Protection Regulation)",
+                    "page": 83
+                },
+                {
+                    "term": "GPS (Global Positioning System)",
+                    "page": 133
+                },
+                {
+                    "term": "GPU (Graphics Processing Unit)",
+                    "page": 422
+                },
+                {
+                    "term": "HDMI (High-Definition Multimedia Interface)",
+                    "page": 415
+                },
+                {
+                    "term": "HRM (Human Resource Management)",
+                    "page": 18
+                },
+                {
+                    "term": "HRテック",
+                    "page": 19
+                },
+                {
+                    "term": "HTML",
+                    "page": 337
+                },
+                {
+                    "term": "HTTPS",
+                    "page": 560
+                },
+                {
+                    "term": "HTTPプロキシサーバ",
+                    "page": 559
+                },
+                {
+                    "term": "IaaS (Infrastructure as a Service)",
+                    "page": 190
+                },
+                {
+                    "term": "ICタグ",
+                    "page": 131
+                },
+                {
+                    "term": "IDS (Intrusion Detection System)",
+                    "page": 557
+                },
+                {
+                    "term": "IMAP (Internet Message Access Protocol)",
+                    "page": 494
+                },
+                {
+                    "term": "IoT (Internet of Things)",
+                    "page": "165, 510"
+                },
+                {
+                    "term": "IPO (Initial Public Offering)",
+                    "page": 107
+                },
+                {
+                    "term": "IPS (Intrusion Prevention System)",
+                    "page": 557
+                },
+                {
+                    "term": "IPv6",
+                    "page": 501
+                },
+                {
+                    "term": "IPアドレス",
+                    "page": 496
+                },
+                {
+                    "term": "IPランドスケープ",
+                    "page": 62
+                },
+                {
+                    "term": "ISO (International Organization for Standardization)",
+                    "page": 87
+                },
+                {
+                    "term": "ISO 9000シリーズ",
+                    "page": 87
+                },
+                {
+                    "term": "ISO 14000シリーズ",
+                    "page": 88
+                },
+                {
+                    "term": "ISO/IEC 27000シリーズ",
+                    "page": 88
+                },
+                {
+                    "term": "ISO/IEC 27017",
+                    "page": 534
+                },
+                {
+                    "term": "ISP (Internet Service Provider)",
+                    "page": 485
+                },
+                {
+                    "term": "ITIL",
+                    "page": 281
+                },
+                {
+                    "term": "ITガバナンス",
+                    "page": 303
+                },
+                {
+                    "term": "ITサービスマネジメント",
+                    "page": 281
+                },
+                {
+                    "term": "IT統制",
+                    "page": 309
+                }
+            ]
+        },
+        {
+            "type": "index_section",
+            "section_title": "J・K・L",
+            "entries": [
+                {
+                    "term": "JANコード",
+                    "page": 86
+                },
+                {
+                    "term": "JIT生産方式",
+                    "page": 153
+                },
+                {
+                    "term": "KPI (Key Performance Indicator)",
+                    "page": 117
+                },
+                {
+                    "term": "Linux",
+                    "page": 444
+                },
+                {
+                    "term": "LPWA (Low Power Wide Area)",
+                    "page": 510
+                }
+            ]
+        },
+        {
+            "type": "index_section",
+            "section_title": "M・N・O",
+            "entries": [
+                {
+                    "term": "M&A (Mergers and Acquisitions)",
+                    "page": 106
+                },
+                {
+                    "term": "MA (マーケティングオートメーション)",
+                    "page": 121
+                },
+                {
+                    "term": "Machine Learning (機械学習)",
+                    "page": 135
+                },
+                {
+                    "term": "MBO (Management Buyout)",
+                    "page": 108
+                },
+                {
+                    "term": "MTBF (Mean Time Between Failures)",
+                    "page": 383
+                },
+                {
+                    "term": "MTTR (Mean Time To Repair)",
+                    "page": 384
+                },
+                {
+                    "term": "MVNO",
+                    "page": 14
+                },
+                {
+                    "term": "MVV",
+                    "page": 14
+                },
+                {
+                    "term": "MySQL",
+                    "page": 444
+                },
+                {
+                    "term": "NAS (Network Attached Storage)",
+                    "page": 380
+                },
+                {
+                    "term": "NAT (Network Address Translation)",
+                    "page": 503
+                },
+                {
+                    "term": "NCO",
+                    "page": "66, 562"
+                },
+                {
+                    "term": "NDA (Non-Disclosure Agreement)",
+                    "page": 214
+                },
+                {
+                    "term": "NFC (Near Field Communication)",
+                    "page": 132
+                },
+                {
+                    "term": "NULL",
+                    "page": 461
+                },
+                {
+                    "term": "OCR",
+                    "page": 409
+                },
+                {
+                    "term": "OJT／Off-JT",
+                    "page": 18
+                },
+                {
+                    "term": "OS (Operating System)",
+                    "page": 424
+                },
+                {
+                    "term": "OSS (Open Source Software)",
+                    "page": 446
+                }
+            ]
+        },
+        {
+            "type": "index_section",
+            "section_title": "P・Q・R",
+            "entries": [
+                {
+                    "term": "PDCA",
+                    "page": "283, 534"
+                },
+                {
+                    "term": "PKI (Public Key Infrastructure)",
+                    "page": 553
+                },
+                {
+                    "term": "PMBOK",
+                    "page": 261
+                },
+                {
+                    "term": "PoC (Proof of Concept)",
+                    "page": 128
+                },
+                {
+                    "term": "PoE (Power over Ethernet)",
+                    "page": 490
+                },
+                {
+                    "term": "POP (Post Office Protocol)",
+                    "page": 494
+                },
+                {
+                    "term": "POSシステム",
+                    "page": 142
+                },
+                {
+                    "term": "PoV (Proof of Value)",
+                    "page": 128
+                },
+                {
+                    "term": "PPM (Product Portfolio Management)",
+                    "page": 101
+                },
+                {
+                    "term": "QRコード",
+                    "page": 86
+                },
+                {
+                    "term": "RAD (Rapid Application Development)",
+                    "page": 249
+                },
+                {
+                    "term": "RAID (Redundant Arrays of Inexpensive Disks)",
+                    "page": 378
+                },
+                {
+                    "term": "RAM (Random Access Memory)",
+                    "page": 407
+                },
+                {
+                    "term": "RDBMS (Relational DataBase Management System)",
+                    "page": 468
+                },
+                {
+                    "term": "RFI (Request For Information)",
+                    "page": 213
+                },
+                {
+                    "term": "RFID (Radio Frequency Identification)",
+                    "page": "131, 415"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "is_index": true
+    }
+}

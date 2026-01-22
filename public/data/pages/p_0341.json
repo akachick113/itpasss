@@ -1,0 +1,331 @@
+{
+  "page_id": 341,
+  "image": "p_0341.png",
+  "chapter": 9,
+  "section": "09-02",
+  "page_number": 325,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "受験日までに上記の真理値表、またはベン図を覚えておいてください。真理値表を覚えるのが面倒な人は、ベン図でも構いません。ベン図が描ければ、すぐに真理値表を算出できます。",
+      "vi": "Hãy nhớ bảng chân trị hoặc biểu đồ Venn ở trên trước ngày thi. Nếu ngại nhớ bảng chân trị, biểu đồ Venn cũng được. Nếu vẽ được biểu đồ Venn, có thể tính ra bảng chân trị ngay.",
+      "en": "Please memorize above truth tables or Venn diagrams by exam day. If memorizing truth tables is troublesome, Venn diagrams are fine. If can draw Venn diagrams, can quickly calculate truth tables.",
+      "terms": [
+        {
+          "kanji": "受験日",
+          "reading": "じゅけんにち"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "真理値表",
+          "reading": "しんりちひょう"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "面倒",
+          "reading": "めんどう"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "構",
+          "reading": "こう"
+        },
+        {
+          "kanji": "描",
+          "reading": "びょう"
+        },
+        {
+          "kanji": "算出",
+          "reading": "さんしゅつ"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "論理演算の計算問題が出題される",
+          "vi": "Bài toán tính phép toán logic sẽ được ra đề",
+          "en": "Logical operation calculation problems will be tested"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "ANDは「和」ではなく「積」",
+        "vi": "AND là \"tích\" chứ không phải \"tổng\"",
+        "en": "AND is 'product' not 'sum'",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "日本語では、AND演算を「論理積」、OR演算を「論理和」、XOR演算を「排他的論理和」、NOT演算を「否定」といいます。ANDは、英語の意味からすると「和」のように思えるので注意が必要です。この「積」は四則演算のかけ算のことではなく、「積集合です（p.322）。つまり、「A AND B」は「AとB」ではなく、「A、かつ、B」です。",
+        "vi": "Trong tiếng Nhật, AND gọi là \"tích logic\", OR là \"tổng logic\", XOR là \"XOR loại trừ\", NOT là \"phủ định\". AND có vẻ như \"tổng\" theo nghĩa tiếng Anh nên cần chú ý. \"Tích\" ở đây không phải phép nhân tứ tắc mà là \"giao tập hợp\" (trang 322). Nghĩa là \"A AND B\" không phải \"A và B\" mà là \"A, đồng thời, B\".",
+        "en": "In Japanese, AND is 'logical product,' OR is 'logical sum,' XOR is 'exclusive OR,' NOT is 'negation.' AND might seem like 'sum' from English meaning, so be careful. This 'product' isn't arithmetic multiplication but 'intersection' (p.322). That is, 'A AND B' isn't 'A and B' but 'A, and also, B.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "NANDとNOR",
+      "reading": "なんどとのあ",
+      "vi": "NAND và NOR",
+      "en": "NAND and NOR",
+      "note": "重要！たまに出る！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上で解説した4つの演算子が論理演算の基本的な演算子ですが、ITパスポート試験ではこれらの他に「NAND」（否定論理積）と「NOR」（否定論理和）が出題されることもあります。",
+      "vi": "4 toán tử đã giải thích ở trên là toán tử cơ bản của phép toán logic, nhưng trong kỳ thi IT Passport, ngoài những cái này còn có thể ra đề \"NAND\" (NAND) và \"NOR\" (NOR).",
+      "en": "The 4 operators explained above are basic logical operators, but IT Passport exam may also include 'NAND' (negated AND) and 'NOR' (negated OR).",
+      "terms": [
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "演算子",
+          "reading": "えんざんし"
+        },
+        {
+          "kanji": "論理演算",
+          "reading": "ろんりえんざん"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "否定論理積",
+          "reading": "ひていろんりせき"
+        },
+        {
+          "kanji": "否定論理和",
+          "reading": "ひていろんりわ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "NANDとは、論理積と否定を組み合わせた演算です。計算方法は簡単です。AND演算の答えをすべて反転するだけです（0は1、1は0）。",
+      "vi": "NAND là phép toán kết hợp tích logic và phủ định. Cách tính đơn giản. Chỉ cần đảo ngược tất cả đáp án AND (0 thành 1, 1 thành 0).",
+      "en": "NAND combines logical product and negation. Calculation is simple. Just invert all AND results (0 becomes 1, 1 becomes 0).",
+      "terms": [
+        {
+          "kanji": "論理積",
+          "reading": "ろんりせき"
+        },
+        {
+          "kanji": "否定",
+          "reading": "ひてい"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "演算",
+          "reading": "えんざん"
+        },
+        {
+          "kanji": "計算方法",
+          "reading": "けいさんほうほう"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "答",
+          "reading": "こたえ"
+        },
+        {
+          "kanji": "反転",
+          "reading": "はんてん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "また、NORとは、論理和と否定を組み合わせた演算です。NORではOR演算の答えをすべて反転させます。",
+      "vi": "Ngoài ra, NOR là phép toán kết hợp tổng logic và phủ định. NOR đảo ngược tất cả đáp án OR.",
+      "en": "Also, NOR combines logical sum and negation. NOR inverts all OR results.",
+      "terms": [
+        {
+          "kanji": "論理和",
+          "reading": "ろんりわ"
+        },
+        {
+          "kanji": "否定",
+          "reading": "ひてい"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "演算",
+          "reading": "えんざん"
+        },
+        {
+          "kanji": "答",
+          "reading": "こたえ"
+        },
+        {
+          "kanji": "反転",
+          "reading": "はんてん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、NANDは「NOT AND」、NORは「NOT OR」という意味です。",
+      "vi": "Tham khảo, NAND nghĩa là \"NOT AND\", NOR nghĩa là \"NOT OR\".",
+      "en": "Note that NAND means 'NOT AND,' NOR means 'NOT OR.'",
+      "terms": [
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "NAND演算の真理値表",
+        "vi": "Bảng chân trị NAND",
+        "en": "NAND Truth Table"
+      },
+      "headers": [
+        "A",
+        "B",
+        "A NAND B"
+      ],
+      "rows": [
+        [
+          "0",
+          "0",
+          "1"
+        ],
+        [
+          "0",
+          "1",
+          "1"
+        ],
+        [
+          "1",
+          "0",
+          "1"
+        ],
+        [
+          "1",
+          "1",
+          "0"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "NOR演算の真理値表",
+        "vi": "Bảng chân trị NOR",
+        "en": "NOR Truth Table"
+      },
+      "headers": [
+        "A",
+        "B",
+        "A NOR B"
+      ],
+      "rows": [
+        [
+          "0",
+          "0",
+          "1"
+        ],
+        [
+          "0",
+          "1",
+          "0"
+        ],
+        [
+          "1",
+          "0",
+          "0"
+        ],
+        [
+          "1",
+          "1",
+          "0"
+        ]
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "NAND",
+      "ja": "否定論理積",
+      "vi": "NAND (phủ định tích logic)",
+      "en": "Negated AND",
+      "my": "နန်းဒ်"
+    },
+    {
+      "term": "NOR",
+      "ja": "否定論理和",
+      "vi": "NOR (phủ định tổng logic)",
+      "en": "Negated OR",
+      "my": "နိုအာ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true
+  }
+}

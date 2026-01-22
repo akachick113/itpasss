@@ -1,0 +1,162 @@
+{
+  "page_id": 447,
+  "image": "p_0447.png",
+  "chapter": 12,
+  "section": "12-02",
+  "page_number": 431,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "パス指定の4つのルール",
+      "vi": "4 quy tắc chỉ định đường dẫn",
+      "en": "4 Rules for Path Specification"
+    },
+    {
+      "type": "paragraph",
+      "ja": "パスは、次の4つのルールに従って記述します。",
+      "vi": "Đường dẫn được viết theo 4 quy tắc sau.",
+      "en": "Path is written following these 4 rules.",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "従",
+          "reading": "じゅう"
+        },
+        {
+          "kanji": "記述",
+          "reading": "きじゅつ"
+        }
+      ]
+    },
+    {
+      "type": "rules_list",
+      "items": [
+        {
+          "rule": 1,
+          "ja": "ディレクトリやファイルは「/」（スラッシュ）で区切る",
+          "vi": "Thư mục và tệp được phân cách bằng \"/\" (slash)",
+          "en": "Directories and files separated by '/' (slash)"
+        },
+        {
+          "rule": 2,
+          "ja": "パスのはじまりが「/」のときは、左端にルートディレクトリが省略されているものとする",
+          "vi": "Khi đường dẫn bắt đầu bằng \"/\", thư mục gốc bị lược bỏ ở bên trái",
+          "en": "When path starts with '/', root directory is omitted on left"
+        },
+        {
+          "rule": 3,
+          "ja": "カレントディレクトリは「.」で表す",
+          "vi": "Thư mục hiện tại được biểu thị bằng \".\"",
+          "en": "Current directory represented by '.'"
+        },
+        {
+          "rule": 4,
+          "ja": "1階層上のディレクトリは「..」で表す",
+          "vi": "Thư mục trên 1 cấp được biểu thị bằng \"..\"",
+          "en": "Directory 1 level up represented by '..'"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "4つのルールは覚えなくてもよい",
+        "vi": "Không cần nhớ 4 quy tắc",
+        "en": "Don't Need to Memorize 4 Rules",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "パス指定には4つもルールがあるので、「こんなにたくさん覚えないといけないのか…」とうんざりした人も多いと思いますが、安心してください。パス指定の4つのルールは、試験の問題文に記載されているので、暗記する必要はありません。大切なのは、各ルールを暗記することではなく、各ルールの内容を理解することです。一度理解してしまえば、試験当日に問題文を読めば、難なく解答できます。",
+        "vi": "Vì có 4 quy tắc chỉ định đường dẫn, nhiều người có thể chán nản \"phải nhớ nhiều thế này sao...\", nhưng hãy yên tâm. 4 quy tắc chỉ định đường dẫn được ghi trong đề thi, nên không cần ghi nhớ. Điều quan trọng không phải nhớ thuộc mỗi quy tắc, mà là hiểu nội dung mỗi quy tắc. Một khi đã hiểu, ngày thi đọc đề có thể trả lời dễ dàng.",
+        "en": "Since path specification has 4 rules, many may be overwhelmed 'have to memorize all this...' but don't worry. 4 rules for path specification are written in exam questions, so no need to memorize. Important is not memorizing each rule, but understanding each rule's content. Once understood, can easily answer by reading question on exam day."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ルール1 ディレクトリやファイルは「/」（スラッシュ）で区切る",
+      "vi": "Quy tắc 1: Thư mục và tệp được phân cách bằng \"/\" (slash)",
+      "en": "Rule 1: Directories and Files Separated by '/' (Slash)"
+    },
+    {
+      "type": "paragraph",
+      "ja": "フォルダやファイルの階層構造は「/」（スラッシュ）で区切ります。例えば、前ページの図の「りんご.jpg」ファイルを指定する場合は、次のようにパスを指定します。",
+      "vi": "Cấu trúc phân cấp của thư mục và tệp được phân cách bằng \"/\" (slash). Ví dụ, khi chỉ định tệp \"ringo.jpg\" trong hình trang trước, chỉ định đường dẫn như sau.",
+      "en": "Hierarchical structure of folders and files separated by '/' (slash). For example, when specifying 'ringo.jpg' file from previous page diagram, specify path as follows.",
+      "terms": [
+        {
+          "kanji": "階層構造",
+          "reading": "かいそうこうぞう"
+        },
+        {
+          "kanji": "区切",
+          "reading": "くぎり"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "code": "/画像/りんご.jpg",
+      "annotation": {
+        "ja": "← 「ルートディレクトリ」/「画像」/「りんご.jpg」省略されている",
+        "vi": "← \"Thư mục gốc\"/\"Hình ảnh\"/\"ringo.jpg\" bị lược bỏ",
+        "en": "← 'Root Directory'/'Image'/'ringo.jpg' omitted"
+      }
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "パスの区切り文字",
+        "vi": "Ký tự phân cách đường dẫn",
+        "en": "Path Separator Character",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "パスの区切り文字は「/」が基本ですが、OSによっては「\\」で区切る場合もあります。多くの人が利用しているWindowsのパスの区切り文字は「\\」です。記号が異なっても指定方法は同じです。上記の場合は「\\画像\\りんご.jpg」と指定されます。試験問題においてパスの区切り文字がどちらの記号であるかは試験の問題文に記載されます。",
+        "vi": "Ký tự phân cách đường dẫn cơ bản là \"/\", nhưng tùy thuộc vào OS có thể phân cách bằng \"\\\". Ký tự phân cách đường dẫn của Windows mà nhiều người sử dụng là \"\\\". Dù ký hiệu khác nhau, phương pháp chỉ định vẫn giống nhau. Trong trường hợp trên là \"\\Hình ảnh\\ringo.jpg\". Trong đề thi, ký tự phân cách đường dẫn là ký hiệu nào sẽ được ghi trong đề.",
+        "en": "Path separator is basically '/' but depending on OS may be '\\.' Windows path separator used by many is '\\.' Even if symbol differs, specification method is same. Above case would be '\\Image\\ringo.jpg.' In exam questions, which symbol is path separator is written in question."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "スラッシュ",
+      "vi": "Slash (dấu gạch chéo)",
+      "en": "Slash",
+      "my": "စလက်ရှ်"
+    }
+  ],
+  "meta": {
+    "has_note_box": true,
+    "has_code_example": true,
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "page_id": 442,
+  "image": "p_0442.png",
+  "chapter": 12,
+  "section": "12-01",
+  "page_number": 426,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "ておく方式（これを「シングルタスク」という）だと、プロセスが1つずつしか完了しないため、処理完了までに時間のかかるプロセスが発生した場合、他のプロセスが長時間、待機させられることになってしまいます。",
+      "vi": "Với phương thức (gọi là \"single task\"), vì process chỉ hoàn thành từng cái một, nên nếu có process mất nhiều thời gian để hoàn thành, các process khác sẽ phải đợi lâu.",
+      "en": "With method (called 'single task'), since processes complete one by one, if process taking long time to complete occurs, other processes will wait for long time.",
+      "terms": [
+        {
+          "kanji": "方式",
+          "reading": "ほうしき"
+        },
+        {
+          "kanji": "完了",
+          "reading": "かんりょう"
+        },
+        {
+          "kanji": "処理完了",
+          "reading": "しょりかんりょう"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "発生",
+          "reading": "はっせい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "長時間",
+          "reading": "ちょうじかん"
+        },
+        {
+          "kanji": "待機",
+          "reading": "たいき"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "こういった問題を防ぐためのOSの機能がマルチタスクです。マルチタスクでは、見かけ上、複数のアプリケーションソフトウェアを同時に立ち上げて作業できます。",
+      "vi": "Chức năng OS để ngăn chặn vấn đề này là đa nhiệm. Với đa nhiệm, về mặt biểu kiến có thể mở nhiều phần mềm ứng dụng đồng thời để làm việc.",
+      "en": "OS function to prevent this problem is multitask. With multitask, can apparently open multiple application software simultaneously to work.",
+      "terms": [
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "防",
+          "reading": "ぼう"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "同時",
+          "reading": "どうじ"
+        },
+        {
+          "kanji": "立",
+          "reading": "りつ"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、マルチタスクは、CPUが行っているのではなく、OSがCPUを操作することで実現している処理です。",
+      "vi": "Ngoài ra, đa nhiệm không phải do CPU thực hiện, mà là xử lý được thực hiện bởi OS điều khiển CPU.",
+      "en": "Also, multitask is not performed by CPU, but processing realized by OS operating CPU.",
+      "terms": [
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "操作",
+          "reading": "そうさ"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "ITパスポート試験での表記",
+        "vi": "Ký hiệu trong kỳ thi IT Passport",
+        "en": "Notation in IT Passport Exam",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "「プロセス」と「タスク」はまったく同じ意味で使われる用語ですが、ITパスポート試験では、OSがCPUに出す命令を「プロセス」と表記し、そのプロセスを少しずつ処理する技術のことを「マルチタスク」と表現することが多いです。が、「マルチプロセス」という表現も誤りでないですが、筆者はITパスポート試験でこの表記を見たことはありません。",
+        "vi": "\"Process\" và \"task\" là thuật ngữ được sử dụng với cùng ý nghĩa, nhưng trong kỳ thi IT Passport, lệnh mà OS đưa ra cho CPU thường được ghi là \"process\", và công nghệ xử lý process đó từng chút một thường được biểu diễn là \"multitask\". Tuy \"multiprocess\" không sai, nhưng tác giả chưa từng thấy ký hiệu này trong kỳ thi IT Passport.",
+        "en": "'Process' and 'task' are terms used with same meaning, but in IT Passport exam, commands OS gives to CPU are often written as 'process,' and technology processing that process bit by bit is often expressed as 'multitask.' While 'multiprocess' is not wrong, author has never seen this notation in IT Passport exam."
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "マルチタスクとは、1台のPCで、複数のアプリケーションプログラムを少しずつ互いに並行して実行するOSの機能",
+          "vi": "Đa nhiệm là chức năng OS thực hiện nhiều chương trình ứng dụng song song từng chút một trên 1 PC",
+          "en": "Multitask is OS function executing multiple application programs bit by bit in parallel on 1 PC"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "仮想記憶管理",
+      "vi": "Quản lý bộ nhớ ảo",
+      "en": "Virtual Memory Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "OSの機能の1つに仮想記憶管理があります。仮想記憶管理とは、その名のとおり、「仮想記憶」を制御・管理する機能です。仮想記憶とは、補助記憶装置（p.403）の一部を、まるで主記憶装置であるかのように扱う技術です。仮想記憶を使用すれば、実際に搭載されている主記憶装置の容量を超えるプログラムも扱えるようになります。",
+      "vi": "Một trong các chức năng của OS là quản lý bộ nhớ ảo. Quản lý bộ nhớ ảo, đúng như tên gọi, là chức năng điều khiển và quản lý \"bộ nhớ ảo\". Bộ nhớ ảo là công nghệ xử lý một phần bộ nhớ phụ (trang 403) như thể là bộ nhớ chính. Nếu sử dụng bộ nhớ ảo, có thể xử lý chương trình vượt quá dung lượng bộ nhớ chính thực tế được trang bị.",
+      "en": "One of OS functions is virtual memory management. Virtual memory management, as name suggests, is function controlling and managing 'virtual memory.' Virtual memory is technology treating part of auxiliary storage (p.403) as if it were main memory. Using virtual memory, can handle programs exceeding actual installed main memory capacity.",
+      "terms": [
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "仮想記憶管理",
+          "reading": "かそうきおくかんり"
+        },
+        {
+          "kanji": "名",
+          "reading": "めい"
+        },
+        {
+          "kanji": "仮想記憶",
+          "reading": "かそうきおく"
+        },
+        {
+          "kanji": "制御",
+          "reading": "せいぎょ"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "補助記憶装置",
+          "reading": "ほじょきおくそうち"
+        },
+        {
+          "kanji": "一部",
+          "reading": "いちぶ"
+        },
+        {
+          "kanji": "主記憶装置",
+          "reading": "しゅきおくそうち"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "搭載",
+          "reading": "とうさい"
+        },
+        {
+          "kanji": "容量",
+          "reading": "ようりょう"
+        },
+        {
+          "kanji": "超",
+          "reading": "ちょう"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！BIOS",
+        "vi": "Chi tiết hơn! BIOS",
+        "en": "More Details! BIOS"
+      },
+      "content": {
+        "ja": "BIOS（Basic Input Output System）とは、PCの初期設定を行うソフトウェアです。PCに電源を入れると、OSよりも先にBIOSが起動します。BIOSがPCに接続されている周辺機器の初期設定を行った後、OSを起動します。ITパスポート試験では「BIOSはいつ起動するのか」が問われます。答えは「PCの電源が入った直後（OSやアプリケーションよりも先）」です。",
+        "vi": "BIOS (Basic Input Output System) là phần mềm thực hiện cài đặt ban đầu của PC. Khi bật nguồn PC, BIOS khởi động trước OS. Sau khi BIOS thực hiện cài đặt ban đầu cho các thiết bị ngoại vi kết nối với PC, OS khởi động. Trong kỳ thi IT Passport, được hỏi \"BIOS khởi động khi nào\". Đáp án là \"ngay sau khi bật nguồn PC (trước OS và ứng dụng)\".",
+        "en": "BIOS (Basic Input Output System) is software performing PC initial settings. When turning on PC, BIOS starts before OS. After BIOS performs initial settings for peripherals connected to PC, OS starts. IT Passport exam asks 'when does BIOS start.' Answer is 'immediately after PC power on (before OS and applications).'"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "仮想記憶",
+      "reading": "かそうきおく",
+      "vi": "Bộ nhớ ảo",
+      "en": "Virtual Memory",
+      "my": "ဗားချူရဲ မဲမရီ"
+    },
+    {
+      "term": "BIOS",
+      "full": "Basic Input Output System",
+      "vi": "BIOS",
+      "en": "BIOS",
+      "my": "ဘိုင်းအိုအက်စ်"
+    }
+  ],
+  "meta": {
+    "has_note_box": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

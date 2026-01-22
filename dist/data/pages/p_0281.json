@@ -1,0 +1,156 @@
+{
+  "page_id": 281,
+  "image": "p_0281.png",
+  "chapter": 7,
+  "section": "07-03",
+  "page_number": 265,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "07-03",
+      "title": {
+        "ja": "プロジェクトスケジュールマネジメント",
+        "vi": "Quản lý lịch trình dự án",
+        "en": "Project Schedule Management"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "時は金なり",
+        "vi": "Thời gian là tiền bạc",
+        "en": "Time is Money"
+      },
+      "content": {
+        "ja": "システム開発において、開発期間の管理はとても重要です。風の吹くまま、気の向くままに作業していてはいつまで経っても開発プロジェクトは終わりません。",
+        "vi": "Trong phát triển hệ thống, quản lý thời gian phát triển rất quan trọng. Nếu làm việc tùy hứng theo kiểu gió thổi chiều nào thì mãi mãi dự án phát triển không kết thúc.",
+        "en": "In system development, managing development period is very important. If you work casually without direction, the development project will never end."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここでは、PMBOKの10の知識エリア（p.262）のうちの1つである「プロジェクトスケジュールマネジメント」について、具体的にそのマネジメント方法を解説します。",
+      "vi": "Ở đây, sẽ giải thích cụ thể phương pháp quản lý \"Project Schedule Management\" - một trong 10 Knowledge Area của PMBOK (trang 262).",
+      "en": "Here, we'll explain specifically the management method of 'Project Schedule Management,' one of PMBOK's 10 Knowledge Areas (p.262).",
+      "terms": [
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "プロジェクトスケジュールマネジメントで使う3つの図",
+      "reading": "ぷろじぇくとすけじゅーるまねじめんとでつかうみっつのず",
+      "vi": "3 sơ đồ sử dụng trong Project Schedule Management",
+      "en": "3 Diagrams Used in Project Schedule Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "プロジェクトスケジュールマネジメントでは、プロジェクトがスケジュール（期限）内に完了するように管理するのですが、その進捗管理において、進捗状況を定量的に判断するために、主に次の3つの図や手法を使います。",
+      "vi": "Trong Project Schedule Management, quản lý để dự án hoàn thành trong Schedule (thời hạn), trong quản lý tiến độ đó, để phán đoán tình trạng tiến độ một cách định lượng, chủ yếu sử dụng 3 sơ đồ và phương pháp sau.",
+      "en": "In Project Schedule Management, you manage so project completes within Schedule (deadline). In that progress management, to quantitatively judge progress status, mainly the following 3 diagrams and methods are used.",
+      "terms": [
+        {
+          "kanji": "期限",
+          "reading": "きげん"
+        },
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "完了",
+          "reading": "かんりょう"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "進捗管理",
+          "reading": "しんちょくかんり"
+        },
+        {
+          "kanji": "進捗状況",
+          "reading": "しんちょくじょうきょう"
+        },
+        {
+          "kanji": "定量的",
+          "reading": "ていりょうてき"
+        },
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "（1）ガントチャート",
+          "vi": "(1) Gantt Chart",
+          "en": "(1) Gantt Chart"
+        },
+        {
+          "ja": "（2）アローダイアグラム",
+          "vi": "(2) Arrow Diagram",
+          "en": "(2) Arrow Diagram"
+        },
+        {
+          "ja": "（3）プレシデンスダイアグラム法",
+          "vi": "(3) Precedence Diagramming Method",
+          "en": "(3) Precedence Diagramming Method"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "プロジェクトスケジュールマネジメント",
+      "reading": "ぷろじぇくとすけじゅーるまねじめんと",
+      "romaji": "Project Schedule Management",
+      "vi": "Quản lý lịch trình dự án",
+      "en": "Project Schedule Management",
+      "my": "ပရောဂျက် အစီအစဥ် မန်နေ့ဂျ်မန့်"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "page_id": 352,
+  "image": "p_0352.png",
+  "chapter": 9,
+  "section": "09-05",
+  "page_number": 336,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "トレース表",
+      "reading": "とれーすひょう",
+      "vi": "Bảng Trace",
+      "en": "Trace Table"
+    },
+    {
+      "type": "paragraph",
+      "ja": "本章ではこれまでに「ベン図」という強力なツールを解説してきました（p.322）。",
+      "vi": "Trong chương này, chúng ta đã giải thích công cụ mạnh mẽ \"Biểu đồ Venn\" (trang 322).",
+      "en": "In this chapter, we've explained powerful tool 'Venn diagram' (p.322).",
+      "terms": [
+        {
+          "kanji": "本章",
+          "reading": "ほんしょう"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "強力",
+          "reading": "きょうりょく"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここで解説する「トレース表」も強力なツールの1つです。トレース表を利用すれば、アルゴリズムの問題を確実に解答できるようになります。",
+      "vi": "\"Bảng Trace\" giải thích ở đây cũng là công cụ mạnh mẽ. Sử dụng bảng trace có thể giải đáp chắc chắn các bài toán thuật toán.",
+      "en": "'Trace Table' explained here is also powerful tool. Using trace table, can reliably answer algorithm problems.",
+      "terms": [
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "強力",
+          "reading": "きょうりょく"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "確実",
+          "reading": "かくじつ"
+        },
+        {
+          "kanji": "解答",
+          "reading": "かいとう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "トレース表とは、フローチャートの順序にしたがって実際に計算を行い、それぞれの処理を実行する際の「変数の値」を書き出した表です。下表のトレース表と右図を見てください。",
+      "vi": "Bảng Trace là bảng thực sự tính toán theo thứ tự flowchart và viết ra \"giá trị biến\" khi thực hiện mỗi xử lý. Xem bảng trace dưới đây và hình bên phải.",
+      "en": "Trace Table is table actually calculating following flowchart order and writing out 'variable values' when executing each process. See trace table below and right diagram.",
+      "terms": [
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "順序",
+          "reading": "じゅんじょ"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "下表",
+          "reading": "かひょう"
+        },
+        {
+          "kanji": "右図",
+          "reading": "みぎず"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "トレース表",
+        "vi": "Bảng Trace",
+        "en": "Trace Table"
+      },
+      "headers": {
+        "ja": [
+          "処理",
+          "変数xの値",
+          "変数yの値"
+        ],
+        "vi": [
+          "Xử lý",
+          "Giá trị biến x",
+          "Giá trị biến y"
+        ],
+        "en": [
+          "Process",
+          "Variable x value",
+          "Variable y value"
+        ]
+      },
+      "rows": [
+        [
+          "①",
+          "1",
+          "1"
+        ],
+        [
+          "②",
+          "1",
+          "10"
+        ],
+        [
+          "③",
+          "3",
+          "100"
+        ]
+      ],
+      "notes": {
+        "ja": "それぞれに「1」を入れる、xには1を加算し、yは10倍する",
+        "vi": "Nhập \"1\" vào mỗi cái, cộng 1 vào x, nhân y với 10",
+        "en": "Put '1' in each, add 1 to x, multiply y by 10"
+      }
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！トレース表は試験に出ない",
+        "vi": "Chi tiết hơn! Bảng Trace không ra trong thi",
+        "en": "More Details! Trace Table Doesn't Appear on Exam"
+      },
+      "content": {
+        "ja": "トレース表そのものが直接ITパスポート試験に出題されることはありません。しかし、トレース表が書ければ、アルゴリズムやフローチャートの問題を確実に解答できるようになります。ぜひ、トレース表を書けるようになっておいてください。",
+        "vi": "Bản thân bảng trace không trực tiếp ra đề trong kỳ thi IT Passport. Tuy nhiên, nếu viết được bảng trace, có thể giải đáp chắc chắn các bài toán thuật toán và flowchart. Hãy học cách viết bảng trace.",
+        "en": "Trace table itself doesn't directly appear in IT Passport exam. However, if can write trace table, can reliably answer algorithm and flowchart problems. Please learn to write trace tables."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、フローチャートを書き、トレース表を使うと、処理の流れやデータの状態を細かく把握することができます。",
+      "vi": "Như vậy, khi viết flowchart và sử dụng bảng trace, có thể nắm bắt chi tiết dòng xử lý và trạng thái dữ liệu.",
+      "en": "Like this, writing flowcharts and using trace tables allows detailed understanding of processing flow and data state.",
+      "terms": [
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "状態",
+          "reading": "じょうたい"
+        },
+        {
+          "kanji": "細",
+          "reading": "さい"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "アルゴリズムの見える化",
+        "vi": "Trực quan hóa thuật toán",
+        "en": "Visualizing Algorithms"
+      },
+      "content": {
+        "ja": "アルゴリズム（手順）→ 見える化 → フローチャート",
+        "vi": "Thuật toán (thủ tục) → Trực quan hóa → Flowchart",
+        "en": "Algorithm (procedure) → Visualization → Flowchart"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "トレース表",
+      "reading": "とれーすひょう",
+      "vi": "Bảng Trace",
+      "en": "Trace Table",
+      "my": "ထရိတ် ဇယား"
+    },
+    {
+      "term": "変数",
+      "reading": "へんすう",
+      "vi": "Biến",
+      "en": "Variable",
+      "my": "ကိန်းရှင်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true
+  }
+}

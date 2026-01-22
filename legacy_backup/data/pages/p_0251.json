@@ -1,0 +1,209 @@
+{
+  "page_id": 251,
+  "image": "p_0251.png",
+  "chapter": 6,
+  "section": "06-04",
+  "page_number": 235,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "06-04",
+      "title": {
+        "ja": "プログラミング",
+        "vi": "Lập trình",
+        "en": "Programming"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "システム開発の折り返し地点",
+        "vi": "Điểm quay đầu của phát triển hệ thống",
+        "en": "Turning Point of System Development"
+      },
+      "content": {
+        "ja": "要件定義やシステム設計が終わり、「作るベきシステム」が決まったら、いよいよ実際にシステムを開発する工程に入ります。それが「プログラミング」です。",
+        "vi": "Khi định nghĩa yêu cầu và thiết kế hệ thống kết thúc, \"hệ thống cần tạo\" đã được quyết định, cuối cùng sẽ bước vào công đoạn thực sự phát triển hệ thống. Đó là \"Lập trình\".",
+        "en": "When requirements definition and system design are finished and the 'system to be created' is decided, you finally enter the phase of actually developing the system. That is 'Programming.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "プログラミング",
+      "reading": "ぷろぐらみんぐ",
+      "vi": "Lập trình",
+      "en": "Programming"
+    },
+    {
+      "type": "paragraph",
+      "ja": "プログラミングとは、プログラム言語の文法に従って処理手順を書く工程です。プログラミングの担当者を「プログラマ」といいます。また、プログラミングの工程のうち、流れ図に従ってソースコードを記述することを「コーディング」といいます。",
+      "vi": "Lập trình là công đoạn viết quy trình xử lý theo cú pháp của ngôn ngữ lập trình. Người phụ trách lập trình gọi là \"Programmer\". Ngoài ra, trong công đoạn lập trình, việc viết mã nguồn theo lưu đồ gọi là \"Coding\".",
+      "en": "Programming is the phase of writing processing procedures according to programming language syntax. The person in charge of programming is called a 'Programmer.' Also, in the programming phase, writing source code according to flowcharts is called 'Coding.'",
+      "terms": [
+        {
+          "kanji": "言語",
+          "reading": "げんご"
+        },
+        {
+          "kanji": "文法",
+          "reading": "ぶんぽう"
+        },
+        {
+          "kanji": "従",
+          "reading": "じゅう"
+        },
+        {
+          "kanji": "処理手順",
+          "reading": "しょりてじゅん"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "担当者",
+          "reading": "たんとうしゃ"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "記述",
+          "reading": "きじゅつ"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "プログラミングはいつ行う？",
+        "vi": "Khi nào thực hiện lập trình?",
+        "en": "When is Programming Done?",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ITパスポート試験では「プログラミングがどのプロセスの後に行われるプロセスなのか」が問われます。その答えは「ソフトウェア詳細設計の後」となります（p.226）。",
+        "vi": "Trong kỳ thi IT Passport sẽ hỏi \"Lập trình là quy trình được thực hiện sau quy trình nào\". Câu trả lời là \"sau Thiết kế chi tiết phần mềm\" (trang 226).",
+        "en": "IT Passport exam asks 'after which process is Programming performed.' The answer is 'after Detailed Software Design' (p.226)."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "プログラミングから機械語へ",
+      "reading": "ぷろぐらみんぐからきかいごへ",
+      "vi": "Từ Lập trình đến Ngôn ngữ máy",
+      "en": "From Programming to Machine Language"
+    },
+    {
+      "type": "paragraph",
+      "ja": "コンピュータは0と1で書かれた機械語しか読むことができません。一方、人間は機械語（0と1の羅列）を書くことができません。そのため、現在のプログラミングでは、",
+      "vi": "Máy tính chỉ có thể đọc ngôn ngữ máy viết bằng 0 và 1. Mặt khác, con người không thể viết ngôn ngữ máy (chuỗi 0 và 1). Do đó, trong lập trình hiện tại,",
+      "en": "Computers can only read machine language written in 0s and 1s. On the other hand, humans cannot write machine language (sequences of 0s and 1s). Therefore, in current programming,",
+      "terms": [
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "機械語",
+          "reading": "きかいご"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "羅列",
+          "reading": "られつ"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "（1）まずは人間が読みやすいプログラム言語でプログラムを書き、",
+          "vi": "(1) Trước tiên viết chương trình bằng ngôn ngữ lập trình dễ đọc cho con người,",
+          "en": "(1) First write programs in programming languages readable by humans,"
+        },
+        {
+          "ja": "（2）それを機械語に変換してコンピュータに処理をさせる",
+          "vi": "(2) Sau đó chuyển đổi sang ngôn ngữ máy để máy tính xử lý",
+          "en": "(2) Then convert to machine language for computer processing"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "という2つの段階を踏むことによって、プログラミングを行っています。",
+      "vi": "Lập trình được thực hiện bằng cách trải qua 2 giai đoạn này.",
+      "en": "Programming is done by going through these 2 stages.",
+      "terms": [
+        {
+          "kanji": "段階",
+          "reading": "だんかい"
+        },
+        {
+          "kanji": "踏",
+          "reading": "とう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "プログラマ",
+      "reading": "ぷろぐらま",
+      "romaji": "Programmer",
+      "vi": "Lập trình viên",
+      "en": "Programmer",
+      "my": "ပရိုဂရမ်မာ"
+    },
+    {
+      "kanji": "コーディング",
+      "reading": "こーでぃんぐ",
+      "romaji": "Coding",
+      "vi": "Viết mã",
+      "en": "Coding",
+      "my": "ကုဒ်ရေးခြင်း"
+    },
+    {
+      "kanji": "機械語",
+      "reading": "きかいご",
+      "romaji": "Kikaigo",
+      "vi": "Ngôn ngữ máy",
+      "en": "Machine Language",
+      "my": "စက်ဘာသာ"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

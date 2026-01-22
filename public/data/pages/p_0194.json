@@ -1,0 +1,307 @@
+{
+  "page_id": 194,
+  "image": "p_0194.png",
+  "chapter": 5,
+  "section": "05-01",
+  "page_number": 178,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "エンタープライズアーキテクチャとエンタープライズサーチ",
+      "vi": "Enterprise Architecture và Enterprise Search",
+      "en": "Enterprise Architecture and Enterprise Search"
+    },
+    {
+      "type": "paragraph",
+      "ja": "EAでは、「現状」と「あるべき姿」を比較して、差（ギャップ）を明確にします。そのため、最初に「現状」を把握すべく、社内のデータを集めて分析する必要があります。\n\nエンタープライズサーチとは、企業内のさまざまなシステムに蓄積されているデータを、一元的に検索するための仕組みです。",
+      "vi": "Trong EA, so sánh hiện trạng và hình ảnh lý tưởng để làm rõ khoảng cách (gap). Do đó, trước tiên cần thu thập và phân tích dữ liệu trong công ty để nắm bắt hiện trạng.\n\nEnterprise Search là cơ chế tìm kiếm tập trung dữ liệu được lưu trữ trong các hệ thống khác nhau trong doanh nghiệp.",
+      "en": "In EA, 'current state' and 'ideal state' are compared to clarify the gap. Therefore, first, company data must be collected and analyzed to grasp the current state.\n\nEnterprise Search is a mechanism for centrally searching data stored in various systems within a company.",
+      "my": "EA တွင် 'လက်ရှိအခြေအနေ' နှင့် 'အကောင်းဆုံးအခြေအနေ' ကို နှိုင်းယှဉ်၍ ကွာဟချက်ကို ရှင်းလင်းသည်။",
+      "terms": [
+        {
+          "kanji": "現状",
+          "reading": "げんじょう"
+        },
+        {
+          "kanji": "姿",
+          "reading": "すがた"
+        },
+        {
+          "kanji": "比較",
+          "reading": "ひかく"
+        },
+        {
+          "kanji": "差",
+          "reading": "さ"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        },
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "企業内",
+          "reading": "きぎょうない"
+        },
+        {
+          "kanji": "蓄積",
+          "reading": "ちくせき"
+        },
+        {
+          "kanji": "一元的",
+          "reading": "いちげんてき"
+        },
+        {
+          "kanji": "検索",
+          "reading": "けんさく"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "SoEとSoR",
+      "vi": "SoE và SoR",
+      "en": "SoE and SoR"
+    },
+    {
+      "type": "paragraph",
+      "ja": "社内の都合だけでなく、顧客視点を取り入れたシステムのことを「SoE」といいます。SoE（Systems of Engagement）では、ユーザーのニーズにあったサービスやシステムを構築することで、ユーザーとのつながり（Engagement）を強化します。一方、従来のシステムのように正しく記録（Record）できることだけを目的としたシステムのことを「SoR」（Systems of Record）といいます。",
+      "vi": "Hệ thống không chỉ vì tiện cho nội bộ mà còn tích hợp quan điểm khách hàng gọi là SoE. SoE (Systems of Engagement) tăng cường kết nối (Engagement) với người dùng bằng cách xây dựng dịch vụ và hệ thống phù hợp với nhu cầu người dùng. Mặt khác, hệ thống chỉ nhằm mục đích ghi chép (Record) chính xác như hệ thống truyền thống gọi là SoR (Systems of Record).",
+      "en": "Systems that incorporate customer perspective, not just internal convenience, are called 'SoE'. SoE (Systems of Engagement) strengthens user engagement by building services and systems matching user needs. Meanwhile, systems aimed only at correct recording like traditional systems are called 'SoR' (Systems of Record).",
+      "my": "သုံးစွဲသူ အမြင်ကို ထည့်သွင်းထားသော စနစ်များကို SoE ဟုခေါ်သည်။",
+      "terms": [
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "都合",
+          "reading": "つごう"
+        },
+        {
+          "kanji": "顧客視点",
+          "reading": "こきゃくしてん"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "構築",
+          "reading": "こうちく"
+        },
+        {
+          "kanji": "強化",
+          "reading": "きょうか"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "従来",
+          "reading": "じゅうらい"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "記録",
+          "reading": "きろく"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・情報システム戦略を立案する際は「あるべき姿」を明確にしたうえで、全体最適を考え、経営戦略に基づいて計画を立てる必要がある\n・EA（エンタープライズアーキテクチャ）は、企業や政府など、大きな組織の情報システムを最適化するための手法\n・エンタープライズサーチとは、企業内のさまざまなシステムに蓄積されているデータを、一元的に検索するための仕組み\n・SoEとは、ユーザーとのつながりを強化するシステム",
+        "vi": "・Khi lập chiến lược hệ thống thông tin, cần làm rõ hình ảnh lý tưởng, xem xét tối ưu hóa tổng thể, và lập kế hoạch dựa trên chiến lược kinh doanh\n・EA (Enterprise Architecture) là phương pháp tối ưu hóa hệ thống thông tin của tổ chức lớn như doanh nghiệp hoặc chính phủ\n・Enterprise Search là cơ chế tìm kiếm tập trung dữ liệu trong các hệ thống khác nhau trong doanh nghiệp\n・SoE là hệ thống tăng cường kết nối với người dùng",
+        "en": "・When formulating information system strategy, clarify ideal state, consider total optimization, and plan based on business strategy\n・EA (Enterprise Architecture) is a method for optimizing information systems of large organizations like companies or governments\n・Enterprise Search is a mechanism for centrally searching data stored in various company systems\n・SoE is a system that strengthens user engagement",
+        "my": "・ သတင်းအချက်အလက်စနစ် မဟာဗျူဟာ ရေးဆွဲသောအခါ အကောင်းဆုံးအခြေအနေကို ရှင်းလင်းပါ",
+        "terms": [
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "戦略",
+            "reading": "せんりゃく"
+          },
+          {
+            "kanji": "立案",
+            "reading": "りつあん"
+          },
+          {
+            "kanji": "際",
+            "reading": "きわ"
+          },
+          {
+            "kanji": "姿",
+            "reading": "すがた"
+          },
+          {
+            "kanji": "明確",
+            "reading": "めいかく"
+          },
+          {
+            "kanji": "全体最適",
+            "reading": "ぜんたいさいてき"
+          },
+          {
+            "kanji": "考",
+            "reading": "こう"
+          },
+          {
+            "kanji": "経営戦略",
+            "reading": "けいえいせんりゃく"
+          },
+          {
+            "kanji": "基",
+            "reading": "もと"
+          },
+          {
+            "kanji": "計画",
+            "reading": "けいかく"
+          },
+          {
+            "kanji": "立",
+            "reading": "た"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "政府",
+            "reading": "せいふ"
+          },
+          {
+            "kanji": "大",
+            "reading": "おお"
+          },
+          {
+            "kanji": "組織",
+            "reading": "そしき"
+          },
+          {
+            "kanji": "最適化",
+            "reading": "さいてきか"
+          },
+          {
+            "kanji": "手法",
+            "reading": "しゅほう"
+          },
+          {
+            "kanji": "企業内",
+            "reading": "きぎょうない"
+          },
+          {
+            "kanji": "蓄積",
+            "reading": "ちくせき"
+          },
+          {
+            "kanji": "一元的",
+            "reading": "いちげんてき"
+          },
+          {
+            "kanji": "検索",
+            "reading": "けんさく"
+          },
+          {
+            "kanji": "仕組",
+            "reading": "しくみ"
+          },
+          {
+            "kanji": "強化",
+            "reading": "きょうか"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "エンタープライズサーチ",
+      "reading": "えんたーぷらいずさーち",
+      "romaji": "Enterprise Search",
+      "vi": "Tìm kiếm doanh nghiệp",
+      "en": "Enterprise Search",
+      "my": "လုပ်ငန်းကြီး ရှာဖွေမှု"
+    },
+    {
+      "kanji": "SoE",
+      "reading": "えすおーいー",
+      "romaji": "Systems of Engagement",
+      "vi": "Hệ thống tương tác",
+      "en": "Systems of Engagement",
+      "my": "ဆက်သွယ်မှု စနစ်များ"
+    },
+    {
+      "kanji": "SoR",
+      "reading": "えすおーあーる",
+      "romaji": "Systems of Record",
+      "vi": "Hệ thống ghi chép",
+      "en": "Systems of Record",
+      "my": "မှတ်တမ်းတင်မှု စနစ်များ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

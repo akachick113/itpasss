@@ -1,0 +1,311 @@
+{
+  "page_id": 485,
+  "image": "p_0485.png",
+  "chapter": 13,
+  "section": "13-04",
+  "page_number": 469,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（1）データ操作",
+      "vi": "(1) Thao tác dữ liệu",
+      "en": "(1) Data Operation"
+    },
+    {
+      "type": "paragraph",
+      "ja": "データベースに格納されているデータを操作することを「データ操作」といいます。データ操作の方法は、大きく次の6つに分類できます。これらの操作を組み合わせたり、繰り返し実行したりすることで、データベースにデータを追加したり、目的のデータを取り出したりします。",
+      "vi": "Thao tác dữ liệu được lưu trong cơ sở dữ liệu được gọi là \"thao tác dữ liệu\". Phương pháp thao tác dữ liệu có thể được phân loại lớn thành 6 loại sau. Bằng cách kết hợp các thao tác này hoặc thực hiện lặp lại, có thể thêm dữ liệu vào cơ sở dữ liệu hoặc lấy ra dữ liệu mục tiêu.",
+      "en": "Operating data stored in database is called 'data operation.' Data operation methods can be broadly classified into following 6 types. By combining these operations or executing repeatedly, can add data to database or extract target data.",
+      "terms": [
+        {
+          "kanji": "格納",
+          "reading": "かくのう"
+        },
+        {
+          "kanji": "操作",
+          "reading": "そうさ"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "追加",
+          "reading": "ついか"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "データ操作",
+        "vi": "Thao tác dữ liệu",
+        "en": "Data Operations"
+      },
+      "headers": {
+        "ja": [
+          "操作",
+          "説明"
+        ],
+        "vi": [
+          "Thao tác",
+          "Giải thích"
+        ],
+        "en": [
+          "Operation",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "operation": {
+            "ja": "選択",
+            "vi": "Chọn",
+            "en": "Select"
+          },
+          "description": {
+            "ja": "表からある特定の行のみを取り出す操作。",
+            "vi": "Thao tác lấy ra chỉ hàng cụ thể từ bảng.",
+            "en": "Operation extracting only specific rows from table."
+          }
+        },
+        {
+          "operation": {
+            "ja": "挿入",
+            "vi": "Chèn",
+            "en": "Insert"
+          },
+          "description": {
+            "ja": "表に行を追加する操作。",
+            "vi": "Thao tác thêm hàng vào bảng.",
+            "en": "Operation adding rows to table."
+          }
+        },
+        {
+          "operation": {
+            "ja": "更新",
+            "vi": "Cập nhật",
+            "en": "Update"
+          },
+          "description": {
+            "ja": "行内のデータを変更する操作。",
+            "vi": "Thao tác thay đổi dữ liệu trong hàng.",
+            "en": "Operation changing data within row."
+          }
+        },
+        {
+          "operation": {
+            "ja": "削除",
+            "vi": "Xóa",
+            "en": "Delete"
+          },
+          "description": {
+            "ja": "表から行を削除する操作。",
+            "vi": "Thao tác xóa hàng khỏi bảng.",
+            "en": "Operation deleting rows from table."
+          }
+        },
+        {
+          "operation": {
+            "ja": "射影",
+            "vi": "Chiếu",
+            "en": "Project"
+          },
+          "description": {
+            "ja": "表からある特定の列のみを取り出す操作。",
+            "vi": "Thao tác lấy ra chỉ cột cụ thể từ bảng.",
+            "en": "Operation extracting only specific columns from table."
+          }
+        },
+        {
+          "operation": {
+            "ja": "結合",
+            "vi": "Kết hợp",
+            "en": "Join"
+          },
+          "description": {
+            "ja": "複数の表を1つにする操作。",
+            "vi": "Thao tác kết hợp nhiều bảng thành 1.",
+            "en": "Operation combining multiple tables into one."
+          }
+        }
+      ],
+      "note": {
+        "ja": "重要！",
+        "vi": "Quan trọng!",
+        "en": "Important!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記の6つの操作のうち、ITパスポート試験によく出題されるのは「選択」「射影」「結合」の3つです。この3つについては確実に覚えておいてください。",
+      "vi": "Trong 6 thao tác trên, 3 thao tác hay được ra đề trong kỳ thi IT Passport là \"Chọn\", \"Chiếu\", \"Kết hợp\". Hãy chắc chắn nhớ 3 thao tác này.",
+      "en": "Among above 6 operations, 3 that often appear in IT Passport exam are 'Select,' 'Project,' 'Join.' Definitely remember these 3.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "操作",
+          "reading": "そうさ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "選択",
+          "reading": "せんたく"
+        },
+        {
+          "kanji": "射影",
+          "reading": "しゃえい"
+        },
+        {
+          "kanji": "結合",
+          "reading": "けつごう"
+        },
+        {
+          "kanji": "確実",
+          "reading": "かくじつ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "選択",
+      "vi": "Chọn",
+      "en": "Select"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "選択",
+        "vi": "Chọn",
+        "en": "Select"
+      },
+      "definition": {
+        "ja": "選択とは、表からある特定の行のみを取り出す操作です。例えばある学生の情報だけを取り出したい場合などに使います。",
+        "vi": "Chọn là thao tác lấy ra chỉ hàng cụ thể từ bảng. Ví dụ sử dụng khi muốn lấy ra chỉ thông tin của một sinh viên.",
+        "en": "Select is operation extracting only specific rows from table. For example, used when wanting to extract only specific student's information."
+      }
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "選択",
+        "vi": "Chọn",
+        "en": "Select"
+      },
+      "description": {
+        "ja": "3行の学生表から「鈴木愛子」の行だけを選択して取り出す。「選択とは『行を取り出す』操作」",
+        "vi": "Từ bảng sinh viên 3 hàng, chọn và lấy ra chỉ hàng \"Suzuki Aiko\". \"Chọn là thao tác 'lấy ra hàng'\"",
+        "en": "From 3-row student table, select and extract only 'Suzuki Aiko' row. 'Select is operation of extracting rows'"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "選択",
+      "reading": "せんたく",
+      "vi": "Chọn",
+      "en": "Select",
+      "my": "ဆီလက်"
+    },
+    {
+      "term": "挿入",
+      "reading": "そうにゅう",
+      "vi": "Chèn",
+      "en": "Insert",
+      "my": "အင်ဆား"
+    },
+    {
+      "term": "更新",
+      "reading": "こうしん",
+      "vi": "Cập nhật",
+      "en": "Update",
+      "my": "အပ်ဒိတ်"
+    },
+    {
+      "term": "削除",
+      "reading": "さくじょ",
+      "vi": "Xóa",
+      "en": "Delete",
+      "my": "ဒီလိတ်"
+    },
+    {
+      "term": "射影",
+      "reading": "しゃえい",
+      "vi": "Chiếu",
+      "en": "Project",
+      "my": "ပရိုးဂျက်"
+    },
+    {
+      "term": "結合",
+      "reading": "けつごう",
+      "vi": "Kết hợp",
+      "en": "Join",
+      "my": "ဂျွှင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "page_id": 386,
+  "image": "p_0386.png",
+  "chapter": 9,
+  "section": "answers",
+  "page_number": 370,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "関数binaryToIntegerは、引数binaryStr（2進数）を整数（10進数）に変換した結果を返します。例えば、引数binaryStrに\"100\"を渡し、選択肢エの場合の[ a ]と[ b ]の組み合わせでプログラムを実行した場合のトレース表は以下のようになります。",
+      "vi": "Hàm binaryToInteger trả về kết quả chuyển đổi đối số binaryStr (số nhị phân) thành số nguyên (số thập phân). Ví dụ, khi truyền \"100\" vào đối số binaryStr và thực hiện chương trình với tổ hợp [ a ] và [ b ] của lựa chọn エ, bảng trace như sau.",
+      "en": "Function binaryToInteger returns result of converting argument binaryStr (binary) to integer (decimal). For example, when passing '100' to argument binaryStr and executing program with choice エ's [ a ] and [ b ] combination, trace table is as follows.",
+      "terms": [
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "引数",
+          "reading": "ひきすう"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "整数",
+          "reading": "せいすう"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        },
+        {
+          "kanji": "選択肢",
+          "reading": "せんたくし"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        }
+      ]
+    },
+    {
+      "type": "trace_table",
+      "title": {
+        "ja": "トレース表",
+        "vi": "Bảng Trace",
+        "en": "Trace Table"
+      },
+      "question": "9-8",
+      "headers": {
+        "ja": [
+          "行番号",
+          "変数iの値",
+          "変数digitNumの値",
+          "変数exponentの値",
+          "変数integerNumの値"
+        ],
+        "vi": [
+          "Số dòng",
+          "Giá trị biến i",
+          "Giá trị biến digitNum",
+          "Giá trị biến exponent",
+          "Giá trị biến integerNum"
+        ],
+        "en": [
+          "Line No.",
+          "Variable i Value",
+          "Variable digitNum Value",
+          "Variable exponent Value",
+          "Variable integerNum Value"
+        ]
+      },
+      "rows": [
+        {
+          "line": "1",
+          "i": "",
+          "digitNum": "",
+          "exponent": "",
+          "integerNum": ""
+        },
+        {
+          "line": "3",
+          "i": "",
+          "digitNum": "",
+          "exponent": "",
+          "integerNum": "0"
+        },
+        {
+          "line": "4",
+          "i": "1",
+          "digitNum": "",
+          "exponent": "",
+          "integerNum": "0"
+        },
+        {
+          "line": "5",
+          "i": "1",
+          "digitNum": "0",
+          "exponent": "",
+          "integerNum": ""
+        },
+        {
+          "line": "6",
+          "i": "1",
+          "digitNum": "0",
+          "exponent": "1",
+          "integerNum": "0"
+        },
+        {
+          "line": "7",
+          "i": "1",
+          "digitNum": "0",
+          "exponent": "1",
+          "integerNum": "0"
+        },
+        {
+          "line": "5",
+          "i": "2",
+          "digitNum": "0",
+          "exponent": "1",
+          "integerNum": "0"
+        },
+        {
+          "line": "6",
+          "i": "2",
+          "digitNum": "0",
+          "exponent": "2",
+          "integerNum": "0"
+        },
+        {
+          "line": "7",
+          "i": "2",
+          "digitNum": "0",
+          "exponent": "2",
+          "integerNum": "0"
+        },
+        {
+          "line": "4",
+          "i": "3",
+          "digitNum": "0",
+          "exponent": "2",
+          "integerNum": "0"
+        },
+        {
+          "line": "5",
+          "i": "3",
+          "digitNum": "1",
+          "exponent": "2",
+          "integerNum": "0"
+        },
+        {
+          "line": "6",
+          "i": "3",
+          "digitNum": "1",
+          "exponent": "4",
+          "integerNum": "0"
+        },
+        {
+          "line": "7",
+          "i": "3",
+          "digitNum": "1",
+          "exponent": "4",
+          "integerNum": "4"
+        },
+        {
+          "line": "9",
+          "i": "",
+          "digitNum": "",
+          "exponent": "",
+          "integerNum": "4"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "したがって、引数として\"100\"を渡すと、戻り値integerNumは「4」となり、正しいです。よって、選択肢エが正解です。",
+      "vi": "Do đó, khi truyền \"100\" làm đối số, giá trị trả về integerNum là \"4\", đúng. Vậy, lựa chọn エ là đáp án đúng.",
+      "en": "Therefore, when passing '100' as argument, return value integerNum is '4,' which is correct. Therefore, choice エ is correct.",
+      "terms": [
+        {
+          "kanji": "引数",
+          "reading": "ひきすう"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "選択肢",
+          "reading": "せんたくし"
+        },
+        {
+          "kanji": "正解",
+          "reading": "せいかい"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "has_answers": true,
+    "has_trace_table": true
+  }
+}

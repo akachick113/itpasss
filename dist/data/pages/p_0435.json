@@ -1,0 +1,231 @@
+{
+    "page_id": 435,
+    "image": "p_0435.png",
+    "chapter": 11,
+    "section": "practice",
+    "page_number": 419,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "11-10",
+            "year": "平成24年度",
+            "question": {
+                "ja": "光の三原色の説明として、適切なものはどれか。",
+                "vi": "Cái nào là giải thích thích hợp về ba màu cơ bản của ánh sáng?",
+                "en": "Which is appropriate explanation about three primary colors of light?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": {
+                        "ja": "シアン（Cyan）、マゼンタ（Magenta）、イエロー（Yellow）の3色のことである。",
+                        "vi": "Là 3 màu cyan (lục lam), magenta (đỏ tím), yellow (vàng).",
+                        "en": "Is 3 colors: cyan, magenta, yellow."
+                    }
+                },
+                {
+                    "choice": "イ",
+                    "text": {
+                        "ja": "色相（Hue）、彩度（Saturation）、明度（Brightness）の三つのことである。",
+                        "vi": "Là 3 yếu tố: hue (sắc độ), saturation (độ bão hòa), brightness (độ sáng).",
+                        "en": "Is 3 things: hue, saturation, brightness."
+                    }
+                },
+                {
+                    "choice": "ウ",
+                    "text": {
+                        "ja": "レッド（Red）、グリーン（Green）、イエロー（Yellow）の3色のことである。",
+                        "vi": "Là 3 màu: đỏ (red), xanh lá (green), vàng (yellow).",
+                        "en": "Is 3 colors: red, green, yellow."
+                    }
+                },
+                {
+                    "choice": "エ",
+                    "text": {
+                        "ja": "レッド（Red）、グリーン（Green）、ブルー（Blue）の3色のことである。",
+                        "vi": "Là 3 màu: đỏ (red), xanh lá (green), xanh dương (blue).",
+                        "en": "Is 3 colors: red, green, blue."
+                    }
+                }
+            ],
+            "correct_answer": "エ"
+        },
+        {
+            "type": "exam_question",
+            "number": "11-11",
+            "year": "平成30年度",
+            "question": {
+                "ja": "PCなどの仕様の表記として、SXGAやQVGAなどが用いられるものはどれか。",
+                "vi": "Cái nào sử dụng SXGA hoặc QVGA làm ký hiệu thông số của PC, v.v.?",
+                "en": "Which uses SXGA or QVGA as specification notation for PC, etc.?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": {
+                        "ja": "CPUのクロック周波数",
+                        "vi": "Tần số xung nhịp CPU",
+                        "en": "CPU clock frequency"
+                    }
+                },
+                {
+                    "choice": "イ",
+                    "text": {
+                        "ja": "HDDのディスクの直径",
+                        "vi": "Đường kính đĩa HDD",
+                        "en": "HDD disk diameter"
+                    }
+                },
+                {
+                    "choice": "ウ",
+                    "text": {
+                        "ja": "ディスプレイの解像度",
+                        "vi": "Độ phân giải màn hình",
+                        "en": "Display resolution"
+                    }
+                },
+                {
+                    "choice": "エ",
+                    "text": {
+                        "ja": "メモリの容量",
+                        "vi": "Dung lượng bộ nhớ",
+                        "en": "Memory capacity"
+                    }
+                }
+            ],
+            "correct_answer": "ウ"
+        },
+        {
+            "type": "exam_question",
+            "number": "11-12",
+            "year": "平成31年度",
+            "question": {
+                "ja": "3Dプリンターの特徴として、適切なものはどれか。",
+                "vi": "Cái nào là đặc điểm thích hợp của máy in 3D?",
+                "en": "Which is appropriate characteristic of 3D printer?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": {
+                        "ja": "3D効果がある画像を、平面に印刷する。",
+                        "vi": "In hình ảnh có hiệu ứng 3D lên mặt phẳng.",
+                        "en": "Printing images with 3D effects on flat surface."
+                    }
+                },
+                {
+                    "choice": "イ",
+                    "text": {
+                        "ja": "3次元データを用いて、立体物を造形する。",
+                        "vi": "Sử dụng dữ liệu 3 chiều để tạo hình vật thể.",
+                        "en": "Using 3-dimensional data to create 3D objects."
+                    }
+                },
+                {
+                    "choice": "ウ",
+                    "text": {
+                        "ja": "立体物の曲面などに、画像を印刷する。",
+                        "vi": "In hình ảnh lên bề mặt cong của vật thể.",
+                        "en": "Printing images on curved surfaces of 3D objects."
+                    }
+                },
+                {
+                    "choice": "エ",
+                    "text": {
+                        "ja": "レーザーによって、空間に立体画像を表示する。",
+                        "vi": "Hiển thị hình ảnh 3D trong không gian bằng laser.",
+                        "en": "Displaying 3D images in space using laser."
+                    }
+                }
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "11-13",
+            "year": "令和7年度",
+            "question": {
+                "ja": "イメージスキャナーで読み取った紙の書類の画像から、印刷文字や手書きの文字を読み取り、テキストデータに変換する技術を何と呼ぶか。",
+                "vi": "Công nghệ đọc chữ in hoặc chữ viết tay từ hình ảnh tài liệu giấy được đọc bằng máy quét hình ảnh và chuyển đổi thành dữ liệu văn bản được gọi là gì?",
+                "en": "What is technology called that reads printed or handwritten characters from paper document images scanned by image scanner and converts to text data?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": "CCD"
+                },
+                {
+                    "choice": "イ",
+                    "text": "DVI"
+                },
+                {
+                    "choice": "ウ",
+                    "text": "GPU"
+                },
+                {
+                    "choice": "エ",
+                    "text": "OCR"
+                }
+            ],
+            "correct_answer": "エ"
+        },
+        {
+            "type": "exam_question",
+            "number": "11-14",
+            "year": "平成23年度",
+            "question": {
+                "ja": "PCと周辺機器などを無線で接続するインタフェースの規格はどれか。",
+                "vi": "Tiêu chuẩn giao diện nào kết nối PC và thiết bị ngoại vi không dây?",
+                "en": "Which is interface standard for wirelessly connecting PC and peripherals?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": "Bluetooth"
+                },
+                {
+                    "choice": "イ",
+                    "text": "IEEE 1394"
+                },
+                {
+                    "choice": "ウ",
+                    "text": "PCI"
+                },
+                {
+                    "choice": "エ",
+                    "text": "USB 2.0"
+                }
+            ],
+            "correct_answer": "ア"
+        },
+        {
+            "type": "answers_footer",
+            "answers": [
+                {
+                    "number": "11-10",
+                    "answer": "エ"
+                },
+                {
+                    "number": "11-11",
+                    "answer": "ウ"
+                },
+                {
+                    "number": "11-12",
+                    "answer": "イ"
+                },
+                {
+                    "number": "11-13",
+                    "answer": "エ"
+                },
+                {
+                    "number": "11-14",
+                    "answer": "ア"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 5
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "page_id": 437,
+    "image": "p_0437.png",
+    "chapter": 11,
+    "section": "practice",
+    "page_number": 421,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "11-7",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "半導体メモリを用いているのは選択肢c、d、eです。",
+                "vi": "Những cái sử dụng bộ nhớ bán dẫn là lựa chọn c, d, e.",
+                "en": "Those using semiconductor memory are options c, d, e."
+            },
+            "choice_analysis": [
+                {
+                    "choice": "a",
+                    "text": {
+                        "ja": "誤り。CD-ROMの記憶素子は、光を反射する小さな凸凹です。",
+                        "vi": "Sai. Phần tử ghi nhớ của CD-ROM là các chỗ lồi lõm nhỏ phản chiếu ánh sáng.",
+                        "en": "Wrong. CD-ROM's storage element is small bumps reflecting light."
+                    }
+                },
+                {
+                    "choice": "b",
+                    "text": {
+                        "ja": "誤り。DVD-RAMの記憶素子は、光の反射が変わる特別な膜です。",
+                        "vi": "Sai. Phần tử ghi nhớ của DVD-RAM là lớp màng đặc biệt thay đổi phản xạ ánh sáng.",
+                        "en": "Wrong. DVD-RAM's storage element is special film changing light reflection."
+                    }
+                },
+                {
+                    "choice": "c",
+                    "text": {
+                        "ja": "正しい。RAM（Random Access Memory）の記憶素子は、半導体メモリです。",
+                        "vi": "Đúng. Phần tử ghi nhớ của RAM (Random Access Memory) là bộ nhớ bán dẫn.",
+                        "en": "Correct. RAM's storage element is semiconductor memory."
+                    }
+                },
+                {
+                    "choice": "d",
+                    "text": {
+                        "ja": "正しい。SSD（Solid State Drive）の記憶素子は、半導体メモリです。",
+                        "vi": "Đúng. Phần tử ghi nhớ của SSD (Solid State Drive) là bộ nhớ bán dẫn.",
+                        "en": "Correct. SSD's storage element is semiconductor memory."
+                    }
+                },
+                {
+                    "choice": "e",
+                    "text": {
+                        "ja": "正しい。USBメモリの記憶素子は、半導体メモリです。",
+                        "vi": "Đúng. Phần tử ghi nhớ của USB memory là bộ nhớ bán dẫn.",
+                        "en": "Correct. USB memory's storage element is semiconductor memory."
+                    }
+                }
+            ],
+            "conclusion": {
+                "ja": "したがって、半導体メモリを用いているのは選択肢c、d、eです。",
+                "vi": "Vì vậy, những cái sử dụng bộ nhớ bán dẫn là lựa chọn c, d, e.",
+                "en": "Therefore, those using semiconductor memory are options c, d, e."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "11-8",
+            "answer": "エ",
+            "explanation": {
+                "ja": "CD-RWドライブやDVDドライブには、データを読み書きするためのレンズや、CD-RWを回転させる可動部分があります。また、HDDには、データを読み取るためのアームや、磁気ディスクを回転させるための可動部分があります。",
+                "vi": "Ổ đĩa CD-RW và ổ đĩa DVD có thấu kính để đọc ghi dữ liệu và bộ phận chuyển động để quay CD-RW. Ngoài ra, HDD có cánh tay để đọc dữ liệu và bộ phận chuyển động để quay đĩa từ.",
+                "en": "CD-RW drive and DVD drive have lens for reading/writing data and moving parts for rotating CD-RW. Also, HDD has arm for reading data and moving parts for rotating magnetic disk."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "11-9",
+            "answer": "イ",
+            "explanation": {
+                "ja": "dpiとは「1インチあたりのドットの数」を表す単位です。dpiが表す単位を解像度といいます。アのbpsは通信速度の単位です。1秒間に送ることができるビット数を表します。ウのfpsは「動画のなめらかさ」を表す単位です。エのHzは周波数の単位です。1秒間に振動する回数を表します。ITパスポート試験ではクロック周波数の単位を指すことが多いです。",
+                "vi": "dpi là đơn vị biểu thị \"số chấm trên mỗi inch\". Đơn vị mà dpi biểu thị được gọi là độ phân giải. bps ở ア là đơn vị tốc độ truyền thông. Biểu thị số bit có thể gửi trong 1 giây. fps ở ウ là đơn vị biểu thị \"độ mượt của video\". Hz ở エ là đơn vị tần số. Biểu thị số lần dao động trong 1 giây. Trong kỳ thi IT Passport thường chỉ đơn vị tần số xung nhịp.",
+                "en": "dpi is unit representing 'dots per inch.' Unit dpi represents is called resolution. bps in ア is communication speed unit. Represents bits that can be sent per second. fps in ウ is unit representing 'video smoothness.' Hz in エ is frequency unit. Represents oscillations per second. In IT Passport exam often refers to clock frequency unit."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "11-10",
+            "answer": "エ",
+            "explanation": {
+                "ja": "光の三原色とは、レッド、グリーン、ブルーの3色です。「RGB」と表現されます。",
+                "vi": "Ba màu cơ bản của ánh sáng là 3 màu đỏ, xanh lá, xanh dương. Được biểu diễn là \"RGB\".",
+                "en": "Three primary colors of light are 3 colors: red, green, blue. Expressed as 'RGB.'"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "11-11",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "SXGAとQVGAはディスプレイの縦方向と横方向の画素数を表します。SXGAは「1280×1024」、QVGAは「1280×960」です。この画素数は慣用的に「ディスプレイの解像度」とも呼ばれます。",
+                "vi": "SXGA và QVGA biểu thị số pixel theo chiều dọc và chiều ngang của màn hình. SXGA là \"1280×1024\", QVGA là \"1280×960\". Số pixel này theo thông lệ cũng được gọi là \"độ phân giải màn hình\".",
+                "en": "SXGA and QVGA represent display vertical and horizontal pixel counts. SXGA is '1280×1024,' QVGA is '1280×960.' This pixel count is conventionally called 'display resolution.'"
+            },
+            "choice_analysis": [
+                {
+                    "choice": "ア",
+                    "text": {
+                        "ja": "CPUのクロック周波数の単位は「Hz」（ヘルツ）です。",
+                        "vi": "Đơn vị tần số xung nhịp CPU là \"Hz\" (Hertz).",
+                        "en": "CPU clock frequency unit is 'Hz' (Hertz)."
+                    }
+                },
+                {
+                    "choice": "イ",
+                    "text": {
+                        "ja": "HDDのディスクの直径の単位は「inch」（インチ）です。",
+                        "vi": "Đơn vị đường kính đĩa HDD là \"inch\".",
+                        "en": "HDD disk diameter unit is 'inch.'"
+                    }
+                },
+                {
+                    "choice": "エ",
+                    "text": {
+                        "ja": "メモリの容量の単位は「Byte」（バイト）です。",
+                        "vi": "Đơn vị dung lượng bộ nhớ là \"Byte\".",
+                        "en": "Memory capacity unit is 'Byte.'"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "11-12",
+            "answer": "イ",
+            "explanation": {
+                "ja": "3Dプリンターとは、3次元の設計データから立体物を作り出す装置です。「3次元データ」がキーワードです。",
+                "vi": "Máy in 3D là thiết bị tạo ra vật thể từ dữ liệu thiết kế 3 chiều. \"Dữ liệu 3 chiều\" là từ khóa.",
+                "en": "3D printer is device creating 3D objects from 3-dimensional design data. '3-dimensional data' is keyword."
+            },
+            "choice_analysis": [
+                {
+                    "choice": "ア",
+                    "text": {
+                        "ja": "ホログラムに関する解説です。",
+                        "vi": "Là giải thích về hologram.",
+                        "en": "Is explanation about hologram."
+                    }
+                },
+                {
+                    "choice": "ウ",
+                    "text": {
+                        "ja": "曲面印刷に関する解説です。",
+                        "vi": "Là giải thích về in bề mặt cong.",
+                        "en": "Is explanation about curved surface printing."
+                    }
+                },
+                {
+                    "choice": "エ",
+                    "text": {
+                        "ja": "3Dディスプレイに関する解説です。",
+                        "vi": "Là giải thích về màn hình 3D.",
+                        "en": "Is explanation about 3D display."
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_explanations": true,
+        "explanation_count": 6
+    }
+}

@@ -1,0 +1,147 @@
+{
+  "page_id": 483,
+  "image": "p_0483.png",
+  "chapter": 13,
+  "section": "13-04",
+  "page_number": 467,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "13-04",
+      "title": {
+        "ja": "データベース管理システムとSQL",
+        "vi": "Hệ thống quản lý cơ sở dữ liệu và SQL",
+        "en": "Database Management System and SQL"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "必要な部分だけを取り出す",
+        "vi": "Lấy ra chỉ phần cần thiết",
+        "en": "Extract Only Needed Parts"
+      },
+      "content": {
+        "ja": "ハサミを使えば、紙に描かれた絵を切り出すことができます。同じようにコンピュータでも、データベースから必要なデータだけを取り出すことができます。",
+        "vi": "Nếu dùng kéo, có thể cắt ra bức tranh được vẽ trên giấy. Tương tự với máy tính, có thể lấy ra chỉ dữ liệu cần thiết từ cơ sở dữ liệu.",
+        "en": "Using scissors, can cut out picture drawn on paper. Similarly with computer, can extract only needed data from database."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、データベースを管理するシステムである「データベース管理システム」と、このシステムを操作する際に使用する「SQL」について解説します。ITパスポート試験では「選択」「結合」「排他制御」の3つの用語がよく出題されます。排他制御は本当によく出題されるので、必ず習得しておいてください。",
+      "vi": "Từ đây, sẽ giải thích về \"Hệ thống quản lý cơ sở dữ liệu\" - hệ thống quản lý cơ sở dữ liệu, và \"SQL\" được sử dụng khi thao tác hệ thống này. Trong kỳ thi IT Passport, 3 thuật ngữ \"Chọn\", \"Kết hợp\", \"Điều khiển loại trừ\" thường được ra đề. Điều khiển loại trừ thực sự rất hay được ra đề, nên hãy chắc chắn nắm vững.",
+      "en": "From here, will explain 'Database Management System' - system for managing database, and 'SQL' used when operating this system. In IT Passport exam, 3 terms 'Select,' 'Join,' 'Exclusive Control' often appear. Exclusive control really often appears, so definitely master it.",
+      "terms": [
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "操作",
+          "reading": "そうさ"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "選択",
+          "reading": "せんたく"
+        },
+        {
+          "kanji": "結合",
+          "reading": "けつごう"
+        },
+        {
+          "kanji": "排他制御",
+          "reading": "はいたせいぎょ"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "本当",
+          "reading": "ほんとう"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "習得",
+          "reading": "しゅうとく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "データベース管理システムとは",
+      "vi": "Hệ thống quản lý cơ sở dữ liệu là gì",
+      "en": "What is Database Management System"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "データベース管理システム",
+        "vi": "Hệ thống quản lý cơ sở dữ liệu",
+        "en": "Database Management System"
+      },
+      "definition": {
+        "ja": "データベース管理システム（DataBase Management System：DBMS）とは、アプリケーションソフトウェアの要求に応じてデータベースを操作するシステムです。",
+        "vi": "Hệ thống quản lý cơ sở dữ liệu (DataBase Management System: DBMS) là hệ thống thao tác cơ sở dữ liệu theo yêu cầu của phần mềm ứng dụng.",
+        "en": "Database Management System (DBMS) is system that operates database according to application software requests."
+      }
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "データベース管理システム",
+        "vi": "Hệ thống quản lý cơ sở dữ liệu",
+        "en": "Database Management System"
+      },
+      "description": {
+        "ja": "ユーザー → 操作 → アプリケーションソフトウェア → 操作 → データベース管理システム（DBMS）→ 操作 → データベース。DBMSはアプリケーションソフトウェアとデータベースの間を取り持つ！",
+        "vi": "Người dùng → Thao tác → Phần mềm ứng dụng → Thao tác → Hệ thống quản lý cơ sở dữ liệu (DBMS) → Thao tác → Cơ sở dữ liệu. DBMS đứng giữa phần mềm ứng dụng và cơ sở dữ liệu!",
+        "en": "User → Operation → Application Software → Operation → Database Management System (DBMS) → Operation → Database. DBMS mediates between application software and database!"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "データベース管理システム",
+      "vi": "Hệ thống quản lý cơ sở dữ liệu",
+      "en": "Database Management System",
+      "my": "ဒေတာဘေး မန်နေးဂျမန်း စနစ်"
+    },
+    {
+      "term": "DBMS",
+      "full": "DataBase Management System",
+      "vi": "DBMS",
+      "en": "DBMS",
+      "my": "ဒီဘီအမ်အက်စ်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

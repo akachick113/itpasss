@@ -1,0 +1,333 @@
+{
+    "page_id": 604,
+    "image": "p_0604.png",
+    "chapter": "index",
+    "section": "index",
+    "page_number": 588,
+    "content": [
+        {
+            "type": "index_section",
+            "section_title": "R (continued)",
+            "entries": [
+                {
+                    "term": "RFM分析",
+                    "page": 109
+                },
+                {
+                    "term": "RFP (Request For Proposal)",
+                    "page": 214
+                },
+                {
+                    "term": "ROE (Return On Equity)",
+                    "page": 46
+                },
+                {
+                    "term": "ROI (Return On Investment)",
+                    "page": 210
+                },
+                {
+                    "term": "RPA (Robotic Process Automation)",
+                    "page": 185
+                },
+                {
+                    "term": "RSS",
+                    "page": 507
+                }
+            ]
+        },
+        {
+            "type": "index_section",
+            "section_title": "S・T・U",
+            "entries": [
+                {
+                    "term": "SaaS (Software as a Service)",
+                    "page": 191
+                },
+                {
+                    "term": "SCM (Supply Chain Management)",
+                    "page": 119
+                },
+                {
+                    "term": "SDGs",
+                    "page": 16
+                },
+                {
+                    "term": "SDN (Software Defined Network)",
+                    "page": 487
+                },
+                {
+                    "term": "Secure Erase",
+                    "page": 555
+                },
+                {
+                    "term": "SEO (Search Engine Optimization)",
+                    "page": 162
+                },
+                {
+                    "term": "SFA (Sales Force Automation)",
+                    "page": 120
+                },
+                {
+                    "term": "SLA (Service Level Agreement)",
+                    "page": 284
+                },
+                {
+                    "term": "SLCP (Software Life Cycle Process)",
+                    "page": 204
+                },
+                {
+                    "term": "SLM (Service Level Management)",
+                    "page": 283
+                },
+                {
+                    "term": "SMTP (Simple Mail Transfer Protocol)",
+                    "page": 493
+                },
+                {
+                    "term": "Society 5.0",
+                    "page": 167
+                },
+                {
+                    "term": "SQL (Structured Query Language)",
+                    "page": 468
+                },
+                {
+                    "term": "SQLインジェクション",
+                    "page": 558
+                },
+                {
+                    "term": "SSD",
+                    "page": 403
+                },
+                {
+                    "term": "SSL/TLS",
+                    "page": 559
+                },
+                {
+                    "term": "SWOT分析",
+                    "page": 99
+                },
+                {
+                    "term": "TOB (Take Over Bid)",
+                    "page": 245
+                },
+                {
+                    "term": "TOC (Theory Of Constraints)",
+                    "page": 121
+                },
+                {
+                    "term": "UPS (Uninterruptible Power Supply)",
+                    "page": 297
+                },
+                {
+                    "term": "URL",
+                    "page": 501
+                },
+                {
+                    "term": "USB (Universal Serial Bus)",
+                    "page": "404, 414"
+                },
+                {
+                    "term": "UX (User Experience)",
+                    "page": 111
+                }
+            ]
+        },
+        {
+            "type": "index_section",
+            "section_title": "V・W・X・Y・Z",
+            "entries": [
+                {
+                    "term": "VC (Venture Capital)",
+                    "page": 107
+                },
+                {
+                    "term": "VoIP",
+                    "page": 509
+                },
+                {
+                    "term": "VPN (Virtual Private Network)",
+                    "page": 561
+                },
+                {
+                    "term": "VR (Virtual Reality)",
+                    "page": 168
+                },
+                {
+                    "term": "VRIO分析",
+                    "page": 100
+                },
+                {
+                    "term": "WAF (Web Application Firewall)",
+                    "page": 557
+                },
+                {
+                    "term": "WBS (Work Breakdown Structure)",
+                    "page": 263
+                },
+                {
+                    "term": "WPA2",
+                    "page": 560
+                },
+                {
+                    "term": "XML",
+                    "page": 338
+                },
+                {
+                    "term": "XP (eXtreme Programming)",
+                    "page": 248
+                }
+            ]
+        },
+        {
+            "type": "index_section",
+            "section_title": "あ行 / Hàng あ / A-row",
+            "entries": [
+                {
+                    "term": "アウトソーシング",
+                    "page": 108
+                },
+                {
+                    "term": "アクセシビリティ",
+                    "page": 445
+                },
+                {
+                    "term": "アクチュエーター",
+                    "page": 166
+                },
+                {
+                    "term": "アジャイル開発",
+                    "page": 246
+                },
+                {
+                    "term": "アダプティブプラーニング",
+                    "page": 19
+                },
+                {
+                    "term": "アルゴリズム",
+                    "page": 334
+                },
+                {
+                    "term": "アローダイアグラム",
+                    "page": 266
+                },
+                {
+                    "term": "暗号技術",
+                    "page": 545
+                },
+                {
+                    "term": "暗号資産（仮想通貨）",
+                    "page": 163
+                },
+                {
+                    "term": "暗証番号（PIN）",
+                    "page": 568
+                },
+                {
+                    "term": "イーサネット",
+                    "page": 488
+                },
+                {
+                    "term": "委託場",
+                    "page": 153
+                },
+                {
+                    "term": "一般データ保護規則（GDPR）",
+                    "page": 83
+                },
+                {
+                    "term": "イノベーションのジレンマ",
+                    "page": 129
+                },
+                {
+                    "term": "違法取引",
+                    "page": 534
+                },
+                {
+                    "term": "インシデント管理",
+                    "page": 287
+                },
+                {
+                    "term": "インターネット接続サービス事業者（ISP）",
+                    "page": 485
+                },
+                {
+                    "term": "インダストリー4.0",
+                    "page": 168
+                },
+                {
+                    "term": "インタフェース",
+                    "page": 24
+                },
+                {
+                    "term": "インデックス",
+                    "page": 463
+                },
+                {
+                    "term": "ウイルス作成罪",
+                    "page": 66
+                },
+                {
+                    "term": "ウォーターフォールモデル",
+                    "page": 245
+                },
+                {
+                    "term": "請負契約",
+                    "page": 72
+                },
+                {
+                    "term": "運用テスト",
+                    "page": 238
+                },
+                {
+                    "term": "営業支援システム（SFA）",
+                    "page": 120
+                },
+                {
+                    "term": "営業秘密",
+                    "page": 60
+                },
+                {
+                    "term": "エスクローサービス",
+                    "page": 162
+                },
+                {
+                    "term": "エッジコンピューティング",
+                    "page": 511
+                },
+                {
+                    "term": "エンタープライズアーキテクチャ（EA）",
+                    "page": 177
+                },
+                {
+                    "term": "オープンAPI",
+                    "page": 127
+                },
+                {
+                    "term": "オープンイノベーション",
+                    "page": 126
+                },
+                {
+                    "term": "オープンソースソフトウェア",
+                    "page": "62, 446"
+                },
+                {
+                    "term": "オブジェクト指向",
+                    "page": 249
+                },
+                {
+                    "term": "オムニチャネル",
+                    "page": 111
+                },
+                {
+                    "term": "オンプレミス",
+                    "page": 188
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "is_index": true
+    }
+}

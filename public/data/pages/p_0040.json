@@ -1,0 +1,223 @@
+{
+  "page_id": 40,
+  "image": "p_0040.png",
+  "chapter": 1,
+  "section": "01-04",
+  "page_number": 24,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "経営陣の役職名",
+      "reading": "けいえいじんのやくしょくめい",
+      "vi": "Chức danh ban lãnh đạo",
+      "en": "Executive Titles",
+      "my": "အမှုဆောင်ရာထူးအမည်များ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では組織を束ねる経営陣の役職名もよく出題されます。",
+      "vi": "Trong kỳ thi IT Passport, chức danh của ban lãnh đạo điều hành tổ chức cũng thường được ra đề.",
+      "en": "The IT Passport exam frequently tests executive titles of management who lead organizations.",
+      "my": "IT Passport စာမေးပွဲတွင် အဖွဲ့အစည်းများကို ဦးဆောင်သော စီမံခန့်ခွဲမှု အမှုဆောင်ရာထူးများကို မကြာခဏ မေးသည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        },
+        {
+          "kanji": "束",
+          "reading": "そく"
+        },
+        {
+          "kanji": "経営陣",
+          "reading": "けいえいじん"
+        },
+        {
+          "kanji": "役職名",
+          "reading": "やくしょくめい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "経営陣の役職名",
+        "vi": "Chức danh ban lãnh đạo",
+        "en": "Executive Titles"
+      },
+      "headers": {
+        "ja": [
+          "役職名",
+          "説明"
+        ],
+        "vi": [
+          "Chức danh",
+          "Giải thích"
+        ],
+        "en": [
+          "Title",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "CEO（最高経営責任者）",
+            "業務（p.21）の最終的な責任を負う役職。一般的には、経営者（社長）を指す。「Chief Executive Officer」の略語。"
+          ],
+          "vi": [
+            "CEO (Giám đốc điều hành)",
+            "Chức vụ chịu trách nhiệm cuối cùng cho hoạt động (trang 21). Thông thường chỉ người quản lý (giám đốc). Viết tắt của \"Chief Executive Officer\"."
+          ],
+          "en": [
+            "CEO (Chief Executive Officer)",
+            "Position responsible for final accountability of operations (p.21). Generally refers to the manager (president). Abbreviation of \"Chief Executive Officer\"."
+          ]
+        },
+        {
+          "ja": [
+            "CIO（最高情報責任者）",
+            "企業の4大経営資源（ヒト、モノ、カネ、情報）の1つである「情報」に関する仕事を担当する役職。CIOの主たる業務は情報システムの統括。「Chief Information Officer」の略語。"
+          ],
+          "vi": [
+            "CIO (Giám đốc thông tin)",
+            "Chức vụ phụ trách công việc liên quan đến \"thông tin\" - một trong 4 nguồn lực kinh doanh lớn (Người, Vật, Tiền, Thông tin). Nhiệm vụ chính của CIO là tổng quản hệ thống thông tin. Viết tắt của \"Chief Information Officer\"."
+          ],
+          "en": [
+            "CIO (Chief Information Officer)",
+            "Position responsible for work related to \"information\" - one of the 4 major management resources (People, Things, Money, Information). CIO's main duty is overseeing information systems. Abbreviation of \"Chief Information Officer\"."
+          ]
+        },
+        {
+          "ja": [
+            "CTO（最高技術責任者）",
+            "技術経営に直接の責任を持つ役職。CTOの主たる業務は技術戦略の策定や技術開発の推進。「Chief Technology Officer」の略語。"
+          ],
+          "vi": [
+            "CTO (Giám đốc công nghệ)",
+            "Chức vụ chịu trách nhiệm trực tiếp về quản lý công nghệ. Nhiệm vụ chính của CTO là xây dựng chiến lược công nghệ và thúc đẩy phát triển công nghệ. Viết tắt của \"Chief Technology Officer\"."
+          ],
+          "en": [
+            "CTO (Chief Technology Officer)",
+            "Position directly responsible for technology management. CTO's main duties are formulating technology strategy and promoting technology development. Abbreviation of \"Chief Technology Officer\"."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・カンパニー制組織：各事業部を独立した会社とみなして構成する組織\n・CEO：経営の最高責任者\n・CIO：情報システムを統括する最高責任者\n・CTO：技術経営の最高責任者",
+        "vi": "・Tổ chức Company: Tổ chức cấu thành bằng cách coi mỗi bộ phận kinh doanh như công ty độc lập\n・CEO: Người chịu trách nhiệm cao nhất về kinh doanh\n・CIO: Người chịu trách nhiệm cao nhất về tổng quản hệ thống thông tin\n・CTO: Người chịu trách nhiệm cao nhất về quản lý công nghệ",
+        "en": "・Company organization: Organization structured by treating each division as an independent company\n・CEO: Chief person responsible for business management\n・CIO: Chief person responsible for overseeing information systems\n・CTO: Chief person responsible for technology management",
+        "my": "・Company organization: ဌာနတစ်ခုစီကို လွတ်လပ်သောကုမ္ပဏီအဖြစ် သတ်မှတ်၍ ဖွဲ့စည်းသော အဖွဲ့အစည်း",
+        "terms": [
+          {
+            "kanji": "制組織",
+            "reading": "せいそしき"
+          },
+          {
+            "kanji": "各事業部",
+            "reading": "かくじぎょうぶ"
+          },
+          {
+            "kanji": "独立",
+            "reading": "どくりつ"
+          },
+          {
+            "kanji": "会社",
+            "reading": "かいしゃ"
+          },
+          {
+            "kanji": "構成",
+            "reading": "こうせい"
+          },
+          {
+            "kanji": "組織",
+            "reading": "そしき"
+          },
+          {
+            "kanji": "経営",
+            "reading": "けいえい"
+          },
+          {
+            "kanji": "最高責任者",
+            "reading": "さいこうせきにんしゃ"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "統括",
+            "reading": "とうかつ"
+          },
+          {
+            "kanji": "技術経営",
+            "reading": "ぎじゅつけいえい"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "CEO",
+      "reading": "しーいーおー",
+      "romaji": "CEO",
+      "vi": "Giám đốc điều hành",
+      "en": "Chief Executive Officer",
+      "my": "အမှုဆောင်အရာရှိခြင်း"
+    },
+    {
+      "kanji": "CIO",
+      "reading": "しーあいおー",
+      "romaji": "CIO",
+      "vi": "Giám đốc thông tin",
+      "en": "Chief Information Officer",
+      "my": "သတင်းအချက်အလက်အရာရှိခြင်း"
+    },
+    {
+      "kanji": "CTO",
+      "reading": "しーてぃーおー",
+      "romaji": "CTO",
+      "vi": "Giám đốc công nghệ",
+      "en": "Chief Technology Officer",
+      "my": "နည်းပညာအရာရှိခြင်း"
+    },
+    {
+      "kanji": "情報システム",
+      "reading": "じょうほうしすてむ",
+      "romaji": "Jouhou System",
+      "vi": "Hệ thống thông tin",
+      "en": "Information System",
+      "my": "သတင်းအချက်အလက်စနစ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

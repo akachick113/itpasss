@@ -1,0 +1,158 @@
+{
+    "page_id": 559,
+    "image": "p_0559.png",
+    "chapter": 15,
+    "section": "Answer",
+    "page_number": 543,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "15-3",
+            "answer": "エ",
+            "explanation": {
+                "ja": "選択肢はすべてマルウェアの動作です。マルウェアとは、悪意のあるソフトウェアのことです。マルウェアの被害には、データの削除、改ざん、流出などがあります。それぞれのマルウェアに特徴があります。このうち、スパイウェアの目的は、ユーザーに気づかれないように個人情報を盗むことです。スパイウェアのキーワードは「気づかれない」です。",
+                "vi": "Tất cả các lựa chọn đều là hoạt động của malware. Malware là phần mềm độc hại. Thiệt hại do malware bao gồm xóa, sửa đổi, rò rỉ dữ liệu. Mỗi malware có đặc điểm riêng. Trong đó, mục đích của Spyware là đánh cắp thông tin cá nhân mà người dùng không nhận ra. Từ khóa của Spyware là \"không nhận ra\".",
+                "en": "All choices are malware actions. Malware is malicious software. Malware damage includes data deletion, falsification, leakage. Each malware has characteristics. Among them, Spyware's purpose is stealing personal information without user noticing. Spyware's keyword is 'unnoticed.'"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "15-4",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "情報セキュリティポリシーとは、情報セキュリティに関するその組織の取組み、対策をまとめた文書です。",
+                "vi": "Chính sách bảo mật thông tin là tài liệu tóm tắt các nỗ lực và biện pháp của tổ chức về bảo mật thông tin.",
+                "en": "Information Security Policy is document summarizing organization's information security efforts and measures."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "誤り。基本方針は経営者が策定します。",
+                        "vi": "Sai. Phương châm cơ bản do lãnh đạo xây dựng.",
+                        "en": "Wrong. Basic policy is formulated by management."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "誤り。基本方針は、情報セキュリティ事故が発生した場合に、経営者が取るべき行動を記述したマニュアルは、実施手順で作成します。",
+                        "vi": "Sai. Sổ tay mô tả hành động lãnh đạo nên thực hiện khi xảy ra sự cố bảo mật được tạo trong quy trình thực hiện.",
+                        "en": "Wrong. Manual describing actions management should take when security incident occurs is created in procedures."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "正しい。実施手順は、対策基準で定めたルールを実施するための手順書です。",
+                        "vi": "Đúng. Quy trình thực hiện là sổ tay hướng dẫn để thực hiện các quy tắc định nghĩa trong tiêu chuẩn đối sách.",
+                        "en": "Correct. Procedures is manual for implementing rules defined in standards."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "誤り。対策基準は、基本方針に基づき情報セキュリティ対策として「何をするのか」を記述します。",
+                        "vi": "Sai. Tiêu chuẩn đối sách mô tả \"làm gì\" như biện pháp bảo mật dựa trên phương châm cơ bản.",
+                        "en": "Wrong. Standards describes 'what to do' as security measures based on basic policy."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "15-5",
+            "answer": "イ",
+            "explanation": {
+                "ja": "フィッシングのキーワードは「偽サイト」です。",
+                "vi": "Từ khóa của Phishing là \"trang web giả\".",
+                "en": "Phishing's keyword is 'fake site.'"
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "ボットの説明です。",
+                        "vi": "Là giải thích về Bot.",
+                        "en": "Is explanation of Bot."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "辞書攻撃の説明です。",
+                        "vi": "Là giải thích về Dictionary Attack.",
+                        "en": "Is explanation of Dictionary Attack."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "DDoS攻撃の説明です。",
+                        "vi": "Là giải thích về DDoS Attack.",
+                        "en": "Is explanation of DDoS Attack."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "15-6",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "評価はC（Check：評価）で実施します。",
+                "vi": "Đánh giá được thực hiện trong C (Check: Đánh giá).",
+                "en": "Evaluation is done in C (Check: Evaluation)."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "A（Act：改善）で実施します。",
+                        "vi": "Thực hiện trong A (Act: Cải tiến).",
+                        "en": "Done in A (Act: Improvement)."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "P（Plan：計画）で実施します。",
+                        "vi": "Thực hiện trong P (Plan: Kế hoạch).",
+                        "en": "Done in P (Plan: Planning)."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "D（Do：実行）で実施します。",
+                        "vi": "Thực hiện trong D (Do: Thực hiện).",
+                        "en": "Done in D (Do: Execute)."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "15-7",
+            "answer": "イ",
+            "explanation": {
+                "ja": "ISMSの3つの特性は「機密性」「完全性」「可用性」です。このうちの「完全性」とは、情報が正確であり、改ざんや破壊が行われていないことです。「改ざん」というキーワードから選択肢イが正解です。",
+                "vi": "3 đặc tính của ISMS là \"tính bảo mật\", \"tính toàn vẹn\", \"tính sẵn sàng\". Trong đó \"tính toàn vẹn\" là thông tin chính xác và không bị sửa đổi hoặc phá hủy. Từ từ khóa \"sửa đổi\", lựa chọn イ là đáp án đúng.",
+                "en": "ISMS's 3 properties are 'confidentiality,' 'integrity,' 'availability.' Among them 'integrity' is information being accurate and not falsified or destroyed. From keyword 'falsification,' choice イ is correct."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "15-8",
+            "answer": "イ",
+            "explanation": {
+                "ja": "DoS攻撃に関する問題は略語を解読することで攻略します。DoSは「Denial of Service」の略であり、和訳すると「サービス妨害」となります。",
+                "vi": "Vấn đề về DoS Attack được giải quyết bằng cách giải mã từ viết tắt. DoS là viết tắt của \"Denial of Service\", dịch sang tiếng Việt là \"Từ chối dịch vụ\".",
+                "en": "DoS Attack questions are solved by decoding abbreviation. DoS is abbreviation of 'Denial of Service,' translating to 'service denial.'"
+            }
+        }
+    ],
+    "meta": {
+        "is_answer": true
+    }
+}

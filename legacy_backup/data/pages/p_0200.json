@@ -1,0 +1,379 @@
+{
+  "page_id": 200,
+  "image": "p_0200.png",
+  "chapter": 5,
+  "section": "05-03",
+  "page_number": 184,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "した後、BPMを用いて継続的な改善を行います。これは、経営環境や技術が刻々と変わるなかで、業務プロセスの効率を維持するために行われます。",
+      "vi": "Sau đó, sử dụng BPM để cải thiện liên tục. Điều này được thực hiện để duy trì hiệu quả quy trình nghiệp vụ trong bối cảnh môi trường kinh doanh và công nghệ thay đổi liên tục.",
+      "en": "After that, continuous improvement is done using BPM. This is done to maintain business process efficiency as business environment and technology constantly change.",
+      "my": "ထို့နောက် BPM ကို အသုံးပြု၍ စဉ်ဆက်မပြတ် တိုးတက်မှု ပြုလုပ်သည်။",
+      "terms": [
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "継続的",
+          "reading": "けいぞくてき"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "経営環境",
+          "reading": "けいえいかんきょう"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "刻",
+          "reading": "こく"
+        },
+        {
+          "kanji": "変",
+          "reading": "へん"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "効率",
+          "reading": "こうりつ"
+        },
+        {
+          "kanji": "維持",
+          "reading": "いじ"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "BPRとBPMの違い",
+        "vi": "Sự khác nhau giữa BPR và BPM",
+        "en": "Difference Between BPR and BPM",
+        "terms": [
+          {
+            "kanji": "BPR",
+            "reading": "びーぴーあーる"
+          },
+          {
+            "kanji": "BPM",
+            "reading": "びーぴーえむ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験では、BPRとBPMの用語の定義がよく出題されます。その際の見極めるポイントは、BPRは「抜本的」であり、BPMは「継続的」であるという点です。BPMを説明する文章には必ずしも「継続的に」という文章がありますし、なければ、「継続的に」を省略してしまうと、BPRとの区別が曖昧になってしまうからです。この点は必ず覚えておいてください。イメージとしては、BPRは大掃除、BPMは毎日の掃除と覚えておくと良いでしょう。",
+        "vi": "Trong IT Passport, định nghĩa của BPR và BPM thường được ra đề. Điểm để phân biệt là BPR là triệt để, BPM là liên tục. Câu giải thích BPM luôn có liên tục, nếu không có thì sẽ mơ hồ với BPR. Hãy nhớ điểm này. Hình dung BPR là dọn dẹp lớn, BPM là dọn dẹp hàng ngày.",
+        "en": "In IT Passport, definitions of BPR and BPM are frequently tested. The distinguishing point is: BPR is 'radical', BPM is 'continuous'. BPM explanations always contain 'continuously'. Remember this. Think of BPR as major cleanup, BPM as daily cleaning.",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          },
+          {
+            "kanji": "定義",
+            "reading": "ていぎ"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "際",
+            "reading": "きわ"
+          },
+          {
+            "kanji": "見極",
+            "reading": "けんきょく"
+          },
+          {
+            "kanji": "抜本的",
+            "reading": "ばっぽんてき"
+          },
+          {
+            "kanji": "継続的",
+            "reading": "けいぞくてき"
+          },
+          {
+            "kanji": "点",
+            "reading": "てん"
+          },
+          {
+            "kanji": "説明",
+            "reading": "せつめい"
+          },
+          {
+            "kanji": "文章",
+            "reading": "ぶんしょう"
+          },
+          {
+            "kanji": "必",
+            "reading": "ひつ"
+          },
+          {
+            "kanji": "省略",
+            "reading": "しょうりゃく"
+          },
+          {
+            "kanji": "区別",
+            "reading": "くべつ"
+          },
+          {
+            "kanji": "曖昧",
+            "reading": "あいまい"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          },
+          {
+            "kanji": "大掃除",
+            "reading": "おおそうじ"
+          },
+          {
+            "kanji": "毎日",
+            "reading": "まいにち"
+          },
+          {
+            "kanji": "掃除",
+            "reading": "そうじ"
+          },
+          {
+            "kanji": "良",
+            "reading": "りょう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ワークフローシステム",
+      "vi": "Workflow System",
+      "en": "Workflow System"
+    },
+    {
+      "type": "paragraph",
+      "ja": "業務プロセスの改善方法の1つとして「ワークフローシステム」が出題されることがあります。ワークフローシステムとは、紙の書類を電子化して、社内の決済申請などを効率化することです。例えば、交通費の精算を電子的に行うシステムが、ワークフローシステムの一例です。",
+      "vi": "Workflow System đôi khi được ra đề như một phương pháp cải thiện quy trình nghiệp vụ. Workflow System là điện tử hóa tài liệu giấy để hiệu quả hóa đăng ký thanh toán trong công ty. Ví dụ, hệ thống thanh toán chi phí đi lại điện tử là một ví dụ về Workflow System.",
+      "en": "'Workflow System' is sometimes tested as a business process improvement method. Workflow System digitizes paper documents to make internal payment approvals more efficient. For example, a system for electronically processing travel expenses is an example of a Workflow System.",
+      "my": "'Workflow System' ကို တစ်ခါတစ်ရံ business process တိုးတက်မှု နည်းလမ်းအဖြစ် စမ်းသပ်သည်။",
+      "terms": [
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "改善方法",
+          "reading": "かいぜんほうほう"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "紙",
+          "reading": "かみ"
+        },
+        {
+          "kanji": "書類",
+          "reading": "しょるい"
+        },
+        {
+          "kanji": "電子化",
+          "reading": "でんしか"
+        },
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "決済申請",
+          "reading": "けっさいしんせい"
+        },
+        {
+          "kanji": "効率化",
+          "reading": "こうりつか"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "交通費",
+          "reading": "こうつうひ"
+        },
+        {
+          "kanji": "精算",
+          "reading": "せいさん"
+        },
+        {
+          "kanji": "電子的",
+          "reading": "でんしてき"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "一例",
+          "reading": "いちれい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "グループウェア",
+      "reading": "ぐるーぷうぇあ",
+      "vi": "Groupware",
+      "en": "Groupware"
+    },
+    {
+      "type": "paragraph",
+      "ja": "業務プロセスを改善するためには、従業員同士でコミュニケーションをとる必要があります。その際に役立つのが「グループウェア」です。\n\nグループウェアとは、共同作業を複数人で円滑に行うためのソフトウェアです。有名なグループウェア製品にはGoogle社の「Google Workspace」やMicrosoft社の「Microsoft 365」などがあります。グループウェアには、主に次の機能が用意されています。\n\n・電子メール\n・ワークフローシステム\n・チャット\n・ファイル共有\n・電子掲示板\n・テレビ会議\n・会議室予約\n・スケジュール管理",
+      "vi": "Để cải thiện quy trình nghiệp vụ, cần giao tiếp giữa nhân viên. Điều hữu ích trong trường hợp đó là Groupware.\n\nGroupware là phần mềm để nhiều người thực hiện công việc cộng tác suôn sẻ. Sản phẩm Groupware nổi tiếng có Google Workspace của Google, Microsoft 365 của Microsoft. Groupware có các chức năng chính sau:\n\n・Email\n・Workflow System\n・Chat\n・Chia sẻ file\n・Bảng tin điện tử\n・Hội nghị truyền hình\n・Đặt phòng họp\n・Quản lý lịch trình",
+      "en": "To improve business processes, employees need to communicate with each other. 'Groupware' is helpful for this.\n\nGroupware is software for multiple people to smoothly perform collaborative work. Famous groupware products include Google's 'Google Workspace' and Microsoft's 'Microsoft 365'. Groupware mainly provides these functions:\n\n・Email\n・Workflow System\n・Chat\n・File sharing\n・Electronic bulletin board\n・Video conferencing\n・Meeting room reservation\n・Schedule management",
+      "my": "Business processes ကို တိုးတက်အောင်ပြုလုပ်ရန် ဝန်ထမ်းများ အချင်းချင်း ဆက်သွယ်ရန် လိုအပ်သည်။",
+      "terms": [
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "従業員同士",
+          "reading": "じゅうぎょういんどうし"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "役立",
+          "reading": "やくりつ"
+        },
+        {
+          "kanji": "共同作業",
+          "reading": "きょうどうさぎょう"
+        },
+        {
+          "kanji": "複数人",
+          "reading": "ふくすうにん"
+        },
+        {
+          "kanji": "円滑",
+          "reading": "えんかつ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "有名",
+          "reading": "ゆうめい"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "社",
+          "reading": "しゃ"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "用意",
+          "reading": "ようい"
+        },
+        {
+          "kanji": "電子",
+          "reading": "でんし"
+        },
+        {
+          "kanji": "共有",
+          "reading": "きょうゆう"
+        },
+        {
+          "kanji": "電子掲示板",
+          "reading": "でんしけいじばん"
+        },
+        {
+          "kanji": "会議",
+          "reading": "かいぎ"
+        },
+        {
+          "kanji": "会議室予約",
+          "reading": "かいぎしつよやく"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ワークフローシステム",
+      "reading": "わーくふろーしすてむ",
+      "romaji": "Workflow System",
+      "vi": "Hệ thống workflow",
+      "en": "Workflow System",
+      "my": "လုပ်ငန်းစီးဆင်းမှု စနစ်"
+    },
+    {
+      "kanji": "グループウェア",
+      "reading": "ぐるーぷうぇあ",
+      "romaji": "Groupware",
+      "vi": "Phần mềm cộng tác nhóm",
+      "en": "Groupware",
+      "my": "အဖွဲ့ ပူးပေါင်းလုပ်ဆော်ဝဲလ်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_learn_more": true
+  }
+}

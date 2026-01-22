@@ -1,0 +1,353 @@
+{
+  "page_id": 278,
+  "image": "p_0278.png",
+  "chapter": 7,
+  "section": "07-02",
+  "page_number": 262,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "の文書はプロジェクトの創始者やスポンサなどが作成します。",
+      "vi": "Tài liệu này được tạo bởi người sáng lập dự án hoặc nhà tài trợ.",
+      "en": "This document is created by project founder or sponsor.",
+      "terms": [
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "創始者",
+          "reading": "そうししゃ"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "具体的には、プロジェクト憲章でプロジェクトマネージャを任命し、プロジェクトマネージャの責任や権限を明確にします。",
+      "vi": "Cụ thể, trong Project Charter bổ nhiệm Project Manager và làm rõ trách nhiệm và quyền hạn của Project Manager.",
+      "en": "Specifically, Project Charter appoints Project Manager and clarifies Project Manager's responsibilities and authority.",
+      "terms": [
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "憲章",
+          "reading": "けんしょう"
+        },
+        {
+          "kanji": "任命",
+          "reading": "にんめい"
+        },
+        {
+          "kanji": "責任",
+          "reading": "せきにん"
+        },
+        {
+          "kanji": "権限",
+          "reading": "けんげん"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "プロジェクトマネージャは、プロジェクト憲章によって権限が与えられることにより、はじめてプロジェクトを管理・指揮できるようになります。プロジェクトマネージャに権限がなければ、資材の購入や、メンバーの採用など、プロジェクトに必要な決断は何もできません。",
+      "vi": "Project Manager có thể quản lý và chỉ huy dự án lần đầu tiên khi được trao quyền bởi Project Charter. Nếu Project Manager không có quyền hạn, không thể đưa ra bất kỳ quyết định cần thiết cho dự án như mua vật tư hoặc tuyển dụng thành viên.",
+      "en": "Project Manager can manage and direct projects only when authority is granted by Project Charter. Without authority, Project Manager can't make any necessary project decisions like purchasing materials or hiring members.",
+      "terms": [
+        {
+          "kanji": "憲章",
+          "reading": "けんしょう"
+        },
+        {
+          "kanji": "権限",
+          "reading": "けんげん"
+        },
+        {
+          "kanji": "与",
+          "reading": "よ"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "指揮",
+          "reading": "しき"
+        },
+        {
+          "kanji": "資材",
+          "reading": "しざい"
+        },
+        {
+          "kanji": "購入",
+          "reading": "こうにゅう"
+        },
+        {
+          "kanji": "採用",
+          "reading": "さいよう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "決断",
+          "reading": "けつだん"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "PMBOKの10の知識エリア",
+      "reading": "ぴーえむぼっくのじゅうのちしきえりあ",
+      "vi": "10 Knowledge Area của PMBOK",
+      "en": "10 Knowledge Areas of PMBOK"
+    },
+    {
+      "type": "paragraph",
+      "ja": "PMBOKガイドに書かれた知識は次の10種類のいずれかに分類できます。これらの知識を「10の知識エリア」と呼びます。",
+      "vi": "Kiến thức được viết trong PMBOK Guide có thể phân loại vào 10 loại sau. Những kiến thức này được gọi là \"10 Knowledge Area\".",
+      "en": "Knowledge written in PMBOK Guide can be classified into the following 10 types. These knowledge areas are called '10 Knowledge Areas.'",
+      "terms": [
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "表記に注意",
+        "vi": "Chú ý cách viết",
+        "en": "Note on Notation",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ITパスポート試験の過去問のなかには、「プロジェクト・品質・マネジメント」のように、単語と単語の間に「・」が記載されている問題もあります。「・」があってもなくても、用語としては同じものです。惑わされないように注意してください。",
+        "vi": "Trong đề thi cũ của IT Passport, có câu hỏi ghi \"・\" giữa các từ như \"Project・Quality・Management\". Dù có hay không có \"・\", thuật ngữ vẫn giống nhau. Hãy cẩn thận không bị nhầm lẫn.",
+        "en": "In past IT Passport exam questions, some have '・' between words like 'Project・Quality・Management'. With or without '・', the term is the same. Be careful not to be confused."
+      }
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "PMBOKの10の知識エリア",
+        "vi": "10 Knowledge Area của PMBOK",
+        "en": "10 Knowledge Areas of PMBOK",
+        "note": "名前を覚えよう！"
+      },
+      "headers": {
+        "ja": [
+          "知識エリア",
+          "説明"
+        ],
+        "vi": [
+          "Knowledge Area",
+          "Giải thích"
+        ],
+        "en": [
+          "Knowledge Area",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "area": {
+            "ja": "プロジェクト統合マネジメント",
+            "vi": "Project Integration Management",
+            "en": "Project Integration Management"
+          },
+          "explanation": {
+            "ja": "5つのプロセス（立上げ、計画、実行、終結、監視）を総合的に管理する。",
+            "vi": "Quản lý tổng hợp 5 quy trình (Khởi động, Lập kế hoạch, Thực hiện, Kết thúc, Giám sát).",
+            "en": "Comprehensively manage 5 processes (Initiating, Planning, Executing, Closing, Monitoring)."
+          }
+        },
+        {
+          "area": {
+            "ja": "プロジェクトスコープマネジメント",
+            "vi": "Project Scope Management",
+            "en": "Project Scope Management"
+          },
+          "explanation": {
+            "ja": "スコープ（作業範囲）を明らかにする。",
+            "vi": "Làm rõ Scope (Phạm vi công việc).",
+            "en": "Clarify Scope (Work Scope)."
+          }
+        },
+        {
+          "area": {
+            "ja": "プロジェクトステークホルダマネジメント",
+            "vi": "Project Stakeholder Management",
+            "en": "Project Stakeholder Management"
+          },
+          "explanation": {
+            "ja": "ステークホルダ（利害関係者）を特定し、そのステークホルダが効果的にプロジェクトに参加できるように調整することです。",
+            "vi": "Xác định Stakeholder (bên liên quan), điều phối để họ có thể tham gia dự án hiệu quả.",
+            "en": "Identify Stakeholders, coordinate so they can effectively participate in project."
+          }
+        },
+        {
+          "area": {
+            "ja": "プロジェクトスケジュールマネジメント",
+            "vi": "Project Schedule Management",
+            "en": "Project Schedule Management"
+          },
+          "explanation": {
+            "ja": "プロジェクトがスケジュール（期限）内に完了するように管理する。",
+            "vi": "Quản lý để dự án hoàn thành trong Schedule (thời hạn).",
+            "en": "Manage so project completes within Schedule (deadline)."
+          }
+        },
+        {
+          "area": {
+            "ja": "プロジェクトコストマネジメント",
+            "vi": "Project Cost Management",
+            "en": "Project Cost Management"
+          },
+          "explanation": {
+            "ja": "コスト（費用）が予算内に収まるように管理する。",
+            "vi": "Quản lý để Cost (chi phí) nằm trong ngân sách.",
+            "en": "Manage so Cost (expense) stays within budget."
+          }
+        },
+        {
+          "area": {
+            "ja": "プロジェクト品質マネジメント",
+            "vi": "Project Quality Management",
+            "en": "Project Quality Management"
+          },
+          "explanation": {
+            "ja": "品質を管理する。プロジェクト成果物が期待される品質を満たしていることを確認するために、レビューを実施したりする。品質基準を決め、その基準どおりに成果物が完成していることを確認する。",
+            "vi": "Quản lý chất lượng. Thực hiện review để xác nhận thành quả dự án đáp ứng chất lượng mong đợi. Quyết định tiêu chuẩn chất lượng và xác nhận thành quả hoàn thành đúng tiêu chuẩn.",
+            "en": "Manage quality. Conduct reviews to confirm project deliverables meet expected quality. Decide quality standards and confirm deliverables are completed according to standards."
+          }
+        },
+        {
+          "area": {
+            "ja": "プロジェクト資源マネジメント",
+            "vi": "Project Resource Management",
+            "en": "Project Resource Management"
+          },
+          "explanation": {
+            "ja": "物的資源（設備、資材、備品）とチームの人員を管理する。プロジェクトに参加する要員の役割、責任、必要なスキルを決定し、それが効果的に機能するよう調整する。",
+            "vi": "Quản lý nguồn lực vật chất (thiết bị, vật tư, đồ dùng) và nhân sự team. Quyết định vai trò, trách nhiệm, kỹ năng cần thiết của nhân viên tham gia dự án và điều phối để hoạt động hiệu quả.",
+            "en": "Manage physical resources (equipment, materials, supplies) and team personnel. Determine roles, responsibilities, required skills of project staff and coordinate for effective functioning."
+          }
+        },
+        {
+          "area": {
+            "ja": "プロジェクトコミュニケーションマネジメント",
+            "vi": "Project Communication Management",
+            "en": "Project Communication Management"
+          },
+          "explanation": {
+            "ja": "誰に、いつ、どうやって、何を伝達するのかを管理する。",
+            "vi": "Quản lý truyền đạt gì, cho ai, khi nào, bằng cách nào.",
+            "en": "Manage what to communicate, to whom, when, and how."
+          }
+        },
+        {
+          "area": {
+            "ja": "プロジェクトリスクマネジメント",
+            "vi": "Project Risk Management",
+            "en": "Project Risk Management"
+          },
+          "explanation": {
+            "ja": "リスクの洗い出しを管理し、問題が発生した場合は対処する。",
+            "vi": "Quản lý việc rà soát rủi ro và xử lý khi có vấn đề phát sinh.",
+            "en": "Manage risk identification and handle when problems occur."
+          }
+        },
+        {
+          "area": {
+            "ja": "プロジェクト調達マネジメント",
+            "vi": "Project Procurement Management",
+            "en": "Project Procurement Management"
+          },
+          "explanation": {
+            "ja": "プロジェクトの実行に必要なモノ、サービスを取得する。",
+            "vi": "Có được vật phẩm, dịch vụ cần thiết để thực hiện dự án.",
+            "en": "Acquire things and services needed for project execution."
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、上記の10の知識エリアの名称がよく出題されます。",
+      "vi": "Trong kỳ thi IT Passport, tên của 10 Knowledge Area trên thường ra đề.",
+      "en": "In IT Passport exam, names of above 10 Knowledge Areas are frequently tested.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "名称",
+          "reading": "めいしょう"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "知識エリア",
+      "reading": "ちしきえりあ",
+      "romaji": "Chishiki Area",
+      "vi": "Knowledge Area",
+      "en": "Knowledge Area",
+      "my": "အသိပညာ နယ်ပယ်"
+    }
+  ],
+  "meta": {
+    "has_table": true
+  }
+}

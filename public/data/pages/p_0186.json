@@ -1,0 +1,204 @@
+{
+    "page_id": 186,
+    "image": "p_0186.png",
+    "chapter": 4,
+    "section": "practice",
+    "page_number": 170,
+    "content": [
+        {
+            "type": "section_header",
+            "ja": "出る順！過去問＆完全解説",
+            "vi": "Thứ tự ra đề! Đề thi cũ & Giải thích đầy đủ",
+            "en": "Order of Appearance! Past Questions & Full Explanations"
+        },
+        {
+            "type": "exam_question",
+            "number": "4-17",
+            "year": "平成27年度",
+            "question": {
+                "ja": "CADを活用した業務改善の事例として、適切なものはどれか。",
+                "vi": "Ví dụ phù hợp về cải tiến nghiệp vụ sử dụng CAD là gì?",
+                "en": "Which is an appropriate example of business improvement using CAD?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "商品にICタグを取り付け、出荷監視することによって、在庫管理を自動化する。",
+                    "vi": "Gắn IC tag vào sản phẩm, giám sát xuất hàng để tự động hóa quản lý tồn kho.",
+                    "en": "Attach IC tags to products and monitor shipments to automate inventory management."
+                },
+                {
+                    "label": "イ",
+                    "ja": "生産ラインに温度センサーを設置し、温度監視を行って、生産に適した温度が維持されるように制御する。",
+                    "vi": "Đặt sensor nhiệt độ trên dây chuyền sản xuất, giám sát nhiệt độ để duy trì nhiệt độ phù hợp cho sản xuất.",
+                    "en": "Install temperature sensors on production lines to monitor and maintain suitable production temperatures."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "設計情報をデータベース化しておき、設計図面を共有・再利用する。",
+                    "vi": "Tạo cơ sở dữ liệu thông tin thiết kế, chia sẻ và tái sử dụng bản vẽ thiết kế.",
+                    "en": "Database design information and share/reuse design drawings.",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "ロボットを利用して生産ラインを自動化し、工場を無人化する。",
+                    "vi": "Sử dụng robot tự động hóa dây chuyền sản xuất và không người hóa nhà máy.",
+                    "en": "Use robots to automate production lines and make factories unmanned."
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-18",
+            "year": "平成24年度",
+            "question": {
+                "ja": "コンカレントエンジニアリングの目的として、適切なものはどれか。",
+                "vi": "Mục đích phù hợp của Concurrent Engineering là gì?",
+                "en": "Which is an appropriate purpose of Concurrent Engineering?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "開発期間の短縮",
+                    "vi": "Rút ngắn thời gian phát triển",
+                    "en": "Shortening development time",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "開発した技術の標準化",
+                    "vi": "Tiêu chuẩn hóa công nghệ phát triển",
+                    "en": "Standardizing developed technology"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "自社の技術的な強みを生かした製品開発",
+                    "vi": "Phát triển sản phẩm tận dụng thế mạnh công nghệ công ty",
+                    "en": "Product development leveraging company's technical strengths"
+                },
+                {
+                    "label": "エ",
+                    "ja": "生産工程の歩留り率向上",
+                    "vi": "Nâng cao tỷ lệ thu hồi công đoạn sản xuất",
+                    "en": "Improving yield rate of production process"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-19",
+            "year": "平成23年度",
+            "question": {
+                "ja": "エンジニアリングシステムのCAMを活用する場面として、適切なものはどれか。",
+                "vi": "Trường hợp phù hợp để sử dụng CAM của hệ thống kỹ thuật là gì?",
+                "en": "Which is an appropriate situation to use CAM in engineering systems?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "工業製品や建築物などの設計図面を作成する。",
+                    "vi": "Tạo bản vẽ thiết kế sản phẩm công nghiệp hoặc công trình kiến trúc.",
+                    "en": "Create design drawings for industrial products or buildings."
+                },
+                {
+                    "label": "イ",
+                    "ja": "工作機械を制御するための加工データを出力する。",
+                    "vi": "Xuất dữ liệu gia công để điều khiển máy công cụ.",
+                    "en": "Output processing data to control machine tools.",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "製品の生産に必要な部品の発注量を計画する。",
+                    "vi": "Lập kế hoạch số lượng đặt hàng linh kiện cần cho sản xuất.",
+                    "en": "Plan order quantities for parts needed for production."
+                },
+                {
+                    "label": "エ",
+                    "ja": "月別の生産日程計画を策定する。",
+                    "vi": "Lập kế hoạch lịch trình sản xuất theo tháng.",
+                    "en": "Create monthly production schedule plans."
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-20",
+            "year": "令和6年度",
+            "question": {
+                "ja": "必要な時期に必要な量の原材料や部品を調達することによって、工程間の在庫をできるだけ持たないようにする生産方式はどれか。",
+                "vi": "Phương thức sản xuất mua nguyên liệu và linh kiện với số lượng cần thiết vào thời điểm cần thiết, để hạn chế tồn kho giữa các công đoạn là gì?",
+                "en": "Which production method procures materials and parts in needed quantities at needed times to minimize inter-process inventory?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "BPO",
+                    "vi": "BPO",
+                    "en": "BPO"
+                },
+                {
+                    "label": "イ",
+                    "ja": "CIM",
+                    "vi": "CIM",
+                    "en": "CIM"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "JIT",
+                    "vi": "JIT",
+                    "en": "JIT",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "OEM",
+                    "vi": "OEM",
+                    "en": "OEM"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-21",
+            "year": "平成28年度",
+            "question": {
+                "ja": "インターネットショッピングにおいて、個人がアクセスしたWebページの閲覧履歴や商品の購入履歴を分析し、関心のありそうな情報を表示して別商品の購入を促すマーケティング手法はどれか。",
+                "vi": "Trong mua sắm trực tuyến, phương pháp marketing phân tích lịch sử duyệt trang web và lịch sử mua hàng của cá nhân, hiển thị thông tin có thể quan tâm để khuyến khích mua sản phẩm khác là gì?",
+                "en": "In internet shopping, which marketing method analyzes individuals' webpage browsing and purchase history, displays potentially interesting information to encourage purchasing other products?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "アフィリエイト",
+                    "vi": "Affiliate",
+                    "en": "Affiliate"
+                },
+                {
+                    "label": "イ",
+                    "ja": "オークション",
+                    "vi": "Đấu giá",
+                    "en": "Auction"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "フラッシュマーケティング",
+                    "vi": "Flash Marketing",
+                    "en": "Flash Marketing"
+                },
+                {
+                    "label": "エ",
+                    "ja": "レコメンデーション",
+                    "vi": "Recommendation",
+                    "en": "Recommendation",
+                    "correct": true
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 5
+    }
+}

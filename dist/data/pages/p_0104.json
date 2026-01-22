@@ -1,0 +1,448 @@
+{
+  "page_id": 104,
+  "image": "p_0104.png",
+  "chapter": 2,
+  "section": "02-06",
+  "page_number": 88,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "で、製造過程を検査し、品質を確認するのは大変です。\n\n一方で、ISO 9001の認証を受けている工場であれば、一定の品質が保証されているため、部品の品質を確認する手間を省略できます。その利便性は容易に想像できると思います。",
+      "vi": "Việc kiểm tra quy trình sản xuất và xác nhận chất lượng rất khó khăn.\n\nMặt khác, nếu là nhà máy có chứng nhận ISO 9001, chất lượng nhất định được đảm bảo nên có thể bỏ qua công đoạn xác nhận chất lượng linh kiện. Sự tiện lợi đó dễ dàng tưởng tượng được.",
+      "en": "Inspecting manufacturing processes and confirming quality is difficult.\n\nOn the other hand, factories certified with ISO 9001 have guaranteed quality, so the effort to confirm parts quality can be skipped. That convenience is easy to imagine.",
+      "my": "ထုတ်လုပ်မှုလုပ်ငန်းစဉ်များ စစ်ဆေးခြင်းနှင့် အရည်အသွေး အတည်ပြုခြင်းသည် ခက်ခဲသည်။",
+      "terms": [
+        {
+          "kanji": "製造過程",
+          "reading": "せいぞうかてい"
+        },
+        {
+          "kanji": "検査",
+          "reading": "けんさ"
+        },
+        {
+          "kanji": "品質",
+          "reading": "ひんしつ"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "大変",
+          "reading": "たいへん"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "認証",
+          "reading": "にんしょう"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "工場",
+          "reading": "こうじょう"
+        },
+        {
+          "kanji": "一定",
+          "reading": "いってい"
+        },
+        {
+          "kanji": "保証",
+          "reading": "ほしょう"
+        },
+        {
+          "kanji": "部品",
+          "reading": "ぶひん"
+        },
+        {
+          "kanji": "手間",
+          "reading": "てま"
+        },
+        {
+          "kanji": "省略",
+          "reading": "しょうりゃく"
+        },
+        {
+          "kanji": "利便性",
+          "reading": "りべんせい"
+        },
+        {
+          "kanji": "容易",
+          "reading": "ようい"
+        },
+        {
+          "kanji": "想像",
+          "reading": "そうぞう"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ISO 14001",
+      "vi": "ISO 14001",
+      "en": "ISO 14001"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ISO 14001は、環境マネジメントシステムに関する規格です。企業活動によって生じる環境への影響を改善するための規格です。ISO 14001を取得することは、CSR（p.15）の活動の1つとして挙げられます。",
+      "vi": "ISO 14001 là tiêu chuẩn về hệ thống quản lý môi trường. Là tiêu chuẩn để cải thiện tác động môi trường từ hoạt động doanh nghiệp. Việc lấy ISO 14001 được coi là một hoạt động CSR (trang 15).",
+      "en": "ISO 14001 is a standard for environmental management systems. It's a standard for improving environmental impacts from corporate activities. Obtaining ISO 14001 is listed as one of CSR activities (p.15).",
+      "my": "ISO 14001 သည် ပတ်ဝန်းကျင် စီမံခန့်ခွဲမှုစနစ်များအတွက် စံနှုန်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "環境",
+          "reading": "かんきょう"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "規格",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "企業活動",
+          "reading": "きぎょうかつどう"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "影響",
+          "reading": "えいきょう"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "取得",
+          "reading": "しゅとく"
+        },
+        {
+          "kanji": "活動",
+          "reading": "かつどう"
+        },
+        {
+          "kanji": "挙",
+          "reading": "きょ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ISO／IEC 27001",
+      "vi": "ISO/IEC 27001",
+      "en": "ISO/IEC 27001"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ISO／IEC 27001は、情報セキュリティマネジメントシステムに関する規格です。ISO／IEC 27001では後述する「ISMS」（p.534）を規定しています。",
+      "vi": "ISO/IEC 27001 là tiêu chuẩn về hệ thống quản lý bảo mật thông tin. ISO/IEC 27001 quy định ISMS sẽ được giải thích sau (trang 534).",
+      "en": "ISO/IEC 27001 is a standard for information security management systems. ISO/IEC 27001 defines ISMS which will be explained later (p.534).",
+      "my": "ISO/IEC 27001 သည် သတင်းအချက်အလက် လုံခြုံရေး စီမံခန့်ခွဲမှုစနစ်များအတွက် စံနှုန်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "規格",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "後述",
+          "reading": "こうじゅつ"
+        },
+        {
+          "kanji": "規定",
+          "reading": "きてい"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・ISO 9000シリーズ：品質マネジメントシステム\n・ISO 14000シリーズ：環境マネジメントシステム\n・ISO／IEC 27000シリーズ：情報セキュリティマネジメントシステム",
+        "vi": "・ISO 9000 series: Hệ thống quản lý chất lượng\n・ISO 14000 series: Hệ thống quản lý môi trường\n・ISO/IEC 27000 series: Hệ thống quản lý bảo mật thông tin",
+        "en": "・ISO 9000 series: Quality Management System\n・ISO 14000 series: Environmental Management System\n・ISO/IEC 27000 series: Information Security Management System",
+        "my": "・ ISO 9000 series: အရည်အသွေး စီမံခန့်ခွဲမှုစနစ်\n・ ISO 14000 series: ပတ်ဝန်းကျင် စီမံခန့်ခွဲမှုစနစ်\n・ ISO/IEC 27000 series: သတင်းအချက်အလက် လုံခြုံရေး စီမံခန့်ခွဲမှုစနစ်",
+        "terms": [
+          {
+            "kanji": "品質",
+            "reading": "ひんしつ"
+          },
+          {
+            "kanji": "環境",
+            "reading": "かんきょう"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "ISO規格の覚え方",
+        "vi": "Cách nhớ tiêu chuẩn ISO",
+        "en": "How to Remember ISO Standards",
+        "my": "ISO စံနှုန်းများ မှတ်နည်း",
+        "terms": [
+          {
+            "kanji": "ISO",
+            "reading": "あいえすおー"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験ではISO 9001、ISO 14001、ISO／IEC 27001がそれぞれ何の規格であるのかが問われるのですが、各規格の数字と内容を同時に覚えるのはとても大変です。そこで、お勧めの覚え方を紹介します。\n\n筆者は「その規格が誕生した時代背景と関連付けて覚える」ことをお勧めします。基本的にISOの番号が小さいほど、古い規格であり、偶然にも上記の3つの規格は約10年ごとに誕生しています。\n\nISO 9001が誕生した1980年代は、流れ作業の大量生産で製品を作っていました。その時代は「製品の品質を上げること」に力が注がれていました。\n\nISO 14001が誕生した1990年代は、大量生産による環境汚染が深刻になってきました。その時代は「環境への影響を改善すること」に注力していました。\n\nISO／IEC 27001が誕生した2000年代は、コンピュータが普及しはじめました。この時代は「情報セキュリティへの関心」が高まってきました。",
+        "vi": "Trong IT Passport sẽ hỏi ISO 9001, ISO 14001, ISO/IEC 27001 là tiêu chuẩn gì, nhưng nhớ số và nội dung cùng lúc rất khó. Vì vậy, xin giới thiệu cách nhớ đề xuất.\n\nTác giả đề xuất nhớ liên kết với bối cảnh thời đại tiêu chuẩn ra đời. Cơ bản, số ISO càng nhỏ thì tiêu chuẩn càng cũ, và tình cờ 3 tiêu chuẩn trên ra đời cách nhau khoảng 10 năm.\n\nNhững năm 1980 khi ISO 9001 ra đời, sản xuất hàng loạt theo dây chuyền. Thời đó tập trung vào nâng cao chất lượng sản phẩm.\n\nNhững năm 1990 khi ISO 14001 ra đời, ô nhiễm môi trường từ sản xuất hàng loạt trở nên nghiêm trọng. Thời đó tập trung vào cải thiện tác động môi trường.\n\nNhững năm 2000 khi ISO/IEC 27001 ra đời, máy tính bắt đầu phổ biến. Thời đó quan tâm đến bảo mật thông tin tăng lên.",
+        "en": "IT Passport asks what standards ISO 9001, ISO 14001, ISO/IEC 27001 are, but memorizing numbers and content together is difficult. So here's a recommended way to remember.\n\nI recommend associating with the era when standards were born. Basically, smaller ISO numbers mean older standards, and coincidentally these 3 standards were born about 10 years apart.\n\n1980s when ISO 9001 was born saw assembly line mass production. That era focused on improving product quality.\n\n1990s when ISO 14001 was born, environmental pollution from mass production became serious. That era focused on improving environmental impact.\n\n2000s when ISO/IEC 27001 was born, computers became widespread. That era saw increased interest in information security.",
+        "my": "IT Passport သည် ISO 9001, ISO 14001, ISO/IEC 27001 သည် ဘာစံနှုန်းများလဲဟု မေးသည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "何",
+            "reading": "なに"
+          },
+          {
+            "kanji": "規格",
+            "reading": "きかく"
+          },
+          {
+            "kanji": "問",
+            "reading": "とん"
+          },
+          {
+            "kanji": "各規格",
+            "reading": "かくきかく"
+          },
+          {
+            "kanji": "数字",
+            "reading": "すうじ"
+          },
+          {
+            "kanji": "内容",
+            "reading": "ないよう"
+          },
+          {
+            "kanji": "同時",
+            "reading": "どうじ"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          },
+          {
+            "kanji": "大変",
+            "reading": "たいへん"
+          },
+          {
+            "kanji": "勧",
+            "reading": "かん"
+          },
+          {
+            "kanji": "方",
+            "reading": "かた"
+          },
+          {
+            "kanji": "紹介",
+            "reading": "しょうかい"
+          },
+          {
+            "kanji": "筆者",
+            "reading": "ひっしゃ"
+          },
+          {
+            "kanji": "誕生",
+            "reading": "たんじょう"
+          },
+          {
+            "kanji": "時代背景",
+            "reading": "じだいはいけい"
+          },
+          {
+            "kanji": "関連付",
+            "reading": "かんれんづけ"
+          },
+          {
+            "kanji": "基本的",
+            "reading": "きほんてき"
+          },
+          {
+            "kanji": "番号",
+            "reading": "ばんごう"
+          },
+          {
+            "kanji": "小",
+            "reading": "ちい"
+          },
+          {
+            "kanji": "古",
+            "reading": "ふる"
+          },
+          {
+            "kanji": "偶然",
+            "reading": "ぐうぜん"
+          },
+          {
+            "kanji": "上記",
+            "reading": "じょうき"
+          },
+          {
+            "kanji": "約",
+            "reading": "やく"
+          },
+          {
+            "kanji": "年",
+            "reading": "ねん"
+          },
+          {
+            "kanji": "年代",
+            "reading": "ねんだい"
+          },
+          {
+            "kanji": "流",
+            "reading": "りゅう"
+          },
+          {
+            "kanji": "作業",
+            "reading": "さぎょう"
+          },
+          {
+            "kanji": "大量生産",
+            "reading": "たいりょうせいさん"
+          },
+          {
+            "kanji": "製品",
+            "reading": "せいひん"
+          },
+          {
+            "kanji": "作",
+            "reading": "つく"
+          },
+          {
+            "kanji": "時代",
+            "reading": "じだい"
+          },
+          {
+            "kanji": "品質",
+            "reading": "ひんしつ"
+          },
+          {
+            "kanji": "上",
+            "reading": "うえ"
+          },
+          {
+            "kanji": "力",
+            "reading": "ちから"
+          },
+          {
+            "kanji": "注",
+            "reading": "ちゅう"
+          },
+          {
+            "kanji": "環境汚染",
+            "reading": "かんきょうおせん"
+          },
+          {
+            "kanji": "深刻",
+            "reading": "しんこく"
+          },
+          {
+            "kanji": "環境",
+            "reading": "かんきょう"
+          },
+          {
+            "kanji": "影響",
+            "reading": "えいきょう"
+          },
+          {
+            "kanji": "改善",
+            "reading": "かいぜん"
+          },
+          {
+            "kanji": "注力",
+            "reading": "ちゅうりょく"
+          },
+          {
+            "kanji": "普及",
+            "reading": "ふきゅう"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "関心",
+            "reading": "かんしん"
+          },
+          {
+            "kanji": "高",
+            "reading": "たか"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "環境マネジメントシステム",
+      "reading": "かんきょうまねじめんとしすてむ",
+      "romaji": "Kankyou Management System",
+      "vi": "Hệ thống quản lý môi trường",
+      "en": "Environmental Management System",
+      "my": "ပတ်ဝန်းကျင် စီမံခန့်ခွဲမှုစနစ်"
+    },
+    {
+      "kanji": "情報セキュリティマネジメントシステム",
+      "reading": "じょうほうせきゅりてぃまねじめんとしすてむ",
+      "romaji": "Jouhou Security Management System",
+      "vi": "Hệ thống quản lý bảo mật thông tin",
+      "en": "Information Security Management System",
+      "my": "သတင်းအချက်အလက် လုံခြုံရေး စီမံခန့်ခွဲမှုစနစ်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

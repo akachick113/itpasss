@@ -1,0 +1,146 @@
+{
+  "page_id": 574,
+  "image": "p_0574.png",
+  "chapter": 15,
+  "section": "15-06",
+  "page_number": 558,
+  "content": [
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！さまざまな攻撃と防御",
+        "vi": "Chi tiết hơn! Các loại tấn công và phòng thủ",
+        "en": "More Details! Various Attacks and Defense"
+      },
+      "content": {
+        "ja": "上記のように、インターネットに接続されているシステムは、さまざまな攻撃にさらされています。DoS攻撃については別p.526を参照してください。ポートスキャンとは、ポートに順番にアクセスして、外部から利用可能かを調べる行為です。セキュリティホールを探すために行われます。SQLインジェクションとは、Webアプリケーションの脆弱性を突いて、SQL文を挿入（インジェクション）することで、データベースを操作する攻撃です。なお、さまざまな脅威に対するセキュリティ対策を1つに統合して管理することを「UTM（Unified Threat Management：統合脅威管理）」といいます。",
+        "vi": "Như trên, các hệ thống kết nối Internet đang bị phơi bày trước nhiều cuộc tấn công. Về DoS attack, xem trang 526. Port Scan là hành vi truy cập tuần tự vào các cổng để kiểm tra có thể sử dụng từ bên ngoài không. Được thực hiện để tìm security hole. SQL Injection là tấn công thao tác database bằng cách chèn (injection) câu lệnh SQL khai thác lỗ hổng của ứng dụng Web. Ngoài ra, việc tích hợp và quản lý các biện pháp bảo mật đối với nhiều mối đe dọa khác nhau được gọi là \"UTM (Unified Threat Management: Quản lý mối đe dọa tích hợp)\".",
+        "en": "As above, systems connected to Internet are exposed to various attacks. For DoS attack, see p.526. Port Scan is act of sequentially accessing ports to check if usable from outside. Done to find security holes. SQL Injection is attack manipulating database by inserting (injection) SQL statements exploiting Web application vulnerabilities. Also, integrating and managing security measures against various threats is called 'UTM (Unified Threat Management).'"
+      }
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！サニタイジング",
+        "vi": "Chi tiết hơn! Sanitizing",
+        "en": "More Details! Sanitizing"
+      },
+      "content": {
+        "ja": "サニタイジング（Sanitizing）とは、入力された文字列を無害化することで、SQLインジェクションなどを防ぐために行います。Sanitizingは「無害化する」という意味です。ITパスポート試験ではこの用語の定義が出題されることがあるので、覚えておいてください。",
+        "vi": "Sanitizing là vô hiệu hóa chuỗi ký tự đã nhập, được thực hiện để ngăn SQL Injection. Sanitizing có nghĩa là \"vô hiệu hóa\". Trong kỳ thi IT Passport, định nghĩa thuật ngữ này có thể được ra đề nên hãy nhớ.",
+        "en": "Sanitizing is neutralizing input character strings, done to prevent SQL Injection. Sanitizing means 'to neutralize.' In IT Passport exam, definition of this term may appear so remember."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "DMZ",
+      "vi": "DMZ",
+      "en": "DMZ"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "DMZ",
+        "vi": "DMZ",
+        "en": "DMZ"
+      },
+      "full_name": "DeMilitarized Zone：非武装地帯",
+      "definition": {
+        "ja": "DMZ（DeMilitarized Zone：非武装地帯）とは、外部ネットワークと社内ネットワークの両方から隔離されたネットワーク領域です。ITパスポート試験では「企業内ネットワークからも、外部ネットワークからも論理的に隔離されたネットワーク領域」という文章で出題されることがあります。",
+        "vi": "DMZ (DeMilitarized Zone: Vùng phi quân sự) là vùng mạng được cô lập khỏi cả mạng bên ngoài và mạng nội bộ. Trong kỳ thi IT Passport, có thể được ra đề với câu \"vùng mạng được cô lập logic khỏi cả mạng nội bộ doanh nghiệp và mạng bên ngoài\".",
+        "en": "DMZ (DeMilitarized Zone) is network area isolated from both external network and internal network. In IT Passport exam, may appear as 'network area logically isolated from both corporate internal network and external network.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "DMZには社内ネットワークからも、外部ネットワークからもアクセスできます。一方、DMZから社内ネットワークにアクセスすることは基本的にできません。このため通常は、DMZにはWebサーバやメールサーバといった「社外に公開するサーバ」を配置します。",
+      "vi": "DMZ có thể truy cập từ cả mạng nội bộ và mạng bên ngoài. Mặt khác, về cơ bản không thể truy cập từ DMZ vào mạng nội bộ. Vì vậy thông thường, DMZ được đặt \"server công khai ra bên ngoài\" như Web server hoặc Mail server.",
+      "en": "DMZ can be accessed from both internal network and external network. On other hand, basically cannot access internal network from DMZ. Therefore normally, DMZ has 'servers published externally' like Web server or Mail server.",
+      "terms": [
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "外部",
+          "reading": "がいぶ"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "社外",
+          "reading": "しゃがい"
+        },
+        {
+          "kanji": "公開",
+          "reading": "こうかい"
+        },
+        {
+          "kanji": "配置",
+          "reading": "はいち"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "DMZの概念図",
+        "vi": "Sơ đồ khái niệm DMZ",
+        "en": "DMZ Concept Diagram"
+      },
+      "description": {
+        "ja": "社内ネットワーク→ファイアウォール→DMZ（サーバ）→ファイアウォール→外部ネットワーク（インターネット）",
+        "vi": "Mạng nội bộ→Firewall→DMZ (Server)→Firewall→Mạng bên ngoài (Internet)",
+        "en": "Internal Network→Firewall→DMZ (Server)→Firewall→External Network (Internet)"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ポートスキャン",
+      "vi": "Port Scan",
+      "en": "Port Scan",
+      "my": "ပို့စကန်"
+    },
+    {
+      "term": "SQLインジェクション",
+      "vi": "SQL Injection",
+      "en": "SQL Injection",
+      "my": "SQL ထိုးသွင်းခြင်း"
+    },
+    {
+      "term": "UTM",
+      "full": "Unified Threat Management",
+      "vi": "Quản lý mối đe dọa tích hợp",
+      "en": "Unified Threat Management",
+      "my": "ပေါင်းစုပြုံအမွဲ စီမံခန့်ခွဲခြင်း"
+    },
+    {
+      "term": "サニタイジング",
+      "vi": "Sanitizing (Vô hiệu hóa)",
+      "en": "Sanitizing",
+      "my": "သန့်ရှင်းသန့်စင်ခြင်း"
+    },
+    {
+      "term": "DMZ",
+      "full": "DeMilitarized Zone",
+      "vi": "Vùng phi quân sự",
+      "en": "DeMilitarized Zone",
+      "my": "အကာအကွယ်မဲ့ဇုန်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true
+  }
+}

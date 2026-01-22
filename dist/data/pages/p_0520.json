@@ -1,0 +1,199 @@
+{
+  "page_id": 520,
+  "image": "p_0520.png",
+  "chapter": 14,
+  "section": "14-04",
+  "page_number": 504,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "グローバルIPアドレスとプライベートIPアドレス",
+        "vi": "Địa chỉ IP toàn cầu và Địa chỉ IP riêng",
+        "en": "Global IP Address and Private IP Address"
+      },
+      "description": {
+        "ja": "コンピュータ（プライベートIPアドレス:A）がルーター（グローバルIPアドレス:B）を経由してサーバ（グローバルIPアドレス:C）と通信。プライベートIPアドレスをグローバルIPアドレスに変換し、またグローバルIPアドレスをプライベートIPアドレスに変換する",
+        "vi": "Máy tính (IP riêng:A) truyền thông với máy chủ (IP toàn cầu:C) qua router (IP toàn cầu:B). Chuyển đổi IP riêng thành IP toàn cầu và chuyển đổi IP toàn cầu thành IP riêng",
+        "en": "Computer (Private IP:A) communicates with server (Global IP:C) via router (Global IP:B). Convert Private IP to Global IP and convert Global IP to Private IP"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "インターネットに接続するにはグローバルIPアドレスが必要なのですが、先述したように、IPv4ではアドレスが43億個しかないので、すべてのコンピュータにグローバルIPアドレスを割り当てることができません。",
+      "vi": "Để kết nối Internet cần địa chỉ IP toàn cầu, nhưng như đã nói trước, vì IPv4 chỉ có 4,3 tỷ địa chỉ, không thể gán địa chỉ IP toàn cầu cho tất cả máy tính.",
+      "en": "Global IP Address is needed to connect to Internet, but as mentioned earlier, since IPv4 only has 4.3 billion addresses, cannot assign Global IP Address to all computers.",
+      "terms": [
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "先述",
+          "reading": "せんじゅつ"
+        },
+        {
+          "kanji": "億個",
+          "reading": "おくこ"
+        },
+        {
+          "kanji": "割",
+          "reading": "わり"
+        },
+        {
+          "kanji": "当",
+          "reading": "とう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "そこで、NATの技術を使って、インターネットへの接続が必要ないときはプライベートIPアドレスを使い、必要になったときのみ、グローバルIPアドレスに変換することで、IPv4の不足問題を解決しています。",
+      "vi": "Vì vậy, sử dụng công nghệ NAT, dùng địa chỉ IP riêng khi không cần kết nối Internet, và chỉ chuyển đổi thành địa chỉ IP toàn cầu khi cần, để giải quyết vấn đề thiếu hụt IPv4.",
+      "en": "Therefore, using NAT technology, use Private IP Address when Internet connection not needed, and convert to Global IP Address only when needed, solving IPv4 shortage problem.",
+      "terms": [
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "不足問題",
+          "reading": "ふそくもんだい"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "DHCP",
+      "vi": "DHCP",
+      "en": "DHCP"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "DHCP",
+        "vi": "DHCP",
+        "en": "DHCP"
+      },
+      "definition": {
+        "ja": "DHCP（Dynamic Host Configuration Protocol）とは、IPアドレスを各コンピュータに自動的に割り当てるプロトコルです。ITパスポート試験では「IPアドレスを自動的に取得するためのプロトコル」という文章で出題されることもあります。",
+        "vi": "DHCP (Dynamic Host Configuration Protocol) là giao thức tự động gán địa chỉ IP cho mỗi máy tính. Trong kỳ thi IT Passport, cũng có thể ra đề bằng câu \"Giao thức để tự động lấy địa chỉ IP\".",
+        "en": "DHCP (Dynamic Host Configuration Protocol) is protocol automatically assigning IP Address to each computer. In IT Passport exam, may appear as 'protocol for automatically obtaining IP Address.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "1つのLAN内に複数のコンピュータがある場合、各コンピュータにIPアドレス（プライベートIPアドレス）を割り当てる必要があるのですが、この作業を1つひとつネットワーク管理者が行っていては大変です。コンピュータが2〜3台ならまだしも、数十台、数百台になると、IPアドレスが重複しないように管理するだけでもひと苦労です。",
+      "vi": "Khi có nhiều máy tính trong 1 LAN, cần gán địa chỉ IP (địa chỉ IP riêng) cho mỗi máy tính, nhưng nếu quản trị viên mạng làm việc này từng cái một thì rất khó khăn. Nếu chỉ có 2-3 máy tính thì còn được, nhưng nếu có hàng chục, hàng trăm máy thì chỉ việc quản lý để địa chỉ IP không trùng lặp đã là một công việc vất vả.",
+      "en": "When there are multiple computers in 1 LAN, need to assign IP Address (Private IP Address) to each computer, but if network administrator does this one by one, it's difficult. If only 2-3 computers it's still okay, but with dozens or hundreds, just managing so IP Addresses don't duplicate is already hard work.",
+      "terms": [
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "各",
+          "reading": "かく"
+        },
+        {
+          "kanji": "割",
+          "reading": "わり"
+        },
+        {
+          "kanji": "当",
+          "reading": "とう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "管理者",
+          "reading": "かんりしゃ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "大変",
+          "reading": "たいへん"
+        },
+        {
+          "kanji": "台",
+          "reading": "だい"
+        },
+        {
+          "kanji": "数十台",
+          "reading": "すうじゅうだい"
+        },
+        {
+          "kanji": "数百台",
+          "reading": "すうひゃくだい"
+        },
+        {
+          "kanji": "重複",
+          "reading": "ちょうふく"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "苦労",
+          "reading": "くろう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "DHCP",
+      "full": "Dynamic Host Configuration Protocol",
+      "vi": "DHCP (Giao thức cấu hình máy chủ động)",
+      "en": "DHCP (Dynamic Host Configuration Protocol)",
+      "my": "DHCP (ဒိုင်နမစ် ဟိုစ် ကွန်ဖိဂျူရေးရှင်း ပရိုတိုကော)"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "page_id": 553,
+  "image": "p_0553.png",
+  "chapter": 15,
+  "section": "15-03",
+  "page_number": 537,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "情報セキュリティマネジメントの三大特性",
+      "vi": "Ba đặc tính lớn của Quản lý bảo mật thông tin",
+      "en": "Three Major Properties of Information Security Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ISMSは、組織の情報資産について「維持・管理すべき特性」として主に3つを定めています。",
+      "vi": "ISMS quy định chủ yếu 3 \"đặc tính cần duy trì và quản lý\" đối với tài sản thông tin của tổ chức.",
+      "en": "ISMS defines mainly 3 'properties to maintain and manage' for organizational information assets.",
+      "terms": [
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        },
+        {
+          "kanji": "情報資産",
+          "reading": "じょうほうしさん"
+        },
+        {
+          "kanji": "維持",
+          "reading": "いじ"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "特性",
+          "reading": "とくせい"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "定",
+          "reading": "てい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "情報セキュリティマネジメントの三大特性",
+        "vi": "Ba đặc tính lớn của Quản lý bảo mật thông tin",
+        "en": "Three Major Properties of Information Security Management"
+      },
+      "headers": {
+        "ja": [
+          "特性",
+          "説明"
+        ],
+        "vi": [
+          "Đặc tính",
+          "Giải thích"
+        ],
+        "en": [
+          "Property",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "term": {
+            "ja": "機密性（Confidentiality）",
+            "vi": "Tính bảo mật (Confidentiality)",
+            "en": "Confidentiality"
+          },
+          "definition": {
+            "ja": "認められた人だけが情報にアクセスできること。",
+            "vi": "Chỉ những người được phép mới có thể truy cập thông tin.",
+            "en": "Only authorized people can access information."
+          },
+          "examples": [
+            {
+              "ja": "実際に試験で出た機密性が失われる例",
+              "vi": "Ví dụ mất tính bảo mật đã ra trong thi thực tế",
+              "en": "Examples of losing confidentiality from actual exams",
+              "items": [
+                {
+                  "ja": "機密情報が格納されたUSBメモリが盗難にあった",
+                  "vi": "USB có thông tin bí mật bị đánh cắp",
+                  "en": "USB memory containing confidential information was stolen"
+                },
+                {
+                  "ja": "社内のサーバに不正侵入されて情報が漏えいした",
+                  "vi": "Thông tin bị rò rỉ do xâm nhập trái phép vào server nội bộ",
+                  "en": "Information leaked due to unauthorized intrusion into internal server"
+                },
+                {
+                  "ja": "ネットワークを流れるデータを盗聴された",
+                  "vi": "Dữ liệu trên mạng bị nghe lén",
+                  "en": "Data flowing through network was eavesdropped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "term": {
+            "ja": "完全性（Integrity）",
+            "vi": "Tính toàn vẹn (Integrity)",
+            "en": "Integrity"
+          },
+          "definition": {
+            "ja": "情報が正確であり、改ざんや破壊が行われていないこと。",
+            "vi": "Thông tin chính xác và không bị sửa đổi hoặc phá hủy.",
+            "en": "Information is accurate and not falsified or destroyed."
+          },
+          "examples": [
+            {
+              "ja": "実際に試験で出た完全性が失われる例",
+              "vi": "Ví dụ mất tính toàn vẹn đã ra trong thi thực tế",
+              "en": "Examples of losing integrity from actual exams",
+              "items": [
+                {
+                  "ja": "顧客情報管理システムの顧客情報が誤った内容のまま運用されていた",
+                  "vi": "Thông tin khách hàng của hệ thống quản lý được vận hành với nội dung sai",
+                  "en": "Customer information in management system was operated with incorrect content"
+                },
+                {
+                  "ja": "Webページが改ざんされていた",
+                  "vi": "Trang web đã bị sửa đổi",
+                  "en": "Web page was falsified"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "term": {
+            "ja": "可用性（Availability）",
+            "vi": "Tính sẵn sàng (Availability)",
+            "en": "Availability"
+          },
+          "definition": {
+            "ja": "必要なときに情報にアクセスできること（p.285）。",
+            "vi": "Có thể truy cập thông tin khi cần (trang 285).",
+            "en": "Can access information when needed (p.285)."
+          },
+          "examples": [
+            {
+              "ja": "実際に試験で出た可用性が失われる例",
+              "vi": "Ví dụ mất tính sẵn sàng đã ra trong thi thực tế",
+              "en": "Examples of losing availability from actual exams",
+              "items": [
+                {
+                  "ja": "取引先との電子決済システムがDoS攻撃（p.526）を受けて、処理ができなくなった",
+                  "vi": "Hệ thống thanh toán điện tử với đối tác bị DoS attack (trang 526), không thể xử lý",
+                  "en": "Electronic payment system with business partner received DoS attack (p.526), could not process"
+                },
+                {
+                  "ja": "空調の故障で温度が上がり、サーバが停止した",
+                  "vi": "Nhiệt độ tăng do hỏng điều hòa, server dừng hoạt động",
+                  "en": "Temperature rose due to air conditioning failure, server stopped"
+                },
+                {
+                  "ja": "システムのアクセスに使用している通信ケーブルを誤って切断した",
+                  "vi": "Cắt nhầm cáp truyền thông đang sử dụng để truy cập hệ thống",
+                  "en": "Accidentally cut communication cable used for system access"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、完全性と可用性の具体例がよく出題されます。ただし、具体例は千差万別なので、上記の過去事例を暗記することは効率的ではありません。本来の意味をしっかりと理解し、そこから正解選択肢を見つけられるようになることが大切です。なお、完全性では「改ざんによってデータが不正確になること」がよく問われます。",
+      "vi": "Trong kỳ thi IT Passport, ví dụ cụ thể về tính toàn vẹn và tính sẵn sàng thường được ra đề. Tuy nhiên, vì ví dụ rất đa dạng nên việc học thuộc các ví dụ trên không hiệu quả. Điều quan trọng là hiểu rõ ý nghĩa ban đầu và có thể tìm ra lựa chọn đúng từ đó. Ngoài ra, với tính toàn vẹn, thường được hỏi về \"dữ liệu trở nên không chính xác do sửa đổi\".",
+      "en": "In IT Passport exam, specific examples of integrity and availability are often asked. However, since examples vary widely, memorizing above examples is not efficient. Important to understand original meaning well and be able to find correct choices from there. Also, for integrity, 'data becoming inaccurate due to falsification' is often asked.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "完全性",
+          "reading": "かんぜんせい"
+        },
+        {
+          "kanji": "可用性",
+          "reading": "かようせい"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "千差万別",
+          "reading": "せんさばんべつ"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "過去事例",
+          "reading": "かこじれい"
+        },
+        {
+          "kanji": "暗記",
+          "reading": "あんき"
+        },
+        {
+          "kanji": "効率的",
+          "reading": "こうりつてき"
+        },
+        {
+          "kanji": "本来",
+          "reading": "ほんらい"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "正解選択肢",
+          "reading": "せいかいせんたくし"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "kanji": "改",
+          "reading": "かい"
+        },
+        {
+          "kanji": "不正確",
+          "reading": "ふせいかく"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "機密性：認められた人だけが情報にアクセスできること",
+          "vi": "Tính bảo mật: Chỉ người được phép mới truy cập được thông tin",
+          "en": "Confidentiality: Only authorized people can access information"
+        },
+        {
+          "ja": "完全性：改ざんされていないデータ",
+          "vi": "Tính toàn vẹn: Dữ liệu không bị sửa đổi",
+          "en": "Integrity: Data not falsified"
+        },
+        {
+          "ja": "可用性：必要なときにサービスを利用できること",
+          "vi": "Tính sẵn sàng: Có thể sử dụng dịch vụ khi cần",
+          "en": "Availability: Can use services when needed"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "機密性",
+      "vi": "Tính bảo mật",
+      "en": "Confidentiality",
+      "my": "လျှို့ဝှက်ခြင်း"
+    },
+    {
+      "term": "完全性",
+      "vi": "Tính toàn vẹn",
+      "en": "Integrity",
+      "my": "ပြည့်ဝအခြင်း"
+    },
+    {
+      "term": "可用性",
+      "vi": "Tính sẵn sàng",
+      "en": "Availability",
+      "my": "အသုံးပြုနိုင်ခြင်း"
+    },
+    {
+      "term": "改ざん",
+      "reading": "かいざん",
+      "vi": "Sửa đổi/Giả mạo",
+      "en": "Falsification/Tampering",
+      "my": "အတုအလိမ်ပြုပြင်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

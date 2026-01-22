@@ -1,0 +1,370 @@
+{
+  "page_id": 82,
+  "image": "p_0082.png",
+  "chapter": 2,
+  "section": "02-03",
+  "page_number": 66,
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "ja": "（3）他人のIDとパスワードを取得する行為",
+      "vi": "(3) Hành vi thu thập ID và mật khẩu người khác",
+      "en": "(3) Act of Obtaining Others' IDs and Passwords"
+    },
+    {
+      "type": "paragraph",
+      "ja": "他人のIDとパスワードを取得する行為とは、不正アクセスをするために他人のIDとパスワードを取得することです。実際に不正アクセスをしなくても、不正アクセスをするために他人のIDとパスワードを取得した時点で処罰の対象になります。",
+      "vi": "Hành vi thu thập ID và mật khẩu người khác là việc thu thập ID và mật khẩu của người khác để thực hiện truy cập trái phép. Ngay cả khi chưa thực sự truy cập trái phép, việc thu thập ID và mật khẩu người khác với mục đích truy cập trái phép đã là đối tượng bị xử phạt.",
+      "en": "Obtaining others' IDs and passwords means acquiring someone's ID and password to perform unauthorized access. Even without actually doing unauthorized access, obtaining others' IDs and passwords for that purpose is already punishable.",
+      "my": "အခြားသူ၏ ID နှင့် password ရယူခြင်းဆိုသည်မှာ ခွင့်ပြုချက်မရှိဘဲ ဝင်ရောက်ရန် တစ်စုံတစ်ဦး၏ ID နှင့် password ကို ရယူခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "他人",
+          "reading": "たにん"
+        },
+        {
+          "kanji": "取得",
+          "reading": "しゅとく"
+        },
+        {
+          "kanji": "行為",
+          "reading": "こうい"
+        },
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "時点",
+          "reading": "じてん"
+        },
+        {
+          "kanji": "処罰",
+          "reading": "しょばつ"
+        },
+        {
+          "kanji": "対象",
+          "reading": "たいしょう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "ja": "（4）本人の許可なく、他人のIDやパスワードなどを無断で誰かに教えること",
+      "vi": "(4) Tiết lộ ID hoặc mật khẩu người khác cho ai đó mà không được phép",
+      "en": "(4) Disclosing Others' IDs or Passwords Without Permission"
+    },
+    {
+      "type": "paragraph",
+      "ja": "本人の許可なく、他人のIDやパスワードなどを無断で第三者に教えることも、不正アクセス禁止法の処罰の対象の1つです。なぜなら、IDとパスワードを伝えられた第三者が不正アクセスを行う恐れがあるためです。",
+      "vi": "Việc tiết lộ ID hoặc mật khẩu của người khác cho bên thứ ba mà không được phép cũng là một trong những đối tượng xử phạt của Luật cấm truy cập trái phép. Vì bên thứ ba được cung cấp ID và mật khẩu có thể thực hiện truy cập trái phép.",
+      "en": "Disclosing others' IDs or passwords to third parties without permission is also punishable under this law. Because the third party who receives the ID and password may perform unauthorized access.",
+      "my": "အခြားသူ၏ ID သို့မဟုတ် password များကို ခွင့်ပြုချက်မရှိဘဲ တတိယပါတီသို့ ပေးအပ်ခြင်းသည်လည်း ဤဥပဒေအရ ပြစ်ဒဏ်ပေးနိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "本人",
+          "reading": "ほんにん"
+        },
+        {
+          "kanji": "許可",
+          "reading": "きょか"
+        },
+        {
+          "kanji": "他人",
+          "reading": "たにん"
+        },
+        {
+          "kanji": "無断",
+          "reading": "むだん"
+        },
+        {
+          "kanji": "第三者",
+          "reading": "だいさんしゃ"
+        },
+        {
+          "kanji": "教",
+          "reading": "きょう"
+        },
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "禁止法",
+          "reading": "きんしほう"
+        },
+        {
+          "kanji": "処罰",
+          "reading": "しょばつ"
+        },
+        {
+          "kanji": "対象",
+          "reading": "たいしょう"
+        },
+        {
+          "kanji": "伝",
+          "reading": "でん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "恐",
+          "reading": "きょう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "セキュリティに関するその他の用語",
+      "reading": "せきゅりてぃにかんするそのたのようご",
+      "vi": "Thuật ngữ khác liên quan đến bảo mật",
+      "en": "Other Security-Related Terms",
+      "my": "လုံခြုံရေးဆိုင်ရာ အခြားဝေါဟာရများ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "下表の用語の出題頻度はそれほど高くはありませんが、ときどき出題されることがあるので、一度目を通しておいてください。",
+      "vi": "Tần suất ra đề của các thuật ngữ trong bảng dưới không cao lắm, nhưng thỉnh thoảng vẫn được ra đề nên hãy đọc qua một lần.",
+      "en": "The terms in the table below aren't frequently tested, but they sometimes appear, so please review them once.",
+      "my": "အောက်ပါဇယားရှိ ဝေါဟာရများကို မကြာခဏ စမ်းသပ်ခြင်းမရှိသော်လည်း တစ်ခါတစ်ရံ ပေါ်လာတတ်သောကြောင့် တစ်ကြိမ်လောက် ပြန်လည်ကြည့်ရှုပါ။",
+      "terms": [
+        {
+          "kanji": "下表",
+          "reading": "かひょう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "一度目",
+          "reading": "いちどめ"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "セキュリティに関するその他の用語",
+        "vi": "Thuật ngữ khác liên quan đến bảo mật",
+        "en": "Other Security-Related Terms"
+      },
+      "headers": {
+        "ja": [
+          "項目",
+          "説明"
+        ],
+        "vi": [
+          "Mục",
+          "Giải thích"
+        ],
+        "en": [
+          "Item",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "特定電子メール法",
+            "迷惑メールを規制するための法律。原則、広告や宣伝などのメールの送信には事前の同意が必要。"
+          ],
+          "vi": [
+            "Luật email đặc biệt",
+            "Luật kiểm soát spam. Về nguyên tắc, cần có sự đồng ý trước để gửi email quảng cáo, tuyên truyền."
+          ],
+          "en": [
+            "Specific Electronic Mail Law",
+            "Law regulating spam. In principle, prior consent is needed to send advertising/promotional emails."
+          ]
+        },
+        {
+          "ja": [
+            "ウイルス作成罪",
+            "コンピュータウイルスを作成、提供、供用、取得、保管する犯罪。「不正指令電磁的記録に関する罪」。"
+          ],
+          "vi": [
+            "Tội tạo virus",
+            "Tội tạo, cung cấp, sử dụng, thu thập, lưu trữ virus máy tính. \"Tội liên quan đến ghi chép điện từ chỉ thị bất chính\"."
+          ],
+          "en": [
+            "Virus Creation Crime",
+            "Crime of creating, providing, using, obtaining, storing computer viruses. \"Crime related to illegal command electromagnetic records\"."
+          ]
+        },
+        {
+          "ja": [
+            "国家サイバー防衛組織（NCO）",
+            "国民をサイバー攻撃から守る組織。具体的にはサイバーセキュリティに関する基本戦略の立案、政府機関のセキュリティ対策の支援などを行う。"
+          ],
+          "vi": [
+            "Tổ chức phòng thủ mạng quốc gia (NCO)",
+            "Tổ chức bảo vệ công dân khỏi tấn công mạng. Cụ thể là lập kế hoạch chiến lược cơ bản về an ninh mạng, hỗ trợ biện pháp bảo mật cho cơ quan chính phủ."
+          ],
+          "en": [
+            "National Cyber Defense Organization (NCO)",
+            "Organization protecting citizens from cyberattacks. Specifically plans basic cybersecurity strategies and supports government agency security measures."
+          ]
+        },
+        {
+          "ja": [
+            "CSIRT (Computer Security Incident Response Team)",
+            "組織内のインシデント（p.287）に対応する専門チーム。"
+          ],
+          "vi": [
+            "CSIRT (Computer Security Incident Response Team)",
+            "Đội chuyên gia ứng phó sự cố (p.287) trong tổ chức."
+          ],
+          "en": [
+            "CSIRT (Computer Security Incident Response Team)",
+            "Specialized team responding to organizational incidents (p.287)."
+          ]
+        },
+        {
+          "ja": [
+            "サイバーセキュリティ経営ガイドライン",
+            "サイバー攻撃から企業を守る観点から、経営者が認識する必要がある「3原則」と、経営者がサイバーセキュリティ対策を実施する上でどうべきかの「重要10項目」を示したもの。経済産業省が策定した情報セキュリティガイドライン。経済産業省が策定した情報セキュリティガイドライン。"
+          ],
+          "vi": [
+            "Hướng dẫn quản lý an ninh mạng",
+            "Đưa ra \"3 nguyên tắc\" mà nhà quản lý cần nhận thức từ góc độ bảo vệ doanh nghiệp khỏi tấn công mạng, và \"10 mục quan trọng\" về cách nhà quản lý nên thực hiện biện pháp an ninh mạng. Hướng dẫn bảo mật thông tin do Bộ Kinh tế Thương mại và Công nghiệp ban hành."
+          ],
+          "en": [
+            "Cybersecurity Management Guidelines",
+            "Presents \"3 principles\" managers must recognize to protect companies from cyberattacks, and \"10 important items\" on how managers should implement cybersecurity measures. Information security guidelines established by METI."
+          ]
+        },
+        {
+          "ja": [
+            "中小企業の情報セキュリティ対策ガイドライン",
+            "中小企業における重要な情報を漏えいや改ざん、喪失などから組織的に保護対策をとることを目的とする、情報セキュリティ対策の考え方や実践方法についてのガイドライン。中小企業向けのガイドライン。経済産業省が策定した情報セキュリティガイドライン。"
+          ],
+          "vi": [
+            "Hướng dẫn bảo mật thông tin cho doanh nghiệp vừa và nhỏ",
+            "Hướng dẫn về cách nghĩ và phương pháp thực hành bảo mật thông tin nhằm bảo vệ có tổ chức thông tin quan trọng trong doanh nghiệp vừa và nhỏ khỏi rò rỉ, sửa đổi, mất mát. Hướng dẫn dành cho doanh nghiệp vừa và nhỏ."
+          ],
+          "en": [
+            "SME Information Security Guidelines",
+            "Guidelines on information security concepts and practices for small-medium enterprises to organizationally protect important information from leakage, alteration, loss. Guidelines for SMEs."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のうち、ウイルス作成罪（不正指令電磁的記録に関する罪）は不正アクセス禁止法に関する問題の不正解選択肢として出題されることがあるので注意してください。コンピュータウイルスを作っても不正アクセス禁止法では罰せられません。コンピュータウイルスを作成した場合はウイルス作成罪で罰せられます。",
+      "vi": "Trong số trên, Tội tạo virus (Tội liên quan đến ghi chép điện từ chỉ thị bất chính) có thể xuất hiện như lựa chọn sai trong câu hỏi về Luật cấm truy cập trái phép nên hãy chú ý. Việc tạo virus máy tính không bị phạt theo Luật cấm truy cập trái phép. Nếu tạo virus sẽ bị phạt theo Tội tạo virus.",
+      "en": "Among the above, Virus Creation Crime (illegal command electromagnetic records crime) may appear as wrong choices in Unauthorized Access Prohibition Law questions, so be careful. Creating computer viruses is NOT punished under the Unauthorized Access Prohibition Law. Creating viruses is punished under the Virus Creation Crime.",
+      "my": "အထက်ပါတို့တွင် Virus Creation Crime သည် Unauthorized Access Prohibition Law မေးခွန်းများတွင် မှားယွင်းသော ရွေးချယ်မှုများအဖြစ် ပေါ်လာနိုင်သောကြောင့် သတိပြုပါ။",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "作成罪",
+          "reading": "さくせいつみ"
+        },
+        {
+          "kanji": "不正指令電磁的記録",
+          "reading": "ふせいしれいでんじてききろく"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "罪",
+          "reading": "つみ"
+        },
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "禁止法",
+          "reading": "きんしほう"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "不正解選択肢",
+          "reading": "ふせいかいせんたくし"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "罰",
+          "reading": "ばつ"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ウイルス作成罪",
+      "reading": "ういるすさくせいざい",
+      "romaji": "Virus Sakusei Zai",
+      "vi": "Tội tạo virus",
+      "en": "Virus Creation Crime",
+      "my": "ဗိုင်းရပ်စ်ဖန်တီးမှု"
+    },
+    {
+      "kanji": "特定電子メール法",
+      "reading": "とくていでんしめーるほう",
+      "romaji": "Tokutei Denshi Mail Hou",
+      "vi": "Luật email đặc biệt",
+      "en": "Specific Electronic Mail Law",
+      "my": "အီးမေးလ်အထူးဥပဒေ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false
+  }
+}

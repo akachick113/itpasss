@@ -1,0 +1,456 @@
+{
+  "page_id": 304,
+  "image": "p_0304.png",
+  "chapter": 8,
+  "section": "08-03",
+  "page_number": 288,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "構成管理",
+      "reading": "こうせいかんり",
+      "vi": "Configuration Management",
+      "en": "Configuration Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "構成管理とは、IT資産を正確に把握して、不正使用を防止する活動です。IT資産とはハードウェア、ソフトウェア、ドキュメントなどです。",
+      "vi": "Configuration Management là hoạt động nắm chính xác tài sản IT và ngăn chặn sử dụng trái phép. Tài sản IT là phần cứng, phần mềm, tài liệu...",
+      "en": "Configuration Management is activity to accurately grasp IT assets and prevent unauthorized use. IT assets are hardware, software, documents, etc.",
+      "terms": [
+        {
+          "kanji": "構成管理",
+          "reading": "こうせいかんり"
+        },
+        {
+          "kanji": "資産",
+          "reading": "しさん"
+        },
+        {
+          "kanji": "正確",
+          "reading": "せいかく"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        },
+        {
+          "kanji": "不正使用",
+          "reading": "ふせいしよう"
+        },
+        {
+          "kanji": "防止",
+          "reading": "ぼうし"
+        },
+        {
+          "kanji": "活動",
+          "reading": "かつどう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このプロセスでは、サービスを提供しているシステムにどのようなIT資産があるのかを洗い出して、管理台帳に記録して管理します。また、ソフトウェアライセンスの管理も行います。そのため、このプロセスを行うことで、ソフトウェア製品の不正使用（ライセンス違反など）を防止することもできます。",
+      "vi": "Trong Process này, rà soát xem hệ thống cung cấp dịch vụ có những tài sản IT nào, ghi vào sổ quản lý và quản lý. Ngoài ra, cũng quản lý license phần mềm. Do đó, thực hiện Process này có thể ngăn chặn sử dụng trái phép sản phẩm phần mềm (vi phạm license...).",
+      "en": "In this Process, identify what IT assets exist in service-providing system, record in management ledger and manage. Also manages software licenses. Therefore, performing this Process can prevent unauthorized use of software products (license violations, etc.).",
+      "terms": [
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "資産",
+          "reading": "しさん"
+        },
+        {
+          "kanji": "洗",
+          "reading": "せん"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "管理台帳",
+          "reading": "かんりだいちょう"
+        },
+        {
+          "kanji": "記録",
+          "reading": "きろく"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "不正使用",
+          "reading": "ふせいしよう"
+        },
+        {
+          "kanji": "違反",
+          "reading": "いはん"
+        },
+        {
+          "kanji": "防止",
+          "reading": "ぼうし"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "変更管理",
+      "reading": "へんこうかんり",
+      "vi": "Change Management",
+      "en": "Change Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "変更管理とは、システムの変更を承認し、実施計画を立てる活動です。システムの変更に失敗すると、サービスの中断や復旧作業など、サービスにとってデメリットしかありません。そのため、できるだけ失敗が発生しないよう、変更管理プロセスを綿密に計画を立てます。",
+      "vi": "Change Management là hoạt động phê duyệt thay đổi hệ thống và lập kế hoạch thực hiện. Nếu thay đổi hệ thống thất bại, chỉ có bất lợi cho dịch vụ như gián đoạn dịch vụ hoặc công việc khôi phục. Do đó, lập kế hoạch Change Management Process cẩn thận để giảm thiểu thất bại.",
+      "en": "Change Management is activity to approve system changes and create implementation plan. If system change fails, there's only disadvantage to service like service interruption or restoration work. Therefore, Plan Change Management Process carefully to minimize failure.",
+      "terms": [
+        {
+          "kanji": "変更管理",
+          "reading": "へんこうかんり"
+        },
+        {
+          "kanji": "変更",
+          "reading": "へんこう"
+        },
+        {
+          "kanji": "承認",
+          "reading": "しょうにん"
+        },
+        {
+          "kanji": "実施計画",
+          "reading": "じっしけいかく"
+        },
+        {
+          "kanji": "立",
+          "reading": "た"
+        },
+        {
+          "kanji": "活動",
+          "reading": "かつどう"
+        },
+        {
+          "kanji": "失敗",
+          "reading": "しっぱい"
+        },
+        {
+          "kanji": "中断",
+          "reading": "ちゅうだん"
+        },
+        {
+          "kanji": "復旧作業",
+          "reading": "ふっきゅうさぎょう"
+        },
+        {
+          "kanji": "発生",
+          "reading": "はっせい"
+        },
+        {
+          "kanji": "綿密",
+          "reading": "めんみつ"
+        },
+        {
+          "kanji": "計画",
+          "reading": "けいかく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "具体例としては、ソフトウェアベンダーから提供されたセキュリティパッチの適用が挙げられます。セキュリティパッチとは、ソフトウェアのセキュリティ上の弱点を修正するためのプログラムです。セキュリティパッチの内容を確認し、自社システムに適用する影響を評価することが、変更管理プロセスの作業になります。実際にセキュリティパッチを適用するのは次項の「リリース及び展開管理」の作業です。",
+      "vi": "Ví dụ cụ thể là áp dụng security patch được cung cấp từ software vendor. Security patch là chương trình sửa điểm yếu bảo mật của phần mềm. Xác nhận nội dung security patch và đánh giá ảnh hưởng khi áp dụng vào hệ thống công ty là công việc của Change Management Process. Thực sự áp dụng security patch là công việc của \"Release and Deployment Management\" tiếp theo.",
+      "en": "Specific example is applying security patch provided by software vendor. Security patch is program to fix software security vulnerabilities. Confirming security patch content and evaluating impact of applying to company's system is Change Management Process work. Actually applying security patch is work of next 'Release and Deployment Management.'",
+      "terms": [
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "適用",
+          "reading": "てきよう"
+        },
+        {
+          "kanji": "挙",
+          "reading": "きょ"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "弱点",
+          "reading": "じゃくてん"
+        },
+        {
+          "kanji": "修正",
+          "reading": "しゅうせい"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "影響",
+          "reading": "えいきょう"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "変更管理",
+          "reading": "へんこうかんり"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "次項",
+          "reading": "じこう"
+        },
+        {
+          "kanji": "及",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "展開管理",
+          "reading": "てんかいかんり"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "リリース及び展開管理",
+      "reading": "りりーすおよびてんかいかんり",
+      "vi": "Release and Deployment Management",
+      "en": "Release and Deployment Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "リリース及び展開管理とは、変更管理で承認された変更を本番環境に実装する活動です。リリース及び展開管理では最初にサービスの利用者や、運用管理者に計画の内容や実施要項を通知します。その後、システム変更が失敗した際の影響範囲を最小限に抑える施策（旧システムとの並行運用など）を準備したうえで、システム変更を本番環境に実装します。なお、リリース計画では、リリース後の障害発生も想定して、元の運用環境に戻すための対策を必ず用意しておきます。",
+      "vi": "Release and Deployment Management là hoạt động triển khai các thay đổi được phê duyệt trong Change Management vào môi trường production. Trong Release and Deployment Management, đầu tiên thông báo nội dung kế hoạch và hạng mục thực hiện cho người dùng dịch vụ và quản trị viên vận hành. Sau đó, chuẩn bị biện pháp giảm thiểu phạm vi ảnh hưởng khi thay đổi hệ thống thất bại (vận hành song song với hệ thống cũ...), rồi triển khai thay đổi hệ thống vào môi trường production. Trong kế hoạch Release, cũng giả định sự cố sau Release và luôn chuẩn bị biện pháp khôi phục về môi trường vận hành ban đầu.",
+      "en": "Release and Deployment Management is activity to implement changes approved in Change Management to production environment. In Release and Deployment Management, first notify service users and operations managers of plan content and implementation items. Then, prepare measures to minimize impact scope if system change fails (parallel operation with old system, etc.), then implement system change to production. In Release plan, also assume post-Release failures and always prepare measures to restore to original operating environment.",
+      "terms": [
+        {
+          "kanji": "及",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "展開管理",
+          "reading": "てんかいかんり"
+        },
+        {
+          "kanji": "変更管理",
+          "reading": "へんこうかんり"
+        },
+        {
+          "kanji": "承認",
+          "reading": "しょうにん"
+        },
+        {
+          "kanji": "変更",
+          "reading": "へんこう"
+        },
+        {
+          "kanji": "本番環境",
+          "reading": "ほんばんかんきょう"
+        },
+        {
+          "kanji": "実装",
+          "reading": "じっそう"
+        },
+        {
+          "kanji": "活動",
+          "reading": "かつどう"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "kanji": "運用管理者",
+          "reading": "うんようかんりしゃ"
+        },
+        {
+          "kanji": "計画",
+          "reading": "けいかく"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "実施要項",
+          "reading": "じっしようこう"
+        },
+        {
+          "kanji": "通知",
+          "reading": "つうち"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "失敗",
+          "reading": "しっぱい"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "影響範囲",
+          "reading": "えいきょうはんい"
+        },
+        {
+          "kanji": "最小限",
+          "reading": "さいしょうげん"
+        },
+        {
+          "kanji": "抑",
+          "reading": "よく"
+        },
+        {
+          "kanji": "施策",
+          "reading": "しさく"
+        },
+        {
+          "kanji": "旧",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "並行運用",
+          "reading": "へいこううんよう"
+        },
+        {
+          "kanji": "準備",
+          "reading": "じゅんび"
+        },
+        {
+          "kanji": "障害発生",
+          "reading": "しょうがいはっせい"
+        },
+        {
+          "kanji": "想定",
+          "reading": "そうてい"
+        },
+        {
+          "kanji": "元",
+          "reading": "もと"
+        },
+        {
+          "kanji": "運用環境",
+          "reading": "うんようかんきょう"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        },
+        {
+          "kanji": "対策",
+          "reading": "たいさく"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "用意",
+          "reading": "ようい"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "変更管理とは、システムの変更を承認し、実施計画を立てる活動",
+          "vi": "Change Management là hoạt động phê duyệt thay đổi hệ thống và lập kế hoạch thực hiện",
+          "en": "Change Management is activity to approve system changes and create implementation plan"
+        },
+        {
+          "ja": "リリース及び展開管理とは、承認された変更を本番環境に実装すること",
+          "vi": "Release and Deployment Management là triển khai các thay đổi được phê duyệt vào môi trường production",
+          "en": "Release and Deployment Management is implementing approved changes to production environment"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "構成管理",
+      "reading": "こうせいかんり",
+      "romaji": "Kousei Kanri",
+      "vi": "Quản lý cấu hình",
+      "en": "Configuration Management",
+      "my": "ဖဲွဲစည်းပုံ မန်နေ့ဂျမန့်"
+    },
+    {
+      "kanji": "変更管理",
+      "reading": "へんこうかんり",
+      "romaji": "Henkou Kanri",
+      "vi": "Quản lý thay đổi",
+      "en": "Change Management",
+      "my": "ပြောင်းလဲမှု မန်နေ့ဂျမန့်"
+    },
+    {
+      "kanji": "リリース及び展開管理",
+      "reading": "りりーすおよびてんかいかんり",
+      "romaji": "Release Oyobi Tenkai Kanri",
+      "vi": "Quản lý Release và triển khai",
+      "en": "Release and Deployment Management",
+      "my": "ရီလိစ်နှင့် အကောင်အထည် မန်နေ့ဂျမန့်"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true
+  }
+}

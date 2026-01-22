@@ -1,0 +1,94 @@
+{
+    "page_id": 408,
+    "image": "p_0408.png",
+    "chapter": 10,
+    "section": "practice",
+    "page_number": 392,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "10-2",
+            "answer": "ア",
+            "explanation": {
+                "ja": "「結果を照合」というキーワードから、デュアルシステムであると判断できます。なお、デュアルシステムでは同じ命令を2つのシステムで処理を行いますが、処理能力をものはシンプレックスシステムとほぼ同じです。ウはデュプレックスシステムの特徴です。エは直列システムの特徴です。",
+                "vi": "Từ từ khóa \"so sánh kết quả\", có thể phán đoán đây là hệ thống dual. Tham khảo, trong hệ thống dual thực hiện cùng lệnh trên 2 hệ thống, nhưng khả năng xử lý gần như bằng hệ thống simplex. ウ là đặc điểm của hệ thống duplex. エ là đặc điểm của hệ thống nối tiếp.",
+                "en": "From keyword 'compare results,' can judge it's dual system. Note, in dual system same command is processed on 2 systems, but processing power is almost same as simplex system. ウ is characteristic of duplex system. エ is characteristic of series system."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "10-3",
+            "answer": "ア",
+            "explanation": {
+                "ja": "シンクライアントでは端末内にデータが残らないので、情報漏えい対策として注目されています。イはRAIDの特徴です。ウはシングルサインオンの特徴です。エは2要素認証の特徴です。",
+                "vi": "Trong thin client, dữ liệu không còn lại trong thiết bị đầu cuối nên được chú ý như biện pháp chống rò rỉ thông tin. イ là đặc điểm của RAID. ウ là đặc điểm của single sign-on. エ là đặc điểm của xác thực 2 yếu tố.",
+                "en": "In thin client, data doesn't remain in terminal, so noted as countermeasure against information leakage. イ is characteristic of RAID. ウ is characteristic of single sign-on. エ is characteristic of two-factor authentication."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "10-4",
+            "answer": "エ",
+            "explanation": {
+                "ja": "MTBFとMTTRを使って、稼働率を求める問題です。",
+                "vi": "Đây là câu hỏi tính tỉ lệ khả dụng sử dụng MTBF và MTTR.",
+                "en": "This is question calculating availability using MTBF and MTTR."
+            },
+            "calculation": {
+                "ja": "稼働率 = MTBF ÷ (MTBF + MTTR)\n     = 600 ÷ (600 + 12)\n     ≒ 0.98",
+                "vi": "Tỉ lệ khả dụng = MTBF ÷ (MTBF + MTTR)\n     = 600 ÷ (600 + 12)\n     ≒ 0.98",
+                "en": "Availability = MTBF ÷ (MTBF + MTTR)\n     = 600 ÷ (600 + 12)\n     ≒ 0.98"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "10-5",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "複合システムの稼働率を求める問題です。",
+                "vi": "Đây là câu hỏi tính tỉ lệ khả dụng của hệ thống kết hợp.",
+                "en": "This is question calculating combined system availability."
+            },
+            "steps": [
+                {
+                    "title": {
+                        "ja": "2台のWebサーバの稼働率",
+                        "vi": "Tỉ lệ khả dụng của 2 máy chủ Web",
+                        "en": "Availability of 2 Web servers"
+                    },
+                    "content": {
+                        "ja": "2台のWebサーバは、並列に接続されています。稼働率は、以下の式で求めます。\n並列システムの稼働率 = 1 − (1 − 装置Aの稼働率) × (1 − 装置Bの稼働率)\n\n1台のWebサーバの稼働率は0.8です。2台のWebサーバの稼働率は、以下のとおりです。\n稼働率 = 1 − (1 − 0.8) × (1 − 0.8)\n     = 1 − 0.2 × 0.2\n     = 1 − 0.04\n     = 0.96",
+                        "vi": "2 máy chủ Web kết nối song song. Tỉ lệ khả dụng được tính bằng công thức sau.\nTỉ lệ khả dụng hệ thống song song = 1 − (1 − Tỉ lệ khả dụng thiết bị A) × (1 − Tỉ lệ khả dụng thiết bị B)\n\nTỉ lệ khả dụng của 1 máy chủ Web là 0.8. Tỉ lệ khả dụng của 2 máy chủ Web như sau.\nTỉ lệ khả dụng = 1 − (1 − 0.8) × (1 − 0.8)\n     = 1 − 0.2 × 0.2\n     = 1 − 0.04\n     = 0.96",
+                        "en": "2 Web servers are connected in parallel. Availability is calculated by following formula.\nParallel system availability = 1 − (1 − Device A availability) × (1 − Device B availability)\n\nOne Web server availability is 0.8. 2 Web servers availability is as follows.\nAvailability = 1 − (1 − 0.8) × (1 − 0.8)\n     = 1 − 0.2 × 0.2\n     = 1 − 0.04\n     = 0.96"
+                    }
+                },
+                {
+                    "title": {
+                        "ja": "システム全体の稼働率",
+                        "vi": "Tỉ lệ khả dụng của toàn bộ hệ thống",
+                        "en": "Entire system availability"
+                    },
+                    "content": {
+                        "ja": "2台のWebサーバを1つのWebサーバ群として見ると、WebサーバとデータベースサーバーはL、直列に接続されています。直列システムの稼働率は、以下の式で求めます。\n直列システムの稼働率 = 装置Aの稼働率 × 装置Bの稼働率\n\n2台のWebサーバの稼働率を、先ほど求めた0.96です。また、データベースサーバの稼働率は0.9です。したがって、システム全体の稼働率は、以下のとおりです。\n稼働率 = 0.96 × 0.9\n     = 0.864",
+                        "vi": "Xem 2 máy chủ Web như một nhóm máy chủ Web, máy chủ Web và máy chủ cơ sở dữ liệu kết nối nối tiếp. Tỉ lệ khả dụng hệ thống nối tiếp được tính bằng công thức sau.\nTỉ lệ khả dụng hệ thống nối tiếp = Tỉ lệ khả dụng thiết bị A × Tỉ lệ khả dụng thiết bị B\n\nTỉ lệ khả dụng của 2 máy chủ Web là 0.96 đã tính. Và tỉ lệ khả dụng của máy chủ cơ sở dữ liệu là 0.9. Vì vậy, tỉ lệ khả dụng của toàn bộ hệ thống như sau.\nTỉ lệ khả dụng = 0.96 × 0.9\n     = 0.864",
+                        "en": "Viewing 2 Web servers as one Web server group, Web server and database server are connected in series. Series system availability is calculated by following formula.\nSeries system availability = Device A availability × Device B availability\n\n2 Web servers availability is 0.96 as calculated. Also database server availability is 0.9. Therefore, entire system availability is as follows.\nAvailability = 0.96 × 0.9\n     = 0.864"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "10-6",
+            "answer": "エ",
+            "explanation": {
+                "ja": "ベンチマークテストとは、実際にコンピュータを動作させて、処理にかかった時間などの情報を取得して性能を評価するテストです。アはブラックボックステストに関する記述です。イはホワイトボックステストに関する記述です。ウはシミュレーションに関する記述です。",
+                "vi": "Benchmark test là bài test thực sự vận hành máy tính, thu thập thông tin như thời gian xử lý và đánh giá hiệu suất. ア là mô tả về black box test. イ là mô tả về white box test. ウ là mô tả về simulation.",
+                "en": "Benchmark test is test actually operating computer, obtaining information like processing time and evaluating performance. ア is description about black box test. イ is description about white box test. ウ is description about simulation."
+            }
+        }
+    ],
+    "meta": {
+        "has_explanations": true,
+        "explanation_count": 5
+    }
+}

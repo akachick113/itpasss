@@ -1,0 +1,176 @@
+{
+  "page_id": 315,
+  "image": "p_0315.png",
+  "chapter": 8,
+  "section": "08-04",
+  "page_number": 299,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "フリーアクセスフロア",
+      "reading": "ふりーあくせすふろあ",
+      "vi": "Free Access Floor",
+      "en": "Free Access Floor"
+    },
+    {
+      "type": "paragraph",
+      "ja": "フリーアクセスフロアとは、床下にネットワーク配線などを収納するための空間を作り、その上に取り外し可能な床パネルを敷き詰めた構造です。この構造であれば、配線の変更が簡単にできるため、オフィスやデータセンターなど、頻繁に設備の入れ替えが行われる場所で使われます。",
+      "vi": "Free Access Floor là cấu trúc tạo không gian dưới sàn để chứa dây mạng, rồi lát panel sàn có thể tháo rời lên trên. Với cấu trúc này, thay đổi dây dễ dàng nên được sử dụng ở những nơi thường xuyên thay thế thiết bị như văn phòng và data center.",
+      "en": "Free Access Floor is structure that creates space under floor to store network wiring, with removable floor panels laid on top. With this structure, wiring changes are easy, so it's used in places with frequent equipment replacement like offices and data centers.",
+      "terms": [
+        {
+          "kanji": "床下",
+          "reading": "ゆかした"
+        },
+        {
+          "kanji": "配線",
+          "reading": "はいせん"
+        },
+        {
+          "kanji": "収納",
+          "reading": "しゅうのう"
+        },
+        {
+          "kanji": "空間",
+          "reading": "くうかん"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "外",
+          "reading": "そと"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "床",
+          "reading": "とこ"
+        },
+        {
+          "kanji": "敷",
+          "reading": "しき"
+        },
+        {
+          "kanji": "詰",
+          "reading": "つめ"
+        },
+        {
+          "kanji": "構造",
+          "reading": "こうぞう"
+        },
+        {
+          "kanji": "変更",
+          "reading": "へんこう"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "頻繁",
+          "reading": "ひんぱん"
+        },
+        {
+          "kanji": "設備",
+          "reading": "せつび"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "替",
+          "reading": "かえ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "フリーアクセスフロアのイメージ",
+        "vi": "Hình ảnh Free Access Floor",
+        "en": "Free Access Floor Image"
+      },
+      "description": {
+        "ja": "床パネルの下にネットワーク配線が収納されている構造図",
+        "vi": "Sơ đồ cấu trúc dây mạng được chứa dưới panel sàn",
+        "en": "Structural diagram with network wiring stored under floor panels"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ファシリティマネジメントとは、建物や設備の保有や運用、維持などを最適化する手法である",
+          "vi": "Facility Management là phương pháp tối ưu hóa việc sở hữu, vận hành và bảo trì tòa nhà và thiết bị",
+          "en": "Facility Management is method to optimize ownership, operation, and maintenance of buildings and facilities"
+        },
+        {
+          "ja": "UPS（無停電電源装置）とは、一時的に電力を供給する装置である",
+          "vi": "UPS (Nguồn điện liên tục) là thiết bị cung cấp điện tạm thời",
+          "en": "UPS (Uninterruptible Power Supply) is device that temporarily supplies power"
+        },
+        {
+          "ja": "自家発電装置とは、長時間、システムに電力を供給するための装置",
+          "vi": "Máy phát điện dự phòng là thiết bị cung cấp điện cho hệ thống trong thời gian dài",
+          "en": "Backup Generator is device that supplies power to system for long time"
+        },
+        {
+          "ja": "フリーアクセスフロアとは、取り外し可能な床パネルを敷き詰めた構造",
+          "vi": "Free Access Floor là cấu trúc lát panel sàn có thể tháo rời",
+          "en": "Free Access Floor is structure with removable floor panels laid out"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "フリーアクセスフロア",
+      "reading": "ふりーあくせすふろあ",
+      "romaji": "Free Access Floor",
+      "vi": "Sàn truy cập tự do",
+      "en": "Free Access Floor",
+      "my": "ဖရီး အက်ဆက်စ် ကြမ်းပြင်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

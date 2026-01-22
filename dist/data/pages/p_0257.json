@@ -1,0 +1,378 @@
+{
+  "page_id": 257,
+  "image": "p_0257.png",
+  "chapter": 6,
+  "section": "06-05",
+  "page_number": 241,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "その点、ブラックボックステストであれば、中身を考慮することなく、「システム要件定義書どおりに動作するか」を検証するため、仕様に起因する不具合は見つけられます。反面、中身を考慮しないため、すべてのケースを検証したかどうかは保証できません。",
+      "vi": "Về điểm đó, với Black Box Test, vì xác minh \"có hoạt động đúng theo Tài liệu định nghĩa yêu cầu hệ thống không\" mà không xem xét bên trong, nên có thể tìm được lỗi do thông số gây ra. Ngược lại, vì không xem xét bên trong, không thể đảm bảo đã xác minh tất cả các trường hợp.",
+      "en": "On that point, with Black Box Test, since it verifies 'if it works according to System Requirements Definition Document' without considering the inside, bugs caused by specifications can be found. Conversely, since the inside isn't considered, it can't be guaranteed that all cases were verified.",
+      "terms": [
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "中身",
+          "reading": "なかみ"
+        },
+        {
+          "kanji": "考慮",
+          "reading": "こうりょ"
+        },
+        {
+          "kanji": "要件定義書",
+          "reading": "ようけんていぎかき"
+        },
+        {
+          "kanji": "動作",
+          "reading": "どうさ"
+        },
+        {
+          "kanji": "検証",
+          "reading": "けんしょう"
+        },
+        {
+          "kanji": "仕様",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "起因",
+          "reading": "きいん"
+        },
+        {
+          "kanji": "不具合",
+          "reading": "ふぐあい"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "反面",
+          "reading": "はんめん"
+        },
+        {
+          "kanji": "保証",
+          "reading": "ほしょう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ホワイトボックステストとは、内部構造を分析して行うテスト",
+          "vi": "White Box Test là kiểm thử thực hiện bằng cách phân tích cấu trúc bên trong",
+          "en": "White Box Test is testing done by analyzing internal structure"
+        },
+        {
+          "ja": "ブラックボックステストとは、内部構造を考慮せず、システム要件定義書どおりに動作するかを確認するテスト",
+          "vi": "Black Box Test là kiểm thử xác nhận có hoạt động đúng theo Tài liệu định nghĩa yêu cầu hệ thống không mà không xem xét cấu trúc bên trong",
+          "en": "Black Box Test is testing that confirms if it works according to System Requirements Definition Document without considering internal structure"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "テスト関連のその他の重要用語",
+        "vi": "Thuật ngữ quan trọng khác liên quan đến kiểm thử",
+        "en": "Other Important Testing-Related Terms"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "term": {
+            "ja": "バグ",
+            "vi": "Bug",
+            "en": "Bug"
+          },
+          "explanation": {
+            "ja": "プログラム上の誤りや不具合のこと。",
+            "vi": "Lỗi hoặc sự cố trong chương trình.",
+            "en": "Errors or defects in programs."
+          }
+        },
+        {
+          "term": {
+            "ja": "デバッグ",
+            "vi": "Debug",
+            "en": "Debug"
+          },
+          "explanation": {
+            "ja": "プログラム上の誤りや不具合を修正する作業。",
+            "vi": "Công việc sửa lỗi hoặc sự cố trong chương trình.",
+            "en": "Work to fix errors or defects in programs."
+          }
+        },
+        {
+          "term": {
+            "ja": "コードレビュー",
+            "vi": "Code Review",
+            "en": "Code Review"
+          },
+          "explanation": {
+            "ja": "ソースコードをレビューすること。",
+            "vi": "Review source code.",
+            "en": "Reviewing source code."
+          }
+        },
+        {
+          "term": {
+            "ja": "回帰テスト（リグレッションテスト）",
+            "vi": "Regression Test (Kiểm thử hồi quy)",
+            "en": "Regression Test"
+          },
+          "explanation": {
+            "ja": "システムに修正や機能追加をしたために、別のところで新しいバグが出ていないか確認するテスト。",
+            "vi": "Kiểm thử xác nhận không có bug mới xuất hiện ở chỗ khác do sửa đổi hoặc thêm chức năng vào hệ thống.",
+            "en": "Test to confirm new bugs don't appear elsewhere due to system modifications or feature additions."
+          }
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ソフトウェア受入れ",
+      "reading": "そふとうぇあうけいれ",
+      "vi": "Nghiệm thu phần mềm",
+      "en": "Software Acceptance",
+      "note": {
+        "ja": "よく出題されるので覚えておこう！",
+        "vi": "Thường ra đề nên hãy nhớ!",
+        "en": "Often appears on exams so remember!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "テストが完了したらいよいよ開発プロセスも終盤です。開発プロセスの最後の工程は「ソフトウェア受入れ」です。ソフトウェア受入れではソフトウェア導入とソフトウェア受入れ支援を行います。",
+      "vi": "Khi kiểm thử hoàn thành thì cuối cùng quy trình phát triển cũng đến giai đoạn cuối. Công đoạn cuối của quy trình phát triển là \"Nghiệm thu phần mềm\". Trong nghiệm thu phần mềm thực hiện Triển khai phần mềm và Hỗ trợ nghiệm thu phần mềm.",
+      "en": "When testing is complete, the development process finally reaches its final stage. The last phase of development process is 'Software Acceptance.' Software Acceptance performs Software Deployment and Software Acceptance Support.",
+      "terms": [
+        {
+          "kanji": "完了",
+          "reading": "かんりょう"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "終盤",
+          "reading": "しゅうばん"
+        },
+        {
+          "kanji": "最後",
+          "reading": "さいご"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "受入",
+          "reading": "うけいれ"
+        },
+        {
+          "kanji": "導入",
+          "reading": "どうにゅう"
+        },
+        {
+          "kanji": "支援",
+          "reading": "しえん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ソフトウェア受入れとは",
+      "reading": "そふとうぇあうけいれとは",
+      "vi": "Nghiệm thu phần mềm là gì",
+      "en": "What is Software Acceptance"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ソフトウェア受入れとは、開発者が作成したソフトウェアを発注者に納品する工程です。これまでの工程の主人公は開発者でしたが、この工程の主人公は発注者（利用者）になります。",
+      "vi": "Nghiệm thu phần mềm là công đoạn giao phần mềm mà nhà phát triển đã tạo cho bên đặt hàng. Nhân vật chính của các công đoạn trước là nhà phát triển, nhưng nhân vật chính của công đoạn này là bên đặt hàng (người sử dụng).",
+      "en": "Software Acceptance is the phase to deliver software created by developers to the ordering party. The protagonist of previous phases was the developer, but the protagonist of this phase is the ordering party (user).",
+      "terms": [
+        {
+          "kanji": "受入",
+          "reading": "うけいれ"
+        },
+        {
+          "kanji": "開発者",
+          "reading": "かいはつしゃ"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "発注者",
+          "reading": "はっちゅうもの"
+        },
+        {
+          "kanji": "納品",
+          "reading": "のうひん"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "主人公",
+          "reading": "しゅじんこう"
+        },
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ソフトウェア導入",
+      "reading": "そふとうぇあどうにゅう",
+      "vi": "Triển khai phần mềm",
+      "en": "Software Deployment"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ソフトウェア導入とは、発注者側の本番環境にソフトウェアをインストールする工程です。新しいシステムとして新規に環境を構築する場合もあれば、現在運用しているシステムを、新しいシステムに切り替える場合もあります。現行システムを新システムに切り替えることを「移行」といいます。",
+      "vi": "Triển khai phần mềm là công đoạn cài đặt phần mềm vào môi trường thực tế của bên đặt hàng. Có trường hợp xây dựng môi trường mới như hệ thống mới, cũng có trường hợp chuyển hệ thống đang vận hành sang hệ thống mới. Việc chuyển hệ thống hiện hành sang hệ thống mới gọi là \"migration\".",
+      "en": "Software Deployment is the phase to install software in the ordering party's production environment. There are cases of building a new environment as a new system, and cases of switching the currently operating system to a new system. Switching from current system to new system is called 'Migration.'",
+      "terms": [
+        {
+          "kanji": "導入",
+          "reading": "どうにゅう"
+        },
+        {
+          "kanji": "発注者側",
+          "reading": "はっちゅうものがわ"
+        },
+        {
+          "kanji": "本番環境",
+          "reading": "ほんばんかんきょう"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "新",
+          "reading": "あたら"
+        },
+        {
+          "kanji": "新規",
+          "reading": "しんき"
+        },
+        {
+          "kanji": "環境",
+          "reading": "かんきょう"
+        },
+        {
+          "kanji": "構築",
+          "reading": "こうちく"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "現在運用",
+          "reading": "げんざいうんよう"
+        },
+        {
+          "kanji": "切",
+          "reading": "せつ"
+        },
+        {
+          "kanji": "替",
+          "reading": "かえ"
+        },
+        {
+          "kanji": "現行",
+          "reading": "げんこう"
+        },
+        {
+          "kanji": "移行",
+          "reading": "いこう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "バグ",
+      "reading": "ばぐ",
+      "romaji": "Bug",
+      "vi": "Lỗi",
+      "en": "Bug",
+      "my": "ဘက်"
+    },
+    {
+      "kanji": "デバッグ",
+      "reading": "でばっぐ",
+      "romaji": "Debug",
+      "vi": "Gỡ lỗi",
+      "en": "Debug",
+      "my": "ဒီဘက်"
+    },
+    {
+      "kanji": "回帰テスト",
+      "reading": "かいきてすと",
+      "romaji": "Kaiki Test",
+      "vi": "Kiểm thử hồi quy",
+      "en": "Regression Test",
+      "my": "ရိဂရင်းရှင်း စမ်းသပ်ချက်"
+    },
+    {
+      "kanji": "移行",
+      "reading": "いこう",
+      "romaji": "Ikou",
+      "vi": "Di chuyển/Migration",
+      "en": "Migration",
+      "my": "ပြောင်းခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true
+  }
+}

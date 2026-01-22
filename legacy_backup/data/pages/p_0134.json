@@ -1,0 +1,407 @@
+{
+  "page_id": 134,
+  "image": "p_0134.png",
+  "chapter": 3,
+  "section": "03-04",
+  "page_number": 118,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "経営管理システム",
+      "reading": "けいえいかんりしすてむ",
+      "vi": "Hệ thống quản lý kinh doanh",
+      "en": "Management System",
+      "my": "စီမံခန့်ခွဲမှုစနစ်"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、企業を経営していくうえで欠かすことのできないさまざまな「システム」を解説します。ITパスポート試験では断トツで「CRM」の出題頻度が高く、次いで「ERP」「SCM」の2つの用語がよく出題されます。これらについては、概要だけでなく、その特徴や他の用語との関連も頭に入れておいてください。",
+      "vi": "Từ đây sẽ giải thích các Hệ thống không thể thiếu trong kinh doanh. Trong IT Passport, CRM có tần suất ra đề cao nhất, tiếp theo là ERP và SCM. Về các thuật ngữ này, hãy nhớ không chỉ tổng quan mà còn đặc điểm và mối liên hệ với các thuật ngữ khác.",
+      "en": "From here, we'll explain various Systems essential for business management. In IT Passport, CRM is tested most frequently, followed by ERP and SCM. For these, remember not only overviews but also characteristics and relationships with other terms.",
+      "my": "ဤနေရာမှစ၍ စီးပွားရေး စီမံခန့်ခွဲမှုအတွက် မရှိမဖြစ်လိုအပ်သော System အမျိုးမျိုးကို ရှင်းပြပါမည်။",
+      "terms": [
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "欠",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "断",
+          "reading": "だん"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "概要",
+          "reading": "がいよう"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "kanji": "頭",
+          "reading": "あたま"
+        },
+        {
+          "kanji": "入",
+          "reading": "にゅう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験では「一元管理の4兄弟（4用語）」がほぼ確実に登場します。詳しくは後述するので、まずは次の4つのシステムを頭の片隅に置いておいてください。\n\n・ERP：社内の経営資源を一元管理\n・SCM：社外も含めて製品情報を一元管理\n・SFA：営業ノウハウを一元管理\n・CRM：顧客情報を一元管理\n\nこれら4つのシステムは管理する情報が重なる部分も多いのですが、だからこそ、差異を把握しておけば得点につなげることができます。",
+        "vi": "Trong IT Passport, 4 anh em quản lý tập trung (4 thuật ngữ) gần như chắc chắn xuất hiện. Chi tiết sẽ nói sau, trước hết hãy ghi nhớ 4 hệ thống này:\n\n・ERP: Quản lý tập trung nguồn lực kinh doanh trong công ty\n・SCM: Quản lý tập trung thông tin sản phẩm bao gồm cả bên ngoài\n・SFA: Quản lý tập trung know-how bán hàng\n・CRM: Quản lý tập trung thông tin khách hàng\n\n4 hệ thống này có nhiều phần thông tin quản lý chồng chéo, nhưng vì thế nếu nắm được sự khác biệt sẽ ghi được điểm.",
+        "en": "In IT Passport, the 4 unified management siblings (4 terms) almost certainly appear. Details later, but first remember these 4 systems:\n\n・ERP: Unified management of internal business resources\n・SCM: Unified management of product info including external\n・SFA: Unified management of sales know-how\n・CRM: Unified management of customer information\n\nThese 4 systems have overlapping information, but understanding differences leads to scoring points.",
+        "my": "IT Passport တွင် unified management siblings ၄ ခု (ဝေါဟာရ ၄ ခု) သည် သေချာပေါက် ပေါ်လာသည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "一元管理",
+            "reading": "いちげんかんり"
+          },
+          {
+            "kanji": "兄弟",
+            "reading": "きょうだい"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          },
+          {
+            "kanji": "確実",
+            "reading": "かくじつ"
+          },
+          {
+            "kanji": "登場",
+            "reading": "とうじょう"
+          },
+          {
+            "kanji": "詳",
+            "reading": "しょう"
+          },
+          {
+            "kanji": "後述",
+            "reading": "こうじゅつ"
+          },
+          {
+            "kanji": "次",
+            "reading": "つぎ"
+          },
+          {
+            "kanji": "頭",
+            "reading": "あたま"
+          },
+          {
+            "kanji": "片隅",
+            "reading": "かたすみ"
+          },
+          {
+            "kanji": "置",
+            "reading": "ち"
+          },
+          {
+            "kanji": "社内",
+            "reading": "しゃない"
+          },
+          {
+            "kanji": "経営資源",
+            "reading": "けいえいしげん"
+          },
+          {
+            "kanji": "社外",
+            "reading": "しゃがい"
+          },
+          {
+            "kanji": "含",
+            "reading": "がん"
+          },
+          {
+            "kanji": "製品情報",
+            "reading": "せいひんじょうほう"
+          },
+          {
+            "kanji": "営業",
+            "reading": "えいぎょう"
+          },
+          {
+            "kanji": "顧客情報",
+            "reading": "こきゃくじょうほう"
+          },
+          {
+            "kanji": "管理",
+            "reading": "かんり"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "重",
+            "reading": "じゅう"
+          },
+          {
+            "kanji": "部分",
+            "reading": "ぶぶん"
+          },
+          {
+            "kanji": "多",
+            "reading": "た"
+          },
+          {
+            "kanji": "差異",
+            "reading": "さい"
+          },
+          {
+            "kanji": "把握",
+            "reading": "はあく"
+          },
+          {
+            "kanji": "得点",
+            "reading": "とくてん"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ERP",
+      "reading": "いーあーるぴー",
+      "vi": "ERP",
+      "en": "ERP",
+      "my": "ERP"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ERP（Enterprise Resource Planning：企業資源計画）とは、経営資源（ヒト、モノ、カネ、情報）を統合的に管理する手法です。次ページの図を見てください。左はERPを導入していない組織、右はERPを導入している組織です。\n\n左の組織では、各部署が個別に情報を持っているため、経営者がある情報を知ろうとした場合に、どの部署に聞けば良いのかわかりません。\n\nERPでは、各部署が個別に持っていた情報を一元管理します。こうすることで、どの部署でも同じ情報を参照・活用することができます。経営者も正しい情報を常に同じところから確認できるようになります。\n\nERPの目的は各部署や各業務を統合的に管理することです。ERPを導入して情報を一元化すれば、縦割りになっていた業務を統合管理できます。",
+      "vi": "ERP (Enterprise Resource Planning: Kế hoạch nguồn lực doanh nghiệp) là phương pháp quản lý tích hợp nguồn lực kinh doanh (Người, Vật, Tiền, Thông tin). Xem hình trang sau. Bên trái là tổ chức chưa áp dụng ERP, bên phải là tổ chức đã áp dụng ERP.\n\nTrong tổ chức bên trái, mỗi bộ phận có thông tin riêng nên khi người quản lý muốn biết thông tin nào đó thì không biết hỏi bộ phận nào.\n\nERP quản lý tập trung thông tin từng bộ phận nắm giữ riêng. Như vậy, bất kỳ bộ phận nào cũng có thể tham chiếu và sử dụng cùng thông tin. Người quản lý cũng có thể xác nhận thông tin chính xác từ cùng một nơi.\n\nMục đích của ERP là quản lý tích hợp các bộ phận và nghiệp vụ. Nếu áp dụng ERP và tập trung thông tin, có thể quản lý tích hợp các nghiệp vụ đã bị phân chia.",
+      "en": "ERP (Enterprise Resource Planning) is a method to manage business resources (People, Goods, Money, Information) in an integrated manner. See the next page's figure. Left is an organization without ERP, right has ERP.\n\nIn the left organization, each department has its own information, so when managers want to know something, they don't know which department to ask.\n\nERP centrally manages information each department held separately. This way, any department can reference and use the same information. Managers can always confirm correct information from the same place.\n\nERP's purpose is integrated management of departments and operations. Implementing ERP centralizes information and enables integrated management of siloed operations.",
+      "my": "ERP (Enterprise Resource Planning) သည် စီးပွားရေးအရင်းအမြစ်များကို (လူများ၊ ကုန်ပစ္စည်းများ၊ ငွေကြေး၊ အချက်အလက်) ပေါင်းစပ်နည်းဖြင့် စီမံခန့်ခွဲရန် နည်းလမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "企業資源計画",
+          "reading": "きぎょうしげんけいかく"
+        },
+        {
+          "kanji": "経営資源",
+          "reading": "けいえいしげん"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "統合的",
+          "reading": "とうごうてき"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "左",
+          "reading": "ひだり"
+        },
+        {
+          "kanji": "導入",
+          "reading": "どうにゅう"
+        },
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        },
+        {
+          "kanji": "右",
+          "reading": "みぎ"
+        },
+        {
+          "kanji": "各部署",
+          "reading": "かくぶしょ"
+        },
+        {
+          "kanji": "個別",
+          "reading": "こべつ"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "経営者",
+          "reading": "けいえいしゃ"
+        },
+        {
+          "kanji": "知",
+          "reading": "ち"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "部署",
+          "reading": "ぶしょ"
+        },
+        {
+          "kanji": "聞",
+          "reading": "ぶん"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "一元管理",
+          "reading": "いちげんかんり"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        },
+        {
+          "kanji": "活用",
+          "reading": "かつよう"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "各業務",
+          "reading": "かくぎょうつとむ"
+        },
+        {
+          "kanji": "一元化",
+          "reading": "いちげんか"
+        },
+        {
+          "kanji": "縦割",
+          "reading": "たてわり"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "統合管理",
+          "reading": "とうごうかんり"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ERP",
+      "reading": "いーあーるぴー",
+      "romaji": "ERP",
+      "vi": "Kế hoạch nguồn lực doanh nghiệp",
+      "en": "Enterprise Resource Planning",
+      "my": "ERP"
+    },
+    {
+      "kanji": "一元管理",
+      "reading": "いちげんかんり",
+      "romaji": "Ichigen Kanri",
+      "vi": "Quản lý tập trung",
+      "en": "Unified Management",
+      "my": "ပေါင်းစည်စီမံခန့်ခွဲမှု"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

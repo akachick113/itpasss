@@ -1,0 +1,121 @@
+{
+    "page_id": 329,
+    "image": "p_0329.png",
+    "chapter": 8,
+    "section": "answers",
+    "page_number": 313,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "8-13",
+            "correct_answer": "ウ",
+            "explanation": {
+                "ja": "「一時的」というキーワードからUPS（無停電電源装置）の説明であると判断できます。イとエは「長時間」というキーワードからUPSではないと判断できます。",
+                "vi": "Từ từ khóa \"tạm thời\" có thể phán đoán đây là giải thích về UPS (Nguồn điện liên tục). イ và エ có thể phán đoán không phải UPS từ từ khóa \"thời gian dài\".",
+                "en": "From keyword 'temporary,' can determine this is UPS explanation. イ and エ can be determined as not UPS from keyword 'long time.'"
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "モバイルバッテリの説明です。",
+                    "vi": "Là giải thích về pin di động.",
+                    "en": "This is mobile battery explanation."
+                },
+                "イ": {
+                    "ja": "自家発電装置の説明です。",
+                    "vi": "Là giải thích về máy phát điện dự phòng.",
+                    "en": "This is backup generator explanation."
+                },
+                "エ": {
+                    "ja": "バッテリ全般の説明です。",
+                    "vi": "Là giải thích về pin nói chung.",
+                    "en": "This is general battery explanation."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-14",
+            "correct_answer": "ア",
+            "explanation": {
+                "ja": "床下にネットワーク配線などを収納するための空間を作り、その上に取り外し可能な床パネルを敷き詰めた構造を、フリーアクセスフロアといいます。",
+                "vi": "Cấu trúc tạo không gian dưới sàn để chứa dây mạng, rồi lát panel sàn có thể tháo rời lên trên được gọi là Free Access Floor.",
+                "en": "Structure creating space under floor to store network wiring and laying removable floor panels on top is called Free Access Floor."
+            },
+            "choices_explanation": {
+                "イ": {
+                    "ja": "フリーアドレスは、社員が特定の席を持たず、自由に席を選んで働くオフィス形態です。",
+                    "vi": "Free Address là hình thức văn phòng mà nhân viên không có chỗ ngồi cố định, tự do chọn chỗ làm việc.",
+                    "en": "Free Address is office style where employees don't have fixed seats, freely choosing where to work."
+                },
+                "ウ": {
+                    "ja": "フリースペースは、会議や雑談など自由に使える共有空間です。",
+                    "vi": "Free Space là không gian chung có thể sử dụng tự do cho họp hoặc trò chuyện.",
+                    "en": "Free Space is shared space usable freely for meetings or chatting."
+                },
+                "エ": {
+                    "ja": "フリースポットは、公衆無線LANなどの無料インターネット接続が可能な場所です。",
+                    "vi": "Free Spot là nơi có thể kết nối Internet miễn phí như LAN không dây công cộng.",
+                    "en": "Free Spot is place where free Internet connection like public wireless LAN is available."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-15",
+            "correct_answer": "ウ",
+            "explanation": {
+                "ja": "「リスクに適切に対応しているか」という記述から、選択肢ウが正解であると判断できます。",
+                "vi": "Từ mô tả \"có ứng phó thích hợp với Risk không\", có thể phán đoán lựa chọn ウ là đáp án đúng.",
+                "en": "From description 'whether appropriately responding to Risks,' can determine choice ウ is correct."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "システム要件定義の目的です。",
+                    "vi": "Là mục đích của định nghĩa yêu cầu hệ thống.",
+                    "en": "This is system requirements definition purpose."
+                },
+                "イ": {
+                    "ja": "ファシリティマネジメントの目的です。",
+                    "vi": "Là mục đích của Facility Management.",
+                    "en": "This is Facility Management purpose."
+                },
+                "エ": {
+                    "ja": "プロジェクトマネジメントの目的です。",
+                    "vi": "Là mục đích của Project Management.",
+                    "en": "This is Project Management purpose."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-16",
+            "correct_answer": "エ",
+            "explanation": {
+                "ja": "システム監査において最も重要な原則の1つは「独立性」です。監査を行う者が監査対象の業務に直接関与していないことが求められます。つまり、開発者や運用者、利用者など当事者ではない立場の者が監査を行うことで、公平で客観的な評価が可能になります。",
+                "vi": "Một trong những nguyên tắc quan trọng nhất trong System Audit là \"Độc lập\". Yêu cầu người thực hiện audit không tham gia trực tiếp vào nghiệp vụ đối tượng audit. Nghĩa là, đánh giá công bằng và khách quan có thể thực hiện khi người không phải là bên liên quan như developer, operator, user thực hiện audit.",
+                "en": "One of most important principles in System Audit is 'Independence.' Required that person auditing isn't directly involved in audited operations. That is, fair and objective evaluation becomes possible when audit is done by non-stakeholders like developers, operators, users."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "運用担当者はシステムの管理当事者であり、監査の独立性を確保できません。",
+                    "vi": "Người phụ trách vận hành là bên quản lý hệ thống, không thể đảm bảo tính độc lập trong audit.",
+                    "en": "Operation staff is system management party, cannot ensure audit independence."
+                },
+                "イ": {
+                    "ja": "開発を担当した委託会社の従業員も当事者であり、客観的な監査は困難です。",
+                    "vi": "Nhân viên công ty ủy thác đã phát triển cũng là bên liên quan, audit khách quan là khó khăn.",
+                    "en": "Employee of outsourcing company that developed is also stakeholder, objective audit is difficult."
+                },
+                "ウ": {
+                    "ja": "経理担当者はシステムの利用者であり、これも監査の独立性を欠く立場です。",
+                    "vi": "Người phụ trách kế toán là người sử dụng hệ thống, đây cũng là lập trường thiếu tính độc lập trong audit.",
+                    "en": "Accounting staff is system user, this also lacks audit independence position."
+                }
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 4
+    }
+}

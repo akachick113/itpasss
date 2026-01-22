@@ -1,0 +1,350 @@
+{
+  "page_id": 334,
+  "image": "p_0334.png",
+  "chapter": 9,
+  "section": "09-01",
+  "page_number": 318,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "基数",
+      "reading": "きすう",
+      "vi": "Cơ số",
+      "en": "Radix"
+    },
+    {
+      "type": "paragraph",
+      "ja": "基数とは、桁上がりの基準となる数です。10進数は10になるときに桁が上がるので、10進数の基数は「10」です。同様に、2進数の基数は「2」、16進数の基数は「16」です。",
+      "vi": "Cơ số là số làm chuẩn tăng chữ số. Số thập phân tăng chữ số khi đạt 10 nên cơ số của số thập phân là \"10\". Tương tự, cơ số của số nhị phân là \"2\", cơ số của số thập lục phân là \"16\".",
+      "en": "Radix is number that becomes basis for digit increase. Decimal increases digit at 10, so decimal's radix is '10.' Similarly, binary's radix is '2,' hexadecimal's radix is '16.'",
+      "terms": [
+        {
+          "kanji": "基数",
+          "reading": "きすう"
+        },
+        {
+          "kanji": "桁上",
+          "reading": "けたうえ"
+        },
+        {
+          "kanji": "基準",
+          "reading": "きじゅん"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "桁",
+          "reading": "けた"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、どの表記法であっても、表記が異なるだけで本質的に表している値は同じです。そのため、右の表のように相互に変換できます。この変換のことを「基数変換」といいます。",
+      "vi": "Ngoài ra, dù là ký pháp nào, chỉ khác cách viết nhưng giá trị bản chất đang biểu diễn là giống nhau. Do đó, có thể chuyển đổi qua lại như bảng bên phải. Việc chuyển đổi này gọi là \"Chuyển đổi cơ số\".",
+      "en": "Also, whichever notation, only representation differs but essentially represented value is same. So can convert mutually as in right table. This conversion is called 'Radix Conversion.'",
+      "terms": [
+        {
+          "kanji": "表記法",
+          "reading": "ひょうきほう"
+        },
+        {
+          "kanji": "表記",
+          "reading": "ひょうき"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "本質的",
+          "reading": "ほんしつてき"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "右",
+          "reading": "みぎ"
+        },
+        {
+          "kanji": "相互",
+          "reading": "そうご"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "基数変換",
+          "reading": "きすうへんかん"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "数値の対応表",
+        "vi": "Bảng đối chiếu số",
+        "en": "Number Correspondence Table"
+      },
+      "headers": {
+        "ja": [
+          "2進数",
+          "10進数",
+          "16進数"
+        ],
+        "vi": [
+          "Nhị phân",
+          "Thập phân",
+          "Thập lục phân"
+        ],
+        "en": [
+          "Binary",
+          "Decimal",
+          "Hexadecimal"
+        ]
+      },
+      "rows": [
+        [
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "10",
+          "2",
+          "2"
+        ],
+        [
+          "11",
+          "3",
+          "3"
+        ],
+        [
+          "100",
+          "4",
+          "4"
+        ],
+        [
+          "101",
+          "5",
+          "5"
+        ],
+        [
+          "110",
+          "6",
+          "6"
+        ],
+        [
+          "111",
+          "7",
+          "7"
+        ],
+        [
+          "1000",
+          "8",
+          "8"
+        ],
+        [
+          "1001",
+          "9",
+          "9"
+        ],
+        [
+          "1010",
+          "10",
+          "A"
+        ],
+        [
+          "1011",
+          "11",
+          "B"
+        ],
+        [
+          "1100",
+          "12",
+          "C"
+        ],
+        [
+          "1101",
+          "13",
+          "D"
+        ],
+        [
+          "1110",
+          "14",
+          "E"
+        ],
+        [
+          "1111",
+          "15",
+          "F"
+        ],
+        [
+          "10000",
+          "16",
+          "10"
+        ]
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "基数変換",
+        "vi": "Chuyển đổi cơ số",
+        "en": "Radix Conversion"
+      },
+      "content": {
+        "ja": "1011（2進数）⇔ 11（10進数）：基数変換",
+        "vi": "1011 (Nhị phân) ⇔ 11 (Thập phân): Chuyển đổi cơ số",
+        "en": "1011 (Binary) ⇔ 11 (Decimal): Radix Conversion"
+      }
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "数字の読み方",
+        "vi": "Cách đọc số",
+        "en": "How to Read Numbers",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "10進数の「10」は「じゅう」と読みますが、2進数の「10」は「いちぜろ」と読みます。ただし表記は同じなので、何進数表記なのかを記述する必要があります。2進数の値は（10）₂のように表記します。同様に10進数の値は（10）₁₀と表記します。",
+        "vi": "\"10\" của số thập phân đọc là \"mười\", nhưng \"10\" của số nhị phân đọc là \"một không\". Tuy nhiên vì cách viết giống nhau nên cần ghi rõ là ký pháp hệ mấy. Giá trị nhị phân được viết là (10)₂. Tương tự giá trị thập phân được viết là (10)₁₀.",
+        "en": "'10' in decimal is read as 'ten,' but '10' in binary is read as 'one-zero.' However since notation is same, need to specify which base notation. Binary value is written as (10)₂. Similarly decimal value is written as (10)₁₀."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "基数変換の方法",
+      "reading": "きすうへんかんのほうほう",
+      "vi": "Phương pháp chuyển đổi cơ số",
+      "en": "Radix Conversion Method",
+      "note": "重要！よく出る！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のように、数値の対応表があれば簡単に基数変換できますが、対応表がない場合は計算しなければなりません。ITパスポート試験では、10進数を2進数に変換したり、16進数を10進数に変換する問題がよく出題されます。",
+      "vi": "Như trên, nếu có bảng đối chiếu số thì có thể chuyển đổi cơ số dễ dàng, nhưng nếu không có bảng thì phải tính toán. Trong kỳ thi IT Passport, các bài toán chuyển đổi số thập phân sang số nhị phân hoặc số thập lục phân sang số thập phân thường được ra đề.",
+      "en": "As above, with number correspondence table radix conversion is easy, but without table must calculate. In IT Passport exam, questions converting decimal to binary or hexadecimal to decimal are often tested.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "数値",
+          "reading": "すうち"
+        },
+        {
+          "kanji": "対応表",
+          "reading": "たいおうひょう"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "基数変換",
+          "reading": "きすうへんかん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "「捨てる」のもアリ！",
+        "vi": "\"Bỏ qua\" cũng được!",
+        "en": "Skipping is Also OK!",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "基数変換はITパスポート試験によく出題されるのですが、計算が苦手な人も最初から諦めるのではなく、まずは一度チャレンジしてみてください。ただし、どうしても無理な場合はこの項目を「捨てる」のもアリです。難しいと感じたらとりあえずスキップして先に進みましょう。あきらめのやる気の方が大切です。ITパスポート試験は、全問正解しなくても合格できる試験です。",
+        "vi": "Chuyển đổi cơ số thường ra trong kỳ thi IT Passport, nhưng dù không giỏi tính toán đừng từ bỏ ngay từ đầu, hãy thử thách một lần. Tuy nhiên, nếu thực sự không thể thì \"bỏ qua\" mục này cũng được. Nếu thấy khó thì cứ skip và tiến lên. Tinh thần không bỏ cuộc quan trọng hơn. Kỳ thi IT Passport có thể đậu mà không cần trả lời đúng hết.",
+        "en": "Radix conversion appears often in IT Passport exam, but even if not good at calculation, don't give up from start - try once first. However, if really impossible, 'skipping' this topic is OK. If feels difficult, skip for now and proceed. Spirit of not giving up is more important. IT Passport exam can pass without answering all correctly."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "基数",
+      "reading": "きすう",
+      "romaji": "Kisuu",
+      "vi": "Cơ số",
+      "en": "Radix/Base",
+      "my": "အခြေခံကိန်း"
+    },
+    {
+      "kanji": "基数変換",
+      "reading": "きすうへんかん",
+      "romaji": "Kisuu Henkan",
+      "vi": "Chuyển đổi cơ số",
+      "en": "Radix Conversion",
+      "my": "အခြေခံ ပြောင်းလဲခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

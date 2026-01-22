@@ -1,0 +1,248 @@
+{
+  "page_id": 287,
+  "image": "p_0287.png",
+  "chapter": 7,
+  "section": "07-05",
+  "page_number": 271,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "07-05",
+      "title": {
+        "ja": "プロジェクトリスクマネジメント",
+        "vi": "Quản lý rủi ro dự án",
+        "en": "Project Risk Management"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "石橋を叩いて渡る",
+        "vi": "Gõ cầu đá rồi mới qua",
+        "en": "Knock on Stone Bridge Before Crossing"
+      },
+      "content": {
+        "ja": "システム開発において、リスク管理は非常に重要です。何も発生しないに越したことはありませんが、だからといって無策で良いわけではありません。",
+        "vi": "Trong phát triển hệ thống, quản lý rủi ro rất quan trọng. Không có gì xảy ra là tốt nhất, nhưng không có nghĩa là không cần chuẩn bị gì.",
+        "en": "In system development, risk management is very important. Nothing happening is best, but that doesn't mean being unprepared is okay."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここでは、PMBOKの10の知識エリア（p.262）のうちの1つである「プロジェクトリスクマネジメント」について、具体的にそのマネジメント方法を解説します。",
+      "vi": "Ở đây, sẽ giải thích cụ thể phương pháp quản lý \"Project Risk Management\" - một trong 10 Knowledge Area của PMBOK (trang 262).",
+      "en": "Here, we'll explain specifically the management method of 'Project Risk Management,' one of PMBOK's 10 Knowledge Areas (p.262).",
+      "terms": [
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "4つの対応策",
+      "reading": "よっつのたいおうさく",
+      "vi": "4 chiến lược đối phó",
+      "en": "4 Response Strategies"
+    },
+    {
+      "type": "paragraph",
+      "ja": "プロジェクトリスクマネジメントでは、リスクの対策案を管理し、問題が発生した場合は対応します。対応策は大きく次の4つに分類できます。",
+      "vi": "Trong Project Risk Management, quản lý phương án đối phó rủi ro và xử lý khi có vấn đề phát sinh. Chiến lược đối phó có thể phân loại thành 4 loại lớn sau.",
+      "en": "In Project Risk Management, manage risk countermeasures and respond when problems occur. Response strategies can be broadly classified into 4 categories.",
+      "terms": [
+        {
+          "kanji": "対策案",
+          "reading": "たいさくあん"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "発生",
+          "reading": "はっせい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "対応策",
+          "reading": "たいおうさく"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（1）リスク回避",
+      "reading": "りすくかいひ",
+      "vi": "Risk Avoidance",
+      "en": "Risk Avoidance"
+    },
+    {
+      "type": "paragraph",
+      "ja": "リスク回避とは、リスクに関わる作業をしないことで、被害が出る可能性をなくします。例えば、リスクのある作業をスコープ（作業範囲）から外すことなどが考えられます。",
+      "vi": "Risk Avoidance là loại bỏ khả năng xảy ra thiệt hại bằng cách không làm công việc liên quan đến rủi ro. Ví dụ, có thể nghĩ đến việc loại bỏ công việc có rủi ro khỏi Scope (phạm vi công việc).",
+      "en": "Risk Avoidance eliminates possibility of damage by not doing work related to risk. For example, removing risky work from Scope (work scope) can be considered.",
+      "terms": [
+        {
+          "kanji": "回避",
+          "reading": "かいひ"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "被害",
+          "reading": "ひがい"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "作業範囲",
+          "reading": "さぎょうはんい"
+        },
+        {
+          "kanji": "外",
+          "reading": "そと"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（2）リスク転嫁",
+      "reading": "りすくてんか",
+      "vi": "Risk Transfer",
+      "en": "Risk Transfer"
+    },
+    {
+      "type": "paragraph",
+      "ja": "リスク転嫁とは、リスクを自社から他社へ移すことです。例えば、リスクがある作業を外部委託したり、保険を掛けたりすることをリスク転嫁といいます。",
+      "vi": "Risk Transfer là chuyển rủi ro từ công ty mình sang công ty khác. Ví dụ, việc thuê ngoài công việc có rủi ro hoặc mua bảo hiểm gọi là Risk Transfer.",
+      "en": "Risk Transfer is moving risk from own company to another company. For example, outsourcing risky work or buying insurance is called Risk Transfer.",
+      "terms": [
+        {
+          "kanji": "転嫁",
+          "reading": "てんか"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "他社",
+          "reading": "たしゃ"
+        },
+        {
+          "kanji": "移",
+          "reading": "い"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "外部委託",
+          "reading": "がいぶいたく"
+        },
+        {
+          "kanji": "保険",
+          "reading": "ほけん"
+        },
+        {
+          "kanji": "掛",
+          "reading": "か"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "プロジェクトリスクマネジメント",
+      "reading": "ぷろじぇくとりすくまねじめんと",
+      "romaji": "Project Risk Management",
+      "vi": "Quản lý rủi ro dự án",
+      "en": "Project Risk Management",
+      "my": "ပရောဂျက် အန္တရာယ် မန်နေ့ဂျမန့်"
+    },
+    {
+      "kanji": "リスク回避",
+      "reading": "りすくかいひ",
+      "romaji": "Risk Kaihi",
+      "vi": "Tránh rủi ro",
+      "en": "Risk Avoidance",
+      "my": "အန္တရာယ် ရှောင်ကျဥ်ခြင်း"
+    },
+    {
+      "kanji": "リスク転嫁",
+      "reading": "りすくてんか",
+      "romaji": "Risk Tenka",
+      "vi": "Chuyển giao rủi ro",
+      "en": "Risk Transfer",
+      "my": "အန္တရာယ် လွှဲပြောင်းခြင်း"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

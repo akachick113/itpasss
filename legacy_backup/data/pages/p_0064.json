@@ -1,0 +1,110 @@
+{
+    "page_id": 64,
+    "image": "p_0064.png",
+    "chapter": 1,
+    "section": "practice",
+    "page_number": 48,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "1-14",
+            "year": "平成30年度",
+            "question": {
+                "ja": "ブレーンストーミングの進め方のうち、適切なものはどれか。",
+                "vi": "Cách tiến hành Brainstorming nào sau đây là phù hợp?",
+                "en": "Which of the following is an appropriate way to conduct brainstorming?"
+            },
+            "options": {
+                "ja": [
+                    "ア. 自由奔放なアイディアは控え、実現可能なアイディアの提出を求める。",
+                    "イ. 他のメンバーの案に便乗した改善案が出ても、とがめずに進める。",
+                    "ウ. メンバーから出される意見の中で、テーマに適したものを選択しながら進める。",
+                    "エ. 量よりも質の高いアイディアを追求するために、アイディアの批判を奨励する。"
+                ],
+                "vi": [
+                    "ア. Hạn chế ý tưởng tự do, yêu cầu đưa ra ý tưởng khả thi.",
+                    "イ. Ngay cả khi có ý tưởng cải tiến dựa trên ý tưởng của thành viên khác, vẫn tiếp tục mà không phê phán.",
+                    "ウ. Trong các ý kiến của thành viên, chọn lọc những ý kiến phù hợp với chủ đề để tiến hành.",
+                    "エ. Để theo đuổi ý tưởng chất lượng hơn số lượng, khuyến khích phê bình ý tưởng."
+                ],
+                "en": [
+                    "A. Refrain from free ideas, request feasible ideas only.",
+                    "B. Even when improvement ideas build on other members' ideas, proceed without criticism.",
+                    "C. Select suitable ideas from member opinions while proceeding.",
+                    "D. Encourage criticism of ideas to pursue quality over quantity."
+                ]
+            },
+            "answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "1-15",
+            "year": "令和5年度",
+            "question": {
+                "ja": "表はA社の期末の損益計算書から抜粋した資料である。当期純利益が800百万円であるとき、販売費及び一般管理費は何百万円か。",
+                "vi": "Bảng là tài liệu trích từ báo cáo kết quả kinh doanh cuối kỳ của công ty A. Khi lợi nhuận ròng là 800 triệu yên, chi phí bán hàng và quản lý là bao nhiêu triệu yên?",
+                "en": "The table is data extracted from Company A's end-of-period income statement. When net profit is 800 million yen, what is selling and general administrative expenses in million yen?"
+            },
+            "options": {
+                "ja": [
+                    "ア. 850",
+                    "イ. 900",
+                    "ウ. 1,000",
+                    "エ. 1,200"
+                ],
+                "vi": [
+                    "ア. 850",
+                    "イ. 900",
+                    "ウ. 1,000",
+                    "エ. 1,200"
+                ],
+                "en": [
+                    "A. 850",
+                    "B. 900",
+                    "C. 1,000",
+                    "D. 1,200"
+                ]
+            },
+            "answer": "ウ"
+        },
+        {
+            "type": "exam_question",
+            "number": "1-16",
+            "year": "平成30年度",
+            "question": {
+                "ja": "貸借対照表から求められる、自己資本比率は何%か。",
+                "vi": "Tỷ lệ vốn tự có được tính từ bảng cân đối kế toán là bao nhiêu %?",
+                "en": "What is the equity ratio calculated from the balance sheet in %?"
+            },
+            "options": {
+                "ja": [
+                    "ア. 40",
+                    "イ. 80",
+                    "ウ. 125",
+                    "エ. 150"
+                ],
+                "vi": [
+                    "ア. 40",
+                    "イ. 80",
+                    "ウ. 125",
+                    "エ. 150"
+                ],
+                "en": [
+                    "A. 40",
+                    "B. 80",
+                    "C. 125",
+                    "D. 150"
+                ]
+            },
+            "answer": "ア"
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": true,
+        "has_diagram": false,
+        "is_practice_page": true,
+        "questions_covered": "1-14, 1-15, 1-16",
+        "answers": "イ, ウ, ア"
+    }
+}

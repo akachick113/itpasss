@@ -1,0 +1,209 @@
+{
+  "page_id": 423,
+  "image": "p_0423.png",
+  "chapter": 11,
+  "section": "11-04",
+  "page_number": 407,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "RAMとROMの違い",
+      "vi": "Sự khác biệt giữa RAM và ROM",
+      "en": "Difference Between RAM and ROM"
+    },
+    {
+      "type": "paragraph",
+      "ja": "メモリは「RAM」と「ROM」の2種類に大別できます（上図を参照）。まずはこの違いをきちんと理解することが大切です。",
+      "vi": "Memory có thể chia thành 2 loại lớn \"RAM\" và \"ROM\" (xem hình trên). Trước tiên, quan trọng là hiểu rõ sự khác biệt này.",
+      "en": "Memory can be broadly divided into 2 types: 'RAM' and 'ROM' (see diagram above). First, important to properly understand this difference.",
+      "terms": [
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "大別",
+          "reading": "たいべつ"
+        },
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "RAMとは",
+      "vi": "RAM là gì",
+      "en": "What is RAM"
+    },
+    {
+      "type": "paragraph",
+      "ja": "RAM（Random Access Memory）とは、揮発性メモリです。「揮発性」の本来の意味は「蒸発のしやすさ」です。このことから、揮発性メモリとは、電源が切れるとデータが消滅してしまうメモリのことを指します。",
+      "vi": "RAM (Random Access Memory) là bộ nhớ bay hơi. Ý nghĩa gốc của \"bay hơi\" là \"dễ bốc hơi\". Từ đây, bộ nhớ bay hơi chỉ bộ nhớ mà dữ liệu sẽ biến mất khi tắt nguồn.",
+      "en": "RAM (Random Access Memory) is volatile memory. Original meaning of 'volatile' is 'easy to evaporate.' From this, volatile memory refers to memory where data disappears when power is turned off.",
+      "terms": [
+        {
+          "kanji": "揮発性",
+          "reading": "きはつせい"
+        },
+        {
+          "kanji": "本来",
+          "reading": "ほんらい"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "蒸発",
+          "reading": "じょうはつ"
+        },
+        {
+          "kanji": "電源",
+          "reading": "でんげん"
+        },
+        {
+          "kanji": "切",
+          "reading": "せつ"
+        },
+        {
+          "kanji": "消滅",
+          "reading": "しょうめつ"
+        },
+        {
+          "kanji": "指",
+          "reading": "ゆび"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "先述した主記憶装置（p.402）やキャッシュメモリ（p.404）は、RAMに分類されるメモリです。",
+      "vi": "Bộ nhớ chính (trang 402) và bộ nhớ cache (trang 404) đã đề cập trước đó là memory được phân loại thành RAM.",
+      "en": "Main memory (p.402) and cache memory (p.404) mentioned earlier are memory classified as RAM.",
+      "terms": [
+        {
+          "kanji": "先述",
+          "reading": "せんじゅつ"
+        },
+        {
+          "kanji": "主記憶装置",
+          "reading": "しゅきおくそうち"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ROMとは",
+      "vi": "ROM là gì",
+      "en": "What is ROM"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ROM（Read Only Memory）とは、不揮発性メモリです。読んで字のごとく、不揮発性メモリとは、電源を切ってもデータが保持されるメモリです。SSDやUSBメモリは、ROMに分類されるメモリです。",
+      "vi": "ROM (Read Only Memory) là bộ nhớ không bay hơi. Đúng như tên gọi, bộ nhớ không bay hơi là bộ nhớ mà dữ liệu được giữ lại ngay cả khi tắt nguồn. SSD và USB memory là memory được phân loại thành ROM.",
+      "en": "ROM (Read Only Memory) is non-volatile memory. As name suggests, non-volatile memory is memory where data is retained even when power is off. SSD and USB memory are memory classified as ROM.",
+      "terms": [
+        {
+          "kanji": "不揮発性",
+          "reading": "ふきはつせい"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "字",
+          "reading": "じ"
+        },
+        {
+          "kanji": "電源",
+          "reading": "でんげん"
+        },
+        {
+          "kanji": "切",
+          "reading": "せつ"
+        },
+        {
+          "kanji": "保持",
+          "reading": "ほじ"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "ROMも読み書きできる",
+        "vi": "ROM cũng có thể đọc ghi",
+        "en": "ROM Can Also Read and Write",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ROMの本来の意味は「読み出し専用メモリ」なのですが、ITパスポート試験の分類では、読み書きできる半導体メモリ（SSDやUSBメモリなど）もROMに分類されています。この点には十分注意してください。このように分類される理由は以下の「RAMとROMの本来の反対語」を参照してください。",
+        "vi": "Ý nghĩa gốc của ROM là \"memory chỉ đọc\", nhưng trong phân loại của kỳ thi IT Passport, bộ nhớ bán dẫn có thể đọc ghi (SSD, USB memory, v.v.) cũng được phân loại thành ROM. Hãy chú ý kỹ điểm này. Lý do phân loại như vậy, xin tham khảo \"Từ trái nghĩa gốc của RAM và ROM\" bên dưới.",
+        "en": "ROM's original meaning is 'read-only memory,' but in IT Passport exam classification, readable/writable semiconductor memory (SSD, USB memory, etc.) is also classified as ROM. Please pay careful attention to this point. For reason of this classification, refer to 'Original Antonyms of RAM and ROM' below."
+      }
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！RAMとROMの本来の反対語",
+        "vi": "Chi tiết hơn! Từ trái nghĩa gốc của RAM và ROM",
+        "en": "More Details! Original Antonyms of RAM and ROM"
+      },
+      "content": {
+        "ja": "ITパスポート試験では、RAM＝揮発性メモリ、ROM＝不揮発性メモリという分類で扱われるRAMとROMですが、本来、これらは対になる用語ではありません。RAMは本来、その名称からもわかるとおり、「保存されたデータにランダム（任意の順序）にアクセスできるメモリ」を指す用語です。このため、RAMと対になるのはSAM（Sequential Access Memory：順次アクセスメモリ）です。同様に、ROMは本来、「読み出し専用のメモリ」です。このため、ROMと対になるのはRWM（Read Write Memory：読み書き可能メモリ）です。しかし、RAMに分類される主記憶やキャッシュメモリなどが揮発性メモリであり、ROMに分類されるフラッシュメモリなどが不揮発性メモリであることから、ITパスポート試験はもとより、一般的にも、RAMとROMが対になる用語として扱われるようになりました。",
+        "vi": "Trong kỳ thi IT Passport, RAM và ROM được xử lý với phân loại RAM = bộ nhớ bay hơi, ROM = bộ nhớ không bay hơi, nhưng ban đầu chúng không phải là thuật ngữ đối nghịch. RAM ban đầu, như tên gọi, là thuật ngữ chỉ \"memory có thể truy cập dữ liệu đã lưu theo thứ tự ngẫu nhiên (bất kỳ)\". Vì vậy, đối nghịch với RAM là SAM (Sequential Access Memory: bộ nhớ truy cập tuần tự). Tương tự, ROM ban đầu là \"memory chỉ đọc\". Vì vậy, đối nghịch với ROM là RWM (Read Write Memory: bộ nhớ đọc ghi). Tuy nhiên, vì bộ nhớ chính và cache được phân loại thành RAM là bộ nhớ bay hơi, và flash memory, v.v. được phân loại thành ROM là bộ nhớ không bay hơi, nên không chỉ kỳ thi IT Passport mà nói chung, RAM và ROM được xử lý như thuật ngữ đối nghịch.",
+        "en": "In IT Passport exam, RAM and ROM are treated with classification RAM = volatile memory, ROM = non-volatile memory, but originally these are not paired terms. RAM originally, as name suggests, refers to 'memory that can access stored data randomly (in any order).' Therefore, RAM's counterpart is SAM (Sequential Access Memory). Similarly, ROM is originally 'read-only memory.' Therefore, ROM's counterpart is RWM (Read Write Memory). However, since main memory and cache classified as RAM are volatile memory, and flash memory etc. classified as ROM are non-volatile memory, not only IT Passport exam but generally, RAM and ROM came to be treated as paired terms."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "揮発性メモリ",
+      "reading": "きはつせいメモリ",
+      "vi": "Bộ nhớ bay hơi",
+      "en": "Volatile Memory",
+      "my": "ပျံေရရှိ မဲမရီ"
+    },
+    {
+      "term": "不揮発性メモリ",
+      "reading": "ふきはつせいメモリ",
+      "vi": "Bộ nhớ không bay hơi",
+      "en": "Non-volatile Memory",
+      "my": "မပျံေရ မဲမရီ"
+    }
+  ],
+  "meta": {
+    "has_note_box": true,
+    "is_key_content": true
+  }
+}

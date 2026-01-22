@@ -1,0 +1,165 @@
+{
+    "page_id": 109,
+    "image": "p_0109.png",
+    "chapter": 2,
+    "section": "questions",
+    "page_number": 93,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "2-22",
+            "year": "令和元年度",
+            "question": {
+                "ja": "情報を縦横2次元の図形パターンに保存するコードはどれか。",
+                "vi": "Mã nào lưu thông tin dưới dạng mẫu hình 2 chiều dọc ngang?",
+                "en": "Which code stores information in a 2D vertical-horizontal pattern?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "ASCIIコード",
+                    "vi": "ASCII Code",
+                    "en": "ASCII Code"
+                },
+                {
+                    "label": "イ",
+                    "ja": "Gコード",
+                    "vi": "G Code",
+                    "en": "G Code"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "JANコード",
+                    "vi": "JAN Code",
+                    "en": "JAN Code"
+                },
+                {
+                    "label": "エ",
+                    "ja": "QRコード",
+                    "vi": "QR Code",
+                    "en": "QR Code",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-23",
+            "year": "平成29年度",
+            "question": {
+                "ja": "ISOが定めた環境マネジメントシステムの国際規格はどれか。",
+                "vi": "Tiêu chuẩn quốc tế về hệ thống quản lý môi trường do ISO quy định là gì?",
+                "en": "Which is the international standard for environmental management system set by ISO?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "ISO 9000",
+                    "vi": "ISO 9000",
+                    "en": "ISO 9000"
+                },
+                {
+                    "label": "イ",
+                    "ja": "ISO 14000",
+                    "vi": "ISO 14000",
+                    "en": "ISO 14000",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ISO/IEC 20000",
+                    "vi": "ISO/IEC 20000",
+                    "en": "ISO/IEC 20000"
+                },
+                {
+                    "label": "エ",
+                    "ja": "ISO/IEC 27000",
+                    "vi": "ISO/IEC 27000",
+                    "en": "ISO/IEC 27000"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-24",
+            "year": "令和6年度",
+            "question": {
+                "ja": "品質に関する組織やプロセスの運営管理を標準化し、マネジメントの質や効率の向上を目的とした方策として、適切なものはどれか。",
+                "vi": "Phương pháp phù hợp để tiêu chuẩn hóa quản lý vận hành tổ chức và quy trình về chất lượng, nâng cao chất lượng và hiệu quả quản lý?",
+                "en": "Which is appropriate for standardizing organization and process management regarding quality and improving management quality/efficiency?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "ISMSの導入",
+                    "vi": "Đưa vào ISMS",
+                    "en": "Introducing ISMS"
+                },
+                {
+                    "label": "イ",
+                    "ja": "ISO 9001の導入",
+                    "vi": "Đưa vào ISO 9001",
+                    "en": "Introducing ISO 9001",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ITILの導入",
+                    "vi": "Đưa vào ITIL",
+                    "en": "Introducing ITIL"
+                },
+                {
+                    "label": "エ",
+                    "ja": "プライバシーマークの取得",
+                    "vi": "Lấy Privacy Mark",
+                    "en": "Obtaining Privacy Mark"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-25",
+            "year": "令和5年度",
+            "question": {
+                "ja": "フォーラム標準に関する記述として、最も適切なものはどれか。",
+                "vi": "Mô tả phù hợp nhất về Forum standard?",
+                "en": "Which is the most appropriate description of Forum standard?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "工業製品が、定められた品質、寸法、機能及び形状の範囲内であることを保証したもの",
+                    "vi": "Đảm bảo sản phẩm công nghiệp nằm trong phạm vi chất lượng, kích thước, chức năng và hình dạng quy định",
+                    "en": "Guaranteeing industrial products are within defined quality, dimensions, functions and shape"
+                },
+                {
+                    "label": "イ",
+                    "ja": "公的な標準化機関において、透明かつ公正な手続の下、関係者が合意の上で制定したもの",
+                    "vi": "Được thiết lập bởi sự đồng ý của các bên liên quan theo thủ tục minh bạch và công bằng tại cơ quan tiêu chuẩn hóa công cộng",
+                    "en": "Established by stakeholder agreement under transparent and fair procedures at public standardization bodies"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "特定の企業が開発した仕様が広く利用された結果、事実上の業界標準になったもの",
+                    "vi": "Đặc tả do doanh nghiệp cụ thể phát triển được sử dụng rộng rãi trở thành tiêu chuẩn ngành thực tế",
+                    "en": "Specifications developed by specific companies that became de facto industry standards through wide use"
+                },
+                {
+                    "label": "エ",
+                    "ja": "特定の分野に関心のある複数の企業などが集まって結成した組織が、規格として作ったもの",
+                    "vi": "Tiêu chuẩn do tổ chức được thành lập bởi nhiều doanh nghiệp quan tâm đến lĩnh vực cụ thể tạo ra",
+                    "en": "Standards made by organizations formed by multiple companies interested in specific fields",
+                    "correct": true
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "questions_covered": "2-22, 2-23, 2-24, 2-25",
+        "answers": "2-22: エ, 2-23: イ, 2-24: イ, 2-25: エ"
+    }
+}

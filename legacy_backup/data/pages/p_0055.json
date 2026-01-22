@@ -1,0 +1,329 @@
+{
+  "page_id": 55,
+  "image": "p_0055.png",
+  "chapter": 1,
+  "section": "01-08",
+  "page_number": 39,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "01-08",
+      "ja": "財務諸表と5つの利益",
+      "reading": "ざいむしょひょうと5つのりえき",
+      "vi": "Báo cáo tài chính và 5 loại lợi nhuận",
+      "en": "Financial Statements and 5 Types of Profit",
+      "my": "ဘဏ္ဍာရေးရှင်းတမ်းများနှင့် အမြတ် ၅ မျိုး"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "経営者の成績表",
+        "vi": "Bảng điểm của nhà quản lý",
+        "en": "Manager's Report Card",
+        "my": "မန်နေဂျာ၏ အစီရင်ခံစာ",
+        "terms": [
+          {
+            "kanji": "経営者",
+            "reading": "けいえいしゃ"
+          },
+          {
+            "kanji": "経営",
+            "reading": "けいえい"
+          }
+        ]
+      },
+      "content": {
+        "ja": "小学生や中学生のときにもらった通知表や成績表と同じように、経営者にも成績表があります。それを「財務諸表」といいます。財務諸表を見ると企業の状態がよくわかります。",
+        "vi": "Giống như bảng điểm và phiếu liên lạc nhận được khi còn học tiểu học hay trung học, nhà quản lý cũng có bảng điểm. Đó gọi là \"báo cáo tài chính\". Nhìn vào báo cáo tài chính có thể hiểu rõ tình trạng của doanh nghiệp.",
+        "en": "Just like the report cards you received in elementary and middle school, managers also have report cards. These are called \"financial statements.\" Looking at financial statements helps you understand a company's condition well.",
+        "my": "မူလတန်းနှင့် အလယ်တန်းတွင် ရရှိခဲ့သော အမှတ်စာရင်းများကဲ့သို့ပင် မန်နေဂျာများတွင်လည်း အမှတ်စာရင်းများ ရှိသည်။",
+        "terms": [
+          {
+            "kanji": "小学生",
+            "reading": "しょうがくせい"
+          },
+          {
+            "kanji": "中学生",
+            "reading": "ちゅうがくせい"
+          },
+          {
+            "kanji": "通知表",
+            "reading": "つうちおもて"
+          },
+          {
+            "kanji": "成績表",
+            "reading": "せいせきひょう"
+          },
+          {
+            "kanji": "同",
+            "reading": "どう"
+          },
+          {
+            "kanji": "経営者",
+            "reading": "けいえいしゃ"
+          },
+          {
+            "kanji": "財務諸表",
+            "reading": "ざいむしょひょう"
+          },
+          {
+            "kanji": "見",
+            "reading": "けん"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "状態",
+            "reading": "じょうたい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "財務諸表と3つの書類",
+      "reading": "ざいむしょひょうと3つのしょるい",
+      "vi": "Báo cáo tài chính và 3 loại tài liệu",
+      "en": "Financial Statements and 3 Documents",
+      "my": "ဘဏ္ဍာရေးရှင်းတမ်းများနှင့် စာရွက်စာတမ်း ၃ ခု"
+    },
+    {
+      "type": "paragraph",
+      "ja": "財務諸表とは、ステークホルダ（利害関係者；p.17）に対して、経営成績を報告するための書類です。財務諸表を見れば、その企業の状態や、その企業が行っている経営活動の内容などを知ることができます。つまり、「財務諸表を見れば、企業の健康状態がわかる」ということもできます。\n\nなお、「財務諸表」という名前の書類があるわけではありません。財務諸表とは、次の3つの書類の総称です。\n\n・貸借対照表（企業の全財産が記載された表）\n・損益計算書（企業の利益が記載された書類）\n・キャッシュフロー計算書（企業の現金の出し入れが記録された書類）",
+      "vi": "Báo cáo tài chính là tài liệu để báo cáo kết quả kinh doanh cho stakeholder (các bên liên quan; trang 17). Nhìn vào báo cáo tài chính, có thể biết được tình trạng của doanh nghiệp và nội dung hoạt động kinh doanh mà doanh nghiệp đang thực hiện. Nói cách khác, \"nhìn vào báo cáo tài chính có thể biết được tình trạng sức khỏe của doanh nghiệp\".\n\nLưu ý, không có tài liệu nào tên là \"báo cáo tài chính\". Báo cáo tài chính là tên gọi chung cho 3 tài liệu sau:\n\n・Bảng cân đối kế toán (bảng ghi toàn bộ tài sản của doanh nghiệp)\n・Báo cáo kết quả kinh doanh (tài liệu ghi lợi nhuận của doanh nghiệp)\n・Báo cáo lưu chuyển tiền tệ (tài liệu ghi dòng tiền vào/ra của doanh nghiệp)",
+      "en": "Financial statements are documents to report business performance to stakeholders (p.17). By looking at financial statements, you can understand the company's condition and business activities. In other words, \"looking at financial statements reveals a company's health.\"\n\nNote that there's no document called \"financial statements.\" Financial statements is a collective term for these 3 documents:\n\n・Balance Sheet (table listing all company assets)\n・Income Statement (document listing company profits)\n・Cash Flow Statement (document recording company cash inflows and outflows)",
+      "my": "Financial statements သည် stakeholders (စာ ၁၇) ထံ စီးပွားရေးစွမ်းဆောင်ရည်ကို အစီရင်ခံရန် စာရွက်စာတမ်းများဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "財務諸表",
+          "reading": "ざいむしょひょう"
+        },
+        {
+          "kanji": "利害関係者",
+          "reading": "りがいかんけいしゃ"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "経営成績",
+          "reading": "けいえいせいせき"
+        },
+        {
+          "kanji": "報告",
+          "reading": "ほうこく"
+        },
+        {
+          "kanji": "書類",
+          "reading": "しょるい"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "状態",
+          "reading": "じょうたい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "経営活動",
+          "reading": "けいえいかつどう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "知",
+          "reading": "ち"
+        },
+        {
+          "kanji": "健康状態",
+          "reading": "けんこうじょうたい"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "総称",
+          "reading": "そうしょう"
+        },
+        {
+          "kanji": "貸借対照表",
+          "reading": "たいしゃくたいしょうひょう"
+        },
+        {
+          "kanji": "全財産",
+          "reading": "ぜんざいさん"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "損益計算書",
+          "reading": "そんえきけいさんしょ"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "計算書",
+          "reading": "けいさんしょ"
+        },
+        {
+          "kanji": "現金",
+          "reading": "げんきん"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "入",
+          "reading": "にゅう"
+        },
+        {
+          "kanji": "記録",
+          "reading": "きろく"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "財務諸表は全部で4つ",
+        "vi": "Báo cáo tài chính có tổng cộng 4 loại",
+        "en": "There are 4 financial statements in total",
+        "my": "Financial statements စုစုပေါင်း ၄ ခု ရှိသည်",
+        "terms": [
+          {
+            "kanji": "財務諸表",
+            "reading": "ざいむしょひょう"
+          },
+          {
+            "kanji": "財務",
+            "reading": "ざいむ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "日本の会計基準では、財務諸表には、上記3つの書類に加え、「株主資本等変動計算書」も含まれますが、この書類はITパスポート試験には出題されないので本書では割愛します。",
+        "vi": "Theo chuẩn kế toán Nhật Bản, báo cáo tài chính bao gồm 3 tài liệu trên cộng thêm \"Báo cáo thay đổi vốn chủ sở hữu\", nhưng tài liệu này không được ra đề trong IT Passport nên sách này bỏ qua.",
+        "en": "According to Japanese accounting standards, financial statements include the 3 documents above plus \"Statement of Changes in Equity,\" but this document is not tested on the IT Passport exam, so this book omits it.",
+        "my": "ဂျပန် accounting standards အရ financial statements တွင် အထက်ပါ စာရွက်စာတမ်း ၃ ခုအပြင် \"Statement of Changes in Equity\" လည်း ပါဝင်သည်။",
+        "terms": [
+          {
+            "kanji": "日本",
+            "reading": "にっぽん"
+          },
+          {
+            "kanji": "会計基準",
+            "reading": "かいけいきじゅん"
+          },
+          {
+            "kanji": "財務諸表",
+            "reading": "ざいむしょひょう"
+          },
+          {
+            "kanji": "上記",
+            "reading": "じょうき"
+          },
+          {
+            "kanji": "書類",
+            "reading": "しょるい"
+          },
+          {
+            "kanji": "加",
+            "reading": "か"
+          },
+          {
+            "kanji": "株主資本等変動計算書",
+            "reading": "かぶぬししほんなどへんどうけいさんしょ"
+          },
+          {
+            "kanji": "含",
+            "reading": "がん"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "本書",
+            "reading": "ほんしょ"
+          },
+          {
+            "kanji": "割愛",
+            "reading": "かつあい"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "財務諸表",
+      "reading": "ざいむしょひょう",
+      "romaji": "Zaimu Shohyou",
+      "vi": "Báo cáo tài chính",
+      "en": "Financial Statements",
+      "my": "ဘဏ္ိာရေးရှင်းတမ်းများ"
+    },
+    {
+      "kanji": "貸借対照表",
+      "reading": "たいしゃくたいしょうひょう",
+      "romaji": "Taishaku Taishouhyou",
+      "vi": "Bảng cân đối kế toán",
+      "en": "Balance Sheet",
+      "my": "Balance Sheet"
+    },
+    {
+      "kanji": "損益計算書",
+      "reading": "そんえきけいさんしょ",
+      "romaji": "Soneki Keisansho",
+      "vi": "Báo cáo kết quả kinh doanh",
+      "en": "Income Statement",
+      "my": "Income Statement"
+    },
+    {
+      "kanji": "キャッシュフロー計算書",
+      "reading": "きゃっしゅふろーけいさんしょ",
+      "romaji": "Cashflow Keisansho",
+      "vi": "Báo cáo lưu chuyển tiền tệ",
+      "en": "Cash Flow Statement",
+      "my": "Cash Flow Statement"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_learn_more": true
+  }
+}

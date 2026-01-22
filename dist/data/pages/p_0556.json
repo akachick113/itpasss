@@ -1,0 +1,194 @@
+{
+    "page_id": 556,
+    "image": "p_0556.png",
+    "chapter": 15,
+    "section": "Practice",
+    "page_number": 540,
+    "content": [
+        {
+            "type": "practice_question",
+            "number": "15-4",
+            "year": "平成31年度",
+            "question": {
+                "ja": "情報セキュリティポリシーを、基本方針、対策基準及び実施手順の三つの文書で構成したとき、これらに関する説明のうち、適切なものはどれか。",
+                "vi": "Khi cấu thành Chính sách bảo mật thông tin từ 3 tài liệu: phương châm cơ bản, tiêu chuẩn đối sách, và quy trình thực hiện, giải thích nào về chúng là phù hợp?",
+                "en": "When Information Security Policy consists of 3 documents: basic policy, standards, and procedures, which explanation about them is appropriate?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "基本方針は、経営者が作成した対策基準や実施手順に従って、従業員が策定したものである。",
+                        "vi": "Phương châm cơ bản là thứ được nhân viên xây dựng theo tiêu chuẩn đối sách và quy trình thực hiện do lãnh đạo tạo ra.",
+                        "en": "Basic policy is created by employees following standards and procedures made by management."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "基本方針は、情報セキュリティ事故が発生した場合に、経営者が取るべき行動を記述したマニュアルのようなものである。",
+                        "vi": "Phương châm cơ bản như sổ tay mô tả hành động mà lãnh đạo nên thực hiện khi xảy ra sự cố bảo mật thông tin.",
+                        "en": "Basic policy is like manual describing actions management should take when information security incident occurs."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "実施手順は、対策基準として決められたことを担当者が実施できるように、具体的な進め方などを記述したものである。",
+                        "vi": "Quy trình thực hiện là thứ mô tả cách tiến hành cụ thể để người phụ trách có thể thực hiện những gì được quy định trong tiêu chuẩn đối sách.",
+                        "en": "Procedures describe specific methods so personnel can implement what's defined in standards."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "対策基準は、基本方針や実施手順に何を記述するかを定めて、関係者に周知しておくものである。",
+                        "vi": "Tiêu chuẩn đối sách là thứ quy định gì sẽ được mô tả trong phương châm cơ bản và quy trình thực hiện, và phổ biến cho các bên liên quan.",
+                        "en": "Standards define what to describe in basic policy and procedures, and inform stakeholders."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "15-5",
+            "year": "平成28年度",
+            "question": {
+                "ja": "フィッシングの説明として、適切なものはどれか。",
+                "vi": "Giải thích nào về Phishing là phù hợp?",
+                "en": "Which is appropriate explanation of Phishing?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "ウイルスに感染しているPCへ攻撃者がネットワークを利用して指令を送り、不正なプログラムを実行させること",
+                        "vi": "Kẻ tấn công gửi lệnh qua mạng đến PC bị nhiễm virus và thực thi chương trình bất hợp pháp",
+                        "en": "Attacker sends commands via network to virus-infected PC to execute illegal programs"
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "金融機関などからの電子メールを装い、偽サイトに誘導して暗証番号やクレジットカード番号などを不正に取得すること",
+                        "vi": "Giả làm email từ tổ chức tài chính, dẫn dụ đến trang web giả để lấy mã PIN hoặc số thẻ tín dụng một cách bất hợp pháp",
+                        "en": "Pretending to be email from financial institution, luring to fake site to illegally obtain PINs or credit card numbers"
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "パスワードに使われそうな文字列を網羅した辞書のデータを使用してパスワードを割り出すこと",
+                        "vi": "Tìm ra mật khẩu bằng cách sử dụng dữ liệu từ điển bao gồm các chuỗi ký tự có thể được sử dụng làm mật khẩu",
+                        "en": "Finding password using dictionary data covering character strings likely used as passwords"
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "複数のコンピュータから攻撃対象のサーバへ大量のパケットを送信し、サーバの機能を停止させること",
+                        "vi": "Gửi số lượng lớn packet từ nhiều máy tính đến server mục tiêu để dừng chức năng server",
+                        "en": "Sending large amounts of packets from multiple computers to target server to stop server function"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "15-6",
+            "year": "令和6年度",
+            "question": {
+                "ja": "PDCAモデルに基づいてISMSを運用している組織において、C（Check）で実施することの例として、適切なものはどれか。",
+                "vi": "Trong tổ chức vận hành ISMS dựa trên mô hình PDCA, ví dụ nào phù hợp cho việc thực hiện trong C (Check)?",
+                "en": "In organization operating ISMS based on PDCA model, which is appropriate example of what to do in C (Check)?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "業務内容の監査結果に基づいた是正処置として、サーバの監視方法を変更する。",
+                        "vi": "Thay đổi phương pháp giám sát server như biện pháp khắc phục dựa trên kết quả kiểm toán nội dung công việc.",
+                        "en": "Change server monitoring method as corrective action based on business content audit results."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "具体的な対策と目標を決めるために、サーバ室内の情報資産を洗い出す。",
+                        "vi": "Xác định tài sản thông tin trong phòng server để quyết định biện pháp và mục tiêu cụ thể.",
+                        "en": "Identify information assets in server room to determine specific measures and goals."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "サーバ管理者の業務内容を第三者が客観的に評価する。",
+                        "vi": "Bên thứ ba đánh giá khách quan nội dung công việc của quản trị viên server.",
+                        "en": "Third party objectively evaluates server administrator's business content."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "定められた運用手順に従ってサーバの動作を監視する。",
+                        "vi": "Giám sát hoạt động server theo quy trình vận hành đã định.",
+                        "en": "Monitor server operation following established operation procedures."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "15-7",
+            "year": "平成22年度",
+            "question": {
+                "ja": "情報セキュリティにおける\\\"完全性\\\"が損なわれる行為はどれか。",
+                "vi": "Hành vi nào làm mất \"tính toàn vẹn\" trong bảo mật thông tin?",
+                "en": "Which action damages 'integrity' in information security?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "DoS攻撃",
+                        "vi": "DoS Attack",
+                        "en": "DoS Attack"
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "Webページの改ざん",
+                        "vi": "Sửa đổi trang Web",
+                        "en": "Web page falsification"
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "サーバの各ポートへの順次アクセス",
+                        "vi": "Truy cập tuần tự vào các cổng của server",
+                        "en": "Sequential access to server's ports"
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "ネットワークを流れるデータの盗聴",
+                        "vi": "Nghe lén dữ liệu trên mạng",
+                        "en": "Eavesdropping on data flowing through network"
+                    }
+                }
+            ]
+        }
+    ],
+    "answer_key": {
+        "15-4": "ウ",
+        "15-5": "イ",
+        "15-6": "ウ",
+        "15-7": "イ"
+    },
+    "meta": {
+        "is_practice": true
+    }
+}

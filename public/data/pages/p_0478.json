@@ -1,0 +1,277 @@
+{
+  "page_id": 478,
+  "image": "p_0478.png",
+  "chapter": 13,
+  "section": "13-02",
+  "page_number": 462,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "複合主キー",
+      "vi": "Khóa chính phức hợp",
+      "en": "Composite Primary Key"
+    },
+    {
+      "type": "paragraph",
+      "ja": "表内に主キーの条件を満たす列が1つも存在しない場合は、複数の列を組み合わせて主キーにします。これを「複合主キー」といいます。例えば、下図の表には主キーの条件を満たす列が存在しないため、「学校名」列と「学生番号」列の2つを組み合わせて主キーに設定しています。",
+      "vi": "Khi không có cột nào trong bảng thỏa mãn điều kiện khóa chính, kết hợp nhiều cột để làm khóa chính. Đây được gọi là \"khóa chính phức hợp\". Ví dụ, vì bảng trong hình dưới không có cột thỏa mãn điều kiện khóa chính, nên kết hợp 2 cột \"Tên trường\" và \"Mã sinh viên\" để đặt làm khóa chính.",
+      "en": "When no column in table satisfies primary key conditions, combine multiple columns to make primary key. This is called 'composite primary key.' For example, since table below has no column satisfying primary key conditions, combining 'School Name' and 'Student ID' columns as primary key.",
+      "terms": [
+        {
+          "kanji": "表内",
+          "reading": "ひょうない"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "満",
+          "reading": "まん"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "存在",
+          "reading": "そんざい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "複合主",
+          "reading": "ふくごうしゅ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "学校名",
+          "reading": "がっこうめい"
+        },
+        {
+          "kanji": "学生番号",
+          "reading": "がくせいばんごう"
+        },
+        {
+          "kanji": "設定",
+          "reading": "せってい"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "複合主キー",
+        "vi": "Khóa chính phức hợp",
+        "en": "Composite Primary Key"
+      },
+      "description": {
+        "ja": "複合主キー：学校名 + 学生番号。学校名単独では「ITパスポート大学」が重複、学生番号単独では1, 2, 3が重複。複数の列を組み合わせて主キーにする",
+        "vi": "Khóa chính phức hợp: Tên trường + Mã sinh viên. Tên trường đơn lẻ có \"Đại học IT Passport\" trùng lặp, Mã sinh viên đơn lẻ có 1, 2, 3 trùng lặp. Kết hợp nhiều cột để làm khóa chính",
+        "en": "Composite primary key: School Name + Student ID. School Name alone has 'IT Passport University' duplicated, Student ID alone has 1, 2, 3 duplicated. Combine multiple columns for primary key"
+      },
+      "note": {
+        "ja": "主キーがない場合は複数の列を組み合わせて主キーにする！",
+        "vi": "Khi không có khóa chính, kết hợp nhiều cột để làm khóa chính!",
+        "en": "When no primary key, combine multiple columns for primary key!"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "外部キー",
+      "vi": "Khóa ngoại",
+      "en": "Foreign Key"
+    },
+    {
+      "type": "paragraph",
+      "ja": "外部キーとは、別の表の主キーを参照する列です。外部キーについては具体例を見ながら解説したほうがわかりやすいので、まずは下図を見てください。",
+      "vi": "Khóa ngoại là cột tham chiếu khóa chính của bảng khác. Vì giải thích về khóa ngoại dễ hiểu hơn khi xem ví dụ cụ thể, trước tiên hãy xem hình dưới.",
+      "en": "Foreign key is column referencing primary key of another table. Since explaining foreign key is easier with concrete example, first see diagram below.",
+      "terms": [
+        {
+          "kanji": "外部",
+          "reading": "がいぶ"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "外部キー",
+        "vi": "Khóa ngoại",
+        "en": "Foreign Key"
+      },
+      "description": {
+        "ja": "学生表（主キー：学生番号、外部キー：教員番号）と教員表（主キー：教員番号）。学生表の教員番号が教員表の教員番号（主キー）を参照している",
+        "vi": "Bảng sinh viên (Khóa chính: Mã sinh viên, Khóa ngoại: Mã giáo viên) và Bảng giáo viên (Khóa chính: Mã giáo viên). Mã giáo viên trong bảng sinh viên tham chiếu Mã giáo viên (khóa chính) trong bảng giáo viên",
+        "en": "Student table (Primary key: Student ID, Foreign key: Teacher ID) and Teacher table (Primary key: Teacher ID). Teacher ID in student table references Teacher ID (primary key) in teacher table"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "上図の関係データベースは2つの表から構成されています。1つは「学生」表、もう1つは「教員」表です。",
+      "vi": "Cơ sở dữ liệu quan hệ trong hình trên được cấu thành từ 2 bảng. 1 là bảng \"Sinh viên\", 1 là bảng \"Giáo viên\".",
+      "en": "Relational database above consists of 2 tables. One is 'Student' table, another is 'Teacher' table.",
+      "terms": [
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "学生",
+          "reading": "がくせい"
+        },
+        {
+          "kanji": "教員",
+          "reading": "きょういん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "「学生」表には学生の情報が登録されています。そのなかの1つに「教員番号」列があります。一方の「教員」表には教員の情報が登録されています。「教員」表にも",
+      "vi": "Bảng \"Sinh viên\" có thông tin sinh viên được đăng ký. Trong đó có cột \"Mã giáo viên\". Mặt khác, bảng \"Giáo viên\" có thông tin giáo viên được đăng ký. Bảng \"Giáo viên\" cũng có",
+      "en": "'Student' table has student information registered. Among them is 'Teacher ID' column. On other hand, 'Teacher' table has teacher information registered. 'Teacher' table also has",
+      "terms": [
+        {
+          "kanji": "学生",
+          "reading": "がくせい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "登録",
+          "reading": "とうろく"
+        },
+        {
+          "kanji": "教員番号",
+          "reading": "きょういんばんごう"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "教員",
+          "reading": "きょういん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "複合主キー",
+      "reading": "ふくごうしゅキー",
+      "vi": "Khóa chính phức hợp",
+      "en": "Composite Primary Key",
+      "my": "ကန်းပိုဇစ် ပရိုင်မရီ ကီး"
+    },
+    {
+      "term": "外部キー",
+      "reading": "がいぶキー",
+      "vi": "Khóa ngoại",
+      "en": "Foreign Key",
+      "my": "ဖောရင် ကီး"
+    },
+    {
+      "term": "参照",
+      "reading": "さんしょう",
+      "vi": "Tham chiếu",
+      "en": "Reference",
+      "my": "ရီဖရင်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

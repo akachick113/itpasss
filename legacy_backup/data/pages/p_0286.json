@@ -1,0 +1,290 @@
+{
+  "page_id": 286,
+  "image": "p_0286.png",
+  "chapter": 7,
+  "section": "07-04",
+  "page_number": 270,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "なお、計算そのものは非常に簡単です。基本的には算数や中学数学の知識があれば必ず解答できます。ITの知識は必要ありません。1つ例題を見てみましょう。",
+      "vi": "Ngoài ra, bản thân phép tính rất đơn giản. Về cơ bản, nếu có kiến thức toán học hoặc toán trung học chắc chắn có thể giải đáp. Không cần kiến thức IT. Hãy xem một ví dụ.",
+      "en": "The calculation itself is very simple. Basically, if you have arithmetic or middle school math knowledge, you can definitely answer. IT knowledge is not needed. Let's look at an example.",
+      "terms": [
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "算数",
+          "reading": "さんすう"
+        },
+        {
+          "kanji": "中学数学",
+          "reading": "ちゅうがくすうがく"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "解答",
+          "reading": "かいとう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "例題",
+          "reading": "れいだい"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        }
+      ]
+    },
+    {
+      "type": "example_problem",
+      "title": {
+        "ja": "例題",
+        "vi": "Ví dụ",
+        "en": "Example Problem"
+      },
+      "problem": {
+        "ja": "作業効率が同じベテラン社員2人が10日間作業して完了するプロジェクトがある。このプロジェクトの締め切りを前倒しして5日間で完了するように計画を変更した。新たなメンバーを増員するとき何人のメンバーが必要か。新メンバーの作業効率はベテランの半分とする。",
+        "vi": "Có dự án mà 2 nhân viên có kinh nghiệm có hiệu suất công việc giống nhau làm việc 10 ngày để hoàn thành. Thay đổi kế hoạch để hoàn thành trong 5 ngày bằng cách đẩy sớm deadline dự án này. Khi tăng thêm thành viên mới cần bao nhiêu người? Hiệu suất công việc của thành viên mới là một nửa của người có kinh nghiệm.",
+        "en": "There's a project that 2 veteran employees with same work efficiency complete in 10 days. The plan is changed to complete in 5 days by moving up the deadline. How many members are needed when adding new members? New member work efficiency is half of veteran's."
+      },
+      "key_point": {
+        "ja": "この問題を解く際のポイントは「作業効率の差」です。",
+        "vi": "Điểm mấu chốt để giải bài này là \"chênh lệch hiệu suất công việc\".",
+        "en": "The key point to solve this problem is 'work efficiency difference.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "作業効率の計算",
+      "reading": "さぎょうこうりつのけいさん",
+      "vi": "Tính toán hiệu suất công việc",
+      "en": "Work Efficiency Calculation"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ベテランと新人では作業効率に差があるので、工数（p.157）を計算する際は作業効率を加味して計算を行う必要があります。例えば、ある新人2人の作業効率がベテランの半分の場合、その2人が10日間作業した場合の工数は「2人×10日間×0.5」で10人日となります（ベテランを工数計算の基準とした場合）。",
+      "vi": "Vì hiệu suất công việc của người có kinh nghiệm và người mới khác nhau, khi tính công số (trang 157) cần tính có xem xét hiệu suất công việc. Ví dụ, nếu hiệu suất công việc của 2 người mới là một nửa của người có kinh nghiệm, công số khi 2 người đó làm việc 10 ngày là \"2 người × 10 ngày × 0.5\" = 10 người-ngày (khi lấy người có kinh nghiệm làm chuẩn).",
+      "en": "Since veteran and new employee work efficiency differs, when calculating man-days (p.157), calculation must consider work efficiency. For example, if 2 new people's work efficiency is half of veteran's, man-days when those 2 work 10 days is '2 people × 10 days × 0.5' = 10 person-days (using veteran as calculation standard).",
+      "terms": [
+        {
+          "kanji": "新人",
+          "reading": "しんじん"
+        },
+        {
+          "kanji": "作業効率",
+          "reading": "さぎょうこうりつ"
+        },
+        {
+          "kanji": "差",
+          "reading": "さ"
+        },
+        {
+          "kanji": "工数",
+          "reading": "こうすう"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "加味",
+          "reading": "かみ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "半分",
+          "reading": "はんぶん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "日間作業",
+          "reading": "にちかんさぎょう"
+        },
+        {
+          "kanji": "日間",
+          "reading": "にちかん"
+        },
+        {
+          "kanji": "人日",
+          "reading": "にんにち"
+        },
+        {
+          "kanji": "工数計算",
+          "reading": "こうすうけいさん"
+        },
+        {
+          "kanji": "基準",
+          "reading": "きじゅん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "これらを考慮すると、上記の例題は次のように解くことができます。",
+      "vi": "Xem xét những điều này, ví dụ trên có thể giải như sau.",
+      "en": "Considering these, the above example can be solved as follows.",
+      "terms": [
+        {
+          "kanji": "考慮",
+          "reading": "こうりょ"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "例題",
+          "reading": "れいだい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "解",
+          "reading": "かい"
+        }
+      ]
+    },
+    {
+      "type": "solution",
+      "steps": [
+        {
+          "step": "(1)",
+          "title": {
+            "ja": "全体の工数を計算する",
+            "vi": "Tính tổng công số",
+            "en": "Calculate Total Man-Days"
+          },
+          "calculation": "2人×10日間＝20人日",
+          "calculation_vi": "2 người × 10 ngày = 20 người-ngày",
+          "calculation_en": "2 people × 10 days = 20 person-days"
+        },
+        {
+          "step": "(2)",
+          "title": {
+            "ja": "ベテラン2人が5日間で作業できる工数を計算する",
+            "vi": "Tính công số mà 2 người có kinh nghiệm có thể làm trong 5 ngày",
+            "en": "Calculate Man-Days 2 Veterans Can Work in 5 Days"
+          },
+          "calculation": "2人×5日間＝10人日",
+          "calculation_vi": "2 người × 5 ngày = 10 người-ngày",
+          "calculation_en": "2 people × 5 days = 10 person-days"
+        },
+        {
+          "step": "(3)",
+          "title": {
+            "ja": "残り10人日分の作業を、新メンバーで作業し、5日間で終わらせるために必要な人数を計算する",
+            "vi": "Tính số người cần thiết để thành viên mới làm công việc còn lại 10 người-ngày và hoàn thành trong 5 ngày",
+            "en": "Calculate People Needed for New Members to Complete Remaining 10 Person-Days in 5 Days"
+          },
+          "calculation": "x人×5日間×0.5＝10人日\nx人＝10人日÷2.5日間 ＝ 4人",
+          "calculation_vi": "x người × 5 ngày × 0.5 = 10 người-ngày\nx người = 10 người-ngày ÷ 2.5 ngày = 4 người",
+          "calculation_en": "x people × 5 days × 0.5 = 10 person-days\nx people = 10 person-days ÷ 2.5 days = 4 people"
+        }
+      ],
+      "answer": {
+        "ja": "4人",
+        "vi": "4 người",
+        "en": "4 people"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "プロジェクト資源マネジメントでは、プロジェクトに参加する要員の役割、責任、必要なスキルを決定し、それらが効果的に機能するように管理する",
+          "vi": "Trong Project Resource Management, quyết định vai trò, trách nhiệm, kỹ năng cần thiết của nhân viên tham gia dự án và quản lý để chúng hoạt động hiệu quả",
+          "en": "In Project Resource Management, determine roles, responsibilities, required skills of project staff and manage them to function effectively"
+        },
+        {
+          "ja": "作業量の計算問題が出題される",
+          "vi": "Ra đề bài toán tính khối lượng công việc",
+          "en": "Work volume calculation problems are tested"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "作業効率",
+      "reading": "さぎょうこうりつ",
+      "romaji": "Sagyou Kouritsu",
+      "vi": "Hiệu suất công việc",
+      "en": "Work Efficiency",
+      "my": "အလုပ် ထိရောက်မှု"
+    },
+    {
+      "kanji": "工数",
+      "reading": "こうすう",
+      "romaji": "Kousuu",
+      "vi": "Công số",
+      "en": "Man-Days",
+      "my": "လူ-ရက်"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true,
+    "has_calculation": true
+  }
+}

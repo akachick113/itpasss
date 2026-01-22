@@ -1,0 +1,363 @@
+{
+  "page_id": 20,
+  "image": "p_0020.png",
+  "chapter": 0,
+  "section": "00-01",
+  "page_number": 4,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "CBT方式とは",
+      "reading": "CBTほうしきとは",
+      "vi": "CBT là gì?",
+      "en": "What is CBT?",
+      "my": "CBT ဆိုသည်မှာ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験で採用されているCBT方式（Computer Based Testing方式）とは、コンピュータを利用して実施する試験方式です。受験者は、ディスプレイに表示された問題に対して、マウスを使って解答します。",
+      "vi": "CBT (Computer Based Testing - Thi trên máy tính) được sử dụng trong kỳ thi IT Passport là hình thức thi sử dụng máy tính. Thí sinh sẽ dùng chuột để trả lời các câu hỏi hiển thị trên màn hình.",
+      "en": "CBT (Computer Based Testing) used in the IT Passport exam is an examination method using computers. Examinees answer questions displayed on the screen using a mouse.",
+      "my": "IT Passport စာမေးပွဲတွင် အသုံးပြုသော CBT (Computer Based Testing) သည် ကွန်ပျူတာကို အသုံးပြု၍ စစ်ဆေးသော စာမေးပွဲပုံစံဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "採用",
+          "reading": "さいよう"
+        },
+        {
+          "kanji": "方式",
+          "reading": "ほうしき"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "実施",
+          "reading": "じっし"
+        },
+        {
+          "kanji": "試験方式",
+          "reading": "しけんほうしき"
+        },
+        {
+          "kanji": "受験者",
+          "reading": "じゅけんしゃ"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "解答",
+          "reading": "かいとう"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "「後で見直すためにチェックする」機能を活用しよう！",
+        "vi": "Hãy tận dụng tính năng \"Đánh dấu để xem lại sau\"!",
+        "en": "Use the \"Mark for Review\" function!",
+        "my": "\"နောက်မှပြန်ကြည့်ရန် အမှတ်အသား\" လုပ်ဆောင်ချက်ကို အသုံးပြုပါ!",
+        "terms": [
+          {
+            "kanji": "機能",
+            "reading": "きのう"
+          },
+          {
+            "kanji": "活用",
+            "reading": "かつよう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "各設問の下部に「後で見直すためにチェックする」のチェックボックスがあります。ここにチェックを入れておくと、他の問題を解き終わった後に、この問題にすぐに戻ることができます。",
+        "vi": "Ở cuối mỗi câu hỏi có ô checkbox \"Đánh dấu để xem lại sau\". Nếu bạn đánh dấu vào đây, sau khi giải xong các câu hỏi khác, bạn có thể quay lại câu hỏi này ngay lập tức.",
+        "en": "At the bottom of each question, there is a \"Mark for Review\" checkbox. If you check this, you can quickly return to this question after finishing other questions.",
+        "my": "မေးခွန်းတစ်ခုစီ၏အောက်တွင် \"နောက်မှပြန်ကြည့်ရန် အမှတ်အသား\" checkbox ရှိသည်။ ဤနေရာတွင် အမှတ်အသားပြုထားပါက အခြားမေးခွန်းများဖြေပြီးနောက် ဤမေးခွန်းသို့ ချက်ချင်းပြန်သွားနိုင်သည်။",
+        "terms": [
+          {
+            "kanji": "各設問",
+            "reading": "かくせつもん"
+          },
+          {
+            "kanji": "下部",
+            "reading": "かぶ"
+          },
+          {
+            "kanji": "後",
+            "reading": "のち"
+          },
+          {
+            "kanji": "見直",
+            "reading": "みなおし"
+          },
+          {
+            "kanji": "入",
+            "reading": "にゅう"
+          },
+          {
+            "kanji": "他",
+            "reading": "ほか"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "解",
+            "reading": "かい"
+          },
+          {
+            "kanji": "終",
+            "reading": "おわり"
+          },
+          {
+            "kanji": "戻",
+            "reading": "れい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "事前に体験しておこう！",
+        "vi": "Hãy trải nghiệm trước!",
+        "en": "Try it out beforehand!",
+        "my": "ကြိုတင်စမ်းသုံးကြည့်ပါ!",
+        "terms": [
+          {
+            "kanji": "事前",
+            "reading": "じぜん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験の公式サイトでは、実際の試験画面の操作手順や疑似体験ソフトウェアが公開されています。まだ一度も受験したことがない人は事前にCBTの操作方法などを確認しておくことを強くお勧めします。",
+        "vi": "Trang web chính thức của kỳ thi IT Passport cung cấp hướng dẫn thao tác màn hình thi thực tế và phần mềm trải nghiệm mô phỏng. Đối với những người chưa từng thi, chúng tôi khuyến khích mạnh mẽ việc tìm hiểu trước cách thao tác CBT.",
+        "en": "The official IT Passport exam website provides operating procedures for the actual exam screen and simulation software. For those who have never taken the exam before, we strongly recommend checking the CBT operation methods in advance.",
+        "my": "IT Passport စာမေးပွဲ၏ တရားဝင်ဝဘ်ဆိုက်တွင် အမှန်တကယ်စာမေးပွဲမျက်နှာပြင်၏ လုပ်ဆောင်မှုအဆင့်များနှင့် simulation software များကို ဖော်ပြထားသည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "公式",
+            "reading": "こうしき"
+          },
+          {
+            "kanji": "実際",
+            "reading": "じっさい"
+          },
+          {
+            "kanji": "試験画面",
+            "reading": "しけんがめん"
+          },
+          {
+            "kanji": "操作手順",
+            "reading": "そうさてじゅん"
+          },
+          {
+            "kanji": "疑似体験",
+            "reading": "ぎじたいけん"
+          },
+          {
+            "kanji": "公開",
+            "reading": "こうかい"
+          },
+          {
+            "kanji": "一度",
+            "reading": "いちど"
+          },
+          {
+            "kanji": "受験",
+            "reading": "じゅけん"
+          },
+          {
+            "kanji": "人",
+            "reading": "にん"
+          },
+          {
+            "kanji": "事前",
+            "reading": "じぜん"
+          },
+          {
+            "kanji": "操作方法",
+            "reading": "そうさほうほう"
+          },
+          {
+            "kanji": "確認",
+            "reading": "かくにん"
+          },
+          {
+            "kanji": "強",
+            "reading": "きょう"
+          },
+          {
+            "kanji": "勧",
+            "reading": "かん"
+          }
+        ]
+      }
+    },
+    {
+      "type": "link_box",
+      "title": {
+        "ja": "CBT操作説明",
+        "vi": "Hướng dẫn thao tác CBT",
+        "en": "CBT Operation Guide"
+      },
+      "url": "https://www3.jitec.ipa.go.jp/JitesCbt/html/examination/trial.html"
+    },
+    {
+      "type": "link_box",
+      "title": {
+        "ja": "CBT疑似体験ソフトウェア",
+        "vi": "Phần mềm trải nghiệm mô phỏng CBT",
+        "en": "CBT Simulation Software"
+      },
+      "url": "https://www3.jitec.ipa.go.jp/JitesCbt/html/guidance/trial_examapp.html"
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "採用",
+      "reading": "さいよう",
+      "romaji": "Saiyou",
+      "vi": "Áp dụng, sử dụng",
+      "en": "Adoption, use",
+      "my": "[Adoption, use]"
+    },
+    {
+      "kanji": "実施",
+      "reading": "じっし",
+      "romaji": "Jisshi",
+      "vi": "Thực hiện",
+      "en": "Implementation",
+      "my": "အကောင်အထည်ဖော်ခြင်း"
+    },
+    {
+      "kanji": "解答",
+      "reading": "かいとう",
+      "romaji": "Kaitou",
+      "vi": "Trả lời, đáp án",
+      "en": "Answer",
+      "my": "အဖြေ"
+    },
+    {
+      "kanji": "疑似体験",
+      "reading": "ぎじたいけん",
+      "romaji": "Giji Taiken",
+      "vi": "Trải nghiệm mô phỏng",
+      "en": "Simulation experience",
+      "my": "simulation အတွေ့အကြုံ"
+    },
+    {
+      "kanji": "操作方法",
+      "reading": "そうさほうほう",
+      "romaji": "Sousa Houhou",
+      "vi": "Phương pháp thao tác",
+      "en": "Operation method",
+      "my": "လုပ်ဆောင်နည်း"
+    },
+    {
+      "kanji": "方式",
+      "reading": "ほうしき",
+      "romaji": "Houshiki",
+      "vi": "Phương thức",
+      "en": "Method/Format",
+      "my": "ပုံစံ"
+    },
+    {
+      "kanji": "利用",
+      "reading": "りよう",
+      "romaji": "Riyou",
+      "vi": "Sử dụng",
+      "en": "Use/Utilize",
+      "my": "အသုံးပြုခြင်း"
+    },
+    {
+      "kanji": "受験者",
+      "reading": "じゅけんしゃ",
+      "romaji": "Jukensha",
+      "vi": "Thí sinh",
+      "en": "Examinee",
+      "my": "စာမေးပွဲဝင်သူ"
+    },
+    {
+      "kanji": "問題",
+      "reading": "もんだい",
+      "romaji": "Mondai",
+      "vi": "Câu hỏi, vấn đề",
+      "en": "Question/Problem",
+      "my": "မေးခွန်း"
+    },
+    {
+      "kanji": "表示",
+      "reading": "ひょうじ",
+      "romaji": "Hyouji",
+      "vi": "Hiển thị",
+      "en": "Display",
+      "my": "ပြသခြင်း"
+    },
+    {
+      "kanji": "機能",
+      "reading": "きのう",
+      "romaji": "Kinou",
+      "vi": "Chức năng",
+      "en": "Function",
+      "my": "လုပ်ဆောင်ချက်"
+    },
+    {
+      "kanji": "確認",
+      "reading": "かくにん",
+      "romaji": "Kakunin",
+      "vi": "Xác nhận",
+      "en": "Confirmation",
+      "my": "အတည်ပြုခြင်း"
+    },
+    {
+      "kanji": "事前",
+      "reading": "じぜん",
+      "romaji": "Jizen",
+      "vi": "Trước",
+      "en": "Beforehand",
+      "my": "ကြိုတင်"
+    },
+    {
+      "kanji": "公式",
+      "reading": "こうしき",
+      "romaji": "Koushiki",
+      "vi": "Chính thức",
+      "en": "Official",
+      "my": "တရားဝင်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": false,
+    "has_learn_more": true
+  }
+}

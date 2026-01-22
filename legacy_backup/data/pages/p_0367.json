@@ -1,0 +1,264 @@
+{
+  "page_id": 367,
+  "image": "p_0367.png",
+  "chapter": 9,
+  "section": "09-07",
+  "page_number": 351,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "配列の初期化",
+      "reading": "はいれつのしょきか",
+      "vi": "Khởi tạo mảng",
+      "en": "Array Initialization"
+    },
+    {
+      "type": "paragraph",
+      "ja": "配列に複数の値を代入するには、以下のように指定します。",
+      "vi": "Để gán nhiều giá trị vào mảng, chỉ định như sau.",
+      "en": "To assign multiple values to array, specify as follows.",
+      "terms": [
+        {
+          "kanji": "配列",
+          "reading": "はいれつ"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "代入",
+          "reading": "だいにゅう"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【書式】配列の初期化",
+        "vi": "【Định dạng】Khởi tạo mảng",
+        "en": "[Format] Array Initialization"
+      },
+      "code": "型名: 配列名 ← {値, 値, 値, ...}",
+      "explanation": {
+        "ja": "・最初に、配列に代入する値の型名を書く（型についてはp.348で解説）\n・続いて「:」（コロン）を書いて「配列名」を書く\n・次に、代入を表す値の配列のはじまりに「{」を書き、値を「,」で区切って並べて、最後に「}」を書く",
+        "vi": "・Trước tiên, viết tên kiểu của giá trị gán vào mảng (về kiểu xem trang 348)\n・Tiếp theo viết \":\" (dấu hai chấm) rồi viết \"tên mảng\"\n・Sau đó, viết \"{\" ở đầu mảng giá trị gán, sắp xếp giá trị phân cách bằng \",\", và viết \"}\" ở cuối",
+        "en": "・First, write type name of values to assign (type explained on p.348)\n・Then write ':' (colon) and 'array name'\n・Next, write '{' at start of value array, arrange values separated by ',', and write '}' at end"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "以下は配列aに4つの文字列「佐藤」「田中」「鈴木」「高橋」を代入するプログラムの例です。",
+      "vi": "Sau đây là ví dụ chương trình gán 4 chuỗi \"Sato\" \"Tanaka\" \"Suzuki\" \"Takahashi\" vào mảng a.",
+      "en": "Following is example program assigning 4 strings 'Sato' 'Tanaka' 'Suzuki' 'Takahashi' to array a.",
+      "terms": [
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "配列",
+          "reading": "はいれつ"
+        },
+        {
+          "kanji": "文字列",
+          "reading": "もじれつ"
+        },
+        {
+          "kanji": "佐藤",
+          "reading": "さとう"
+        },
+        {
+          "kanji": "田中",
+          "reading": "たなか"
+        },
+        {
+          "kanji": "鈴木",
+          "reading": "すずき"
+        },
+        {
+          "kanji": "高橋",
+          "reading": "たかはし"
+        },
+        {
+          "kanji": "代入",
+          "reading": "だいにゅう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】配列の初期化",
+        "vi": "【Ví dụ chương trình】Khởi tạo mảng",
+        "en": "[Program Example] Array Initialization"
+      },
+      "code": "文字列型の配列: a ← {\"佐藤\", \"田中\", \"鈴木\", \"高橋\"}"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "配列から1つの要素を取り出す",
+      "reading": "はいれつからひとつのようそをとりだす",
+      "vi": "Lấy 1 phần tử từ mảng",
+      "en": "Retrieving One Element from Array"
+    },
+    {
+      "type": "paragraph",
+      "ja": "配列から1つの要素を取り出す場合は、配列名の後に[ ]を付けて、その中に要素番号を書きます。",
+      "vi": "Để lấy 1 phần tử từ mảng, đặt [ ] sau tên mảng và viết số thứ tự phần tử bên trong.",
+      "en": "To retrieve one element from array, put [ ] after array name and write element index inside.",
+      "terms": [
+        {
+          "kanji": "配列",
+          "reading": "はいれつ"
+        },
+        {
+          "kanji": "要素",
+          "reading": "ようそ"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "配列名",
+          "reading": "はいれつめい"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "付",
+          "reading": "つき"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "要素番号",
+          "reading": "ようそばんごう"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、配列aの先頭から3番目の要素「鈴木」を取り出す場合は「a[3]」と書きます。",
+      "vi": "Ví dụ, để lấy phần tử thứ 3 từ đầu mảng a là \"Suzuki\", viết \"a[3]\".",
+      "en": "For example, to retrieve 3rd element 'Suzuki' from start of array a, write 'a[3].'",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "配列",
+          "reading": "はいれつ"
+        },
+        {
+          "kanji": "先頭",
+          "reading": "せんとう"
+        },
+        {
+          "kanji": "番目",
+          "reading": "ばんめ"
+        },
+        {
+          "kanji": "要素",
+          "reading": "ようそ"
+        },
+        {
+          "kanji": "鈴木",
+          "reading": "すずき"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】配列aから\"鈴木\"を取り出す",
+        "vi": "【Ví dụ chương trình】Lấy \"Suzuki\" từ mảng a",
+        "en": "[Program Example] Retrieve 'Suzuki' from array a"
+      },
+      "code": "a[3]"
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "配列を初期化する際は「{ }」を使う",
+          "vi": "Dùng \"{ }\" khi khởi tạo mảng",
+          "en": "Use '{ }' when initializing array"
+        },
+        {
+          "ja": "配列から要素を取り出す際は「[ ]」を使う",
+          "vi": "Dùng \"[ ]\" khi lấy phần tử từ mảng",
+          "en": "Use '[ ]' when retrieving element from array"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

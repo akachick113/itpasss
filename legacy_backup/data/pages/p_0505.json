@@ -1,0 +1,256 @@
+{
+  "page_id": 505,
+  "image": "p_0505.png",
+  "chapter": 14,
+  "section": "14-02",
+  "page_number": 489,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "イーサネットの後継規格",
+        "vi": "Tiêu chuẩn kế thừa của Ethernet",
+        "en": "Ethernet Successor Standards"
+      },
+      "headers": {
+        "ja": [
+          "名称",
+          "通信速度"
+        ],
+        "vi": [
+          "Tên",
+          "Tốc độ truyền thông"
+        ],
+        "en": [
+          "Name",
+          "Communication Speed"
+        ]
+      },
+      "rows": [
+        {
+          "name": "イーサネット / Ethernet",
+          "speed": "10Mbps"
+        },
+        {
+          "name": "ファースト・イーサネット / Fast Ethernet",
+          "speed": "100Mbps"
+        },
+        {
+          "name": "ギガビット・イーサネット / Gigabit Ethernet",
+          "speed": "1Gbps"
+        },
+        {
+          "name": "10ギガビット・イーサネット / 10 Gigabit Ethernet",
+          "speed": "10Gbps"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "無線LAN",
+      "vi": "LAN không dây",
+      "en": "Wireless LAN"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "無線LAN",
+        "vi": "LAN không dây",
+        "en": "Wireless LAN"
+      },
+      "definition": {
+        "ja": "無線LANとは、無線でコンピュータ同士をつなぐLANです。Wi-Fi（Wireless Fidelity）とほぼ同じ意味ですが、厳密には、Wi-Fiは無線LAN機器が相互接続できることを示すブランド名です。",
+        "vi": "LAN không dây là LAN kết nối các máy tính với nhau bằng không dây. Có nghĩa gần giống với Wi-Fi (Wireless Fidelity), nhưng chính xác thì Wi-Fi là tên thương hiệu chỉ ra rằng các thiết bị LAN không dây có thể kết nối với nhau.",
+        "en": "Wireless LAN is LAN connecting computers wirelessly. Nearly same meaning as Wi-Fi (Wireless Fidelity), but strictly, Wi-Fi is brand name indicating wireless LAN devices can interconnect."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "簡単にいえば、Wi-Fiのロゴがついている無線LAN機器同士であれば、メーカーが異なっていても通信ができることを意味します。",
+      "vi": "Nói đơn giản, nếu là thiết bị LAN không dây có logo Wi-Fi, có thể truyền thông ngay cả khi khác nhà sản xuất.",
+      "en": "Simply put, if wireless LAN devices have Wi-Fi logo, can communicate even with different manufacturers.",
+      "terms": [
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "無線",
+          "reading": "むせん"
+        },
+        {
+          "kanji": "機器同士",
+          "reading": "ききどうし"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "通信",
+          "reading": "つうしん"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "アクセスポイント",
+        "vi": "Access Point",
+        "en": "Access Point",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "アクセスポイントとは、コンピュータを無線LANに接続するための機器です。みなさんの家庭では、ルーターがアクセスポイントの役割をしていることがいいです。",
+        "vi": "Access Point là thiết bị để kết nối máy tính vào LAN không dây. Ở gia đình mọi người, router thường đóng vai trò Access Point.",
+        "en": "Access Point is device for connecting computers to wireless LAN. In everyone's home, router often serves as Access Point."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ESSID",
+      "vi": "ESSID",
+      "en": "ESSID"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ESSID",
+        "vi": "ESSID",
+        "en": "ESSID"
+      },
+      "definition": {
+        "ja": "ESSID（Extended Service Set IDentifier）とは、無線LANにおけるネットワークの名前です。ITパスポート試験では「無線LANのネットワークを識別する文字列」という文章で出題されることもあります。",
+        "vi": "ESSID (Extended Service Set IDentifier) là tên mạng trong LAN không dây. Trong kỳ thi IT Passport, cũng có thể ra đề bằng câu \"chuỗi ký tự để nhận dạng mạng LAN không dây\".",
+        "en": "ESSID (Extended Service Set IDentifier) is network name in wireless LAN. In IT Passport exam, may also appear as 'character string to identify wireless LAN network.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ESSIDは「アクセスポイントを識別するための名前」ともいえます。みなさんが無線LANからインターネットに接続するときのことを思い出してください。周辺に複数のアクセスポイントがある場合は、使用するアクセスポイントを選択する必要があります。このときに表示される名前がESSIDです。",
+      "vi": "ESSID cũng có thể nói là \"tên để nhận dạng Access Point\". Hãy nhớ lại khi mọi người kết nối Internet từ LAN không dây. Nếu có nhiều Access Point xung quanh, cần chọn Access Point để sử dụng. Tên hiển thị lúc đó là ESSID.",
+      "en": "ESSID can also be said as 'name to identify Access Point.' Remember when connecting to Internet from wireless LAN. If there are multiple Access Points nearby, need to select Access Point to use. Name displayed at that time is ESSID.",
+      "terms": [
+        {
+          "kanji": "識別",
+          "reading": "しきべつ"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "無線",
+          "reading": "むせん"
+        },
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "周辺",
+          "reading": "しゅうへん"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "選択",
+          "reading": "せんたく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ESSIDはITパスポート試験によく出題される用語なので、確実に覚えておいてください。",
+      "vi": "ESSID là thuật ngữ hay được ra đề trong kỳ thi IT Passport, nên hãy chắc chắn nhớ.",
+      "en": "ESSID is term often appearing in IT Passport exam, so definitely remember it.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "確実",
+          "reading": "かくじつ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "無線LAN",
+      "reading": "むせんLAN",
+      "vi": "LAN không dây",
+      "en": "Wireless LAN",
+      "my": "ကြိုးမဲ့ အဲလ်အေအန်"
+    },
+    {
+      "term": "Wi-Fi",
+      "full": "Wireless Fidelity",
+      "vi": "Wi-Fi",
+      "en": "Wi-Fi",
+      "my": "ဝိုင်ဖိုင်"
+    },
+    {
+      "term": "アクセスポイント",
+      "vi": "Access Point",
+      "en": "Access Point",
+      "my": "အက်ဆက်စ် ပွိင့်"
+    },
+    {
+      "term": "ESSID",
+      "full": "Extended Service Set IDentifier",
+      "vi": "ESSID (Bộ nhận dạng dịch vụ mở rộng)",
+      "en": "ESSID (Extended Service Set IDentifier)",
+      "my": "အီးအက်စ်အက်စ်အိုင်ဒီ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "is_key_content": true
+  }
+}

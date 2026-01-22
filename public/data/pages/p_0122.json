@@ -1,0 +1,398 @@
+{
+  "page_id": 122,
+  "image": "p_0122.png",
+  "chapter": 3,
+  "section": "03-03",
+  "page_number": 106,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "M&A",
+      "reading": "えむあんどえー",
+      "vi": "M&A",
+      "en": "M&A",
+      "my": "M&A"
+    },
+    {
+      "type": "paragraph",
+      "ja": "M&A（Mergers and Acquisitions）とは、会社の買収・合併です。買収（Acquisition）は他社を買い取ること、合併（Merger）は複数の会社を1つの会社にすることです。\n\n会社を買収するというのは、具体的にはその会社の株式を買うことです。会社の所有者は株主なので、その会社の株式を一定数以上買うことで、会社を所有できます。M&Aを実行すれば、一から会社を作ることなく、短時間で自社に必要な事業を手に入れることができます。",
+      "vi": "M&A (Mergers and Acquisitions) là mua lại và sáp nhập công ty. Acquisition (mua lại) là mua công ty khác, Merger (sáp nhập) là hợp nhất nhiều công ty thành 1 công ty.\n\nMua lại công ty cụ thể là mua cổ phiếu của công ty đó. Vì chủ sở hữu công ty là cổ đông nên mua cổ phiếu công ty trên một số lượng nhất định để sở hữu công ty. Nếu thực hiện M&A, có thể có được sự nghiệp cần thiết trong thời gian ngắn mà không cần xây dựng công ty từ đầu.",
+      "en": "M&A (Mergers and Acquisitions) is company acquisition and merger. Acquisition is buying another company, Merger is combining multiple companies into one.\n\nBuying a company specifically means buying its shares. Since shareholders own the company, buying shares above a certain amount lets you own the company. Executing M&A allows acquiring needed business quickly without building a company from scratch.",
+      "my": "M&A (Mergers and Acquisitions) သည် ကုမ္ပဏီ ဝယ်ယူခြင်းနှင့် ပေါင်းစည်းခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "kanji": "買収",
+          "reading": "ばいしゅう"
+        },
+        {
+          "kanji": "合併",
+          "reading": "がっぺい"
+        },
+        {
+          "kanji": "他社",
+          "reading": "たしゃ"
+        },
+        {
+          "kanji": "買",
+          "reading": "か"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "株式",
+          "reading": "かぶしき"
+        },
+        {
+          "kanji": "所有者",
+          "reading": "しょゆうしゃ"
+        },
+        {
+          "kanji": "株主",
+          "reading": "かぶぬし"
+        },
+        {
+          "kanji": "一定数以上買",
+          "reading": "いっていすういじょうばい"
+        },
+        {
+          "kanji": "所有",
+          "reading": "しょゆう"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "一",
+          "reading": "いち"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "短時間",
+          "reading": "たんじかん"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "事業",
+          "reading": "じぎょう"
+        },
+        {
+          "kanji": "手",
+          "reading": "て"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "アライアンス",
+      "reading": "あらいあんす",
+      "vi": "Alliance (Liên minh)",
+      "en": "Alliance",
+      "my": "Alliance"
+    },
+    {
+      "type": "paragraph",
+      "ja": "アライアンス（Alliance：業務提携）とは、企業同士が提携することです。アライアンスには、次のメリットがあります。\n\n・双方の得意分野を相互に補完できる\n・事業投資の負担を分担できる\n\nまた、M&Aでは、多額の資金が必要となるため、失敗したときのリスクが大きいのですが、アライアンスの場合は、リスクを抑えた状態で協力体制を作ることができます。この点もアライアンスのメリットの1つです。\n\n反面、デメリットとして、専門技術やノウハウが相手企業に流出するリスクが挙げられます。アライアンスといえば、航空会社の業務提携が有名です。",
+      "vi": "Alliance (hợp tác kinh doanh) là doanh nghiệp hợp tác với nhau. Alliance có các lợi ích sau:\n\n・Có thể bổ sung lẫn nhau lĩnh vực thế mạnh của cả hai bên\n・Có thể chia sẻ gánh nặng đầu tư kinh doanh\n\nNgoài ra, M&A cần vốn lớn nên rủi ro khi thất bại cao, nhưng với Alliance, có thể tạo hệ thống hợp tác trong khi giảm rủi ro. Đây cũng là một lợi ích của Alliance.\n\nNgược lại, nhược điểm là rủi ro rò rỉ công nghệ chuyên môn và know-how cho đối tác. Nói đến Alliance, hợp tác kinh doanh của các hãng hàng không rất nổi tiếng.",
+      "en": "Alliance (business partnership) is companies partnering together. Alliance has these benefits:\n\n・Can mutually complement each other's strengths\n・Can share business investment burden\n\nAlso, M&A requires large capital so risk of failure is high, but with Alliance, can create cooperation while reducing risk. This is another Alliance benefit.\n\nOn the other hand, disadvantage is risk of specialized technology and know-how leaking to partner company. Speaking of Alliance, airline business partnerships are famous.",
+      "my": "Alliance (လုပ်ငန်းမိတ်ဖက်ပူးပေါင်းမှု) သည် ကုမ္ပဏီများ အတူတကွ ပူးပေါင်းခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "業務提携",
+          "reading": "ぎょうむていけい"
+        },
+        {
+          "kanji": "企業同士",
+          "reading": "きぎょうどうし"
+        },
+        {
+          "kanji": "提携",
+          "reading": "ていけい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "双方",
+          "reading": "そうほう"
+        },
+        {
+          "kanji": "得意分野",
+          "reading": "とくいぶんや"
+        },
+        {
+          "kanji": "相互",
+          "reading": "そうご"
+        },
+        {
+          "kanji": "補完",
+          "reading": "ほかん"
+        },
+        {
+          "kanji": "事業投資",
+          "reading": "じぎょうとうし"
+        },
+        {
+          "kanji": "負担",
+          "reading": "ふたん"
+        },
+        {
+          "kanji": "分担",
+          "reading": "ぶんたん"
+        },
+        {
+          "kanji": "多額",
+          "reading": "たがく"
+        },
+        {
+          "kanji": "資金",
+          "reading": "しきん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "失敗",
+          "reading": "しっぱい"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "抑",
+          "reading": "よく"
+        },
+        {
+          "kanji": "状態",
+          "reading": "じょうたい"
+        },
+        {
+          "kanji": "協力体制",
+          "reading": "きょうりょくたいせい"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "反面",
+          "reading": "はんめん"
+        },
+        {
+          "kanji": "専門技術",
+          "reading": "せんもんぎじゅつ"
+        },
+        {
+          "kanji": "相手企業",
+          "reading": "あいてきぎょう"
+        },
+        {
+          "kanji": "流出",
+          "reading": "りゅうしゅつ"
+        },
+        {
+          "kanji": "挙",
+          "reading": "きょ"
+        },
+        {
+          "kanji": "航空会社",
+          "reading": "こうくうがいしゃ"
+        },
+        {
+          "kanji": "有名",
+          "reading": "ゆうめい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ジョイントベンチャー",
+      "reading": "じょいんとべんちゃー",
+      "vi": "Joint Venture (Liên doanh)",
+      "en": "Joint Venture",
+      "my": "Joint Venture"
+    },
+    {
+      "type": "paragraph",
+      "ja": "M&Aとアライアンスの中間の形態に「ジョイントベンチャー」があります。ジョイントベンチャーとは、複数の企業が共同出資して作る新たな会社です。\n\nなお、ジョイントベンチャーはアライアンスの事例の1つと考えられることもあります。",
+      "vi": "Giữa M&A và Alliance có hình thức Joint Venture. Joint Venture là công ty mới được tạo bởi nhiều doanh nghiệp cùng góp vốn.\n\nLưu ý, Joint Venture đôi khi được coi là một ví dụ của Alliance.",
+      "en": "Between M&A and Alliance is Joint Venture. Joint Venture is a new company created by multiple companies investing together.\n\nNote that Joint Venture is sometimes considered an example of Alliance.",
+      "my": "M&A နှင့် Alliance ကြားတွင် Joint Venture ရှိသည်။",
+      "terms": [
+        {
+          "kanji": "中間",
+          "reading": "ちゅうかん"
+        },
+        {
+          "kanji": "形態",
+          "reading": "けいたい"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "共同出資",
+          "reading": "きょうどうしゅっし"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "新",
+          "reading": "あたら"
+        },
+        {
+          "kanji": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "kanji": "事例",
+          "reading": "じれい"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "ジョイントベンチャー",
+        "vi": "Joint Venture",
+        "en": "Joint Venture"
+      },
+      "headers": {
+        "ja": [
+          "強い",
+          "結束度合い",
+          "弱い"
+        ],
+        "vi": [
+          "Mạnh",
+          "Mức độ kết hợp",
+          "Yếu"
+        ],
+        "en": [
+          "Strong",
+          "Bonding Degree",
+          "Weak"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "M&A",
+            "ジョイントベンチャー",
+            "アライアンス"
+          ],
+          "vi": [
+            "M&A",
+            "Joint Venture",
+            "Alliance"
+          ],
+          "en": [
+            "M&A",
+            "Joint Venture",
+            "Alliance"
+          ]
+        },
+        {
+          "ja": [
+            "買収・合併",
+            "合弁企業",
+            "提携"
+          ],
+          "vi": [
+            "Mua lại/Sáp nhập",
+            "Công ty liên doanh",
+            "Hợp tác"
+          ],
+          "en": [
+            "Acquisition/Merger",
+            "Joint Enterprise",
+            "Partnership"
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "買収",
+      "reading": "ばいしゅう",
+      "romaji": "Baishuu",
+      "vi": "Mua lại",
+      "en": "Acquisition",
+      "my": "ဝယ်ယူခြင်း"
+    },
+    {
+      "kanji": "合併",
+      "reading": "がっぺい",
+      "romaji": "Gappei",
+      "vi": "Sáp nhập",
+      "en": "Merger",
+      "my": "ပေါင်းစည်းခြင်း"
+    },
+    {
+      "kanji": "アライアンス",
+      "reading": "あらいあんす",
+      "romaji": "Alliance",
+      "vi": "Liên minh/Hợp tác",
+      "en": "Alliance",
+      "my": "Alliance"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "page_id": 265,
+  "image": "p_0265.png",
+  "chapter": 6,
+  "section": "06-07",
+  "page_number": 249,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "リファクタリング",
+      "reading": "りふぁくたりんぐ",
+      "vi": "Refactoring",
+      "en": "Refactoring",
+      "note": "必修！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "リファクタリング（Refactoring）とは、プログラムの機能仕様は変えずに、内部構造を変えることです。簡単にいうと「外部から見た『プログラムの動作』は変えずに、プログラム内部のソースコードを改善すること」です。ユーザーからすると、あまりメリットがないように見えますが、プログラムが整理されることで、不具合が減ったり、プログラムの保守が簡単になったりします。",
+      "vi": "Refactoring là thay đổi cấu trúc bên trong mà không thay đổi thông số chức năng của chương trình. Nói đơn giản là \"cải thiện source code bên trong chương trình mà không thay đổi 'hoạt động của chương trình' nhìn từ bên ngoài\". Với người dùng, có vẻ không có nhiều lợi ích, nhưng bằng cách sắp xếp chương trình, lỗi giảm và bảo trì chương trình trở nên dễ dàng hơn.",
+      "en": "Refactoring is changing internal structure without changing program's functional specifications. Simply put, it's 'improving source code inside programs without changing program behavior seen from outside.' For users, it seems to have little merit, but by organizing programs, bugs decrease and program maintenance becomes easier.",
+      "terms": [
+        {
+          "kanji": "機能仕様",
+          "reading": "きのうしよう"
+        },
+        {
+          "kanji": "変",
+          "reading": "へん"
+        },
+        {
+          "kanji": "内部構造",
+          "reading": "ないぶこうぞう"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "外部",
+          "reading": "がいぶ"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "動作",
+          "reading": "どうさ"
+        },
+        {
+          "kanji": "内部",
+          "reading": "ないぶ"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "整理",
+          "reading": "せいり"
+        },
+        {
+          "kanji": "不具合",
+          "reading": "ふぐあい"
+        },
+        {
+          "kanji": "減",
+          "reading": "げん"
+        },
+        {
+          "kanji": "保守",
+          "reading": "ほしゅ"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ウォーターフォールモデルとは、上流工程から下流工程へ向かって一直線に順番に開発工程を進めるソフトウェア開発モデル",
+          "vi": "Waterfall Model là mô hình phát triển phần mềm tiến hành công đoạn phát triển theo thứ tự thẳng từ công đoạn thượng nguồn đến công đoạn hạ nguồn",
+          "en": "Waterfall Model is software development model that proceeds through development phases in straight order from upstream to downstream"
+        },
+        {
+          "ja": "アジャイル開発とは、短期間に開発とリリースを繰り返す。そのため、ウォーターフォールモデルに比べて、仕様変更に柔軟",
+          "vi": "Agile Development là lặp lại phát triển và release trong thời gian ngắn. Do đó, linh hoạt với thay đổi thông số so với Waterfall Model",
+          "en": "Agile Development repeats development and release in short periods. Therefore, flexible to spec changes compared to Waterfall Model"
+        },
+        {
+          "ja": "DevOpsとは、開発担当者と運用担当者が密接に連携してシステムを開発すること",
+          "vi": "DevOps là việc người phụ trách phát triển và người phụ trách vận hành hợp tác chặt chẽ để phát triển hệ thống",
+          "en": "DevOps is developing systems with close cooperation between development and operations staff"
+        },
+        {
+          "ja": "リファクタリングとは、プログラムの機能仕様は変えずに、内部構造を変えること",
+          "vi": "Refactoring là thay đổi cấu trúc bên trong mà không thay đổi thông số chức năng của chương trình",
+          "en": "Refactoring is changing internal structure without changing program's functional specifications"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "その他のソフトウェア開発手法",
+      "reading": "そのたのそふとうぇあかいはつしゅほう",
+      "vi": "Các phương pháp phát triển phần mềm khác",
+      "en": "Other Software Development Methods"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験によく出題されるソフトウェア開発モデルは上記のウォーターフォールモデルとアジャイル開発の2つですが、シラバス（試験範囲）には次のソフトウェア開発手法も記載されています。余力がある人はさっと目を通しておいてください。",
+      "vi": "Mô hình phát triển phần mềm thường ra đề trong kỳ thi IT Passport là 2 loại Waterfall Model và Agile Development ở trên, nhưng trong syllabus (phạm vi thi) còn ghi các phương pháp phát triển phần mềm sau. Nếu còn sức hãy đọc qua.",
+      "en": "Software development models commonly tested in IT Passport exam are Waterfall Model and Agile Development above, but the syllabus (exam scope) also lists the following software development methods. If you have capacity, glance through them.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "試験範囲",
+          "reading": "しけんはんい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "開発手法",
+          "reading": "かいはつしゅほう"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "余力",
+          "reading": "よりょく"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "目",
+          "reading": "め"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "その他のソフトウェア開発モデル・開発手法",
+        "vi": "Các mô hình/phương pháp phát triển phần mềm khác",
+        "en": "Other Software Development Models/Methods"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "term": {
+            "ja": "プロトタイピングモデル",
+            "vi": "Prototyping Model",
+            "en": "Prototyping Model"
+          },
+          "explanation": {
+            "ja": "システム開発の途中で試作品（プロトタイプ）を作成し、それをユーザーに確認してもらってから開発を進めていく開発モデル。",
+            "vi": "Mô hình phát triển tạo sản phẩm mẫu (prototype) trong quá trình phát triển hệ thống, cho người dùng xác nhận rồi mới tiến hành phát triển.",
+            "en": "Development model that creates prototypes during system development, has users confirm them, then proceeds with development."
+          }
+        },
+        {
+          "term": {
+            "ja": "オブジェクト指向",
+            "vi": "Object Oriented",
+            "en": "Object Oriented"
+          },
+          "explanation": {
+            "ja": "ソフトウェアを部品化することで再利用をしやすくし、開発を効率化する開発モデル。",
+            "vi": "Mô hình phát triển biến phần mềm thành linh kiện để dễ tái sử dụng, hiệu quả hóa phát triển.",
+            "en": "Development model that makes software into components for easy reuse, making development efficient."
+          }
+        },
+        {
+          "term": {
+            "ja": "EUC（End User Computing）",
+            "vi": "EUC (End User Computing)",
+            "en": "EUC (End User Computing)"
+          },
+          "explanation": {
+            "ja": "システムを利用する部門（エンドユーザー）が主体的にシステムの開発を行う開発手法。",
+            "vi": "Phương pháp phát triển mà bộ phận sử dụng hệ thống (end user) chủ động phát triển hệ thống.",
+            "en": "Development method where department using system (end users) proactively develops system."
+          }
+        },
+        {
+          "term": {
+            "ja": "RAD（Rapid Application Development）",
+            "vi": "RAD (Rapid Application Development)",
+            "en": "RAD (Rapid Application Development)"
+          },
+          "explanation": {
+            "ja": "少人数のチームでプロトタイピングを繰り返し、短い期間で開発を行う開発モデル。",
+            "vi": "Mô hình phát triển lặp lại prototyping với team ít người, phát triển trong thời gian ngắn.",
+            "en": "Development model that repeats prototyping with small teams, developing in short periods."
+          }
+        },
+        {
+          "term": {
+            "ja": "リバースエンジニアリング",
+            "vi": "Reverse Engineering",
+            "en": "Reverse Engineering"
+          },
+          "explanation": {
+            "ja": "既存のプログラムを解析し、そのプログラムの仕様を設計情報として取り出す技術。取り出した技術、取り出した仕様や設計情報をもとに、改変・改良する。（1）要件定義→（2）システム設計→（3）プログラミング→（4）テストの流れで行うシステム開発を「フォワードエンジニアリング」といい、上記はその逆を行うため「リバースエンジニアリング」という。",
+            "vi": "Kỹ thuật phân tích chương trình hiện có, lấy ra thông số của chương trình đó như thông tin thiết kế. Sửa đổi/cải tiến dựa trên kỹ thuật, thông số và thông tin thiết kế đã lấy ra. Phát triển hệ thống theo luồng (1) Định nghĩa yêu cầu → (2) Thiết kế hệ thống → (3) Lập trình → (4) Kiểm thử gọi là \"Forward Engineering\", vì trên đây làm ngược lại nên gọi là \"Reverse Engineering\".",
+            "en": "Technology to analyze existing programs and extract their specifications as design information. Modify/improve based on extracted technology, specifications and design information. System development following (1) Requirements Definition → (2) System Design → (3) Programming → (4) Testing is 'Forward Engineering'; above is called 'Reverse Engineering' as it does the reverse."
+          }
+        },
+        {
+          "term": {
+            "ja": "スクラム",
+            "vi": "Scrum",
+            "en": "Scrum"
+          },
+          "explanation": {
+            "ja": "アジャイル開発のひとつ。開発チームが一丸となるにはどうしたらいいかを主目的としたソフトウェア開発手法。",
+            "vi": "Một trong Agile Development. Phương pháp phát triển phần mềm với mục đích chính là làm thế nào để team phát triển đoàn kết.",
+            "en": "One of Agile Development. Software development method with main purpose of how to unite development team."
+          }
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "リファクタリング",
+      "reading": "りふぁくたりんぐ",
+      "romaji": "Refactoring",
+      "vi": "Tái cấu trúc",
+      "en": "Refactoring",
+      "my": "ပြန်ဖဲွဲစည်းခြင်း"
+    },
+    {
+      "kanji": "プロトタイプ",
+      "reading": "ぷろとたいぷ",
+      "romaji": "Prototype",
+      "vi": "Nguyên mẫu",
+      "en": "Prototype",
+      "my": "ပရိုတိုတိုက်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true
+  }
+}

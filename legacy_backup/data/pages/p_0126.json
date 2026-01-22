@@ -1,0 +1,497 @@
+{
+  "page_id": 126,
+  "image": "p_0126.png",
+  "chapter": 3,
+  "section": "03-03",
+  "page_number": 110,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "RFM分析によるランク付けの例",
+        "vi": "Ví dụ xếp hạng bằng RFM Analysis",
+        "en": "RFM Analysis Ranking Example"
+      },
+      "headers": {
+        "ja": [
+          "評価点",
+          "Recency",
+          "Frequency",
+          "Monetary"
+        ],
+        "vi": [
+          "Điểm đánh giá",
+          "Recency",
+          "Frequency",
+          "Monetary"
+        ],
+        "en": [
+          "Score",
+          "Recency",
+          "Frequency",
+          "Monetary"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "ランク1",
+            "1週間以内",
+            "20回以上",
+            "10万円以上"
+          ],
+          "vi": [
+            "Rank 1",
+            "Trong 1 tuần",
+            "Trên 20 lần",
+            "Trên 100,000 yên"
+          ],
+          "en": [
+            "Rank 1",
+            "Within 1 week",
+            "20+ times",
+            "100,000+ yen"
+          ]
+        },
+        {
+          "ja": [
+            "ランク2",
+            "2週間以内",
+            "15回以上",
+            "7.5万円以上"
+          ],
+          "vi": [
+            "Rank 2",
+            "Trong 2 tuần",
+            "Trên 15 lần",
+            "Trên 75,000 yên"
+          ],
+          "en": [
+            "Rank 2",
+            "Within 2 weeks",
+            "15+ times",
+            "75,000+ yen"
+          ]
+        },
+        {
+          "ja": [
+            "ランク3",
+            "1ヶ月以内",
+            "10回以上",
+            "5万円以上"
+          ],
+          "vi": [
+            "Rank 3",
+            "Trong 1 tháng",
+            "Trên 10 lần",
+            "Trên 50,000 yên"
+          ],
+          "en": [
+            "Rank 3",
+            "Within 1 month",
+            "10+ times",
+            "50,000+ yen"
+          ]
+        },
+        {
+          "ja": [
+            "ランク4",
+            "2ヶ月以内",
+            "5回以上",
+            "2.5万円以上"
+          ],
+          "vi": [
+            "Rank 4",
+            "Trong 2 tháng",
+            "Trên 5 lần",
+            "Trên 25,000 yên"
+          ],
+          "en": [
+            "Rank 4",
+            "Within 2 months",
+            "5+ times",
+            "25,000+ yen"
+          ]
+        },
+        {
+          "ja": [
+            "ランク5",
+            "2ヶ月より前",
+            "5回未満",
+            "2.5万円未満"
+          ],
+          "vi": [
+            "Rank 5",
+            "Trước 2 tháng",
+            "Dưới 5 lần",
+            "Dưới 25,000 yên"
+          ],
+          "en": [
+            "Rank 5",
+            "Over 2 months ago",
+            "Under 5 times",
+            "Under 25,000 yen"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "オピニオンリーダー",
+      "reading": "おぴにおんりーだー",
+      "vi": "Opinion Leader (Người dẫn dắt ý kiến)",
+      "en": "Opinion Leader",
+      "my": "Opinion Leader"
+    },
+    {
+      "type": "paragraph",
+      "ja": "オピニオンリーダーとは、新しく出た商品を比較的早く買い、その感想を友達やSNSなどに広める消費者です。イノベーター理論の「アーリーアダプター」とほぼ同じ意味です。イノベーター理論とは、消費者を「商品を買う時期」によって次の5つのタイプに分類する理論です。",
+      "vi": "Opinion Leader là người tiêu dùng mua sản phẩm mới tương đối sớm và lan truyền cảm nhận đến bạn bè và SNS. Gần giống nghĩa với Early Adopter trong lý thuyết Innovator. Lý thuyết Innovator là lý thuyết phân loại người tiêu dùng thành 5 loại theo thời điểm mua sản phẩm.",
+      "en": "Opinion Leader is a consumer who buys new products relatively early and spreads impressions to friends and SNS. Nearly same meaning as Early Adopter in Innovator Theory. Innovator Theory classifies consumers into 5 types by when they buy products.",
+      "my": "Opinion Leader သည် ထုတ်ကုန်အသစ်များကို အတော်လေးစောစောဝယ်ပြီး မိတ်ဆွေများနှင့် SNS သို့ ခံစားချက်များ ဖြန့်ဝေသော စားသုံးသူဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "新",
+          "reading": "しん"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "比較的早",
+          "reading": "ひかくてきそう"
+        },
+        {
+          "kanji": "買",
+          "reading": "ばい"
+        },
+        {
+          "kanji": "感想",
+          "reading": "かんそう"
+        },
+        {
+          "kanji": "友達",
+          "reading": "ともだち"
+        },
+        {
+          "kanji": "広",
+          "reading": "こう"
+        },
+        {
+          "kanji": "消費者",
+          "reading": "しょうひしゃ"
+        },
+        {
+          "kanji": "理論",
+          "reading": "りろん"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "時期",
+          "reading": "じき"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "イノベーター理論による消費者の分類",
+        "vi": "Phân loại người tiêu dùng theo lý thuyết Innovator",
+        "en": "Consumer Classification by Innovator Theory"
+      },
+      "headers": {
+        "ja": [
+          "分類",
+          "説明"
+        ],
+        "vi": [
+          "Phân loại",
+          "Giải thích"
+        ],
+        "en": [
+          "Classification",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "イノベーター",
+            "「まだ誰も持っていない」という理由で商品を買う人たち。"
+          ],
+          "vi": [
+            "Innovator",
+            "Người mua sản phẩm vì lý do chưa ai có."
+          ],
+          "en": [
+            "Innovator",
+            "People who buy because no one has it yet."
+          ]
+        },
+        {
+          "ja": [
+            "アーリーアダプター\n（オピニオンリーダー）",
+            "「誰も持っていない」ことが買う理由にはならないが、新しい商品の情報収集をして、自分の中で各商品がいいと感じて買う人たち。すぐに情報発信をして、自分の中で各商品がいいと感じて買う人たち。"
+          ],
+          "vi": [
+            "Early Adopter\n(Opinion Leader)",
+            "Người không mua vì lý do chưa ai có, nhưng thu thập thông tin sản phẩm mới, cảm thấy sản phẩm tốt và mua. Phát thông tin ngay."
+          ],
+          "en": [
+            "Early Adopter\n(Opinion Leader)",
+            "Not buying because no one has it, but collecting new product info, feeling it's good and buying. Quickly spreading information."
+          ]
+        },
+        {
+          "ja": [
+            "アーリーマジョリティ",
+            "アーリーアダプターに相談してから商品を買う人たち。"
+          ],
+          "vi": [
+            "Early Majority",
+            "Người mua sản phẩm sau khi hỏi ý kiến Early Adopter."
+          ],
+          "en": [
+            "Early Majority",
+            "People who buy after consulting Early Adopters."
+          ]
+        },
+        {
+          "ja": [
+            "レイトマジョリティ",
+            "待っている人のほうが多数派になると買う人たち。"
+          ],
+          "vi": [
+            "Late Majority",
+            "Người mua khi số người có sản phẩm thành đa số."
+          ],
+          "en": [
+            "Late Majority",
+            "People who buy when owners become majority."
+          ]
+        },
+        {
+          "ja": [
+            "ラガード",
+            "ほとんどの人が持っていて当たり前になるまでは買わないという人たち。"
+          ],
+          "vi": [
+            "Laggard",
+            "Người không mua cho đến khi hầu hết mọi người đều có."
+          ],
+          "en": [
+            "Laggard",
+            "People who don't buy until almost everyone has it."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・マーケティングミックスの4Pとは「Product」「Price」「Place」「Promotion」\n・RFM分析とは、優良顧客を見つけるための分析手法\n・オピニオンリーダーとは、新しく出た商品を早く買い、その感想を友達やSNSなどに広める消費者。イノベーター理論のアーリーアダプターと同じ",
+        "vi": "・4P của Marketing Mix là Product, Price, Place, Promotion\n・RFM Analysis là phương pháp phân tích để tìm khách hàng tốt\n・Opinion Leader là người tiêu dùng mua sản phẩm mới sớm và lan truyền cảm nhận đến bạn bè và SNS. Giống Early Adopter trong lý thuyết Innovator",
+        "en": "・Marketing Mix 4P are Product, Price, Place, Promotion\n・RFM Analysis is analysis method to find good customers\n・Opinion Leader buys new products early and spreads impressions to friends/SNS. Same as Innovator Theory's Early Adopter",
+        "my": "・ Marketing Mix 4P သည် Product, Price, Place, Promotion ဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "分析",
+            "reading": "ぶんせき"
+          },
+          {
+            "kanji": "優良顧客",
+            "reading": "ゆうりょうこきゃく"
+          },
+          {
+            "kanji": "見",
+            "reading": "けん"
+          },
+          {
+            "kanji": "分析手法",
+            "reading": "ぶんせきしゅほう"
+          },
+          {
+            "kanji": "新",
+            "reading": "しん"
+          },
+          {
+            "kanji": "出",
+            "reading": "しゅつ"
+          },
+          {
+            "kanji": "商品",
+            "reading": "しょうひん"
+          },
+          {
+            "kanji": "早",
+            "reading": "そう"
+          },
+          {
+            "kanji": "買",
+            "reading": "ばい"
+          },
+          {
+            "kanji": "感想",
+            "reading": "かんそう"
+          },
+          {
+            "kanji": "友達",
+            "reading": "ともだち"
+          },
+          {
+            "kanji": "広",
+            "reading": "こう"
+          },
+          {
+            "kanji": "消費者",
+            "reading": "しょうひしゃ"
+          },
+          {
+            "kanji": "理論",
+            "reading": "りろん"
+          },
+          {
+            "kanji": "同",
+            "reading": "どう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "その他の関連用語",
+      "vi": "Thuật ngữ liên quan khác",
+      "en": "Other Related Terms"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験における出題頻度はそれほど高くはないのですが、稀に出題されることがある、マーケティング用語を一覧で簡単に解説します。これらの用語は問題文や選択肢の中に出てくることがあります。特にUXは出題頻度が高いです。",
+      "vi": "Tần suất ra đề trong IT Passport không cao lắm, nhưng sẽ giải thích đơn giản các thuật ngữ Marketing đôi khi được ra đề. Các thuật ngữ này có thể xuất hiện trong đề bài hoặc lựa chọn. Đặc biệt UX có tần suất ra đề cao.",
+      "en": "Though not frequently tested in IT Passport, here's a simple list of Marketing terms that occasionally appear. These terms may appear in questions or choices. UX especially is frequently tested.",
+      "my": "IT Passport တွင် မကြာခဏ စမ်းသပ်ခြင်း မရှိသော်လည်း ရံဖန်ရံခါ ပေါ်လာသော Marketing ဝေါဟာရများ စာရင်းကို ဤနေရာတွင် ရိုးရှင်းစွာ ဖော်ပြထားသည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "稀",
+          "reading": "まれ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "一覧",
+          "reading": "いちらん"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "問題文",
+          "reading": "もんだいぶん"
+        },
+        {
+          "kanji": "選択肢",
+          "reading": "せんたくし"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "特",
+          "reading": "とく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "オピニオンリーダー",
+      "reading": "おぴにおんりーだー",
+      "romaji": "Opinion Leader",
+      "vi": "Người dẫn dắt ý kiến",
+      "en": "Opinion Leader",
+      "my": "Opinion Leader"
+    },
+    {
+      "kanji": "イノベーター",
+      "reading": "いのべーたー",
+      "romaji": "Innovator",
+      "vi": "Người đổi mới",
+      "en": "Innovator",
+      "my": "Innovator"
+    },
+    {
+      "kanji": "アーリーアダプター",
+      "reading": "あーりーあだぷたー",
+      "romaji": "Early Adopter",
+      "vi": "Người chấp nhận sớm",
+      "en": "Early Adopter",
+      "my": "Early Adopter"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

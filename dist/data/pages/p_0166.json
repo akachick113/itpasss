@@ -1,0 +1,56 @@
+{
+    "page_id": 166,
+    "image": "p_0166.png",
+    "chapter": 4,
+    "section": "answers",
+    "page_number": 150,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "4-13",
+            "answer": "エ",
+            "explanation": {
+                "ja": "エ. 活性化関数は、ニューラルネットワーク内の一つのニューロンにおいて、次のニューロンに渡す値を出力する関数です。",
+                "vi": "D. Hàm kích hoạt là hàm xuất giá trị truyền cho neuron tiếp theo trong một neuron trong Neural Network.",
+                "en": "D. Activation function is a function that outputs values to pass to the next neuron within one neuron in a neural network."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-14",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "ウ. ニューラルネットワークとは、人間の脳の中のニューロンという神経細胞が信号をやり取りする仕組みを、コンピュータ内で再現したシステムです。\n\nア. コンテンツデリバリネットワークとは、デジタルコンテンツをインターネット上で大量配信するためのネットワークです。\n\nイ. ストレージエリアネットワークとは、SSDやハードディスクなどの外部記憶装置（ストレージ）とサーバをつなぐネットワークです。\n\nエ. ユビキタスネットワークとは、いつでもどこでも利用できるネットワークです。",
+                "vi": "C. Neural Network là hệ thống tái tạo cơ chế tế bào thần kinh neuron trong não người trao đổi tín hiệu trong máy tính.\n\nA. Content Delivery Network là mạng để phân phối lượng lớn nội dung số trên internet.\n\nB. Storage Area Network là mạng kết nối thiết bị lưu trữ bên ngoài (SSD, ổ cứng) với server.\n\nD. Ubiquitous Network là mạng có thể sử dụng mọi lúc mọi nơi.",
+                "en": "C. Neural network is a system reproducing the mechanism of neurons in human brain exchanging signals on computers.\n\nA. Content Delivery Network is a network for mass distributing digital content on the internet.\n\nB. Storage Area Network is a network connecting external storage (SSD, hard disk) with servers.\n\nD. Ubiquitous Network is a network usable anytime, anywhere."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-15",
+            "answer": "ア",
+            "explanation": {
+                "ja": "ア.「学習して」「推測できる」という2つのキーワードは、AIの一分野である機械学習の特徴です。\n\nイ. AR (Augmented Reality) は、現実の風景にデジタルデータを重ね合わせて表示する技術です。\n\nウ. CRM (Customer Relationship Management) とは、顧客との良好な関係を築くことで長期的な利益を得る手法です。\n\nエ. ERP (Enterprise Resources Planning) とは、経営資源（ヒト、モノ、カネ、情報）を統合的に管理する手法です。",
+                "vi": "A. 2 keyword học và có thể suy luận là đặc điểm của Machine Learning, một lĩnh vực của AI.\n\nB. AR (Augmented Reality) là công nghệ hiển thị dữ liệu số chồng lên phong cảnh thực.\n\nC. CRM (Customer Relationship Management) là phương pháp đạt lợi nhuận dài hạn bằng cách xây dựng quan hệ tốt với khách hàng.\n\nD. ERP (Enterprise Resources Planning) là phương pháp quản lý tích hợp tài nguyên kinh doanh (con người, vật, tiền, thông tin).",
+                "en": "A. Keywords 'learning' and 'can infer' are characteristics of machine learning, an AI field.\n\nB. AR (Augmented Reality) is technology displaying digital data overlaid on real scenery.\n\nC. CRM (Customer Relationship Management) is a method to gain long-term profit by building good customer relationships.\n\nD. ERP (Enterprise Resources Planning) is a method to manage business resources (people, things, money, information) integrally."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-16",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "ウ. GPSとは、3つ以上の人工衛星の電波を使って、現在位置を測定するためのシステムです。GPSに関するキーワードは「3つ以上の人工衛星」です。このキーワードが含まれている選択肢ウが正解であると判断できます。",
+                "vi": "C. GPS là hệ thống đo vị trí hiện tại bằng sóng từ 3 vệ tinh nhân tạo trở lên. Keyword về GPS là 3 vệ tinh nhân tạo trở lên. Có thể phán đoán lựa chọn C chứa keyword này là đáp án đúng.",
+                "en": "C. GPS is a system measuring current position using radio waves from 3+ satellites. The GPS keyword is '3+ satellites'. We can determine option C containing this keyword is correct."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "4-13, 4-14, 4-15, 4-16"
+    }
+}

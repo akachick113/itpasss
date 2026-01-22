@@ -1,0 +1,196 @@
+{
+  "page_id": 205,
+  "image": "p_0205.png",
+  "chapter": 5,
+  "section": "05-04",
+  "page_number": 189,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "クラウドコンピューティング",
+      "reading": "くらうどこんぴゅーてぃんぐ",
+      "vi": "Cloud Computing",
+      "en": "Cloud Computing"
+    },
+    {
+      "type": "paragraph",
+      "ja": "クラウドコンピューティングとは、他社の敷地に置かれた、他社が所有しているサーバを借りるサービスです。この部分はホスティングサービスの解説とまったく同じです。ホスティングサービスとの違いは、契約しているサーバの所在です。\n\n注目！\n・ホスティングサービスでは、契約しているサーバの所在が明確\n・クラウドコンピューティングでは、契約しているサーバの所在が不明確\n\nつまり、ホスティングサービスでは自社が借りているサーバがどこにあり、どのような構成であるのかを把握できるのに対して、クラウドコンピューティングでは、ネットワークの先の状況が明確ではないということです。\n\nクラウドコンピューティングの提供企業は世界中にサーバを配置しており、また、さまざまな機器や技術を駆使して多彩なサービスを提供しています。利用者側はその構成や技術を把握する必要はなく、提供されているサービスを利用できます。\n\nこのように、具体的な構造が明確でないことから「クラウド（雲）」という名称がつけられたといわれています（諸説あります）。なお、クラウドコンピューティングは単に「クラウド」と呼ばれることも多いです。",
+      "vi": "Cloud Computing là dịch vụ thuê server thuộc sở hữu của công ty khác đặt trên đất công ty khác. Phần này giống hoàn toàn với giải thích Hosting Service. Khác biệt với Hosting Service là vị trí server đã ký hợp đồng.\n\nChú ý!\n・Với Hosting Service, vị trí server đã ký hợp đồng rõ ràng\n・Với Cloud Computing, vị trí server đã ký hợp đồng không rõ ràng\n\nNghĩa là, với Hosting Service có thể biết server đang thuê ở đâu và cấu hình như thế nào, nhưng với Cloud Computing tình trạng phía sau mạng không rõ ràng.\n\nCác công ty cung cấp Cloud Computing đặt server trên toàn thế giới và cung cấp nhiều dịch vụ đa dạng sử dụng nhiều thiết bị và công nghệ. Người dùng không cần nắm cấu hình hay công nghệ, chỉ cần sử dụng dịch vụ được cung cấp.\n\nVì cấu trúc cụ thể không rõ ràng nên được đặt tên là Cloud (mây) (có nhiều giả thuyết). Cloud Computing thường được gọi đơn giản là Cloud.",
+      "en": "Cloud Computing is a service renting servers owned by another company placed on that company's premises. This part is exactly the same as the Hosting Service explanation. The difference from Hosting Service is the location of the contracted server.\n\nNote!\n・In Hosting Service, the location of contracted servers is clear\n・In Cloud Computing, the location of contracted servers is unclear\n\nThis means, with Hosting Service you can know where your rented server is and its configuration, but with Cloud Computing, the situation beyond the network is unclear.\n\nCloud Computing providers place servers worldwide and provide various services using diverse equipment and technologies. Users don't need to understand the configuration or technology, just use the provided services.\n\nBecause the specific structure is unclear, it's said to be named 'Cloud' (various theories exist). Cloud Computing is often simply called 'Cloud'.",
+      "my": "Cloud Computing သည် အခြားကုမ္ပဏီပိုင်ဆိုင်သော server များကို ငှားရမ်းသော ဝန်ဆောင်မှုဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "他社",
+          "reading": "たしゃ"
+        },
+        {
+          "kanji": "敷地",
+          "reading": "しきち"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "所有",
+          "reading": "しょゆう"
+        },
+        {
+          "kanji": "借",
+          "reading": "しゃく"
+        },
+        {
+          "kanji": "部分",
+          "reading": "ぶぶん"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "契約",
+          "reading": "けいやく"
+        },
+        {
+          "kanji": "所在",
+          "reading": "しょざい"
+        },
+        {
+          "kanji": "注目",
+          "reading": "ちゅうもく"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "不明確",
+          "reading": "ふめいかく"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "先",
+          "reading": "さき"
+        },
+        {
+          "kanji": "状況",
+          "reading": "じょうきょう"
+        },
+        {
+          "kanji": "提供企業",
+          "reading": "ていきょうきぎょう"
+        },
+        {
+          "kanji": "世界中",
+          "reading": "せかいじゅう"
+        },
+        {
+          "kanji": "配置",
+          "reading": "はいち"
+        },
+        {
+          "kanji": "機器",
+          "reading": "きき"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "駆使",
+          "reading": "くし"
+        },
+        {
+          "kanji": "多彩",
+          "reading": "たさい"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "利用者側",
+          "reading": "りようしゃがわ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "構造",
+          "reading": "こうぞう"
+        },
+        {
+          "kanji": "雲",
+          "reading": "くも"
+        },
+        {
+          "kanji": "名称",
+          "reading": "めいしょう"
+        },
+        {
+          "kanji": "諸説",
+          "reading": "しょせつ"
+        },
+        {
+          "kanji": "単",
+          "reading": "たん"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "クラウドコンピューティング",
+      "reading": "くらうどこんぴゅーてぃんぐ",
+      "romaji": "Cloud Computing",
+      "vi": "Điện toán đám mây",
+      "en": "Cloud Computing",
+      "my": "တိမ်တိုက် ကွန်ပျူတာ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true
+  }
+}

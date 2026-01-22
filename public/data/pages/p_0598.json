@@ -1,0 +1,231 @@
+{
+    "page_id": 598,
+    "image": "p_0598.png",
+    "chapter": "review",
+    "section": "exam_review",
+    "page_number": 582,
+    "content": [
+        {
+            "type": "review_terms_continued",
+            "chapter_num": 8,
+            "terms": [
+                {
+                    "ja": "の経営手法",
+                    "vi": "Phương pháp quản lý",
+                    "en": "Management method"
+                },
+                {
+                    "ja": "BCPとは、事業をいかに継続するかをまとめた計画",
+                    "vi": "BCP là kế hoạch tổng hợp cách tiếp tục kinh doanh",
+                    "en": "BCP is plan summarizing how to continue business"
+                },
+                {
+                    "ja": "ファシリティマネジメントとは、建物や設備の設計や運用、維持などを最適化する手法である",
+                    "vi": "Facility Management là phương pháp tối ưu hóa thiết kế, vận hành, bảo trì tòa nhà và thiết bị",
+                    "en": "Facility Management is method optimizing design, operation, maintenance of buildings and facilities"
+                },
+                {
+                    "ja": "UPS（無停電電源装置）とは、一時的に電力を供給する設備である",
+                    "vi": "UPS (Bộ lưu điện) là thiết bị cung cấp điện tạm thời",
+                    "en": "UPS (Uninterruptible Power Supply) is equipment temporarily supplying power"
+                },
+                {
+                    "ja": "自家発電装置とは、長時間、システムに電力を供給するための機能",
+                    "vi": "Máy phát điện dự phòng là chức năng cung cấp điện cho hệ thống trong thời gian dài",
+                    "en": "Generator is function supplying power to system for long time"
+                },
+                {
+                    "ja": "フリーアクセスフロアとは、取り外し可能な床パネルを敷き詰めた構造",
+                    "vi": "Free Access Floor là cấu trúc lát sàn panel có thể tháo rời",
+                    "en": "Free Access Floor is structure with removable floor panels"
+                },
+                {
+                    "ja": "システム監査の目的とは、リスクに適切に対処しているかを評価すること",
+                    "vi": "Mục đích của kiểm toán hệ thống là đánh giá xem có đối phó rủi ro phù hợp không",
+                    "en": "System audit objective is evaluating whether risks are appropriately addressed"
+                },
+                {
+                    "ja": "投書の独立性とは、文章等の調査・見直しを行わない",
+                    "vi": "Tính độc lập của kiểm toán là không thực hiện điều tra, xem xét văn bản",
+                    "en": "Audit independence is not conducting document investigation or review"
+                },
+                {
+                    "ja": "監査人は独立した第三者であること（身内は不可）",
+                    "vi": "Kiểm toán viên phải là bên thứ ba độc lập (không được là người nhà)",
+                    "en": "Auditor must be independent third party (not insider)"
+                },
+                {
+                    "ja": "コーポレートガバナンスとは、ステークホルダが経営を監視すること、社外取締役を置用すると、コーポレートガバナンスが強化される",
+                    "vi": "Corporate Governance là việc stakeholder giám sát kinh doanh, bổ nhiệm giám đốc bên ngoài sẽ tăng cường Corporate Governance",
+                    "en": "Corporate Governance is stakeholders monitoring management, appointing outside directors strengthens Corporate Governance"
+                },
+                {
+                    "ja": "内部統制とは、社内のすべての人が業務を改善していくこと、社員は担当者の役割と仕事の権限を明確にする",
+                    "vi": "Kiểm soát nội bộ là tất cả mọi người trong công ty cải thiện nghiệp vụ, nhân viên làm rõ vai trò và quyền hạn công việc của người phụ trách",
+                    "en": "Internal control is all people in company improving work, employees clarify person in charge's role and work authority"
+                }
+            ]
+        },
+        {
+            "type": "review_chapter",
+            "chapter_num": 9,
+            "title": {
+                "ja": "9章",
+                "vi": "Chương 9",
+                "en": "Chapter 9"
+            },
+            "terms": [
+                {
+                    "ja": "アルゴリズムとは、問題を解決するときの手順",
+                    "vi": "Algorithm là thủ tục khi giải quyết vấn đề",
+                    "en": "Algorithm is procedure when solving problems"
+                },
+                {
+                    "ja": "HTMLとは、Webページの論理構造や文字要素を記述するマークアップ言語",
+                    "vi": "HTML là ngôn ngữ đánh dấu mô tả cấu trúc logic và yếu tố ký tự của trang Web",
+                    "en": "HTML is markup language describing logical structure and character elements of Web pages"
+                },
+                {
+                    "ja": "HTMLでは、タグの使い方が決まっている",
+                    "vi": "Trong HTML, cách sử dụng tag đã được quy định",
+                    "en": "In HTML, tag usage is predetermined"
+                },
+                {
+                    "ja": "XMLでは、利用者が自由にタグを定義できる",
+                    "vi": "Trong XML, người dùng có thể tự do định nghĩa tag",
+                    "en": "In XML, users can freely define tags"
+                },
+                {
+                    "ja": "CSSとは、WebページのデザインやレイアウトPを指定する言語",
+                    "vi": "CSS là ngôn ngữ chỉ định thiết kế và layout của trang Web",
+                    "en": "CSS is language specifying Web page design and layout"
+                },
+                {
+                    "ja": "変数の意義としてできることが3つある：整数型",
+                    "vi": "Có 3 điều có thể làm với ý nghĩa của biến: kiểu số nguyên",
+                    "en": "There are 3 things variable significance can do: integer type"
+                },
+                {
+                    "ja": "変数の意義とは、文字型に整数の場合「-」を使う",
+                    "vi": "Ý nghĩa của biến là sử dụng \"-\" trong trường hợp số nguyên cho kiểu ký tự",
+                    "en": "Variable significance is using '-' for integer in character type"
+                },
+                {
+                    "ja": "(例) 整数型：num",
+                    "vi": "(Ví dụ) Kiểu số nguyên: num",
+                    "en": "(Example) Integer type: num"
+                },
+                {
+                    "ja": "変数の意義とは、文字列型の場合は文字の個数をx文字以内",
+                    "vi": "Ý nghĩa của biến là số ký tự trong x ký tự trở xuống cho kiểu chuỗi ký tự",
+                    "en": "Variable significance is number of characters within x characters for string type"
+                },
+                {
+                    "ja": "(例) 文字型：num = 3",
+                    "vi": "(Ví dụ) Kiểu ký tự: num = 3",
+                    "en": "(Example) Character type: num = 3"
+                },
+                {
+                    "ja": "配列の初期化は「1」を使う",
+                    "vi": "Khởi tạo mảng sử dụng \"1\"",
+                    "en": "Array initialization uses '1'"
+                },
+                {
+                    "ja": "配列から要素を取り出すには「[]」を使う",
+                    "vi": "Để lấy phần tử từ mảng, sử dụng \"[]\"",
+                    "en": "To extract elements from array, use '[]'"
+                }
+            ]
+        },
+        {
+            "type": "review_chapter",
+            "chapter_num": 10,
+            "title": {
+                "ja": "10章",
+                "vi": "Chương 10",
+                "en": "Chapter 10"
+            },
+            "terms": [
+                {
+                    "ja": "シンクライアントでは、クライアント側にデータが残らない（保存されない）",
+                    "vi": "Trong Thin Client, dữ liệu không còn lại (không được lưu) ở phía client",
+                    "en": "In Thin Client, data doesn't remain (isn't saved) on client side"
+                },
+                {
+                    "ja": "サーバの仮想化とは、1台のコンピュータで複数のOSを動かす技術",
+                    "vi": "Ảo hóa server là công nghệ chạy nhiều OS trên 1 máy tính",
+                    "en": "Server virtualization is technology running multiple OS on 1 computer"
+                },
+                {
+                    "ja": "デュプレックスシステムとは、メインで動作するコンピュータと、故障に備えて待機しているコンピュータの2つのコンピュータからなるシステム",
+                    "vi": "Duplex System là hệ thống gồm 2 máy tính: máy tính hoạt động chính và máy tính chờ để phòng hỏng hóc",
+                    "en": "Duplex System is system consisting of 2 computers: main operating computer and standby computer for failure"
+                },
+                {
+                    "ja": "デュアルシステムとは、2つのコンピュータが同じ処理を行い、結果を紹介し合っているシステム",
+                    "vi": "Dual System là hệ thống 2 máy tính thực hiện cùng xử lý và giới thiệu kết quả cho nhau",
+                    "en": "Dual System is system where 2 computers perform same processing and share results"
+                },
+                {
+                    "ja": "ストライピング（RAID 0）とは、複数のハードディスクにデータを分散させて記録する",
+                    "vi": "Striping (RAID 0) là ghi dữ liệu phân tán trên nhiều ổ cứng",
+                    "en": "Striping (RAID 0) is recording data distributed across multiple hard disks"
+                },
+                {
+                    "ja": "ミラーリング（RAID 1）とは、複数のハードディスクに同じデータを書き込む。記録時間が長くなる",
+                    "vi": "Mirroring (RAID 1) là ghi cùng dữ liệu vào nhiều ổ cứng. Thời gian ghi dài hơn",
+                    "en": "Mirroring (RAID 1) is writing same data to multiple hard disks. Recording time becomes longer"
+                },
+                {
+                    "ja": "パリティを使う：複数のハードディスクにデータを書き込む + パリティ",
+                    "vi": "Sử dụng parity: Ghi dữ liệu vào nhiều ổ cứng + parity",
+                    "en": "Using parity: Write data to multiple hard disks + parity"
+                },
+                {
+                    "ja": "稼働率とは、欠かしなく動作している割合",
+                    "vi": "Tỷ lệ hoạt động là tỷ lệ hoạt động không gián đoạn",
+                    "en": "Availability rate is ratio of operating without interruption"
+                },
+                {
+                    "ja": "直列システムの稼働率の計算",
+                    "vi": "Tính tỷ lệ hoạt động của hệ thống nối tiếp",
+                    "en": "Calculating availability rate of series system"
+                },
+                {
+                    "ja": "MTBFとは、稼働時間の計÷故障回数",
+                    "vi": "MTBF là tổng thời gian hoạt động ÷ số lần hỏng",
+                    "en": "MTBF is total operating time ÷ number of failures"
+                },
+                {
+                    "ja": "MTTRとは、システムの復帰性を表す指標",
+                    "vi": "MTTR là chỉ số thể hiện khả năng phục hồi của hệ thống",
+                    "en": "MTTR is indicator showing system recoverability"
+                },
+                {
+                    "ja": "MTTR＝故障時間の計÷故障回数",
+                    "vi": "MTTR = tổng thời gian hỏng ÷ số lần hỏng",
+                    "en": "MTTR = total failure time ÷ number of failures"
+                },
+                {
+                    "ja": "稼働率＝MTBF ÷ (MTBF + MTTR)",
+                    "vi": "Tỷ lệ hoạt động = MTBF ÷ (MTBF + MTTR)",
+                    "en": "Availability = MTBF ÷ (MTBF + MTTR)"
+                },
+                {
+                    "ja": "フォールトトレラントとは、コンピュータが故障しても稼働し続ける。システムを全体として機能させ続けること",
+                    "vi": "Fault Tolerant là tiếp tục hoạt động ngay cả khi máy tính hỏng. Tiếp tục hoạt động hệ thống như một tổng thể",
+                    "en": "Fault Tolerant is continuing to operate even if computer fails. Continuing to function as whole system"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "is_review": true,
+        "chapters_covered": [
+            8,
+            9,
+            10
+        ]
+    }
+}

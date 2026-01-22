@@ -1,0 +1,293 @@
+{
+  "page_id": 338,
+  "image": "p_0338.png",
+  "chapter": 9,
+  "section": "09-02",
+  "page_number": 322,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "09-02",
+      "title": {
+        "ja": "集合と論理演算",
+        "vi": "Tập hợp và Phép toán Logic",
+        "en": "Sets and Logical Operations"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "ジョン・ベンからの贈り物",
+        "vi": "Món quà từ John Venn",
+        "en": "Gift from John Venn"
+      },
+      "content": {
+        "ja": "本項で解説する「集合」や「論理演算」の問題ではベン図が最強のツールです。集合や論理演算の問題を見たら、すぐにベン図を描きましょう。",
+        "vi": "Trong các bài toán \"Tập hợp\" và \"Phép toán Logic\" giải thích ở phần này, biểu đồ Venn là công cụ mạnh nhất. Khi thấy bài toán tập hợp hoặc phép toán logic, hãy vẽ biểu đồ Venn ngay.",
+        "en": "For 'Set' and 'Logical Operation' problems explained here, Venn diagram is strongest tool. When seeing set or logical operation problems, draw Venn diagram immediately."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "集合とベン図",
+      "reading": "しゅうごうとべんず",
+      "vi": "Tập hợp và Biểu đồ Venn",
+      "en": "Sets and Venn Diagrams"
+    },
+    {
+      "type": "paragraph",
+      "ja": "集合とは、はっきりと区別できる条件でグループ分けされたものの集まりです。そして、その集合を構成する個々のものを「要素」といいます。",
+      "vi": "Tập hợp là sự tụ họp của các thứ được phân nhóm theo điều kiện có thể phân biệt rõ ràng. Và các thứ riêng lẻ cấu thành tập hợp đó gọi là \"phần tử\".",
+      "en": "Set is collection of things grouped by clearly distinguishable conditions. And individual items that compose the set are called 'elements.'",
+      "terms": [
+        {
+          "kanji": "集合",
+          "reading": "しゅうごう"
+        },
+        {
+          "kanji": "区別",
+          "reading": "くべつ"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "個",
+          "reading": "こ"
+        },
+        {
+          "kanji": "要素",
+          "reading": "ようそ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "また、ベン図とは、集合の関係を視覚的に表した図です。イギリス人の数学者ジョン・ベンが考えた図なので「ベン図」と呼ばれます。ベン図を使うと、集合や要素の関係をわかりやすく表現できます。",
+      "vi": "Ngoài ra, biểu đồ Venn là sơ đồ biểu diễn trực quan mối quan hệ của tập hợp. Vì được nhà toán học người Anh John Venn nghĩ ra nên gọi là \"Biểu đồ Venn\". Sử dụng biểu đồ Venn có thể biểu diễn mối quan hệ tập hợp và phần tử một cách dễ hiểu.",
+      "en": "Also, Venn diagram is figure that visually represents set relationships. Called 'Venn diagram' because British mathematician John Venn conceived it. Using Venn diagrams can express set and element relationships clearly.",
+      "terms": [
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "集合",
+          "reading": "しゅうごう"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "視覚的",
+          "reading": "しかくてき"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "数学者",
+          "reading": "すうがくしゃ"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "要素",
+          "reading": "ようそ"
+        },
+        {
+          "kanji": "表現",
+          "reading": "ひょうげん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "∩と∪",
+      "reading": "きゃっぷとかっぷ",
+      "vi": "∩ và ∪",
+      "en": "∩ and ∪"
+    },
+    {
+      "type": "paragraph",
+      "ja": "複数の集合がある場合は、∩や∪の記号を使って集合や要素の関係を表します。∩は「かつ」という意味、∪は「または」という意味の記号です。",
+      "vi": "Khi có nhiều tập hợp, sử dụng ký hiệu ∩ hoặc ∪ để biểu diễn mối quan hệ tập hợp và phần tử. ∩ có nghĩa là \"và\" (giao), ∪ có nghĩa là \"hoặc\" (hợp).",
+      "en": "When there are multiple sets, use ∩ or ∪ symbols to represent set and element relationships. ∩ means 'and' (intersection), ∪ means 'or' (union).",
+      "terms": [
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "集合",
+          "reading": "しゅうごう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "記号",
+          "reading": "きごう"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "要素",
+          "reading": "ようそ"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "∩と∪",
+        "vi": "∩ và ∪",
+        "en": "∩ and ∪"
+      },
+      "headers": {
+        "ja": [
+          "記号",
+          "意味",
+          "呼び方",
+          "ベン図"
+        ],
+        "vi": [
+          "Ký hiệu",
+          "Nghĩa",
+          "Cách gọi",
+          "Biểu đồ Venn"
+        ],
+        "en": [
+          "Symbol",
+          "Meaning",
+          "Name",
+          "Venn Diagram"
+        ]
+      },
+      "rows": [
+        {
+          "symbol": "A∩B",
+          "meaning": {
+            "ja": "AかつB",
+            "vi": "A và B",
+            "en": "A and B"
+          },
+          "name": {
+            "ja": "積集合",
+            "note": "キャップ・カップ",
+            "vi": "Giao tập hợp",
+            "en": "Intersection"
+          },
+          "venn": "A∩B (phần chung của A và B)"
+        },
+        {
+          "symbol": "A∪B",
+          "meaning": {
+            "ja": "AまたはB",
+            "vi": "A hoặc B",
+            "en": "A or B"
+          },
+          "name": {
+            "ja": "和集合",
+            "note": "カップ・ユニオン",
+            "vi": "Hợp tập hợp",
+            "en": "Union"
+          },
+          "venn": "A∪B (toàn bộ A và B)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "集合",
+      "reading": "しゅうごう",
+      "romaji": "Shuugou",
+      "vi": "Tập hợp",
+      "en": "Set",
+      "my": "အစုံးအဝေး"
+    },
+    {
+      "kanji": "要素",
+      "reading": "ようそ",
+      "romaji": "Youso",
+      "vi": "Phần tử",
+      "en": "Element",
+      "my": "အစိတ်အပိုင်း"
+    },
+    {
+      "kanji": "ベン図",
+      "reading": "べんず",
+      "romaji": "Venn Diagram",
+      "vi": "Biểu đồ Venn",
+      "en": "Venn Diagram",
+      "my": "ဗင်း ပုံပြင်"
+    },
+    {
+      "kanji": "積集合",
+      "reading": "せきしゅうごう",
+      "romaji": "Sekishuugou",
+      "vi": "Giao tập hợp",
+      "en": "Intersection",
+      "my": "လမ်းဆုံ"
+    },
+    {
+      "kanji": "和集合",
+      "reading": "わしゅうごう",
+      "romaji": "Washuugou",
+      "vi": "Hợp tập hợp",
+      "en": "Union",
+      "my": "ပေါင်းစုံ"
+    }
+  ],
+  "meta": {
+    "has_illustration": true,
+    "has_table": true
+  }
+}

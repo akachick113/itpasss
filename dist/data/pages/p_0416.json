@@ -1,0 +1,303 @@
+{
+  "page_id": 416,
+  "image": "p_0416.png",
+  "chapter": 11,
+  "section": "11-03",
+  "page_number": 400,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（2）コア",
+      "vi": "(2) Lõi",
+      "en": "(2) Core"
+    },
+    {
+      "type": "paragraph",
+      "ja": "コアとは、CPU内にある「演算（計算）処理を行う装置」です。最近は1つのCPU内に複数のコアが搭載されているコンピュータが主流です。このように、1つのCPU内に複数のコアを持つCPUのことを「マルチコアプロセッサ」といいます。",
+      "vi": "Core (lõi) là \"thiết bị thực hiện xử lý tính toán\" trong CPU. Gần đây, máy tính có nhiều lõi được trang bị trong một CPU là xu hướng chính. Như vậy, CPU có nhiều lõi trong một CPU được gọi là \"bộ xử lý đa lõi\".",
+      "en": "Core is 'device performing arithmetic (calculation) processing' in CPU. Recently, computers with multiple cores in one CPU are mainstream. CPU with multiple cores in one CPU like this is called 'multi-core processor.'",
+      "terms": [
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "演算",
+          "reading": "えんざん"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "最近",
+          "reading": "さいきん"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "搭載",
+          "reading": "とうさい"
+        },
+        {
+          "kanji": "主流",
+          "reading": "しゅりゅう"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "また、より具体的に、例えば、2つのコアを持つプロセッサを「デュアルコアプロセッサ」、4つのコアを持つプロセッサを「クアッドコアプロセッサ」といいます。マルチコアプロセッサでは、それぞれのコアが別々の処理を実行できるため、多くのコアが搭載されているCPUのほうが、性能が高いといえます。",
+      "vi": "Ngoài ra, cụ thể hơn, ví dụ, bộ xử lý có 2 lõi được gọi là \"bộ xử lý lõi kép\", bộ xử lý có 4 lõi được gọi là \"bộ xử lý bốn lõi\". Trong bộ xử lý đa lõi, mỗi lõi có thể thực hiện xử lý riêng biệt, nên có thể nói CPU có nhiều lõi có hiệu suất cao hơn.",
+      "en": "More specifically, for example, processor with 2 cores is called 'dual-core processor,' processor with 4 cores is called 'quad-core processor.' In multi-core processor, each core can execute separate processing, so CPU with more cores has higher performance.",
+      "terms": [
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "搭載",
+          "reading": "とうさい"
+        },
+        {
+          "kanji": "性能",
+          "reading": "せいのう"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "マルチコアプロセッサの動作",
+        "vi": "Hoạt động của bộ xử lý đa lõi",
+        "en": "Multi-core Processor Operation"
+      },
+      "description": {
+        "ja": "シングルコアCPU：1+1=2だよ！→3-2=1だよ！（1つずつ処理）。デュアルコアCPU：Core 1が1+1=2、Core 2が1+1=2だよね！（同時に別々の処理が可能）",
+        "vi": "CPU đơn lõi: 1+1=2 đây! → 3-2=1 đây! (xử lý từng cái một). CPU lõi kép: Core 1 tính 1+1=2, Core 2 tính 1+1=2 nhé! (có thể xử lý riêng biệt đồng thời)",
+        "en": "Single-core CPU: 1+1=2! → 3-2=1! (process one by one). Dual-core CPU: Core 1 does 1+1=2, Core 2 does 1+1=2! (can process separately simultaneously)"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（3）レジスタのデータサイズ",
+      "vi": "(3) Kích thước dữ liệu thanh ghi",
+      "en": "(3) Register Data Size"
+    },
+    {
+      "type": "paragraph",
+      "ja": "レジスタとは、CPU内にある「データを一時的に記憶する装置」です。コンピュータは主に、主記憶装置（p.402）にデータを保存するのですが、CPUの内部にもデータを保存する場所（レジスタ）が用意されています。",
+      "vi": "Thanh ghi là \"thiết bị ghi nhớ dữ liệu tạm thời\" trong CPU. Máy tính chủ yếu lưu dữ liệu vào bộ nhớ chính (trang 402), nhưng trong CPU cũng có nơi lưu dữ liệu (thanh ghi) được chuẩn bị.",
+      "en": "Register is 'device temporarily storing data' in CPU. Computer mainly saves data to main memory (p.402), but place to save data (register) is also prepared inside CPU.",
+      "terms": [
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "一時的",
+          "reading": "いちじてき"
+        },
+        {
+          "kanji": "記憶",
+          "reading": "きおく"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "主記憶装置",
+          "reading": "しゅきおくそうち"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "内部",
+          "reading": "ないぶ"
+        },
+        {
+          "kanji": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "kanji": "用意",
+          "reading": "ようい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "レジスタのデータサイズは主に32ビットと64ビットの2種類です。内部に32ビットのデータサイズのレジスタを持つCPUを「32ビットCPU」、同様に64ビットのデータサイズのレジスタを持つCPUを「64ビットCPU」と呼びます。64ビットCPUのほうが一度に読み込むことができるデータが大きいので、より高速に処理できます。",
+      "vi": "Kích thước dữ liệu thanh ghi chủ yếu có 2 loại: 32-bit và 64-bit. CPU có thanh ghi kích thước dữ liệu 32-bit bên trong được gọi là \"CPU 32-bit\", tương tự CPU có thanh ghi kích thước dữ liệu 64-bit được gọi là \"CPU 64-bit\". CPU 64-bit có thể đọc dữ liệu lớn hơn trong một lần nên có thể xử lý nhanh hơn.",
+      "en": "Register data size is mainly 2 types: 32-bit and 64-bit. CPU with 32-bit data size register inside is called '32-bit CPU,' similarly CPU with 64-bit data size register is called '64-bit CPU.' 64-bit CPU can read more data at once, so can process faster.",
+      "terms": [
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "内部",
+          "reading": "ないぶ"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "一度",
+          "reading": "いちど"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "込",
+          "reading": "こみ"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "高速",
+          "reading": "こうそく"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "マルチコアプロセッサでは、各コアが別々の処理を行う（同じ処理を複数のコアが行い、その結果を照合することではない）",
+          "vi": "Trong bộ xử lý đa lõi, mỗi lõi thực hiện xử lý riêng biệt (không phải nhiều lõi thực hiện cùng xử lý và so sánh kết quả)",
+          "en": "In multi-core processor, each core performs separate processing (not multiple cores performing same processing and comparing results)"
+        },
+        {
+          "ja": "32ビットCPUよりも、64ビットCPUのほうが処理が高速",
+          "vi": "CPU 64-bit xử lý nhanh hơn CPU 32-bit",
+          "en": "64-bit CPU processes faster than 32-bit CPU"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "コア",
+      "vi": "Lõi (Core)",
+      "en": "Core",
+      "my": "ကို"
+    },
+    {
+      "term": "マルチコアプロセッサ",
+      "vi": "Bộ xử lý đa lõi",
+      "en": "Multi-core Processor",
+      "my": "မုန်တီကို ပရိုစက်ဆာ"
+    },
+    {
+      "term": "デュアルコアプロセッサ",
+      "vi": "Bộ xử lý lõi kép",
+      "en": "Dual-core Processor",
+      "my": "ဒူရဲကို ပရိုစက်ဆာ"
+    },
+    {
+      "term": "クアッドコアプロセッサ",
+      "vi": "Bộ xử lý bốn lõi",
+      "en": "Quad-core Processor",
+      "my": "ကွော့ဒ်ကို ပရိုစက်ဆာ"
+    },
+    {
+      "term": "レジスタ",
+      "vi": "Thanh ghi",
+      "en": "Register",
+      "my": "ရဂျစ်တာ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

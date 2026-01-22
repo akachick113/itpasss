@@ -1,0 +1,328 @@
+{
+  "page_id": 120,
+  "image": "p_0120.png",
+  "chapter": 3,
+  "section": "03-03",
+  "page_number": 104,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "03-03",
+      "ja": "経営戦略に関する重要用語",
+      "reading": "けいえいせんりゃくにかんするじゅうようようご",
+      "vi": "Thuật ngữ quan trọng về chiến lược kinh doanh",
+      "en": "Important Business Strategy Terms",
+      "my": "စီးပွားရေးဗျူဟာဆိုင်ရာ အရေးကြီးသော ဝေါဟာရများ"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "小さいなりの経営戦略",
+        "vi": "Chiến lược kinh doanh cho quy mô nhỏ",
+        "en": "Business Strategy for Small Scale",
+        "my": "အငယ်စားအတွက် စီးပွားရေးဗျူဟာ",
+        "terms": [
+          {
+            "kanji": "経営戦略",
+            "reading": "けいえいせんりゃく"
+          },
+          {
+            "kanji": "戦略",
+            "reading": "せんりゃく"
+          },
+          {
+            "kanji": "経営",
+            "reading": "けいえい"
+          }
+        ]
+      },
+      "content": {
+        "ja": "世の中には実に多様な経営戦略があります。大企業には大企業に適した、中小企業には中小企業に適した経営戦略があります。",
+        "vi": "Trên thế giới có rất nhiều chiến lược kinh doanh đa dạng. Doanh nghiệp lớn có chiến lược phù hợp với doanh nghiệp lớn, doanh nghiệp vừa và nhỏ có chiến lược phù hợp với doanh nghiệp vừa và nhỏ.",
+        "en": "There are truly diverse business strategies in the world. Large companies have strategies suited for large companies, small-medium businesses have strategies suited for them.",
+        "my": "ကမ္ဘာပေါ်တွင် မတူညီသော စီးပွားရေးဗျူဟာများ အမှန်တကယ်ရှိသည်။",
+        "terms": [
+          {
+            "kanji": "世",
+            "reading": "よ"
+          },
+          {
+            "kanji": "中",
+            "reading": "なか"
+          },
+          {
+            "kanji": "実",
+            "reading": "み"
+          },
+          {
+            "kanji": "多様",
+            "reading": "たよう"
+          },
+          {
+            "kanji": "経営戦略",
+            "reading": "けいえいせんりゃく"
+          },
+          {
+            "kanji": "大企業",
+            "reading": "だいきぎょう"
+          },
+          {
+            "kanji": "適",
+            "reading": "てき"
+          },
+          {
+            "kanji": "中小企業",
+            "reading": "ちゅうしょうきぎょう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、ITパスポートの試験範囲に含まれている、経営戦略に関する重要用語を解説していきます。\n\nなお、最重要用語は前述した「SWOT分析」と「PPM」なので、まずはこの2つを押さえたうえで本項を読み進めてください。\n\n本項掲載の用語の中では「M&A」「TOB」「MBO」「アライアンス」の4つの用語がよく出題されます。各用語の概要と特徴をきちんと理解することが大切です。",
+      "vi": "Từ đây sẽ giải thích các thuật ngữ quan trọng về chiến lược kinh doanh trong phạm vi thi IT Passport.\n\nLưu ý, thuật ngữ quan trọng nhất là SWOT Analysis và PPM đã nói, nên hãy nắm vững 2 thuật ngữ này trước khi đọc phần này.\n\nTrong các thuật ngữ của phần này, 4 thuật ngữ M&A, TOB, MBO, Alliance thường được ra đề. Điều quan trọng là hiểu rõ tổng quan và đặc điểm của mỗi thuật ngữ.",
+      "en": "From here, we'll explain important business strategy terms included in IT Passport exam scope.\n\nNote that the most important terms are SWOT Analysis and PPM mentioned earlier, so understand those 2 first before reading this section.\n\nAmong terms in this section, M&A, TOB, MBO, Alliance are frequently tested. Understanding each term's overview and characteristics is important.",
+      "my": "ဤနေရာမှစ၍ IT Passport စာမေးပွဲ နယ်ပယ်အတွင်း ပါဝင်သော အရေးကြီးသော စီးပွားရေးဗျူဟာ ဝေါဟာရများကို ရှင်းပြပါမည်။",
+      "terms": [
+        {
+          "kanji": "試験範囲",
+          "reading": "しけんはんい"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "経営戦略",
+          "reading": "けいえいせんりゃく"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "重要用語",
+          "reading": "じゅうようようご"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "最重要用語",
+          "reading": "さいじゅうようようご"
+        },
+        {
+          "kanji": "前述",
+          "reading": "ぜんじゅつ"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "押",
+          "reading": "おう"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "本項掲載",
+          "reading": "ほんこうけいさい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "各用語",
+          "reading": "かくようご"
+        },
+        {
+          "kanji": "概要",
+          "reading": "がいよう"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "コトラーの競争戦略",
+      "reading": "ことらーのきょうそうせんりゃく",
+      "vi": "Chiến lược cạnh tranh của Kotler",
+      "en": "Kotler's Competitive Strategy",
+      "my": "Kotler ၏ ပြိုင်ဆိုင်မှုဗျူဟာ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "コトラーの競争戦略とは、市場シェアの大きさによって企業を「リーダー」「チャレンジャー」「フォロワー」「ニッチャー」の4つに分類する理論です。各分類ごとに「取るべき戦略」が示されています。",
+      "vi": "Chiến lược cạnh tranh của Kotler là lý thuyết phân loại doanh nghiệp thành 4 loại theo quy mô thị phần: Leader (Người dẫn đầu), Challenger (Người thách thức), Follower (Người theo sau), Nicher (Người ngách). Mỗi phân loại được chỉ ra Chiến lược nên thực hiện.",
+      "en": "Kotler's Competitive Strategy is a theory classifying companies into 4 types by market share size: Leader, Challenger, Follower, Nicher. Each classification shows Strategies to adopt.",
+      "my": "Kotler ၏ ပြိုင်ဆိုင်မှုဗျူဟာသည် ဈေးကွက်ဝေစု အရွယ်အစားအလိုက် ကုမ္ပဏီများကို အမျိုးအစား ၄ ခုအဖြစ် ခွဲခြားသော သီအိုရီဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "競争戦略",
+          "reading": "きょうそうせんりゃく"
+        },
+        {
+          "kanji": "市場",
+          "reading": "しじょう"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "理論",
+          "reading": "りろん"
+        },
+        {
+          "kanji": "各分類",
+          "reading": "かくぶんるい"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "戦略",
+          "reading": "せんりゃく"
+        },
+        {
+          "kanji": "示",
+          "reading": "じ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "リーダー",
+      "reading": "りーだー",
+      "vi": "Leader (Người dẫn đầu)",
+      "en": "Leader"
+    },
+    {
+      "type": "paragraph",
+      "ja": "リーダーは、業界でトップシェアを持つ企業です。リーダーの目標は自社のシェア拡大だけではありません。リーダーの戦略は市場規模の拡大です。なぜなら、市場規模を拡大することでより大きな利益を得ることができるからです。",
+      "vi": "Leader là doanh nghiệp có thị phần hàng đầu trong ngành. Mục tiêu của Leader không chỉ là mở rộng thị phần của mình. Chiến lược của Leader là mở rộng quy mô thị trường. Vì bằng cách mở rộng quy mô thị trường có thể thu được lợi nhuận lớn hơn.",
+      "en": "Leader is the company with top market share in the industry. Leader's goal is not just expanding own share. Leader's strategy is expanding market size. Because expanding market size allows gaining larger profits.",
+      "my": "Leader သည် လုပ်ငန်းနယ်ပယ်တွင် ထိပ်တန်း ဈေးကွက်ဝေစုရှိသော ကုမ္ပဏီဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "業界",
+          "reading": "ぎょうかい"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "目標",
+          "reading": "もくひょう"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "拡大",
+          "reading": "かくだい"
+        },
+        {
+          "kanji": "戦略",
+          "reading": "せんりゃく"
+        },
+        {
+          "kanji": "市場規模",
+          "reading": "しじょうきぼ"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "M&A",
+      "reading": "えむあんどえー",
+      "romaji": "M&A",
+      "vi": "Mua bán và sáp nhập",
+      "en": "Mergers and Acquisitions",
+      "my": "M&A"
+    },
+    {
+      "kanji": "リーダー",
+      "reading": "りーだー",
+      "romaji": "Leader",
+      "vi": "Người dẫn đầu",
+      "en": "Leader",
+      "my": "Leader"
+    },
+    {
+      "kanji": "チャレンジャー",
+      "reading": "ちゃれんじゃー",
+      "romaji": "Challenger",
+      "vi": "Người thách thức",
+      "en": "Challenger",
+      "my": "Challenger"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

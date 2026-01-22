@@ -1,0 +1,155 @@
+{
+    "page_id": 587,
+    "image": "p_0587.png",
+    "chapter": 15,
+    "section": "practice_questions_2",
+    "page_number": 571,
+    "content": [
+        {
+            "type": "question",
+            "id": "15-21",
+            "year": "平成27年度",
+            "question": {
+                "ja": "ブラウザとWebサーバ間でSSLを使った通信を行うことを示すURLの先頭の記述として、適切なものはどれか。",
+                "vi": "Mô tả nào phù hợp ở đầu URL cho biết truyền thông sử dụng SSL giữa trình duyệt và Web server?",
+                "en": "Which is appropriate description at beginning of URL indicating SSL communication between browser and Web server?"
+            },
+            "options": [
+                {
+                    "id": "ア",
+                    "text": "http://"
+                },
+                {
+                    "id": "イ",
+                    "text": "https://"
+                },
+                {
+                    "id": "ウ",
+                    "text": "shttp://"
+                },
+                {
+                    "id": "エ",
+                    "text": "ssl://"
+                }
+            ],
+            "answer": "イ"
+        },
+        {
+            "type": "question",
+            "id": "15-22",
+            "year": "平成25年度",
+            "question": {
+                "ja": "企業内ネットワークからも、外部ネットワークからも論理的に隔離されたネットワーク領域であり、そこに設置されたサーバが外部から不正アクセスを受けたとしても、企業内ネットワークには被害が及ばないようにするためのものはどれか。",
+                "vi": "Đâu là vùng mạng được cô lập logic khỏi cả mạng nội bộ doanh nghiệp và mạng bên ngoài, và ngay cả khi server đặt ở đó bị truy cập trái phép từ bên ngoài, mạng nội bộ doanh nghiệp cũng không bị ảnh hưởng?",
+                "en": "Which is network area logically isolated from both corporate internal and external networks, where even if server placed there receives unauthorized access from outside, corporate internal network is not affected?"
+            },
+            "options": [
+                {
+                    "id": "ア",
+                    "ja": "DMZ",
+                    "vi": "DMZ",
+                    "en": "DMZ"
+                },
+                {
+                    "id": "イ",
+                    "ja": "DNS",
+                    "vi": "DNS",
+                    "en": "DNS"
+                },
+                {
+                    "id": "ウ",
+                    "ja": "DoS",
+                    "vi": "DoS",
+                    "en": "DoS"
+                },
+                {
+                    "id": "エ",
+                    "ja": "SSL",
+                    "vi": "SSL",
+                    "en": "SSL"
+                }
+            ],
+            "answer": "ア"
+        },
+        {
+            "type": "question",
+            "id": "15-23",
+            "year": "令和2年度",
+            "question": {
+                "ja": "ハードウェアなどに対して外部から不正に行われる内部データの改ざんや解読、取出しなどがされにくくなっている性質を表すものはどれか。",
+                "vi": "Thuật ngữ nào thể hiện tính chất khó bị sửa đổi, giải mã hoặc lấy dữ liệu nội bộ trái phép từ bên ngoài đối với phần cứng?",
+                "en": "Which represents property making it difficult to falsify, decrypt, or extract internal data from hardware by external unauthorized access?"
+            },
+            "options": [
+                {
+                    "id": "ア",
+                    "ja": "可用性",
+                    "vi": "Tính khả dụng",
+                    "en": "Availability"
+                },
+                {
+                    "id": "イ",
+                    "ja": "信頼性",
+                    "vi": "Tính tin cậy",
+                    "en": "Reliability"
+                },
+                {
+                    "id": "ウ",
+                    "ja": "責任追跡性",
+                    "vi": "Tính truy vết trách nhiệm",
+                    "en": "Accountability"
+                },
+                {
+                    "id": "エ",
+                    "ja": "耐タンパ性",
+                    "vi": "Tính chống giả mạo",
+                    "en": "Tamper Resistance"
+                }
+            ],
+            "answer": "エ"
+        },
+        {
+            "type": "question",
+            "id": "15-24",
+            "year": "令和7年度",
+            "question": {
+                "ja": "従業員が使用するPCがランサムウェアに感染した場合の損害を軽減する対策例として、適切なものはどれか。",
+                "vi": "Ví dụ biện pháp phù hợp để giảm thiểu thiệt hại khi PC nhân viên bị nhiễm Ransomware là gì?",
+                "en": "Which is appropriate example of countermeasure to reduce damage when employee PC is infected with Ransomware?"
+            },
+            "options": [
+                {
+                    "id": "ア",
+                    "ja": "PCが接続するファイルサーバのHDDのバックアップデータを定期的に取得し、ネットワークから切り離して保管する。",
+                    "vi": "Lấy backup dữ liệu HDD của file server mà PC kết nối định kỳ và bảo quản tách khỏi mạng.",
+                    "en": "Regularly obtain backup data of file server HDD that PC connects to and store disconnected from network."
+                },
+                {
+                    "id": "イ",
+                    "ja": "PCに多要素認証の仕組みを導入する。",
+                    "vi": "Đưa cơ chế xác thực đa yếu tố vào PC.",
+                    "en": "Introduce multi-factor authentication mechanism to PC."
+                },
+                {
+                    "id": "ウ",
+                    "ja": "PCのHDDを暗号化する。",
+                    "vi": "Mã hóa HDD của PC.",
+                    "en": "Encrypt PC's HDD."
+                },
+                {
+                    "id": "エ",
+                    "ja": "PCへのログイン時に、パスワードを複数回間違えたら、当該IDをロックする。",
+                    "vi": "Khi đăng nhập PC, nếu nhập sai mật khẩu nhiều lần thì khóa ID đó.",
+                    "en": "When logging into PC, lock that ID if password is entered incorrectly multiple times."
+                }
+            ],
+            "answer": "ア"
+        }
+    ],
+    "answer_key": {
+        "15-21": "イ",
+        "15-22": "ア",
+        "15-23": "エ",
+        "15-24": "ア"
+    }
+}

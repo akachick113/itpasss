@@ -1,0 +1,190 @@
+{
+  "page_id": 17,
+  "image": "p_0017.png",
+  "chapter": 0,
+  "section": "00-00",
+  "page_number": "序章",
+  "content": [
+    {
+      "type": "chapter_title",
+      "ja": "序章",
+      "vi": "Mở đầu",
+      "en": "Introduction",
+      "my": "နိဒါန်း"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "ja": "ITパスポート試験の概要と効果的な学習方法",
+      "reading": "ITぱすぽーとしけんのがいようとこうかてきながくしゅうほうほう",
+      "vi": "Tổng quan kỳ thi IT Passport và Phương pháp học tập hiệu quả",
+      "en": "IT Passport Exam Overview and Effective Study Methods",
+      "my": "IT Passport စာမေးပွဲအကြောင်း အကျဉ်းချုပ်နှင့် ထိရောက်သောလေ့လာနည်း"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "この章のポイント!",
+        "vi": "Điểm chính của chương này!",
+        "en": "Key Points of This Chapter!",
+        "my": "ဤအခန်း၏အဓိကအချက်များ!",
+        "terms": [
+          {
+            "kanji": "章",
+            "reading": "しょう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ここでは、ITパスポート試験がどのような試験であるのか、また、どのようにしたら合格できるのかを解説します。試験に合格するには、その知見ことをよく知っておくことがポイントです。",
+        "vi": "Ở đây, chúng tôi sẽ giải thích kỳ thi IT Passport là loại kỳ thi như thế nào và làm thế nào để đỗ. Điểm mấu chốt để đỗ kỳ thi là hiểu rõ về kỳ thi này.",
+        "en": "Here, we will explain what kind of exam the IT Passport exam is and how to pass it. The key to passing the exam is to understand it well.",
+        "my": "ဤနေရာတွင် IT Passport စာမေးပွဲသည် မည်သို့သောစာမေးပွဲဖြစ်ကြောင်းနှင့် မည်သို့အောင်မြင်နိုင်ကြောင်း ရှင်းပြပါမည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "合格",
+            "reading": "ごうかく"
+          },
+          {
+            "kanji": "解説",
+            "reading": "かいせつ"
+          },
+          {
+            "kanji": "知見",
+            "reading": "ちけん"
+          },
+          {
+            "kanji": "知",
+            "reading": "ち"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "また、試験の特徴を踏まえた、効果的な学習方法も紹介します。",
+      "vi": "Ngoài ra, chúng tôi cũng sẽ giới thiệu phương pháp học tập hiệu quả dựa trên đặc điểm của kỳ thi.",
+      "en": "We will also introduce effective study methods based on the characteristics of the exam.",
+      "my": "စာမေးပွဲ၏လက္ခဏာများအပေါ်အခြေခံ၍ ထိရောက်သောလေ့လာနည်းများကိုလည်း မိတ်ဆက်ပေးပါမည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "踏",
+          "reading": "ふ"
+        },
+        {
+          "kanji": "効果的",
+          "reading": "こうかてき"
+        },
+        {
+          "kanji": "学習方法",
+          "reading": "がくしゅうほうほう"
+        },
+        {
+          "kanji": "紹介",
+          "reading": "しょうかい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "序章",
+      "reading": "じょしょう",
+      "romaji": "Joshou",
+      "vi": "Mở đầu, lời tựa",
+      "en": "Preface, Introduction",
+      "my": "နိဒါန်း"
+    },
+    {
+      "kanji": "章",
+      "reading": "しょう",
+      "romaji": "Shou",
+      "vi": "Chương",
+      "en": "Chapter",
+      "my": "အခန်း"
+    },
+    {
+      "kanji": "試験",
+      "reading": "しけん",
+      "romaji": "Shiken",
+      "vi": "Kỳ thi",
+      "en": "Exam",
+      "my": "စာမေးပွဲ"
+    },
+    {
+      "kanji": "概要",
+      "reading": "がいよう",
+      "romaji": "Gaiyou",
+      "vi": "Tổng quan",
+      "en": "Overview",
+      "my": "အကျဉ်းချုပ်"
+    },
+    {
+      "kanji": "特徴",
+      "reading": "とくちょう",
+      "romaji": "Tokuchou",
+      "vi": "Đặc điểm",
+      "en": "Characteristic",
+      "my": "ထူးခြားချက်"
+    },
+    {
+      "kanji": "効果的",
+      "reading": "こうかてき",
+      "romaji": "Koukateki",
+      "vi": "Hiệu quả",
+      "en": "Effective",
+      "my": "ထိရောက်သော"
+    },
+    {
+      "kanji": "学習方法",
+      "reading": "がくしゅうほうほう",
+      "romaji": "Gakushuu Houhou",
+      "vi": "Phương pháp học tập",
+      "en": "Study Method",
+      "my": "လေ့လာနည်း"
+    },
+    {
+      "kanji": "合格",
+      "reading": "ごうかく",
+      "romaji": "Goukaku",
+      "vi": "Đỗ (thi)",
+      "en": "Pass (exam)",
+      "my": "အောင်မြင်ခြင်း"
+    },
+    {
+      "kanji": "解説",
+      "reading": "かいせつ",
+      "romaji": "Kaisetsu",
+      "vi": "Giải thích",
+      "en": "Explanation",
+      "my": "ရှင်းပြချက်"
+    },
+    {
+      "kanji": "紹介",
+      "reading": "しょうかい",
+      "romaji": "Shoukai",
+      "vi": "Giới thiệu",
+      "en": "Introduction",
+      "my": "မိတ်ဆက်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": false,
+    "has_info_box": true,
+    "word_count": 120
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "page_id": 145,
+  "image": "p_0145.png",
+  "chapter": 4,
+  "section": "04-01",
+  "page_number": 129,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "キャズム",
+      "reading": "きゃずむ",
+      "vi": "Chasm",
+      "en": "Chasm",
+      "my": "Chasm"
+    },
+    {
+      "type": "paragraph",
+      "ja": "商品が市場でシェアを拡大する際に障壁となる「溝」のことを「キャズム」（Chasm）といいます。「イノベーター理論」と呼ばれる理論では、顧客が新商品を受け入れる早さによって、その顧客を「イノベーター」「アーリーアダプター」「アーリーマジョリティ」「レイトマジョリティ」「ラガード」の5つに分類します（p.110）。キャズムはアーリーアダプターとアーリーマジョリティの間にある溝を指します。",
+      "vi": "Hố sâu trở thành rào cản khi sản phẩm mở rộng thị phần gọi là Chasm. Trong lý thuyết Innovator, khách hàng được phân loại thành 5 nhóm theo tốc độ tiếp nhận sản phẩm mới: Innovator, Early Adopter, Early Majority, Late Majority, Laggard (trang 110). Chasm chỉ hố ngăn giữa Early Adopter và Early Majority.",
+      "en": "The 'gap' that becomes a barrier when products expand market share is called Chasm. In Innovator Theory, customers are classified into 5 groups by how quickly they accept new products: Innovator, Early Adopter, Early Majority, Late Majority, Laggard (p.110). Chasm refers to the gap between Early Adopter and Early Majority.",
+      "my": "ထုတ်ကုန်များ ဈေးကွက်ဝေစု တိုးချဲ့သောအခါ အတားအဆီးဖြစ်လာသော 'ကွာဟချက်' ကို Chasm ဟုခေါ်သည်။",
+      "terms": [
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "市場",
+          "reading": "しじょう"
+        },
+        {
+          "kanji": "拡大",
+          "reading": "かくだい"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "障壁",
+          "reading": "しょうへき"
+        },
+        {
+          "kanji": "溝",
+          "reading": "みぞ"
+        },
+        {
+          "kanji": "理論",
+          "reading": "りろん"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "顧客",
+          "reading": "こきゃく"
+        },
+        {
+          "kanji": "新商品",
+          "reading": "しんしょうひん"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "早",
+          "reading": "はや"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "指",
+          "reading": "ゆび"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "その他の主な技術開発関連の用語",
+        "vi": "Thuật ngữ liên quan đến phát triển công nghệ khác",
+        "en": "Other Technology Development Related Terms"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "イノベーションのジレンマ",
+            "業界トップの企業がイノベーションよりも既存製品の改良などに注目するために、新興市場への参入が遅れて失敗を犯すこと。"
+          ],
+          "vi": [
+            "Innovator's Dilemma",
+            "Doanh nghiệp top đầu ngành thất bại vì chậm thâm nhập thị trường mới do tập trung vào cải tiến sản phẩm hiện có hơn là đổi mới."
+          ],
+          "en": [
+            "Innovator's Dilemma",
+            "Top companies fail by being late to enter new markets because they focus on improving existing products rather than innovation."
+          ]
+        },
+        {
+          "ja": [
+            "デザイン思考",
+            "データや経験だけで判断せず、ユーザーの意見を取り入れ、人間を中心としてイノベーションを生み出す手法。"
+          ],
+          "vi": [
+            "Design Thinking",
+            "Phương pháp tạo ra đổi mới lấy con người làm trung tâm, tiếp thu ý kiến người dùng thay vì chỉ dựa vào dữ liệu và kinh nghiệm."
+          ],
+          "en": [
+            "Design Thinking",
+            "Method creating innovation centered on humans by incorporating user opinions, not just data and experience."
+          ]
+        },
+        {
+          "ja": [
+            "ビジネスモデルキャンバス",
+            "新規事業を立ち上げる際に考えなくてはならない9つの要素を設定化したもの。"
+          ],
+          "vi": [
+            "Business Model Canvas",
+            "9 yếu tố cần xem xét khi khởi động kinh doanh mới được thiết lập."
+          ],
+          "en": [
+            "Business Model Canvas",
+            "9 elements to consider when starting new business, structured."
+          ]
+        },
+        {
+          "ja": [
+            "リーンスタートアップ",
+            "最低限の商品、サービス、根拠を持って小さい試作品を、短いサイクルで作り、ユーザーの反応を見ながら改善を行う手法。名称はリーン生産方式（p.155）から取っている。"
+          ],
+          "vi": [
+            "Lean Startup",
+            "Phương pháp tạo prototype nhỏ với sản phẩm/dịch vụ/cơ sở tối thiểu trong chu kỳ ngắn và cải tiến dựa trên phản hồi người dùng. Tên lấy từ Lean Production (trang 155)."
+          ],
+          "en": [
+            "Lean Startup",
+            "Method creating small prototypes with minimum products/services/basis in short cycles and improving based on user feedback. Named from Lean Production (p.155)."
+          ]
+        },
+        {
+          "ja": [
+            "デジタルディスラプション",
+            "デジタル技術によって得たユーザー体験が新しいビジネスモデルとなり、それを結成、今までのサービスが陳腐化すること。"
+          ],
+          "vi": [
+            "Digital Disruption",
+            "Trải nghiệm người dùng có được từ công nghệ số trở thành mô hình kinh doanh mới, làm cho dịch vụ trước đó trở nên lỗi thời."
+          ],
+          "en": [
+            "Digital Disruption",
+            "User experience from digital technology becomes new business model, making previous services obsolete."
+          ]
+        },
+        {
+          "ja": [
+            "フォアキャスティング",
+            "現在の状況から未来を予測し、その予測に基づいてやるべきことを考える方法。"
+          ],
+          "vi": [
+            "Forecasting",
+            "Phương pháp dự đoán tương lai từ tình trạng hiện tại và nghĩ về việc cần làm dựa trên dự đoán đó."
+          ],
+          "en": [
+            "Forecasting",
+            "Method predicting future from current situation and thinking about what to do based on prediction."
+          ]
+        },
+        {
+          "ja": [
+            "バックキャスティング",
+            "未来の目標を先に決めて、その目標から現在を振り返り、目標を達成するために今やるべきことを考える方法。"
+          ],
+          "vi": [
+            "Backcasting",
+            "Phương pháp quyết định mục tiêu tương lai trước, nhìn lại hiện tại từ mục tiêu đó và nghĩ về việc cần làm bây giờ để đạt mục tiêu."
+          ],
+          "en": [
+            "Backcasting",
+            "Method deciding future goals first, looking back at present from goals, and thinking about what to do now to achieve them."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・魔の川は、研究段階と開発段階の間にある難関\n・死の谷は、開発段階と事業化段階の間にある難関\n・ダーウィンの海は、事業化段階と産業化段階の間にある難関\n・PoCとは、「実現性」の検証\n・PoVとは、「価値」の検証\n・商品が市場でシェアを拡大する際に障壁となる溝のことを「キャズム」という\n・イノベーター理論では、顧客を「イノベーター」「アーリーアダプター」「アーリーマジョリティ」「レイトマジョリティ」「ラガード」の5つに分類する",
+        "vi": "・Sông Ma là rào cản giữa giai đoạn nghiên cứu và phát triển\n・Thung lũng Chết là rào cản giữa giai đoạn phát triển và thương mại hóa\n・Biển Darwin là rào cản giữa giai đoạn thương mại hóa và công nghiệp hóa\n・PoC là kiểm tra tính khả thi\n・PoV là kiểm tra giá trị\n・Hố ngăn sản phẩm mở rộng thị phần gọi là Chasm\n・Lý thuyết Innovator phân loại khách hàng thành 5: Innovator, Early Adopter, Early Majority, Late Majority, Laggard",
+        "en": "・Devil's River is barrier between research and development stages\n・Valley of Death is barrier between development and commercialization stages\n・Darwin's Sea is barrier between commercialization and industrialization stages\n・PoC verifies feasibility\n・PoV verifies value\n・Gap preventing market share expansion is called Chasm\n・Innovator Theory classifies customers into 5: Innovator, Early Adopter, Early Majority, Late Majority, Laggard",
+        "my": "・ မကောင်းဆိုးဝါးမြစ်သည် သုတေသနနှင့် ဖွံ့ဖြိုးတိုးတက်မှုအဆင့်များကြား အတားအဆီးဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "魔",
+            "reading": "ま"
+          },
+          {
+            "kanji": "川",
+            "reading": "かわ"
+          },
+          {
+            "kanji": "研究段階",
+            "reading": "けんきゅうだんかい"
+          },
+          {
+            "kanji": "開発段階",
+            "reading": "かいはつだんかい"
+          },
+          {
+            "kanji": "間",
+            "reading": "かん"
+          },
+          {
+            "kanji": "難関",
+            "reading": "なんかん"
+          },
+          {
+            "kanji": "死",
+            "reading": "し"
+          },
+          {
+            "kanji": "谷",
+            "reading": "たに"
+          },
+          {
+            "kanji": "事業化段階",
+            "reading": "じぎょうかだんかい"
+          },
+          {
+            "kanji": "海",
+            "reading": "うみ"
+          },
+          {
+            "kanji": "産業化段階",
+            "reading": "さんぎょうかだんかい"
+          },
+          {
+            "kanji": "実現性",
+            "reading": "じつげんせい"
+          },
+          {
+            "kanji": "検証",
+            "reading": "けんしょう"
+          },
+          {
+            "kanji": "価値",
+            "reading": "かち"
+          },
+          {
+            "kanji": "商品",
+            "reading": "しょうひん"
+          },
+          {
+            "kanji": "市場",
+            "reading": "しじょう"
+          },
+          {
+            "kanji": "拡大",
+            "reading": "かくだい"
+          },
+          {
+            "kanji": "際",
+            "reading": "きわ"
+          },
+          {
+            "kanji": "障壁",
+            "reading": "しょうへき"
+          },
+          {
+            "kanji": "溝",
+            "reading": "みぞ"
+          },
+          {
+            "kanji": "理論",
+            "reading": "りろん"
+          },
+          {
+            "kanji": "顧客",
+            "reading": "こきゃく"
+          },
+          {
+            "kanji": "分類",
+            "reading": "ぶんるい"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "キャズム",
+      "reading": "きゃずむ",
+      "romaji": "Chasm",
+      "vi": "Hố ngăn cách",
+      "en": "Chasm",
+      "my": "Chasm"
+    },
+    {
+      "kanji": "デザイン思考",
+      "reading": "でざいんしこう",
+      "romaji": "Design Thinking",
+      "vi": "Tư duy thiết kế",
+      "en": "Design Thinking",
+      "my": "Design Thinking"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

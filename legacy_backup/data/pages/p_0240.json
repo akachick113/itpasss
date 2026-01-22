@@ -1,0 +1,261 @@
+{
+  "page_id": 240,
+  "image": "p_0240.png",
+  "chapter": 6,
+  "section": "06-01",
+  "page_number": 224,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "06-01",
+      "title": {
+        "ja": "システム開発技術",
+        "vi": "Kỹ thuật phát triển hệ thống",
+        "en": "System Development Technology"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "似て非なるもの",
+        "vi": "Những thứ giống nhưng khác",
+        "en": "Similar but Different"
+      },
+      "content": {
+        "ja": "同じネコ科でもライオンとトラはひと目で見分けられます。では、「システム」という用語と、「ソフトウェア」という用語をきちんと使い分けることができるでしょうか。本項ではその違いから解説をはじめていきます。",
+        "vi": "Dù cùng họ Mèo, sư tử và hổ có thể phân biệt ngay lập tức. Vậy bạn có thể phân biệt đúng thuật ngữ \"Hệ thống\" và thuật ngữ \"Phần mềm\" không? Phần này sẽ bắt đầu giải thích từ sự khác biệt đó.",
+        "en": "Even among the same cat family, lions and tigers can be distinguished at a glance. So can you properly distinguish between the terms 'System' and 'Software'? This section begins with explaining that difference."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "「システム開発」の学習をはじめると、ほぼ全員といっていいほど多くの人がハマる罠があります。それが「システムとソフトウェアの違い」です。現時点でみなさんはこの違いを明確に把握できているでしょうか。",
+      "vi": "Khi bắt đầu học \"Phát triển hệ thống\", có một cái bẫy mà gần như tất cả mọi người đều mắc phải. Đó là \"Sự khác biệt giữa Hệ thống và Phần mềm\". Tại thời điểm hiện tại, bạn có nắm rõ sự khác biệt này không?",
+      "en": "When starting to learn 'System Development,' there's a trap that almost everyone falls into. That is 'the difference between System and Software.' At this point, do you clearly understand this difference?",
+      "terms": [
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "全員",
+          "reading": "ぜんいん"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "罠",
+          "reading": "わな"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "現時点",
+          "reading": "げんじてん"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験ではこの2つの用語を明確に使い分けています。そのため、試験に効率よく合格するためには、システムとソフトウェアの違いをきちんと理解しておくことが必要です。そこで、本項では最初にこれらの違いを明確にして、そのうえで、システム開発のプロセスへと解説を進めていきます。",
+      "vi": "Trong kỳ thi IT Passport, hai thuật ngữ này được phân biệt rõ ràng. Do đó, để đỗ kỳ thi một cách hiệu quả, cần hiểu đúng sự khác biệt giữa Hệ thống và Phần mềm. Vì vậy, trong phần này, trước tiên sẽ làm rõ những khác biệt này, và sau đó tiến đến giải thích quy trình phát triển hệ thống.",
+      "en": "The IT Passport exam clearly distinguishes these two terms. Therefore, to pass the exam efficiently, it's necessary to properly understand the difference between System and Software. So in this section, we'll first clarify these differences and then proceed to explain the system development process.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "効率",
+          "reading": "こうりつ"
+        },
+        {
+          "kanji": "合格",
+          "reading": "ごうかく"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "システムとソフトウェア",
+      "reading": "しすてむとそふとうぇあ",
+      "vi": "Hệ thống và Phần mềm",
+      "en": "System and Software",
+      "note": {
+        "ja": "この2つの用語の違いを把握しよう！",
+        "vi": "Hãy nắm sự khác biệt của 2 thuật ngữ này!",
+        "en": "Understand the difference between these 2 terms!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "システムは、ハードウェアとソフトウェアから構成されます。ソフトウェアはシステムの一部です。一例として、顧客からの問い合わせに対応する「サービスデスク（ヘルプデスク）」の業務を思い浮かべてください。サービスデスク業務を行うには、電話機やパソコンなどのハードウェアが必要です。そして、パソコン上ではさまざまなソフトウェア（メールソフトやオンラインチャットなど）が動作しています。これら2つを合わせてシステムと呼びます。",
+      "vi": "Hệ thống được cấu thành từ Phần cứng và Phần mềm. Phần mềm là một phần của Hệ thống. Ví dụ, hãy nghĩ đến nghiệp vụ \"Service Desk (Help Desk)\" đáp ứng các thắc mắc từ khách hàng. Để thực hiện nghiệp vụ Service Desk, cần có phần cứng như điện thoại và máy tính. Và trên máy tính có các phần mềm khác nhau (email, chat trực tuyến, v.v.) đang hoạt động. Kết hợp 2 thứ này được gọi là Hệ thống.",
+      "en": "A System consists of Hardware and Software. Software is part of the System. As an example, think of the 'Service Desk (Help Desk)' business that responds to customer inquiries. To perform Service Desk work, hardware like phones and computers is needed. And on computers, various software (email, online chat, etc.) operates. Combining these two is called a System.",
+      "terms": [
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "一部",
+          "reading": "いちぶ"
+        },
+        {
+          "kanji": "一例",
+          "reading": "いちれい"
+        },
+        {
+          "kanji": "顧客",
+          "reading": "こきゃく"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "浮",
+          "reading": "ふ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "電話機",
+          "reading": "でんわき"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "動作",
+          "reading": "どうさ"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "開発技術",
+      "reading": "かいはつぎじゅつ",
+      "romaji": "Kaihatsu Gijutsu",
+      "vi": "Kỹ thuật phát triển",
+      "en": "Development Technology",
+      "my": "ဖွံ့ဖြိုးတိုးတက်ရေးနည်းပညာ"
+    },
+    {
+      "kanji": "ハードウェア",
+      "reading": "はーどうぇあ",
+      "romaji": "Hardware",
+      "vi": "Phần cứng",
+      "en": "Hardware",
+      "my": "စက်ပစ္စည်း"
+    },
+    {
+      "kanji": "ソフトウェア",
+      "reading": "そふとうぇあ",
+      "romaji": "Software",
+      "vi": "Phần mềm",
+      "en": "Software",
+      "my": "ဆော့ဖ်ဝဲ"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

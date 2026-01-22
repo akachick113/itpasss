@@ -1,0 +1,219 @@
+{
+  "page_id": 317,
+  "image": "p_0317.png",
+  "chapter": 8,
+  "section": "08-05",
+  "page_number": 301,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "08-05",
+      "title": {
+        "ja": "システム監査",
+        "vi": "System Audit",
+        "en": "System Audit"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "不正はないか？",
+        "vi": "Có gian lận không?",
+        "en": "Is There Fraud?"
+      },
+      "content": {
+        "ja": "企業活動においては常に「不正が行われていないか」をチェックすることが必要です。ここでは、探偵のように、依頼を受けて証拠を集める人が活躍します。",
+        "vi": "Trong hoạt động doanh nghiệp, luôn cần kiểm tra \"có gian lận không\". Ở đây, giống như thám tử, những người nhận yêu cầu và thu thập bằng chứng hoạt động.",
+        "en": "In business activities, it's always necessary to check 'is there fraud.' Here, like detectives, people who receive requests and collect evidence are active."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "監査とは",
+      "reading": "かんさとは",
+      "vi": "Audit là gì",
+      "en": "What is Audit"
+    },
+    {
+      "type": "paragraph",
+      "ja": "監査とは、企業活動が正しく行われているかを調査することです。監査の対象は業務、会計、情報システム、情報セキュリティなどです。それぞれに対する監査を、業務監査、会計監査、システム監査、情報セキュリティ監査といいます。ITパスポート試験では「システム監査」の出題頻度が高いです。",
+      "vi": "Audit là điều tra xem hoạt động doanh nghiệp có được thực hiện đúng không. Đối tượng audit là nghiệp vụ, kế toán, hệ thống thông tin, bảo mật thông tin. Audit cho từng loại được gọi là Business Audit, Accounting Audit, System Audit, Information Security Audit. Trong kỳ thi IT Passport, \"System Audit\" có tần suất ra đề cao.",
+      "en": "Audit is investigating whether business activities are conducted correctly. Audit targets are operations, accounting, information systems, information security. Audits for each are called Business Audit, Accounting Audit, System Audit, Information Security Audit. In IT Passport exam, 'System Audit' has high question frequency.",
+      "terms": [
+        {
+          "kanji": "監査",
+          "reading": "かんさ"
+        },
+        {
+          "kanji": "企業活動",
+          "reading": "きぎょうかつどう"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "調査",
+          "reading": "ちょうさ"
+        },
+        {
+          "kanji": "対象",
+          "reading": "たいしょう"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "会計",
+          "reading": "かいけい"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "業務監査",
+          "reading": "ぎょうむかんさ"
+        },
+        {
+          "kanji": "会計監査",
+          "reading": "かいけいかんさ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "試験で問われる3つのポイント",
+      "reading": "しけんでとわれる3つのぽいんと",
+      "vi": "3 điểm được hỏi trong kỳ thi",
+      "en": "3 Points Asked in Exam"
+    },
+    {
+      "type": "paragraph",
+      "ja": "試験では、システム監査に関して、次の3つのポイントが出題されます。そのため、システム監査について詳しく解説する前に先に紹介しておきます。この3点は必ず押さえておいてください。",
+      "vi": "Trong kỳ thi, 3 điểm sau về System Audit được ra đề. Do đó, trước khi giải thích chi tiết về System Audit, sẽ giới thiệu trước. Hãy chắc chắn nắm 3 điểm này.",
+      "en": "In exam, following 3 points about System Audit are tested. So before explaining System Audit in detail, introducing first. Make sure to understand these 3 points.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "監査",
+          "reading": "かんさ"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "先",
+          "reading": "さき"
+        },
+        {
+          "kanji": "紹介",
+          "reading": "しょうかい"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "押",
+          "reading": "おう"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "number": "(1)",
+          "ja": "システム監査の目的は、情報システムのリスクに適切に対応しているかを評価すること",
+          "vi": "Mục đích của System Audit là đánh giá xem có ứng phó thích hợp với Risk của hệ thống thông tin không",
+          "en": "System Audit's purpose is to evaluate whether responding appropriately to information system Risks"
+        },
+        {
+          "number": "(2)",
+          "ja": "監査人は主体的には改善しない（犯人を逮捕しない）",
+          "vi": "Auditor không chủ động cải thiện (không bắt thủ phạm)",
+          "en": "Auditor doesn't proactively improve (doesn't arrest criminal)"
+        },
+        {
+          "number": "(3)",
+          "ja": "監査人は独立した第三者であること（身内は不可）",
+          "vi": "Auditor phải là bên thứ ba độc lập (không được là người trong gia đình)",
+          "en": "Auditor must be independent third party (insiders not allowed)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "システム監査",
+      "reading": "しすてむかんさ",
+      "romaji": "System Kansa",
+      "vi": "Kiểm toán hệ thống",
+      "en": "System Audit",
+      "my": "စနစ် စစ်ဆေး"
+    },
+    {
+      "kanji": "監査人",
+      "reading": "かんさにん",
+      "romaji": "Kansanin",
+      "vi": "Kiểm toán viên",
+      "en": "Auditor",
+      "my": "စစ်ဆေးသူ"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

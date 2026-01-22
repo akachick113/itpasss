@@ -1,0 +1,202 @@
+{
+    "page_id": 129,
+    "image": "p_0129.png",
+    "chapter": 3,
+    "section": "questions",
+    "page_number": 113,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "3-4",
+            "year": "令和元年度",
+            "question": {
+                "ja": "企業のアライアンス戦略のうち、ジョイントベンチャーの説明として、適切なものはどれか。",
+                "vi": "Trong chiến lược Alliance của doanh nghiệp, đâu là giải thích phù hợp về Joint Venture?",
+                "en": "Among corporate Alliance strategies, which is the appropriate explanation of Joint Venture?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "2社以上の企業が共同出資して経営する企業のこと",
+                    "vi": "Doanh nghiệp được kinh doanh bởi 2 công ty trở lên cùng góp vốn",
+                    "en": "Company managed by 2+ companies investing together",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "企業間で相互に出資や株式の持合などの協力関係を結ぶこと",
+                    "vi": "Doanh nghiệp lập quan hệ hợp tác như góp vốn lẫn nhau và sở hữu cổ phiếu chéo",
+                    "en": "Establishing cooperation like mutual investment and cross-shareholding between companies"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "企業の合併や買収によって相手企業の支配権を取得すること",
+                    "vi": "Lấy quyền kiểm soát doanh nghiệp đối tác qua sáp nhập hoặc mua lại",
+                    "en": "Acquiring control of partner company through merger or acquisition"
+                },
+                {
+                    "label": "エ",
+                    "ja": "技術やブランド、販売活動などに関する権利の使用を認めること",
+                    "vi": "Cho phép sử dụng quyền liên quan đến công nghệ, thương hiệu, hoạt động bán hàng",
+                    "en": "Permitting use of rights related to technology, brand, sales activities"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "3-5",
+            "year": "平成22年度",
+            "question": {
+                "ja": "TOBの説明として、適切なものはどれか。",
+                "vi": "Đâu là giải thích phù hợp về TOB?",
+                "en": "Which is the appropriate explanation of TOB?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "買付け価格と期間を公表し、不特定多数の株主から株式を買い集めること",
+                    "vi": "Công bố giá thu mua và kỳ hạn, thu mua cổ phiếu từ nhiều cổ đông không xác định",
+                    "en": "Announcing purchase price and period, collecting shares from unspecified shareholders",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "株式の所有を通じて、他企業を支配またはコントロールすること",
+                    "vi": "Kiểm soát hoặc điều khiển doanh nghiệp khác thông qua sở hữu cổ phiếu",
+                    "en": "Controlling other companies through share ownership"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "企業が自ら発行した株式を市場の時価で買い入れること",
+                    "vi": "Doanh nghiệp mua lại cổ phiếu do mình phát hành theo giá thị trường",
+                    "en": "Company repurchasing its own issued shares at market price"
+                },
+                {
+                    "label": "エ",
+                    "ja": "企業の経営陣が自社株の買取りを実施し、企業の所有権を取得すること",
+                    "vi": "Ban lãnh đạo thực hiện mua lại cổ phiếu công ty và lấy quyền sở hữu doanh nghiệp",
+                    "en": "Management executing buyback of company shares and acquiring ownership"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "3-6",
+            "year": "平成24年度",
+            "question": {
+                "ja": "マーケティングミックスの説明として、適切なものはどれか。",
+                "vi": "Đâu là giải thích phù hợp về Marketing Mix?",
+                "en": "Which is the appropriate explanation of Marketing Mix?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "機会、脅威、強み、弱みの各視点から自社環境を考察して戦略を立てる考え方",
+                    "vi": "Cách nghĩ xem xét môi trường công ty từ các góc nhìn cơ hội, mối đe dọa, điểm mạnh, điểm yếu để lập chiến lược",
+                    "en": "Approach examining company environment from opportunity, threat, strength, weakness perspectives to form strategy"
+                },
+                {
+                    "label": "イ",
+                    "ja": "顧客、競合他社、自社の実力を知ることによって戦略を立てる考え方",
+                    "vi": "Cách nghĩ lập chiến lược bằng cách biết khách hàng, đối thủ, và năng lực của mình",
+                    "en": "Approach forming strategy by knowing customers, competitors, and own capabilities"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "製品、流通、価格、販売促進などの要素を検討して戦略を立てる考え方",
+                    "vi": "Cách nghĩ xem xét các yếu tố như sản phẩm, phân phối, giá, xúc tiến để lập chiến lược",
+                    "en": "Approach examining product, distribution, price, promotion elements to form strategy",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "製品を花形、金のなる木、問題児、負け犬に分類して戦略を立てる考え方",
+                    "vi": "Cách nghĩ phân loại sản phẩm thành Ngôi sao, Bò sữa, Dấu hỏi, Chó để lập chiến lược",
+                    "en": "Approach classifying products into Star, Cash Cow, Question Mark, Dog to form strategy"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "3-7",
+            "year": "平成22年度",
+            "question": {
+                "ja": "データベース化された顧客情報を活用し、優良顧客を抽出する方法として、適切なものはどれか。",
+                "vi": "Phương pháp phù hợp để trích xuất khách hàng tốt bằng cách sử dụng thông tin khách hàng đã được cơ sở dữ liệu hóa là gì?",
+                "en": "Which is an appropriate method to extract good customers using databased customer information?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "3C分析",
+                    "vi": "Phân tích 3C",
+                    "en": "3C Analysis"
+                },
+                {
+                    "label": "イ",
+                    "ja": "RFM分析",
+                    "vi": "Phân tích RFM",
+                    "en": "RFM Analysis",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "SWOT分析",
+                    "vi": "Phân tích SWOT",
+                    "en": "SWOT Analysis"
+                },
+                {
+                    "label": "エ",
+                    "ja": "バリューチェーン分析",
+                    "vi": "Phân tích chuỗi giá trị",
+                    "en": "Value Chain Analysis"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "3-8",
+            "year": "",
+            "question": {
+                "ja": "UX（User Experience）の説明として、最も適切なものはどれか。",
+                "vi": "Đâu là giải thích phù hợp nhất về UX (User Experience)?",
+                "en": "Which is the most appropriate explanation of UX (User Experience)?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "主に高齢者や障害者などを含め、できる限り多くの人が等しく利用しやすいように配慮したソフトウェア製品の設計",
+                    "vi": "Thiết kế sản phẩm phần mềm chú ý để nhiều người có thể sử dụng dễ dàng như nhau, bao gồm chủ yếu người cao tuổi và người khuyết tật",
+                    "en": "Software product design considering equal ease of use for many people including elderly and disabled"
+                },
+                {
+                    "label": "イ",
+                    "ja": "顧客データの分析を基に顧客を識別し、コールセンターやインターネットなどのチャネルを用いて顧客との関係を深める手法",
+                    "vi": "Phương pháp nhận dạng khách hàng dựa trên phân tích dữ liệu và làm sâu quan hệ khách hàng qua kênh như call center hoặc internet",
+                    "en": "Method identifying customers based on data analysis and deepening relationships through channels like call centers or internet"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "指定された条件の下で、利用者が効率よく利用できるソフトウェア製品の能力",
+                    "vi": "Năng lực của sản phẩm phần mềm mà người dùng có thể sử dụng hiệu quả trong điều kiện được chỉ định",
+                    "en": "Software product's ability for users to use efficiently under specified conditions"
+                },
+                {
+                    "label": "エ",
+                    "ja": "製品、システム、サービスなどの利用面を想定した上で、実際に利用したりすることによって得られる人の感じ方や反応",
+                    "vi": "Cảm nhận và phản hồi của con người có được khi thực sự sử dụng sau khi giả định mặt sử dụng của sản phẩm, hệ thống, dịch vụ",
+                    "en": "Human feelings and reactions gained from actually using products, systems, services after assuming usage aspects",
+                    "correct": true
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "questions_covered": "3-4, 3-5, 3-6, 3-7, 3-8",
+        "answers": "3-4: ア, 3-5: ア, 3-6: ウ, 3-7: イ, 3-8: エ"
+    }
+}

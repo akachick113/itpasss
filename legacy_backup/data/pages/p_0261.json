@@ -1,0 +1,389 @@
+{
+  "page_id": 261,
+  "image": "p_0261.png",
+  "chapter": 6,
+  "section": "06-07",
+  "page_number": 245,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "06-07",
+      "title": {
+        "ja": "ソフトウェアの開発モデル",
+        "vi": "Mô hình phát triển phần mềm",
+        "en": "Software Development Models"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "システム開発の方法",
+        "vi": "Phương pháp phát triển hệ thống",
+        "en": "System Development Methods"
+      },
+      "content": {
+        "ja": "完成するシステムは同じでも、その作り方は1つではありません。システムの内容や、開発者によって、作り方が変わります。どのような作り方があるのか、見ていきましょう。",
+        "vi": "Dù hệ thống hoàn thành giống nhau, cách tạo không chỉ có một. Cách tạo thay đổi tùy theo nội dung hệ thống và nhà phát triển. Hãy xem có những cách tạo nào.",
+        "en": "Even if the completed system is the same, there's more than one way to create it. The creation method varies depending on system content and developers. Let's see what creation methods exist."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ソフトウェア開発モデルとは、ソフトウェアの開発手順や開発方法をモデル化したものです。「モデル化」とは、複雑な現実世界を単純化することです。つまり、ソフトウェア開発モデルとは、開発会社ごとに異なるソフトウェア開発の手順や方法を集約して分析し、その特徴的な部分を単純化してまとめたものです。",
+      "vi": "Mô hình phát triển phần mềm là quy trình và phương pháp phát triển phần mềm được mô hình hóa. \"Mô hình hóa\" là đơn giản hóa thế giới thực phức tạp. Nghĩa là, mô hình phát triển phần mềm là tập hợp và phân tích quy trình và phương pháp phát triển phần mềm khác nhau của mỗi công ty phát triển, rồi đơn giản hóa và tóm tắt phần đặc trưng.",
+      "en": "Software Development Model is the modeling of software development procedures and methods. 'Modeling' means simplifying the complex real world. That is, Software Development Model aggregates and analyzes software development procedures and methods that differ by development company, then simplifies and summarizes their characteristic parts.",
+      "terms": [
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "開発手順",
+          "reading": "かいはつてじゅん"
+        },
+        {
+          "kanji": "開発方法",
+          "reading": "かいはつほうほう"
+        },
+        {
+          "kanji": "化",
+          "reading": "か"
+        },
+        {
+          "kanji": "複雑",
+          "reading": "ふくざつ"
+        },
+        {
+          "kanji": "現実世界",
+          "reading": "げんじつせかい"
+        },
+        {
+          "kanji": "単純化",
+          "reading": "たんじゅんか"
+        },
+        {
+          "kanji": "開発会社",
+          "reading": "かいはつがいしゃ"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "手順",
+          "reading": "てじゅん"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "集約",
+          "reading": "しゅうやく"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "特徴的",
+          "reading": "とくちょうてき"
+        },
+        {
+          "kanji": "部分",
+          "reading": "ぶぶん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では「ウォーターフォールモデル」「アジャイル開発」の2つの用語の出題頻度が高いです。これらの用語を念頭に読み進めてください。",
+      "vi": "Trong kỳ thi IT Passport, 2 thuật ngữ \"Waterfall Model\" và \"Agile Development\" có tần suất ra đề cao. Hãy đọc tiếp với những thuật ngữ này trong đầu.",
+      "en": "In IT Passport exam, 2 terms 'Waterfall Model' and 'Agile Development' have high exam frequency. Please read keeping these terms in mind.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "念頭",
+          "reading": "ねんとう"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ウォーターフォールモデル",
+      "reading": "うぉーたーふぉーるもでる",
+      "vi": "Waterfall Model",
+      "en": "Waterfall Model",
+      "note": {
+        "ja": "必修用語！",
+        "vi": "Thuật ngữ bắt buộc!",
+        "en": "Required term!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ウォーターフォールモデルは、ソフトウェアの開発プロセス（p.227）を上流工程から下流工程へ向かって一直線に順番に進める手法です。滝のように、上から下へ作業が進むことからこの名前がつけられました。",
+      "vi": "Waterfall Model là phương pháp tiến hành quy trình phát triển phần mềm (trang 227) theo thứ tự thẳng từ công đoạn thượng nguồn đến công đoạn hạ nguồn. Tên này được đặt vì công việc tiến từ trên xuống dưới như thác nước.",
+      "en": "Waterfall Model is a method that proceeds through software development process (p.227) in a straight line from upstream to downstream in order. The name comes from work flowing from top to bottom like a waterfall.",
+      "terms": [
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "上流工程",
+          "reading": "じょうりゅうこうてい"
+        },
+        {
+          "kanji": "下流工程",
+          "reading": "かりゅうこうてい"
+        },
+        {
+          "kanji": "向",
+          "reading": "こう"
+        },
+        {
+          "kanji": "一直線",
+          "reading": "いっちょくせん"
+        },
+        {
+          "kanji": "順番",
+          "reading": "じゅんばん"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "滝",
+          "reading": "たき"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "下",
+          "reading": "した"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ウォーターフォールモデルのメリットは、なんといっても計画が立てやすい点にあります。各工程が明確に分けられているうえに、前工程の完了後に次の工程をはじめるという、一直線の進み方なので、開発のスケジュールが非常に立てやすく、全体の計画も容易に立てることができます。",
+      "vi": "Ưu điểm của Waterfall Model là dễ lập kế hoạch. Vì các công đoạn được phân chia rõ ràng và tiến theo đường thẳng - bắt đầu công đoạn tiếp theo sau khi hoàn thành công đoạn trước, nên lịch trình phát triển rất dễ lập và kế hoạch tổng thể cũng dễ lập.",
+      "en": "The merit of Waterfall Model is that planning is easy. Since phases are clearly divided and proceed in a straight line - starting the next phase after completing the previous one, development schedules are very easy to create and overall planning can be done easily.",
+      "terms": [
+        {
+          "kanji": "計画",
+          "reading": "けいかく"
+        },
+        {
+          "kanji": "立",
+          "reading": "りつ"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "各工程",
+          "reading": "かくこうてい"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "前工程",
+          "reading": "まえこうてい"
+        },
+        {
+          "kanji": "完了後",
+          "reading": "かんりょうご"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "一直線",
+          "reading": "いっちょくせん"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "方",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "容易",
+          "reading": "ようい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方で、修正作業がとても大変というデメリットがあります。滝が下から上に逆流しないのと同様に、ウォーターフォールモデルは基本的に、いったん作業が完了した後は、元の上流工程に作業が戻ることを想定していません。",
+      "vi": "Mặt khác, có nhược điểm là công việc sửa đổi rất vất vả. Tương tự như thác không chảy ngược từ dưới lên trên, Waterfall Model cơ bản không giả định công việc quay lại công đoạn thượng nguồn ban đầu sau khi hoàn thành.",
+      "en": "On the other hand, there's the demerit that modification work is very difficult. Just as waterfalls don't flow backward from bottom to top, Waterfall Model basically doesn't assume work returns to original upstream phases after completion.",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "修正作業",
+          "reading": "しゅうせいさぎょう"
+        },
+        {
+          "kanji": "大変",
+          "reading": "たいへん"
+        },
+        {
+          "kanji": "滝",
+          "reading": "たき"
+        },
+        {
+          "kanji": "下",
+          "reading": "した"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "逆流",
+          "reading": "ぎゃくりゅう"
+        },
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "完了",
+          "reading": "かんりょう"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "元",
+          "reading": "もと"
+        },
+        {
+          "kanji": "上流工程",
+          "reading": "じょうりゅうこうてい"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        },
+        {
+          "kanji": "想定",
+          "reading": "そうてい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "開発モデル",
+      "reading": "かいはつもでる",
+      "romaji": "Kaihatsu Model",
+      "vi": "Mô hình phát triển",
+      "en": "Development Model",
+      "my": "ဖွံ့ဖြိုးမှု မော်ဒယ်"
+    },
+    {
+      "kanji": "上流工程",
+      "reading": "じょうりゅうこうてい",
+      "romaji": "Jouryuu Koutei",
+      "vi": "Công đoạn thượng nguồn",
+      "en": "Upstream Phase",
+      "my": "အထက်ပိုင်း အဆင့်"
+    },
+    {
+      "kanji": "下流工程",
+      "reading": "かりゅうこうてい",
+      "romaji": "Karyuu Koutei",
+      "vi": "Công đoạn hạ nguồn",
+      "en": "Downstream Phase",
+      "my": "အောက်ပိုင်း အဆင့်"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

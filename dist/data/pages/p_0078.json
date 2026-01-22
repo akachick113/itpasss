@@ -1,0 +1,264 @@
+{
+  "page_id": 78,
+  "image": "p_0078.png",
+  "chapter": 2,
+  "section": "02-02",
+  "page_number": 62,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "その他の重要な用語",
+      "reading": "そのたのじゅうようなようご",
+      "vi": "Thuật ngữ quan trọng khác",
+      "en": "Other Important Terms",
+      "my": "အခြား အရေးကြီးသော ဝေါဟာရများ"
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "その他の重要な用語",
+        "vi": "Thuật ngữ quan trọng khác",
+        "en": "Other Important Terms"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "肖像権",
+            "自身の肖像（容姿や姿態）をみだりに利用・公表されない権利。"
+          ],
+          "vi": [
+            "Quyền hình ảnh",
+            "Quyền không bị sử dụng hoặc công bố hình ảnh bản thân (diện mạo, dáng vẻ) một cách tùy tiện."
+          ],
+          "en": [
+            "Portrait Rights",
+            "Right to not have one's image (appearance, posture) arbitrarily used or published."
+          ]
+        },
+        {
+          "ja": [
+            "パブリシティ権",
+            "タレントやスポーツ選手など有名人の氏名や肖像を、商品の販売などを促進するために利用する際の商業的価値を本人が占有できる権利。例えば、有名なスポーツ選手の写真を勝手に撮影して販売するとパブリシティ権を侵害する恐れがある。"
+          ],
+          "vi": [
+            "Quyền quảng cáo",
+            "Quyền để bản thân người nổi tiếng (nghệ sĩ, vận động viên) chiếm hữu giá trị thương mại khi sử dụng tên hoặc hình ảnh để thúc đẩy bán hàng. Ví dụ, chụp ảnh vận động viên nổi tiếng và bán mà không được phép có thể vi phạm quyền này."
+          ],
+          "en": [
+            "Publicity Rights",
+            "Right for celebrities (talents, athletes) to possess commercial value when their name/image is used to promote sales. For example, photographing famous athletes without permission to sell may violate this."
+          ]
+        },
+        {
+          "ja": [
+            "使用許諾契約",
+            "著作権だけでは規制できないことを利用者との間で取り決める契約。"
+          ],
+          "vi": [
+            "Hợp đồng cấp phép sử dụng",
+            "Hợp đồng quy định với người dùng những điều không thể kiểm soát chỉ bằng quyền tác giả."
+          ],
+          "en": [
+            "License Agreement",
+            "Contract establishing with users what cannot be controlled by copyright alone."
+          ]
+        },
+        {
+          "ja": [
+            "サブスクリプション",
+            "定額料金を支払うことで一定期間、商品やサービスを利用できるビジネスモデル。"
+          ],
+          "vi": [
+            "Đăng ký thuê bao",
+            "Mô hình kinh doanh cho phép sử dụng sản phẩm/dịch vụ trong thời gian nhất định bằng cách trả phí cố định."
+          ],
+          "en": [
+            "Subscription",
+            "Business model allowing use of products/services for a period by paying fixed fees."
+          ]
+        },
+        {
+          "ja": [
+            "クロスライセンス",
+            "知的財産権を持つ者同士が、お互いに相手の権利を利用できるようにすること。"
+          ],
+          "vi": [
+            "Cấp phép chéo",
+            "Cho phép các bên có quyền sở hữu trí tuệ sử dụng quyền của nhau."
+          ],
+          "en": [
+            "Cross-License",
+            "Allowing IP rights holders to use each other's rights."
+          ]
+        },
+        {
+          "ja": [
+            "IPランドスケープ",
+            "IP（Intellectual Property：知的財産）を事業戦略や経営戦略に活用する手法。"
+          ],
+          "vi": [
+            "IP Landscape",
+            "Phương pháp áp dụng IP (Intellectual Property: Tài sản trí tuệ) vào chiến lược kinh doanh và quản lý."
+          ],
+          "en": [
+            "IP Landscape",
+            "Method of applying IP to business and management strategies."
+          ]
+        },
+        {
+          "ja": [
+            "パブリックドメインソフトウェア",
+            "著作権が放棄されているか、存在しないソフトウェア。"
+          ],
+          "vi": [
+            "Phần mềm Public Domain",
+            "Phần mềm mà quyền tác giả đã bị từ bỏ hoặc không tồn tại."
+          ],
+          "en": [
+            "Public Domain Software",
+            "Software where copyright has been abandoned or doesn't exist."
+          ]
+        },
+        {
+          "ja": [
+            "オープンソースソフトウェア",
+            "ソースコードが公開されていて、改良や再配布が可能または許可されているソフトウェア。ソースコードとは、コンピュータ言語で書かれた「コンピュータへの命令文」。なお、著作権は放棄されていない。"
+          ],
+          "vi": [
+            "Phần mềm mã nguồn mở",
+            "Phần mềm có mã nguồn được công khai, cho phép cải tiến hoặc phân phối lại. Mã nguồn là \"lệnh cho máy tính\" được viết bằng ngôn ngữ máy tính. Lưu ý, quyền tác giả không bị từ bỏ."
+          ],
+          "en": [
+            "Open Source Software",
+            "Software with published source code that allows modification or redistribution. Source code is \"computer instructions\" written in programming language. Note: copyright is not abandoned."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・パブリシティ権：有名人の写真を勝手に撮影し販売することなどを禁止する権利\n・クロスライセンス：権利者同士がお互いに使用を許諾すること",
+        "vi": "・Quyền quảng cáo: Quyền cấm việc chụp ảnh người nổi tiếng và bán mà không được phép\n・Cấp phép chéo: Các chủ sở hữu quyền cho phép nhau sử dụng",
+        "en": "・Publicity Rights: Right prohibiting photographing celebrities and selling without permission\n・Cross-License: Rights holders permitting each other's use",
+        "my": "・ Publicity Rights: နာမည်ကြီးသူများ ဓာတ်ပုံရိုက်ပြီး ခွင့်မပြုဘဲရောင်းခြင်းကို တားမြစ်သော အခွင့်အရေး\n・ Cross-License: အခွင့်အရေးပိုင်ရှင်များ တစ်ဦးကိုတစ်ဦး အသုံးပြုခွင့်ပေးခြင်း",
+        "terms": [
+          {
+            "kanji": "権",
+            "reading": "けん"
+          },
+          {
+            "kanji": "有名人",
+            "reading": "ゆうめいじん"
+          },
+          {
+            "kanji": "写真",
+            "reading": "しゃしん"
+          },
+          {
+            "kanji": "勝手",
+            "reading": "かって"
+          },
+          {
+            "kanji": "撮影",
+            "reading": "さつえい"
+          },
+          {
+            "kanji": "販売",
+            "reading": "はんばい"
+          },
+          {
+            "kanji": "禁止",
+            "reading": "きんし"
+          },
+          {
+            "kanji": "権利",
+            "reading": "けんり"
+          },
+          {
+            "kanji": "権利者同士",
+            "reading": "けんりしゃどうし"
+          },
+          {
+            "kanji": "互",
+            "reading": "ご"
+          },
+          {
+            "kanji": "使用",
+            "reading": "しよう"
+          },
+          {
+            "kanji": "許諾",
+            "reading": "きょだく"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "肖像権",
+      "reading": "しょうぞうけん",
+      "romaji": "Shouzouken",
+      "vi": "Quyền hình ảnh",
+      "en": "Portrait Rights",
+      "my": "ပုံတူအခွင့်အရေး"
+    },
+    {
+      "kanji": "パブリシティ権",
+      "reading": "ぱぶりしてぃけん",
+      "romaji": "Publicity Ken",
+      "vi": "Quyền quảng cáo",
+      "en": "Publicity Rights",
+      "my": "ပုဘလစစတီအခွင့်အရေး"
+    },
+    {
+      "kanji": "サブスクリプション",
+      "reading": "さぶすくりぷしょん",
+      "romaji": "Subscription",
+      "vi": "Thuê bao",
+      "en": "Subscription",
+      "my": "Subscription"
+    },
+    {
+      "kanji": "クロスライセンス",
+      "reading": "くろすらいせんす",
+      "romaji": "Cross License",
+      "vi": "Cấp phép chéo",
+      "en": "Cross-License",
+      "my": "Cross-License"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

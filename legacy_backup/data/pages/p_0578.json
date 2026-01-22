@@ -1,0 +1,218 @@
+{
+  "page_id": 578,
+  "image": "p_0578.png",
+  "chapter": 15,
+  "section": "15-06",
+  "page_number": 562,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "セキュリティバイデザイン",
+      "vi": "Security By Design",
+      "en": "Security By Design"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "セキュリティバイデザイン",
+        "vi": "Security By Design",
+        "en": "Security By Design"
+      },
+      "full_name": "Security By Design：SBD",
+      "definition": {
+        "ja": "セキュリティバイデザイン（Security By Design：SBD）とは、システムの企画・設計段階からセキュリティを確保することです。あまり耳にすることのない用語ですが、国家サイバー統括室（NCO）が推す用語の1つであるため、ITパスポート試験にも出題される可能性が高いです。",
+        "vi": "Security By Design (SBD) là đảm bảo bảo mật từ giai đoạn lập kế hoạch và thiết kế hệ thống. Đây là thuật ngữ không thường nghe, nhưng vì là một trong những thuật ngữ được Văn phòng An ninh mạng Quốc gia (NCO) đề xuất, nên khả năng cao sẽ được ra đề trong kỳ thi IT Passport.",
+        "en": "Security By Design (SBD) is ensuring security from system planning and design stages. Not commonly heard term, but since it's one of terms promoted by National Cybersecurity Office (NCO), high possibility of appearing on IT Passport exam."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "システムの企画・設計段階でセキュリティ対策をしておくと、セキュリティ対策のコストを大幅に削減できます。NCOが発表した資料によれば、企画・設計段階にセキュリティ対策を行った場合のコストを「1」とした場合、運用段階のセキュリティ対策コストは「100」になると試算されています。つまり、100倍のコストが異なるので、これらの試算からも、セキュリティバイデザインが重要であることがわかります。",
+      "vi": "Nếu thực hiện biện pháp bảo mật ở giai đoạn lập kế hoạch và thiết kế hệ thống, có thể giảm đáng kể chi phí biện pháp bảo mật. Theo tài liệu NCO công bố, nếu chi phí biện pháp bảo mật ở giai đoạn lập kế hoạch/thiết kế là \"1\", chi phí biện pháp bảo mật giai đoạn vận hành ước tính là \"100\". Tức là, chi phí chênh lệch 100 lần, từ ước tính này cũng thấy Security By Design quan trọng.",
+      "en": "If security measures are done at system planning/design stage, can greatly reduce security measure costs. According to NCO published materials, if security measure cost at planning/design stage is '1,' operation stage security measure cost is estimated at '100.' Meaning, 100x cost difference, so from these estimates, Security By Design is shown to be important.",
+      "terms": [
+        {
+          "kanji": "企画",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "設計段階",
+          "reading": "せっけいだんかい"
+        },
+        {
+          "kanji": "対策",
+          "reading": "たいさく"
+        },
+        {
+          "kanji": "大幅",
+          "reading": "おおはば"
+        },
+        {
+          "kanji": "削減",
+          "reading": "さくげん"
+        },
+        {
+          "kanji": "発表",
+          "reading": "はっぴょう"
+        },
+        {
+          "kanji": "資料",
+          "reading": "しりょう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "運用段階",
+          "reading": "うんようだんかい"
+        },
+        {
+          "kanji": "試算",
+          "reading": "しさん"
+        },
+        {
+          "kanji": "倍",
+          "reading": "ばい"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "開発工程別のセキュリティ対策コスト",
+        "vi": "Chi phí biện pháp bảo mật theo giai đoạn phát triển",
+        "en": "Security Measure Cost by Development Stage"
+      },
+      "description": {
+        "ja": "設計時のセキュリティ対策コストを1とすると：設計=1、開発=6.5、テスト=15、運用=100",
+        "vi": "Khi chi phí biện pháp bảo mật lúc thiết kế là 1: Thiết kế=1, Phát triển=6.5, Kiểm thử=15, Vận hành=100",
+        "en": "When design stage security measure cost is 1: Design=1, Development=6.5, Test=15, Operation=100"
+      },
+      "source": "https://www.ipa.go.jp/files/000055734.pdf"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "セキュアブート",
+      "vi": "Secure Boot",
+      "en": "Secure Boot"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "セキュアブート",
+        "vi": "Secure Boot",
+        "en": "Secure Boot"
+      },
+      "definition": {
+        "ja": "セキュアブート（Secure Boot）とは、PCの起動時にOSのデジタル署名を検証し、許可されていないOSの実行を防ぐ技術です。セキュアブートを使うことで、マルウェアに感染した恐れのあるOSの実行を未然に防ぐことができます。セキュアは「安全」、ブートは「起動」という意味です。セキュアブートを直訳すると「安全なコンピュータの起動」という意味になります。",
+        "vi": "Secure Boot là công nghệ xác minh chữ ký số của OS khi khởi động PC và ngăn thực thi OS không được phép. Bằng cách sử dụng Secure Boot, có thể ngăn chặn trước việc thực thi OS có nguy cơ bị nhiễm malware. Secure có nghĩa là \"an toàn\", Boot có nghĩa là \"khởi động\". Dịch trực tiếp Secure Boot là \"khởi động máy tính an toàn\".",
+        "en": "Secure Boot is technology verifying OS's digital signature when PC boots and preventing execution of unauthorized OS. Using Secure Boot, can prevent execution of OS potentially infected with malware. Secure means 'safe,' Boot means 'startup.' Direct translation of Secure Boot is 'safe computer startup.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "悪意をもった攻撃者は、アプリケーションソフトウェア（応用ソフトウェア）のみならず、OS（基本ソフトウェア）にも、マルウェアを仕込むことがあります。仮に、マルウェアに感染したOSを実行するとPCが攻撃を受けてしまいます。そこで、セキュアブートでは、デジタル署名を使ってOSが偽物でないかをチェックします。OSが偽物の場合は、OSを実行せずエラーメッセージなどを表示してマルウェアの実行を防ぎます。",
+      "vi": "Kẻ tấn công có ác ý không chỉ cài malware vào phần mềm ứng dụng mà còn cài vào OS (phần mềm cơ bản). Nếu thực thi OS bị nhiễm malware, PC sẽ bị tấn công. Vì vậy, Secure Boot kiểm tra xem OS có phải giả mạo không bằng chữ ký số. Nếu OS giả, không thực thi OS mà hiển thị thông báo lỗi để ngăn thực thi malware.",
+      "en": "Malicious attackers not only install malware in application software but also in OS (basic software). If malware-infected OS is executed, PC will be attacked. So, Secure Boot uses digital signature to check if OS is fake. If OS is fake, doesn't execute OS but displays error message to prevent malware execution.",
+      "terms": [
+        {
+          "kanji": "悪意",
+          "reading": "あくい"
+        },
+        {
+          "kanji": "攻撃者",
+          "reading": "こうげきもの"
+        },
+        {
+          "kanji": "応用",
+          "reading": "おうよう"
+        },
+        {
+          "kanji": "基本",
+          "reading": "きほん"
+        },
+        {
+          "kanji": "仕込",
+          "reading": "しこみ"
+        },
+        {
+          "kanji": "仮",
+          "reading": "かり"
+        },
+        {
+          "kanji": "感染",
+          "reading": "かんせん"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "攻撃",
+          "reading": "こうげき"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "署名",
+          "reading": "しょめい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "偽物",
+          "reading": "にせもの"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        },
+        {
+          "kanji": "防",
+          "reading": "ぼう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "セキュリティバイデザイン",
+      "full": "Security By Design",
+      "vi": "Security By Design",
+      "en": "Security By Design",
+      "my": "ဒီဇိုင်းဖြင့် လုံခြုံရေး"
+    },
+    {
+      "term": "セキュアブート",
+      "vi": "Secure Boot",
+      "en": "Secure Boot",
+      "my": "လုံခြုံစွာ စသိုင်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true
+  }
+}

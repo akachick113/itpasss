@@ -1,0 +1,271 @@
+{
+    "page_id": 597,
+    "image": "p_0597.png",
+    "chapter": "review",
+    "section": "exam_review",
+    "page_number": 581,
+    "content": [
+        {
+            "type": "review_terms_continued",
+            "chapter_num": 6,
+            "terms": [
+                {
+                    "ja": "システムに必要な性能",
+                    "vi": "Hiệu năng cần thiết cho hệ thống",
+                    "en": "Performance needed for system"
+                },
+                {
+                    "ja": "システム方式設計：システム要件を「ハードウェア」「ソフトウェア」「手作業」に振り分ける",
+                    "vi": "Thiết kế phương thức hệ thống: Phân chia yêu cầu hệ thống thành \"phần cứng\", \"phần mềm\", \"thao tác thủ công\"",
+                    "en": "System architecture design: Distribute system requirements to 'hardware,' 'software,' 'manual work'"
+                },
+                {
+                    "ja": "ソフトウェア要件定義：ソフトウェアの要件（機能や性能）を決める。主にユーザインタフェースとデータ",
+                    "vi": "Định nghĩa yêu cầu phần mềm: Quyết định yêu cầu phần mềm (chức năng và hiệu năng). Chủ yếu là giao diện người dùng và dữ liệu",
+                    "en": "Software requirements definition: Determine software requirements (functions and performance). Mainly user interface and data"
+                },
+                {
+                    "ja": "ソフトウェア方式設計：ソフトウェア要件をプログラムの単位まで分割する",
+                    "vi": "Thiết kế phương thức phần mềm: Chia yêu cầu phần mềm thành đơn vị chương trình",
+                    "en": "Software architecture design: Divide software requirements into program units"
+                },
+                {
+                    "ja": "ソフトウェア詳細設計：プログラムの単位まで「コーディング」できる単位まで分割する",
+                    "vi": "Thiết kế chi tiết phần mềm: Chia thành đơn vị có thể \"coding\" đến đơn vị chương trình",
+                    "en": "Software detailed design: Divide to units that can be 'coded'"
+                },
+                {
+                    "ja": "プログラミングは、ソフトウェア詳細設計の後に行う工程である",
+                    "vi": "Lập trình là công đoạn thực hiện sau thiết kế chi tiết phần mềm",
+                    "en": "Programming is process done after software detailed design"
+                },
+                {
+                    "ja": "単体テスト：プログラムに誤りがないことを確認",
+                    "vi": "Kiểm thử đơn vị: Xác nhận không có lỗi trong chương trình",
+                    "en": "Unit test: Confirm no errors in program"
+                },
+                {
+                    "ja": "結合テスト：プログラム同士のインタフェースが合うかを検証する",
+                    "vi": "Kiểm thử tích hợp: Xác minh giao diện giữa các chương trình có khớp không",
+                    "en": "Integration test: Verify if interfaces between programs match"
+                },
+                {
+                    "ja": "システムテスト：システム要件（機能と性能）の確認",
+                    "vi": "Kiểm thử hệ thống: Xác nhận yêu cầu hệ thống (chức năng và hiệu năng)",
+                    "en": "System test: Confirm system requirements (functions and performance)"
+                },
+                {
+                    "ja": "運用テスト：本番環境でシステムを運用するテスト",
+                    "vi": "Kiểm thử vận hành: Kiểm thử vận hành hệ thống trong môi trường thực tế",
+                    "en": "Operation test: Test operating system in production environment"
+                },
+                {
+                    "ja": "ホワイトボックステストとは、内部構造を分析して行うテスト",
+                    "vi": "Kiểm thử hộp trắng là kiểm thử phân tích cấu trúc nội bộ",
+                    "en": "White box test is test analyzing internal structure"
+                },
+                {
+                    "ja": "ブラックボックステストとは、内部構造を考慮せず、システム要件通り正どおりに動作するかを確認するテスト",
+                    "vi": "Kiểm thử hộp đen là kiểm thử xác nhận hoạt động đúng theo yêu cầu hệ thống mà không xét cấu trúc nội bộ",
+                    "en": "Black box test is test confirming operation according to system requirements without considering internal structure"
+                },
+                {
+                    "ja": "ソフトウェア保守とは、本番環境にあるソフトウェアを変更する作業",
+                    "vi": "Bảo trì phần mềm là công việc thay đổi phần mềm trong môi trường thực tế",
+                    "en": "Software maintenance is work changing software in production environment"
+                },
+                {
+                    "ja": "ソフトウェア受入れテストとは、システムが常に稼動することを利用者側が確認するテスト",
+                    "vi": "Kiểm thử nghiệm thu phần mềm là kiểm thử phía người dùng xác nhận hệ thống luôn hoạt động",
+                    "en": "Software acceptance test is test where user side confirms system always operates"
+                },
+                {
+                    "ja": "ソフトウェアライフサイクルプロセスの5つのプロセス、企画→要件定義→開発→運用→保守",
+                    "vi": "5 quy trình của Vòng đời phần mềm: Lập kế hoạch→Định nghĩa yêu cầu→Phát triển→Vận hành→Bảo trì",
+                    "en": "5 processes of Software Life Cycle: Planning→Requirements Definition→Development→Operation→Maintenance"
+                },
+                {
+                    "ja": "ソフトウェア保守とは、本番稼動中のソフトウェアを修正・改良すること",
+                    "vi": "Bảo trì phần mềm là sửa chữa, cải tiến phần mềm đang vận hành thực tế",
+                    "en": "Software maintenance is correcting, improving software in production operation"
+                },
+                {
+                    "ja": "ファンクションポイントとは、システムの機能数で見積もる手法",
+                    "vi": "Function Point là phương pháp ước tính bằng số chức năng của hệ thống",
+                    "en": "Function Point is estimation method by number of system functions"
+                },
+                {
+                    "ja": "ウォーターフォールモデルとは、上流工程から下流工程へ向かって一直線に順番に開発工程を進めるソフトウェア開発モデル",
+                    "vi": "Waterfall Model là mô hình phát triển phần mềm tiến hành các công đoạn phát triển theo thứ tự một đường thẳng từ công đoạn thượng nguồn đến hạ nguồn",
+                    "en": "Waterfall Model is software development model proceeding development stages in straight line order from upstream to downstream"
+                },
+                {
+                    "ja": "アジャイル開発は、短期間、短期間の繰り返しリリース",
+                    "vi": "Phát triển Agile là phát hành lặp lại trong thời gian ngắn",
+                    "en": "Agile development is repeated releases in short periods"
+                },
+                {
+                    "ja": "スクラムとは、ウォーターフォールモデルに比べて、仕様変更に柔軟",
+                    "vi": "Scrum linh hoạt với thay đổi đặc tả so với Waterfall Model",
+                    "en": "Scrum is flexible with specification changes compared to Waterfall Model"
+                },
+                {
+                    "ja": "DevOpsとは、開発担当者と運用担当者が密接に連携してシステムを作成すること",
+                    "vi": "DevOps là việc nhà phát triển và người vận hành hợp tác chặt chẽ để tạo hệ thống",
+                    "en": "DevOps is developers and operators closely cooperating to create systems"
+                },
+                {
+                    "ja": "リファクタリングとは、プログラムの機能を保持しながら、内部構造を改善させること",
+                    "vi": "Refactoring là cải thiện cấu trúc nội bộ trong khi giữ nguyên chức năng chương trình",
+                    "en": "Refactoring is improving internal structure while maintaining program functions"
+                }
+            ]
+        },
+        {
+            "type": "review_chapter",
+            "chapter_num": 7,
+            "title": {
+                "ja": "7章",
+                "vi": "Chương 7",
+                "en": "Chapter 7"
+            },
+            "terms": [
+                {
+                    "ja": "プロジェクトには次の制約がある",
+                    "vi": "Dự án có các ràng buộc sau",
+                    "en": "Projects have following constraints"
+                },
+                {
+                    "ja": "(1) スコープ（作業範囲）",
+                    "vi": "(1) Phạm vi (phạm vi công việc)",
+                    "en": "(1) Scope (work scope)"
+                },
+                {
+                    "ja": "(2) スケジュール（期限）",
+                    "vi": "(2) Lịch trình (thời hạn)",
+                    "en": "(2) Schedule (deadline)"
+                },
+                {
+                    "ja": "(3) コスト（費用）",
+                    "vi": "(3) Chi phí (phí tổn)",
+                    "en": "(3) Cost (expenses)"
+                },
+                {
+                    "ja": "プロジェクトマネジメントとは、プロジェクトの計画を立て、管理すること",
+                    "vi": "Quản lý dự án là lập kế hoạch và quản lý dự án",
+                    "en": "Project management is planning and managing projects"
+                },
+                {
+                    "ja": "WBSは、プロジェクトの作業を階層的に分解した図",
+                    "vi": "WBS là biểu đồ phân giải công việc dự án theo tầng bậc",
+                    "en": "WBS is diagram hierarchically decomposing project work"
+                },
+                {
+                    "ja": "ステークホルダとは、プロジェクトから影響や利害を受ける者を登録する作業",
+                    "vi": "Stakeholder là công việc đăng ký những người bị ảnh hưởng hoặc có lợi ích từ dự án",
+                    "en": "Stakeholder is work registering those affected by or having interest in project"
+                },
+                {
+                    "ja": "プロジェクト憲章とは役割とすべき内容、成功の基準を示す文書",
+                    "vi": "Điều lệ dự án là tài liệu thể hiện vai trò, nội dung cần thực hiện, tiêu chí thành công",
+                    "en": "Project charter is document showing roles, content to be done, success criteria"
+                },
+                {
+                    "ja": "プロジェクトに参加する要員の役割、責任、必要なスキルを決定、それを効果的に機能させるようにする",
+                    "vi": "Quyết định vai trò, trách nhiệm, kỹ năng cần thiết của nhân viên tham gia dự án, làm cho nó hoạt động hiệu quả",
+                    "en": "Determine roles, responsibilities, required skills of members participating in project, make it function effectively"
+                },
+                {
+                    "ja": "リスクアボイダンス：リスクを取り除くこと",
+                    "vi": "Tránh rủi ro: Loại bỏ rủi ro",
+                    "en": "Risk Avoidance: Removing risk"
+                },
+                {
+                    "ja": "リスク軽減：リスクを軽減すること",
+                    "vi": "Giảm rủi ro: Giảm bớt rủi ro",
+                    "en": "Risk Mitigation: Reducing risk"
+                },
+                {
+                    "ja": "リスク受容：リスクを受け入れること",
+                    "vi": "Chấp nhận rủi ro: Chấp nhận rủi ro",
+                    "en": "Risk Acceptance: Accepting risk"
+                }
+            ]
+        },
+        {
+            "type": "review_chapter",
+            "chapter_num": 8,
+            "title": {
+                "ja": "8章",
+                "vi": "Chương 8",
+                "en": "Chapter 8"
+            },
+            "terms": [
+                {
+                    "ja": "ITILとは、ITサービスマネジメントのベストプラクティス集である",
+                    "vi": "ITIL là tập hợp các thực hành tốt nhất về quản lý dịch vụ IT",
+                    "en": "ITIL is collection of best practices for IT service management"
+                },
+                {
+                    "ja": "「計画」に関連する選択肢は、Plan",
+                    "vi": "Lựa chọn liên quan đến \"kế hoạch\" là Plan",
+                    "en": "Choice related to 'planning' is Plan"
+                },
+                {
+                    "ja": "「実行」に関連する選択肢は、Do",
+                    "vi": "Lựa chọn liên quan đến \"thực hiện\" là Do",
+                    "en": "Choice related to 'execution' is Do"
+                },
+                {
+                    "ja": "「評価」に関連する選択肢は、Check",
+                    "vi": "Lựa chọn liên quan đến \"đánh giá\" là Check",
+                    "en": "Choice related to 'evaluation' is Check"
+                },
+                {
+                    "ja": "「改善」に問題がある選択肢は、Act",
+                    "vi": "Lựa chọn có vấn đề với \"cải tiến\" là Act",
+                    "en": "Choice with issue for 'improvement' is Act"
+                },
+                {
+                    "ja": "SLM（サービスレベル管理）とは、サービスレベルを確保するために、利用者と合意した「サービスレベル」を着実に維持・改善すること",
+                    "vi": "SLM (Quản lý mức dịch vụ) là duy trì và cải thiện chắc chắn \"mức dịch vụ\" đã thỏa thuận với người dùng để đảm bảo mức dịch vụ",
+                    "en": "SLM (Service Level Management) is steadily maintaining and improving 'service level' agreed with users to ensure service level"
+                },
+                {
+                    "ja": "SLAとは、サービスレベルの合意書である",
+                    "vi": "SLA là thỏa thuận về mức dịch vụ",
+                    "en": "SLA is service level agreement"
+                },
+                {
+                    "ja": "SLAの各目的の内容を確認しておく",
+                    "vi": "Xác nhận nội dung mục tiêu của từng SLA",
+                    "en": "Confirm content of each SLA objective"
+                },
+                {
+                    "ja": "サービスデスクの目的は、問題管理（根本原因）、インシデント管理（迅速な回復）、変更管理",
+                    "vi": "Mục đích của Service Desk là quản lý vấn đề (nguyên nhân gốc rễ), quản lý sự cố (phục hồi nhanh chóng), quản lý thay đổi",
+                    "en": "Service Desk objectives are problem management (root cause), incident management (quick recovery), change management"
+                },
+                {
+                    "ja": "チャットボットとは、質問に自動的に応答するシステム",
+                    "vi": "Chatbot là hệ thống tự động trả lời câu hỏi",
+                    "en": "Chatbot is system automatically responding to questions"
+                },
+                {
+                    "ja": "BCMとは、災害などでも事業を継続できるよう管理する",
+                    "vi": "BCM là quản lý để có thể tiếp tục kinh doanh ngay cả khi có thiên tai",
+                    "en": "BCM is managing to continue business even during disasters"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "is_review": true,
+        "chapters_covered": [
+            6,
+            7,
+            8
+        ]
+    }
+}

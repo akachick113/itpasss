@@ -1,0 +1,321 @@
+{
+  "page_id": 208,
+  "image": "p_0208.png",
+  "chapter": 5,
+  "section": "05-04",
+  "page_number": 192,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "クラウドコンピューティングの種類と違い",
+        "vi": "Các loại và sự khác biệt của Cloud Computing",
+        "en": "Types and Differences of Cloud Computing"
+      },
+      "headers": {
+        "ja": [
+          "",
+          "オンプレミス（全て自前）",
+          "IaaS",
+          "PaaS",
+          "SaaS",
+          "DaaS"
+        ],
+        "vi": [
+          "",
+          "On-Premise (tất cả tự làm)",
+          "IaaS",
+          "PaaS",
+          "SaaS",
+          "DaaS"
+        ],
+        "en": [
+          "",
+          "On-Premise (all own)",
+          "IaaS",
+          "PaaS",
+          "SaaS",
+          "DaaS"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "デスクトップ",
+            "",
+            "",
+            "",
+            "",
+            "●"
+          ],
+          "vi": [
+            "Desktop",
+            "",
+            "",
+            "",
+            "",
+            "●"
+          ],
+          "en": [
+            "Desktop",
+            "",
+            "",
+            "",
+            "",
+            "●"
+          ]
+        },
+        {
+          "ja": [
+            "アプリケーションソフトウェア",
+            "",
+            "",
+            "",
+            "●",
+            "●"
+          ],
+          "vi": [
+            "Application Software",
+            "",
+            "",
+            "",
+            "●",
+            "●"
+          ],
+          "en": [
+            "Application Software",
+            "",
+            "",
+            "",
+            "●",
+            "●"
+          ]
+        },
+        {
+          "ja": [
+            "OS",
+            "",
+            "",
+            "●",
+            "●",
+            "●"
+          ],
+          "vi": [
+            "OS",
+            "",
+            "",
+            "●",
+            "●",
+            "●"
+          ],
+          "en": [
+            "OS",
+            "",
+            "",
+            "●",
+            "●",
+            "●"
+          ]
+        },
+        {
+          "ja": [
+            "ハードウェア",
+            "",
+            "●",
+            "●",
+            "●",
+            "●"
+          ],
+          "vi": [
+            "Hardware",
+            "",
+            "●",
+            "●",
+            "●",
+            "●"
+          ],
+          "en": [
+            "Hardware",
+            "",
+            "●",
+            "●",
+            "●",
+            "●"
+          ]
+        }
+      ],
+      "note": {
+        "ja": "クラウドコンピューティングは提供するサービスの種類によってバナ化される！",
+        "vi": "Cloud Computing được phân loại theo loại dịch vụ cung cấp!",
+        "en": "Cloud Computing is differentiated by the types of services provided!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここまで、クラウドコンピューティングで提供されている4つの「○aaS」を解説してきました。ここまで読み進めてきた人は気づいていると思いますが、どの○aaSも「aaS」の部分はすべて「as a Service」（サービスとしての）で同じです。このことから、クラウドコンピューティングが提供しているものがすべて「サービス」であることがわかると思います。\n\n企業が販売するものは大きく2種類に分類できます。1つは商品（Product）、そしてもう1つはサービス（Service）です。宿泊やレジャー、教育、医療など、商品を販売しない業種のことを総称して「サービス業」といったりします。\n\n従来のソフトウェアやハードウェアはまさに「商品」として販売されてきました。クラウドコンピューティングはその概念を覆し、多くの商品を「サービス」として顧客に提供します。このため、4つの略語にはすべて「aaS」がついているのです。",
+      "vi": "Ở đây đã giải thích 4 loại ○aaS cung cấp trong Cloud Computing. Người đọc đến đây đã nhận ra, tất cả ○aaS đều có phần aaS là as a Service (như dịch vụ). Từ đây thấy tất cả những gì Cloud Computing cung cấp đều là dịch vụ.\n\nNhững gì doanh nghiệp bán có thể phân thành 2 loại lớn. Một là Product (sản phẩm), một là Service (dịch vụ). Các ngành không bán sản phẩm như lưu trú, giải trí, giáo dục, y tế được gọi chung là ngành dịch vụ.\n\nTrước đây software và hardware được bán như sản phẩm. Cloud Computing đảo ngược khái niệm đó, cung cấp nhiều sản phẩm như dịch vụ cho khách hàng. Vì vậy, cả 4 từ viết tắt đều có aaS.",
+      "en": "We've explained the 4 '○aaS' provided by Cloud Computing. Those who've read this far have noticed that all ○aaS share 'aaS' meaning 'as a Service'. This shows everything Cloud Computing provides is a 'Service'.\n\nWhat companies sell can be classified into 2 types: Products and Services. Industries that don't sell products like lodging, leisure, education, healthcare are collectively called 'service industries'.\n\nPreviously, software and hardware were sold as 'products'. Cloud Computing overturns that concept, providing many products as 'services' to customers. That's why all 4 abbreviations have 'aaS'.",
+      "my": "Cloud Computing မှ ပေးဆောင်သော ○aaS ၄ ခုကို ရှင်းပြပြီးပါပြီ။",
+      "terms": [
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "気",
+          "reading": "き"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "部分",
+          "reading": "ぶぶん"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "販売",
+          "reading": "はんばい"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "宿泊",
+          "reading": "しゅくはく"
+        },
+        {
+          "kanji": "教育",
+          "reading": "きょういく"
+        },
+        {
+          "kanji": "医療",
+          "reading": "いりょう"
+        },
+        {
+          "kanji": "業種",
+          "reading": "ぎょうしゅ"
+        },
+        {
+          "kanji": "総称",
+          "reading": "そうしょう"
+        },
+        {
+          "kanji": "業",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "従来",
+          "reading": "じゅうらい"
+        },
+        {
+          "kanji": "概念",
+          "reading": "がいねん"
+        },
+        {
+          "kanji": "覆",
+          "reading": "ふく"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "顧客",
+          "reading": "こきゃく"
+        },
+        {
+          "kanji": "略語",
+          "reading": "りゃくご"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・IaaSとは、ハードウェアなどの基盤を提供するサービスである\n・PaaSとは、プラットフォームを提供するサービスである\n・SaaSとは、ソフトウェアを提供するサービスである\n・DaaSとは、デスクトップ環境を提供するサービスである",
+        "vi": "・IaaS là dịch vụ cung cấp nền tảng như hardware\n・PaaS là dịch vụ cung cấp platform\n・SaaS là dịch vụ cung cấp software\n・DaaS là dịch vụ cung cấp môi trường desktop",
+        "en": "・IaaS is a service providing infrastructure like hardware\n・PaaS is a service providing platforms\n・SaaS is a service providing software\n・DaaS is a service providing desktop environments",
+        "my": "・ IaaS သည် hardware ကဲ့သို့ အခြေခံအဆောက်အအုံ ပေးဆောင်သော ဝန်ဆောင်မှုဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "基盤",
+            "reading": "きばん"
+          },
+          {
+            "kanji": "提供",
+            "reading": "ていきょう"
+          },
+          {
+            "kanji": "環境",
+            "reading": "かんきょう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "as a Service",
+      "reading": "あず あ さーびす",
+      "romaji": "as a Service",
+      "vi": "Như dịch vụ",
+      "en": "as a Service",
+      "my": "ဝန်ဆောင်မှုအဖြစ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

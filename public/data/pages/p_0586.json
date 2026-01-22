@@ -1,0 +1,198 @@
+{
+    "page_id": 586,
+    "image": "p_0586.png",
+    "chapter": 15,
+    "section": "practice_questions_2",
+    "page_number": 570,
+    "content": [
+        {
+            "type": "question",
+            "id": "15-18",
+            "year": "平成28年度",
+            "question": {
+                "ja": "公開鍵暗号方式を用いた機密データの受渡しに関する記述中のa、bに入れる字句の適切な組み合わせはどれか。",
+                "vi": "Tổ hợp từ ngữ phù hợp điền vào a, b trong mô tả về việc trao đổi dữ liệu bí mật sử dụng phương thức mã hóa khóa công khai là gì?",
+                "en": "What is appropriate combination of terms for a, b in description about exchanging confidential data using public key encryption?"
+            },
+            "context": {
+                "ja": "データの受信者Aは、自分の「a」鍵と「b」鍵を用意して「a」鍵を送信者Bに送付する。データの送信者Bは、受信者Aから送付された「a」鍵を用いてデータを暗号化して受信者Aに送信する。受信者Aは、送信者Bから受信した暗号化されたデータを自分の「b」鍵を使って復号する。",
+                "vi": "Người nhận dữ liệu A chuẩn bị khóa \"a\" và khóa \"b\" của mình, gửi khóa \"a\" cho người gửi B. Người gửi dữ liệu B mã hóa dữ liệu bằng khóa \"a\" nhận từ A và gửi cho A. Người nhận A giải mã dữ liệu đã mã hóa nhận từ B bằng khóa \"b\" của mình.",
+                "en": "Data receiver A prepares own 'a' key and 'b' key, sends 'a' key to sender B. Data sender B encrypts data using 'a' key received from A and sends to receiver A. Receiver A decrypts encrypted data received from sender B using own 'b' key."
+            },
+            "options": [
+                {
+                    "id": "ア",
+                    "a": "公開",
+                    "b": "共通",
+                    "a_vi": "Công khai",
+                    "b_vi": "Chung",
+                    "a_en": "Public",
+                    "b_en": "Common"
+                },
+                {
+                    "id": "イ",
+                    "a": "公開",
+                    "b": "秘密",
+                    "a_vi": "Công khai",
+                    "b_vi": "Bí mật",
+                    "a_en": "Public",
+                    "b_en": "Private"
+                },
+                {
+                    "id": "ウ",
+                    "a": "秘密",
+                    "b": "公開",
+                    "a_vi": "Bí mật",
+                    "b_vi": "Công khai",
+                    "a_en": "Private",
+                    "b_en": "Public"
+                },
+                {
+                    "id": "エ",
+                    "a": "共通",
+                    "b": "公開",
+                    "a_vi": "Chung",
+                    "b_vi": "Công khai",
+                    "a_en": "Common",
+                    "b_en": "Public"
+                }
+            ],
+            "answer": "イ"
+        },
+        {
+            "type": "question",
+            "id": "15-19",
+            "year": "令和5年度",
+            "question": {
+                "ja": "暗号化方式の特徴について記した表において、表中のa～dに入れる字句の適切な組み合わせはどれか。",
+                "vi": "Tổ hợp từ ngữ phù hợp điền vào a～d trong bảng mô tả đặc điểm phương thức mã hóa là gì?",
+                "en": "What is appropriate combination of terms for a-d in table describing encryption method characteristics?"
+            },
+            "table_context": {
+                "headers": {
+                    "ja": [
+                        "暗号方式",
+                        "鍵の特徴",
+                        "鍵の安全な配布",
+                        "暗号化/復号の相対的な処理速度"
+                    ],
+                    "vi": [
+                        "Phương thức mã hóa",
+                        "Đặc điểm khóa",
+                        "Phân phối khóa an toàn",
+                        "Tốc độ xử lý mã hóa/giải mã tương đối"
+                    ],
+                    "en": [
+                        "Encryption Method",
+                        "Key Characteristic",
+                        "Safe Key Distribution",
+                        "Relative Encryption/Decryption Speed"
+                    ]
+                },
+                "rows": [
+                    {
+                        "method": "a",
+                        "characteristic": {
+                            "ja": "暗号化鍵と復号鍵が異なる",
+                            "vi": "Khóa mã hóa và khóa giải mã khác nhau",
+                            "en": "Encryption and decryption keys are different"
+                        },
+                        "distribution": {
+                            "ja": "容易",
+                            "vi": "Dễ dàng",
+                            "en": "Easy"
+                        },
+                        "speed": "c"
+                    },
+                    {
+                        "method": "b",
+                        "characteristic": {
+                            "ja": "暗号化鍵と復号鍵が同一",
+                            "vi": "Khóa mã hóa và khóa giải mã giống nhau",
+                            "en": "Encryption and decryption keys are same"
+                        },
+                        "distribution": {
+                            "ja": "難しい",
+                            "vi": "Khó",
+                            "en": "Difficult"
+                        },
+                        "speed": "d"
+                    }
+                ]
+            },
+            "options": [
+                {
+                    "id": "ア",
+                    "a": "共通鍵暗号方式",
+                    "b": "公開鍵暗号方式",
+                    "c": "遅い",
+                    "d": "速い"
+                },
+                {
+                    "id": "イ",
+                    "a": "共通鍵暗号方式",
+                    "b": "公開鍵暗号方式",
+                    "c": "速い",
+                    "d": "遅い"
+                },
+                {
+                    "id": "ウ",
+                    "a": "公開鍵暗号方式",
+                    "b": "共通鍵暗号方式",
+                    "c": "遅い",
+                    "d": "速い"
+                },
+                {
+                    "id": "エ",
+                    "a": "公開鍵暗号方式",
+                    "b": "共通鍵暗号方式",
+                    "c": "速い",
+                    "d": "遅い"
+                }
+            ],
+            "answer": "ウ"
+        },
+        {
+            "type": "question",
+            "id": "15-20",
+            "year": "平成25年度",
+            "question": {
+                "ja": "システムの利用者認証技術に関する記述のうち、適切なものはどれか。",
+                "vi": "Mô tả nào phù hợp về công nghệ xác thực người dùng hệ thống?",
+                "en": "Which description is appropriate regarding system user authentication technology?"
+            },
+            "options": [
+                {
+                    "id": "ア",
+                    "ja": "一度の認証で、許可されている複数のサーバやアプリケーションなどを利用できる仕組みをチャレンジレスポンス認証という。",
+                    "vi": "Cơ chế cho phép sử dụng nhiều server hoặc ứng dụng được phép với một lần xác thực được gọi là xác thực challenge-response.",
+                    "en": "Mechanism allowing use of multiple permitted servers or applications with one authentication is called challenge-response authentication."
+                },
+                {
+                    "id": "イ",
+                    "ja": "指紋や声紋など、身体的な特徴を利用して本人認証を行う仕組みをシングルサインオンという。",
+                    "vi": "Cơ chế xác thực bản thân sử dụng đặc điểm cơ thể như vân tay hoặc vân giọng nói được gọi là Single Sign-On.",
+                    "en": "Mechanism authenticating using physical characteristics like fingerprint or voiceprint is called Single Sign-On."
+                },
+                {
+                    "id": "ウ",
+                    "ja": "特定の数字や文字の並びではなく、位置についての情報を覚え、認証時には画面に表示された表の中で、自分が覚えている位置に並んでいる数字や文字をパスワードとして入力する方式をバイオメトリクス認証という。",
+                    "vi": "Phương thức nhớ thông tin vị trí thay vì dãy số hoặc ký tự cụ thể, và khi xác thực nhập số hoặc ký tự ở vị trí mình nhớ trong bảng hiển thị trên màn hình làm mật khẩu được gọi là xác thực sinh trắc học.",
+                    "en": "Method remembering position information instead of specific number or character sequence, and inputting numbers or characters at remembered position in displayed table as password during authentication is called biometric authentication."
+                },
+                {
+                    "id": "エ",
+                    "ja": "認証のために一度しか使えないパスワードのことをワンタイムパスワードという。",
+                    "vi": "Mật khẩu chỉ có thể sử dụng một lần để xác thực được gọi là One-Time Password.",
+                    "en": "Password that can only be used once for authentication is called One-Time Password."
+                }
+            ],
+            "answer": "エ"
+        }
+    ],
+    "answer_key": {
+        "15-18": "イ",
+        "15-19": "ウ",
+        "15-20": "エ"
+    }
+}

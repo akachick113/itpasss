@@ -1,0 +1,172 @@
+{
+    "page_id": 266,
+    "image": "p_0266.png",
+    "chapter": 6,
+    "section": "practice",
+    "page_number": 250,
+    "content": [
+        {
+            "type": "section_header",
+            "ja": "出る順！過去問＆完全解説",
+            "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích hoàn chỉnh",
+            "en": "In Order of Appearance! Past Questions & Complete Explanations",
+            "note": {
+                "ja": "解答・解説はp.254参照",
+                "vi": "Xem đáp án và giải thích ở trang 254",
+                "en": "See p.254 for answers and explanations"
+            }
+        },
+        {
+            "type": "exam_question",
+            "number": "6-1",
+            "year": "平成25年度",
+            "question": {
+                "ja": "システムが実現すべき応答時間などのシステムの品質を明確にする工程として、適切なものはどれか。",
+                "vi": "Công đoạn nào phù hợp để làm rõ chất lượng hệ thống như thời gian phản hồi mà hệ thống cần thực hiện?",
+                "en": "Which is appropriate as a phase to clarify system quality such as response time the system should achieve?"
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "ja": "システムテスト",
+                    "vi": "System Test",
+                    "en": "System Test"
+                },
+                {
+                    "id": "イ",
+                    "ja": "システム要件定義",
+                    "vi": "Định nghĩa yêu cầu hệ thống",
+                    "en": "System Requirements Definition"
+                },
+                {
+                    "id": "ウ",
+                    "ja": "ソフトウェア詳細設計",
+                    "vi": "Thiết kế chi tiết phần mềm",
+                    "en": "Detailed Software Design"
+                },
+                {
+                    "id": "エ",
+                    "ja": "プログラミング",
+                    "vi": "Lập trình",
+                    "en": "Programming"
+                }
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "6-2",
+            "year": "平成28年度",
+            "question": {
+                "ja": "システム開発のテストを、単体テスト、結合テスト、システムテスト、運用テストの順に行う場合、システムテストの内容として、適切なものはどれか。",
+                "vi": "Khi thực hiện kiểm thử phát triển hệ thống theo thứ tự unit test, integration test, system test, operational test, nội dung nào phù hợp cho system test?",
+                "en": "When performing system development tests in order of unit test, integration test, system test, operational test, which is appropriate content for system test?"
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "ja": "個々のプログラムに誤りがないことを検証する。",
+                    "vi": "Xác minh từng chương trình không có lỗi.",
+                    "en": "Verify individual programs have no errors."
+                },
+                {
+                    "id": "イ",
+                    "ja": "性能要件を満たしていることを開発者が検証する。",
+                    "vi": "Nhà phát triển xác minh đáp ứng yêu cầu hiệu suất.",
+                    "en": "Developers verify performance requirements are met."
+                },
+                {
+                    "id": "ウ",
+                    "ja": "プログラム間のインタフェースに誤りがないことを検証する。",
+                    "vi": "Xác minh interface giữa các chương trình không có lỗi.",
+                    "en": "Verify interfaces between programs have no errors."
+                },
+                {
+                    "id": "エ",
+                    "ja": "利用者が実際に運用することで、業務の運用が要件どおり実施できることを検証する。",
+                    "vi": "Người dùng thực sự vận hành để xác minh nghiệp vụ có thể thực hiện đúng theo yêu cầu.",
+                    "en": "Users actually operate to verify business operations can be performed as required."
+                }
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "6-3",
+            "year": "平成23年度",
+            "question": {
+                "ja": "稼働中のソフトウェアに対して、発見された障害の是正や、新しい要件に対応するための機能拡張を行う活動として、最も適切なものはどれか。",
+                "vi": "Hoạt động nào phù hợp nhất để sửa lỗi đã phát hiện hoặc mở rộng chức năng để đáp ứng yêu cầu mới đối với phần mềm đang hoạt động?",
+                "en": "Which is most appropriate as an activity to correct discovered defects or extend functions for new requirements for software in operation?"
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "ja": "システムテスト",
+                    "vi": "System Test",
+                    "en": "System Test"
+                },
+                {
+                    "id": "イ",
+                    "ja": "システム要件定義",
+                    "vi": "Định nghĩa yêu cầu hệ thống",
+                    "en": "System Requirements Definition"
+                },
+                {
+                    "id": "ウ",
+                    "ja": "ソフトウェア構成管理",
+                    "vi": "Quản lý cấu hình phần mềm",
+                    "en": "Software Configuration Management"
+                },
+                {
+                    "id": "エ",
+                    "ja": "ソフトウェア保守",
+                    "vi": "Bảo trì phần mềm",
+                    "en": "Software Maintenance"
+                }
+            ],
+            "correct_answer": "エ"
+        },
+        {
+            "type": "exam_question",
+            "number": "6-4",
+            "year": "平成22年度",
+            "question": {
+                "ja": "ソフトウェア結合テストに関して説明したものはどれか。",
+                "vi": "Cái nào giải thích về kiểm thử tích hợp phần mềm?",
+                "en": "Which explains software integration testing?"
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "ja": "関連する業務処理を行っているシステムを結合して、正常に稼働することを確認する。",
+                    "vi": "Kết hợp hệ thống đang thực hiện xử lý nghiệp vụ liên quan, xác nhận hoạt động bình thường.",
+                    "en": "Combine systems performing related business processing, confirm normal operation."
+                },
+                {
+                    "id": "イ",
+                    "ja": "すべての命令や分岐条件などを網羅するホワイトボックステストによってプログラムが仕様書どおりに動作することを確認する。",
+                    "vi": "Xác nhận chương trình hoạt động đúng theo thông số bằng White Box Test bao phủ tất cả lệnh và điều kiện phân nhánh.",
+                    "en": "Confirm program works according to specifications by White Box Test covering all instructions and branch conditions."
+                },
+                {
+                    "id": "ウ",
+                    "ja": "プログラマが検証ツールやチェックリストを利用して、プログラムがコーディング基準に従って作成されていることを確認する。",
+                    "vi": "Programmer sử dụng công cụ xác minh và checklist để xác nhận chương trình được tạo theo tiêu chuẩn coding.",
+                    "en": "Programmers use verification tools and checklists to confirm programs are created according to coding standards."
+                },
+                {
+                    "id": "エ",
+                    "ja": "プログラム間のインタフェースが整合していることを確認する。",
+                    "vi": "Xác nhận interface giữa các chương trình phù hợp.",
+                    "en": "Confirm interfaces between programs are consistent."
+                }
+            ],
+            "correct_answer": "エ"
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 4
+    }
+}

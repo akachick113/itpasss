@@ -1,0 +1,315 @@
+{
+  "page_id": 245,
+  "image": "p_0245.png",
+  "chapter": 6,
+  "section": "06-02",
+  "page_number": 229,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "最新情報を反映しているのですが、もしこの応答時間が1時間もかかるようでは、まったく役に立ちません。",
+      "vi": "phản ánh thông tin mới nhất, nhưng nếu thời gian phản hồi này mất đến 1 tiếng thì hoàn toàn không có ích.",
+      "en": "reflects the latest information, but if this response time takes 1 hour, it's completely useless.",
+      "terms": [
+        {
+          "kanji": "最新情報",
+          "reading": "さいしんじょうほう"
+        },
+        {
+          "kanji": "反映",
+          "reading": "はんえい"
+        },
+        {
+          "kanji": "応答時間",
+          "reading": "おうとうじかん"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "役",
+          "reading": "やく"
+        },
+        {
+          "kanji": "立",
+          "reading": "た"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、世の中のあらゆるシステムには、そのシステムに求められる機能や性能があります。これから作るシステムも同じです。このため、開発プロセスの最初にシステム要件定義を行い、そのシステムに必要な条件を明確にする必要があるのです。",
+      "vi": "Như vậy, mọi hệ thống trên thế giới đều có chức năng và hiệu suất được yêu cầu. Hệ thống sắp tạo cũng vậy. Do đó, cần thực hiện định nghĩa yêu cầu hệ thống ngay từ đầu quy trình phát triển để làm rõ các điều kiện cần thiết cho hệ thống.",
+      "en": "Thus, every system in the world has required functions and performance. The system to be created is the same. Therefore, it's necessary to perform system requirements definition at the beginning of the development process to clarify the necessary conditions for the system.",
+      "terms": [
+        {
+          "kanji": "世",
+          "reading": "よ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "性能",
+          "reading": "せいのう"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "業務要件",
+        "vi": "Yêu cầu nghiệp vụ",
+        "en": "Business Requirements"
+      },
+      "elements": [
+        {
+          "ja": "組織及び環境要件",
+          "vi": "Yêu cầu tổ chức và môi trường",
+          "en": "Organization and Environment Requirements"
+        },
+        {
+          "ja": "システム要件",
+          "vi": "Yêu cầu hệ thống",
+          "en": "System Requirements"
+        },
+        {
+          "ja": "機能要件",
+          "vi": "Yêu cầu chức năng",
+          "en": "Functional Requirements"
+        },
+        {
+          "ja": "非機能要件",
+          "vi": "Yêu cầu phi chức năng",
+          "en": "Non-functional Requirements"
+        }
+      ],
+      "note": {
+        "ja": "ちなみに上図にある「組織及び環境要件」とは、業務の遂行に必要となる「組織の構成」「従業員の数」「設備」などの条件です。",
+        "vi": "Nhân tiện, \"Yêu cầu tổ chức và môi trường\" trong hình trên là các điều kiện như \"cơ cấu tổ chức\", \"số lượng nhân viên\", \"thiết bị\" cần thiết để thực hiện nghiệp vụ.",
+        "en": "By the way, 'Organization and Environment Requirements' in the figure above are conditions like 'organizational structure,' 'number of employees,' 'equipment' necessary for business execution."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "機能要件と非機能要件",
+      "reading": "きのうようけんとひきのうようけん",
+      "vi": "Yêu cầu chức năng và Yêu cầu phi chức năng",
+      "en": "Functional Requirements and Non-functional Requirements"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システム要件は、機能要件と非機能要件の2つに分類できます。",
+      "vi": "Yêu cầu hệ thống có thể phân thành 2 loại: Yêu cầu chức năng và Yêu cầu phi chức năng.",
+      "en": "System requirements can be classified into two types: Functional Requirements and Non-functional Requirements.",
+      "terms": [
+        {
+          "kanji": "要件",
+          "reading": "ようけん"
+        },
+        {
+          "kanji": "機能要件",
+          "reading": "きのうようけん"
+        },
+        {
+          "kanji": "非機能要件",
+          "reading": "ひきのうようけん"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "システム要件の種類",
+        "vi": "Các loại yêu cầu hệ thống",
+        "en": "Types of System Requirements"
+      },
+      "headers": {
+        "ja": [
+          "分類",
+          "説明"
+        ],
+        "vi": [
+          "Phân loại",
+          "Giải thích"
+        ],
+        "en": [
+          "Category",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "category": {
+            "ja": "機能要件",
+            "vi": "Yêu cầu chức năng",
+            "en": "Functional Requirements"
+          },
+          "explanation": {
+            "ja": "ユーザーへのヒアリングで明らかになった、システムに必要な機能。例えば「レーンに乗せた寿司が、お客さんのところへ届くこと」は機能要件になる。",
+            "vi": "Chức năng cần thiết cho hệ thống được làm rõ qua phỏng vấn người dùng. Ví dụ, \"sushi đặt trên băng chuyền được đưa đến chỗ khách\" là yêu cầu chức năng.",
+            "en": "Functions necessary for the system clarified through user interviews. For example, 'sushi placed on the conveyor reaches the customer' is a functional requirement."
+          }
+        },
+        {
+          "category": {
+            "ja": "非機能要件",
+            "vi": "Yêu cầu phi chức năng",
+            "en": "Non-functional Requirements"
+          },
+          "explanation": {
+            "ja": "ユーザーへのヒアリングでは出てこないが、システムに必要な性能。例えば「応答時間」や「セキュリティ性」など。",
+            "vi": "Hiệu suất cần thiết cho hệ thống mà không xuất hiện qua phỏng vấn người dùng. Ví dụ như \"thời gian phản hồi\", \"tính bảo mật\".",
+            "en": "Performance necessary for the system that doesn't come up in user interviews. For example, 'response time' and 'security.'"
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "機能要件と非機能要件の違いは、少しわかりづらいので具体例を挙げます。",
+      "vi": "Sự khác biệt giữa yêu cầu chức năng và yêu cầu phi chức năng hơi khó hiểu nên sẽ đưa ra ví dụ cụ thể.",
+      "en": "The difference between functional and non-functional requirements is a bit hard to understand, so here are concrete examples.",
+      "terms": [
+        {
+          "kanji": "機能要件",
+          "reading": "きのうようけん"
+        },
+        {
+          "kanji": "非機能要件",
+          "reading": "ひきのうようけん"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "少",
+          "reading": "すく"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "挙",
+          "reading": "きょ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "機能要件と非機能要件の具体例（会計システムの一例）",
+        "vi": "Ví dụ cụ thể về Yêu cầu chức năng và phi chức năng (ví dụ hệ thống kế toán)",
+        "en": "Concrete Examples of Functional and Non-functional Requirements (Accounting System Example)"
+      },
+      "headers": {
+        "ja": [
+          "機能要件",
+          "非機能要件"
+        ],
+        "vi": [
+          "Yêu cầu chức năng",
+          "Yêu cầu phi chức năng"
+        ],
+        "en": [
+          "Functional Requirements",
+          "Non-functional Requirements"
+        ]
+      },
+      "rows": [
+        {
+          "functional": {
+            "ja": "・国際会計基準に則った会計処理が実施できること\n・決算処理結果は、経理部長が確認を行うこと\n・決済処理の進捗を、全て記録に残すこと",
+            "vi": "・Có thể thực hiện xử lý kế toán theo chuẩn kế toán quốc tế\n・Kết quả xử lý quyết toán được trưởng phòng kế toán xác nhận\n・Ghi lại toàn bộ tiến độ xử lý thanh toán",
+            "en": "・Can perform accounting according to international accounting standards\n・Settlement processing results confirmed by accounting manager\n・Record all payment processing progress"
+          },
+          "non_functional": {
+            "ja": "・最も処理時間を要するバッチ処理でも、8時間以内に終了すること\n・故障などによる年間停止時間が、合計10時間以内であること\n・保存するデータは全て暗号化すること",
+            "vi": "・Ngay cả xử lý batch tốn nhiều thời gian nhất cũng phải hoàn thành trong 8 giờ\n・Thời gian dừng hàng năm do sự cố phải dưới 10 giờ tổng cộng\n・Mã hóa tất cả dữ liệu lưu trữ",
+            "en": "・Even the most time-consuming batch processing must complete within 8 hours\n・Annual downtime due to failures must be under 10 hours total\n・Encrypt all stored data"
+          }
+        }
+      ],
+      "source": {
+        "ja": "ITパスポート試験 平成28年度 春期より一部抜粋",
+        "vi": "Trích một phần từ kỳ thi IT Passport năm 2016 kỳ Xuân",
+        "en": "Partially excerpted from IT Passport Exam Spring 2016"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "機能要件",
+      "reading": "きのうようけん",
+      "romaji": "Kinou Youken",
+      "vi": "Yêu cầu chức năng",
+      "en": "Functional Requirements",
+      "my": "လုပ်ဆောင်လက္ခဏာ လိုအပ်ချက်များ"
+    },
+    {
+      "kanji": "非機能要件",
+      "reading": "ひきのうようけん",
+      "romaji": "Hikinou Youken",
+      "vi": "Yêu cầu phi chức năng",
+      "en": "Non-functional Requirements",
+      "my": "လုပ်ဆောင်မှုတ်သော လိုအပ်ချက်များ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true
+  }
+}

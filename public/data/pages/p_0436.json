@@ -1,0 +1,138 @@
+{
+    "page_id": 436,
+    "image": "p_0436.png",
+    "chapter": 11,
+    "section": "practice",
+    "page_number": 420,
+    "content": [
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "解答・解説",
+                "vi": "Đáp án và Giải thích",
+                "en": "Answers and Explanations"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "11-1",
+            "answer": "エ",
+            "explanation": {
+                "ja": "複数の基板をラック内に搭載して省スペース化を実現しているサーバを「ブレードサーバ」といいます。DNSサーバは「ドメイン名とIPアドレスを変換するサーバ」です。FTPサーバは「ファイルを転送するサーバ」です。Webサーバは「Webシステムにおいて、利用者からの要求に応えて、データを提供するサーバ」です。",
+                "vi": "Máy chủ lắp nhiều bo mạch trong rack để tiết kiệm không gian được gọi là \"máy chủ blade\". Máy chủ DNS là \"máy chủ chuyển đổi tên miền và địa chỉ IP\". Máy chủ FTP là \"máy chủ truyền tệp\". Máy chủ Web là \"máy chủ cung cấp dữ liệu đáp ứng yêu cầu của người dùng trong hệ thống Web\".",
+                "en": "Server loading multiple boards in rack to save space is called 'blade server.' DNS server is 'server converting domain names and IP addresses.' FTP server is 'server transferring files.' Web server is 'server providing data responding to user requests in Web system.'"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "11-2",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "周波数とは、1秒間に繰り返される波の数です。Hz（ヘルツ）は周波数の単位です。1秒間に波が1つあることを1Hzといいます。GHzは1 Hzの1,000,000,000倍です（p.329）。",
+                "vi": "Tần số là số sóng lặp lại trong 1 giây. Hz (Hertz) là đơn vị tần số. Có 1 sóng trong 1 giây được gọi là 1Hz. GHz là 1,000,000,000 lần 1 Hz (trang 329).",
+                "en": "Frequency is number of waves repeated per second. Hz (Hertz) is frequency unit. Having 1 wave per second is called 1Hz. GHz is 1,000,000,000 times 1 Hz (p.329)."
+            },
+            "calculation": {
+                "ja": "1.6GHzのCPUは、1秒間に最大1,600,000,000回（16億回）のクロックに対応できます。問題文から、1つの命令は4クロックで処理が完了するので、1秒間に4億回実行できます（16億÷4＝4億（命令/秒））。",
+                "vi": "CPU 1.6GHz có thể đáp ứng tối đa 1,600,000,000 lần (1.6 tỷ lần) clock trong 1 giây. Từ đề bài, 1 lệnh được xử lý hoàn thành trong 4 clock, nên có thể thực hiện 400 triệu lần trong 1 giây (1.6 tỷ ÷ 4 = 400 triệu (lệnh/giây)).",
+                "en": "1.6GHz CPU can handle maximum 1,600,000,000 (1.6 billion) clocks per second. From question, 1 instruction completes processing in 4 clocks, so can execute 400 million times per second (1.6 billion ÷ 4 = 400 million (instructions/second))."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "11-3",
+            "answer": "エ",
+            "explanation": {
+                "ja": "マルチコアプロセッサとは、1つのCPU内に複数の処理回路が搭載されているプロセッサです。各処理回路が同時に別々の処理を実行するので処理能力が向上します。",
+                "vi": "Bộ xử lý đa lõi là bộ xử lý có nhiều mạch xử lý được trang bị trong 1 CPU. Vì mỗi mạch xử lý thực hiện xử lý riêng biệt đồng thời nên khả năng xử lý được cải thiện.",
+                "en": "Multi-core processor is processor with multiple processing circuits in 1 CPU. Since each processing circuit executes separate processing simultaneously, processing power improves."
+            },
+            "choice_analysis": [
+                {
+                    "choice": "ア",
+                    "text": {
+                        "ja": "前半の「1台のPCに複数のマイクロプロセッサを搭載し」は「マルチプロセッサ」の説明です。後半の「同じ処理を同時に実行し、信頼性の向上を図ることを目的とする」はデュアルシステムなどの説明です。",
+                        "vi": "Nửa đầu \"lắp nhiều bộ vi xử lý vào 1 PC\" là giải thích về \"multi-processor\". Nửa sau \"thực hiện cùng xử lý đồng thời, nhằm mục đích cải thiện độ tin cậy\" là giải thích về hệ thống dual, v.v.",
+                        "en": "First half 'installing multiple microprocessors in 1 PC' is explanation of 'multi-processor.' Second half 'executing same processing simultaneously, aiming to improve reliability' is explanation of dual system, etc."
+                    }
+                },
+                {
+                    "choice": "イ",
+                    "text": {
+                        "ja": "クアッドコアプロセッサは4つのコア、デュアルコアプロセッサは2つのコアを持つので、単純に比較すればクアッドコアプロセッサは、デュアルコアプロセッサの2倍の処理能力を持ちます。",
+                        "vi": "Vì bộ xử lý bốn lõi có 4 lõi và bộ xử lý lõi kép có 2 lõi, nên so sánh đơn giản thì bộ xử lý bốn lõi có khả năng xử lý gấp 2 lần bộ xử lý lõi kép.",
+                        "en": "Since quad-core processor has 4 cores and dual-core has 2 cores, simply compared quad-core has 2 times processing power of dual-core."
+                    }
+                },
+                {
+                    "choice": "ウ",
+                    "text": {
+                        "ja": "ターボブーストに関する説明です。",
+                        "vi": "Là giải thích về turbo boost.",
+                        "en": "Is explanation about turbo boost."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "11-4",
+            "answer": "ア",
+            "explanation": {
+                "ja": "64ビットCPUのほうが一度に処理するデータ長を大きくできます。",
+                "vi": "CPU 64-bit có thể xử lý dữ liệu dài hơn trong một lần.",
+                "en": "64-bit CPU can process larger data length at once."
+            },
+            "choice_analysis": [
+                {
+                    "choice": "イ",
+                    "text": {
+                        "ja": "キャッシュメモリの容量は、多いほど処理速度が向上します。",
+                        "vi": "Dung lượng bộ nhớ cache càng nhiều thì tốc độ xử lý càng tăng.",
+                        "en": "More cache memory capacity increases processing speed."
+                    }
+                },
+                {
+                    "choice": "ウ",
+                    "text": {
+                        "ja": "クロック周波数を上げるほど、処理速度が向上します。",
+                        "vi": "Tần số xung nhịp càng tăng thì tốc độ xử lý càng tăng.",
+                        "en": "Higher clock frequency improves processing speed."
+                    }
+                },
+                {
+                    "choice": "エ",
+                    "text": {
+                        "ja": "クアッドコアCPUのほうが、より多くの処理を同時に実行できます。",
+                        "vi": "CPU bốn lõi có thể thực hiện nhiều xử lý đồng thời hơn.",
+                        "en": "Quad-core CPU can execute more processing simultaneously."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "11-5",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "キャッシュメモリとは、CPUの内部に搭載されている超高速の記憶装置です。キャッシュメモリを利用することで、あたかも主記憶装置が超高速で動作しているかのように見せかけることができます。",
+                "vi": "Bộ nhớ cache là thiết bị ghi nhớ siêu tốc được trang bị bên trong CPU. Bằng cách sử dụng bộ nhớ cache, có thể làm cho giống như bộ nhớ chính đang hoạt động với tốc độ siêu cao.",
+                "en": "Cache memory is ultra-high-speed memory device inside CPU. By using cache memory, can make it appear as if main memory is operating at ultra-high speed."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "11-6",
+            "answer": "イ",
+            "explanation": {
+                "ja": "電気を使ってデータを記憶する「半導体メモリ」には、電源が切れるとデータが消えてしまう「揮発性メモリ」と、電源を切ってもデータが保持される「不揮発性メモリ」があります。揮発性メモリには、DRAMやSRAMなどがあります。不揮発性メモリには、ROMやフラッシュメモリなどがあります。なお、アのDVD-RAMは名前に「RAM」が付いていますが、電源を切ってもデータは保持される不揮発性メモリです。DVD-RAMは「複数回の書き込みができるDVD」です。",
+                "vi": "\"Bộ nhớ bán dẫn\" sử dụng điện để ghi nhớ dữ liệu có \"bộ nhớ bay hơi\" mà dữ liệu biến mất khi tắt nguồn, và \"bộ nhớ không bay hơi\" mà dữ liệu được giữ lại ngay cả khi tắt nguồn. Bộ nhớ bay hơi bao gồm DRAM, SRAM, v.v. Bộ nhớ không bay hơi bao gồm ROM, flash memory, v.v. Ngoài ra, DVD-RAM ở ア có \"RAM\" trong tên nhưng là bộ nhớ không bay hơi giữ dữ liệu ngay cả khi tắt nguồn. DVD-RAM là \"DVD có thể ghi nhiều lần\".",
+                "en": "'Semiconductor memory' using electricity to store data has 'volatile memory' where data disappears when power off, and 'non-volatile memory' where data retained when power off. Volatile memory includes DRAM, SRAM, etc. Non-volatile memory includes ROM, flash memory, etc. Also, DVD-RAM in ア has 'RAM' in name but is non-volatile memory retaining data when power off. DVD-RAM is 'DVD that can be written multiple times.'"
+            }
+        }
+    ],
+    "meta": {
+        "has_explanations": true,
+        "explanation_count": 6
+    }
+}

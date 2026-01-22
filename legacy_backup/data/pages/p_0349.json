@@ -1,0 +1,274 @@
+{
+  "page_id": 349,
+  "image": "p_0349.png",
+  "chapter": 9,
+  "section": "09-04",
+  "page_number": 333,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "取り出すことはできません。",
+      "vi": "không thể lấy ra được.",
+      "en": "cannot be taken out.",
+      "terms": [
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "スタックというデータ構造を利用して、「行った処理」の過程を保存しておけば、コンピュータはいつでも元の処理に戻ることができます。なぜなら、保存されている処理履歴を1つずつ戻っていけば、元の処理に辿りつくからです。これはスタックというデータ構造の最大の特徴です。「ヘンゼルとグレーテル」という童話のなかで、ヘンゼルがパンくずを落としながら森の中を歩くシーンがあります。パンくずを目印にすれば、いつでも元の場所に戻ることができます。これと同じです。",
+      "vi": "Sử dụng cấu trúc dữ liệu Stack, nếu lưu quá trình \"xử lý đã thực hiện\", máy tính có thể quay lại xử lý gốc bất cứ lúc nào. Vì nếu quay lại từng lịch sử xử lý đã lưu, sẽ đến được xử lý gốc. Đây là đặc điểm lớn nhất của Stack. Trong truyện cổ tích \"Hansel và Gretel\", có cảnh Hansel rơi vụn bánh mì khi đi trong rừng. Nếu dùng vụn bánh mì làm dấu hiệu, có thể quay lại nơi ban đầu bất cứ lúc nào. Giống như vậy.",
+      "en": "Using Stack data structure to save 'performed processing' process, computer can return to original processing anytime. Because following saved processing history one by one leads back to original. This is Stack's key feature. In fairy tale 'Hansel and Gretel,' there's scene where Hansel drops breadcrumbs walking through forest. Using breadcrumbs as markers, can return to original place anytime. Same concept.",
+      "terms": [
+        {
+          "kanji": "構造",
+          "reading": "こうぞう"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "過程",
+          "reading": "かてい"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "元",
+          "reading": "もと"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        },
+        {
+          "kanji": "処理履歴",
+          "reading": "しょりりれき"
+        },
+        {
+          "kanji": "辿",
+          "reading": "てん"
+        },
+        {
+          "kanji": "最大",
+          "reading": "さいだい"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "童話",
+          "reading": "どうわ"
+        },
+        {
+          "kanji": "落",
+          "reading": "らく"
+        },
+        {
+          "kanji": "森",
+          "reading": "もり"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "歩",
+          "reading": "ほ"
+        },
+        {
+          "kanji": "目印",
+          "reading": "めじるし"
+        },
+        {
+          "kanji": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "キュー",
+      "reading": "きゅー",
+      "vi": "Queue",
+      "en": "Queue"
+    },
+    {
+      "type": "paragraph",
+      "ja": "キューとは、データを1列に並べて、最初に格納したデータを最初に取り出すデータ構造です。イメージとしては「レジ待ちの列」です。客がデータです。客は列の最後に並びます。最初に並んだ人が、最初に会計を済ませることができます。列の途中に割り込むことはできません。キューというデータ構造を使うメリットは命令を入力した順番どおりに処理できることです。",
+      "vi": "Queue là cấu trúc dữ liệu sắp dữ liệu thành 1 hàng, lấy ra dữ liệu được lưu đầu tiên trước tiên. Hình ảnh là \"hàng chờ thanh toán\". Khách là dữ liệu. Khách xếp cuối hàng. Người xếp đầu tiên được thanh toán đầu tiên. Không thể chen vào giữa hàng. Lợi ích của Queue là có thể xử lý theo thứ tự nhập lệnh.",
+      "en": "Queue is data structure arranging data in 1 row, retrieving first stored data first. Image is 'checkout line.' Customer is data. Customers line up at end. First in line can checkout first. Can't cut in middle. Queue's merit is processing in order commands were input.",
+      "terms": [
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "並",
+          "reading": "なみ"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "格納",
+          "reading": "かくのう"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "構造",
+          "reading": "こうぞう"
+        },
+        {
+          "kanji": "待",
+          "reading": "たい"
+        },
+        {
+          "kanji": "客",
+          "reading": "きゃく"
+        },
+        {
+          "kanji": "最後",
+          "reading": "さいご"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "会計",
+          "reading": "かいけい"
+        },
+        {
+          "kanji": "済",
+          "reading": "すみ"
+        },
+        {
+          "kanji": "途中",
+          "reading": "とちゅう"
+        },
+        {
+          "kanji": "割",
+          "reading": "わり"
+        },
+        {
+          "kanji": "込",
+          "reading": "こみ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "命令",
+          "reading": "めいれい"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "順番",
+          "reading": "じゅんばん"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "スタックとキューのデータ処理のイメージ",
+        "vi": "Hình ảnh xử lý dữ liệu Stack và Queue",
+        "en": "Stack and Queue Data Processing Image"
+      },
+      "content": {
+        "stack": {
+          "ja": "スタック：データ4→データ3→データ2→データ1の順で入力、データ4→データ3→データ2→データ1の順で出力（後入れ先出し：LIFO）",
+          "vi": "Stack: Nhập theo thứ tự Data4→Data3→Data2→Data1, xuất theo thứ tự Data4→Data3→Data2→Data1 (vào sau ra trước: LIFO)",
+          "en": "Stack: Input Data4→Data3→Data2→Data1, output Data4→Data3→Data2→Data1 (Last In First Out: LIFO)"
+        },
+        "queue": {
+          "ja": "キュー：データ4→データ3→データ2→データ1の順で入力、データ1→データ2→データ3→データ4の順で出力（先入れ先出し：FIFO）",
+          "vi": "Queue: Nhập theo thứ tự Data4→Data3→Data2→Data1, xuất theo thứ tự Data1→Data2→Data3→Data4 (vào trước ra trước: FIFO)",
+          "en": "Queue: Input Data4→Data3→Data2→Data1, output Data1→Data2→Data3→Data4 (First In First Out: FIFO)"
+        }
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "試験では、キューよりもスタックがよく出題されます。また、スタックの問題はその定義を問う問題ではなく、実際にデータを出し入れする計算問題に近い出題形式です。章末の過去問題でイメージをつかんでおいてください。",
+          "vi": "Trong kỳ thi, Stack được ra đề nhiều hơn Queue. Ngoài ra, bài toán Stack không phải hỏi định nghĩa mà gần với dạng bài toán tính toán thực sự nhập xuất dữ liệu. Hãy nắm hình ảnh qua đề thi cũ cuối chương.",
+          "en": "In exams, Stack appears more than Queue. Also, Stack problems aren't about definitions but closer to calculation problems actually inputting/outputting data. Get the image from past questions at chapter end."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "LIFO",
+      "ja": "後入れ先出し",
+      "vi": "Vào sau ra trước",
+      "en": "Last In First Out",
+      "my": "နောက်ဆုံးဝင် ပထမထွက်"
+    },
+    {
+      "term": "FIFO",
+      "ja": "先入れ先出し",
+      "vi": "Vào trước ra trước",
+      "en": "First In First Out",
+      "my": "ပထမဝင် ပထမထွက်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

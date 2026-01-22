@@ -1,0 +1,91 @@
+{
+    "page_id": 91,
+    "image": "p_0091.png",
+    "chapter": 2,
+    "section": "questions",
+    "page_number": 75,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "2-12",
+            "year": "平成30年度",
+            "question": {
+                "ja": "フレックスタイム制の運用に関する説明a～cのうち、適切なものだけを全て挙げたものはどれか。\n\na. コアタイムの時間帯は、勤務する必要がある。\nb. 実際の労働時間によらず、残業時間は事前に定めた時間となる。\nc. 上司による労働時間の管理が必要である。",
+                "vi": "Trong các giải thích a~c về vận hành chế độ giờ linh hoạt, đâu là tất cả các giải thích đúng?\n\na. Cần làm việc trong khung giờ Core Time.\nb. Bất kể thời gian làm việc thực tế, thời gian làm thêm được định trước.\nc. Cần quản lý thời gian làm việc bởi cấp trên.",
+                "en": "Of explanations a~c about flextime system operation, which are ALL correct?\n\na. Must work during Core Time hours.\nb. Regardless of actual work hours, overtime is predetermined.\nc. Manager's work hour management is needed."
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "a, b",
+                    "vi": "a, b",
+                    "en": "a, b"
+                },
+                {
+                    "label": "イ",
+                    "ja": "a, b, c",
+                    "vi": "a, b, c",
+                    "en": "a, b, c"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "a, c",
+                    "vi": "a, c",
+                    "en": "a, c",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "b",
+                    "vi": "b",
+                    "en": "b"
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "ja": "解答・解説",
+            "vi": "Đáp án & Giải thích",
+            "en": "Answers & Explanations"
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-1",
+            "answer": "イ",
+            "explanation": {
+                "ja": "操作マニュアル（取扱説明書）は文書であるため、本と同じく著作権の対象です。一方、プログラム言語（コンピュータに命令を出すための言葉）、アルゴリズム（コンピュータが計算をするときの手順）、プロトコル（プログラム言語を使うときの特別な約束）は著作権法の保護の対象には含まれていません。",
+                "vi": "Hướng dẫn sử dụng là văn bản nên là đối tượng của quyền tác giả giống như sách. Mặt khác, ngôn ngữ lập trình (ngôn ngữ ra lệnh cho máy tính), thuật toán (quy trình tính toán của máy tính), giao thức (quy ước đặc biệt khi sử dụng ngôn ngữ lập trình) không được bảo vệ bởi Luật quyền tác giả.",
+                "en": "Operation manuals are documents, so they're copyrighted like books. Programming languages (words to command computers), algorithms (computer calculation procedures), protocols (special rules for using programming languages) are NOT protected by Copyright Law."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-2",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "著作権は、著作物を創作したときに権利が自動的に発生します。著作権は文化庁の管轄ですが、文化庁への届け出は不要です。その他の選択肢である産業財産権を主張するには、事前に特許庁への出願や登録が必要です。",
+                "vi": "Quyền tác giả tự động phát sinh khi tạo ra tác phẩm. Quyền tác giả thuộc quản lý của Cục Văn hóa nhưng không cần đăng ký. Các lựa chọn khác là quyền sở hữu công nghiệp cần đăng ký trước tại Cục Sáng chế.",
+                "en": "Copyright arises automatically when creating a work. Copyright is under Agency for Cultural Affairs but registration isn't needed. Other choices are industrial property rights requiring prior Patent Office application."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-3",
+            "answer": "エ",
+            "explanation": {
+                "ja": "ITパスポート試験では「風景写真の著作権」に関する問題がよく出題されます。風景写真も著作権法の保護の対象なので、著作権者の許可が必要です。\n\nア. 意匠権の対象です。\nイ. 特許権の対象です。\nウ. 商標権の対象です。",
+                "vi": "Trong kỳ thi IT Passport, câu hỏi về quyền tác giả của ảnh phong cảnh thường được ra đề. Ảnh phong cảnh cũng được bảo vệ bởi Luật quyền tác giả nên cần có sự cho phép của chủ sở hữu.\n\nア. Đối tượng của quyền kiểu dáng.\nイ. Đối tượng của quyền sáng chế.\nウ. Đối tượng của quyền nhãn hiệu.",
+                "en": "IT Passport frequently tests landscape photo copyright. Landscape photos are protected by Copyright Law and need owner's permission.\n\nA. Subject of Design Rights.\nB. Subject of Patent Rights.\nC. Subject of Trademark Rights."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "is_answer_page": true,
+        "questions_covered": "2-12",
+        "answers_covered": "2-1, 2-2, 2-3"
+    }
+}

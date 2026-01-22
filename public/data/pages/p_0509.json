@@ -1,0 +1,279 @@
+{
+  "page_id": 509,
+  "image": "p_0509.png",
+  "chapter": 14,
+  "section": "14-03",
+  "page_number": 493,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "なお、通信プロトコルは1種類だけではありません。用途ごとに複数の通信プロトコルが用意されています。各通信プロトコルの特徴を理解するのが本項の目標です。",
+      "vi": "Ngoài ra, giao thức truyền thông không chỉ có 1 loại. Nhiều giao thức truyền thông được chuẩn bị cho mỗi mục đích. Mục tiêu của phần này là hiểu đặc điểm của mỗi giao thức truyền thông.",
+      "en": "Note, communication protocol is not just 1 type. Multiple communication protocols are prepared for each purpose. Goal of this section is understanding characteristics of each communication protocol.",
+      "terms": [
+        {
+          "kanji": "通信",
+          "reading": "つうしん"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "用途",
+          "reading": "ようと"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "用意",
+          "reading": "ようい"
+        },
+        {
+          "kanji": "各通信",
+          "reading": "かくつうしん"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "目標",
+          "reading": "もくひょう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "通信プロトコルとは、メーカーが異なる機器同士でも、お互いに通信できるようにするための約束事である",
+          "vi": "Giao thức truyền thông là quy ước để các thiết bị khác nhà sản xuất có thể truyền thông với nhau",
+          "en": "Communication protocol is promise enabling devices with different manufacturers to communicate with each other"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "電子メールのプロトコル",
+      "vi": "Giao thức email",
+      "en": "Email Protocols"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、電子メール関連のプロトコルがよく出題されます。頻出のプロトコルは全部で3種類あるので、それぞれの違いをきちんと覚えておいてください。",
+      "vi": "Trong kỳ thi IT Passport, các giao thức liên quan đến email thường được ra đề. Có tổng cộng 3 loại giao thức hay xuất hiện, nên hãy nhớ kỹ sự khác biệt của từng loại.",
+      "en": "In IT Passport exam, email-related protocols often appear. There are 3 types of frequently appearing protocols in total, so remember differences of each properly.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "電子",
+          "reading": "でんし"
+        },
+        {
+          "kanji": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "頻出",
+          "reading": "ひんしゅつ"
+        },
+        {
+          "kanji": "全部",
+          "reading": "ぜんぶ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "SMTP",
+      "vi": "SMTP",
+      "en": "SMTP"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "SMTP",
+        "vi": "SMTP",
+        "en": "SMTP"
+      },
+      "definition": {
+        "ja": "SMTP（Simple Mail Transfer Protocol）とは、電子メールをメールサーバに送信するためのプロトコルです。",
+        "vi": "SMTP (Simple Mail Transfer Protocol) là giao thức để gửi email đến máy chủ thư.",
+        "en": "SMTP (Simple Mail Transfer Protocol) is protocol for sending email to mail server."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、みなさんがクライアント（送り先）へ電子メールを出すと、その電子メールはSMTPを使ってメールサーバへ送信されます。これは、あなたが郵便局に手紙を持っていくのと同じです。郵便局の局員さんは受け取った電子メールを、さらにSMTPを使って配送センターに転送します。最終的に電子メールはクライアントの最寄りのメールサーバまで転送されます。このとき、クライアントまで届けられていない点に注意してください。電子メールを受け取るには別のプロトコルを使います。",
+      "vi": "Ví dụ, khi mọi người gửi email đến client (người nhận), email đó được gửi đến máy chủ thư bằng SMTP. Điều này giống như việc bạn mang thư đến bưu điện. Nhân viên bưu điện chuyển tiếp email nhận được đến trung tâm phân phối bằng SMTP. Cuối cùng email được chuyển tiếp đến máy chủ thư gần nhất của client. Lúc này, hãy lưu ý rằng chưa được gửi đến client. Để nhận email, sử dụng giao thức khác.",
+      "en": "For example, when you send email to client (recipient), that email is sent to mail server using SMTP. This is like taking letter to post office. Post office staff forwards received email to distribution center using SMTP. Finally email is forwarded to client's nearest mail server. Note at this point, it hasn't been delivered to client. To receive email, use different protocol.",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "送",
+          "reading": "おく"
+        },
+        {
+          "kanji": "先",
+          "reading": "さき"
+        },
+        {
+          "kanji": "電子",
+          "reading": "でんし"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "送信",
+          "reading": "そうしん"
+        },
+        {
+          "kanji": "郵便局",
+          "reading": "ゆうびんきょく"
+        },
+        {
+          "kanji": "手紙",
+          "reading": "てがみ"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "局員",
+          "reading": "きょくいん"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "配送",
+          "reading": "はいそう"
+        },
+        {
+          "kanji": "転送",
+          "reading": "てんそう"
+        },
+        {
+          "kanji": "最終的",
+          "reading": "さいしゅうてき"
+        },
+        {
+          "kanji": "最寄",
+          "reading": "もより"
+        },
+        {
+          "kanji": "届",
+          "reading": "とどけ"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "SMTPの概念図",
+        "vi": "Sơ đồ khái niệm SMTP",
+        "en": "SMTP Concept Diagram"
+      },
+      "description": {
+        "ja": "電子メールをメールサーバに送る（クライアント → SMTP → メールサーバ）",
+        "vi": "Gửi email đến máy chủ thư (Client → SMTP → Máy chủ thư)",
+        "en": "Send email to mail server (Client → SMTP → Mail Server)"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "SMTP",
+      "full": "Simple Mail Transfer Protocol",
+      "vi": "SMTP (Giao thức truyền thư đơn giản)",
+      "en": "SMTP (Simple Mail Transfer Protocol)",
+      "my": "SMTP (ရိုးရှင်းသော စာပို့ လွှဲပြောင်းရေး ပရိုတိုကော)"
+    },
+    {
+      "term": "送信",
+      "reading": "そうしん",
+      "vi": "Gửi",
+      "en": "Send",
+      "my": "ပို့ရန်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

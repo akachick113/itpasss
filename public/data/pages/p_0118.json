@@ -1,0 +1,270 @@
+{
+  "page_id": 118,
+  "image": "p_0118.png",
+  "chapter": 3,
+  "section": "03-02",
+  "page_number": 102,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "PPMの横軸と縦軸",
+        "vi": "Trục ngang và trục dọc của PPM",
+        "en": "PPM Horizontal and Vertical Axes"
+      },
+      "headers": {
+        "ja": [
+          "軸",
+          "説明"
+        ],
+        "vi": [
+          "Trục",
+          "Giải thích"
+        ],
+        "en": [
+          "Axis",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "縦軸：市場成長率",
+            "市場全体の売上の伸び率。製品が発売されてからしばらくは市場成長率が高く、製品が消費者に行き渡ると市場成長率が低くなる。"
+          ],
+          "vi": [
+            "Trục dọc: Tốc độ tăng trưởng thị trường",
+            "Tốc độ tăng doanh số toàn thị trường. Sau khi sản phẩm ra mắt một thời gian, tốc độ tăng trưởng cao, khi sản phẩm đến tay người tiêu dùng thì tốc độ tăng trưởng giảm."
+          ],
+          "en": [
+            "Vertical: Market Growth Rate",
+            "Growth rate of entire market sales. High after product launch, decreases when product reaches consumers."
+          ]
+        },
+        {
+          "ja": [
+            "横軸：市場占有率（相対市場シェア）",
+            "市場における自社製品の占有率（シェア）。占有率は高ければ高いだけ有利にビジネスを展開できる。PPM上では市場占有率の高い左側に「花形」と「金のなる木」がある。"
+          ],
+          "vi": [
+            "Trục ngang: Thị phần (thị phần tương đối)",
+            "Thị phần của sản phẩm công ty trên thị trường. Thị phần càng cao thì càng có lợi để phát triển kinh doanh. Trên PPM, bên trái có thị phần cao có Ngôi sao và Bò sữa."
+          ],
+          "en": [
+            "Horizontal: Market Share (Relative)",
+            "Company product's market share. Higher share means more advantageous business development. On PPM, left side with high share has Star and Cash Cow."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、市場成長率が高く、かつ、自社の市場占有率が高い製品は「花形」の製品として位置づけられます。",
+      "vi": "Ví dụ, sản phẩm có tốc độ tăng trưởng thị trường cao và thị phần của công ty cao được định vị là sản phẩm Ngôi sao.",
+      "en": "For example, products with high market growth rate and high company market share are positioned as Star products.",
+      "my": "ဥပမာ၊ ဈေးကွက်တိုးတက်မှုနှုန်း မြင့်ပြီး ကုမ္ပဏီ ဈေးကွက်ဝေစု မြင့်သော ထုတ်ကုန်များကို Star ထုတ်ကုန်များအဖြစ် သတ်မှတ်သည်။",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "市場成長率",
+          "reading": "しじょうせいちょうりつ"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "市場占有率",
+          "reading": "しじょうせんゆうりつ"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "花形",
+          "reading": "はながた"
+        },
+        {
+          "kanji": "位置",
+          "reading": "いち"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "花形",
+      "reading": "はながた",
+      "vi": "Ngôi sao (Star)",
+      "en": "Star"
+    },
+    {
+      "type": "paragraph",
+      "ja": "花形とは、市場成長率が高く、かつ市場占有率（シェア）が高い製品です。ここに分類された製品は市場成長率が高いため、競合に勝つためにたくさんの投資が必要ですが、一方で、市場占有率が高いため大きな収益を生みます。\n\n英語では「スター」といいます。映画スターのように、人気（収益）も高いけれど、ギャラ（投資）も高い製品といえます。ここでの競争に勝つと「金のなる木」になります。",
+      "vi": "Ngôi sao là sản phẩm có tốc độ tăng trưởng thị trường cao và thị phần cao. Sản phẩm được phân loại ở đây cần đầu tư nhiều để thắng đối thủ vì tốc độ tăng trưởng cao, nhưng mặt khác tạo ra lợi nhuận lớn vì thị phần cao.\n\nTiếng Anh gọi là Star. Giống như ngôi sao điện ảnh, là sản phẩm có độ phổ biến (lợi nhuận) cao nhưng cát-sê (đầu tư) cũng cao. Nếu thắng cạnh tranh ở đây sẽ trở thành Bò sữa.",
+      "en": "Star products have high market growth rate and high market share. Products classified here need lots of investment to beat competitors due to high growth, but on the other hand generate large profits due to high share.\n\nCalled Star in English. Like movie stars, products with high popularity (profit) but also high fees (investment). Winning competition here leads to Cash Cow.",
+      "my": "Star ထုတ်ကုန်များသည် ဈေးကွက်တိုးတက်မှုနှုန်း မြင့်ပြီး ဈေးကွက်ဝေစု မြင့်သည်။",
+      "terms": [
+        {
+          "kanji": "花形",
+          "reading": "はながた"
+        },
+        {
+          "kanji": "市場成長率",
+          "reading": "しじょうせいちょうりつ"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "市場占有率",
+          "reading": "しじょうせんゆうりつ"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "競合",
+          "reading": "きょうごう"
+        },
+        {
+          "kanji": "勝",
+          "reading": "かち"
+        },
+        {
+          "kanji": "投資",
+          "reading": "とうし"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "収益",
+          "reading": "しゅうえき"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "英語",
+          "reading": "えいご"
+        },
+        {
+          "kanji": "映画",
+          "reading": "えいが"
+        },
+        {
+          "kanji": "人気",
+          "reading": "にんき"
+        },
+        {
+          "kanji": "競争",
+          "reading": "きょうそう"
+        },
+        {
+          "kanji": "金",
+          "reading": "きん"
+        },
+        {
+          "kanji": "木",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "問題児",
+      "reading": "もんだいじ",
+      "vi": "Dấu hỏi (Question Mark)",
+      "en": "Question Mark"
+    },
+    {
+      "type": "paragraph",
+      "ja": "問題児とは、市場成長率が高く、かつ市場占有率（シェア）が低い製品です。",
+      "vi": "Dấu hỏi là sản phẩm có tốc độ tăng trưởng thị trường cao nhưng thị phần thấp.",
+      "en": "Question Mark products have high market growth rate but low market share.",
+      "my": "Question Mark ထုတ်ကုန်များသည် ဈေးကွက်တိုးတက်မှုနှုန်း မြင့်သော်လည်း ဈေးကွက်ဝေစု နိမ့်သည်။",
+      "terms": [
+        {
+          "kanji": "問題児",
+          "reading": "もんだいじ"
+        },
+        {
+          "kanji": "市場成長率",
+          "reading": "しじょうせいちょうりつ"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "市場占有率",
+          "reading": "しじょうせんゆうりつ"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "市場成長率",
+      "reading": "しじょうせいちょうりつ",
+      "romaji": "Shijou Seichou Ritsu",
+      "vi": "Tốc độ tăng trưởng thị trường",
+      "en": "Market Growth Rate",
+      "my": "ဇေးကွက်တိုးတက်မှုနှုန်း"
+    },
+    {
+      "kanji": "市場占有率",
+      "reading": "しじょうせんゆうりつ",
+      "romaji": "Shijou Senyuu Ritsu",
+      "vi": "Thị phần",
+      "en": "Market Share",
+      "my": "ဇေးကွက်ဝေစု"
+    },
+    {
+      "kanji": "問題児",
+      "reading": "もんだいじ",
+      "romaji": "Mondaiji",
+      "vi": "Dấu hỏi",
+      "en": "Question Mark",
+      "my": "Question Mark"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true
+  }
+}

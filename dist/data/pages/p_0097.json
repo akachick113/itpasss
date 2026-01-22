@@ -1,0 +1,373 @@
+{
+  "page_id": 97,
+  "image": "p_0097.png",
+  "chapter": 2,
+  "section": "02-05",
+  "page_number": 81,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "個人情報関連のその他の用語",
+        "vi": "Thuật ngữ khác liên quan đến thông tin cá nhân",
+        "en": "Other Personal Information Terms"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "要配慮個人情報",
+            "個人情報の中でも、より取り扱いに注意が必要な個人情報。人種、信条、社会的身分、病歴、犯罪の経歴、犯罪により害を被った事実など。"
+          ],
+          "vi": [
+            "Thông tin cá nhân cần lưu ý",
+            "Thông tin cá nhân cần xử lý cẩn thận hơn. Bao gồm chủng tộc, tín ngưỡng, địa vị xã hội, tiền sử bệnh, tiền án, sự thật bị hại bởi tội phạm."
+          ],
+          "en": [
+            "Sensitive Personal Information",
+            "Personal information requiring more careful handling. Includes race, beliefs, social status, medical history, criminal record, facts of being victimized by crime."
+          ]
+        },
+        {
+          "ja": [
+            "匿名加工情報",
+            "個人情報を加工して、特定の個人を識別できないようにした情報のこと。匿名加工情報は、加工する前の個人情報に戻すことはできない。個人情報とは異なり、本人の同意なく第三者にその情報を渡すことができる。"
+          ],
+          "vi": [
+            "Thông tin ẩn danh đã xử lý",
+            "Thông tin đã được xử lý để không thể xác định cá nhân cụ thể. Thông tin ẩn danh đã xử lý không thể khôi phục về thông tin cá nhân ban đầu. Khác với thông tin cá nhân, có thể chuyển cho bên thứ ba mà không cần sự đồng ý."
+          ],
+          "en": [
+            "Anonymously Processed Information",
+            "Information processed so specific individuals cannot be identified. Cannot be restored to original personal information. Unlike personal information, can be provided to third parties without consent."
+          ]
+        },
+        {
+          "ja": [
+            "マイナンバー",
+            "国民一人ひとりに割り当てられる12桁の番号。この番号を使うことで、年金や納税などの異なる分野の個人情報を紐づ付できるようになり、行政手続きなどがスムーズに行える。企業は従業員に、社会保障関連等、一定の場面でマイナンバーを記載するために、雇用関係のあるすべての人（正社員、パート、アルバイトなど）にマイナンバーを提出してもらう義務がある。"
+          ],
+          "vi": [
+            "My Number",
+            "Số 12 chữ số được cấp cho mỗi công dân. Bằng số này, có thể liên kết thông tin cá nhân từ các lĩnh vực khác nhau như lương hưu và thuế, giúp thủ tục hành chính suôn sẻ hơn. Doanh nghiệp có nghĩa vụ yêu cầu tất cả người có quan hệ lao động (nhân viên chính thức, bán thời gian, làm thêm) nộp My Number để ghi trong các trường hợp nhất định như bảo hiểm xã hội."
+          ],
+          "en": [
+            "My Number",
+            "12-digit number assigned to each citizen. Using this number, personal information from different fields like pensions and taxes can be linked, making administrative procedures smoother. Companies are obligated to collect My Number from all employees (full-time, part-time, temporary) for social security purposes."
+          ]
+        },
+        {
+          "ja": [
+            "情報通信プラットフォーム対処法",
+            "インターネット上の権利侵害などに対し、プラットフォーム事業者に迅速な対応を義務付ける法律。2025年「プロバイダ責任制限法」が改正された。この法律による。"
+          ],
+          "vi": [
+            "Luật xử lý nền tảng truyền thông thông tin",
+            "Luật yêu cầu nhà cung cấp nền tảng phản ứng nhanh đối với vi phạm quyền lợi trên Internet. Luật Giới hạn trách nhiệm nhà cung cấp được sửa đổi năm 2025."
+          ],
+          "en": [
+            "Information and Communication Platform Act",
+            "Law requiring platform providers to respond quickly to rights violations on the internet. The Provider Liability Limitation Law was revised in 2025."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・個人情報とは、個人を特定できる情報である\n・個人情報の具体例は、氏名と住所、社員名と役職、個人が識別できる映像や音声\n・要配慮個人情報の具体例は、人種、信条、社会的身分、病歴、犯罪歴、犯罪により害を被った事実など\n・企業は、雇用関係のあるすべての人（正社員、パート、アルバイトなど）にマイナンバーを提出してもらう義務がある",
+        "vi": "・Thông tin cá nhân là thông tin có thể xác định cá nhân\n・Ví dụ cụ thể: họ tên và địa chỉ, tên nhân viên và chức vụ, hình ảnh hoặc âm thanh có thể xác định cá nhân\n・Ví dụ thông tin cần lưu ý: chủng tộc, tín ngưỡng, địa vị xã hội, tiền sử bệnh, tiền án, sự thật bị hại\n・Doanh nghiệp có nghĩa vụ yêu cầu tất cả người có quan hệ lao động (nhân viên chính thức, bán thời gian, làm thêm) nộp My Number",
+        "en": "・Personal information can identify individuals\n・Examples: name and address, employee name and position, identifiable images/audio\n・Sensitive examples: race, beliefs, social status, medical history, criminal record, victimization facts\n・Companies must collect My Number from all employees (full-time, part-time, temporary)",
+        "my": "・ Personal information သည် ပုဂ္ဂိုလ်များကို ခွဲခြားနိုင်သည်",
+        "terms": [
+          {
+            "kanji": "個人情報",
+            "reading": "こじんじょうほう"
+          },
+          {
+            "kanji": "個人",
+            "reading": "こじん"
+          },
+          {
+            "kanji": "特定",
+            "reading": "とくてい"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "具体例",
+            "reading": "ぐたいれい"
+          },
+          {
+            "kanji": "氏名",
+            "reading": "しめい"
+          },
+          {
+            "kanji": "住所",
+            "reading": "じゅうしょ"
+          },
+          {
+            "kanji": "社員名",
+            "reading": "しゃいんめい"
+          },
+          {
+            "kanji": "役職",
+            "reading": "やくしょく"
+          },
+          {
+            "kanji": "識別",
+            "reading": "しきべつ"
+          },
+          {
+            "kanji": "映像",
+            "reading": "えいぞう"
+          },
+          {
+            "kanji": "音声",
+            "reading": "おんせい"
+          },
+          {
+            "kanji": "要配慮個人情報",
+            "reading": "ようはいりょこじんじょうほう"
+          },
+          {
+            "kanji": "人種",
+            "reading": "じんしゅ"
+          },
+          {
+            "kanji": "信条",
+            "reading": "しんじょう"
+          },
+          {
+            "kanji": "社会的身分",
+            "reading": "しゃかいてきみぶん"
+          },
+          {
+            "kanji": "病歴",
+            "reading": "びょうれき"
+          },
+          {
+            "kanji": "犯罪歴",
+            "reading": "はんざいれき"
+          },
+          {
+            "kanji": "犯罪",
+            "reading": "はんざい"
+          },
+          {
+            "kanji": "害",
+            "reading": "がい"
+          },
+          {
+            "kanji": "被",
+            "reading": "ひ"
+          },
+          {
+            "kanji": "事実",
+            "reading": "じじつ"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "雇用関係",
+            "reading": "こようかんけい"
+          },
+          {
+            "kanji": "人",
+            "reading": "ひと"
+          },
+          {
+            "kanji": "正社員",
+            "reading": "せいしゃいん"
+          },
+          {
+            "kanji": "提出",
+            "reading": "ていしゅつ"
+          },
+          {
+            "kanji": "義務",
+            "reading": "ぎむ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "個人情報を取り扱う者",
+      "reading": "こじんじょうほうをとりあつかうもの",
+      "vi": "Người xử lý thông tin cá nhân",
+      "en": "Personal Information Handlers",
+      "my": "ကိုယ်ရေးအချက်အလက် ကိုင်တွယ်သူများ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "個人情報を取り扱う企業のことを「個人情報取扱事業者」といいます。なお、個人情報取扱事業者になるために監督官庁などへの届出は一切必要ありません。個人情報を業務で扱った時点で、その事業者は個人情報取扱事業者になります。企業の大きさや個人情報の量なども関係ありません。1つでも個人情報を扱うと、個人情報取扱事業者になります。\n\nまた、プライバシーマークがなくても個人情報取扱事業者になります。ITパスポート試験では「プライバシーマークを取得した企業だけが個人情報取扱事業者である」といった選択肢が出題されることもありますが、プライバシーマークの取得の有無は関係ありません。プライバシーマークは個人情報取扱事業者の中でも、個人情報を特に適切に扱う事業者に与えられるマークです。",
+      "vi": "Doanh nghiệp xử lý thông tin cá nhân được gọi là Nhà xử lý thông tin cá nhân. Lưu ý, không cần đăng ký với cơ quan giám sát để trở thành nhà xử lý. Khi xử lý thông tin cá nhân trong công việc, doanh nghiệp đó trở thành nhà xử lý. Quy mô doanh nghiệp và lượng thông tin cá nhân không liên quan. Xử lý dù chỉ 1 thông tin cá nhân cũng trở thành nhà xử lý.\n\nNgoài ra, ngay cả không có Privacy Mark cũng là nhà xử lý. Trong IT Passport, có thể xuất hiện lựa chọn Chỉ doanh nghiệp có Privacy Mark mới là nhà xử lý, nhưng việc có Privacy Mark hay không không liên quan. Privacy Mark là dấu hiệu được cấp cho nhà xử lý xử lý thông tin cá nhân đặc biệt phù hợp.",
+      "en": "Companies handling personal information are called Personal Information Handlers. Note that no registration with supervisory authorities is needed. When handling personal information for work, that business becomes a handler. Company size and information volume don't matter. Handling even 1 piece makes you a handler.\n\nAlso, you're a handler even without Privacy Mark. IT Passport may have choices like Only companies with Privacy Mark are handlers, but Privacy Mark acquisition is irrelevant. Privacy Mark is given to handlers who handle personal information particularly appropriately.",
+      "my": "ကိုယ်ရေးအချက်အလက်ကို ကိုင်တွယ်သော ကုမ္ပဏီများကို Personal Information Handlers ဟုခေါ်သည်။",
+      "terms": [
+        {
+          "kanji": "個人情報",
+          "reading": "こじんじょうほう"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "個人情報取扱事業者",
+          "reading": "こじんじょうほうとりあつかいじぎょうしゃ"
+        },
+        {
+          "kanji": "監督官庁",
+          "reading": "かんとくかんちょう"
+        },
+        {
+          "kanji": "届出",
+          "reading": "とどけで"
+        },
+        {
+          "kanji": "一切必要",
+          "reading": "いっさいひつよう"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "時点",
+          "reading": "じてん"
+        },
+        {
+          "kanji": "事業者",
+          "reading": "じぎょうしゃ"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "量",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "取得",
+          "reading": "しゅとく"
+        },
+        {
+          "kanji": "選択肢",
+          "reading": "せんたくし"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "有無",
+          "reading": "うむ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "特",
+          "reading": "とく"
+        },
+        {
+          "kanji": "適切",
+          "reading": "てきせつ"
+        },
+        {
+          "kanji": "与",
+          "reading": "よ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "要配慮個人情報",
+      "reading": "ようはいりょこじんじょうほう",
+      "romaji": "You Hairyo Kojin Jouhou",
+      "vi": "Thông tin cá nhân cần lưu ý",
+      "en": "Sensitive Personal Information",
+      "my": "အရေးကြီးကိုယ်ရေးအချက်အလက်"
+    },
+    {
+      "kanji": "匿名加工情報",
+      "reading": "とくめいかこうじょうほう",
+      "romaji": "Tokumei Kakou Jouhou",
+      "vi": "Thông tin ẩn danh đã xử lý",
+      "en": "Anonymously Processed Information",
+      "my": "အမည်မသိပြုပြင်ထားသောအချက်အလက်"
+    },
+    {
+      "kanji": "マイナンバー",
+      "reading": "まいなんばー",
+      "romaji": "My Number",
+      "vi": "Số định danh cá nhân",
+      "en": "My Number",
+      "my": "My Number"
+    },
+    {
+      "kanji": "個人情報取扱事業者",
+      "reading": "こじんじょうほうとりあつかいじぎょうしゃ",
+      "romaji": "Kojin Jouhou Toriatsukai Jigyousha",
+      "vi": "Nhà xử lý thông tin cá nhân",
+      "en": "Personal Information Handler",
+      "my": "ကိုယ်ရေးအချက်အလက် ကိုင်တွယ်သူ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

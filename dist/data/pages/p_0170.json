@@ -1,0 +1,286 @@
+{
+  "page_id": 170,
+  "image": "p_0170.png",
+  "chapter": 4,
+  "section": "04-03",
+  "page_number": 154,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "2. 部品工場は、届いたかんばんに書かれている数だけの部品を作る\n3. 部品ができたら、部品工場は、組み立て工場に、かんばんと部品を送る\n\nこのようにして、組み立て工場から指示された数やタイミングで部品を作ることで、部品を作り過ぎる無駄をなくすことができ、使わない部品を置くスペースも節約できます。",
+      "vi": "2. Nhà máy linh kiện sản xuất số linh kiện ghi trên Kanban nhận được\n3. Khi linh kiện xong, nhà máy linh kiện gửi Kanban và linh kiện đến nhà máy lắp ráp\n\nNhư vậy, bằng cách sản xuất linh kiện theo số lượng và thời điểm được chỉ định từ nhà máy lắp ráp, có thể loại bỏ lãng phí sản xuất quá nhiều linh kiện và tiết kiệm không gian để các linh kiện không sử dụng.",
+      "en": "2. Parts factory makes the quantity of parts written on the Kanban received\n3. When parts are ready, parts factory sends Kanban and parts to assembly plant\n\nThis way, by making parts at the quantity and timing specified by assembly plant, waste from overproduction is eliminated and space for unused parts is saved.",
+      "my": "2. အစိတ်အပိုင်းစက်ရုံသည် လက်ခံရရှိသော Kanban ပေါ်တွင် ရေးထားသော အစိတ်အပိုင်းပမာဏ ပြုလုပ်သည်",
+      "terms": [
+        {
+          "kanji": "部品工場",
+          "reading": "ぶひんこうじょう"
+        },
+        {
+          "kanji": "届",
+          "reading": "とどけ"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "部品",
+          "reading": "ぶひん"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "立",
+          "reading": "た"
+        },
+        {
+          "kanji": "工場",
+          "reading": "こうじょう"
+        },
+        {
+          "kanji": "送",
+          "reading": "おく"
+        },
+        {
+          "kanji": "指示",
+          "reading": "しじ"
+        },
+        {
+          "kanji": "過",
+          "reading": "か"
+        },
+        {
+          "kanji": "無駄",
+          "reading": "むだ"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "節約",
+          "reading": "せつやく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ライン生産方式とセル生産方式",
+      "reading": "らいんせいさんほうしきとせるせいさんほうしき",
+      "vi": "Phương thức sản xuất Line và Cell",
+      "en": "Line Production and Cell Production",
+      "my": "Line Production နှင့် Cell Production"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ライン生産方式とは、作業員を生産ラインに配置し、ベルトコンベアなどで流れてくる製品を組み立てる生産方式です。「流れ作業」ともいいます。\n\nセル生産方式とは、1人または数人の作業員が、生産の全工程を担当する生産方式です。セル（cell）は「小さな部屋」という意味です。作業員の周りを作業台や部品が囲んでいることからこのように呼ばれます。",
+      "vi": "Line Production là phương thức đặt công nhân trên dây chuyền sản xuất và lắp ráp sản phẩm chạy trên băng chuyền. Còn gọi là công việc dây chuyền.\n\nCell Production là phương thức mà 1 hoặc vài công nhân đảm nhận toàn bộ quy trình sản xuất. Cell nghĩa là phòng nhỏ. Được gọi như vậy vì bàn làm việc và linh kiện bao quanh công nhân.",
+      "en": "Line Production is a method where workers are placed on production lines and assemble products flowing on conveyors. Also called 'flow work'.\n\nCell Production is where 1 or few workers handle the entire production process. Cell means 'small room'. Called this because work benches and parts surround workers.",
+      "my": "Line Production သည် အလုပ်သမားများကို ထုတ်လုပ်ရေးလိုင်းများပေါ်တွင် ထားရှိပြီး conveyor ပေါ်မှ စီးဆင်းလာသော ထုတ်ကုန်များ တပ်ဆင်သော နည်းလမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "生産方式",
+          "reading": "せいさんほうしき"
+        },
+        {
+          "kanji": "作業員",
+          "reading": "さぎょういん"
+        },
+        {
+          "kanji": "生産",
+          "reading": "せいさん"
+        },
+        {
+          "kanji": "配置",
+          "reading": "はいち"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "立",
+          "reading": "た"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "数人",
+          "reading": "すうにん"
+        },
+        {
+          "kanji": "全工程",
+          "reading": "ぜんこうてい"
+        },
+        {
+          "kanji": "担当",
+          "reading": "たんとう"
+        },
+        {
+          "kanji": "小",
+          "reading": "ちい"
+        },
+        {
+          "kanji": "部屋",
+          "reading": "へや"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "周",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "作業台",
+          "reading": "さぎょうだい"
+        },
+        {
+          "kanji": "部品",
+          "reading": "ぶひん"
+        },
+        {
+          "kanji": "囲",
+          "reading": "い"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "セル生産方式は作業員が少ない！",
+        "vi": "Cell Production ít công nhân!",
+        "en": "Cell Production has fewer workers!",
+        "my": "Cell Production တွင် အလုပ်သမား နည်းသည်!",
+        "terms": [
+          {
+            "kanji": "セル生産方式",
+            "reading": "せるせいさんほうしき"
+          },
+          {
+            "kanji": "生産方式",
+            "reading": "せいさんほうしき"
+          },
+          {
+            "kanji": "方式",
+            "reading": "ほうしき"
+          },
+          {
+            "kanji": "式",
+            "reading": "しき"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ライン生産方式とセル生産方式の違いを図で比較すると、ライン生産方式は多くの作業員が必要ですが、セル生産方式は1人または少人数の作業員で全工程を担当できます。",
+        "vi": "So sánh sự khác biệt giữa Line Production và Cell Production qua hình, Line Production cần nhiều công nhân, nhưng Cell Production chỉ cần 1 hoặc vài người có thể đảm nhận toàn bộ quy trình.",
+        "en": "Comparing Line and Cell production in diagrams, Line production needs many workers, but Cell production can handle all processes with 1 or few workers.",
+        "my": "Line နှင့် Cell production ကို နှိုင်းယှဉ်ရာတွင် Line production သည် အလုပ်သမား အများအပြား လိုအပ်သည်။",
+        "terms": [
+          {
+            "kanji": "生産方式",
+            "reading": "せいさんほうしき"
+          },
+          {
+            "kanji": "違",
+            "reading": "い"
+          },
+          {
+            "kanji": "図",
+            "reading": "ず"
+          },
+          {
+            "kanji": "比較",
+            "reading": "ひかく"
+          },
+          {
+            "kanji": "多",
+            "reading": "おお"
+          },
+          {
+            "kanji": "作業員",
+            "reading": "さぎょういん"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          },
+          {
+            "kanji": "人",
+            "reading": "ひと"
+          },
+          {
+            "kanji": "少人数",
+            "reading": "しょうにんずう"
+          },
+          {
+            "kanji": "全工程",
+            "reading": "ぜんこうてい"
+          },
+          {
+            "kanji": "担当",
+            "reading": "たんとう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ライン生産方式",
+      "reading": "らいんせいさんほうしき",
+      "romaji": "Line Seisan Houshiki",
+      "vi": "Phương thức sản xuất dây chuyền",
+      "en": "Line Production Method",
+      "my": "Line Production"
+    },
+    {
+      "kanji": "セル生産方式",
+      "reading": "せるせいさんほうしき",
+      "romaji": "Cell Seisan Houshiki",
+      "vi": "Phương thức sản xuất Cell",
+      "en": "Cell Production Method",
+      "my": "Cell Production"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_learn_more": true
+  }
+}

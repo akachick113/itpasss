@@ -1,0 +1,303 @@
+{
+  "page_id": 27,
+  "image": "p_0027.png",
+  "chapter": 1,
+  "section": "chapter_intro",
+  "page_number": 11,
+  "content": [
+    {
+      "type": "chapter_title",
+      "number": 1,
+      "ja": "企業活動",
+      "reading": "きぎょうかつどう",
+      "vi": "Hoạt động doanh nghiệp",
+      "en": "Corporate Activities",
+      "my": "ကုမ္ပဏီလုပ်ငန်းများ"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "この章のポイント！",
+        "vi": "Điểm chính của chương này!",
+        "en": "Key points of this chapter!",
+        "my": "ဤအခန်း၏ အဓိကအချက်များ!",
+        "terms": [
+          {
+            "kanji": "章",
+            "reading": "しょう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験に合格するには、コンピュータの知識だけでなく、経営戦略やマーケティング、財務、法務といった、経営全般に関する基本的な考え方をきちんと理解しておくことが必要です。この点を念頭において本章を読み進めてください。",
+        "vi": "Để đỗ kỳ thi IT Passport, không chỉ cần kiến thức về máy tính mà còn phải hiểu đúng các khái niệm cơ bản về quản lý tổng thể như chiến lược kinh doanh, marketing, tài chính và pháp luật. Hãy đọc chương này với ý thức đó.",
+        "en": "To pass the IT Passport exam, you need to properly understand not only computer knowledge but also basic concepts about overall management such as business strategy, marketing, finance, and legal affairs. Please read this chapter with that in mind.",
+        "my": "IT Passport စာမေးပွဲအောင်မြင်ရန် ကွန်ပျူတာဗဟုသုတသာမက စီးပွားရေးဗျူဟာ၊ စျေးကွက်ရှာဖွေရေး၊ ငွေကြေးနှင့် ဥပဒေရေးရာအစရှိသော စီမံခန့်ခွဲမှုဆိုင်ရာ အခြေခံသဘောတရားများကို ကောင်းစွာနားလည်ရန် လိုအပ်သည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "合格",
+            "reading": "ごうかく"
+          },
+          {
+            "kanji": "知識",
+            "reading": "ちしき"
+          },
+          {
+            "kanji": "経営戦略",
+            "reading": "けいえいせんりゃく"
+          },
+          {
+            "kanji": "財務",
+            "reading": "ざいむ"
+          },
+          {
+            "kanji": "法務",
+            "reading": "ほうむ"
+          },
+          {
+            "kanji": "経営全般",
+            "reading": "けいえいぜんぱん"
+          },
+          {
+            "kanji": "関",
+            "reading": "かん"
+          },
+          {
+            "kanji": "基本的",
+            "reading": "きほんてき"
+          },
+          {
+            "kanji": "考",
+            "reading": "こう"
+          },
+          {
+            "kanji": "方",
+            "reading": "かた"
+          },
+          {
+            "kanji": "理解",
+            "reading": "りかい"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          },
+          {
+            "kanji": "点",
+            "reading": "てん"
+          },
+          {
+            "kanji": "念頭",
+            "reading": "ねんとう"
+          },
+          {
+            "kanji": "本章",
+            "reading": "ほんしょう"
+          },
+          {
+            "kanji": "読",
+            "reading": "よ"
+          },
+          {
+            "kanji": "進",
+            "reading": "すすむ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "ここに注目して読もう！",
+        "vi": "Hãy đọc với sự chú ý đến đây!",
+        "en": "Focus on these points!",
+        "my": "ဤအချက်များကို အာရုံစိုက်ဖတ်ပါ!"
+      },
+      "content": {
+        "ja": "・企業活動や経営管理に関する基本的な考え方\n・身近な業務を分析し、課題を解決する手法\n・業務を把握する際のビジュアル表現\n・会計と財務の基本的な考え方",
+        "vi": "・Các khái niệm cơ bản về hoạt động doanh nghiệp và quản lý kinh doanh\n・Phương pháp phân tích công việc hàng ngày và giải quyết vấn đề\n・Cách biểu diễn trực quan khi nắm bắt công việc\n・Các khái niệm cơ bản về kế toán và tài chính",
+        "en": "・Basic concepts of corporate activities and business management\n・Methods for analyzing everyday work and solving problems\n・Visual representation when understanding business processes\n・Basic concepts of accounting and finance",
+        "my": "・ကုမ္ပဏီလုပ်ငန်းများနှင့် စီးပွားရေးစီမံခန့်ခွဲမှုဆိုင်ရာ အခြေခံသဘောတရားများ\n・နေ့စဉ်လုပ်ငန်းများ ပိုင်းခြားစိတ်ဖြာခြင်းနှင့် ပြဿနာဖြေရှင်းနည်းများ",
+        "terms": [
+          {
+            "kanji": "企業活動",
+            "reading": "きぎょうかつどう"
+          },
+          {
+            "kanji": "経営管理",
+            "reading": "けいえいかんり"
+          },
+          {
+            "kanji": "関",
+            "reading": "かん"
+          },
+          {
+            "kanji": "基本的",
+            "reading": "きほんてき"
+          },
+          {
+            "kanji": "考",
+            "reading": "こう"
+          },
+          {
+            "kanji": "方",
+            "reading": "かた"
+          },
+          {
+            "kanji": "身近",
+            "reading": "みじか"
+          },
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "分析",
+            "reading": "ぶんせき"
+          },
+          {
+            "kanji": "課題",
+            "reading": "かだい"
+          },
+          {
+            "kanji": "解決",
+            "reading": "かいけつ"
+          },
+          {
+            "kanji": "手法",
+            "reading": "しゅほう"
+          },
+          {
+            "kanji": "把握",
+            "reading": "はあく"
+          },
+          {
+            "kanji": "際",
+            "reading": "きわ"
+          },
+          {
+            "kanji": "表現",
+            "reading": "ひょうげん"
+          },
+          {
+            "kanji": "会計",
+            "reading": "かいけい"
+          },
+          {
+            "kanji": "財務",
+            "reading": "ざいむ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "試験範囲全体における本章の位置づけ",
+        "vi": "Vị trí của chương này trong toàn bộ phạm vi thi",
+        "en": "Position of this chapter in the overall exam scope"
+      },
+      "headers": {
+        "ja": [
+          "分野",
+          "大分類"
+        ],
+        "vi": [
+          "Lĩnh vực",
+          "Phân loại lớn"
+        ],
+        "en": [
+          "Field",
+          "Major Category"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "ストラテジ系",
+            "企業と法務 ← 本章はココ！\n経営戦略\nシステム戦略"
+          ],
+          "vi": [
+            "Strategy",
+            "Doanh nghiệp và Pháp luật ← Chương này ở đây!\nChiến lược kinh doanh\nChiến lược hệ thống"
+          ],
+          "en": [
+            "Strategy",
+            "Corporate and Legal ← This chapter!\nBusiness Strategy\nSystem Strategy"
+          ]
+        },
+        {
+          "ja": [
+            "マネジメント系",
+            "開発技術\nプロジェクトマネジメント\nサービスマネジメント"
+          ],
+          "vi": [
+            "Management",
+            "Kỹ thuật phát triển\nQuản lý dự án\nQuản lý dịch vụ"
+          ],
+          "en": [
+            "Management",
+            "Development Technology\nProject Management\nService Management"
+          ]
+        },
+        {
+          "ja": [
+            "テクノロジ系",
+            "基礎理論\nコンピュータシステム\n技術要素"
+          ],
+          "vi": [
+            "Technology",
+            "Lý thuyết cơ bản\nHệ thống máy tính\nYếu tố kỹ thuật"
+          ],
+          "en": [
+            "Technology",
+            "Basic Theory\nComputer Systems\nTechnical Elements"
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "企業活動",
+      "reading": "きぎょうかつどう",
+      "romaji": "Kigyou Katsudou",
+      "vi": "Hoạt động doanh nghiệp",
+      "en": "Corporate Activities",
+      "my": "ကုမ္ပဏီလုပ်ငန်းများ"
+    },
+    {
+      "kanji": "経営戦略",
+      "reading": "けいえいせんりゃく",
+      "romaji": "Keiei Senryaku",
+      "vi": "Chiến lược kinh doanh",
+      "en": "Business Strategy",
+      "my": "စီးပွားရေးဗျူဟာ"
+    },
+    {
+      "kanji": "財務",
+      "reading": "ざいむ",
+      "romaji": "Zaimu",
+      "vi": "Tài chính",
+      "en": "Finance",
+      "my": "ငွေကြေးရေး"
+    },
+    {
+      "kanji": "法務",
+      "reading": "ほうむ",
+      "romaji": "Houmu",
+      "vi": "Pháp luật",
+      "en": "Legal Affairs",
+      "my": "ဥပဒေရေးရာ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "is_chapter_intro": true
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "page_id": 197,
+  "image": "p_0197.png",
+  "chapter": 5,
+  "section": "05-02",
+  "page_number": 181,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "るために作成します。また、問題点も見つけやすくなります。\n\n業務モデルを記述する方法（記法）には多くの種類がありますが、ITパスポート試験によく出題されるのは「DFD（データフロー図）」と「E-R図」の2つです。",
+      "vi": "Nó được tạo để dễ hiểu. Ngoài ra, cũng dễ tìm ra vấn đề.\n\nCó nhiều phương pháp (ký pháp) để mô tả Business Model, nhưng thường được ra trong IT Passport là DFD (Data Flow Diagram) và E-R Diagram.",
+      "en": "It's created to make things easy to understand. Also, problems become easier to find.\n\nThere are many methods (notations) for describing business models, but the ones frequently tested in IT Passport are 'DFD (Data Flow Diagram)' and 'E-R Diagram'.",
+      "my": "နားလည်ရလွယ်ကူစေရန် ဖန်တီးထားသည်။ ပြဿနာများကိုလည်း ရှာဖွေရ ပိုမိုလွယ်ကူလာသည်။",
+      "terms": [
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "問題点",
+          "reading": "もんだいてん"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "記述",
+          "reading": "きじゅつ"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "記法",
+          "reading": "きほう"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "フローとプロセス",
+        "vi": "Flow và Process",
+        "en": "Flow and Process"
+      },
+      "content": {
+        "ja": "本項では「フロー」と「プロセス」の2つの用語が出てきます。これらには似た意味もあるのですが、ITパスポート試験では明確に使い分けられています。フローは「流れ」であり、プロセスは「手順」です。この違いを念頭に読み進めてください。",
+        "vi": "Trong phần này có 2 thuật ngữ Flow và Process. Chúng có nghĩa tương tự nhưng trong IT Passport được phân biệt rõ ràng. Flow là luồng, Process là thủ tục. Hãy đọc và ghi nhớ sự khác biệt này.",
+        "en": "In this section, two terms 'Flow' and 'Process' appear. They have similar meanings but are clearly distinguished in IT Passport. Flow is 'flow', Process is 'procedure'. Keep this difference in mind as you read.",
+        "terms": [
+          {
+            "kanji": "本項",
+            "reading": "ほんこう"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          },
+          {
+            "kanji": "出",
+            "reading": "しゅつ"
+          },
+          {
+            "kanji": "似",
+            "reading": "じ"
+          },
+          {
+            "kanji": "意味",
+            "reading": "いみ"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "明確",
+            "reading": "めいかく"
+          },
+          {
+            "kanji": "使",
+            "reading": "し"
+          },
+          {
+            "kanji": "分",
+            "reading": "ふん"
+          },
+          {
+            "kanji": "流",
+            "reading": "りゅう"
+          },
+          {
+            "kanji": "手順",
+            "reading": "てじゅん"
+          },
+          {
+            "kanji": "違",
+            "reading": "い"
+          },
+          {
+            "kanji": "念頭",
+            "reading": "ねんとう"
+          },
+          {
+            "kanji": "読",
+            "reading": "どく"
+          },
+          {
+            "kanji": "進",
+            "reading": "すすむ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "DFD（データフロー図）とは",
+      "reading": "でぃーえふでぃー（でーたふろーず）とは",
+      "vi": "DFD (Data Flow Diagram) là gì",
+      "en": "What is DFD (Data Flow Diagram)"
+    },
+    {
+      "type": "paragraph",
+      "ja": "DFD（Data Flow Diagram：データフロー図）とは、次の4種類の記号を使ってデータの流れを表す図です。DFDを使うと、業務プロセスの中の「データの流れ」に関係する問題を見つけることができます。",
+      "vi": "DFD (Data Flow Diagram: Sơ đồ luồng dữ liệu) là sơ đồ biểu diễn luồng dữ liệu sử dụng 4 loại ký hiệu sau. Sử dụng DFD có thể tìm ra vấn đề liên quan đến luồng dữ liệu trong quy trình nghiệp vụ.",
+      "en": "DFD (Data Flow Diagram) is a diagram representing data flow using the following 4 types of symbols. Using DFD, you can find problems related to 'data flow' within business processes.",
+      "my": "DFD (Data Flow Diagram) သည် အောက်ပါ သင်္ကေတ ၄ မျိုးကို အသုံးပြု၍ ဒေတာစီးဆင်းမှုကို ကိုယ်စားပြုသော ပုံကြမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "記号",
+          "reading": "きごう"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "DFDで使用する記号",
+        "vi": "Ký hiệu sử dụng trong DFD",
+        "en": "Symbols Used in DFD"
+      },
+      "headers": {
+        "ja": [
+          "記号",
+          "名称",
+          "説明"
+        ],
+        "vi": [
+          "Ký hiệu",
+          "Tên gọi",
+          "Giải thích"
+        ],
+        "en": [
+          "Symbol",
+          "Name",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "□",
+            "外部",
+            "業務プロセスに入力されるデータの発生源を表す。業務プロセス外の人（「組織」「システム」など）、または、業務プロセスが加工したデータの供給先を表す。DFDでは「外部」からデータが入力されたり、「外部」へデータが出力される。"
+          ],
+          "vi": [
+            "□",
+            "Bên ngoài",
+            "Biểu thị nguồn phát sinh dữ liệu đầu vào quy trình nghiệp vụ. Người ngoài quy trình (tổ chức, hệ thống), hoặc đích cung cấp dữ liệu đã xử lý. Trong DFD, dữ liệu được nhập từ bên ngoài hoặc xuất ra bên ngoài."
+          ],
+          "en": [
+            "□",
+            "External",
+            "Represents source of data input to business process. People outside process (organization, system), or destination for processed data. In DFD, data is input from or output to 'external'."
+          ]
+        },
+        {
+          "ja": [
+            "→",
+            "データフロー",
+            "データの流れを表す。矢印の上や下にデータやデータフロー名を書くこともある。"
+          ],
+          "vi": [
+            "→",
+            "Data Flow",
+            "Biểu thị luồng dữ liệu. Có thể ghi tên dữ liệu hoặc data flow ở trên hoặc dưới mũi tên."
+          ],
+          "en": [
+            "→",
+            "Data Flow",
+            "Represents data flow. Data or data flow name may be written above or below arrow."
+          ]
+        },
+        {
+          "ja": [
+            "○",
+            "処理（プロセス）",
+            "処理を表す。「外部」や「データストア」、もしくは別の処理からデータを受取り、データを加工する。データの加工は必ず「処理」で行う。"
+          ],
+          "vi": [
+            "○",
+            "Xử lý (Process)",
+            "Biểu thị xử lý. Nhận dữ liệu từ bên ngoài, data store hoặc xử lý khác và gia công dữ liệu. Gia công dữ liệu luôn thực hiện tại xử lý."
+          ],
+          "en": [
+            "○",
+            "Processing (Process)",
+            "Represents processing. Receives data from external, data store, or other processing and processes data. Data processing is always done in 'processing'."
+          ]
+        },
+        {
+          "ja": [
+            "二重線",
+            "データストア",
+            "データの保管を表す。通常はデータベース（p.456）を表すが、紙などを使ったファイルの場合もある。「データストア」はデータの加工は行わない。"
+          ],
+          "vi": [
+            "Hai đường",
+            "Data Store",
+            "Biểu thị lưu trữ dữ liệu. Thường biểu thị database (trang 456), nhưng cũng có thể là file giấy. Data Store không gia công dữ liệu."
+          ],
+          "en": [
+            "Double line",
+            "Data Store",
+            "Represents data storage. Usually represents database (p.456), but can also be paper files. 'Data Store' doesn't process data."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "具体的には、DFDでは、業務プロセスの中でデータが「どこから入力」されて、「どのように処理」されて、「どこへ出力」されるのかを図示します。そのためDFDでは、必ず2つ以上の「外部」（入力と出力）と1つ以上の「処理」が必要になります（「処理」がないと何も仕事をしていないことになるため）。\n\nDFDの簡単な例を見てみましょう。",
+      "vi": "Cụ thể, DFD minh họa trong quy trình nghiệp vụ dữ liệu được nhập từ đâu, được xử lý như thế nào, và được xuất ra đâu. Vì vậy DFD cần ít nhất 2 bên ngoài (nhập và xuất) và ít nhất 1 xử lý (vì nếu không có xử lý thì không làm gì cả).\n\nHãy xem ví dụ đơn giản về DFD.",
+      "en": "Specifically, DFD illustrates where data is 'input from', how it's 'processed', and where it's 'output to' within business processes. Therefore, DFD requires at least 2 'external' (input and output) and at least 1 'processing' (because without processing, nothing is being done).\n\nLet's look at a simple DFD example.",
+      "my": "အထူးသဖြင့် DFD သည် စီးပွားရေးလုပ်ငန်းစဉ်များအတွင်း ဒေတာကို 'မည်သည့်နေရာမှ ထည့်သွင်း'သည် ကို သရုပ်ဖော်သည်။",
+      "terms": [
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "図示",
+          "reading": "ずし"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "kanji": "外部",
+          "reading": "がいぶ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "DFD",
+      "reading": "でぃーえふでぃー",
+      "romaji": "Data Flow Diagram",
+      "vi": "Sơ đồ luồng dữ liệu",
+      "en": "Data Flow Diagram",
+      "my": "ဒေတာစီးဆင်းမှု ပုံကြမ်း"
+    },
+    {
+      "kanji": "データストア",
+      "reading": "でーたすとあ",
+      "romaji": "Data Store",
+      "vi": "Kho dữ liệu",
+      "en": "Data Store",
+      "my": "ဒေတာ သိုလှောင်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false
+  }
+}

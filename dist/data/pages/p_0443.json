@@ -1,0 +1,180 @@
+{
+  "page_id": 443,
+  "image": "p_0443.png",
+  "chapter": 12,
+  "section": "12-02",
+  "page_number": 427,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "12-02",
+      "title": {
+        "ja": "データ管理とファイルシステム",
+        "vi": "Quản lý dữ liệu và Hệ thống tệp",
+        "en": "Data Management and File System"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "道案内",
+        "vi": "Chỉ đường",
+        "en": "Navigation"
+      },
+      "content": {
+        "ja": "旅行者に目的地までの道のりを教えるには、地図や言葉を使います。コンピュータに目的のファイルの場所を教える方法は2種類あります。",
+        "vi": "Để chỉ đường đến đích cho du khách, sử dụng bản đồ hoặc lời nói. Có 2 phương pháp để chỉ cho máy tính vị trí của tệp mục tiêu.",
+        "en": "To tell travelers way to destination, use maps or words. There are 2 methods to tell computer location of target file."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "データ管理とは、コンピュータが処理するデータを管理する機能です。具体的には、ファイルシステムやバックアップなどの機能があります。データ管理は、OSの機能の1つです。",
+      "vi": "Quản lý dữ liệu là chức năng quản lý dữ liệu mà máy tính xử lý. Cụ thể, có các chức năng như hệ thống tệp và sao lưu. Quản lý dữ liệu là một trong các chức năng của OS.",
+      "en": "Data management is function managing data computer processes. Specifically, includes functions like file system and backup. Data management is one of OS functions.",
+      "terms": [
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、データ管理に関する内容としては「バックアップ」「相対パス」「絶対パス」の3つの用語がよく出題されます。",
+      "vi": "Trong kỳ thi IT Passport, về nội dung liên quan đến quản lý dữ liệu, 3 thuật ngữ \"sao lưu\", \"đường dẫn tương đối\", \"đường dẫn tuyệt đối\" thường được ra đề.",
+      "en": "In IT Passport exam, regarding data management content, 3 terms 'backup,' 'relative path,' 'absolute path' often appear.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "相対",
+          "reading": "そうたい"
+        },
+        {
+          "kanji": "絶対",
+          "reading": "ぜったい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ファイルシステム",
+      "vi": "Hệ thống tệp",
+      "en": "File System"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ファイルシステムとは、データのまとまりを「ファイル」として扱うことで、データを管理しやすくする機能です。下図はWindowsのファイルシステムの操作画面です。写真や音楽などのデータがフォルダに格納されています。",
+      "vi": "Hệ thống tệp là chức năng giúp dễ quản lý dữ liệu bằng cách xử lý khối dữ liệu như \"tệp\". Hình dưới là màn hình thao tác hệ thống tệp của Windows. Dữ liệu như ảnh và nhạc được lưu trữ trong thư mục.",
+      "en": "File system is function making data management easier by treating data clusters as 'files.' Diagram below is Windows file system operation screen. Data like photos and music stored in folders.",
+      "terms": [
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "操作画面",
+          "reading": "そうさがめん"
+        },
+        {
+          "kanji": "写真",
+          "reading": "しゃしん"
+        },
+        {
+          "kanji": "音楽",
+          "reading": "おんがく"
+        },
+        {
+          "kanji": "格納",
+          "reading": "かくのう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ファイルを操作する画面",
+        "vi": "Màn hình thao tác tệp",
+        "en": "File Operation Screen"
+      },
+      "description": {
+        "ja": "Windowsエクスプローラの画面。左側にディスクやフォルダのツリー構造、右側にフォルダやファイルの内容を表示",
+        "vi": "Màn hình Windows Explorer. Bên trái hiển thị cấu trúc cây của đĩa và thư mục, bên phải hiển thị nội dung của thư mục và tệp",
+        "en": "Windows Explorer screen. Left side shows tree structure of disks and folders, right side shows folder and file contents"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "データ管理",
+      "reading": "データかんり",
+      "vi": "Quản lý dữ liệu",
+      "en": "Data Management",
+      "my": "ဒေတာ မန်နေးဂျမန်း"
+    },
+    {
+      "term": "ファイルシステム",
+      "vi": "Hệ thống tệp",
+      "en": "File System",
+      "my": "ဖိုင် စနစ်"
+    },
+    {
+      "term": "バックアップ",
+      "vi": "Sao lưu",
+      "en": "Backup",
+      "my": "ဘက်အက်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

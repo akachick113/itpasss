@@ -1,0 +1,136 @@
+{
+    "page_id": 272,
+    "image": "p_0272.png",
+    "chapter": 6,
+    "section": "answers",
+    "page_number": 256,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "6-11",
+            "correct_answer": "ア",
+            "explanation": {
+                "ja": "オブジェクト指向では、ソフトウェアを構成する「データ」と「処理」を1つの「オブジェクト（部品）」にまとめることで、ソフトウェアを作ります。別のプログラムも、すでに作ったオブジェクト（部品）を組み合わせることで作成できるので、開発の効率が上がります。",
+                "vi": "Trong hướng đối tượng, tạo phần mềm bằng cách gộp \"Dữ liệu\" và \"Xử lý\" cấu thành phần mềm vào một \"Object (bộ phận)\". Chương trình khác cũng có thể tạo bằng cách kết hợp object (bộ phận) đã tạo sẵn, nên hiệu quả phát triển tăng lên.",
+                "en": "In Object-Oriented, software is created by combining 'Data' and 'Processing' that compose software into one 'Object (component).' Other programs can also be created by combining already-made objects (components), increasing development efficiency."
+            },
+            "choices_explanation": {
+                "イ": {
+                    "ja": "構造化とは、プログラムの処理の手順を「順次」「選択」「繰り返し」の3つで表す手法です。",
+                    "vi": "Cấu trúc hóa là phương pháp biểu diễn quy trình xử lý chương trình bằng 3 loại \"Tuần tự\", \"Lựa chọn\", \"Lặp lại\".",
+                    "en": "Structured is a method to express program processing procedures with 3 types: 'Sequential,' 'Selection,' 'Iteration.'"
+                },
+                "ウ": {
+                    "ja": "プロセス中心アプローチとは、ソフトウェアを構成する2つの要素である「データ」と「プロセス」のうち、「プロセス」に着目する開発手法です。",
+                    "vi": "Process-Centered Approach là phương pháp phát triển tập trung vào \"Quy trình\" trong 2 yếu tố cấu thành phần mềm là \"Dữ liệu\" và \"Quy trình\".",
+                    "en": "Process-Centered Approach is a development method focusing on 'Process' among 2 elements composing software: 'Data' and 'Process.'"
+                },
+                "エ": {
+                    "ja": "プロトタイピングとは、システム開発の早い段階から試作品を作って、利用者に確認をしながら開発を進める手法です。",
+                    "vi": "Prototyping là phương pháp tạo nguyên mẫu từ giai đoạn sớm của phát triển hệ thống, tiến hành phát triển trong khi xác nhận với người dùng.",
+                    "en": "Prototyping is a method to create prototypes from early stages of system development, proceeding with development while confirming with users."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "6-12",
+            "correct_answer": "エ",
+            "explanation": {
+                "ja": "リバースエンジニアリングとは、すでにあるプログラムを解析して、仕様や設計情報を取り出す技術です。",
+                "vi": "Reverse Engineering là kỹ thuật phân tích chương trình đã có sẵn, lấy ra thông số và thông tin thiết kế.",
+                "en": "Reverse Engineering is technology to analyze existing programs and extract specifications and design information."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "アジャイル開発の説明です。",
+                    "vi": "Là giải thích về Agile Development.",
+                    "en": "This explains Agile Development."
+                },
+                "イ": {
+                    "ja": "プロトタイピングモデルの説明です。",
+                    "vi": "Là giải thích về Prototyping Model.",
+                    "en": "This explains Prototyping Model."
+                },
+                "ウ": {
+                    "ja": "ウォーターフォールモデルの説明です。",
+                    "vi": "Là giải thích về Waterfall Model.",
+                    "en": "This explains Waterfall Model."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "6-13",
+            "correct_answer": "ア",
+            "explanation": {
+                "ja": "開発者が発注者にソフトウェアを引き渡す際に行うテストを「ソフトウェア受入れテスト」といいます。",
+                "vi": "Kiểm thử thực hiện khi nhà phát triển bàn giao phần mềm cho bên đặt hàng gọi là \"Software Acceptance Test\".",
+                "en": "The test performed when developers hand over software to ordering party is called 'Software Acceptance Test.'"
+            },
+            "choices_explanation": {
+                "イ": {
+                    "ja": "結合テストは、プログラム同士のインタフェースが合うかを検証するテストです。",
+                    "vi": "Integration Test là kiểm thử xác minh interface giữa các chương trình có khớp không.",
+                    "en": "Integration Test verifies if interfaces between programs match."
+                },
+                "ウ": {
+                    "ja": "システムテストは、システム要件が仕様どおりに動作するかを検証するテストです。",
+                    "vi": "System Test là kiểm thử xác minh yêu cầu hệ thống có hoạt động đúng theo thông số không.",
+                    "en": "System Test verifies if system requirements work according to specifications."
+                },
+                "エ": {
+                    "ja": "単体テストは、プログラムに誤りがないことを検証するテストです。",
+                    "vi": "Unit Test là kiểm thử xác minh chương trình không có lỗi.",
+                    "en": "Unit Test verifies programs have no errors."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "6-14",
+            "correct_answer": "エ",
+            "explanation": {
+                "ja": "プログラムの内部構造を分析して確認するテスト手法を「ホワイトボックステスト」といいます。ホワイトボックステストは単体テストで用います。",
+                "vi": "Phương pháp kiểm thử phân tích và xác nhận cấu trúc bên trong chương trình gọi là \"White Box Test\". White Box Test được dùng trong Unit Test.",
+                "en": "The test method analyzing and confirming program's internal structure is called 'White Box Test.' White Box Test is used in Unit Test."
+            },
+            "note": {
+                "ja": "なお、ブラックボックステストとは、ある入力に対して仕様書どおりの出力が得られるかどうかを確認するテスト手法です。ブラックボックステストは主に、結合テストとシステムテストで用いられます。",
+                "vi": "Ngoài ra, Black Box Test là phương pháp kiểm thử xác nhận với một đầu vào nhất định có nhận được đầu ra đúng theo thông số không. Black Box Test chủ yếu được dùng trong Integration Test và System Test.",
+                "en": "Also, Black Box Test is a test method confirming if expected output according to specifications is obtained for given input. Black Box Test is mainly used in Integration Test and System Test."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "6-15",
+            "correct_answer": "エ",
+            "explanation": {
+                "ja": "プログラムの機能仕様は変えずに、内部構造を変えることを「リファクタリング」といいます。",
+                "vi": "Việc thay đổi cấu trúc bên trong mà không thay đổi thông số chức năng của chương trình gọi là \"Refactoring\".",
+                "en": "Changing internal structure without changing program's functional specifications is called 'Refactoring.'"
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "テスト駆動開発とは、通常はプログラムを書いた後に行う単体テストを、順序を逆にして先に行い、このテストを通るようにプログラムを書くという開発手法です。",
+                    "vi": "Test Driven Development là phương pháp phát triển đảo ngược thứ tự thực hiện Unit Test (thường làm sau khi viết chương trình) trước, rồi viết chương trình để vượt qua test này.",
+                    "en": "Test Driven Development is a development method that reverses order to do Unit Test first (usually done after writing programs), then write programs to pass this test."
+                },
+                "イ": {
+                    "ja": "ペアプログラミングとは、2人のプログラマが、1つのパソコンを使ってソフトウェア開発を行う開発手法です。",
+                    "vi": "Pair Programming là phương pháp phát triển mà 2 programmer sử dụng 1 máy tính để phát triển phần mềm.",
+                    "en": "Pair Programming is a development method where 2 programmers develop software using 1 computer."
+                },
+                "ウ": {
+                    "ja": "リバースエンジニアリングとは、既存のプログラムを解析して、そのプログラムの仕様や設計の情報を取り出す技術です。",
+                    "vi": "Reverse Engineering là kỹ thuật phân tích chương trình hiện có, lấy ra thông số và thông tin thiết kế của chương trình đó.",
+                    "en": "Reverse Engineering is technology to analyze existing programs and extract their specifications and design information."
+                }
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 5
+    }
+}

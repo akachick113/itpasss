@@ -1,0 +1,161 @@
+{
+    "page_id": 267,
+    "image": "p_0267.png",
+    "chapter": 6,
+    "section": "practice",
+    "page_number": 251,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "6-5",
+            "year": "令和7年度",
+            "question": {
+                "ja": "開発が完了したソフトウェアを本番環境にインストールする手順を明確にし、それを実施する工程として、適切なものはどれか。",
+                "vi": "Công đoạn nào phù hợp để làm rõ quy trình cài đặt phần mềm đã hoàn thành phát triển vào môi trường thực tế và thực hiện nó?",
+                "en": "Which is appropriate as a phase to clarify procedures for installing completed software into production environment and implement it?"
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "ja": "ソフトウェア統合",
+                    "vi": "Tích hợp phần mềm",
+                    "en": "Software Integration"
+                },
+                {
+                    "id": "イ",
+                    "ja": "ソフトウェア導入",
+                    "vi": "Triển khai phần mềm",
+                    "en": "Software Deployment"
+                },
+                {
+                    "id": "ウ",
+                    "ja": "妥当性確認",
+                    "vi": "Xác nhận tính hợp lệ",
+                    "en": "Validation"
+                },
+                {
+                    "id": "エ",
+                    "ja": "利用者教育",
+                    "vi": "Đào tạo người dùng",
+                    "en": "User Training"
+                }
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "6-6",
+            "year": "平成28年度",
+            "question": {
+                "ja": "新システム導入に際して、ハードウェア、ソフトウェアで実現する範囲と手作業で実施する範囲を明確にする必要がある。これらの範囲を明確にする工程はどれか。",
+                "vi": "Khi triển khai hệ thống mới, cần làm rõ phạm vi thực hiện bằng phần cứng, phần mềm và phạm vi thực hiện thủ công. Công đoạn nào làm rõ những phạm vi này?",
+                "en": "When introducing new system, scope realized by hardware/software and scope done manually need to be clarified. Which phase clarifies these scopes?"
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "ja": "運用テスト",
+                    "vi": "Kiểm thử vận hành",
+                    "en": "Operational Test"
+                },
+                {
+                    "id": "イ",
+                    "ja": "システム方式設計",
+                    "vi": "Thiết kế phương thức hệ thống",
+                    "en": "System Architecture Design"
+                },
+                {
+                    "id": "ウ",
+                    "ja": "ソフトウェア導入",
+                    "vi": "Triển khai phần mềm",
+                    "en": "Software Deployment"
+                },
+                {
+                    "id": "エ",
+                    "ja": "ソフトウェア要件定義",
+                    "vi": "Định nghĩa yêu cầu phần mềm",
+                    "en": "Software Requirements Definition"
+                }
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "6-7",
+            "year": "平成27年度",
+            "question": {
+                "ja": "ソフトウェア開発モデルの一つであるウォーターフォールモデルの記述として、適切なものはどれか。",
+                "vi": "Mô tả nào phù hợp cho Waterfall Model - một trong các mô hình phát triển phần mềm?",
+                "en": "Which description is appropriate for Waterfall Model, one of software development models?"
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "ja": "オブジェクト指向開発において、設計とプログラミングを何度か行き来し、トライアンドエラーで改良していく手法である。",
+                    "vi": "Trong phát triển hướng đối tượng, là phương pháp đi lại giữa thiết kế và lập trình nhiều lần, cải tiến bằng trial and error.",
+                    "en": "In object-oriented development, a method of going back and forth between design and programming multiple times, improving through trial and error."
+                },
+                {
+                    "id": "イ",
+                    "ja": "サブシステムごとに開発プロセスを繰り返し、利用者の要求に対応しながら改良していく手法である。",
+                    "vi": "Là phương pháp lặp lại quy trình phát triển cho từng subsystem, cải tiến trong khi đáp ứng yêu cầu người dùng.",
+                    "en": "A method of repeating development process for each subsystem, improving while responding to user requirements."
+                },
+                {
+                    "id": "ウ",
+                    "ja": "システム開発の工程を段階的に分割し、前工程の成果物に基づいて後工程の作業を順次進めていく手法である。",
+                    "vi": "Là phương pháp chia công đoạn phát triển hệ thống thành các giai đoạn, tiến hành tuần tự công việc của công đoạn sau dựa trên sản phẩm công đoạn trước.",
+                    "en": "A method of dividing system development phases into stages, sequentially proceeding with later phase work based on previous phase deliverables."
+                },
+                {
+                    "id": "エ",
+                    "ja": "システム開発の早い段階で試作品を作成し、利用者の意見を取り入れながら要求や仕様を確定する手法である。",
+                    "vi": "Là phương pháp tạo nguyên mẫu ở giai đoạn sớm của phát triển hệ thống, xác định yêu cầu và thông số trong khi tiếp nhận ý kiến người dùng.",
+                    "en": "A method of creating prototypes in early stages of system development, determining requirements and specifications while incorporating user opinions."
+                }
+            ],
+            "correct_answer": "ウ"
+        },
+        {
+            "type": "exam_question",
+            "number": "6-8",
+            "year": "令和元年度",
+            "question": {
+                "ja": "システム開発後にプログラムの修正や変更を行うことを何というか。",
+                "vi": "Gọi việc sửa đổi hoặc thay đổi chương trình sau khi phát triển hệ thống là gì?",
+                "en": "What is it called to modify or change programs after system development?"
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "ja": "システム化の企画",
+                    "vi": "Lập kế hoạch hệ thống hóa",
+                    "en": "System Planning"
+                },
+                {
+                    "id": "イ",
+                    "ja": "システム運用",
+                    "vi": "Vận hành hệ thống",
+                    "en": "System Operation"
+                },
+                {
+                    "id": "ウ",
+                    "ja": "ソフトウェア保守",
+                    "vi": "Bảo trì phần mềm",
+                    "en": "Software Maintenance"
+                },
+                {
+                    "id": "エ",
+                    "ja": "要件定義",
+                    "vi": "Định nghĩa yêu cầu",
+                    "en": "Requirements Definition"
+                }
+            ],
+            "correct_answer": "ウ"
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 4
+    }
+}

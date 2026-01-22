@@ -1,0 +1,425 @@
+{
+  "page_id": 81,
+  "image": "p_0081.png",
+  "chapter": 2,
+  "section": "02-03",
+  "page_number": 65,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "不正アクセス禁止法",
+      "reading": "ふせいあくせすきんしほう",
+      "vi": "Luật cấm truy cập trái phép",
+      "en": "Unauthorized Access Prohibition Law",
+      "my": "ခွင့်ပြုချက်မရှိဘဲ ဝင်ရောက်မှု တားမြစ်သော ဥပဒေ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "不正アクセス禁止法とは、その名のとおり、不正なアクセスを禁止する法律です。",
+      "vi": "Luật cấm truy cập trái phép, đúng như tên gọi, là luật cấm truy cập bất hợp pháp.",
+      "en": "The Unauthorized Access Prohibition Law, as its name suggests, is a law prohibiting illegal access.",
+      "my": "Unauthorized Access Prohibition Law သည် နာမည်အတိုင်း တရားမဝင်ဝင်ရောက်မှုကို တားမြစ်သော ဥပဒေဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "禁止法",
+          "reading": "きんしほう"
+        },
+        {
+          "kanji": "名",
+          "reading": "めい"
+        },
+        {
+          "kanji": "禁止",
+          "reading": "きんし"
+        },
+        {
+          "kanji": "法律",
+          "reading": "ほうりつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "不正アクセスとは",
+      "reading": "ふせいあくせすとは",
+      "vi": "Truy cập trái phép là gì",
+      "en": "What is Unauthorized Access",
+      "my": "ခွင့်ပြုချက်မရှိဘဲ ဝင်ရောက်မှုဆိုသည်မှာ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ではそもそも、この「不正アクセス」とは何でしょうか。\n\nまず、アクセスとは「コンピュータに接続すること」です。多くの人は日々の業務の中で、コンピュータに接続してさまざまなデータを取り扱っていると思います。みなさん自身のIDとパスワードを使ってサーバにログインすることがアクセスの代表例です。\n\nこのアクセスのうち、法律違反となるアクセスのことを「不正アクセス」といい、この行為を取り締まる法律が不正アクセス禁止法です。\n\nなお、不正アクセス禁止法の対象は「ネットワークを通したアクセス」のみです。直接、他人のコンピュータの前まで歩いていって、そのコンピュータにログインすることは、ネットワークを通したアクセスではないので、不正アクセス禁止法の対象にはなりません。",
+      "vi": "Vậy \"truy cập trái phép\" là gì?\n\nTrước hết, truy cập là \"kết nối với máy tính\". Nhiều người trong công việc hàng ngày kết nối máy tính và xử lý nhiều dữ liệu. Ví dụ điển hình của truy cập là đăng nhập vào máy chủ bằng ID và mật khẩu của bạn.\n\nTrong các truy cập này, truy cập vi phạm pháp luật được gọi là \"truy cập trái phép\", và luật kiểm soát hành vi này là Luật cấm truy cập trái phép.\n\nLưu ý, đối tượng của luật chỉ là \"truy cập qua mạng\". Việc đi bộ đến trước máy tính người khác và đăng nhập trực tiếp không phải là truy cập qua mạng nên không phải đối tượng của luật này.",
+      "en": "So what is \"unauthorized access\"?\n\nFirst, access means \"connecting to a computer\". Many people in daily work connect to computers and handle various data. A typical example is logging into a server using your ID and password.\n\nAmong these accesses, illegal access is called \"unauthorized access\", and the law controlling this is the Unauthorized Access Prohibition Law.\n\nNote that the law only covers \"access through networks\". Walking to someone else's computer and logging in directly is not network access, so it's not covered by this law.",
+      "my": "ထို့ကြောင့် \"ခွင့်ပြုချက်မရှိဘဲ ဝင်ရောက်မှု\" ဆိုသည်မှာ ဘာလဲ?",
+      "terms": [
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "日",
+          "reading": "にち"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "自身",
+          "reading": "じしん"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "代表例",
+          "reading": "だいひょうれい"
+        },
+        {
+          "kanji": "法律違反",
+          "reading": "ほうりついはん"
+        },
+        {
+          "kanji": "行為",
+          "reading": "こうい"
+        },
+        {
+          "kanji": "締",
+          "reading": "てい"
+        },
+        {
+          "kanji": "法律",
+          "reading": "ほうりつ"
+        },
+        {
+          "kanji": "禁止法",
+          "reading": "きんしほう"
+        },
+        {
+          "kanji": "対象",
+          "reading": "たいしょう"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        },
+        {
+          "kanji": "直接",
+          "reading": "ちょくせつ"
+        },
+        {
+          "kanji": "他人",
+          "reading": "たにん"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "歩",
+          "reading": "ある"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "不正アクセス禁止法の対象となる4つの行為",
+      "reading": "ふせいあくせすきんしほうのたいしょうとなる4つのこうい",
+      "vi": "4 hành vi là đối tượng của Luật cấm truy cập trái phép",
+      "en": "4 Acts Covered by Unauthorized Access Prohibition Law",
+      "my": "Unauthorized Access Prohibition Law ဖြင့် အကျုံးဝင်သော လုပ်ရပ် ၄ ခု"
+    },
+    {
+      "type": "paragraph",
+      "ja": "不正アクセス禁止法では、次の4つの行為が処罰の対象になります。",
+      "vi": "Theo Luật cấm truy cập trái phép, 4 hành vi sau là đối tượng bị xử phạt:",
+      "en": "Under the Unauthorized Access Prohibition Law, these 4 acts are punishable:",
+      "my": "Unauthorized Access Prohibition Law အရ ဤလုပ်ရပ် ၄ ခုကို ပြစ်ဒဏ်ပေးနိုင်သည်:",
+      "terms": [
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "禁止法",
+          "reading": "きんしほう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "行為",
+          "reading": "こうい"
+        },
+        {
+          "kanji": "処罰",
+          "reading": "しょばつ"
+        },
+        {
+          "kanji": "対象",
+          "reading": "たいしょう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "ja": "（1）なりすましによるアクセス",
+      "vi": "(1) Truy cập bằng cách mạo danh",
+      "en": "(1) Access by Impersonation"
+    },
+    {
+      "type": "paragraph",
+      "ja": "なりすましによるアクセスとは、本人の許可なく、その人のIDとパスワードを不正利用してアクセスすることです。最近では、悪意を持った人が芸能人のメールアカウントに不正アクセスしてメールをのぞき見るという事件がありました。",
+      "vi": "Truy cập bằng cách mạo danh là truy cập bằng cách sử dụng trái phép ID và mật khẩu của người khác mà không được phép. Gần đây có vụ việc kẻ xấu truy cập trái phép vào tài khoản email của người nổi tiếng để đọc trộm email.",
+      "en": "Access by impersonation means accessing using someone's ID and password illegally without permission. Recently, there was a case where a malicious person illegally accessed a celebrity's email account to peek at emails.",
+      "my": "Impersonation ဖြင့် ဝင်ရောက်ခြင်းဆိုသည်မှာ ခွင့်ပြုချက်မရှိဘဲ တစ်စုံတစ်ဦး၏ ID နှင့် password ကို သုံး၍ တရားမဝင်ဝင်ရောက်ခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "本人",
+          "reading": "ほんにん"
+        },
+        {
+          "kanji": "許可",
+          "reading": "きょか"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "不正利用",
+          "reading": "ふせいりよう"
+        },
+        {
+          "kanji": "最近",
+          "reading": "さいきん"
+        },
+        {
+          "kanji": "悪意",
+          "reading": "あくい"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "芸能人",
+          "reading": "げいのうじん"
+        },
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "事件",
+          "reading": "じけん"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "管理者によるアクセス",
+        "vi": "Truy cập bởi quản trị viên",
+        "en": "Access by Administrator",
+        "my": "အုပ်ချုပ်ရေးမှူးမှ ဝင်ရောက်ခြင်း",
+        "terms": [
+          {
+            "kanji": "管理者",
+            "reading": "かんりしゃ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "本人以外の人がアクセスしても不正アクセスにならない場合があります。それは、システムの管理者によるアクセスです。管理者は基本的にすべての権限を持っているので、どんなアクセス様に不正行為を行う場合でも、アクセス自体は不正ではないので、不正アクセス禁止法の対象にはなりません（不正行為については内容に応じて別の法律で裁かれますが）。",
+        "vi": "Có trường hợp người khác truy cập mà không phải là truy cập trái phép. Đó là truy cập của quản trị viên hệ thống. Quản trị viên về cơ bản có tất cả quyền hạn, nên ngay cả khi thực hiện hành vi sai trái với bất kỳ loại truy cập nào, bản thân việc truy cập không phải là bất hợp pháp nên không phải đối tượng của Luật cấm truy cập trái phép (hành vi sai trái sẽ bị xử lý theo luật khác tùy nội dung).",
+        "en": "There are cases where others' access is not unauthorized access. That's access by system administrators. Administrators basically have all permissions, so even when committing misconduct with any type of access, the access itself is not illegal and not covered by this law (misconduct is judged by other laws based on content).",
+        "my": "အခြားသူများ ဝင်ရောက်ခြင်းသည် ခွင့်ပြုချက်မရှိဘဲ ဝင်ရောက်ခြင်းမဟုတ်သော ကိစ္စများရှိသည်။ ၎င်းသည် စနစ်စီမံခန့်ခွဲသူများ ဝင်ရောက်ခြင်းဖြစ်သည်။",
+        "terms": [
+          {
+            "kanji": "本人以外",
+            "reading": "ほんにんいがい"
+          },
+          {
+            "kanji": "人",
+            "reading": "ひと"
+          },
+          {
+            "kanji": "不正",
+            "reading": "ふせい"
+          },
+          {
+            "kanji": "場合",
+            "reading": "ばあい"
+          },
+          {
+            "kanji": "管理者",
+            "reading": "かんりしゃ"
+          },
+          {
+            "kanji": "基本的",
+            "reading": "きほんてき"
+          },
+          {
+            "kanji": "権限",
+            "reading": "けんげん"
+          },
+          {
+            "kanji": "持",
+            "reading": "も"
+          },
+          {
+            "kanji": "様",
+            "reading": "さま"
+          },
+          {
+            "kanji": "不正行為",
+            "reading": "ふせいこうい"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "自体",
+            "reading": "じたい"
+          },
+          {
+            "kanji": "禁止法",
+            "reading": "きんしほう"
+          },
+          {
+            "kanji": "対象",
+            "reading": "たいしょう"
+          },
+          {
+            "kanji": "内容",
+            "reading": "ないよう"
+          },
+          {
+            "kanji": "応",
+            "reading": "おう"
+          },
+          {
+            "kanji": "別",
+            "reading": "べつ"
+          },
+          {
+            "kanji": "法律",
+            "reading": "ほうりつ"
+          },
+          {
+            "kanji": "裁",
+            "reading": "さい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "ja": "（2）セキュリティホールからのアクセス",
+      "vi": "(2) Truy cập qua lỗ hổng bảo mật",
+      "en": "(2) Access through Security Holes"
+    },
+    {
+      "type": "paragraph",
+      "ja": "セキュリティホールからのアクセスとは、システムのセキュリティ上の弱点（セキュリティホール：p.527）を悪用してアクセスすることです。",
+      "vi": "Truy cập qua lỗ hổng bảo mật là việc lợi dụng điểm yếu bảo mật của hệ thống (Security Hole: trang 527) để truy cập.",
+      "en": "Access through security holes means exploiting system security weaknesses (Security Holes: p.527) to access.",
+      "my": "Security holes မှတဆင့် ဝင်ရောက်ခြင်းဆိုသည်မှာ စနစ်လုံခြုံရေး အားနည်းချက်များ (Security Holes) ကို အသုံးချ၍ ဝင်ရောက်ခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "弱点",
+          "reading": "じゃくてん"
+        },
+        {
+          "kanji": "悪用",
+          "reading": "あくよう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "不正アクセス",
+      "reading": "ふせいあくせす",
+      "romaji": "Fusei Access",
+      "vi": "Truy cập trái phép",
+      "en": "Unauthorized Access",
+      "my": "ခွင့်ပြုချုပ်မဲ့ ဝင်ရောက်မှု"
+    },
+    {
+      "kanji": "なりすまし",
+      "reading": "なりすまし",
+      "romaji": "Narisumashi",
+      "vi": "Mạo danh",
+      "en": "Impersonation",
+      "my": "လိမ်မညခြင်း"
+    },
+    {
+      "kanji": "セキュリティホール",
+      "reading": "せきゅりてぃほーる",
+      "romaji": "Security Hole",
+      "vi": "Lỗ hổng bảo mật",
+      "en": "Security Hole",
+      "my": "လုံခြုံရေးအပေါက်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_learn_more": true
+  }
+}

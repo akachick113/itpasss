@@ -1,0 +1,151 @@
+{
+  "page_id": 153,
+  "image": "p_0153.png",
+  "chapter": 4,
+  "section": "04-02",
+  "page_number": 137,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "強化学習",
+      "vi": "Học tăng cường",
+      "en": "Reinforcement Learning"
+    },
+    {
+      "type": "paragraph",
+      "ja": "強化学習とは、正解データの代わりに報酬をコンピュータに与える手法です。強化学習では、コンピュータが試行錯誤しながら行動し、その行動によってもたらされる報酬が最大になるように学習を進めます。\n\n強化学習は、人間が最終的な正解はわかっているけれども、その正解を導くまでの「最適な過程」がわからない場合に使われます。例えば、強化学習は、将棋を指すコンピュータで使われています。将棋の最終的な正解は「勝つこと」です。ただし、その過程である一手一手に関しては、人間は正解を知りません。\n\nここで、コンピュータに駒を指すという行動をさせて、勝ったときに多くの報酬を与えます。こうすることで、コンピュータはできるだけ報酬が多くなるような（勝つような）駒の指し方を学習していきます。",
+      "vi": "Học tăng cường là phương pháp cho máy tính phần thưởng thay vì dữ liệu đáp án. Trong học tăng cường, máy tính hành động qua thử và sai, và học để tối đa hóa phần thưởng từ hành động đó.\n\nHọc tăng cường được sử dụng khi con người biết đáp án cuối cùng nhưng không biết quá trình tối ưu để đạt đến đáp án đó. Ví dụ, học tăng cường được sử dụng trong máy tính chơi cờ tướng. Đáp án cuối cùng của cờ tướng là thắng. Tuy nhiên, con người không biết đáp án đúng cho từng nước đi trong quá trình.\n\nỞ đây, cho máy tính hành động đi cờ và thưởng nhiều khi thắng. Nhờ vậy, máy tính học cách đi cờ để được nhiều phần thưởng nhất (để thắng).",
+      "en": "Reinforcement learning gives computers rewards instead of correct answer data. In reinforcement learning, computers act through trial and error, learning to maximize rewards from actions.\n\nReinforcement learning is used when humans know the final answer but not the 'optimal process' to reach it. For example, it's used in computers playing shogi. The final correct answer in shogi is 'winning'. However, humans don't know the correct answer for each individual move.\n\nHere, computers are made to make moves, and given many rewards when winning. This way, computers learn how to move pieces to get as many rewards as possible (to win).",
+      "my": "Reinforcement learning သည် မှန်ကန်သော အဖြေဒေတာ အစား ကွန်ပျူတာများကို ဆုလာဘ်များ ပေးသည်။",
+      "terms": [
+        {
+          "kanji": "強化学習",
+          "reading": "きょうかがくしゅう"
+        },
+        {
+          "kanji": "正解",
+          "reading": "せいかい"
+        },
+        {
+          "kanji": "代",
+          "reading": "だい"
+        },
+        {
+          "kanji": "報酬",
+          "reading": "ほうしゅう"
+        },
+        {
+          "kanji": "与",
+          "reading": "よ"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "試行錯誤",
+          "reading": "しこうさくご"
+        },
+        {
+          "kanji": "行動",
+          "reading": "こうどう"
+        },
+        {
+          "kanji": "最大",
+          "reading": "さいだい"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "最終的",
+          "reading": "さいしゅうてき"
+        },
+        {
+          "kanji": "導",
+          "reading": "どう"
+        },
+        {
+          "kanji": "最適",
+          "reading": "さいてき"
+        },
+        {
+          "kanji": "過程",
+          "reading": "かてい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "将棋",
+          "reading": "しょうぎ"
+        },
+        {
+          "kanji": "指",
+          "reading": "ゆび"
+        },
+        {
+          "kanji": "勝",
+          "reading": "かち"
+        },
+        {
+          "kanji": "一手一手",
+          "reading": "いっていって"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "知",
+          "reading": "ち"
+        },
+        {
+          "kanji": "駒",
+          "reading": "こま"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "方",
+          "reading": "ほう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "強化学習",
+      "reading": "きょうかがくしゅう",
+      "romaji": "Kyouka Gakushuu",
+      "vi": "Học tăng cường",
+      "en": "Reinforcement Learning",
+      "my": "Reinforcement Learning"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true
+  }
+}

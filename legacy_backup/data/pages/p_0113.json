@@ -1,0 +1,320 @@
+{
+  "page_id": 113,
+  "image": "p_0113.png",
+  "chapter": 3,
+  "section": "intro",
+  "page_number": 97,
+  "content": [
+    {
+      "type": "chapter_header",
+      "number": 3,
+      "ja": "経営戦略マネジメント",
+      "reading": "けいえいせんりゃくまねじめんと",
+      "vi": "Quản lý chiến lược kinh doanh",
+      "en": "Business Strategy Management",
+      "my": "စီးပွားရေးဗျူဟာ စီမံခန့်ခွဲမှု"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "この章のポイント！",
+        "vi": "Điểm chính của chương này!",
+        "en": "Key Points of This Chapter!",
+        "my": "ဤအခန်း၏ အဓိကအချက်များ!",
+        "terms": [
+          {
+            "kanji": "章",
+            "reading": "しょう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "本章からは、いよいよ具体的な経営戦略の内容に入っていきます。本章で解説している経営戦略のさまざまなテクニックは基本的なものばかりなので、それぞれの用語の特徴や、他の用語との違いに注目して読み進めてください。",
+        "vi": "Từ chương này, chúng ta sẽ bắt đầu đi vào nội dung chiến lược kinh doanh cụ thể. Các kỹ thuật chiến lược kinh doanh được giải thích trong chương này đều là cơ bản, nên hãy chú ý đến đặc điểm của mỗi thuật ngữ và sự khác biệt với các thuật ngữ khác khi đọc.",
+        "en": "From this chapter, we'll finally get into specific business strategy content. The various business strategy techniques explained here are all basic, so please pay attention to each term's characteristics and differences from other terms as you read.",
+        "my": "ဤအခန်းမှစ၍ တိကျသော စီးပွားရေးဗျူဟာ အကြောင်းအရာများကို စတင်လေ့လာပါမည်။",
+        "terms": [
+          {
+            "kanji": "本章",
+            "reading": "ほんしょう"
+          },
+          {
+            "kanji": "具体的",
+            "reading": "ぐたいてき"
+          },
+          {
+            "kanji": "経営戦略",
+            "reading": "けいえいせんりゃく"
+          },
+          {
+            "kanji": "内容",
+            "reading": "ないよう"
+          },
+          {
+            "kanji": "入",
+            "reading": "にゅう"
+          },
+          {
+            "kanji": "解説",
+            "reading": "かいせつ"
+          },
+          {
+            "kanji": "基本的",
+            "reading": "きほんてき"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          },
+          {
+            "kanji": "特徴",
+            "reading": "とくちょう"
+          },
+          {
+            "kanji": "他",
+            "reading": "ほか"
+          },
+          {
+            "kanji": "違",
+            "reading": "い"
+          },
+          {
+            "kanji": "注目",
+            "reading": "ちゅうもく"
+          },
+          {
+            "kanji": "読",
+            "reading": "どく"
+          },
+          {
+            "kanji": "進",
+            "reading": "すすむ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "ここに注目して読もう！",
+        "vi": "Hãy chú ý điểm này khi đọc!",
+        "en": "Pay Attention to This!",
+        "my": "ဤအချက်ကို အာရုံစိုက်ပါ!"
+      },
+      "content": {
+        "ja": "・SWOT分析、プロダクトポートフォリオマネジメント（PPM）、CRM、SCMなどの代表的な経営情報分析手法や経営管理システムに関する基本的な考え方",
+        "vi": "・Phương pháp phân tích thông tin kinh doanh tiêu biểu như SWOT, Product Portfolio Management (PPM), CRM, SCM và cách nghĩ cơ bản về hệ thống quản lý kinh doanh",
+        "en": "・Representative business information analysis methods like SWOT analysis, Product Portfolio Management (PPM), CRM, SCM and basic concepts about business management systems",
+        "my": "・ SWOT analysis, PPM, CRM, SCM ကဲ့သို့ စီးပွားရေးအချက်အလက် ခွဲခြမ်းစိတ်ဖြာမှု နည်းလမ်းများ",
+        "terms": [
+          {
+            "kanji": "分析",
+            "reading": "ぶんせき"
+          },
+          {
+            "kanji": "代表的",
+            "reading": "だいひょうてき"
+          },
+          {
+            "kanji": "経営情報分析手法",
+            "reading": "けいえいじょうほうぶんせきしゅほう"
+          },
+          {
+            "kanji": "経営管理",
+            "reading": "けいえいかんり"
+          },
+          {
+            "kanji": "関",
+            "reading": "かん"
+          },
+          {
+            "kanji": "基本的",
+            "reading": "きほんてき"
+          },
+          {
+            "kanji": "考",
+            "reading": "こう"
+          },
+          {
+            "kanji": "方",
+            "reading": "ほう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "試験範囲全体における本章の位置づけ",
+        "vi": "Vị trí chương này trong phạm vi thi",
+        "en": "Position of This Chapter in Exam Scope"
+      },
+      "headers": {
+        "ja": [
+          "分野",
+          "大分類"
+        ],
+        "vi": [
+          "Lĩnh vực",
+          "Phân loại lớn"
+        ],
+        "en": [
+          "Field",
+          "Major Category"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "ストラテジ系",
+            "企業と法務"
+          ],
+          "vi": [
+            "Lĩnh vực chiến lược",
+            "Doanh nghiệp và pháp luật"
+          ],
+          "en": [
+            "Strategy Field",
+            "Corporate and Legal"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "経営戦略 ← 本章はココ！"
+          ],
+          "vi": [
+            "",
+            "Chiến lược kinh doanh ← Chương này ở đây!"
+          ],
+          "en": [
+            "",
+            "Business Strategy ← This Chapter!"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "システム戦略"
+          ],
+          "vi": [
+            "",
+            "Chiến lược hệ thống"
+          ],
+          "en": [
+            "",
+            "System Strategy"
+          ]
+        },
+        {
+          "ja": [
+            "マネジメント系",
+            "開発技術"
+          ],
+          "vi": [
+            "Lĩnh vực quản lý",
+            "Kỹ thuật phát triển"
+          ],
+          "en": [
+            "Management Field",
+            "Development Technology"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "プロジェクトマネジメント"
+          ],
+          "vi": [
+            "",
+            "Quản lý dự án"
+          ],
+          "en": [
+            "",
+            "Project Management"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "サービスマネジメント"
+          ],
+          "vi": [
+            "",
+            "Quản lý dịch vụ"
+          ],
+          "en": [
+            "",
+            "Service Management"
+          ]
+        },
+        {
+          "ja": [
+            "テクノロジ系",
+            "基礎理論"
+          ],
+          "vi": [
+            "Lĩnh vực công nghệ",
+            "Lý thuyết cơ bản"
+          ],
+          "en": [
+            "Technology Field",
+            "Basic Theory"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "コンピュータシステム"
+          ],
+          "vi": [
+            "",
+            "Hệ thống máy tính"
+          ],
+          "en": [
+            "",
+            "Computer System"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "技術要素"
+          ],
+          "vi": [
+            "",
+            "Yếu tố kỹ thuật"
+          ],
+          "en": [
+            "",
+            "Technical Elements"
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "経営戦略",
+      "reading": "けいえいせんりゃく",
+      "romaji": "Keiei Senryaku",
+      "vi": "Chiến lược kinh doanh",
+      "en": "Business Strategy",
+      "my": "စီးပွားရေးဗျူဟာ"
+    },
+    {
+      "kanji": "SWOT分析",
+      "reading": "すうぉっとぶんせき",
+      "romaji": "SWOT Bunseki",
+      "vi": "Phân tích SWOT",
+      "en": "SWOT Analysis",
+      "my": "SWOT ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_info_box": true,
+    "is_chapter_intro": true
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "page_id": 36,
+  "image": "p_0036.png",
+  "chapter": 1,
+  "section": "01-04",
+  "page_number": 20,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "01-04",
+      "ja": "経営組織",
+      "reading": "けいえいそしき",
+      "vi": "Tổ chức kinh doanh",
+      "en": "Business Organization",
+      "my": "စီးပွားရေးအဖွဲ့အစည်း"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "ヒトの配置",
+        "vi": "Bố trí nhân sự",
+        "en": "Personnel Placement",
+        "my": "ဝန်ထမ်းနေရာချထားခြင်း"
+      },
+      "content": {
+        "ja": "ヒトが集まると組織になります。組織は「ヒトをどのように配置するか」を決める必要があります。配置方法によって仕事の作業効率が大きく変わります。",
+        "vi": "Khi con người tập hợp lại sẽ thành tổ chức. Tổ chức cần quyết định \"bố trí con người như thế nào\". Hiệu quả công việc thay đổi lớn tùy theo cách bố trí.",
+        "en": "When people gather, they become an organization. Organizations need to decide \"how to place people.\" Work efficiency changes greatly depending on the placement method.",
+        "my": "လူများစုရုံးလာသောအခါ အဖွဲ့အစည်းဖြစ်လာသည်။ အဖွဲ့အစည်းများသည် \"လူကို မည်သို့နေရာချထားမည်\" ကို ဆုံးဖြတ်ရန် လိုအပ်သည်။",
+        "terms": [
+          {
+            "kanji": "集",
+            "reading": "しゅう"
+          },
+          {
+            "kanji": "組織",
+            "reading": "そしき"
+          },
+          {
+            "kanji": "配置",
+            "reading": "はいち"
+          },
+          {
+            "kanji": "決",
+            "reading": "けつ"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          },
+          {
+            "kanji": "配置方法",
+            "reading": "はいちほうほう"
+          },
+          {
+            "kanji": "仕事",
+            "reading": "しごと"
+          },
+          {
+            "kanji": "作業効率",
+            "reading": "さぎょうこうりつ"
+          },
+          {
+            "kanji": "大",
+            "reading": "おお"
+          },
+          {
+            "kanji": "変",
+            "reading": "へん"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "6つの組織形態",
+      "reading": "6つのそしきけいたい",
+      "vi": "6 loại hình tổ chức",
+      "en": "6 Types of Organizational Structure",
+      "my": "အဖွဲ့အစည်းပုံစံ ၆ မျိုး"
+    },
+    {
+      "type": "paragraph",
+      "ja": "4つある経営資源のうちの1つであるヒトの集まりを「経営組織」といいます。現代社会には、企業の大きさや業種ごとに、さまざまな形態の経営組織があります。経営組織の形態のことを「組織形態」といいます。ここでは、ITパスポート試験によく登場する6つの組織形態と、それらを束ねる経営陣の役職名を解説します。",
+      "vi": "Tập hợp con người - một trong 4 nguồn lực kinh doanh - được gọi là \"tổ chức kinh doanh\". Trong xã hội hiện đại, có nhiều hình thức tổ chức kinh doanh khác nhau tùy theo quy mô và ngành nghề của doanh nghiệp. Hình thức của tổ chức kinh doanh được gọi là \"hình thức tổ chức\". Ở đây, chúng tôi sẽ giải thích 6 hình thức tổ chức thường xuất hiện trong kỳ thi IT Passport và các chức danh quản lý điều hành chúng.",
+      "en": "The gathering of people, one of the 4 management resources, is called a \"business organization.\" In modern society, there are various forms of business organizations depending on the company's size and industry. The form of a business organization is called \"organizational structure.\" Here, we will explain 6 organizational structures that frequently appear in the IT Passport exam and the executive titles that lead them.",
+      "my": "စီမံခန့်ခွဲမှုအရင်းအမြစ် ၄ ခုအနက် တစ်ခုဖြစ်သော လူစုဝေးခြင်းကို \"စီးပွားရေးအဖွဲ့အစည်း\" ဟုခေါ်သည်။",
+      "terms": [
+        {
+          "kanji": "経営資源",
+          "reading": "けいえいしげん"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "経営組織",
+          "reading": "けいえいそしき"
+        },
+        {
+          "kanji": "現代社会",
+          "reading": "げんだいしゃかい"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "業種",
+          "reading": "ぎょうしゅ"
+        },
+        {
+          "kanji": "形態",
+          "reading": "けいたい"
+        },
+        {
+          "kanji": "組織形態",
+          "reading": "そしきけいたい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        },
+        {
+          "kanji": "束",
+          "reading": "そく"
+        },
+        {
+          "kanji": "経営陣",
+          "reading": "けいえいじん"
+        },
+        {
+          "kanji": "役職名",
+          "reading": "やくしょくめい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "6つの組織形態と、それらを束ねる経営陣の役職名",
+        "vi": "6 hình thức tổ chức và chức danh quản lý",
+        "en": "6 Organizational Structures and Executive Titles"
+      },
+      "headers": {
+        "ja": [
+          "組織形態",
+          "経営陣の役職名"
+        ],
+        "vi": [
+          "Hình thức tổ chức",
+          "Chức danh quản lý"
+        ],
+        "en": [
+          "Organizational Structure",
+          "Executive Title"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "(1) 職能別組織",
+            "(1) CEO"
+          ],
+          "vi": [
+            "(1) Tổ chức theo chức năng",
+            "(1) CEO"
+          ],
+          "en": [
+            "(1) Functional Organization",
+            "(1) CEO"
+          ]
+        },
+        {
+          "ja": [
+            "(2) 事業部制組織",
+            "(2) CIO"
+          ],
+          "vi": [
+            "(2) Tổ chức theo bộ phận kinh doanh",
+            "(2) CIO"
+          ],
+          "en": [
+            "(2) Divisional Organization",
+            "(2) CIO"
+          ]
+        },
+        {
+          "ja": [
+            "(3) マトリックス組織",
+            "(3) CTO"
+          ],
+          "vi": [
+            "(3) Tổ chức ma trận",
+            "(3) CTO"
+          ],
+          "en": [
+            "(3) Matrix Organization",
+            "(3) CTO"
+          ]
+        },
+        {
+          "ja": [
+            "(4) プロジェクト組織",
+            ""
+          ],
+          "vi": [
+            "(4) Tổ chức dự án",
+            ""
+          ],
+          "en": [
+            "(4) Project Organization",
+            ""
+          ]
+        },
+        {
+          "ja": [
+            "(5) カンパニー制組織",
+            ""
+          ],
+          "vi": [
+            "(5) Tổ chức theo công ty con",
+            ""
+          ],
+          "en": [
+            "(5) Company Organization",
+            ""
+          ]
+        },
+        {
+          "ja": [
+            "(6) 持株会社",
+            ""
+          ],
+          "vi": [
+            "(6) Công ty holdings",
+            ""
+          ],
+          "en": [
+            "(6) Holding Company",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "それぞれの特徴を押さえてみよう！",
+        "vi": "Hãy nắm bắt đặc điểm của từng loại!",
+        "en": "Let's understand the characteristics of each!",
+        "my": "တစ်ခုစီ၏ လက္ခဏာများကို နားလည်ကြစို့!",
+        "terms": [
+          {
+            "kanji": "特徴",
+            "reading": "とくちょう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "表の内容を覚える際は、各組織形態と役職名の特徴をセットで覚えましょう。",
+        "vi": "Khi ghi nhớ nội dung bảng, hãy nhớ đặc điểm của từng hình thức tổ chức cùng với chức danh.",
+        "en": "When memorizing the table content, remember the characteristics of each organizational structure along with the executive titles.",
+        "my": "ဇယားပါအကြောင်းအရာကို မှတ်သားသောအခါ အဖွဲ့အစည်းပုံစံတစ်ခုစီ၏ လက္ခဏာများကို ရာထူးအမည်များနှင့်အတူ မှတ်သားပါ။",
+        "terms": [
+          {
+            "kanji": "表",
+            "reading": "おもて"
+          },
+          {
+            "kanji": "内容",
+            "reading": "ないよう"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          },
+          {
+            "kanji": "際",
+            "reading": "きわ"
+          },
+          {
+            "kanji": "各組織形態",
+            "reading": "かくそしきけいたい"
+          },
+          {
+            "kanji": "役職名",
+            "reading": "やくしょくめい"
+          },
+          {
+            "kanji": "特徴",
+            "reading": "とくちょう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、ITパスポート試験では「カンパニー制組織」がよく出題されます。その他の組織形態は不正解選択肢としての登場が多いです。",
+      "vi": "Lưu ý rằng trong kỳ thi IT Passport, \"Tổ chức theo công ty con (Company Organization)\" thường được ra đề. Các hình thức tổ chức khác thường xuất hiện như đáp án sai.",
+      "en": "Note that in the IT Passport exam, \"Company Organization\" is frequently tested. Other organizational structures often appear as incorrect answer choices.",
+      "my": "IT Passport စာမေးပွဲတွင် \"Company Organization\" ကို မကြာခဏ မေးလေ့ရှိသည်ကို သတိပြုပါ။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "制組織",
+          "reading": "せいそしき"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "組織形態",
+          "reading": "そしきけいたい"
+        },
+        {
+          "kanji": "不正解選択肢",
+          "reading": "ふせいかいせんたくし"
+        },
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "経営組織",
+      "reading": "けいえいそしき",
+      "romaji": "Keiei Soshiki",
+      "vi": "Tổ chức kinh doanh",
+      "en": "Business Organization",
+      "my": "စီးပွားရေးအဖွဲ့အစည်း"
+    },
+    {
+      "kanji": "組織形態",
+      "reading": "そしきけいたい",
+      "romaji": "Soshiki Keitai",
+      "vi": "Hình thức tổ chức",
+      "en": "Organizational Structure",
+      "my": "အဖွဲ့အစည်းပုံစံ"
+    },
+    {
+      "kanji": "職能別組織",
+      "reading": "しょくのうべつそしき",
+      "romaji": "Shokunou Betsu Soshiki",
+      "vi": "Tổ chức theo chức năng",
+      "en": "Functional Organization",
+      "my": "လုပ်ဆောင်ချက်အလိုက်အဖွဲ့အစည်း"
+    },
+    {
+      "kanji": "カンパニー制組織",
+      "reading": "かんぱにーせいそしき",
+      "romaji": "Kanpanii Sei Soshiki",
+      "vi": "Tổ chức theo công ty con",
+      "en": "Company Organization",
+      "my": "ကုမ္ပဏီအဖွဲ့အစည်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "illustration": "organization_chart"
+  }
+}

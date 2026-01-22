@@ -1,0 +1,208 @@
+{
+    "page_id": 467,
+    "image": "p_0467.png",
+    "chapter": 12,
+    "section": "practice",
+    "page_number": 451,
+    "content": [
+        {
+            "type": "practice_question",
+            "id": "12-9",
+            "question": {
+                "ja": "OSS（Open Source Software）に関する次の記述のうち、適切なものだけを全て挙げたものはどれか。",
+                "vi": "Trong các mô tả sau về OSS (Phần mềm mã nguồn mở), những mô tả nào là phù hợp.",
+                "en": "Among following descriptions about OSS (Open Source Software), which are all appropriate ones."
+            },
+            "statements": [
+                {
+                    "id": "a",
+                    "text": {
+                        "ja": "個人だけではなく、企業や団体が開発したソフトウェアもある。",
+                        "vi": "Không chỉ cá nhân, cũng có phần mềm được phát triển bởi doanh nghiệp và tổ chức.",
+                        "en": "Not only individuals, but also software developed by companies and organizations exist."
+                    }
+                },
+                {
+                    "id": "b",
+                    "text": {
+                        "ja": "著作権が放棄されている。",
+                        "vi": "Bản quyền đã được từ bỏ.",
+                        "en": "Copyright is abandoned."
+                    }
+                },
+                {
+                    "id": "c",
+                    "text": {
+                        "ja": "入手したソフトウェアは、自由に再配布してもよい。",
+                        "vi": "Phần mềm có được có thể tự do phân phối lại.",
+                        "en": "Obtained software can be freely redistributed."
+                    }
+                }
+            ],
+            "choices": [
+                {
+                    "id": "ア",
+                    "text": {
+                        "ja": "a, b",
+                        "vi": "a, b",
+                        "en": "a, b"
+                    }
+                },
+                {
+                    "id": "イ",
+                    "text": {
+                        "ja": "a, b, c",
+                        "vi": "a, b, c",
+                        "en": "a, b, c"
+                    }
+                },
+                {
+                    "id": "ウ",
+                    "text": {
+                        "ja": "a, c",
+                        "vi": "a, c",
+                        "en": "a, c"
+                    }
+                },
+                {
+                    "id": "エ",
+                    "text": {
+                        "ja": "b, c",
+                        "vi": "b, c",
+                        "en": "b, c"
+                    }
+                }
+            ],
+            "source": "令和7年"
+        },
+        {
+            "type": "practice_question",
+            "id": "12-10",
+            "question": {
+                "ja": "次のOSのうち、OSS（Open Source Software）として提供されるものだけを全て挙げたものはどれか。",
+                "vi": "Trong các OS sau, những OS nào được cung cấp dưới dạng OSS (Phần mềm mã nguồn mở).",
+                "en": "Among following OS, which are all provided as OSS (Open Source Software)."
+            },
+            "statements": [
+                {
+                    "id": "a",
+                    "text": {
+                        "ja": "Android",
+                        "vi": "Android",
+                        "en": "Android"
+                    }
+                },
+                {
+                    "id": "b",
+                    "text": {
+                        "ja": "FreeBSD",
+                        "vi": "FreeBSD",
+                        "en": "FreeBSD"
+                    }
+                },
+                {
+                    "id": "c",
+                    "text": {
+                        "ja": "iOS",
+                        "vi": "iOS",
+                        "en": "iOS"
+                    }
+                },
+                {
+                    "id": "d",
+                    "text": {
+                        "ja": "Linux",
+                        "vi": "Linux",
+                        "en": "Linux"
+                    }
+                }
+            ],
+            "choices": [
+                {
+                    "id": "ア",
+                    "text": {
+                        "ja": "a, b",
+                        "vi": "a, b",
+                        "en": "a, b"
+                    }
+                },
+                {
+                    "id": "イ",
+                    "text": {
+                        "ja": "a, b, d",
+                        "vi": "a, b, d",
+                        "en": "a, b, d"
+                    }
+                },
+                {
+                    "id": "ウ",
+                    "text": {
+                        "ja": "b, d",
+                        "vi": "b, d",
+                        "en": "b, d"
+                    }
+                },
+                {
+                    "id": "エ",
+                    "text": {
+                        "ja": "c, d",
+                        "vi": "c, d",
+                        "en": "c, d"
+                    }
+                }
+            ],
+            "source": "令和6年"
+        },
+        {
+            "type": "answer_header",
+            "title": {
+                "ja": "解答・解説",
+                "vi": "Đáp án và Giải thích",
+                "en": "Answers and Explanations"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "12-1",
+            "answer": "エ",
+            "explanation": {
+                "ja": "複数の作業を短い順に切り替えて、あたかも同時に実行しているように見せる機能のことを「マルチタスク」といいます。",
+                "vi": "Chức năng chuyển đổi nhiều tác vụ theo thứ tự ngắn và làm cho chúng dường như chạy đồng thời được gọi là \"Đa nhiệm (Multitask)\".",
+                "en": "Function that switches multiple tasks in short order and makes them appear to run simultaneously is called 'Multitask.'"
+            },
+            "wrong_choices": [
+                {
+                    "id": "ア",
+                    "text": {
+                        "ja": "仮想現実（Virtual Reality：VR）とは、実際にはない空間を、コンピュータを使ってあたかも実在するように見せかける技術です。",
+                        "vi": "Thực tế ảo (Virtual Reality: VR) là công nghệ sử dụng máy tính để làm cho không gian không tồn tại thực tế dường như tồn tại.",
+                        "en": "Virtual Reality (VR) is technology using computer to make non-existent space appear to exist."
+                    }
+                },
+                {
+                    "id": "イ",
+                    "text": {
+                        "ja": "デュアルコア（デュアルコアプロセッサ：p.400）とは、内部に2つの処理装置を持つCPUです。",
+                        "vi": "Dual Core (Bộ xử lý lõi kép: trang 400) là CPU có 2 bộ xử lý bên trong.",
+                        "en": "Dual Core (dual core processor: p.400) is CPU with 2 processing units inside."
+                    }
+                },
+                {
+                    "id": "ウ",
+                    "text": {
+                        "ja": "デュアルシステム（p.376）とは、2つのシステムが同じ処理を行い、結果を照合して正しいことを確認するシステムです。",
+                        "vi": "Dual System (trang 376) là hệ thống 2 hệ thống thực hiện cùng một xử lý và đối chiếu kết quả để xác nhận đúng.",
+                        "en": "Dual System (p.376) is system where 2 systems perform same processing and verify correctness by comparing results."
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "is_practice_page": true,
+        "answers": {
+            "12-9": "ウ",
+            "12-10": "イ"
+        }
+    }
+}

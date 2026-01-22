@@ -1,0 +1,179 @@
+{
+  "page_id": 567,
+  "image": "p_0567.png",
+  "chapter": 15,
+  "section": "15-05",
+  "page_number": 551,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "デジタル署名",
+        "vi": "Chữ ký số",
+        "en": "Digital Signature"
+      },
+      "steps": [
+        {
+          "number": 1,
+          "ja": "まず太郎くんが「好き」と書いたメッセージを、ハッシュ関数を使ってダイジェストにする",
+          "vi": "Đầu tiên Taro chuyển tin nhắn \"thích\" thành digest bằng hàm băm",
+          "en": "First Taro converts message 'like' to digest using hash function"
+        },
+        {
+          "number": 2,
+          "ja": "このダイジェストを、「太郎の秘密鍵」を使って暗号化し、「署名」を作る",
+          "vi": "Mã hóa digest này bằng \"khóa bí mật của Taro\" để tạo \"chữ ký\"",
+          "en": "Encrypt this digest with 'Taro's private key' to create 'signature'"
+        },
+        {
+          "number": 3,
+          "ja": "太郎くんが、「好き」というメッセージに署名を付けて花子さんに送信する",
+          "vi": "Taro gửi tin nhắn \"thích\" kèm chữ ký cho Hanako",
+          "en": "Taro sends message 'like' with signature to Hanako"
+        },
+        {
+          "number": 4,
+          "ja": "花子さんは、「好き」と書かれたメッセージを、ハッシュ関数を使ってダイジェストにする",
+          "vi": "Hanako chuyển tin nhắn \"thích\" thành digest bằng hàm băm",
+          "en": "Hanako converts message 'like' to digest using hash function"
+        },
+        {
+          "number": 5,
+          "ja": "また、メッセージについてきた署名を「太郎の公開鍵」を使って復号し、ダイジェストにする",
+          "vi": "Ngoài ra, giải mã chữ ký đi kèm tin nhắn bằng \"khóa công khai của Taro\" để thành digest",
+          "en": "Also, decrypt attached signature with 'Taro's public key' to get digest"
+        },
+        {
+          "number": 6,
+          "ja": "最後に、2つのダイジェストを比較して同じであれば太郎くんが送ったメッセージであると証明される",
+          "vi": "Cuối cùng, so sánh 2 digest nếu giống nhau thì chứng minh tin nhắn được gửi từ Taro",
+          "en": "Finally, if comparing 2 digests and they match, proves message was sent by Taro"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "ハッシュ関数とダイジェスト",
+        "vi": "Hàm băm và Digest",
+        "en": "Hash Function and Digest",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ハッシュ関数とは、文字列を入力すると、一定の長さの値を出力する関数です。また、ダイジェストとは、ハッシュ関数によって出力される値です。",
+        "vi": "Hàm băm là hàm xuất ra giá trị có độ dài cố định khi nhập chuỗi ký tự. Ngoài ra, Digest là giá trị được xuất ra bởi hàm băm.",
+        "en": "Hash function is function outputting fixed-length value when inputting character string. Also, Digest is value output by hash function."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、デジタル署名の技術を利用すると、文章の作成者（文章を暗号化した人）を特定できるため、公開鍵暗号方式の欠点であった「なりすまし」を検知できます。また、データの通信途中で「好き」というメッセージを「嫌い」に書き換えると、ダイジェストはまったく異なる値になるため、検証の際に「改ざん」を検知できます。",
+      "vi": "Như vậy, khi sử dụng công nghệ chữ ký số, có thể xác định người tạo văn bản (người đã mã hóa văn bản), vì vậy có thể phát hiện \"giả mạo\" vốn là nhược điểm của phương thức mã hóa khóa công khai. Ngoài ra, nếu tin nhắn \"thích\" bị thay đổi thành \"ghét\" trong quá trình truyền dữ liệu, digest sẽ hoàn toàn khác, vì vậy có thể phát hiện \"sửa đổi\" khi kiểm tra.",
+      "en": "Thus, using Digital Signature technology, can identify text creator (person who encrypted), so can detect 'impersonation' which was Public Key Encryption's disadvantage. Also, if message 'like' is changed to 'hate' during data transmission, digest becomes completely different value, so can detect 'falsification' during verification.",
+      "terms": [
+        {
+          "kanji": "署名",
+          "reading": "しょめい"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "作成者",
+          "reading": "さくせいしゃ"
+        },
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "公開鍵暗号方式",
+          "reading": "こうかいかぎあんごうほうしき"
+        },
+        {
+          "kanji": "欠点",
+          "reading": "けってん"
+        },
+        {
+          "kanji": "検知",
+          "reading": "けんち"
+        },
+        {
+          "kanji": "通信途中",
+          "reading": "つうしんとちゅう"
+        },
+        {
+          "kanji": "好",
+          "reading": "こう"
+        },
+        {
+          "kanji": "嫌",
+          "reading": "いや"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "換",
+          "reading": "かん"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "検証",
+          "reading": "けんしょう"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "改",
+          "reading": "かい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ハッシュ関数",
+      "vi": "Hàm băm",
+      "en": "Hash Function",
+      "my": "ဟက်ရှ် လုပ်ဆောင်ချက်"
+    },
+    {
+      "term": "ダイジェスト",
+      "vi": "Digest (Giá trị băm)",
+      "en": "Digest (Hash Value)",
+      "my": "ဒိုက်ဂျက်စ် (ဟက်ရှ်တန်ဖိုး)"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

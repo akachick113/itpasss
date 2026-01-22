@@ -1,0 +1,472 @@
+{
+  "page_id": 19,
+  "image": "p_0019.png",
+  "chapter": 0,
+  "section": "00-01",
+  "page_number": 3,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "このことからも、ITパスポート試験が、IT企業に勤める専門的なエンジニアだけでなく、広く社会人全般・学生全般に向けた国家試験であることがわかります。",
+      "vi": "Từ đây có thể thấy, kỳ thi IT Passport không chỉ dành cho các kỹ sư chuyên nghiệp làm việc tại các công ty IT, mà còn là kỳ thi quốc gia hướng đến tất cả người đi làm và sinh viên nói chung.",
+      "en": "From this, we can see that the IT Passport exam is a national examination aimed not only at professional engineers working at IT companies, but also at all working professionals and students in general.",
+      "my": "ဤအချက်မှ IT Passport စာမေးပွဲသည် IT ကုမ္ပဏီများတွင် အလုပ်လုပ်သော အင်ဂျင်နီယာများအတွက်သာမက အလုပ်သမားများနှင့် ကျောင်းသားများအားလုံးအတွက် ရည်ရွယ်သည်ကို သိနိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "勤",
+          "reading": "つとむ"
+        },
+        {
+          "kanji": "専門的",
+          "reading": "せんもんてき"
+        },
+        {
+          "kanji": "広",
+          "reading": "ひろ"
+        },
+        {
+          "kanji": "社会人全般",
+          "reading": "しゃかいじんぜんぱん"
+        },
+        {
+          "kanji": "学生全般",
+          "reading": "がくせいぜんぱん"
+        },
+        {
+          "kanji": "向",
+          "reading": "こう"
+        },
+        {
+          "kanji": "国家試験",
+          "reading": "こっかしけん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "経済産業省がITパスポート試験を実施する目的は、この試験の学習を通じて、すべての受験者に、現代社会で活躍するために必要なITの基礎知識を身に付けてもらうことです。",
+      "vi": "Mục đích của Bộ Kinh tế, Thương mại và Công nghiệp khi tổ chức kỳ thi IT Passport là thông qua việc học tập cho kỳ thi này, giúp tất cả thí sinh trang bị kiến thức cơ bản về IT cần thiết để hoạt động trong xã hội hiện đại.",
+      "en": "The purpose of the Ministry of Economy, Trade and Industry conducting the IT Passport exam is to help all examinees acquire the basic IT knowledge necessary to be active in modern society through studying for this exam.",
+      "my": "စီးပွားရေးနှင့်စက်မှုဝန်ကြီးဌာန IT Passport စာမေးပွဲကျင်းပရခြင်း၏ ရည်ရွယ်ချက်မှာ ဤစာမေးပွဲအတွက် လေ့လာခြင်းမှတစ်ဆင့် စာမေးပွဲဝင်သူအားလုံးကို ခေတ်သစ်လူ့အဖွဲ့အစည်းတွင် လှုပ်ရှားနိုင်ရန် လိုအပ်သော IT အခြေခံဗဟုသုတများ ရရှိစေရန်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "経済産業省",
+          "reading": "けいざいさんぎょうしょう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "実施",
+          "reading": "じっし"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        },
+        {
+          "kanji": "受験者",
+          "reading": "じゅけんしゃ"
+        },
+        {
+          "kanji": "現代社会",
+          "reading": "げんだいしゃかい"
+        },
+        {
+          "kanji": "活躍",
+          "reading": "かつやく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "基礎知識",
+          "reading": "きそちしき"
+        },
+        {
+          "kanji": "身",
+          "reading": "み"
+        },
+        {
+          "kanji": "付",
+          "reading": "つき"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ITパスポート試験の概要",
+      "reading": "ITぱすぽーとしけんのがいよう",
+      "vi": "Tổng quan kỳ thi IT Passport",
+      "en": "IT Passport Exam Overview",
+      "my": "IT Passport စာမေးပွဲအကျဉ်းချုပ်"
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "ITパスポート試験の概要",
+        "vi": "Tổng quan kỳ thi IT Passport",
+        "en": "IT Passport Exam Overview"
+      },
+      "headers": {
+        "ja": [
+          "概要",
+          "説明"
+        ],
+        "vi": [
+          "Mục",
+          "Mô tả"
+        ],
+        "en": [
+          "Item",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "受験資格",
+            "なし（誰でも受験可能）"
+          ],
+          "vi": [
+            "Điều kiện dự thi",
+            "Không có (Ai cũng có thể thi)"
+          ],
+          "en": [
+            "Eligibility",
+            "None (Anyone can take the exam)"
+          ]
+        },
+        {
+          "ja": [
+            "受験料",
+            "7,500円（税込）"
+          ],
+          "vi": [
+            "Lệ phí thi",
+            "7,500 yên (đã bao gồm thuế)"
+          ],
+          "en": [
+            "Exam Fee",
+            "7,500 yen (tax included)"
+          ]
+        },
+        {
+          "ja": [
+            "試験会場",
+            "全国47都道府県の100箇所以上の会場"
+          ],
+          "vi": [
+            "Địa điểm thi",
+            "Hơn 100 địa điểm tại 47 tỉnh thành trên toàn Nhật Bản"
+          ],
+          "en": [
+            "Exam Venues",
+            "Over 100 venues in all 47 prefectures nationwide"
+          ]
+        },
+        {
+          "ja": [
+            "実施時期",
+            "随時（受験可能日は試験会場によって異なる）"
+          ],
+          "vi": [
+            "Thời gian thi",
+            "Bất kỳ lúc nào (Ngày thi có thể khác nhau tùy địa điểm)"
+          ],
+          "en": [
+            "Schedule",
+            "Anytime (Available dates vary by venue)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "ITパスポート試験の受験案内と合格基準",
+        "vi": "Hướng dẫn thi và Tiêu chuẩn đỗ kỳ thi IT Passport",
+        "en": "IT Passport Exam Guide and Passing Criteria"
+      },
+      "headers": {
+        "ja": [
+          "試験内容",
+          "説明"
+        ],
+        "vi": [
+          "Nội dung thi",
+          "Mô tả"
+        ],
+        "en": [
+          "Exam Content",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "試験形式",
+            "CBT方式（コンピュータを使った試験）"
+          ],
+          "vi": [
+            "Hình thức thi",
+            "CBT (Thi trên máy tính)"
+          ],
+          "en": [
+            "Format",
+            "CBT (Computer Based Testing)"
+          ]
+        },
+        {
+          "ja": [
+            "試験時間",
+            "120分"
+          ],
+          "vi": [
+            "Thời gian thi",
+            "120 phút"
+          ],
+          "en": [
+            "Duration",
+            "120 minutes"
+          ]
+        },
+        {
+          "ja": [
+            "出題数",
+            "100問"
+          ],
+          "vi": [
+            "Số câu hỏi",
+            "100 câu"
+          ],
+          "en": [
+            "Questions",
+            "100 questions"
+          ]
+        },
+        {
+          "ja": [
+            "出題形式",
+            "四肢択一式（4つの選択肢から正解を1つ選ぶ）"
+          ],
+          "vi": [
+            "Dạng đề",
+            "Trắc nghiệm 4 lựa chọn (Chọn 1 đáp án đúng từ 4 lựa chọn)"
+          ],
+          "en": [
+            "Question Type",
+            "Multiple choice (Select 1 correct answer from 4 options)"
+          ]
+        },
+        {
+          "ja": [
+            "合格基準",
+            "全体で60%以上に正解すること + 各分野でそれぞれ30%以上に正解すること"
+          ],
+          "vi": [
+            "Tiêu chuẩn đỗ",
+            "Đạt 60% trở lên tổng thể + Đạt 30% trở lên ở mỗi lĩnh vực"
+          ],
+          "en": [
+            "Passing Criteria",
+            "Score 60% or higher overall + Score 30% or higher in each field"
+          ]
+        },
+        {
+          "ja": [
+            "合格率",
+            "50.7%"
+          ],
+          "vi": [
+            "Tỉ lệ đỗ",
+            "50.7%"
+          ],
+          "en": [
+            "Pass Rate",
+            "50.7%"
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "社会人",
+      "reading": "しゃかいじん",
+      "romaji": "Shakaijin",
+      "vi": "Người đi làm",
+      "en": "Working Professional",
+      "my": "အလုပ်သမား"
+    },
+    {
+      "kanji": "学生",
+      "reading": "がくせい",
+      "romaji": "Gakusei",
+      "vi": "Sinh viên",
+      "en": "Student",
+      "my": "ကျောင်းသား"
+    },
+    {
+      "kanji": "国家試験",
+      "reading": "こっかしけん",
+      "romaji": "Kokka Shiken",
+      "vi": "Kỳ thi quốc gia",
+      "en": "National Examination",
+      "my": "အမျိုးသားစာမေးပွဲ"
+    },
+    {
+      "kanji": "経済産業省",
+      "reading": "けいざいさんぎょうしょう",
+      "romaji": "Keizai Sangyoushou",
+      "vi": "Bộ Kinh tế, Thương mại và Công nghiệp",
+      "en": "Ministry of Economy, Trade and Industry",
+      "my": "စီးပွားရေးနှင့်စက်မှုဝန်ကြီးဌာန"
+    },
+    {
+      "kanji": "受験者",
+      "reading": "じゅけんしゃ",
+      "romaji": "Jukensha",
+      "vi": "Thí sinh",
+      "en": "Examinee",
+      "my": "စာမေးပွဲဝင်သူ"
+    },
+    {
+      "kanji": "基礎知識",
+      "reading": "きそちしき",
+      "romaji": "Kiso Chishiki",
+      "vi": "Kiến thức cơ bản",
+      "en": "Basic Knowledge",
+      "my": "အခြေခံဗဟုသုတ"
+    },
+    {
+      "kanji": "受験資格",
+      "reading": "じゅけんしかく",
+      "romaji": "Juken Shikaku",
+      "vi": "Điều kiện dự thi",
+      "en": "Exam Eligibility",
+      "my": "စာမေးပွဲဝင်ခွင့်"
+    },
+    {
+      "kanji": "試験会場",
+      "reading": "しけんかいじょう",
+      "romaji": "Shiken Kaijou",
+      "vi": "Địa điểm thi",
+      "en": "Exam Venue",
+      "my": "စာမေးပွဲခန်း"
+    },
+    {
+      "kanji": "四肢択一式",
+      "reading": "ししたくいつしき",
+      "romaji": "Shishi Takuitsu Shiki",
+      "vi": "Trắc nghiệm 4 lựa chọn",
+      "en": "Four-choice Multiple Choice",
+      "my": "လေးရွေးချယ်စရာမေးခွန်း"
+    },
+    {
+      "kanji": "合格基準",
+      "reading": "ごうかくきじゅん",
+      "romaji": "Goukaku Kijun",
+      "vi": "Tiêu chuẩn đỗ",
+      "en": "Passing Criteria",
+      "my": "အောင်မြင်မှုစံနှုန်း"
+    },
+    {
+      "kanji": "企業",
+      "reading": "きぎょう",
+      "romaji": "Kigyou",
+      "vi": "Doanh nghiệp",
+      "en": "Company",
+      "my": "ကုမ္ပဏီ"
+    },
+    {
+      "kanji": "専門的",
+      "reading": "せんもんてき",
+      "romaji": "Senmonteki",
+      "vi": "Chuyên môn",
+      "en": "Professional/Specialized",
+      "my": "ကျွမ်းကျင်သော"
+    },
+    {
+      "kanji": "全般",
+      "reading": "ぜんぱん",
+      "romaji": "Zenpan",
+      "vi": "Nói chung, toàn bộ",
+      "en": "In general",
+      "my": "ယေဘုယျ"
+    },
+    {
+      "kanji": "実施",
+      "reading": "じっし",
+      "romaji": "Jisshi",
+      "vi": "Thực hiện",
+      "en": "Implementation",
+      "my": "အကောင်အထည်ဖော်ခြင်း"
+    },
+    {
+      "kanji": "目的",
+      "reading": "もくてき",
+      "romaji": "Mokuteki",
+      "vi": "Mục đích",
+      "en": "Purpose",
+      "my": "ရည်ရွယ်ချက်"
+    },
+    {
+      "kanji": "学習",
+      "reading": "がくしゅう",
+      "romaji": "Gakushuu",
+      "vi": "Học tập",
+      "en": "Study/Learning",
+      "my": "လေ့လာခြင်း"
+    },
+    {
+      "kanji": "現代社会",
+      "reading": "げんだいしゃかい",
+      "romaji": "Gendai Shakai",
+      "vi": "Xã hội hiện đại",
+      "en": "Modern Society",
+      "my": "ခေတ်သစ်လူ့အဖွဲ့အစည်း"
+    },
+    {
+      "kanji": "活躍",
+      "reading": "かつやく",
+      "romaji": "Katsuyaku",
+      "vi": "Hoạt động, đóng góp",
+      "en": "Active/Contributing",
+      "my": "တက်ကြွစွာလှုပ်ရှားခြင်း"
+    },
+    {
+      "kanji": "必要",
+      "reading": "ひつよう",
+      "romaji": "Hitsuyou",
+      "vi": "Cần thiết",
+      "en": "Necessary",
+      "my": "လိုအပ်သော"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": false,
+    "tables_count": 2
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "page_id": 348,
+  "image": "p_0348.png",
+  "chapter": 9,
+  "section": "09-04",
+  "page_number": 332,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "09-04",
+      "title": {
+        "ja": "データ構造",
+        "vi": "Cấu trúc Dữ liệu",
+        "en": "Data Structures"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "パンくずで家に帰れる",
+        "vi": "Về nhà bằng vụn bánh mì",
+        "en": "Return Home with Breadcrumbs"
+      },
+      "content": {
+        "ja": "コンピュータは迷路のように複雑に分岐した処理を行います。しかしながらコンピュータが処理の途中で迷子になることはありません。これはデータの並べ方を工夫しているからです。",
+        "vi": "Máy tính thực hiện xử lý phân nhánh phức tạp như mê cung. Tuy nhiên máy tính không bị lạc giữa chừng xử lý. Đây là vì cách sắp xếp dữ liệu được thiết kế.",
+        "en": "Computers perform complex branching processing like mazes. However computers don't get lost mid-processing. This is because data arrangement is designed."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "コンピュータが扱う情報のことを「データ」といいます。データは、コンピュータ内にある「メモリ」と呼ばれる記憶装置に保存されます（p.406）。",
+      "vi": "Thông tin mà máy tính xử lý gọi là \"dữ liệu\". Dữ liệu được lưu trong thiết bị lưu trữ gọi là \"memory\" trong máy tính (trang 406).",
+      "en": "Information computer handles is called 'data.' Data is stored in storage device called 'memory' in computer (p.406).",
+      "terms": [
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "記憶装置",
+          "reading": "きおくそうち"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "データをメモリ上に並べる方法は1つではありません。データの並べ方によってコンピュータの処理効率が変わるため、処理の内容などに応じて最適な方法でデータを並べます。このメモリ上のデータの並べ方のことを「データ構造」といいます。",
+      "vi": "Cách sắp xếp dữ liệu trên memory không chỉ có một. Vì hiệu suất xử lý máy tính thay đổi theo cách sắp xếp dữ liệu, nên dữ liệu được sắp xếp theo cách tối ưu tùy theo nội dung xử lý. Cách sắp xếp dữ liệu trên memory này gọi là \"Cấu trúc dữ liệu\".",
+      "en": "There's not just one way to arrange data on memory. Since computer processing efficiency changes by data arrangement, data is arranged optimally according to processing content. This way of arranging data on memory is called 'Data Structure.'",
+      "terms": [
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "並",
+          "reading": "なみ"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "方",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "処理効率",
+          "reading": "しょりこうりつ"
+        },
+        {
+          "kanji": "変",
+          "reading": "へん"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "応",
+          "reading": "おう"
+        },
+        {
+          "kanji": "最適",
+          "reading": "さいてき"
+        },
+        {
+          "kanji": "構造",
+          "reading": "こうぞう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "スタックとキュー",
+      "reading": "すたっくときゅー",
+      "vi": "Stack và Queue",
+      "en": "Stack and Queue",
+      "note": "重要！必ずチェック！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "データ構造にはさまざまな種類がありますが、ITパスポート試験では主に「スタック」と「キュー」の2種類のデータ構造が出題されます。",
+      "vi": "Cấu trúc dữ liệu có nhiều loại, nhưng trong kỳ thi IT Passport chủ yếu ra đề 2 loại \"Stack\" và \"Queue\".",
+      "en": "There are various types of data structures, but IT Passport exam mainly tests 2 types: 'Stack' and 'Queue.'",
+      "terms": [
+        {
+          "kanji": "構造",
+          "reading": "こうぞう"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "スタック",
+      "reading": "すたっく",
+      "vi": "Stack",
+      "en": "Stack"
+    },
+    {
+      "type": "paragraph",
+      "ja": "スタックとは、データを1列に並べて、最後に格納したデータを最初に取り出すデータ構造です。イメージとしては「積み上げられた本」です。一冊一冊の本がデータです。本を積み上げるときは上へ上へと重ねます。反対に、積み上げられた本の中から本を手に取る場合は、最上の順番で取ります。途中にある本を",
+      "vi": "Stack là cấu trúc dữ liệu sắp dữ liệu thành 1 hàng, lấy ra dữ liệu được lưu cuối cùng trước tiên. Hình ảnh là \"sách chồng lên\". Mỗi cuốn sách là dữ liệu. Khi chồng sách thì chồng lên trên. Ngược lại, khi lấy sách từ chồng sách, lấy theo thứ tự từ trên xuống. Sách ở giữa",
+      "en": "Stack is data structure arranging data in 1 row, retrieving last stored data first. Image is 'stacked books.' Each book is data. When stacking books, stack upward. Conversely, when taking book from stack, take from top. Books in middle",
+      "terms": [
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "並",
+          "reading": "なみ"
+        },
+        {
+          "kanji": "最後",
+          "reading": "さいご"
+        },
+        {
+          "kanji": "格納",
+          "reading": "かくのう"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "構造",
+          "reading": "こうぞう"
+        },
+        {
+          "kanji": "積",
+          "reading": "せき"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "本",
+          "reading": "ほん"
+        },
+        {
+          "kanji": "一冊一冊",
+          "reading": "いっさついっさつ"
+        },
+        {
+          "kanji": "重",
+          "reading": "じゅう"
+        },
+        {
+          "kanji": "反対",
+          "reading": "はんたい"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "手",
+          "reading": "て"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "最上",
+          "reading": "さいじょう"
+        },
+        {
+          "kanji": "順番",
+          "reading": "じゅんばん"
+        },
+        {
+          "kanji": "途中",
+          "reading": "とちゅう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "データ構造",
+      "reading": "でーたこうぞう",
+      "romaji": "Data Kouzou",
+      "vi": "Cấu trúc dữ liệu",
+      "en": "Data Structure",
+      "my": "ဒေတာ ဖွဲစည်းပုံ"
+    },
+    {
+      "term": "スタック",
+      "romaji": "Stack",
+      "vi": "Stack (LIFO)",
+      "en": "Stack (LIFO)",
+      "my": "စတက်"
+    },
+    {
+      "term": "キュー",
+      "romaji": "Queue",
+      "vi": "Queue (FIFO)",
+      "en": "Queue (FIFO)",
+      "my": "ကျူး"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

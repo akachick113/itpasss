@@ -1,0 +1,371 @@
+{
+  "page_id": 98,
+  "image": "p_0098.png",
+  "chapter": 2,
+  "section": "02-05",
+  "page_number": 82,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "個人情報を取り扱う企業のことを、個人情報取扱事業者という",
+        "vi": "Doanh nghiệp xử lý thông tin cá nhân được gọi là Nhà xử lý thông tin cá nhân",
+        "en": "Companies handling personal information are called Personal Information Handlers",
+        "my": "ကိုယ်ရေးအချက်အလက်ကို ကိုင်တွယ်သော ကုမ္ပဏီများကို Personal Information Handlers ဟုခေါ်သည်",
+        "terms": [
+          {
+            "kanji": "個人情報",
+            "reading": "こじんじょうほう"
+          },
+          {
+            "kanji": "取",
+            "reading": "しゅ"
+          },
+          {
+            "kanji": "扱",
+            "reading": "きゅう"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "個人情報取扱事業者",
+            "reading": "こじんじょうほうとりあつかいじぎょうしゃ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "個人情報の取り扱い方",
+      "reading": "こじんじょうほうのとりあつかいかた",
+      "vi": "Cách xử lý thông tin cá nhân",
+      "en": "How to Handle Personal Information",
+      "my": "ကိုယ်ရေးအချက်အလက် ကိုင်တွယ်နည်း"
+    },
+    {
+      "type": "paragraph",
+      "ja": "続いて、個人情報は「どのように取り扱うべきか」について説明します。ITパスポート試験で問われる主なルールは次の2つです。\n\n1. 個人情報を目的以外のことに使わない\n2. 個人情報を本人の同意なしに第三者に提供しない\n\nなお、上記にある「第三者」には、グループ会社の親会社や子会社も含まれます。つまり、グループ会社であっても、個人情報を共有することは禁止されています。\n\n一方で、業務委託先は第三者にはあたりません。このため、データ入力や商品配送など外部の業者に依頼している場合に、必要な個人情報を提供することは法違反ではありません。ただし、業務委託先に渡した個人情報が加わりに管理されれば、個人情報取扱事業者には業務委託先を監督する義務があります。\n\nまた、状況によっては「本人の同意が必要のないケース」もあります。そして、ITパスポート試験ではむしろこちらのほうが頻出です。上記の2点とともに、次の4つのケース（本人の同意なく個人情報を第三者に提供しても良いケース）も覚えておいてください。\n\n1. 法令に基づく場合（警察、裁判所、税務署等からの照会）\n2. 生命・身体・財産の保護に必要な場合\n3. 児童虐待のおそれがある場合\n4. 学術研究目的の場合",
+      "vi": "Tiếp theo sẽ giải thích cách xử lý thông tin cá nhân. 2 quy tắc chính được hỏi trong IT Passport:\n\n1. Không sử dụng thông tin cá nhân ngoài mục đích\n2. Không cung cấp thông tin cá nhân cho bên thứ ba mà không có sự đồng ý của chủ thể\n\nLưu ý, bên thứ ba bao gồm công ty mẹ và công ty con trong cùng tập đoàn. Nghĩa là, ngay cả công ty trong tập đoàn cũng bị cấm chia sẻ thông tin cá nhân.\n\nMặt khác, bên nhận ủy thác không phải là bên thứ ba. Do đó, khi ủy thác nhập liệu hoặc giao hàng cho bên ngoài, việc cung cấp thông tin cá nhân cần thiết không vi phạm. Tuy nhiên, nếu thông tin cá nhân được chuyển cho bên ủy thác, nhà xử lý có nghĩa vụ giám sát bên ủy thác.\n\nNgoài ra, có trường hợp không cần sự đồng ý của chủ thể. Và trong IT Passport, những trường hợp này thường được ra đề hơn. Cùng với 2 điểm trên, hãy nhớ 4 trường hợp (có thể cung cấp thông tin cá nhân cho bên thứ ba mà không cần đồng ý):\n\n1. Theo quy định pháp luật (yêu cầu từ cảnh sát, tòa án, cơ quan thuế)\n2. Cần thiết để bảo vệ sinh mạng, thân thể, tài sản\n3. Có nguy cơ lạm dụng trẻ em\n4. Mục đích nghiên cứu học thuật",
+      "en": "Next, we'll explain how to handle personal information. The 2 main rules tested on IT Passport:\n\n1. Don't use personal information for purposes other than intended\n2. Don't provide personal information to third parties without the person's consent\n\nNote that third parties include parent and subsidiary companies in the same group. So even group companies are prohibited from sharing personal information.\n\nOn the other hand, business outsourcing partners are not third parties. So providing necessary personal information when outsourcing data entry or delivery is not illegal. However, if personal information is transferred to outsourcing partners, handlers have a duty to supervise them.\n\nAlso, there are cases where consent is not required. IT Passport frequently tests these. Along with the 2 points above, remember these 4 cases (when personal information can be provided to third parties without consent):\n\n1. Based on laws (inquiries from police, courts, tax offices)\n2. Necessary to protect life, body, or property\n3. Risk of child abuse\n4. Academic research purposes",
+      "my": "ကိုယ်ရေးအချက်အလက် ကိုင်တွယ်နည်းကို ရှင်းပြပါမည်။",
+      "terms": [
+        {
+          "kanji": "続",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "個人情報",
+          "reading": "こじんじょうほう"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "説明",
+          "reading": "せつめい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "目的以外",
+          "reading": "もくてきいがい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "本人",
+          "reading": "ほんにん"
+        },
+        {
+          "kanji": "同意",
+          "reading": "どうい"
+        },
+        {
+          "kanji": "第三者",
+          "reading": "だいさんしゃ"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "kanji": "親会社",
+          "reading": "おやがいしゃ"
+        },
+        {
+          "kanji": "子会社",
+          "reading": "こがいしゃ"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "共有",
+          "reading": "きょうゆう"
+        },
+        {
+          "kanji": "禁止",
+          "reading": "きんし"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "業務委託先",
+          "reading": "ぎょうむいたくさき"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "商品配送",
+          "reading": "しょうひんはいそう"
+        },
+        {
+          "kanji": "外部",
+          "reading": "がいぶ"
+        },
+        {
+          "kanji": "業者",
+          "reading": "ぎょうしゃ"
+        },
+        {
+          "kanji": "依頼",
+          "reading": "いらい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "法違反",
+          "reading": "ほういはん"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        },
+        {
+          "kanji": "加",
+          "reading": "か"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "個人情報取扱事業者",
+          "reading": "こじんじょうほうとりあつかいじぎょうしゃ"
+        },
+        {
+          "kanji": "監督",
+          "reading": "かんとく"
+        },
+        {
+          "kanji": "義務",
+          "reading": "ぎむ"
+        },
+        {
+          "kanji": "状況",
+          "reading": "じょうきょう"
+        },
+        {
+          "kanji": "頻出",
+          "reading": "ひんしゅつ"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "法令",
+          "reading": "ほうれい"
+        },
+        {
+          "kanji": "基",
+          "reading": "もと"
+        },
+        {
+          "kanji": "警察",
+          "reading": "けいさつ"
+        },
+        {
+          "kanji": "裁判所",
+          "reading": "さいばんしょ"
+        },
+        {
+          "kanji": "税務署等",
+          "reading": "ぜいむしょなど"
+        },
+        {
+          "kanji": "照会",
+          "reading": "しょうかい"
+        },
+        {
+          "kanji": "生命",
+          "reading": "せいめい"
+        },
+        {
+          "kanji": "身体",
+          "reading": "しんたい"
+        },
+        {
+          "kanji": "財産",
+          "reading": "ざいさん"
+        },
+        {
+          "kanji": "保護",
+          "reading": "ほご"
+        },
+        {
+          "kanji": "児童虐待",
+          "reading": "じどうぎゃくたい"
+        },
+        {
+          "kanji": "学術研究目的",
+          "reading": "がくじゅつけんきゅうもくてき"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "生命の危険があるか否か",
+        "vi": "Có nguy hiểm đến tính mạng hay không",
+        "en": "Whether There's Danger to Life",
+        "my": "အသက်အန္တရာယ် ရှိ/မရှိ"
+      },
+      "content": {
+        "ja": "試験で迷ったときは「生命の危険があるか否か」で判断するとよいでしょう。生命の危険があるような緊急事態のときは、本人の同意がなくても個人情報を提供しても構いません。",
+        "vi": "Khi phân vân trong thi, hãy đánh giá bằng việc có nguy hiểm đến tính mạng hay không. Trong trường hợp khẩn cấp có nguy hiểm đến tính mạng, có thể cung cấp thông tin cá nhân mà không cần sự đồng ý.",
+        "en": "When unsure on exams, judge by whether there's danger to life. In emergencies with danger to life, personal information can be provided without consent.",
+        "my": "စာမေးပွဲတွင် မသေချာသောအခါ အသက်အန္တရာယ်ရှိ/မရှိ ဖြင့် ဆုံးဖြတ်ပါ။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "迷",
+            "reading": "めい"
+          },
+          {
+            "kanji": "生命",
+            "reading": "せいめい"
+          },
+          {
+            "kanji": "危険",
+            "reading": "きけん"
+          },
+          {
+            "kanji": "否",
+            "reading": "ひ"
+          },
+          {
+            "kanji": "判断",
+            "reading": "はんだん"
+          },
+          {
+            "kanji": "緊急事態",
+            "reading": "きんきゅうじたい"
+          },
+          {
+            "kanji": "本人",
+            "reading": "ほんにん"
+          },
+          {
+            "kanji": "同意",
+            "reading": "どうい"
+          },
+          {
+            "kanji": "個人情報",
+            "reading": "こじんじょうほう"
+          },
+          {
+            "kanji": "提供",
+            "reading": "ていきょう"
+          },
+          {
+            "kanji": "構",
+            "reading": "こう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "業務委託先",
+      "reading": "ぎょうむいたくさき",
+      "romaji": "Gyoumu Itaku Saki",
+      "vi": "Bên nhận ủy thác",
+      "en": "Business Outsourcing Partner",
+      "my": "လုပ်ငန်းအပ်နှံးမိတ်ဖက်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

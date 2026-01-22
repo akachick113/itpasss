@@ -1,0 +1,349 @@
+{
+  "page_id": 193,
+  "image": "p_0193.png",
+  "chapter": 5,
+  "section": "05-01",
+  "page_number": 177,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "次に（2）の「全体最適」です。全体最適の反対の言葉は「部分最適」です。部分最適とは、現場からの不満を吸い上げて、部門ごとにシステムを導入して効率化を図ることです。この部分最適を進めると、その部門の効率は改善しますが、企業全体としては、効率化とは反対に、非効率化が進むことがあります。なぜなら、その部門にとって都合の良いシステムが別の部門にとって都合が良いとは限らないからです。\n\nこのため、情報システム戦略を立案する際は、部分最適ではなく、常に全体最適を考えることが重要になります。\n\nそれから（3）の「経営戦略に基づいて」も重要です。情報システム戦略は、上位戦略である企業戦略と事業戦略にあった経営戦略に沿った内容であることが必要です。万が一、経営戦略と矛盾するような戦略を立ててしまうと、経営戦略と情報システム戦略が別の方向に進むことになり、ちぐはぐな企業活動になってしまいます。\n\n情報システム全体を最適化する具体的な手法が、次項で解説する「EA」です。",
+      "vi": "Tiếp theo là tối ưu hóa tổng thể trong (2). Từ ngược lại của tối ưu hóa tổng thể là tối ưu hóa bộ phận. Tối ưu hóa bộ phận là lắng nghe bất mãn từ hiện trường, đưa hệ thống vào từng bộ phận để cải thiện hiệu quả. Khi thúc đẩy tối ưu hóa bộ phận, hiệu quả của bộ phận đó cải thiện nhưng toàn doanh nghiệp có thể trở nên kém hiệu quả. Vì hệ thống thuận tiện cho bộ phận này không nhất thiết thuận tiện cho bộ phận khác.\n\nDo đó, khi lập chiến lược hệ thống thông tin, quan trọng là luôn xem xét tối ưu hóa tổng thể chứ không phải bộ phận.\n\nNgoài ra, dựa trên chiến lược kinh doanh trong (3) cũng quan trọng. Chiến lược hệ thống thông tin cần phù hợp với chiến lược kinh doanh phù hợp với chiến lược doanh nghiệp và chiến lược kinh doanh cấp cao. Nếu lập chiến lược mâu thuẫn với chiến lược kinh doanh, chiến lược kinh doanh và chiến lược hệ thống thông tin sẽ đi theo hướng khác nhau.\n\nPhương pháp cụ thể để tối ưu hóa toàn bộ hệ thống thông tin là EA được giải thích tiếp theo.",
+      "en": "Next is 'total optimization' in (2). The opposite of total optimization is 'partial optimization'. Partial optimization means collecting complaints from the field and introducing systems department by department for efficiency. Advancing partial optimization improves that department's efficiency, but the entire company may become less efficient. Because systems convenient for one department aren't necessarily convenient for another.\n\nTherefore, when formulating information system strategy, it's important to always consider total optimization, not partial.\n\nAlso, 'based on business strategy' in (3) is important. Information system strategy must align with business strategy that matches corporate and business strategies. If a strategy contradicting business strategy is created, business strategy and information system strategy will go in different directions.\n\nThe specific method for optimizing entire information systems is 'EA' explained next.",
+      "my": "နောက်တစ်ခုမှာ (2) ရှိ 'စုစုပေါင်း ပိုမိုကောင်းမွန်အောင်ပြုလုပ်ခြင်း' ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "全体最適",
+          "reading": "ぜんたいさいてき"
+        },
+        {
+          "kanji": "反対",
+          "reading": "はんたい"
+        },
+        {
+          "kanji": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "kanji": "部分最適",
+          "reading": "ぶぶんさいてき"
+        },
+        {
+          "kanji": "現場",
+          "reading": "げんば"
+        },
+        {
+          "kanji": "不満",
+          "reading": "ふまん"
+        },
+        {
+          "kanji": "吸",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "部門",
+          "reading": "ぶもん"
+        },
+        {
+          "kanji": "導入",
+          "reading": "どうにゅう"
+        },
+        {
+          "kanji": "効率化",
+          "reading": "こうりつか"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "効率",
+          "reading": "こうりつ"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "企業全体",
+          "reading": "きぎょうぜんたい"
+        },
+        {
+          "kanji": "非効率化",
+          "reading": "ひこうりつか"
+        },
+        {
+          "kanji": "都合",
+          "reading": "つごう"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "限",
+          "reading": "げん"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "戦略",
+          "reading": "せんりゃく"
+        },
+        {
+          "kanji": "立案",
+          "reading": "りつあん"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "経営戦略",
+          "reading": "けいえいせんりゃく"
+        },
+        {
+          "kanji": "基",
+          "reading": "もと"
+        },
+        {
+          "kanji": "上位戦略",
+          "reading": "じょういせんりゃく"
+        },
+        {
+          "kanji": "企業戦略",
+          "reading": "きぎょうせんりゃく"
+        },
+        {
+          "kanji": "事業戦略",
+          "reading": "じぎょうせんりゃく"
+        },
+        {
+          "kanji": "沿",
+          "reading": "えん"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "万",
+          "reading": "まん"
+        },
+        {
+          "kanji": "一",
+          "reading": "いち"
+        },
+        {
+          "kanji": "矛盾",
+          "reading": "むじゅん"
+        },
+        {
+          "kanji": "立",
+          "reading": "りつ"
+        },
+        {
+          "kanji": "方向",
+          "reading": "ほうこう"
+        },
+        {
+          "kanji": "企業活動",
+          "reading": "きぎょうかつどう"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "最適化",
+          "reading": "さいてきか"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "次項",
+          "reading": "じこう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "EA（エンタープライズアーキテクチャ）",
+      "reading": "いーえー（えんたーぷらいずあーきてくちゃ）",
+      "vi": "EA (Enterprise Architecture)",
+      "en": "EA (Enterprise Architecture)"
+    },
+    {
+      "type": "paragraph",
+      "ja": "EA（Enterprise Architecture：エンタープライズアーキテクチャ）とは、企業や政府など、大きな組織の情報システムを最適化するための手法です。\n\n下図を見てください。部分最適化が進んだ組織（下図・左側）では、システムが縦割りになっていて、横とのつながりがありません。つまり、システムを個別にしか見ていません。\n\n一方、エンタープライズアーキテクチャ（下図・右側）では、システムの要素を4つに分類して、複数のシステムを横断的に分析します。",
+      "vi": "EA (Enterprise Architecture) là phương pháp để tối ưu hóa hệ thống thông tin của tổ chức lớn như doanh nghiệp hoặc chính phủ.\n\nXem hình dưới. Trong tổ chức đã tối ưu hóa bộ phận (hình trái), hệ thống bị chia theo chiều dọc, không có liên kết ngang. Nghĩa là chỉ xem hệ thống riêng lẻ.\n\nMặt khác, Enterprise Architecture (hình phải) phân loại yếu tố hệ thống thành 4 loại và phân tích xuyên suốt nhiều hệ thống.",
+      "en": "EA (Enterprise Architecture) is a method for optimizing information systems of large organizations like companies or governments.\n\nSee the figure below. In organizations with advanced partial optimization (left side), systems are vertically divided with no horizontal connections. Systems are only viewed individually.\n\nHowever, Enterprise Architecture (right side) classifies system elements into 4 categories and analyzes multiple systems horizontally.",
+      "my": "EA (Enterprise Architecture) သည် ကုမ္ပဏီများ သို့မဟုတ် အစိုးရများကဲ့သို့ အဖွဲ့အစည်းကြီးများ၏ သတင်းအချက်အလက်စနစ်များကို ပိုမိုကောင်းမွန်အောင် ပြုလုပ်သည့် နည်းလမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "政府",
+          "reading": "せいふ"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "最適化",
+          "reading": "さいてきか"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "部分最適化",
+          "reading": "ぶぶんさいてきか"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "左側",
+          "reading": "ひだりがわ"
+        },
+        {
+          "kanji": "縦割",
+          "reading": "たてわり"
+        },
+        {
+          "kanji": "横",
+          "reading": "よこ"
+        },
+        {
+          "kanji": "個別",
+          "reading": "こべつ"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "右側",
+          "reading": "みぎがわ"
+        },
+        {
+          "kanji": "要素",
+          "reading": "ようそ"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "横断的",
+          "reading": "おうだんてき"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "全体最適",
+      "reading": "ぜんたいさいてき",
+      "romaji": "Zentai Saiteki",
+      "vi": "Tối ưu hóa tổng thể",
+      "en": "Total Optimization",
+      "my": "စုစုပေါင်း ပိုမိုကောင်းမွန်အောင်ပြုလုပ်ခြင်း"
+    },
+    {
+      "kanji": "部分最適",
+      "reading": "ぶぶんさいてき",
+      "romaji": "Bubun Saiteki",
+      "vi": "Tối ưu hóa bộ phận",
+      "en": "Partial Optimization",
+      "my": "တစ်စိတ်တစ်ပိုင်း ပိုမိုကောင်းမွန်အောင်ပြုလုပ်ခြင်း"
+    },
+    {
+      "kanji": "EA",
+      "reading": "いーえー",
+      "romaji": "Enterprise Architecture",
+      "vi": "Kiến trúc doanh nghiệp",
+      "en": "Enterprise Architecture",
+      "my": "လုပ်ငန်းကြီး ဗိသုကာပညာ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true
+  }
+}

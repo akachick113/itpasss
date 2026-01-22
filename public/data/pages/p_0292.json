@@ -1,0 +1,75 @@
+{
+    "page_id": 292,
+    "image": "p_0292.png",
+    "chapter": 7,
+    "section": "answers",
+    "page_number": 276,
+    "content": [
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "解答・解説",
+                "vi": "Đáp án và Giải thích",
+                "en": "Answers and Explanations"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "7-1",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "プロジェクト資源マネジメントに関する問題ですが、マネジメントの知識は必要ありません。この問題のポイントは「新人とベテランでは作業効率が異なる」ところです。新メンバーの作業効率は「当初予定メンバーの60%」とあります。これを計算に加味することが大切です。",
+                "vi": "Đây là bài về Project Resource Management, nhưng không cần kiến thức management. Điểm mấu chốt là \"hiệu suất công việc của người mới và người có kinh nghiệm khác nhau\". Hiệu suất của thành viên mới là \"60% của thành viên dự định ban đầu\". Quan trọng là tính có xem xét điều này.",
+                "en": "This is a Project Resource Management problem, but management knowledge isn't needed. The key point is 'work efficiency differs between new and experienced members.' New member efficiency is '60% of originally planned members.' Including this in calculation is important."
+            },
+            "solution": {
+                "steps": [
+                    {
+                        "step": "(1)",
+                        "ja": "まずは全体の工数を計算します。5人×20日 = 100人日",
+                        "vi": "Trước tiên tính tổng công số. 5 người × 20 ngày = 100 người-ngày",
+                        "en": "First calculate total man-days. 5 people × 20 days = 100 person-days"
+                    },
+                    {
+                        "step": "(2)",
+                        "ja": "次に新メンバーの数をxとして方程式を作ります。20日以内で作業を完了させるためには、20日で100人日の作業を行う必要があります。\n2人×20日＋x人×60%×20日 ≧ 100人日\n12x ≧ 100 − 40（人日）\nx ≧ 5",
+                        "vi": "Tiếp theo đặt số thành viên mới là x và tạo phương trình. Để hoàn thành công việc trong 20 ngày, cần thực hiện 100 người-ngày trong 20 ngày.\n2 người × 20 ngày + x người × 60% × 20 ngày ≧ 100 người-ngày\n12x ≧ 100 − 40 (người-ngày)\nx ≧ 5",
+                        "en": "Next, let new member count be x and create equation. To complete work within 20 days, need to do 100 person-days in 20 days.\n2 people × 20 days + x people × 60% × 20 days ≧ 100 person-days\n12x ≧ 100 − 40 (person-days)\nx ≧ 5"
+                    }
+                ],
+                "answer": {
+                    "ja": "よって、5人以上の新メンバーが必要であることがわかります。",
+                    "vi": "Do đó, có thể thấy cần 5 người trở lên thành viên mới.",
+                    "en": "Therefore, at least 5 new members are needed."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "7-2",
+            "correct_answer": "ウ",
+            "explanation": {
+                "ja": "まずクリティカルパスを探します。クリティカルパスとは「最も時間のかかる経路」です。",
+                "vi": "Trước tiên tìm Critical Path. Critical Path là \"đường đi mất nhiều thời gian nhất\".",
+                "en": "First find Critical Path. Critical Path is 'path that takes most time.'"
+            },
+            "solution": {
+                "paths": [
+                    "A→C→D：18日（3+5+10）",
+                    "A→C→E→F：20日（3+5+7+5）",
+                    "B→D：17日（7+10）",
+                    "B→E→F：19日（7+7+5）"
+                ],
+                "analysis": {
+                    "ja": "上記より、クリティカルパスはA→C→E→Fの20日だとわかります。次に作業Bの遅れを考慮して、再度クリティカルパスを探します。\n・A→C→D：18日（3+5+10）\n・A→C→E→F：20日（3+5+7+5）\n・B→D：20日（7+3+10）\n・B→E→F：22日（7+3+7+5）\n\nこの結果から、クリティカルパスがB→E→Fの22日に変わったことがわかります。設問では全体の遅れを1日遅れにするとあるので、当初のクリティカルパスの20日に1を足して、21日にしたいということがわかります。つまり、作業B、E、Fのいずれかを1日減らせば21日になります。これに合致する選択肢はウだけです。",
+                    "vi": "Từ trên, có thể thấy Critical Path là A→C→E→F 20 ngày. Tiếp theo xem xét độ trễ của công việc B, tìm lại Critical Path.\n・A→C→D：18 ngày（3+5+10）\n・A→C→E→F：20 ngày（3+5+7+5）\n・B→D：20 ngày（7+3+10）\n・B→E→F：22 ngày（7+3+7+5）\n\nTừ kết quả này, có thể thấy Critical Path đã đổi thành B→E→F 22 ngày. Đề bài nói giảm độ trễ toàn bộ xuống 1 ngày, nên muốn thành 21 ngày bằng cách cộng 1 vào Critical Path ban đầu 20 ngày. Nghĩa là, giảm 1 ngày bất kỳ công việc B, E hoặc F thì thành 21 ngày. Lựa chọn phù hợp chỉ có ウ.",
+                    "en": "From above, Critical Path is A→C→E→F at 20 days. Next, considering work B delay, find Critical Path again.\n・A→C→D：18 days（3+5+10）\n・A→C→E→F：20 days（3+5+7+5）\n・B→D：20 days（7+3+10）\n・B→E→F：22 days（7+3+7+5）\n\nFrom this result, Critical Path changed to B→E→F at 22 days. Question says reduce overall delay to 1 day, so want to make it 21 days by adding 1 to original 20-day Critical Path. That is, reducing any of work B, E, or F by 1 day makes 21 days. Only choice ウ matches."
+                }
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 2
+    }
+}

@@ -1,0 +1,376 @@
+{
+  "page_id": 51,
+  "image": "p_0051.png",
+  "chapter": 1,
+  "section": "01-07",
+  "page_number": 35,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "基本的な会計用語と損益分岐点",
+      "reading": "きほんてきなかいけいようごとそんえきぶんきてん",
+      "vi": "Thuật ngữ kế toán cơ bản và Điểm hòa vốn",
+      "en": "Basic Accounting Terms and Break-even Point",
+      "my": "အခြေခံစာရင်းကိုင်ဝေါဟာရများနှင့် Break-even Point"
+    },
+    {
+      "type": "paragraph",
+      "ja": "世の中には「働けば働くほど損をする仕事」も存在します。そのような悲しい仕事をしないためにも損益分岐点という考え方を学んでおきましょう。",
+      "vi": "Trên đời cũng tồn tại \"công việc càng làm càng lỗ\". Để không làm những công việc đáng buồn như vậy, hãy học về khái niệm điểm hòa vốn.",
+      "en": "In the world, there are \"jobs where the more you work, the more you lose.\" To avoid such sad jobs, let's learn about the concept of break-even point.",
+      "my": "ကမ္ဘာပေါ်တွင် \"ပိုလုပ်လေ ပိုရှုံးလေ\" အလုပ်များ ရှိသည်။",
+      "terms": [
+        {
+          "kanji": "世",
+          "reading": "よ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "働",
+          "reading": "はたら"
+        },
+        {
+          "kanji": "損",
+          "reading": "そん"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "存在",
+          "reading": "そんざい"
+        },
+        {
+          "kanji": "悲",
+          "reading": "ひ"
+        },
+        {
+          "kanji": "損益分岐点",
+          "reading": "そんえきぶんきてん"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "方",
+          "reading": "かた"
+        },
+        {
+          "kanji": "学",
+          "reading": "がく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "5つの会計用語",
+      "reading": "5つのかいけいようご",
+      "vi": "5 thuật ngữ kế toán",
+      "en": "5 Accounting Terms",
+      "my": "စာရင်းကိုင်ဝေါဟာရ ၅ ခု"
+    },
+    {
+      "type": "paragraph",
+      "ja": "企業で働くようになると、「売上」や「利益」など会計に関する用語をよく耳にするようになります。ITパスポート試験でもこれらの用語が問題文や選択肢の中で頻繁に登場します。まずは次の基本的な5つの用語を理解してください。",
+      "vi": "Khi bạn bắt đầu làm việc trong doanh nghiệp, sẽ thường nghe các thuật ngữ kế toán như \"doanh thu\" và \"lợi nhuận\". Trong IT Passport, các thuật ngữ này cũng thường xuất hiện trong đề bài và đáp án. Trước hết hãy hiểu 5 thuật ngữ cơ bản sau.",
+      "en": "When you start working at a company, you'll often hear accounting terms like \"sales\" and \"profit.\" In the IT Passport exam, these terms frequently appear in questions and answer choices. First, understand these 5 basic terms.",
+      "my": "ကုမ္ပဏီတွင် အလုပ်စလုပ်သောအခါ \"ရောင်းအား\" နှင့် \"အမြတ်\" ကဲ့သို့ စာရင်းကိုင်ဝေါဟာရများကို မကြာခဏ ကြားရလိမ့်မည်။",
+      "terms": [
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "働",
+          "reading": "はたら"
+        },
+        {
+          "kanji": "売上",
+          "reading": "うりあげ"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "会計",
+          "reading": "かいけい"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "耳",
+          "reading": "みみ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "問題文",
+          "reading": "もんだいぶん"
+        },
+        {
+          "kanji": "選択肢",
+          "reading": "せんたくし"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "頻繁",
+          "reading": "ひんぱん"
+        },
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "5つの会計用語",
+        "vi": "5 thuật ngữ kế toán",
+        "en": "5 Accounting Terms"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "売上",
+            "商品やサービスを販売して得た金額"
+          ],
+          "vi": [
+            "Doanh thu (売上)",
+            "Số tiền thu được từ bán hàng hóa hoặc dịch vụ"
+          ],
+          "en": [
+            "Sales",
+            "Amount earned from selling goods or services"
+          ]
+        },
+        {
+          "ja": [
+            "費用",
+            "商品やサービスを売るために必要な金額。例えば、材料費、家賃、従業員への給料など。費用は「変動費」と「固定費」に分類される"
+          ],
+          "vi": [
+            "Chi phí (費用)",
+            "Số tiền cần thiết để bán hàng hóa hoặc dịch vụ. Ví dụ: chi phí nguyên liệu, tiền thuê, lương nhân viên. Chi phí được chia thành \"chi phí biến đổi\" và \"chi phí cố định\""
+          ],
+          "en": [
+            "Costs",
+            "Amount needed to sell goods or services. Examples: material costs, rent, employee wages. Costs are classified into \"variable costs\" and \"fixed costs\""
+          ]
+        },
+        {
+          "ja": [
+            "変動費",
+            "販売数に比例して増える費用。材料費など。なお、売上に占める変動費の割合のことを「変動費率」という（変動費÷売上）"
+          ],
+          "vi": [
+            "Chi phí biến đổi (変動費)",
+            "Chi phí tăng theo tỷ lệ với số lượng bán. Như chi phí nguyên liệu. Tỷ lệ chi phí biến đổi trong doanh thu gọi là \"tỷ lệ chi phí biến đổi\" (chi phí biến đổi ÷ doanh thu)"
+          ],
+          "en": [
+            "Variable Costs",
+            "Costs that increase proportionally with sales volume. Like material costs. The ratio of variable costs to sales is called \"variable cost ratio\" (variable costs ÷ sales)"
+          ]
+        },
+        {
+          "ja": [
+            "固定費",
+            "販売数に関係なく必ず発生する費用。家賃や人件費など"
+          ],
+          "vi": [
+            "Chi phí cố định (固定費)",
+            "Chi phí phát sinh bất kể số lượng bán. Như tiền thuê, chi phí nhân công"
+          ],
+          "en": [
+            "Fixed Costs",
+            "Costs that occur regardless of sales volume. Like rent, labor costs"
+          ]
+        },
+        {
+          "ja": [
+            "利益",
+            "売上から費用を差し引いた金額"
+          ],
+          "vi": [
+            "Lợi nhuận (利益)",
+            "Số tiền sau khi trừ chi phí từ doanh thu"
+          ],
+          "en": [
+            "Profit",
+            "Amount after subtracting costs from sales"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "損益分岐点とは",
+      "reading": "そんえきぶんきてんとは",
+      "vi": "Điểm hòa vốn là gì",
+      "en": "What is Break-even Point",
+      "my": "Break-even Point ဆိုတာ ဘာလဲ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "企業にとっては、売上よりも利益のほうが重要です。なぜなら、売上が1兆円あったとしても、費用がそれ以上であれば、利益はマイナスとなり、赤字になってしまうからです。そこで重要になるのが「損益分岐点」です。\n\n損益分岐点とは、売上の額と費用の額が等しくなる売上高（販売個数）です。グラフで考えると「売上の線と費用の線が交わる点」といえます。",
+      "vi": "Đối với doanh nghiệp, lợi nhuận quan trọng hơn doanh thu. Bởi vì dù doanh thu là 1 nghìn tỷ yên, nếu chi phí cao hơn thì lợi nhuận sẽ âm và bị lỗ. Do đó \"điểm hòa vốn\" trở nên quan trọng.\n\nĐiểm hòa vốn là doanh thu (số lượng bán) mà tại đó doanh thu bằng chi phí. Trên đồ thị, có thể nói là \"điểm giao nhau giữa đường doanh thu và đường chi phí\".",
+      "en": "For companies, profit is more important than sales. Because even with 1 trillion yen in sales, if costs are higher, profit becomes negative and results in a loss. This is where the \"break-even point\" becomes important.\n\nBreak-even point is the sales amount (number of units sold) where sales equal costs. On a graph, it's \"the point where the sales line and cost line intersect.\"",
+      "my": "ကုမ္ပဏီများအတွက် ရောင်းအားထက် အမြတ်က ပိုအရေးကြီးသည်။",
+      "terms": [
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "売上",
+          "reading": "うりあげ"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "兆円",
+          "reading": "ちょうえん"
+        },
+        {
+          "kanji": "費用",
+          "reading": "ひよう"
+        },
+        {
+          "kanji": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "kanji": "赤字",
+          "reading": "あかじ"
+        },
+        {
+          "kanji": "損益分岐点",
+          "reading": "そんえきぶんきてん"
+        },
+        {
+          "kanji": "額",
+          "reading": "ひたい"
+        },
+        {
+          "kanji": "等",
+          "reading": "など"
+        },
+        {
+          "kanji": "売上高",
+          "reading": "うりあげだか"
+        },
+        {
+          "kanji": "販売個数",
+          "reading": "はんばいこすう"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "線",
+          "reading": "せん"
+        },
+        {
+          "kanji": "交",
+          "reading": "こう"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "売上",
+      "reading": "うりあげ",
+      "romaji": "Uriage",
+      "vi": "Doanh thu",
+      "en": "Sales",
+      "my": "ရောင်းအား"
+    },
+    {
+      "kanji": "変動費",
+      "reading": "へんどうひ",
+      "romaji": "Hendouhi",
+      "vi": "Chi phí biến đổi",
+      "en": "Variable Costs",
+      "my": "ပြောင်းလဲနိုင်သောကုန်ကျစရိတ်"
+    },
+    {
+      "kanji": "固定費",
+      "reading": "こていひ",
+      "romaji": "Koteihi",
+      "vi": "Chi phí cố định",
+      "en": "Fixed Costs",
+      "my": "ပုံသောကုန်ကျစရိတ်"
+    },
+    {
+      "kanji": "利益",
+      "reading": "りえき",
+      "romaji": "Rieki",
+      "vi": "Lợi nhuận",
+      "en": "Profit",
+      "my": "အမြတ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "has_exam_tip": false
+  }
+}

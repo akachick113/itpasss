@@ -1,0 +1,171 @@
+{
+    "page_id": 159,
+    "image": "p_0159.png",
+    "chapter": 4,
+    "section": "questions",
+    "page_number": 143,
+    "content": [
+        {
+            "type": "section_header",
+            "ja": "出る順！過去問＆完全解説",
+            "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích đầy đủ",
+            "en": "By Frequency! Past Questions & Full Explanations"
+        },
+        {
+            "type": "exam_question",
+            "number": "4-1",
+            "year": "令和元年度",
+            "question": {
+                "ja": "特定の目的の達成や課題の解決をテーマとして、ソフトウェアの開発者や企画者などが短期集中的にアイディアを出し合い、ソフトウェアの開発などの共同作業を行い、成果を競い合うイベントはどれか。",
+                "vi": "Sự kiện mà các nhà phát triển và lập kế hoạch phần mềm tập trung ngắn hạn đưa ra ý tưởng với chủ đề đạt mục tiêu cụ thể hoặc giải quyết vấn đề, thực hiện công việc chung như phát triển phần mềm và cạnh tranh thành quả là gì?",
+                "en": "What is the event where software developers and planners intensively share ideas in a short period on achieving specific goals or solving problems, do collaborative work like software development, and compete on results?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "コンペンション",
+                    "vi": "Convention",
+                    "en": "Convention"
+                },
+                {
+                    "label": "イ",
+                    "ja": "トレードフェア",
+                    "vi": "Trade Fair",
+                    "en": "Trade Fair"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ハッカソン",
+                    "vi": "Hackathon",
+                    "en": "Hackathon",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "レセプション",
+                    "vi": "Reception",
+                    "en": "Reception"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-2",
+            "year": "令和7年度",
+            "question": {
+                "ja": "新しい概念やアイディアの実証を目的とした、開発の前段階における検証を表す用語はどれか。",
+                "vi": "Thuật ngữ thể hiện xác minh ở giai đoạn trước phát triển với mục đích chứng minh khái niệm hoặc ý tưởng mới là gì?",
+                "en": "Which term represents verification in the pre-development stage aimed at proving new concepts or ideas?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "CRM",
+                    "vi": "CRM",
+                    "en": "CRM"
+                },
+                {
+                    "label": "イ",
+                    "ja": "PoC",
+                    "vi": "PoC",
+                    "en": "PoC",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "RAS",
+                    "vi": "RAS",
+                    "en": "RAS"
+                },
+                {
+                    "label": "エ",
+                    "ja": "SLA",
+                    "vi": "SLA",
+                    "en": "SLA"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-3",
+            "year": "令和5年度",
+            "question": {
+                "ja": "技術開発戦略において作成されるロードマップを説明しているものはどれか。",
+                "vi": "Đâu là giải thích về Roadmap được tạo trong chiến lược phát triển công nghệ?",
+                "en": "Which explains the roadmap created in technology development strategy?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "技術の競争力レベルと技術のライフサイクルを2軸としたマトリックス上に、自社の技術や新しい技術をプロットする。",
+                    "vi": "Vẽ công nghệ của công ty và công nghệ mới trên ma trận 2 trục là mức độ cạnh tranh công nghệ và vòng đời công nghệ.",
+                    "en": "Plot own company's technology and new technologies on a matrix with technology competitiveness level and technology lifecycle as 2 axes."
+                },
+                {
+                    "label": "イ",
+                    "ja": "研究開発への投資とその成果を2軸とした座標上に、技術の成長過程をグラフ化し、旧技術から新技術への転換状況を表す。",
+                    "vi": "Đồ thị hóa quá trình phát triển công nghệ trên tọa độ 2 trục là đầu tư R&D và kết quả, thể hiện tình trạng chuyển đổi từ công nghệ cũ sang mới.",
+                    "en": "Graph technology growth process on coordinates with R&D investment and results as 2 axes, showing transition from old to new technology."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "市場面からの有望度と技術面からの有望度を2軸としたマトリックス上に、技術開発プロジェクトをプロットする。",
+                    "vi": "Vẽ dự án phát triển công nghệ trên ma trận 2 trục là mức độ triển vọng từ thị trường và từ công nghệ.",
+                    "en": "Plot technology development projects on a matrix with market potential and technology potential as 2 axes."
+                },
+                {
+                    "label": "エ",
+                    "ja": "横軸に時間、縦軸に市場、商品、技術などを入れ、研究開発成果の商品化、事業化の方向性とそれらの要素間の関係で表す。",
+                    "vi": "Đặt thời gian trên trục ngang, thị trường/sản phẩm/công nghệ trên trục dọc, thể hiện hướng thương mại hóa/sự nghiệp hóa kết quả R&D và mối quan hệ giữa các yếu tố đó.",
+                    "en": "Put time on horizontal axis, market/products/technology on vertical axis, showing R&D commercialization direction and relationships between elements.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-4",
+            "year": "平成31年度",
+            "question": {
+                "ja": "NFCに準拠した無線通信方式を利用したものはどれか。",
+                "vi": "Đâu là thứ sử dụng phương thức giao tiếp không dây tuân theo NFC?",
+                "en": "Which uses wireless communication method compliant with NFC?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "ETC車載器との無線通信",
+                    "vi": "Giao tiếp không dây với OBU ETC",
+                    "en": "Wireless communication with ETC OBU"
+                },
+                {
+                    "label": "イ",
+                    "ja": "エアコンのリモートコントロール",
+                    "vi": "Điều khiển từ xa điều hòa",
+                    "en": "Air conditioner remote control"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "カーナビの位置計測",
+                    "vi": "Đo vị trí GPS xe",
+                    "en": "Car navigation position measurement"
+                },
+                {
+                    "label": "エ",
+                    "ja": "交通系のIC乗車券による改札",
+                    "vi": "Soát vé bằng thẻ IC giao thông",
+                    "en": "Ticket gate using transportation IC card",
+                    "correct": true
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "questions_covered": "4-1, 4-2, 4-3, 4-4",
+        "answers": "4-1: ウ, 4-2: イ, 4-3: エ, 4-4: エ"
+    }
+}

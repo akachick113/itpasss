@@ -1,0 +1,243 @@
+{
+  "page_id": 248,
+  "image": "p_0248.png",
+  "chapter": 6,
+  "section": "06-03",
+  "page_number": 232,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "06-03",
+      "title": {
+        "ja": "システム設計",
+        "vi": "Thiết kế hệ thống",
+        "en": "System Design"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "要件を図面に書き起こす作業",
+        "vi": "Công việc viết yêu cầu thành bản vẽ",
+        "en": "Work of Writing Requirements into Drawings"
+      },
+      "content": {
+        "ja": "これから作るシステムに必要な機能や性能（システム要件）が決まったら、次はそれを形にするための作業に取り掛かります。その最初の工程がシステム設計です。",
+        "vi": "Khi đã quyết định chức năng và hiệu suất (yêu cầu hệ thống) cần thiết cho hệ thống sắp tạo, tiếp theo là bắt tay vào công việc để hiện thực hóa nó. Công đoạn đầu tiên đó là Thiết kế hệ thống.",
+        "en": "Once the necessary functions and performance (system requirements) for the system to be created are decided, next is starting work to realize them. The first phase is System Design."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "最初の開発プロセスである「システム要件定義」によって、これから作るシステム要件（機能や性能）が決まったら、次はシステム設計です。",
+      "vi": "Khi yêu cầu hệ thống (chức năng và hiệu suất) sẽ tạo được quyết định bởi \"Định nghĩa yêu cầu hệ thống\" - quy trình phát triển đầu tiên, tiếp theo là Thiết kế hệ thống.",
+      "en": "Once system requirements (functions and performance) to be created are decided by 'System Requirements Definition' - the first development process, next is System Design.",
+      "terms": [
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "要件",
+          "reading": "ようけん"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "性能",
+          "reading": "せいのう"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "設計",
+          "reading": "せっけい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "システム設計では、システム要件定義で決めたことをもとにして、システムの設計図を書き起こします。システムは通常、複数人で作るので設計図が必要です。システム設計のプロセスはさらに、次の4つの工程に分けられます。",
+      "vi": "Trong Thiết kế hệ thống, vẽ bản thiết kế hệ thống dựa trên những gì đã quyết định trong Định nghĩa yêu cầu hệ thống. Vì hệ thống thường được tạo bởi nhiều người nên cần bản thiết kế. Quy trình Thiết kế hệ thống được chia thành 4 công đoạn sau.",
+      "en": "In System Design, design drawings are created based on what was decided in System Requirements Definition. Since systems are usually made by multiple people, design drawings are necessary. The System Design process is further divided into the following 4 phases.",
+      "terms": [
+        {
+          "kanji": "設計",
+          "reading": "せっけい"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "設計図",
+          "reading": "せっけいず"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "起",
+          "reading": "お"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "複数人",
+          "reading": "ふくすうにん"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "（1）システム方式設計",
+          "vi": "(1) Thiết kế phương thức hệ thống",
+          "en": "(1) System Architecture Design"
+        },
+        {
+          "ja": "（2）ソフトウェア要件定義",
+          "vi": "(2) Định nghĩa yêu cầu phần mềm",
+          "en": "(2) Software Requirements Definition"
+        },
+        {
+          "ja": "（3）ソフトウェア方式設計",
+          "vi": "(3) Thiết kế phương thức phần mềm",
+          "en": "(3) Software Architecture Design"
+        },
+        {
+          "ja": "（4）ソフトウェア詳細設計",
+          "vi": "(4) Thiết kế chi tiết phần mềm",
+          "en": "(4) Detailed Software Design"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "2つの「方式設計」",
+        "vi": "2 loại \"Thiết kế phương thức\"",
+        "en": "Two Types of 'Architecture Design'",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "システム設計のプロセスには「システム方式設計」「ソフトウェア方式設計」という、名前の似た工程があります。名前が紛らわしいため、混同しがちなのですが、本書の冒頭で説明したように、ITパスポート試験ではシステムとソフトウェアが明確に使い分けられているので（p.224）、混同しないように注意してください。",
+        "vi": "Trong quy trình Thiết kế hệ thống có các công đoạn có tên tương tự như \"Thiết kế phương thức hệ thống\" và \"Thiết kế phương thức phần mềm\". Vì tên dễ gây nhầm lẫn nên hay bị lẫn lộn, nhưng như đã giải thích ở đầu sách, trong kỳ thi IT Passport, Hệ thống và Phần mềm được phân biệt rõ ràng (trang 224), nên hãy chú ý không nhầm lẫn.",
+        "en": "In the System Design process, there are similarly named phases 'System Architecture Design' and 'Software Architecture Design.' Because the names are confusing, they tend to be mixed up, but as explained at the beginning of this book, in IT Passport exams, System and Software are clearly distinguished (p.224), so be careful not to confuse them."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "接頭辞に「システム」という単語がついている用語はシステムに関係するプロセスで、接頭辞に「ソフトウェア」という単語がついている用語はソフトウェアに関係するプロセスです。つまり、システム方式設計とソフトウェア方式設計は、まったく別のプロセスで、作業内容も完全に異なります。",
+      "vi": "Thuật ngữ có tiền tố \"Hệ thống\" là quy trình liên quan đến hệ thống, thuật ngữ có tiền tố \"Phần mềm\" là quy trình liên quan đến phần mềm. Nghĩa là, Thiết kế phương thức hệ thống và Thiết kế phương thức phần mềm là các quy trình hoàn toàn khác nhau, nội dung công việc cũng hoàn toàn khác.",
+      "en": "Terms with the prefix 'System' are processes related to systems, and terms with the prefix 'Software' are processes related to software. That is, System Architecture Design and Software Architecture Design are completely different processes with completely different work content.",
+      "terms": [
+        {
+          "kanji": "接頭辞",
+          "reading": "せっとうじ"
+        },
+        {
+          "kanji": "単語",
+          "reading": "たんご"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "方式設計",
+          "reading": "ほうしきせっけい"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "作業内容",
+          "reading": "さぎょうないよう"
+        },
+        {
+          "kanji": "完全",
+          "reading": "かんぜん"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "システム設計",
+      "reading": "しすてむせっけい",
+      "romaji": "System Sekkei",
+      "vi": "Thiết kế hệ thống",
+      "en": "System Design",
+      "my": "စနစ် ဒီဇိုင်း"
+    },
+    {
+      "kanji": "方式設計",
+      "reading": "ほうしきせっけい",
+      "romaji": "Houshiki Sekkei",
+      "vi": "Thiết kế phương thức",
+      "en": "Architecture Design",
+      "my": "တည်ဆောက်ပုံ ဒီဇိုင်း"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

@@ -1,0 +1,107 @@
+{
+    "page_id": 610,
+    "image": "p_0610.png",
+    "chapter": "author",
+    "section": "author_info",
+    "page_number": 594,
+    "content": [
+        {
+            "type": "author_section_header",
+            "title": {
+                "ja": "著者紹介",
+                "vi": "Giới thiệu tác giả",
+                "en": "Author Introduction"
+            }
+        },
+        {
+            "type": "author_profile",
+            "name": {
+                "ja": "高橋 京介（たかはし きょうすけ）",
+                "vi": "Takahashi Kyosuke",
+                "en": "Takahashi Kyosuke"
+            },
+            "bio": {
+                "ja": "ソフトウェアエンジニア。1980年生まれ、群馬県高崎市出身。米国サンノゼ州立大学卒業。前職はメルカリのiOSエンジニア。主な著書に「いちばんやさしいITパスポート 絶対合格の教科書」「いちばんやさしい基本情報技術者 絶対合格の教科書」（いずれもSBクリエイティブ刊）など。「丁寧でわかりやすい解説」を心がけており、著書累計は120万部を超える。「いちばんやさしいITパスポート 絶対合格の教科書」は7年連続で売り上げ第1位。",
+                "vi": "Kỹ sư phần mềm. Sinh năm 1980, quê ở thành phố Takasaki, tỉnh Gunma. Tốt nghiệp Đại học San Jose State, Mỹ. Trước đây là kỹ sư iOS tại Mercari. Các tác phẩm chính bao gồm \"IT Passport đơn giản nhất - Giáo trình đảm bảo đỗ\" và \"Kỹ thuật viên thông tin cơ bản đơn giản nhất - Giáo trình đảm bảo đỗ\" (đều do SB Creative xuất bản). Luôn hướng đến \"giải thích tỉ mỉ và dễ hiểu\", tổng số sách bán ra vượt 1,2 triệu bản. \"IT Passport đơn giản nhất - Giáo trình đảm bảo đỗ\" đứng đầu doanh số 7 năm liên tiếp.",
+                "en": "Software Engineer. Born 1980, from Takasaki City, Gunma Prefecture. Graduated from San Jose State University, USA. Former iOS Engineer at Mercari. Main works include 'Easiest IT Passport - Textbook for Guaranteed Pass' and 'Easiest Basic Information Technology Engineer - Textbook for Guaranteed Pass' (both published by SB Creative). Committed to 'careful and easy-to-understand explanations,' total book sales exceed 1.2 million copies. 'Easiest IT Passport - Textbook for Guaranteed Pass' has been #1 in sales for 7 consecutive years."
+            },
+            "contact": {
+                "website": "https://t-pass.jp",
+                "email": "support@tctc.jp",
+                "youtube": "https://www.youtube.com/@itpassport",
+                "udemy": "https://link.t-pass.jp/udemy"
+            }
+        },
+        {
+            "type": "credits",
+            "staff": [
+                {
+                    "role": {
+                        "ja": "装帳",
+                        "vi": "Trang bìa",
+                        "en": "Cover Design"
+                    },
+                    "name": "西塚 水敏（krran）"
+                },
+                {
+                    "role": {
+                        "ja": "キャラクターイラスト（黒安）",
+                        "vi": "Minh họa nhân vật (Kuroan)",
+                        "en": "Character Illustration (Kuroan)"
+                    },
+                    "name": "百花 佳子"
+                },
+                {
+                    "role": {
+                        "ja": "解説イラスト",
+                        "vi": "Minh họa giải thích",
+                        "en": "Explanation Illustration"
+                    },
+                    "name": "meeq"
+                },
+                {
+                    "role": {
+                        "ja": "本文デザイン・組版",
+                        "vi": "Thiết kế và dàn trang nội dung",
+                        "en": "Text Design and Typesetting"
+                    },
+                    "name": "クニメディア株式会社"
+                },
+                {
+                    "role": {
+                        "ja": "編集",
+                        "vi": "Biên tập",
+                        "en": "Editing"
+                    },
+                    "name": "岡本 善喜"
+                }
+            ]
+        },
+        {
+            "type": "publication_info",
+            "title": {
+                "ja": "【令和8年度】いちばんやさしいITパスポート 絶対合格の教科書＋出る順問題集",
+                "vi": "【Năm Reiwa 8】IT Passport đơn giản nhất - Giáo trình đảm bảo đỗ + Bộ đề theo thứ tự xuất hiện trong kỳ thi",
+                "en": "[Reiwa Year 8] Easiest IT Passport - Textbook for Guaranteed Pass + Practice Questions by Exam Frequency"
+            },
+            "edition": {
+                "ja": "2025年12月3日 初版第1刷発行、2025年12月26日 初版第2刷発行",
+                "vi": "Phát hành in lần 1 phiên bản đầu ngày 3/12/2025, phát hành in lần 2 phiên bản đầu ngày 26/12/2025",
+                "en": "First edition 1st printing: December 3, 2025, First edition 2nd printing: December 26, 2025"
+            },
+            "author": "高橋 京介",
+            "publisher": {
+                "ja": "SBクリエイティブ株式会社",
+                "vi": "SB Creative Co., Ltd.",
+                "en": "SB Creative Co., Ltd."
+            },
+            "address": "〒105-0001 東京都港区虎ノ門2-2-1",
+            "website": "https://www.sbcr.jp",
+            "printing": "株式会社シナノ"
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "is_author_page": true
+    }
+}

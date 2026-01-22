@@ -1,0 +1,298 @@
+{
+  "page_id": 198,
+  "image": "p_0198.png",
+  "chapter": 5,
+  "section": "05-02",
+  "page_number": 182,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "上図のDFDでは1つの「処理」から「データフロー」が2つ出ていますが、順序は明確にしません。DFDは、アローダイアグラム（p.266）やフローチャート（p.335）とは異なり、時間の流れや処理の順序は表しません。あくまでも「データの流れ」を表す図です。",
+      "vi": "Trong DFD hình trên, 2 Data Flow đi ra từ 1 Xử lý nhưng thứ tự không được chỉ rõ. DFD khác với Arrow Diagram (trang 266) hay Flowchart (trang 335), không biểu diễn dòng thời gian hay thứ tự xử lý. Chỉ là sơ đồ biểu diễn luồng dữ liệu.",
+      "en": "In the above DFD, 2 'Data Flows' come from 1 'Processing', but order is not clarified. DFD, unlike Arrow Diagram (p.266) or Flowchart (p.335), doesn't represent time flow or processing order. It only represents 'data flow'.",
+      "my": "အထက်ပါ DFD တွင် 'Data Flow' ၂ ခု သည် 'Processing' ၁ ခုမှ ထွက်လာသော်လည်း အစီအစဉ်ကို ရှင်းလင်းမထားပါ။",
+      "terms": [
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "順序",
+          "reading": "じゅんじょ"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "DFD（データフロー図）とは、業務プロセスの「データの流れ」を表す図である",
+        "vi": "DFD (Data Flow Diagram) là sơ đồ biểu diễn luồng dữ liệu của quy trình nghiệp vụ",
+        "en": "DFD (Data Flow Diagram) is a diagram representing 'data flow' of business processes",
+        "my": "DFD (Data Flow Diagram) သည် စီးပွားရေးလုပ်ငန်းစဉ်များ၏ 'ဒေတာစီးဆင်းမှု' ကို ကိုယ်စားပြုသော ပုံကြမ်းဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "図",
+            "reading": "ず"
+          },
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "流",
+            "reading": "りゅう"
+          },
+          {
+            "kanji": "表",
+            "reading": "おもて"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "E-R図",
+      "reading": "いーあーるず",
+      "vi": "E-R Diagram",
+      "en": "E-R Diagram"
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "学習のポイント",
+        "vi": "Điểm học tập",
+        "en": "Learning Point",
+        "terms": [
+          {
+            "kanji": "学習",
+            "reading": "がくしゅう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "業務モデルを記述する方法（記法）として、ITパスポート試験においてDFDと同等に重要な「E-R図」（p.464）については、テクノロジ系分野の「データベース」の項目で説明します。なぜなら、E-R図は、業務モデルを記述する方法としても利用されていますが、ITパスポート試験においてはデータベースを設計するための方法として出題される頻度のほうが高いからです。",
+        "vi": "E-R Diagram (trang 464), quan trọng ngang với DFD trong IT Passport như phương pháp mô tả Business Model, sẽ được giải thích trong mục Database của lĩnh vực Công nghệ. Vì E-R Diagram được sử dụng để mô tả Business Model, nhưng trong IT Passport thường được ra đề như phương pháp thiết kế database hơn.",
+        "en": "'E-R Diagram' (p.464), equally important as DFD in IT Passport as a business model notation, will be explained in the 'Database' section of Technology field. Because while E-R Diagram is used for business model description, in IT Passport it's more frequently tested as a database design method.",
+        "terms": [
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "記述",
+            "reading": "きじゅつ"
+          },
+          {
+            "kanji": "方法",
+            "reading": "ほうほう"
+          },
+          {
+            "kanji": "記法",
+            "reading": "きほう"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "同等",
+            "reading": "どうとう"
+          },
+          {
+            "kanji": "重要",
+            "reading": "じゅうよう"
+          },
+          {
+            "kanji": "図",
+            "reading": "ず"
+          },
+          {
+            "kanji": "系分野",
+            "reading": "けいぶんや"
+          },
+          {
+            "kanji": "項目",
+            "reading": "こうもく"
+          },
+          {
+            "kanji": "説明",
+            "reading": "せつめい"
+          },
+          {
+            "kanji": "利用",
+            "reading": "りよう"
+          },
+          {
+            "kanji": "設計",
+            "reading": "せっけい"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "頻度",
+            "reading": "ひんど"
+          },
+          {
+            "kanji": "高",
+            "reading": "たか"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "BPMN",
+      "reading": "びーぴーえむえぬ",
+      "vi": "BPMN",
+      "en": "BPMN"
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "学習のポイント",
+        "vi": "Điểm học tập",
+        "en": "Learning Point",
+        "terms": [
+          {
+            "kanji": "学習",
+            "reading": "がくしゅう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "BPMN（Business Process Model and Notation）とは、現在標準化が進められているビジネスプロセスの表記法です。ITパスポート試験の試験範囲には「フロー（流れ）を表現する図」として、（1）流れ図（フローチャート）、（2）DFD（Data Flow Diagram：データフロー図）、（3）BPMN、の3つが含まれています。\n\nそれぞれの図が何の流れを表す用途で使われるかを整理すると、流れ図は「アルゴリズム」、DFDは「データ」、そして、BPMNは「ビジネスプロセス」となります。",
+        "vi": "BPMN (Business Process Model and Notation) là ký pháp biểu diễn Business Process đang được tiêu chuẩn hóa. Phạm vi IT Passport bao gồm 3 loại sơ đồ biểu diễn luồng: (1) Flowchart, (2) DFD (Data Flow Diagram), (3) BPMN.\n\nChỉnh lý mục đích mỗi sơ đồ biểu diễn luồng gì: Flowchart là Algorithm, DFD là Data, BPMN là Business Process.",
+        "en": "BPMN (Business Process Model and Notation) is a business process notation currently being standardized. IT Passport exam scope includes 3 types of 'flow diagrams': (1) Flowchart, (2) DFD (Data Flow Diagram), (3) BPMN.\n\nOrganizing what flow each diagram represents: Flowchart is 'Algorithm', DFD is 'Data', and BPMN is 'Business Process'.",
+        "terms": [
+          {
+            "kanji": "現在標準化",
+            "reading": "げんざいひょうじゅんか"
+          },
+          {
+            "kanji": "進",
+            "reading": "すすむ"
+          },
+          {
+            "kanji": "表記法",
+            "reading": "ひょうきほう"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "試験範囲",
+            "reading": "しけんはんい"
+          },
+          {
+            "kanji": "流",
+            "reading": "りゅう"
+          },
+          {
+            "kanji": "表現",
+            "reading": "ひょうげん"
+          },
+          {
+            "kanji": "図",
+            "reading": "ず"
+          },
+          {
+            "kanji": "含",
+            "reading": "がん"
+          },
+          {
+            "kanji": "何",
+            "reading": "なに"
+          },
+          {
+            "kanji": "表",
+            "reading": "おもて"
+          },
+          {
+            "kanji": "用途",
+            "reading": "ようと"
+          },
+          {
+            "kanji": "使",
+            "reading": "し"
+          },
+          {
+            "kanji": "整理",
+            "reading": "せいり"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "E-R図",
+      "reading": "いーあーるず",
+      "romaji": "E-R Diagram",
+      "vi": "Sơ đồ E-R",
+      "en": "E-R Diagram",
+      "my": "E-R ပုံကြမ်း"
+    },
+    {
+      "kanji": "BPMN",
+      "reading": "びーぴーえむえぬ",
+      "romaji": "Business Process Model and Notation",
+      "vi": "Ký pháp mô hình quy trình nghiệp vụ",
+      "en": "Business Process Model and Notation",
+      "my": "စီးပွားရေး လုပ်ငန်းစဉ် မော်ဒယ်လ်နှင့် သင်္ကေတ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

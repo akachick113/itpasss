@@ -1,0 +1,137 @@
+{
+    "page_id": 407,
+    "image": "p_0407.png",
+    "chapter": 10,
+    "section": "practice",
+    "page_number": 391,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "10-5",
+            "year": "令和6年度",
+            "question": {
+                "ja": "図に示す2台のWebサーバと1台のデータベースサーバから成るWebシステムがある。Webサーバの稼働率はともに0.8とし、データベースサーバの稼働率は0.9とすると、このシステムの小数第3位を四捨五入した稼働率はいくらか。ここで、2台のWebサーバのうち少なくとも1台が稼働していて、かつ、データベースサーバが稼働していれば、システムとしては稼働しているとみなす。また、それぞれのサーバはランダムに故障が起こるものとする。",
+                "vi": "Có hệ thống Web gồm 2 máy chủ Web và 1 máy chủ cơ sở dữ liệu như hình. Nếu tỉ lệ khả dụng của máy chủ Web đều là 0.8 và tỉ lệ khả dụng của máy chủ cơ sở dữ liệu là 0.9, tỉ lệ khả dụng làm tròn đến chữ số thập phân thứ 3 của hệ thống này là bao nhiêu? Ở đây, nếu ít nhất 1 trong 2 máy chủ Web đang hoạt động và máy chủ cơ sở dữ liệu đang hoạt động thì hệ thống được coi là hoạt động. Ngoài ra, mỗi máy chủ xảy ra sự cố ngẫu nhiên.",
+                "en": "Web system with 2 Web servers and 1 database server as shown in diagram. If both Web server availabilities are 0.8 and database server availability is 0.9, what is this system's availability rounded to 3rd decimal place? Here, if at least 1 of 2 Web servers is running and database server is running, system is considered running. Also, each server fails randomly."
+            },
+            "diagram_description": {
+                "ja": "2台のWebサーバが並列接続され、その後にデータベースサーバが直列接続されている構成図",
+                "vi": "Sơ đồ cấu trúc 2 máy chủ Web kết nối song song, sau đó máy chủ cơ sở dữ liệu kết nối nối tiếp",
+                "en": "Configuration diagram with 2 Web servers connected in parallel, then database server connected in series"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": "0.04"
+                },
+                {
+                    "choice": "イ",
+                    "text": "0.58"
+                },
+                {
+                    "choice": "ウ",
+                    "text": "0.86"
+                },
+                {
+                    "choice": "エ",
+                    "text": "0.96"
+                }
+            ],
+            "correct_answer": "ウ"
+        },
+        {
+            "type": "exam_question",
+            "number": "10-6",
+            "year": "平成29年度",
+            "question": {
+                "ja": "ベンチマークテストに関する記述として、適切なものはどれか。",
+                "vi": "Cái nào sau đây là mô tả thích hợp về benchmark test?",
+                "en": "Which is appropriate description about benchmark test?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": {
+                        "ja": "システム内部処理構造とは無関係に、入力と出力だけに着目して、様々な入力条件に対して仕様どおりの出力結果が得られるかどうかを試験する。",
+                        "vi": "Không liên quan đến cấu trúc xử lý bên trong hệ thống, chỉ chú ý đến đầu vào và đầu ra, kiểm tra xem có thu được kết quả đầu ra theo đặc tả với các điều kiện đầu vào khác nhau hay không.",
+                        "en": "Unrelated to system internal processing structure, focusing only on input and output, testing whether output results according to specifications are obtained for various input conditions."
+                    }
+                },
+                {
+                    "choice": "イ",
+                    "text": {
+                        "ja": "システム内部の処理構造に着目して、分岐条件や反復条件などを網羅したテストケースを設定して、処理が意図したとおりに動作するかどうかを試験する。",
+                        "vi": "Chú ý đến cấu trúc xử lý bên trong hệ thống, thiết lập test case bao gồm điều kiện phân nhánh và điều kiện lặp, v.v., kiểm tra xem xử lý có hoạt động đúng ý định hay không.",
+                        "en": "Focusing on system internal processing structure, setting test cases covering branch conditions and iteration conditions, testing whether processing operates as intended."
+                    }
+                },
+                {
+                    "choice": "ウ",
+                    "text": {
+                        "ja": "システムを設計する前に、作成するシステムの動作を数学的なモデルにし、擬似プログラムを用いて動作を模擬することで性能を予測する。",
+                        "vi": "Trước khi thiết kế hệ thống, mô hình hóa toán học hoạt động của hệ thống sẽ tạo, sử dụng chương trình giả để mô phỏng hoạt động và dự đoán hiệu suất.",
+                        "en": "Before designing system, mathematically model system operation to be created, predict performance by simulating operation using pseudo program."
+                    }
+                },
+                {
+                    "choice": "エ",
+                    "text": {
+                        "ja": "標準的な処理を設定して実際にコンピュータ上で動作させ、処理に掛かった時間などの情報を取得して性能を評価する。",
+                        "vi": "Thiết lập xử lý tiêu chuẩn và thực sự vận hành trên máy tính, thu thập thông tin như thời gian xử lý và đánh giá hiệu suất.",
+                        "en": "Set standard processing and actually operate on computer, obtain information like processing time and evaluate performance."
+                    }
+                }
+            ],
+            "correct_answer": "エ"
+        },
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "解答・解説",
+                "vi": "Đáp án và Giải thích",
+                "en": "Answers and Explanations"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "10-1",
+            "answer": "エ",
+            "explanation": {
+                "ja": "複数のハードディスクに同じデータを書き込むのは「ミラーリング」です。RAID 1です。",
+                "vi": "Ghi cùng dữ liệu lên nhiều ổ đĩa cứng là \"Mirroring\". Đó là RAID 1.",
+                "en": "Writing same data to multiple hard disks is 'Mirroring.' It's RAID 1."
+            },
+            "choice_analysis": [
+                {
+                    "choice": "ア",
+                    "text": {
+                        "ja": "ストライピングとは、複数のハードディスクにデータを分散して書き込む方法です。RAID 0です。",
+                        "vi": "Striping là phương pháp phân tán và ghi dữ liệu lên nhiều ổ đĩa cứng. Đó là RAID 0.",
+                        "en": "Striping is method distributing and writing data to multiple hard disks. It's RAID 0."
+                    }
+                },
+                {
+                    "choice": "イ",
+                    "text": {
+                        "ja": "フラグメンテーションとは、ハードディスクドライブ（HDD）へのファイルの書き換えで起こる「ファイルの断片化」です。またフラグメンテーションを解消することをデフラグメンテーション（デフラグ）といいます。",
+                        "vi": "Fragmentation là \"phân mảnh file\" xảy ra khi ghi lại file vào ổ đĩa cứng (HDD). Việc giải quyết fragmentation được gọi là defragmentation (defrag).",
+                        "en": "Fragmentation is 'file fragmentation' occurring when rewriting files to hard disk drive (HDD). Resolving fragmentation is called defragmentation (defrag)."
+                    }
+                },
+                {
+                    "choice": "ウ",
+                    "text": {
+                        "ja": "マルチコアとは、1つのCPUに複数のコアを持たせる技術です。",
+                        "vi": "Multi-core là công nghệ cho một CPU có nhiều lõi.",
+                        "en": "Multi-core is technology having multiple cores in one CPU."
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "has_explanations": true,
+        "question_count": 2
+    }
+}

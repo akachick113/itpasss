@@ -1,0 +1,96 @@
+{
+  "page_id": 438,
+  "image": "p_0438.png",
+  "chapter": 11,
+  "section": "practice",
+  "page_number": 422,
+  "content": [
+    {
+      "type": "answer_explanation",
+      "number": "11-13",
+      "answer": "エ",
+      "explanation": {
+        "ja": "OCR（Optical Character Recognition：光学的文字認識）は、スキャナーなどで読み取った紙文書の画像データから印刷文字や手書き文字を認識し、テキストデータに変換する技術です。この技術によって、紙の資料を電子化して検索・編集可能な形式に変換することができます。業務の効率化やペーパーレス化に大きく貢献します。",
+        "vi": "OCR (Optical Character Recognition: Nhận dạng ký tự quang học) là công nghệ nhận dạng chữ in hoặc chữ viết tay từ dữ liệu hình ảnh tài liệu giấy được đọc bằng máy quét, v.v. và chuyển đổi thành dữ liệu văn bản. Bằng công nghệ này, có thể số hóa tài liệu giấy và chuyển đổi thành định dạng có thể tìm kiếm và chỉnh sửa. Đóng góp lớn cho việc nâng cao hiệu quả công việc và giảm giấy.",
+        "en": "OCR (Optical Character Recognition) is technology recognizing printed or handwritten characters from paper document image data scanned by scanner, etc. and converting to text data. With this technology, can digitize paper documents and convert to searchable/editable format. Contributes greatly to work efficiency and paperless operation."
+      },
+      "choice_analysis": [
+        {
+          "choice": "ア",
+          "text": {
+            "ja": "CCD（Charge Coupled Device）は、光を電気信号に変換するための撮像素子で、カメラやスキャナーなどの入力装置に使われます。",
+            "vi": "CCD (Charge Coupled Device) là phần tử chụp ảnh để chuyển đổi ánh sáng thành tín hiệu điện, được sử dụng trong các thiết bị nhập như camera và máy quét.",
+            "en": "CCD (Charge Coupled Device) is image sensor for converting light to electrical signals, used in input devices like cameras and scanners."
+          }
+        },
+        {
+          "choice": "イ",
+          "text": {
+            "ja": "DVI（Digital Visual Interface）は、ディスプレイとコンピュータ間で映像信号をデジタル伝送するためのインタフェース規格です。",
+            "vi": "DVI (Digital Visual Interface) là tiêu chuẩn giao diện để truyền tín hiệu hình ảnh số giữa màn hình và máy tính.",
+            "en": "DVI (Digital Visual Interface) is interface standard for digitally transmitting video signals between display and computer."
+          }
+        },
+        {
+          "choice": "ウ",
+          "text": {
+            "ja": "GPU（Graphics Processing Unit）は、グラフィックスや画像処理、AI処理などの演算を高速に行うプロセッサです。",
+            "vi": "GPU (Graphics Processing Unit) là bộ xử lý thực hiện tính toán đồ họa, xử lý hình ảnh, xử lý AI, v.v. với tốc độ cao.",
+            "en": "GPU (Graphics Processing Unit) is processor performing graphics, image processing, AI processing, etc. at high speed."
+          }
+        }
+      ]
+    },
+    {
+      "type": "answer_explanation",
+      "number": "11-14",
+      "answer": "ア",
+      "explanation": {
+        "ja": "「無線」がキーワードです。選択肢のなかで無線の入出力インタフェースはBluetoothのみです。",
+        "vi": "\"Không dây\" là từ khóa. Trong các lựa chọn, giao diện nhập xuất không dây chỉ có Bluetooth.",
+        "en": "'Wireless' is keyword. Among options, only Bluetooth is wireless I/O interface."
+      }
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！GPU",
+        "vi": "Chi tiết hơn! GPU",
+        "en": "More Details! GPU"
+      },
+      "content": {
+        "ja": "コンピュータの中核的な処理装置には、CPUの他に「GPU」もあります。GPU（Graphics Processing Unit）は、画像や映像の描画を高速に処理するための処理装置です。最近は、GPUの高速な並列計算能力を活用して、AI（人工知能）の学習にも利用されています。",
+        "vi": "Thiết bị xử lý cốt lõi của máy tính ngoài CPU còn có \"GPU\". GPU (Graphics Processing Unit) là thiết bị xử lý để xử lý vẽ hình ảnh và video với tốc độ cao. Gần đây, GPU cũng được sử dụng cho việc học AI (trí tuệ nhân tạo) tận dụng khả năng tính toán song song tốc độ cao của GPU.",
+        "en": "Computer's core processing device includes 'GPU' besides CPU. GPU (Graphics Processing Unit) is processing device for high-speed image and video rendering. Recently, GPU is also used for AI (Artificial Intelligence) learning utilizing GPU's high-speed parallel computing capability."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "GPU",
+      "full": "Graphics Processing Unit",
+      "vi": "Đơn vị xử lý đồ họa",
+      "en": "Graphics Processing Unit",
+      "my": "ဂျီပီယူ"
+    },
+    {
+      "term": "CCD",
+      "full": "Charge Coupled Device",
+      "vi": "Thiết bị ghép điện tích",
+      "en": "Charge Coupled Device",
+      "my": "စီစီဒီ"
+    },
+    {
+      "term": "DVI",
+      "full": "Digital Visual Interface",
+      "vi": "Giao diện hình ảnh số",
+      "en": "Digital Visual Interface",
+      "my": "ဒီဗီအိုင်"
+    }
+  ],
+  "meta": {
+    "has_explanations": true,
+    "explanation_count": 2,
+    "is_chapter_end": true
+  }
+}

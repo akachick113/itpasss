@@ -1,0 +1,166 @@
+{
+    "page_id": 532,
+    "image": "p_0532.png",
+    "chapter": 14,
+    "section": "Practice",
+    "page_number": 516,
+    "content": [
+        {
+            "type": "practice_question",
+            "number": "14-14",
+            "year": "令和元年度",
+            "question": {
+                "ja": "複数のIoTデバイスとそれらを管理するIoTサーバで構成されるIoTシステムにおける、エッジコンピューティングに関する記述として、適切なものはどれか。",
+                "vi": "Trong hệ thống IoT bao gồm nhiều thiết bị IoT và máy chủ IoT quản lý chúng, mô tả nào về Edge Computing là phù hợp?",
+                "en": "In IoT system consisting of multiple IoT devices and IoT server managing them, which is appropriate description about Edge Computing?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "IoTサーバ上のデータベースの複製を別のサーバにも置き、両者を常に同期させて運用する。",
+                        "vi": "Đặt bản sao cơ sở dữ liệu trên máy chủ IoT ở máy chủ khác và vận hành đồng bộ liên tục.",
+                        "en": "Place database copy on IoT server also on another server and operate with constant synchronization."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "IoTデバイス群の近くにコンピュータを配置して、IoTサーバの負荷低減とIoTシステムのリアルタイム性向上に有効な処理を行わせる。",
+                        "vi": "Đặt máy tính gần nhóm thiết bị IoT để thực hiện xử lý hiệu quả cho việc giảm tải máy chủ IoT và nâng cao tính thời gian thực của hệ thống IoT.",
+                        "en": "Place computers near IoT device groups to perform processing effective for reducing IoT server load and improving IoT system real-time performance."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "IoTデバイスとIoTサーバ間の通信負荷の状況に応じて、ネットワークの構成を自動的に最適化する。",
+                        "vi": "Tự động tối ưu hóa cấu hình mạng theo tình trạng tải truyền thông giữa thiết bị IoT và máy chủ IoT.",
+                        "en": "Automatically optimize network configuration according to communication load situation between IoT devices and IoT server."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "IoTデバイスを少ない電力で稼働させて、一般的な電池で長期間の連続運用を行う。",
+                        "vi": "Vận hành thiết bị IoT với điện năng thấp, thực hiện vận hành liên tục dài hạn bằng pin thông thường.",
+                        "en": "Operate IoT devices with low power, perform long-term continuous operation with regular batteries."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "14-15",
+            "year": "令和7年度",
+            "question": {
+                "ja": "Bluetoothに追加された仕様の一つであり、省電力性に優れているので、IoTシステムを長期間運用で、送受信デバイス間の距離を知ることにも使われているものはどれか。",
+                "vi": "Cái nào là một trong những thông số kỹ thuật được thêm vào Bluetooth, ưu việt về tiết kiệm năng lượng, nên được sử dụng trong vận hành dài hạn hệ thống IoT và cũng để biết khoảng cách giữa các thiết bị gửi nhận?",
+                "en": "Which is one of specifications added to Bluetooth, excellent in power-saving, used for long-term IoT system operation and also for knowing distance between send/receive devices?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": "BLE"
+                },
+                {
+                    "label": "イ",
+                    "text": "LTE"
+                },
+                {
+                    "label": "ウ",
+                    "text": "IrDA"
+                },
+                {
+                    "label": "エ",
+                    "text": "NFC"
+                },
+                {
+                    "label": "オ",
+                    "text": "PLC"
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "14-16",
+            "year": "令和元年度",
+            "question": {
+                "ja": "IoTシステム向けに使われる無線ネットワークであり、一般的な電池で数年以上の運用が可能な省電力性と、最大で数十kmの通信が可能な広域性を有するものはどれか。",
+                "vi": "Cái nào là mạng không dây được sử dụng cho hệ thống IoT, có tính tiết kiệm năng lượng có thể vận hành nhiều năm bằng pin thông thường, và tính phạm vi rộng có thể truyền thông tối đa vài chục km?",
+                "en": "Which is wireless network used for IoT systems, having power-saving enabling years of operation with regular batteries, and wide-area capability of communication up to tens of km?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": "LPWA"
+                },
+                {
+                    "label": "イ",
+                    "text": "MDM"
+                },
+                {
+                    "label": "ウ",
+                    "text": "SDN"
+                },
+                {
+                    "label": "エ",
+                    "text": "WPA2"
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "14-17",
+            "year": "令和6年度",
+            "question": {
+                "ja": "ESSIDをステルス化することによって得られる効果として、適切なものはどれか。",
+                "vi": "Hiệu quả nào có thể đạt được bằng cách ẩn ESSID là phù hợp?",
+                "en": "Which is appropriate effect obtained by making ESSID stealth?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "アクセスポイントと端末間の通信を暗号化できる。",
+                        "vi": "Có thể mã hóa truyền thông giữa Access Point và đầu cuối.",
+                        "en": "Can encrypt communication between access point and terminal."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "アクセスポイントに接続してくる端末を認証できる。",
+                        "vi": "Có thể xác thực đầu cuối kết nối đến Access Point.",
+                        "en": "Can authenticate terminals connecting to access point."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "アクセスポイントへの不正接続リスクを低減できる。",
+                        "vi": "Có thể giảm rủi ro kết nối trái phép đến Access Point.",
+                        "en": "Can reduce unauthorized connection risk to access point."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "アクセスポイントを介さず、端末同士で直接通信できる。",
+                        "vi": "Có thể truyền thông trực tiếp giữa các đầu cuối mà không qua Access Point.",
+                        "en": "Can communicate directly between terminals without going through access point."
+                    }
+                }
+            ]
+        }
+    ],
+    "answer_key": {
+        "14-14": "イ",
+        "14-15": "ア",
+        "14-16": "ア",
+        "14-17": "ウ"
+    },
+    "meta": {
+        "is_practice": true
+    }
+}

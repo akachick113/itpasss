@@ -1,0 +1,56 @@
+{
+    "page_id": 92,
+    "image": "p_0092.png",
+    "chapter": 2,
+    "section": "answers",
+    "page_number": 76,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "2-4",
+            "answer": "エ",
+            "explanation": {
+                "ja": "不正競争防止法とは、その名のとおり、ライバル企業同士で不正な競争が行われないようにするための法律です。他社商品の真似や、他社の商品名と似た名前を使うと「不正な競争」とみなされます。ITパスポート試験では「営業秘密」と「ドメイン名」に関する内容がよく出題されます。\n\nア. 確かに他社の信用低下につながる情報ですが、反社会的な行為は世の中のために公表されるべき情報です。不正競争防止法違反ではありません。\n\nイ. 故意ではなく偶然であるところがポイントです。ドメイン名を不正に取得すると不正競争に該当しますが、ここでは偶然なので問題ありません。\n\nウ. 他人の商品を模倣すると不正競争に該当しますが、この選択肢では「オリジナル」の文房具を開発しているので、不正競争防止法違反ではありません。",
+                "vi": "Luật chống cạnh tranh không lành mạnh, đúng như tên gọi, là luật ngăn cạnh tranh không lành mạnh giữa các đối thủ. Bắt chước sản phẩm đối thủ hoặc dùng tên giống sản phẩm đối thủ được coi là cạnh tranh không lành mạnh. Trong kỳ thi IT Passport, nội dung về Bí mật kinh doanh và Tên miền thường được ra đề.\n\nア Đây là thông tin giảm uy tín đối thủ, nhưng hành vi phi xã hội nên được công bố cho xã hội. Không vi phạm.\n\nイ Điểm quan trọng là tình cờ chứ không cố ý. Thu thập tên miền bất hợp pháp là cạnh tranh không lành mạnh, nhưng ở đây là tình cờ nên không vấn đề.\n\nウ Bắt chước sản phẩm người khác là cạnh tranh không lành mạnh, nhưng lựa chọn này phát triển văn phòng phẩm độc đáo nên không vi phạm.",
+                "en": "Unfair Competition Prevention Law, as the name suggests, prevents unfair competition between rivals. Imitating competitors' products or using similar names is considered unfair competition. IT Passport frequently tests Trade Secrets and Domain Names.\n\nA. This lowers competitor credibility, but antisocial acts should be publicized. Not a violation.\n\nB. Key point is coincidence, not intention. Illegally acquiring domain names is unfair competition, but this was coincidental.\n\nC. Imitating others' products is unfair competition, but this develops ORIGINAL stationery, not a violation."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-5",
+            "answer": "イ",
+            "explanation": {
+                "ja": "「相互に」（クロス）「許諾する」（ライセンス）というキーワードから「クロスライセンス」だとわかります。\n\nア. アライアンスとは、企業同士が提携することです（p.106）。\n\nウ. ジョイントベンチャーとは、複数の企業が出資をして新しい会社を作ることです。合弁会社ともいいます。\n\nエ. ロイヤルティとは、特許を利用するために支払う費用のことです。",
+                "vi": "Từ các từ khóa tương hỗ (Cross) và cho phép (License), có thể biết đây là Cross-License.\n\nア Alliance là việc các doanh nghiệp hợp tác (trang 106).\n\nウ Joint Venture là việc nhiều doanh nghiệp góp vốn tạo công ty mới. Còn gọi là công ty liên doanh.\n\nエ Royalty là chi phí trả để sử dụng bằng sáng chế.",
+                "en": "From keywords mutual (Cross) and permit (License), this is Cross-License.\n\nA. Alliance is companies partnering (p.106).\n\nC. Joint Venture is multiple companies investing to create a new company. Also called joint venture company.\n\nD. Royalty is the fee paid to use patents."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-6",
+            "answer": "ア",
+            "explanation": {
+                "ja": "「不正アクセス行為の禁止等に関する法律」とは「不正アクセス禁止法」の正式な名称です。「セキュリティ上の弱点」のことをセキュリティホール（脆弱性）といいます。よって、セキュリティホールからのアクセスなので、不正アクセスとなり、不正アクセス禁止法で禁止されている行為となります。\n\nイ. 営業秘密を盗用するのは、不正競争防止法に対する違反行為です。\n\nウ. 刑法（名誉毀損罪など）に対する違反行為です。\n\nエ. 個人情報保護法に対する違反行為です。",
+                "vi": "Luật liên quan đến cấm hành vi truy cập trái phép là tên chính thức của Luật cấm truy cập trái phép. Điểm yếu bảo mật được gọi là Security Hole (lỗ hổng). Do đó, đây là truy cập qua Security Hole, là truy cập trái phép, bị cấm theo luật này.\n\nイ Đánh cắp bí mật kinh doanh vi phạm Luật chống cạnh tranh không lành mạnh.\n\nウ Vi phạm Bộ luật Hình sự (tội phỉ báng).\n\nエ Vi phạm Luật bảo vệ thông tin cá nhân.",
+                "en": "The Law on Prohibition of Unauthorized Access is the official name of the Unauthorized Access Prohibition Law. Security weaknesses are called Security Holes (vulnerabilities). This is access through security holes, which is unauthorized access, prohibited by this law.\n\nB. Stealing trade secrets violates Unfair Competition Prevention Law.\n\nC. Violates Criminal Code (defamation).\n\nD. Violates Personal Information Protection Law."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-7",
+            "answer": "ア",
+            "explanation": {
+                "ja": "不正アクセス禁止法では、次の4つの行為が処罰の対象になります。\n（1）なりすましによるアクセス\n（2）セキュリティホールからのアクセス\n（3）他人のIDとパスワードを取得する行為\n（4）本人の許可なく、他人のIDやパスワードなどを無断で誰かに教えること\n\na. 上記の「（4）本人の許可なく、他人のIDやパスワードなどを無断で誰かに教えること」にあたるので規制対象です。\n\nb. マルウェアの作成は、不正アクセス禁止法の規制対象ではありません。ただし、刑法のウイルス作成罪の規制対象になります。\n\nc. 上記の「（1）なりすましによるアクセス」にあたるので規制対象です。\n\nしたがって、aとcが不正アクセス禁止法で規制される行為に該当します。",
+                "vi": "Luật cấm truy cập trái phép xử phạt 4 hành vi:\n(1) Truy cập bằng mạo danh\n(2) Truy cập qua lỗ hổng bảo mật\n(3) Thu thập ID và mật khẩu người khác\n(4) Tiết lộ ID/mật khẩu người khác mà không được phép\n\na. Thuộc (4) nên bị kiểm soát.\n\nb. Tạo malware KHÔNG bị kiểm soát bởi luật này. Tuy nhiên, bị kiểm soát bởi Tội tạo virus trong Bộ luật Hình sự.\n\nc. Thuộc (1) nên bị kiểm soát.\n\nDo đó, a và c thuộc hành vi bị kiểm soát bởi Luật cấm truy cập trái phép.",
+                "en": "Unauthorized Access Prohibition Law punishes 4 acts:\n(1) Access by impersonation\n(2) Access through security holes\n(3) Obtaining others' IDs and passwords\n(4) Disclosing others' IDs/passwords without permission\n\na. Falls under (4), so regulated.\n\nb. Creating malware is NOT regulated by this law. However, it's regulated by Virus Creation Crime in Criminal Code.\n\nc. Falls under (1), so regulated.\n\nTherefore, a and c are acts regulated by Unauthorized Access Prohibition Law."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "2-4, 2-5, 2-6, 2-7"
+    }
+}

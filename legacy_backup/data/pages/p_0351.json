@@ -1,0 +1,239 @@
+{
+  "page_id": 351,
+  "image": "p_0351.png",
+  "chapter": 9,
+  "section": "09-05",
+  "page_number": 335,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "フローチャート",
+      "reading": "ふろーちゃーと",
+      "vi": "Lưu đồ",
+      "en": "Flowchart"
+    },
+    {
+      "type": "paragraph",
+      "ja": "フローチャート（流れ図）とは、アルゴリズムの内容を視覚的にわかりやすく表した図です。アルゴリズムは文章であるため、そのままでは第三者に内容を正確に伝えるのが困難です。そこで誰が見てもすぐに内容を把握できるような図（フローチャート）にします。",
+      "vi": "Flowchart (lưu đồ) là sơ đồ biểu diễn trực quan nội dung thuật toán dễ hiểu. Vì thuật toán là văn bản nên khó truyền đạt chính xác nội dung cho người thứ ba. Do đó, chuyển thành hình (flowchart) để ai nhìn cũng hiểu ngay nội dung.",
+      "en": "Flowchart is diagram visually representing algorithm content clearly. Since algorithms are text, it's difficult to accurately convey content to third parties. So make it into diagram (flowchart) anyone can understand immediately.",
+      "terms": [
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "視覚的",
+          "reading": "しかくてき"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "第三者",
+          "reading": "だいさんしゃ"
+        },
+        {
+          "kanji": "正確",
+          "reading": "せいかく"
+        },
+        {
+          "kanji": "伝",
+          "reading": "でん"
+        },
+        {
+          "kanji": "困難",
+          "reading": "こんなん"
+        },
+        {
+          "kanji": "誰",
+          "reading": "だれ"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "フローチャートで使用する記号はJISによって規格化されています。ITパスポート試験に出題されるフローチャートの記号は次の4種類です。なお、記号の名前が問われることはあまりありません。記号の形と役割を覚えてください。",
+      "vi": "Ký hiệu sử dụng trong flowchart được tiêu chuẩn hóa bởi JIS. Ký hiệu flowchart ra trong kỳ thi IT Passport có 4 loại sau. Tên ký hiệu ít khi được hỏi. Hãy nhớ hình dạng và vai trò của ký hiệu.",
+      "en": "Symbols used in flowcharts are standardized by JIS. Flowchart symbols in IT Passport exam are following 4 types. Symbol names aren't often asked. Remember symbol shapes and roles.",
+      "terms": [
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "記号",
+          "reading": "きごう"
+        },
+        {
+          "kanji": "規格化",
+          "reading": "きかくか"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "形",
+          "reading": "かたち"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "試験に出るフローチャートの記号",
+        "vi": "Ký hiệu Flowchart ra trong thi",
+        "en": "Flowchart Symbols on Exam",
+        "note": "記号の形と役割を覚えよう！"
+      },
+      "headers": {
+        "ja": [
+          "記号",
+          "名前",
+          "役割",
+          "例"
+        ],
+        "vi": [
+          "Ký hiệu",
+          "Tên",
+          "Vai trò",
+          "Ví dụ"
+        ],
+        "en": [
+          "Symbol",
+          "Name",
+          "Role",
+          "Example"
+        ]
+      },
+      "rows": [
+        {
+          "symbol": "端子（楕円形）",
+          "name": {
+            "ja": "端子",
+            "vi": "Đầu cuối",
+            "en": "Terminal"
+          },
+          "role": {
+            "ja": "フローチャートの開始と終了を表す。記号の中に「開始」または「終了」と書く",
+            "vi": "Biểu diễn bắt đầu và kết thúc flowchart. Viết \"Bắt đầu\" hoặc \"Kết thúc\" trong ký hiệu",
+            "en": "Represents flowchart start and end. Write 'Start' or 'End' in symbol"
+          }
+        },
+        {
+          "symbol": "処理（長方形）",
+          "name": {
+            "ja": "処理",
+            "vi": "Xử lý",
+            "en": "Process"
+          },
+          "role": {
+            "ja": "計算や値の代入などの処理を表す。処理の記号のなかにある「→」は代入を表す。例えばAをBに代入する場合は「A→B」または「B←A」と書く。どちらでも同じ意味",
+            "vi": "Biểu diễn xử lý như tính toán hoặc gán giá trị. \"→\" trong ký hiệu xử lý là gán. Ví dụ gán A vào B viết \"A→B\" hoặc \"B←A\". Cả hai cùng nghĩa",
+            "en": "Represents processing like calculation or value assignment. '→' in process symbol is assignment. For example, assigning A to B write 'A→B' or 'B←A.' Both mean same"
+          }
+        },
+        {
+          "symbol": "判断（ひし形）",
+          "name": {
+            "ja": "判断",
+            "vi": "Điều kiện",
+            "en": "Decision"
+          },
+          "role": {
+            "ja": "処理を分岐するための条件を表す。出口に「Yesと「No」などの判定結果を書く",
+            "vi": "Biểu diễn điều kiện để phân nhánh xử lý. Viết kết quả phán đoán như \"Yes\" và \"No\" ở lối ra",
+            "en": "Represents condition for branching processing. Write judgment results like 'Yes' and 'No' at exits"
+          }
+        },
+        {
+          "symbol": "線（矢印）",
+          "name": {
+            "ja": "線",
+            "vi": "Đường",
+            "en": "Line"
+          },
+          "role": {
+            "ja": "処理の順番を表す。処理が上から上へ戻る場合など、処理の流れがかかりづらい箇所では、矢印線を使う",
+            "vi": "Biểu diễn thứ tự xử lý. Ở những chỗ khó thấy dòng xử lý như khi xử lý quay lại từ dưới lên trên, sử dụng mũi tên",
+            "en": "Represents processing order. At places where flow is unclear like when processing returns from bottom to top, use arrow lines"
+          }
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "矢印がない所では、処理は上から下へ流れる！",
+        "vi": "Ở chỗ không có mũi tên, xử lý chảy từ trên xuống dưới!",
+        "en": "Where no arrows, processing flows top to bottom!"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "フローチャート",
+      "reading": "ふろーちゃーと",
+      "synonym": "流れ図",
+      "vi": "Lưu đồ",
+      "en": "Flowchart",
+      "my": "ဖလိုးချာတ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

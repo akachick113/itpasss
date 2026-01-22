@@ -1,0 +1,222 @@
+{
+    "page_id": 558,
+    "image": "p_0558.png",
+    "chapter": 15,
+    "section": "Practice",
+    "page_number": 542,
+    "content": [
+        {
+            "type": "practice_question",
+            "number": "15-12",
+            "year": "令和5年度",
+            "question": {
+                "ja": "ランサムウェアに関する記述として、最も適切なものはどれか。",
+                "vi": "Mô tả nào về Ransomware là phù hợp nhất?",
+                "en": "Which is most appropriate description about Ransomware?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "PCに外部から不正にログインするための侵入路をひそかに設置する。",
+                        "vi": "Bí mật cài đặt đường xâm nhập để đăng nhập trái phép từ bên ngoài vào PC.",
+                        "en": "Secretly install intrusion path for illegally logging into PC from outside."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "PCのファイルを勝手に暗号化し、復号のためのキーを提供することなどを条件に金銭を要求する。",
+                        "vi": "Tự ý mã hóa file PC và yêu cầu tiền với điều kiện như cung cấp khóa giải mã.",
+                        "en": "Arbitrarily encrypts PC files and demands money on conditions like providing decryption key."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "Webブラウザを乗っ取り、オンラインバンキングなどの通信に割り込んで不正送金などを行う。",
+                        "vi": "Chiếm quyền trình duyệt Web, xen vào truyền thông ngân hàng trực tuyến để thực hiện chuyển tiền bất hợp pháp.",
+                        "en": "Hijacks Web browser, intervenes in online banking communication to perform illegal transfers."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "自らネットワークを経由して感染を広げる機能をもち、まん延していく。",
+                        "vi": "Có chức năng tự lan truyền lây nhiễm qua mạng và lan rộng.",
+                        "en": "Has function to spread infection via network by itself and proliferates."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "15-13",
+            "year": "平成31年度",
+            "question": {
+                "ja": "スマートフォンを利用するときに、ソーシャルエンジニアリングに分類されるショルダーハックの防止策として、適切なものはどれか。",
+                "vi": "Khi sử dụng smartphone, biện pháp phòng ngừa Shoulder Hack được phân loại là Social Engineering phù hợp nhất là gì?",
+                "en": "When using smartphone, which is appropriate measure to prevent Shoulder Hack classified as Social Engineering?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "OSを常に最新の状態で利用する。",
+                        "vi": "Luôn sử dụng OS ở trạng thái mới nhất.",
+                        "en": "Always use OS in latest state."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "位置情報機能をオフにする。",
+                        "vi": "Tắt chức năng vị trí.",
+                        "en": "Turn off location function."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "スクリーンにのぞき見防止フィルムを貼る。",
+                        "vi": "Dán film chống nhìn trộm lên màn hình.",
+                        "en": "Apply anti-peeping film on screen."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "落下、盗難防止用にストラップを付ける。",
+                        "vi": "Gắn dây đeo để phòng rơi và mất cắp.",
+                        "en": "Attach strap to prevent dropping and theft."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "15-14",
+            "year": "令和6年度",
+            "question": {
+                "ja": "特定のPCから重要情報を不正に入手するといった標的型攻撃に利用され、攻撃対象のPCに対して遠隔から操作を行って、ファイルの送受信やコマンドなどを実行させるものはどれか。",
+                "vi": "Cái nào được sử dụng trong tấn công có mục tiêu như lấy thông tin quan trọng trái phép từ PC cụ thể, điều khiển từ xa PC mục tiêu để gửi nhận file hoặc thực thi lệnh?",
+                "en": "Which is used in targeted attacks like illegally obtaining important information from specific PC, remotely operating target PC to send/receive files or execute commands?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": "RAT"
+                },
+                {
+                    "label": "イ",
+                    "text": "VPN"
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "デバイスドライバ",
+                        "vi": "Device driver",
+                        "en": "Device driver"
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "ランサムウェア",
+                        "vi": "Ransomware",
+                        "en": "Ransomware"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_header",
+            "title": {
+                "ja": "解答・解説",
+                "vi": "Đáp án và Giải thích",
+                "en": "Answers and Explanations"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "15-1",
+            "answer": "ア",
+            "explanation": {
+                "ja": "クロスサイトスクリプティングを簡単に説明すると「他人のWebサイトに悪意のあるスクリプトを埋め込むこと」です。",
+                "vi": "Giải thích đơn giản Cross Site Scripting là \"nhúng script độc hại vào trang web của người khác\".",
+                "en": "Simply explaining Cross Site Scripting is 'embedding malicious script in other people's websites.'"
+            },
+            "option_explanations": [
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "バッファオーバーフローの特徴です。",
+                        "vi": "Là đặc điểm của Buffer Overflow.",
+                        "en": "Is characteristic of Buffer Overflow."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "トロイの木馬の特徴です。",
+                        "vi": "Là đặc điểm của Trojan Horse.",
+                        "en": "Is characteristic of Trojan Horse."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "マクロウイルスの特徴です。",
+                        "vi": "Là đặc điểm của Macro Virus.",
+                        "en": "Is characteristic of Macro Virus."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "15-2",
+            "answer": "エ",
+            "explanation": {
+                "ja": "捨てられた書類や記録媒体から情報を盗み出すことを「トラッシング」といいます。トラッシングはソーシャルエンジニアリングの一例です。IoT機器を廃棄する際に物理的に破壊することで、記憶装置に保存されている情報を守ることは、ソーシャルエンジニアリングの対策となります。",
+                "vi": "Việc đánh cắp thông tin từ tài liệu hoặc phương tiện lưu trữ bị vứt bỏ được gọi là \"Trashing\". Trashing là một ví dụ của Social Engineering. Phá hủy vật lý khi bỏ thiết bị IoT để bảo vệ thông tin được lưu trong thiết bị lưu trữ là biện pháp đối phó Social Engineering.",
+                "en": "Stealing information from discarded documents or storage media is called 'Trashing.' Trashing is example of Social Engineering. Physically destroying when discarding IoT devices to protect information stored in storage device is Social Engineering countermeasure."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "盗聴への対策です。",
+                        "vi": "Là đối sách với nghe lén.",
+                        "en": "Is countermeasure for eavesdropping."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "セキュリティホール（脆弱性）への対策です。",
+                        "vi": "Là đối sách với Security Hole (lỗ hổng).",
+                        "en": "Is countermeasure for Security Hole (vulnerability)."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "マルウェアへの対策です。",
+                        "vi": "Là đối sách với malware.",
+                        "en": "Is countermeasure for malware."
+                    }
+                }
+            ]
+        }
+    ],
+    "answer_key": {
+        "15-12": "イ",
+        "15-13": "ウ",
+        "15-14": "ア"
+    },
+    "meta": {
+        "is_practice": true,
+        "is_answer": true
+    }
+}

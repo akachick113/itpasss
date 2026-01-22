@@ -1,0 +1,388 @@
+{
+  "page_id": 49,
+  "image": "p_0049.png",
+  "chapter": 1,
+  "section": "01-06",
+  "page_number": 33,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "期待値は「値」と「確率」をかけ算し、その後、すべての組み合わせを足し算して求めます。つまり、次のように計算できます。\n\n(1×⅙)+(2×⅙)+(3×⅙)+(4×⅙)+(5×⅙)+(6×⅙) = 3.5\n\n上記の計算式より、サイコロの目の期待値は「3.5」になります。",
+      "vi": "Giá trị kỳ vọng được tính bằng cách nhân \"giá trị\" với \"xác suất\", sau đó cộng tất cả các tổ hợp lại. Nghĩa là, có thể tính như sau:\n\n(1×⅙)+(2×⅙)+(3×⅙)+(4×⅙)+(5×⅙)+(6×⅙) = 3.5\n\nTừ công thức trên, giá trị kỳ vọng của mặt xúc xắc là \"3.5\".",
+      "en": "Expected value is calculated by multiplying \"value\" by \"probability,\" then adding all combinations. In other words, it can be calculated as follows:\n\n(1×⅙)+(2×⅙)+(3×⅙)+(4×⅙)+(5×⅙)+(6×⅙) = 3.5\n\nFrom the above formula, the expected value of a dice roll is \"3.5\".",
+      "my": "Expected value ကို \"တန်ဖိုး\" ကို \"ဖြစ်နိုင်ခြေ\" ဖြင့် မြှောက်ပြီး ပေါင်းစပ်မှုအားလုံးကို ပေါင်း၍ တွက်ချက်သည်။",
+      "terms": [
+        {
+          "kanji": "期待値",
+          "reading": "きたいち"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "確率",
+          "reading": "かくりつ"
+        },
+        {
+          "kanji": "算",
+          "reading": "さん"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "足",
+          "reading": "あし"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "計算式",
+          "reading": "けいさんしき"
+        },
+        {
+          "kanji": "目",
+          "reading": "め"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "問題を解決するための手法",
+      "reading": "もんだいをかいけつするためのしゅほう",
+      "vi": "Phương pháp giải quyết vấn đề",
+      "en": "Problem-Solving Methods",
+      "my": "ပြဿနာဖြေရှင်းနည်းများ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験のシラバス（出題範囲）には、問題を解決するための手法として、「ブレーンストーミング」が明記されています。",
+      "vi": "Trong syllabus (phạm vi đề thi) của IT Passport, \"Brainstorming\" được ghi rõ là phương pháp giải quyết vấn đề.",
+      "en": "In the IT Passport exam syllabus (scope), \"Brainstorming\" is clearly stated as a problem-solving method.",
+      "my": "IT Passport စာမေးပွဲ syllabus (scope) တွင် \"Brainstorming\" ကို ပြဿနာဖြေရှင်းနည်းအဖြစ် ရှင်းလင်းစွာ ဖော်ပြထားသည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題範囲",
+          "reading": "しゅつだいはんい"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "明記",
+          "reading": "めいき"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ブレーンストーミング",
+      "reading": "ぶれーんすとーみんぐ",
+      "vi": "Brainstorming",
+      "en": "Brainstorming",
+      "my": "Brainstorming"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ブレーンストーミングとは、複数人で集まってアイディアを出し合う方法です。有益なアイディアは経営戦略に取り込んだり、問題解決の打ち手となります。ブレーンストーミングのルールは次の4つです。\n\n・批判禁止（他人のアイディアの批判は禁止）\n・質より量（アイディアは質よりも量のほうが大切）\n・自由奔放（自由奔放なアイディア大歓迎）\n・便乗OK（他人のアイディアに便乗してもよい）\n\n上記4つのルールを守ることで、参加者は思いつくままに発想でき、斬新で画期的なアイディアを出すことができます。ブレーンストーミングはITパスポート試験に最頻出の用語の1つです。必ず覚えておいてください。",
+      "vi": "Brainstorming là phương pháp nhiều người tập hợp lại để đưa ra ý tưởng. Ý tưởng hữu ích có thể được đưa vào chiến lược kinh doanh hoặc trở thành giải pháp cho vấn đề. Quy tắc của Brainstorming gồm 4 điều:\n\n・Cấm phê bình (cấm phê bình ý tưởng của người khác)\n・Số lượng hơn chất lượng (số lượng ý tưởng quan trọng hơn chất lượng)\n・Tự do phóng khoáng (hoan nghênh ý tưởng tự do phóng khoáng)\n・OK ăn theo (có thể ăn theo ý tưởng của người khác)\n\nBằng cách tuân thủ 4 quy tắc trên, người tham gia có thể tự do tưởng tượng và đưa ra ý tưởng mới mẻ, đột phá. Brainstorming là một trong những thuật ngữ xuất hiện thường xuyên nhất trong IT Passport. Hãy nhớ kỹ.",
+      "en": "Brainstorming is a method where multiple people gather to share ideas. Useful ideas can be incorporated into business strategy or become solutions to problems. Brainstorming has 4 rules:\n\n・No criticism (criticism of others' ideas is prohibited)\n・Quantity over quality (quantity of ideas is more important than quality)\n・Freewheel (freewheeling ideas are welcome)\n・Piggyback OK (piggybacking on others' ideas is allowed)\n\nBy following these 4 rules, participants can think freely and come up with innovative ideas. Brainstorming is one of the most frequently appearing terms in the IT Passport exam. Be sure to remember it.",
+      "my": "Brainstorming သည် လူအများ စုဝေး၍ အကြံဉာဏ်များ မျှဝေသော နည်းလမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "複数人",
+          "reading": "ふくすうにん"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "有益",
+          "reading": "ゆうえき"
+        },
+        {
+          "kanji": "経営戦略",
+          "reading": "けいえいせんりゃく"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "込",
+          "reading": "こみ"
+        },
+        {
+          "kanji": "問題解決",
+          "reading": "もんだいかいけつ"
+        },
+        {
+          "kanji": "打",
+          "reading": "だ"
+        },
+        {
+          "kanji": "手",
+          "reading": "て"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "批判禁止",
+          "reading": "ひはんきんし"
+        },
+        {
+          "kanji": "他人",
+          "reading": "たにん"
+        },
+        {
+          "kanji": "批判",
+          "reading": "ひはん"
+        },
+        {
+          "kanji": "禁止",
+          "reading": "きんし"
+        },
+        {
+          "kanji": "質",
+          "reading": "しつ"
+        },
+        {
+          "kanji": "量",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "kanji": "自由奔放",
+          "reading": "じゆうほんぽう"
+        },
+        {
+          "kanji": "大歓迎",
+          "reading": "だいかんげい"
+        },
+        {
+          "kanji": "便乗",
+          "reading": "びんじょう"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "参加者",
+          "reading": "さんかしゃ"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "発想",
+          "reading": "はっそう"
+        },
+        {
+          "kanji": "斬新",
+          "reading": "ざんしん"
+        },
+        {
+          "kanji": "画期的",
+          "reading": "かっきてき"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "最頻出",
+          "reading": "さいひんしゅつ"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ブレーンストーミング：複数人でアイディアを出し合う",
+        "vi": "Brainstorming: Nhiều người cùng đưa ra ý tưởng",
+        "en": "Brainstorming: Multiple people share ideas together",
+        "my": "Brainstorming: လူအများ အတူတကွ အကြံဉာဏ်များ မျှဝေခြင်း",
+        "terms": [
+          {
+            "kanji": "複数人",
+            "reading": "ふくすうにん"
+          },
+          {
+            "kanji": "出",
+            "reading": "しゅつ"
+          },
+          {
+            "kanji": "合",
+            "reading": "ごう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "親和図法",
+        "vi": "Phương pháp sơ đồ quan hệ",
+        "en": "Affinity Diagram Method",
+        "my": "Affinity Diagram Method",
+        "terms": [
+          {
+            "kanji": "親和図法",
+            "reading": "しんわずほう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "親和図法（しんわずほう）とは、バラバラでまとまりのないアイディアをグループ分けして体系的に整理する手法です。ブレーンストーミングで出したアイディアを親和図法で整理することで、より効果的な問題解決につなげることができます。",
+        "vi": "Phương pháp sơ đồ quan hệ (Shinwa Zuhou) là phương pháp phân nhóm và sắp xếp có hệ thống các ý tưởng rời rạc, không liên kết. Bằng cách sắp xếp các ý tưởng từ Brainstorming bằng phương pháp sơ đồ quan hệ, có thể dẫn đến giải quyết vấn đề hiệu quả hơn.",
+        "en": "Affinity diagram method is a technique to group and systematically organize scattered, unconnected ideas. By organizing ideas from Brainstorming with the affinity diagram method, more effective problem-solving can be achieved.",
+        "my": "Affinity diagram method သည် ပြန့်ကျဲနေသော၊ ချိတ်ဆက်မှုမရှိသော အကြံဉာဏ်များကို အုပ်စုဖွဲ့ပြီး စနစ်တကျ စီစဉ်သော နည်းစနစ်ဖြစ်သည်။",
+        "terms": [
+          {
+            "kanji": "親和図法",
+            "reading": "しんわずほう"
+          },
+          {
+            "kanji": "分",
+            "reading": "ふん"
+          },
+          {
+            "kanji": "体系的",
+            "reading": "たいけいてき"
+          },
+          {
+            "kanji": "整理",
+            "reading": "せいり"
+          },
+          {
+            "kanji": "手法",
+            "reading": "しゅほう"
+          },
+          {
+            "kanji": "出",
+            "reading": "しゅつ"
+          },
+          {
+            "kanji": "効果的",
+            "reading": "こうかてき"
+          },
+          {
+            "kanji": "問題解決",
+            "reading": "もんだいかいけつ"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ブレーンストーミング",
+      "reading": "ぶれーんすとーみんぐ",
+      "romaji": "Brainstorming",
+      "vi": "Động não",
+      "en": "Brainstorming",
+      "my": "Brainstorming"
+    },
+    {
+      "kanji": "親和図法",
+      "reading": "しんわずほう",
+      "romaji": "Shinwa Zuhou",
+      "vi": "Phương pháp sơ đồ quan hệ",
+      "en": "Affinity Diagram Method",
+      "my": "Affinity Diagram နည်းလမ်း"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

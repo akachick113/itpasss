@@ -1,0 +1,253 @@
+{
+  "page_id": 312,
+  "image": "p_0312.png",
+  "chapter": 8,
+  "section": "08-04",
+  "page_number": 296,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "08-04",
+      "title": {
+        "ja": "ファシリティマネジメント",
+        "vi": "Facility Management",
+        "en": "Facility Management"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "設備を守れ！",
+        "vi": "Bảo vệ thiết bị!",
+        "en": "Protect the Facilities!"
+      },
+      "content": {
+        "ja": "高品質のサービスを提供し続けるためには、システムの基盤ともいえる「設備」をきちんと管理することが必要です。ここでは、設備を管理する方法を解説します。",
+        "vi": "Để tiếp tục cung cấp dịch vụ chất lượng cao, cần quản lý đúng cách \"thiết bị\" - nền tảng của hệ thống. Ở đây, sẽ giải thích phương pháp quản lý thiết bị.",
+        "en": "To continue providing high-quality service, it's necessary to properly manage 'facilities' - the foundation of systems. Here, we'll explain how to manage facilities."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "これまでは「システムはハードウェアとソフトウェアの2つから構成される」と解説してきましたが、厳密には、システムは「ハードウェア」「ソフトウェア」「その他の設備」の3つで構成されます。その他の設備の具体例としては「ネットワーク設備」「電源設備」「空調設備」などが挙げられます。",
+      "vi": "Cho đến nay đã giải thích \"hệ thống gồm 2 thành phần hardware và software\", nhưng chính xác thì hệ thống gồm 3 thành phần: \"Hardware\", \"Software\", \"Thiết bị khác\". Ví dụ cụ thể của thiết bị khác là \"thiết bị mạng\", \"thiết bị nguồn điện\", \"thiết bị điều hòa\".",
+      "en": "Until now we explained 'system consists of 2: hardware and software,' but strictly, system consists of 3: 'Hardware,' 'Software,' 'Other Facilities.' Specific examples of other facilities include 'network facilities,' 'power facilities,' 'air conditioning facilities.'",
+      "terms": [
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "厳密",
+          "reading": "げんみつ"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "設備",
+          "reading": "せつび"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "電源設備",
+          "reading": "でんげんせつび"
+        },
+        {
+          "kanji": "空調設備",
+          "reading": "くうちょうせつび"
+        },
+        {
+          "kanji": "挙",
+          "reading": "きょ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "サービスレベルの高いサービスを提供し続けるためには、これらの設備を災害や盗難から守り、企業活動を継続していく必要があります。ここでは設備を守るための具体的な施策を解説します。",
+      "vi": "Để tiếp tục cung cấp dịch vụ có Service Level cao, cần bảo vệ các thiết bị này khỏi thảm họa và trộm cắp, tiếp tục hoạt động kinh doanh. Ở đây sẽ giải thích các biện pháp cụ thể để bảo vệ thiết bị.",
+      "en": "To continue providing high Service Level service, these facilities must be protected from disasters and theft to continue business activities. Here we'll explain specific measures to protect facilities.",
+      "terms": [
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "続",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "設備",
+          "reading": "せつび"
+        },
+        {
+          "kanji": "災害",
+          "reading": "さいがい"
+        },
+        {
+          "kanji": "盗難",
+          "reading": "とうなん"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "企業活動",
+          "reading": "きぎょうかつどう"
+        },
+        {
+          "kanji": "継続",
+          "reading": "けいぞく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "施策",
+          "reading": "しさく"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "BCMとBCP",
+      "reading": "びーしーえむとびーしーぴー",
+      "vi": "BCM và BCP",
+      "en": "BCM and BCP"
+    },
+    {
+      "type": "paragraph",
+      "ja": "企業活動を止めないための経営管理の手法には、次の2種類があります。",
+      "vi": "Có 2 loại phương pháp quản lý kinh doanh để không dừng hoạt động doanh nghiệp.",
+      "en": "There are 2 types of management methods to not stop business activities.",
+      "terms": [
+        {
+          "kanji": "企業活動",
+          "reading": "きぎょうかつどう"
+        },
+        {
+          "kanji": "止",
+          "reading": "し"
+        },
+        {
+          "kanji": "経営管理",
+          "reading": "けいえいかんり"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "企業活動を止めないための経営管理の手法",
+        "vi": "Phương pháp quản lý kinh doanh để không dừng hoạt động doanh nghiệp",
+        "en": "Management Methods to Not Stop Business Activities"
+      },
+      "headers": {
+        "ja": [
+          "手法",
+          "説明"
+        ],
+        "vi": [
+          "Phương pháp",
+          "Giải thích"
+        ],
+        "en": [
+          "Method",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "method": {
+            "ja": "BCM（事業継続管理）",
+            "vi": "BCM (Business Continuity Management)",
+            "en": "BCM (Business Continuity Management)"
+          },
+          "description": {
+            "ja": "大規模な災害などによって、企業活動を支える重要な情報システムに障害が発生したような場合でも企業活動を継続するための経営手法。この手法のポイントは事前に計画し、準備しておくこと。",
+            "vi": "Phương pháp kinh doanh để tiếp tục hoạt động doanh nghiệp ngay cả khi hệ thống thông tin quan trọng hỗ trợ hoạt động doanh nghiệp bị sự cố do thảm họa quy mô lớn. Điểm mấu chốt là lập kế hoạch và chuẩn bị trước.",
+            "en": "Management method to continue business activities even when important information systems supporting business have failures due to large-scale disasters. Key point is planning and preparing in advance."
+          }
+        },
+        {
+          "method": {
+            "ja": "BCP（事業継続計画）",
+            "vi": "BCP (Business Continuity Plan)",
+            "en": "BCP (Business Continuity Plan)"
+          },
+          "description": {
+            "ja": "災害や事故などの不測の事態を想定して、事業をいかに継続するかをまとめた計画",
+            "vi": "Kế hoạch tổng hợp cách tiếp tục hoạt động kinh doanh, giả định các tình huống bất ngờ như thảm họa hoặc tai nạn",
+            "en": "Plan summarizing how to continue business, assuming unexpected situations like disasters or accidents"
+          }
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ファシリティマネジメント",
+      "reading": "ふぁしりてぃまねじめんと",
+      "romaji": "Facility Management",
+      "vi": "Quản lý cơ sở vật chất",
+      "en": "Facility Management",
+      "my": "အဆောက်အသွင် မန်နေ့ဂျမန့်"
+    },
+    {
+      "kanji": "BCM",
+      "reading": "びーしーえむ",
+      "romaji": "BCM",
+      "vi": "Quản lý liên tục kinh doanh",
+      "en": "Business Continuity Management",
+      "my": "ဘီစီအမ်"
+    },
+    {
+      "kanji": "BCP",
+      "reading": "びーしーぴー",
+      "romaji": "BCP",
+      "vi": "Kế hoạch liên tục kinh doanh",
+      "en": "Business Continuity Plan",
+      "my": "ဘီစီပီ"
+    }
+  ],
+  "meta": {
+    "has_illustration": true,
+    "has_table": true
+  }
+}

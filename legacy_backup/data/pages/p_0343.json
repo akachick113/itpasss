@@ -1,0 +1,340 @@
+{
+  "page_id": 343,
+  "image": "p_0343.png",
+  "chapter": 9,
+  "section": "09-02",
+  "page_number": 327,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "組み合わせ",
+      "reading": "くみあわせ",
+      "vi": "Tổ hợp",
+      "en": "Combination",
+      "note": "重要！よく出題される！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "組み合わせとは、異なる要素の集まりの中から、いくつかの要素を選び出す方法です。このように書くと何やら難しそうに聞こえますが、簡単な具体例で考えてみると「5人の中から2人を選び出す場合の組み合わせの数」を求めるということです。つまり、A、B、C、D、Eさんの5人の中から、2人を選び出したときの組み合わせを書き出すと、次のようになります。",
+      "vi": "Tổ hợp là phương pháp chọn ra một số phần tử từ tập hợp các phần tử khác nhau. Viết như vậy có vẻ khó, nhưng với ví dụ cụ thể đơn giản là \"tìm số tổ hợp khi chọn 2 người từ 5 người\". Nghĩa là, khi viết ra các tổ hợp chọn 2 người từ 5 người A, B, C, D, E như sau.",
+      "en": "Combination is method of selecting some elements from collection of different elements. This sounds difficult, but simple example is 'finding number of combinations when selecting 2 people from 5.' That is, combinations when selecting 2 from 5 people A, B, C, D, E are as follows.",
+      "terms": [
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "要素",
+          "reading": "ようそ"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "選",
+          "reading": "せん"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "難",
+          "reading": "なん"
+        },
+        {
+          "kanji": "聞",
+          "reading": "ぶん"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "組み合わせの例",
+        "vi": "Ví dụ tổ hợp",
+        "en": "Combination Example"
+      },
+      "content": {
+        "ja": "Aさん+Bさん、Bさん+Cさん、Cさん+Dさん、Dさん+Eさん（etc.）→ 合計10通り",
+        "vi": "A+B, B+C, C+D, D+E (v.v.) → Tổng cộng 10 cách",
+        "en": "A+B, B+C, C+D, D+E (etc.) → Total 10 ways"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記から、5人の中から2人を選び出す組み合わせの数は「10通り」であることがわかります。なお、組み合わせの計算においては「選び出す順番」は区別しません。「Aさん＋Bさん」と「Bさん＋Aさん」は同じであるということです。",
+      "vi": "Từ trên, có thể thấy số tổ hợp chọn 2 người từ 5 người là \"10 cách\". Trong tính toán tổ hợp, \"thứ tự chọn\" không được phân biệt. \"A+B\" và \"B+A\" là giống nhau.",
+      "en": "From above, number of combinations selecting 2 from 5 is '10 ways.' In combination calculations, 'selection order' isn't distinguished. 'A+B' and 'B+A' are same.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "選",
+          "reading": "せん"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "順番",
+          "reading": "じゅんばん"
+        },
+        {
+          "kanji": "区別",
+          "reading": "くべつ"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "組み合わせの数は次の公式で求めることができます。",
+      "vi": "Số tổ hợp có thể tìm bằng công thức sau.",
+      "en": "Number of combinations can be found using following formula.",
+      "terms": [
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "公式",
+          "reading": "こうしき"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        }
+      ]
+    },
+    {
+      "type": "formula",
+      "title": {
+        "ja": "組み合わせの公式",
+        "vi": "Công thức tổ hợp",
+        "en": "Combination Formula"
+      },
+      "content": "ₙCᵣ = n! / r!(n-r)!",
+      "example": {
+        "ja": "₅C₂ = 5! / 2!(5-2)! = (5×4×3×2×1) / (2×1)(3×2×1) = (5×4) / (2×1) = 20/2 = 10（通り）",
+        "vi": "₅C₂ = 5! / 2!(5-2)! = (5×4×3×2×1) / (2×1)(3×2×1) = (5×4) / (2×1) = 20/2 = 10 (cách)",
+        "en": "₅C₂ = 5! / 2!(5-2)! = (5×4×3×2×1) / (2×1)(3×2×1) = (5×4) / (2×1) = 20/2 = 10 (ways)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "同様に、7人の中から3人を選び出す場合の組み合わせの数は以下になります。",
+      "vi": "Tương tự, số tổ hợp khi chọn 3 người từ 7 người như sau.",
+      "en": "Similarly, number of combinations selecting 3 from 7 is as follows.",
+      "terms": [
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "選",
+          "reading": "せん"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        }
+      ]
+    },
+    {
+      "type": "formula",
+      "content": "₇C₃ = 7! / 3!(7-3)! = (7×6×5) / (3×2×1) = 35（通り）"
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！階乗と組み合わせの公式",
+        "vi": "Chi tiết hơn! Công thức giai thừa và tổ hợp",
+        "en": "More Details! Factorial and Combination Formulas"
+      },
+      "content": {
+        "items": [
+          {
+            "title": {
+              "ja": "階乗の公式",
+              "vi": "Công thức giai thừa",
+              "en": "Factorial Formula"
+            },
+            "formula": "n! = n × (n-1) × (n-2) × ... × 3 × 2 × 1",
+            "meaning": {
+              "ja": "【意味】ある正の整数nに対して、1からnまでのすべての整数を掛け合わせたもの",
+              "vi": "【Ý nghĩa】Với số nguyên dương n, là tích của tất cả số nguyên từ 1 đến n",
+              "en": "[Meaning] For positive integer n, product of all integers from 1 to n"
+            }
+          },
+          {
+            "title": {
+              "ja": "組み合わせの公式",
+              "vi": "Công thức tổ hợp",
+              "en": "Combination Formula"
+            },
+            "formula": "ₙCᵣ = n! / r!(n-r)!",
+            "meaning": {
+              "ja": "【意味】n個の異なる要素からr個を選ぶ組み合わせの数を求める式",
+              "vi": "【Ý nghĩa】Công thức tìm số cách chọn r phần tử từ n phần tử khác nhau",
+              "en": "[Meaning] Formula to find number of ways to select r from n different elements"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "組み合わせ",
+      "reading": "くみあわせ",
+      "romaji": "Kumiawase",
+      "vi": "Tổ hợp",
+      "en": "Combination",
+      "my": "ပေါင်းစပ်"
+    },
+    {
+      "kanji": "階乗",
+      "reading": "かいじょう",
+      "romaji": "Kaijou",
+      "vi": "Giai thừa",
+      "en": "Factorial",
+      "my": "ဖက်တော်ရီယလ်"
+    }
+  ],
+  "meta": {
+    "has_calculation": true
+  }
+}

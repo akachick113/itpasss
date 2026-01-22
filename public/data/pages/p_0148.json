@@ -1,0 +1,266 @@
+{
+  "page_id": 148,
+  "image": "p_0148.png",
+  "chapter": 4,
+  "section": "04-02",
+  "page_number": 132,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "やクレジットカード、社員証、電子マネーなどです。\n\n第2章で「JANコード」や「QRコード」について解説しました（p.86）。ICタグは今後、JANコードやQRコードに代わる装置であるといわれています。",
+      "vi": "và thẻ tín dụng, thẻ nhân viên, tiền điện tử.\n\nChương 2 đã giải thích về JAN Code và QR Code (trang 86). IC Tag được cho là thiết bị sẽ thay thế JAN Code và QR Code trong tương lai.",
+      "en": "and credit cards, employee IDs, electronic money etc.\n\nChapter 2 explained JAN Code and QR Code (p.86). IC Tag is said to be a device that will replace JAN Code and QR Code in the future.",
+      "my": "နှင့် ခရက်ဒစ်ကတ်များ၊ ဝန်ထမ်းသက်သေခံကတ်များ၊ အီလက်ထရောနစ်ငွေကြေး စသည်တို့ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "社員証",
+          "reading": "しゃいんしょう"
+        },
+        {
+          "kanji": "電子",
+          "reading": "でんし"
+        },
+        {
+          "kanji": "第",
+          "reading": "だい"
+        },
+        {
+          "kanji": "章",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "今後",
+          "reading": "こんご"
+        },
+        {
+          "kanji": "代",
+          "reading": "だい"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "RFIDとNFC",
+      "reading": "あーるえふあいでぃーとえぬえふしー",
+      "vi": "RFID và NFC",
+      "en": "RFID and NFC",
+      "my": "RFID နှင့် NFC"
+    },
+    {
+      "type": "paragraph",
+      "ja": "一口に「RFID」といっても、RFIDにはさまざまな規格があります。ITパスポート試験で頻出なのは「NFC」です。中でも、「交通系ICカード（Suicaなど）」に使われている、という点は非常に重要です。必ず覚えておいてください。\n\nNFC（Near Field Communication）は近距離無線通信の規格です。NFCの通信距離は数cmです。",
+      "vi": "Nói đơn giản là RFID nhưng RFID có nhiều tiêu chuẩn khác nhau. Trong IT Passport, NFC hay ra đề. Đặc biệt, điểm được sử dụng trong thẻ IC giao thông (như Suica) rất quan trọng. Nhớ kỹ nhé.\n\nNFC (Near Field Communication) là tiêu chuẩn giao tiếp không dây tầm ngắn. Khoảng cách giao tiếp NFC là vài cm.",
+      "en": "Though simply called RFID, RFID has various standards. NFC is frequently tested in IT Passport. Especially, the point that it's used in transportation IC cards (like Suica) is very important. Remember this.\n\nNFC (Near Field Communication) is a short-range wireless communication standard. NFC communication distance is several cm.",
+      "my": "RFID ဟု ရိုးရိုးခေါ်သော်လည်း RFID တွင် စံနှုန်းအမျိုးမျိုး ရှိသည်။",
+      "terms": [
+        {
+          "kanji": "一口",
+          "reading": "ひとくち"
+        },
+        {
+          "kanji": "規格",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "頻出",
+          "reading": "ひんしゅつ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "交通系",
+          "reading": "こうつうけい"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "近距離無線通信",
+          "reading": "きんきょりむせんつうしん"
+        },
+        {
+          "kanji": "通信距離",
+          "reading": "つうしんきょり"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "また、NFCで使われるICチップを内蔵したタグを「NFCタグ」といいます。NFCタグに記録されている情報を読み書きするには、NFCの読み取り機器を使用します。",
+      "vi": "Ngoài ra, tag có IC chip tích hợp dùng cho NFC gọi là NFC Tag. Để đọc ghi thông tin lưu trong NFC Tag, sử dụng thiết bị đọc NFC.",
+      "en": "Also, a tag with built-in IC chip used for NFC is called NFC Tag. To read/write information recorded in NFC Tag, NFC reader devices are used.",
+      "my": "ထို့အပြင် NFC အတွက် အသုံးပြုသော built-in IC chip ပါ tag ကို NFC Tag ဟုခေါ်သည်။",
+      "terms": [
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "内蔵",
+          "reading": "ないぞう"
+        },
+        {
+          "kanji": "記録",
+          "reading": "きろく"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "機器",
+          "reading": "きき"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "RFIDとNFCの関係図",
+        "vi": "Sơ đồ quan hệ RFID và NFC",
+        "en": "RFID and NFC Relationship Diagram"
+      },
+      "headers": {
+        "ja": [
+          "RFID分類",
+          "例"
+        ],
+        "vi": [
+          "Phân loại RFID",
+          "Ví dụ"
+        ],
+        "en": [
+          "RFID Category",
+          "Examples"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "TypeA",
+            "・taspo"
+          ],
+          "vi": [
+            "Type A",
+            "・taspo"
+          ],
+          "en": [
+            "Type A",
+            "・taspo"
+          ]
+        },
+        {
+          "ja": [
+            "TypeB",
+            "・運転免許証・パスポート"
+          ],
+          "vi": [
+            "Type B",
+            "・Bằng lái xe・Hộ chiếu"
+          ],
+          "en": [
+            "Type B",
+            "・Driver license・Passport"
+          ]
+        },
+        {
+          "ja": [
+            "FeliCa（NFC）",
+            "・交通系ICカード（Suica, TOICA, ICOCAなど）・電子マネー"
+          ],
+          "vi": [
+            "FeliCa (NFC)",
+            "・Thẻ IC giao thông (Suica, TOICA, ICOCA)・Tiền điện tử"
+          ],
+          "en": [
+            "FeliCa (NFC)",
+            "・Transportation IC cards (Suica, TOICA, ICOCA etc)・Electronic money"
+          ]
+        }
+      ],
+      "note": {
+        "ja": "NFCはRFIDの一規格！",
+        "vi": "NFC là một tiêu chuẩn của RFID!",
+        "en": "NFC is one standard of RFID!"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "NFC",
+      "reading": "えぬえふしー",
+      "romaji": "Near Field Communication",
+      "vi": "Giao tiếp trường gần",
+      "en": "Near Field Communication",
+      "my": "NFC"
+    },
+    {
+      "kanji": "FeliCa",
+      "reading": "ふぇりか",
+      "romaji": "FeliCa",
+      "vi": "FeliCa (công nghệ thẻ Sony)",
+      "en": "FeliCa (Sony card technology)",
+      "my": "FeliCa"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true
+  }
+}

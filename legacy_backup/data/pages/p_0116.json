@@ -1,0 +1,379 @@
+{
+  "page_id": 116,
+  "image": "p_0116.png",
+  "chapter": 3,
+  "section": "03-01",
+  "page_number": 100,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "・内部環境：自社の努力で変えられる項目\n・外部環境：自社ではコントロールできない項目\n\n例えば、「特許の取得」は自社の努力によるものなので内部環境に分類します。\n\n次に、それらの項目が企業にとって「良い影響を及ぼすのか」、または「悪い影響を及ぼすのか」を判断したうえで、次のように分類します。\n\n・内部環境であり、かつ良い影響を及ぼすもの：Strengths（強み）\n・内部環境であり、かつ悪い影響を及ぼすもの：Weaknesses（弱み）\n・外部環境であり、かつ良い影響を及ぼすもの：Opportunities（機会）\n・外部環境であり、かつ悪い影響を及ぼすもの：Threats（脅威）\n\n例えば、外部環境である「円安」は、輸出企業であれば良い影響を及ぼすので「Opportunities（機会）」に分類し、輸入企業であれば悪い影響を及ぼすので「Threats（脅威）」に分類します。",
+      "vi": "・Môi trường nội bộ: Mục có thể thay đổi bằng nỗ lực của công ty\n・Môi trường bên ngoài: Mục công ty không thể kiểm soát\n\nVí dụ, Đạt được bằng sáng chế là do nỗ lực của công ty nên phân loại vào môi trường nội bộ.\n\nTiếp theo, sau khi đánh giá các mục đó có ảnh hưởng tốt hay ảnh hưởng xấu với doanh nghiệp, phân loại như sau:\n\n・Môi trường nội bộ và có ảnh hưởng tốt: Strengths (Điểm mạnh)\n・Môi trường nội bộ và có ảnh hưởng xấu: Weaknesses (Điểm yếu)\n・Môi trường bên ngoài và có ảnh hưởng tốt: Opportunities (Cơ hội)\n・Môi trường bên ngoài và có ảnh hưởng xấu: Threats (Mối đe dọa)\n\nVí dụ, Yên yếu là môi trường bên ngoài, nếu là công ty xuất khẩu thì có ảnh hưởng tốt nên phân loại vào Opportunities (Cơ hội), nếu là công ty nhập khẩu thì có ảnh hưởng xấu nên phân loại vào Threats (Mối đe dọa).",
+      "en": "・Internal environment: Items that can be changed by company's effort\n・External environment: Items the company cannot control\n\nFor example, Obtaining patents is due to company's effort, so classified as internal environment.\n\nNext, after judging whether those items have good or bad impact on the company, classify as follows:\n\n・Internal environment with good impact: Strengths\n・Internal environment with bad impact: Weaknesses\n・External environment with good impact: Opportunities\n・External environment with bad impact: Threats\n\nFor example, Weak yen is external environment. For export companies it has good impact so classified as Opportunities, for import companies it has bad impact so classified as Threats.",
+      "my": "・ အတွင်းပတ်ဝန်းကျင်: ကုမ္ပဏီ၏ ကြိုးစားမှုဖြင့် ပြောင်းလဲနိုင်သော အရာများ\n・ ပြင်ပပတ်ဝန်းကျင်: ကုမ္ပဏီ မထိန်းချုပ်နိုင်သော အရာများ",
+      "terms": [
+        {
+          "kanji": "内部環境",
+          "reading": "ないぶかんきょう"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "努力",
+          "reading": "どりょく"
+        },
+        {
+          "kanji": "変",
+          "reading": "へん"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "外部環境",
+          "reading": "がいぶかんきょう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "特許",
+          "reading": "とっきょ"
+        },
+        {
+          "kanji": "取得",
+          "reading": "しゅとく"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "影響",
+          "reading": "えいきょう"
+        },
+        {
+          "kanji": "及",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "悪",
+          "reading": "あく"
+        },
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        },
+        {
+          "kanji": "強",
+          "reading": "きょう"
+        },
+        {
+          "kanji": "弱",
+          "reading": "じゃく"
+        },
+        {
+          "kanji": "機会",
+          "reading": "きかい"
+        },
+        {
+          "kanji": "脅威",
+          "reading": "きょうい"
+        },
+        {
+          "kanji": "円安",
+          "reading": "えんやす"
+        },
+        {
+          "kanji": "輸出企業",
+          "reading": "ゆしゅつきぎょう"
+        },
+        {
+          "kanji": "輸入企業",
+          "reading": "ゆにゅうきぎょう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "ある自動車会社のSWOT分析",
+        "vi": "Phân tích SWOT của một công ty ô tô",
+        "en": "SWOT Analysis of an Automobile Company"
+      },
+      "headers": {
+        "ja": [
+          "",
+          "良い影響（メリット）",
+          "悪い影響（デメリット）"
+        ],
+        "vi": [
+          "",
+          "Ảnh hưởng tốt (Lợi ích)",
+          "Ảnh hưởng xấu (Bất lợi)"
+        ],
+        "en": [
+          "",
+          "Good Impact (Benefit)",
+          "Bad Impact (Drawback)"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "内部環境",
+            "Strengths（強み）\n・たくさんの特許\n・良いブランドイメージ",
+            "Weaknesses（弱み）\n・社員のモチベーションの低下\n・離職率の増加"
+          ],
+          "vi": [
+            "Môi trường nội bộ",
+            "Strengths (Điểm mạnh)\n・Nhiều bằng sáng chế\n・Hình ảnh thương hiệu tốt",
+            "Weaknesses (Điểm yếu)\n・Giảm động lực nhân viên\n・Tăng tỷ lệ nghỷ việc"
+          ],
+          "en": [
+            "Internal Environment",
+            "Strengths\n・Many patents\n・Good brand image",
+            "Weaknesses\n・Decreased employee motivation\n・Increased turnover rate"
+          ]
+        },
+        {
+          "ja": [
+            "外部環境",
+            "Opportunities（機会）\n・自動車需要の増加\n・円安",
+            "Threats（脅威）\n・競合会社の増加\n・他社製品の価格低下"
+          ],
+          "vi": [
+            "Môi trường bên ngoài",
+            "Opportunities (Cơ hội)\n・Tăng nhu cầu ô tô\n・Yên yếu",
+            "Threats (Mối đe dọa)\n・Tăng công ty cạnh tranh\n・Giảm giá sản phẩm đối thủ"
+          ],
+          "en": [
+            "External Environment",
+            "Opportunities\n・Increased automobile demand\n・Weak yen",
+            "Threats\n・Increased competitors\n・Lower prices of competitor products"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・SWOT分析を行うと自社を取り巻く経営環境を把握できる\n・SWOT分析における内部環境とは、自社の努力で変えられる項目\n・SWOT分析における外部環境とは、自社ではコントロールできない項目",
+        "vi": "・Thực hiện SWOT Analysis giúp nắm bắt môi trường kinh doanh xung quanh công ty\n・Môi trường nội bộ trong SWOT Analysis là mục có thể thay đổi bằng nỗ lực của công ty\n・Môi trường bên ngoài trong SWOT Analysis là mục công ty không thể kiểm soát",
+        "en": "・Conducting SWOT Analysis helps understand business environment surrounding the company\n・Internal environment in SWOT Analysis: items changeable by company's effort\n・External environment in SWOT Analysis: items company cannot control",
+        "my": "・ SWOT Analysis လုပ်ခြင်းသည် ကုမ္ပဏီပတ်ဝန်းကျင် စီးပွားရေးပတ်ဝန်းကျင်ကို နားလည်ရန် ကူညီသည်",
+        "terms": [
+          {
+            "kanji": "分析",
+            "reading": "ぶんせき"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "自社",
+            "reading": "じしゃ"
+          },
+          {
+            "kanji": "取",
+            "reading": "しゅ"
+          },
+          {
+            "kanji": "巻",
+            "reading": "かん"
+          },
+          {
+            "kanji": "経営環境",
+            "reading": "けいえいかんきょう"
+          },
+          {
+            "kanji": "把握",
+            "reading": "はあく"
+          },
+          {
+            "kanji": "内部環境",
+            "reading": "ないぶかんきょう"
+          },
+          {
+            "kanji": "努力",
+            "reading": "どりょく"
+          },
+          {
+            "kanji": "変",
+            "reading": "へん"
+          },
+          {
+            "kanji": "項目",
+            "reading": "こうもく"
+          },
+          {
+            "kanji": "外部環境",
+            "reading": "がいぶかんきょう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "もう少し詳しく！ VRIO（ブリオ）分析",
+        "vi": "Chi tiết hơn! Phân tích VRIO",
+        "en": "More Details! VRIO Analysis",
+        "my": "အသေးစိတ် ပိုကြည့်ရန်! VRIO Analysis"
+      },
+      "content": {
+        "ja": "SWOT分析で洗い出した「Strengths（強み）」について、持続的な競争力につながるか否かをさらに深掘りする際に活用される手法として、VRIO分析があります。VRIO分析では、自社の経営資源を「経済価値（Value）」「希少性（Rarity）」「模倣困難性（Imitability）」「組織（Organization）」の4つの視点で評価して、競争優位性を見極めます。",
+        "vi": "Về Strengths (Điểm mạnh) được rút ra từ SWOT Analysis, có VRIO Analysis là phương pháp được sử dụng khi muốn đào sâu hơn xem có dẫn đến năng lực cạnh tranh bền vững hay không. VRIO Analysis đánh giá nguồn lực kinh doanh của công ty từ 4 góc nhìn: Giá trị kinh tế (Value), Tính hiếm (Rarity), Tính khó bắt chước (Imitability), Tổ chức (Organization) để xác định lợi thế cạnh tranh.",
+        "en": "For Strengths identified through SWOT Analysis, VRIO Analysis is used when further exploring whether they lead to sustainable competitive advantage. VRIO Analysis evaluates company's business resources from 4 perspectives: Value, Rarity, Imitability, Organization to determine competitive advantage.",
+        "my": "SWOT Analysis မှ ခွဲခြားထုတ်ထားသော Strengths အတွက် VRIO Analysis ကို ရေရှည်တည်တံ့သော ပြိုင်ဆိုင်မှု အားသာချက်ကို ဦးတည်သလားကို ထပ်မံလေ့လာရာတွင် အသုံးပြုသည်။",
+        "terms": [
+          {
+            "kanji": "分析",
+            "reading": "ぶんせき"
+          },
+          {
+            "kanji": "洗",
+            "reading": "せん"
+          },
+          {
+            "kanji": "出",
+            "reading": "しゅつ"
+          },
+          {
+            "kanji": "強",
+            "reading": "きょう"
+          },
+          {
+            "kanji": "持続的",
+            "reading": "じぞくてき"
+          },
+          {
+            "kanji": "競争力",
+            "reading": "きょうそうりょく"
+          },
+          {
+            "kanji": "否",
+            "reading": "ひ"
+          },
+          {
+            "kanji": "深掘",
+            "reading": "しんくつ"
+          },
+          {
+            "kanji": "際",
+            "reading": "きわ"
+          },
+          {
+            "kanji": "活用",
+            "reading": "かつよう"
+          },
+          {
+            "kanji": "手法",
+            "reading": "しゅほう"
+          },
+          {
+            "kanji": "自社",
+            "reading": "じしゃ"
+          },
+          {
+            "kanji": "経営資源",
+            "reading": "けいえいしげん"
+          },
+          {
+            "kanji": "経済価値",
+            "reading": "けいざいかち"
+          },
+          {
+            "kanji": "希少性",
+            "reading": "きしょうせい"
+          },
+          {
+            "kanji": "模倣困難性",
+            "reading": "もほうこんなんせい"
+          },
+          {
+            "kanji": "組織",
+            "reading": "そしき"
+          },
+          {
+            "kanji": "視点",
+            "reading": "してん"
+          },
+          {
+            "kanji": "評価",
+            "reading": "ひょうか"
+          },
+          {
+            "kanji": "競争優位性",
+            "reading": "きょうそうゆういせい"
+          },
+          {
+            "kanji": "見極",
+            "reading": "けんきょく"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "内部環境",
+      "reading": "ないぶかんきょう",
+      "romaji": "Naibu Kankyou",
+      "vi": "Môi trường nội bộ",
+      "en": "Internal Environment",
+      "my": "အတွင်းပတ်ဝန်းကျင်"
+    },
+    {
+      "kanji": "外部環境",
+      "reading": "がいぶかんきょう",
+      "romaji": "Gaibu Kankyou",
+      "vi": "Môi trường bên ngoài",
+      "en": "External Environment",
+      "my": "ပြင်ပပတ်ဝန်းကျင်"
+    },
+    {
+      "kanji": "VRIO分析",
+      "reading": "ぶりおぶんせき",
+      "romaji": "VRIO Bunseki",
+      "vi": "Phân tích VRIO",
+      "en": "VRIO Analysis",
+      "my": "VRIO ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

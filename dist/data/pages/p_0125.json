@@ -1,0 +1,324 @@
+{
+  "page_id": 125,
+  "image": "p_0125.png",
+  "chapter": 3,
+  "section": "03-03",
+  "page_number": 109,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "なお、4Pには「自社で変えることができる要因」のみ設定可能です。SWOT分析（p.99）の外部要因のように「自社ではコントロールできない要因」は設定できません。なぜなら、コントロールできない手法はそもそも実行できないからです。",
+      "vi": "Lưu ý, 4P chỉ có thể thiết lập Yếu tố mà công ty có thể thay đổi. Không thể thiết lập Yếu tố mà công ty không thể kiểm soát như yếu tố bên ngoài của SWOT Analysis (trang 99). Vì phương pháp không thể kiểm soát thì không thể thực hiện.",
+      "en": "Note that 4P can only set Factors the company can change. Cannot set Factors the company cannot control like external factors in SWOT Analysis (p.99). Because uncontrollable methods cannot be executed.",
+      "my": "4P သည် ကုမ္ပဏီ ပြောင်းလဲနိုင်သော အချက်များသာ သတ်မှတ်နိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "変",
+          "reading": "へん"
+        },
+        {
+          "kanji": "要因",
+          "reading": "よういん"
+        },
+        {
+          "kanji": "設定可能",
+          "reading": "せっていかのう"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "外部要因",
+          "reading": "がいぶよういん"
+        },
+        {
+          "kanji": "設定",
+          "reading": "せってい"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "4C",
+      "reading": "よんしー",
+      "vi": "4C",
+      "en": "4C",
+      "my": "4C"
+    },
+    {
+      "type": "paragraph",
+      "ja": "4Cとは「Customer Value（顧客にとっての価値）」「Cost（顧客の負担）」「Convenience（利便性）」「Communication（コミュニケーション）」の4つの英語の頭文字をとった造語です。これまで4Pを使って考えられてきた「売り手の視点」を「買い手の視点」に転換させた概念です。マーケティングミックスでは4Pと4Cの両方を考える場合もあります。",
+      "vi": "4C là từ viết tắt từ 4 chữ cái đầu tiếng Anh: Customer Value (Giá trị với khách hàng), Cost (Gánh nặng của khách hàng), Convenience (Tiện lợi), Communication (Giao tiếp). Là khái niệm chuyển đổi Góc nhìn người bán đã được xem xét bằng 4P sang Góc nhìn người mua. Trong Marketing Mix đôi khi xem xét cả 4P và 4C.",
+      "en": "4C is an acronym from 4 English initial letters: Customer Value, Cost, Convenience, Communication. It's a concept converting Seller's perspective considered through 4P into Buyer's perspective. Marketing Mix sometimes considers both 4P and 4C.",
+      "my": "4C သည် အင်္ဂလိပ် ပထမစာလုံး ၄ လုံးမှ အတိုကောက်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "顧客",
+          "reading": "こきゃく"
+        },
+        {
+          "kanji": "価値",
+          "reading": "かち"
+        },
+        {
+          "kanji": "負担",
+          "reading": "ふたん"
+        },
+        {
+          "kanji": "利便性",
+          "reading": "りべんせい"
+        },
+        {
+          "kanji": "英語",
+          "reading": "えいご"
+        },
+        {
+          "kanji": "頭文字",
+          "reading": "かしらもじ"
+        },
+        {
+          "kanji": "造語",
+          "reading": "ぞうご"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "売",
+          "reading": "う"
+        },
+        {
+          "kanji": "手",
+          "reading": "て"
+        },
+        {
+          "kanji": "視点",
+          "reading": "してん"
+        },
+        {
+          "kanji": "買",
+          "reading": "か"
+        },
+        {
+          "kanji": "転換",
+          "reading": "てんかん"
+        },
+        {
+          "kanji": "概念",
+          "reading": "がいねん"
+        },
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "3C分析と混同しないように！",
+        "vi": "Đừng nhầm lẫn với 3C Analysis!",
+        "en": "Don't Confuse with 3C Analysis!",
+        "my": "3C Analysis နှင့် မရောထွေးပါနှင့်!",
+        "terms": [
+          {
+            "kanji": "3C分析",
+            "reading": "さんしーぶんせき"
+          }
+        ]
+      },
+      "content": {
+        "ja": "経営環境を分析する手法に「3C分析」というものがあります。3C分析とは、Customer（顧客）、Competitor（競合）、Company（自社）の三者の視点から経営環境を整理する手法です。前述の4Cとは異なるものなので、混同しないように注意してください。",
+        "vi": "Có phương pháp phân tích môi trường kinh doanh gọi là 3C Analysis. 3C Analysis là phương pháp sắp xếp môi trường kinh doanh từ 3 góc nhìn: Customer (Khách hàng), Competitor (Đối thủ), Company (Công ty mình). Khác với 4C đã nói nên hãy cẩn thận không nhầm lẫn.",
+        "en": "There's a business environment analysis method called 3C Analysis. 3C Analysis organizes business environment from 3 perspectives: Customer, Competitor, Company. It's different from 4C above, so be careful not to confuse them.",
+        "my": "3C Analysis ဟုခေါ်သော စီးပွားရေးပတ်ဝန်းကျင် ခွဲခြမ်းစိတ်ဖြာမှုနည်းလမ်း ရှိသည်။",
+        "terms": [
+          {
+            "kanji": "経営環境",
+            "reading": "けいえいかんきょう"
+          },
+          {
+            "kanji": "分析",
+            "reading": "ぶんせき"
+          },
+          {
+            "kanji": "手法",
+            "reading": "しゅほう"
+          },
+          {
+            "kanji": "顧客",
+            "reading": "こきゃく"
+          },
+          {
+            "kanji": "競合",
+            "reading": "きょうごう"
+          },
+          {
+            "kanji": "自社",
+            "reading": "じしゃ"
+          },
+          {
+            "kanji": "三者",
+            "reading": "さんしゃ"
+          },
+          {
+            "kanji": "視点",
+            "reading": "してん"
+          },
+          {
+            "kanji": "整理",
+            "reading": "せいり"
+          },
+          {
+            "kanji": "前述",
+            "reading": "ぜんじゅつ"
+          },
+          {
+            "kanji": "異",
+            "reading": "い"
+          },
+          {
+            "kanji": "混同",
+            "reading": "こんどう"
+          },
+          {
+            "kanji": "注意",
+            "reading": "ちゅうい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "RFM分析",
+      "reading": "あーるえふえむぶんせき",
+      "vi": "Phân tích RFM",
+      "en": "RFM Analysis",
+      "my": "RFM ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    },
+    {
+      "type": "paragraph",
+      "ja": "RFM分析とは「Recency（最終購買日）」「Frequency（購買頻度）」「Monetary（累計購買金額）」の3つの英語の頭文字をとった造語であり、優良顧客を見つけるために、顧客の購買行動を分析する手法です。RFM分析では、3つの項目に評価点をつけて、その総合点で優良顧客を見つけます。",
+      "vi": "RFM Analysis là từ viết tắt từ 3 chữ cái đầu tiếng Anh: Recency (Ngày mua cuối), Frequency (Tần suất mua), Monetary (Tổng số tiền mua). Là phương pháp phân tích hành vi mua của khách hàng để tìm khách hàng tốt. RFM Analysis đánh giá điểm cho 3 mục và tìm khách hàng tốt bằng tổng điểm.",
+      "en": "RFM Analysis is an acronym from 3 English initials: Recency (Last Purchase Date), Frequency (Purchase Frequency), Monetary (Cumulative Purchase Amount). It's a method analyzing customer purchase behavior to find good customers. RFM Analysis scores 3 items and finds good customers by total score.",
+      "my": "RFM Analysis သည် အင်္ဂလိပ် ပထမစာလုံး ၃ လုံးမှ အတိုကောက်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "最終購買日",
+          "reading": "さいしゅうこうばいにち"
+        },
+        {
+          "kanji": "購買頻度",
+          "reading": "こうばいひんど"
+        },
+        {
+          "kanji": "累計購買金額",
+          "reading": "るいけいこうばいきんがく"
+        },
+        {
+          "kanji": "英語",
+          "reading": "えいご"
+        },
+        {
+          "kanji": "頭文字",
+          "reading": "かしらもじ"
+        },
+        {
+          "kanji": "造語",
+          "reading": "ぞうご"
+        },
+        {
+          "kanji": "優良顧客",
+          "reading": "ゆうりょうこきゃく"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "顧客",
+          "reading": "こきゃく"
+        },
+        {
+          "kanji": "購買行動",
+          "reading": "こうばいこうどう"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "評価点",
+          "reading": "ひょうかてん"
+        },
+        {
+          "kanji": "総合点",
+          "reading": "そうごうてん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "4C",
+      "reading": "よんしー",
+      "romaji": "4C",
+      "vi": "4C",
+      "en": "4C (Customer Value, Cost, Convenience, Communication)",
+      "my": "4C"
+    },
+    {
+      "kanji": "RFM分析",
+      "reading": "あーるえふえむぶんせき",
+      "romaji": "RFM Bunseki",
+      "vi": "Phân tích RFM",
+      "en": "RFM Analysis",
+      "my": "RFM ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    },
+    {
+      "kanji": "3C分析",
+      "reading": "さんしーぶんせき",
+      "romaji": "3C Bunseki",
+      "vi": "Phân tích 3C",
+      "en": "3C Analysis",
+      "my": "3C ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_learn_more": true
+  }
+}

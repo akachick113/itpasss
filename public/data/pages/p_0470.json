@@ -1,0 +1,103 @@
+{
+    "page_id": 470,
+    "image": "p_0470.png",
+    "chapter": 12,
+    "section": "practice",
+    "page_number": 454,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "id": "12-9",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "OSS（Open Source Software）とは、ソースコードが公開されていて、改良や再配布が自由に行えるソフトウェアです。",
+                "vi": "OSS (Phần mềm mã nguồn mở) là phần mềm có mã nguồn được công khai, có thể tự do cải tiến và phân phối lại.",
+                "en": "OSS (Open Source Software) is software with publicly available source code, freely improvable and redistributable."
+            },
+            "statement_analysis": [
+                {
+                    "id": "a",
+                    "result": {
+                        "ja": "正しい。OSSは、企業（GoogleやMicrosoftなど）や団体（Apache Software Foundationなど）によって開発されることもあります。",
+                        "vi": "Đúng. OSS cũng được phát triển bởi doanh nghiệp (như Google hoặc Microsoft) hoặc tổ chức (như Apache Software Foundation).",
+                        "en": "Correct. OSS is also developed by companies (like Google or Microsoft) or organizations (like Apache Software Foundation)."
+                    }
+                },
+                {
+                    "id": "b",
+                    "result": {
+                        "ja": "誤り。OSSは著作権を放棄しているのではなく、著作権を保持したまま、ライセンスに基づいて利用・改変・再配布を許可しています。",
+                        "vi": "Sai. OSS không từ bỏ bản quyền, mà giữ bản quyền và cho phép sử dụng, sửa đổi, phân phối lại dựa trên giấy phép.",
+                        "en": "Wrong. OSS doesn't abandon copyright, but keeps copyright and permits use, modification, redistribution based on license."
+                    }
+                },
+                {
+                    "id": "c",
+                    "result": {
+                        "ja": "正しい。多くのOSSライセンスでは、ライセンスの条件を守れば再配布も可能です。",
+                        "vi": "Đúng. Trong nhiều giấy phép OSS, nếu tuân thủ điều kiện giấy phép thì có thể phân phối lại.",
+                        "en": "Correct. In many OSS licenses, redistribution is possible if license conditions are followed."
+                    }
+                }
+            ],
+            "conclusion": {
+                "ja": "したがって、適切な記述はａとｃです。",
+                "vi": "Do đó, mô tả phù hợp là a và c.",
+                "en": "Therefore, appropriate descriptions are a and c."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "12-10",
+            "answer": "イ",
+            "explanation": {
+                "ja": "OSSとは、ソースコードが公開されていて、改良や再配布が許可されているソフトウェアです。ａ〜ｄについて確認します。",
+                "vi": "OSS là phần mềm có mã nguồn được công khai và được phép cải tiến và phân phối lại. Kiểm tra a~d.",
+                "en": "OSS is software with publicly available source code and permitted improvement and redistribution. Checking a-d."
+            },
+            "statement_analysis": [
+                {
+                    "id": "a",
+                    "result": {
+                        "ja": "Androidは、Google社が開発したオープンソースのモバイル端末用OSです。",
+                        "vi": "Android là OS mã nguồn mở cho thiết bị di động được phát triển bởi Google.",
+                        "en": "Android is open source mobile device OS developed by Google."
+                    }
+                },
+                {
+                    "id": "b",
+                    "result": {
+                        "ja": "FreeBSDは、主にサーバやネットワーク機器で使われる、UNIXに基づくオープンソースのOSです。",
+                        "vi": "FreeBSD là OS mã nguồn mở dựa trên UNIX, chủ yếu được sử dụng trong máy chủ và thiết bị mạng.",
+                        "en": "FreeBSD is open source OS based on UNIX, mainly used in servers and network equipment."
+                    }
+                },
+                {
+                    "id": "c",
+                    "result": {
+                        "ja": "iOSは、Apple社が開発したモバイル端末用OSです。iOSのソースコードは公開されておらず、改良できません。したがって、OSSではありません。",
+                        "vi": "iOS là OS cho thiết bị di động được phát triển bởi Apple. Mã nguồn của iOS không được công khai và không thể cải tiến. Do đó, không phải OSS.",
+                        "en": "iOS is mobile device OS developed by Apple. iOS source code is not public and cannot be improved. Therefore, not OSS."
+                    }
+                },
+                {
+                    "id": "d",
+                    "result": {
+                        "ja": "Linuxは、UNIXに基づいたオープンソースのOSです。",
+                        "vi": "Linux là OS mã nguồn mở dựa trên UNIX.",
+                        "en": "Linux is open source OS based on UNIX."
+                    }
+                }
+            ],
+            "conclusion": {
+                "ja": "OSSとして提供されているのはａ、ｂ、ｄなので、イが正解です。",
+                "vi": "Vì các phần mềm được cung cấp dưới dạng OSS là a, b, d, nên イ là đáp án đúng.",
+                "en": "Since software provided as OSS are a, b, d, イ is correct answer."
+            }
+        }
+    ],
+    "meta": {
+        "is_practice_page": true,
+        "chapter_end": true
+    }
+}

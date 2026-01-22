@@ -1,0 +1,211 @@
+{
+  "page_id": 583,
+  "image": "p_0583.png",
+  "chapter": 15,
+  "section": "15-06",
+  "page_number": 567,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "本人拒否率と他人受入率はトレードオフの関係にある",
+        "vi": "Tỷ lệ từ chối bản thân và tỷ lệ chấp nhận người khác có quan hệ đánh đổi",
+        "en": "False Rejection Rate and False Acceptance Rate are in Tradeoff Relationship"
+      },
+      "description": {
+        "ja": "天秤の図：本人拒否率と他人受入率の関係は、トレードオフ（一方を追求すると一方が犠牲になる）",
+        "vi": "Hình cân: Quan hệ giữa tỷ lệ từ chối bản thân và tỷ lệ chấp nhận người khác là đánh đổi (theo đuổi một bên thì bên kia bị hy sinh)",
+        "en": "Balance scale diagram: Relationship between FRR and FAR is tradeoff (pursuing one sacrifices the other)"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "2要素認証",
+      "vi": "Xác thực 2 yếu tố",
+      "en": "2-Factor Authentication"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "2要素認証",
+        "vi": "Xác thực 2 yếu tố",
+        "en": "2-Factor Authentication"
+      },
+      "definition": {
+        "ja": "2要素認証とは「記憶」「所有物」「生体情報」の3つの要素のうちの2つを使って本人確認をする認証方式です。3つの要素と、それら要素に含まれる具体例は次のとおりです。",
+        "vi": "Xác thực 2 yếu tố là phương thức xác thực sử dụng 2 trong 3 yếu tố \"trí nhớ\", \"vật sở hữu\", \"thông tin sinh trắc\" để xác nhận bản thân. 3 yếu tố và ví dụ cụ thể có trong các yếu tố đó như sau.",
+        "en": "2-Factor Authentication is authentication method using 2 of 3 elements 'memory,' 'possession,' 'biometric information' for identity verification. 3 elements and specific examples included in each are as follows."
+      }
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "3つの要素",
+        "vi": "3 yếu tố",
+        "en": "3 Elements"
+      },
+      "rows": [
+        {
+          "element": {
+            "ja": "記憶",
+            "vi": "Trí nhớ",
+            "en": "Memory"
+          },
+          "examples": {
+            "ja": "パスワード、暗証番号",
+            "vi": "Mật khẩu, mã PIN",
+            "en": "Password, PIN"
+          }
+        },
+        {
+          "element": {
+            "ja": "所有物",
+            "vi": "Vật sở hữu",
+            "en": "Possession"
+          },
+          "examples": {
+            "ja": "キャッシュカード、スマートフォン",
+            "vi": "Thẻ ngân hàng, smartphone",
+            "en": "Cash card, smartphone"
+          }
+        },
+        {
+          "element": {
+            "ja": "生体情報",
+            "vi": "Thông tin sinh trắc",
+            "en": "Biometric Info"
+          },
+          "examples": {
+            "ja": "虹彩、指紋",
+            "vi": "Mống mắt, vân tay",
+            "en": "Iris, fingerprint"
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、銀行のATMでは2要素認証が使われています。ATMでお金を引き出すには、キャッシュカード（所有物）と暗証番号（記憶）が必要です。",
+      "vi": "Ví dụ, ATM ngân hàng sử dụng xác thực 2 yếu tố. Để rút tiền từ ATM, cần thẻ ngân hàng (vật sở hữu) và mã PIN (trí nhớ).",
+      "en": "For example, bank ATMs use 2-Factor Authentication. To withdraw money from ATM, need cash card (possession) and PIN (memory).",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "銀行",
+          "reading": "ぎんこう"
+        },
+        {
+          "kanji": "要素認証",
+          "reading": "ようそにんしょう"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "金",
+          "reading": "きん"
+        },
+        {
+          "kanji": "引",
+          "reading": "ひき"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "所有物",
+          "reading": "しょゆうぶつ"
+        },
+        {
+          "kanji": "暗証番号",
+          "reading": "あんしょうばんごう"
+        },
+        {
+          "kanji": "記憶",
+          "reading": "きおく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "2要素認証は、ITサービスの認証方式として昨今主流になっています。そのため、ITパスポート試験では2要素認証に関する問題が頻出しています。ぜひ覚えておいてください。",
+      "vi": "Xác thực 2 yếu tố đang trở thành xu hướng chính trong phương thức xác thực dịch vụ IT hiện nay. Vì vậy, trong kỳ thi IT Passport, các câu hỏi về xác thực 2 yếu tố xuất hiện thường xuyên. Hãy chắc chắn nhớ.",
+      "en": "2-Factor Authentication is becoming mainstream in IT service authentication methods nowadays. Therefore, in IT Passport exam, questions about 2-Factor Authentication frequently appear. Please remember.",
+      "terms": [
+        {
+          "kanji": "要素認証",
+          "reading": "ようそにんしょう"
+        },
+        {
+          "kanji": "認証方式",
+          "reading": "にんしょうほうしき"
+        },
+        {
+          "kanji": "昨今主流",
+          "reading": "さっこんしゅりゅう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "頻出",
+          "reading": "ひんしゅつ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "2要素認証",
+      "vi": "Xác thực 2 yếu tố",
+      "en": "2-Factor Authentication (2FA)",
+      "my": "(ᄁျစ်)(ဂချက် အထောက်အထားပြုခြင်း"
+    },
+    {
+      "term": "記憶",
+      "vi": "Trí nhớ",
+      "en": "Memory/Something you know",
+      "my": "မှတ်မိ (သင်သိနေသည့်)"
+    },
+    {
+      "term": "所有物",
+      "vi": "Vật sở hữu",
+      "en": "Possession/Something you have",
+      "my": "ပိုင်ဆိုင်မှု (သင်ပိုင်ဆိုင်သည့်)"
+    },
+    {
+      "term": "生体情報",
+      "vi": "Thông tin sinh trắc",
+      "en": "Biometric/Something you are",
+      "my": "ဇီဝသာတ္တ (သင်ဖြစ်သည့်)"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_table": true,
+    "is_key_content": true
+  }
+}

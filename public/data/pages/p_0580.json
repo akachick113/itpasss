@@ -1,0 +1,203 @@
+{
+  "page_id": 580,
+  "image": "p_0580.png",
+  "chapter": 15,
+  "section": "15-06",
+  "page_number": 564,
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "ja": "ブロックチェーンの利用",
+      "vi": "Ứng dụng của Blockchain",
+      "en": "Use of Blockchain"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ブロックチェーンは、暗号資産（p.163）を実現する基本的な技術の1つです。従来の通貨では、取引履歴（台帳）を中央管理者（銀行など）が一括管理していました。一方、ブロックチェーンでは、取引履歴（台帳）を参加者全員で共有します。このように参加者に共有される取引履歴（台帳）のことを分散型台帳といいます。",
+      "vi": "Blockchain là một trong những công nghệ cơ bản thực hiện tài sản mã hóa (trang 163). Với tiền tệ truyền thống, lịch sử giao dịch (sổ cái) được quản lý tập trung bởi quản lý viên trung tâm (như ngân hàng). Mặt khác, trong Blockchain, lịch sử giao dịch (sổ cái) được chia sẻ với tất cả người tham gia. Lịch sử giao dịch (sổ cái) được chia sẻ với người tham gia như vậy được gọi là sổ cái phân tán.",
+      "en": "Blockchain is one of basic technologies realizing crypto assets (p.163). With traditional currency, transaction history (ledger) was centrally managed by central administrator (like bank). On other hand, in Blockchain, transaction history (ledger) is shared with all participants. Transaction history (ledger) shared with participants like this is called distributed ledger.",
+      "terms": [
+        {
+          "kanji": "暗号資産",
+          "reading": "あんごうしさん"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "従来",
+          "reading": "じゅうらい"
+        },
+        {
+          "kanji": "通貨",
+          "reading": "つうか"
+        },
+        {
+          "kanji": "取引履歴",
+          "reading": "とりひきりれき"
+        },
+        {
+          "kanji": "台帳",
+          "reading": "だいちょう"
+        },
+        {
+          "kanji": "中央管理者",
+          "reading": "ちゅうおうかんりしゃ"
+        },
+        {
+          "kanji": "銀行",
+          "reading": "ぎんこう"
+        },
+        {
+          "kanji": "一括管理",
+          "reading": "いっかつかんり"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "参加者全員",
+          "reading": "さんかしゃぜんいん"
+        },
+        {
+          "kanji": "共有",
+          "reading": "きょうゆう"
+        },
+        {
+          "kanji": "参加者",
+          "reading": "さんかしゃ"
+        },
+        {
+          "kanji": "分散型台帳",
+          "reading": "ぶんさんがただいちょう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "従来のシステムとブロックチェーンの違い",
+        "vi": "Sự khác biệt giữa hệ thống truyền thống và Blockchain",
+        "en": "Difference Between Traditional System and Blockchain"
+      },
+      "comparison": [
+        {
+          "title": {
+            "ja": "従来のシステム（集中型台帳）",
+            "vi": "Hệ thống truyền thống (sổ cái tập trung)",
+            "en": "Traditional System (Centralized Ledger)"
+          },
+          "description": {
+            "ja": "台帳を管理者（銀行など）が一括して管理する",
+            "vi": "Sổ cái được quản lý viên (như ngân hàng) quản lý tập trung",
+            "en": "Ledger is centrally managed by administrator (like bank)"
+          }
+        },
+        {
+          "title": {
+            "ja": "ブロックチェーン（分散型台帳）",
+            "vi": "Blockchain (sổ cái phân tán)",
+            "en": "Blockchain (Distributed Ledger)"
+          },
+          "description": {
+            "ja": "台帳を参加者全員が共有する",
+            "vi": "Sổ cái được chia sẻ với tất cả người tham gia",
+            "en": "Ledger is shared with all participants"
+          }
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "その他の脅威への対策に関連する用語",
+      "vi": "Thuật ngữ liên quan đến biện pháp đối phó mối đe dọa khác",
+      "en": "Terms Related to Other Threat Countermeasures"
+    },
+    {
+      "type": "table",
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "term": {
+            "ja": "デジタルフォレンジックス（Digital Forensics）",
+            "vi": "Digital Forensics",
+            "en": "Digital Forensics"
+          },
+          "description": {
+            "ja": "コンピュータに残された情報を収集・分析し、法的証拠として活用する技術や手法。",
+            "vi": "Công nghệ và phương pháp thu thập, phân tích thông tin còn lại trong máy tính để sử dụng làm bằng chứng pháp lý.",
+            "en": "Technology and methods for collecting and analyzing information remaining in computers and using as legal evidence."
+          }
+        },
+        {
+          "term": {
+            "ja": "MDM（Mobile Device Management）",
+            "vi": "MDM (Quản lý thiết bị di động)",
+            "en": "MDM (Mobile Device Management)"
+          },
+          "description": {
+            "ja": "社員に支給する携帯情報端末（スマートフォンなど）を企業が統合的に管理する手法。",
+            "vi": "Phương pháp doanh nghiệp quản lý tích hợp các thiết bị thông tin di động (như smartphone) cấp cho nhân viên.",
+            "en": "Method for companies to comprehensively manage mobile information devices (like smartphones) provided to employees."
+          }
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "暗号資産",
+      "vi": "Tài sản mã hóa",
+      "en": "Crypto Assets",
+      "my": "ကြစ်ပ်တို ပိုင်ဆိုင်ပစ္စည်း"
+    },
+    {
+      "term": "分散型台帳",
+      "vi": "Sổ cái phân tán",
+      "en": "Distributed Ledger",
+      "my": "ဖြန့်ကျဲစာရင်း"
+    },
+    {
+      "term": "デジタルフォレンジックス",
+      "vi": "Digital Forensics",
+      "en": "Digital Forensics",
+      "my": "ဒစ်ဂျစ်တယ် ရာဇဝတ္ထုပညာ"
+    },
+    {
+      "term": "MDM",
+      "full": "Mobile Device Management",
+      "vi": "Quản lý thiết bị di động",
+      "en": "Mobile Device Management",
+      "my": "မိုဘိုင်းစက်ပစ္စည်း စီမံခန့်ခွဲ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_table": true
+  }
+}

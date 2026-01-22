@@ -1,0 +1,258 @@
+{
+  "page_id": 178,
+  "image": "p_0178.png",
+  "chapter": 4,
+  "section": "04-05",
+  "page_number": 162,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "その他の広告関連の用語",
+      "vi": "Thuật ngữ quảng cáo khác",
+      "en": "Other Advertising Related Terms"
+    },
+    {
+      "type": "paragraph",
+      "ja": "CGM以外のEC広告に関する用語には以下のものがあります。",
+      "vi": "Thuật ngữ về quảng cáo EC ngoài CGM gồm các thuật ngữ sau.",
+      "en": "EC advertising terms besides CGM include the following.",
+      "my": "CGM မှတပါး EC ကြော်ငြာ ဝေါဟာရများတွင် အောက်ပါတို့ ပါဝင်သည်။",
+      "terms": [
+        {
+          "kanji": "以外",
+          "reading": "いがい"
+        },
+        {
+          "kanji": "広告",
+          "reading": "こうこく"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "その他の広告関連の用語",
+        "vi": "Thuật ngữ quảng cáo khác",
+        "en": "Other Advertising Related Terms"
+      },
+      "headers": {
+        "ja": [
+          "方法",
+          "説明"
+        ],
+        "vi": [
+          "Phương pháp",
+          "Giải thích"
+        ],
+        "en": [
+          "Method",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "SEO（検索エンジン最適化）",
+            "検索エンジン（GoogleやYahoo!など）の検索結果の上位に自身のWebサイトが表示されるようにさまざまな対策を行うこと。SEOは「Search Engine Optimization」の略語。"
+          ],
+          "vi": [
+            "SEO (Tối ưu hóa công cụ tìm kiếm)",
+            "Thực hiện các biện pháp để website của mình hiển thị ở vị trí cao trong kết quả tìm kiếm của công cụ tìm kiếm (Google, Yahoo!, v.v.). SEO là viết tắt của Search Engine Optimization."
+          ],
+          "en": [
+            "SEO (Search Engine Optimization)",
+            "Taking various measures to display one's website high in search engine (Google, Yahoo!, etc.) results. SEO stands for Search Engine Optimization."
+          ]
+        },
+        {
+          "ja": [
+            "レコメンデーション",
+            "購入履歴などの顧客のデータを分析して、各個人に最適な商品やサービスの情報を提供する技術。例えばアマゾン社のWebサイトに自動で表示される「おすすめ商品」など。"
+          ],
+          "vi": [
+            "Recommendation",
+            "Công nghệ phân tích dữ liệu khách hàng như lịch sử mua hàng và cung cấp thông tin sản phẩm/dịch vụ tối ưu cho từng cá nhân. Ví dụ sản phẩm gợi ý tự động hiển thị trên website Amazon."
+          ],
+          "en": [
+            "Recommendation",
+            "Technology analyzing customer data like purchase history to provide optimal product/service information to each individual. For example, 'recommended products' automatically displayed on Amazon's website."
+          ]
+        },
+        {
+          "ja": [
+            "アフィリエイト",
+            "自社のWebサイトに他社の広告を掲載し、その広告を見た人が広告をクリックして商品を購入すると報酬が得られる仕組み。"
+          ],
+          "vi": [
+            "Affiliate",
+            "Cơ chế đăng quảng cáo của công ty khác trên website của mình, nhận hoa hồng khi người xem quảng cáo nhấp vào và mua sản phẩm."
+          ],
+          "en": [
+            "Affiliate",
+            "A system where ads from other companies are placed on one's website, and commissions are earned when viewers click and purchase products."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "EC（電子商取引）での決済",
+      "reading": "いーしー（でんししょうとりひき）でのけっさい",
+      "vi": "Thanh toán trong EC (Thương mại điện tử)",
+      "en": "Payment in EC (Electronic Commerce)"
+    },
+    {
+      "type": "paragraph",
+      "ja": "EC（電子商取引）の決済に関する用語の中では「エスクローサービス」が圧倒的によく出題されます。今年受験を考えている人は確実に覚えておいてください。",
+      "vi": "Trong thuật ngữ về thanh toán EC (Thương mại điện tử), Escrow Service được ra đề rất nhiều. Người dự định thi năm nay hãy nhớ kỹ.",
+      "en": "Among EC (Electronic Commerce) payment terms, 'Escrow Service' is overwhelmingly frequently tested. Those planning to take the exam this year should definitely remember it.",
+      "my": "EC (Electronic Commerce) ငွေပေးချေမှု ဝေါဟာရများအနက် Escrow Service ကို လွှမ်းမိုးစွာ မကြာခဏ စမ်းသပ်သည်။",
+      "terms": [
+        {
+          "kanji": "電子商取引",
+          "reading": "でんししょうとりひき"
+        },
+        {
+          "kanji": "決済",
+          "reading": "けっさい"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "圧倒的",
+          "reading": "あっとうてき"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "今年受験",
+          "reading": "こんねんじゅけん"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "確実",
+          "reading": "かくじつ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "エスクローサービス",
+      "vi": "Escrow Service",
+      "en": "Escrow Service"
+    },
+    {
+      "type": "paragraph",
+      "ja": "エスクローサービス（Escrow Service）とは、インターネット上の取引を安全に行うために、売り手と買い手の間に入って決済を仲介するサービスです。",
+      "vi": "Escrow Service là dịch vụ làm trung gian thanh toán giữa người bán và người mua để thực hiện giao dịch an toàn trên internet.",
+      "en": "Escrow Service is a service that mediates payments between sellers and buyers for safe internet transactions.",
+      "my": "Escrow Service သည် လုံခြုံသော အင်တာနက် ငွေပေးငွေယူများအတွက် ရောင်းသူများနှင့် ဝယ်သူများကြား ငွေပေးချေမှုကို ကြားဝင်ဆောင်ရွက်ပေးသော ဝန်ဆောင်မှုဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "取引",
+          "reading": "とりひき"
+        },
+        {
+          "kanji": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "売",
+          "reading": "う"
+        },
+        {
+          "kanji": "手",
+          "reading": "て"
+        },
+        {
+          "kanji": "買",
+          "reading": "か"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "決済",
+          "reading": "けっさい"
+        },
+        {
+          "kanji": "仲介",
+          "reading": "ちゅうかい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "SEO",
+      "reading": "えすいーおー",
+      "romaji": "Search Engine Optimization",
+      "vi": "Tối ưu hóa công cụ tìm kiếm",
+      "en": "Search Engine Optimization",
+      "my": "SEO"
+    },
+    {
+      "kanji": "エスクローサービス",
+      "reading": "えすくろーさーびす",
+      "romaji": "Escrow Service",
+      "vi": "Dịch vụ ký quỹ",
+      "en": "Escrow Service",
+      "my": "Escrow Service"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true
+  }
+}

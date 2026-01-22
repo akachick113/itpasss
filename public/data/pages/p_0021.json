@@ -1,0 +1,342 @@
+{
+  "page_id": 21,
+  "image": "p_0021.png",
+  "chapter": 0,
+  "section": "00-01",
+  "page_number": 5,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "受験の申込み方法",
+      "reading": "じゅけんのもうしこみほうほう",
+      "vi": "Cách đăng ký thi",
+      "en": "How to Apply for the Exam",
+      "my": "စာမေးပွဲအတွက် လျှောက်ထားနည်း"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験を受験するには、以下のITパスポート試験の公式サイトから「受験申込み」ボタンをクリックし、表示される内容に沿って受験申込みをします。",
+      "vi": "Để đăng ký thi IT Passport, hãy truy cập trang web chính thức của kỳ thi IT Passport bên dưới, nhấp vào nút \"Đăng ký thi\" và làm theo hướng dẫn hiển thị để hoàn tất đăng ký.",
+      "en": "To apply for the IT Passport exam, access the official IT Passport exam website below, click the 'Apply for Exam' button, and follow the displayed instructions to complete your application.",
+      "my": "IT Passport စာမေးပွဲဝင်ရန် အောက်ပါ တရားဝင်ဝဘ်ဆိုက်သို့ဝင်ပြီး 'စာမေးပွဲလျှောက်ထားရန်' ခလုတ်ကိုနှိပ်ကာ ညွှန်ကြားချက်များအတိုင်း လျှောက်ထားပါ။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "受験",
+          "reading": "じゅけん"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "公式",
+          "reading": "こうしき"
+        },
+        {
+          "kanji": "受験申込",
+          "reading": "じゅけんもうしこみ"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "沿",
+          "reading": "えん"
+        }
+      ]
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "試験当日は、確認票、本人確認書類を忘れずに！",
+        "vi": "Ngày thi, đừng quên phiếu xác nhận và giấy tờ tùy thân!",
+        "en": "On exam day, don't forget your confirmation slip and ID!",
+        "my": "စာမေးပွဲနေ့တွင် အတည်ပြုလက်မှတ်နှင့် မှတ်ပုံတင်ကို မမေ့ပါနှင့်!",
+        "terms": [
+          {
+            "kanji": "本人確認書類",
+            "reading": "ほんにんかくにんしょるい"
+          },
+          {
+            "kanji": "確認票",
+            "reading": "かくにんひょう"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "確認",
+            "reading": "かくにん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "申請完了後、WEBで確認票をダウンロードしてください。確認票は試験当日必携です。",
+        "vi": "Sau khi hoàn tất đăng ký, hãy tải xuống phiếu xác nhận từ website. Phiếu xác nhận là bắt buộc phải mang theo vào ngày thi.",
+        "en": "After completing registration, download the confirmation slip from the website. The confirmation slip is required on the exam day.",
+        "my": "စာရင်းသွင်းပြီးနောက် ဝဘ်ဆိုက်မှ အတည်ပြုလက်မှတ်ကို ဒေါင်းလုဒ်လုပ်ပါ။",
+        "terms": [
+          {
+            "kanji": "申請完了後",
+            "reading": "しんせいかんりょうご"
+          },
+          {
+            "kanji": "確認票",
+            "reading": "かくにんひょう"
+          },
+          {
+            "kanji": "試験当日必携",
+            "reading": "しけんとうじつひっけい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "link_box",
+      "title": {
+        "ja": "ITパスポート試験公式サイト",
+        "vi": "Trang web chính thức kỳ thi IT Passport",
+        "en": "IT Passport Exam Official Website"
+      },
+      "url": "https://www3.jitec.ipa.go.jp/JitesCbt/index.html"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験の内容や、受験申込みに関して不明な点があったら、以下のコールセンターに電話、またはEメールで問い合わせできます。",
+      "vi": "Nếu có thắc mắc về nội dung kỳ thi IT Passport hoặc việc đăng ký, bạn có thể liên hệ qua điện thoại hoặc email đến trung tâm hỗ trợ bên dưới.",
+      "en": "If you have questions about the IT Passport exam content or registration, you can contact the call center below by phone or email.",
+      "my": "IT Passport စာမေးပွဲအကြောင်းအရာ သို့မဟုတ် စာရင်းသွင်းခြင်းနှင့်ပတ်သက်၍ မေးခွန်းများရှိပါက အောက်ပါ call center သို့ ဖုန်း သို့မဟုတ် အီးမေးလ်ဖြင့် ဆက်သွယ်နိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "受験申込",
+          "reading": "じゅけんもうしこみ"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "不明",
+          "reading": "ふめい"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "電話",
+          "reading": "でんわ"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        }
+      ]
+    },
+    {
+      "type": "contact_info",
+      "title": {
+        "ja": "ITパスポート試験 コールセンター",
+        "vi": "Trung tâm hỗ trợ IT Passport",
+        "en": "IT Passport Exam Call Center"
+      },
+      "phone": "03-6631-0608",
+      "email": "call-center@cbt.jitec.ipa.go.jp",
+      "hours": {
+        "ja": "問い合わせ時間：8:00～19:00（年始年末等の休業日を除く）",
+        "vi": "Giờ làm việc: 8:00～19:00 (trừ các ngày nghỉ lễ)",
+        "en": "Hours: 8:00～19:00 (excluding holidays)"
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "ITパスポート試験と情報処理技術者試験",
+        "vi": "Kỳ thi IT Passport và Kỳ thi Kỹ thuật viên Xử lý Thông tin",
+        "en": "IT Passport and Information Processing Technician Exams",
+        "terms": [
+          {
+            "kanji": "情報処理技術者試験",
+            "reading": "じょうほうしょりぎじゅつしゃしけん"
+          },
+          {
+            "kanji": "情報処理",
+            "reading": "じょうほうしょり"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験は、国家試験である「情報処理技術者試験」のうちの一区分です（全部で13種類の試験があります）。情報処理技術者試験には、より上位の資格試験が用意されているので、ITパスポートに合格した後には、上位の資格試験にチャレンジするのも良いと思います。",
+        "vi": "Kỳ thi IT Passport là một phần của \"Kỳ thi Kỹ thuật viên Xử lý Thông tin\" - kỳ thi quốc gia (tổng cộng có 13 loại chứng chỉ). Vì kỳ thi này có các chứng chỉ cấp cao hơn, sau khi đỗ IT Passport, bạn nên thử thách bản thân với các chứng chỉ cao hơn.",
+        "en": "The IT Passport exam is one category of the national 'Information Processing Technician Exam' (13 types in total). Since there are higher-level certifications available, after passing IT Passport, consider challenging yourself with advanced certifications.",
+        "my": "IT Passport စာမေးပွဲသည် အမျိုးသား 'သတင်းအချက်အလက်လုပ်ဆောင်မှုကျွမ်းကျင်သူစာမေးပွဲ' ၏အစိတ်အပိုင်းတစ်ခုဖြစ်သည် (စုစုပေါင်း ၁၃ မျိုး)။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "国家試験",
+            "reading": "こっかしけん"
+          },
+          {
+            "kanji": "情報処理技術者試験",
+            "reading": "じょうほうしょりぎじゅつしゃしけん"
+          },
+          {
+            "kanji": "一区分",
+            "reading": "いっくふん"
+          },
+          {
+            "kanji": "全部",
+            "reading": "ぜんぶ"
+          },
+          {
+            "kanji": "種類",
+            "reading": "しゅるい"
+          },
+          {
+            "kanji": "上位",
+            "reading": "じょうい"
+          },
+          {
+            "kanji": "資格試験",
+            "reading": "しかくしけん"
+          },
+          {
+            "kanji": "用意",
+            "reading": "ようい"
+          },
+          {
+            "kanji": "合格",
+            "reading": "ごうかく"
+          },
+          {
+            "kanji": "後",
+            "reading": "のち"
+          },
+          {
+            "kanji": "良",
+            "reading": "りょう"
+          },
+          {
+            "kanji": "思",
+            "reading": "おもい"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "申込み",
+      "reading": "もうしこみ",
+      "romaji": "Moushikomi",
+      "vi": "Đăng ký, đơn đăng ký",
+      "en": "Application, registration",
+      "my": "လျှောက်ထားခြင်း"
+    },
+    {
+      "kanji": "確認票",
+      "reading": "かくにんひょう",
+      "romaji": "Kakunin Hyou",
+      "vi": "Phiếu xác nhận",
+      "en": "Confirmation slip",
+      "my": "[Confirmation slip]"
+    },
+    {
+      "kanji": "本人確認書類",
+      "reading": "ほんにんかくにんしょるい",
+      "romaji": "Honnin Kakunin Shorui",
+      "vi": "Giấy tờ tùy thân",
+      "en": "ID documents",
+      "my": "[ID documents]"
+    },
+    {
+      "kanji": "情報処理技術者試験",
+      "reading": "じょうほうしょりぎじゅつしゃしけん",
+      "romaji": "Jouhou Shori Gijutsusha Shiken",
+      "vi": "Kỳ thi Kỹ thuật viên Xử lý Thông tin",
+      "en": "Information Processing Technician Exam",
+      "my": "[Information Processing Technician Exam]"
+    },
+    {
+      "kanji": "以下",
+      "reading": "いか",
+      "romaji": "Ika",
+      "vi": "Bên dưới, sau đây",
+      "en": "Below/Following",
+      "my": "အောက်ပါ"
+    },
+    {
+      "kanji": "区分",
+      "reading": "くぶん",
+      "romaji": "Kubun",
+      "vi": "Phân loại",
+      "en": "Category",
+      "my": "အပိုင်းခွဲခြားခြင်း"
+    },
+    {
+      "kanji": "種類",
+      "reading": "しゅるい",
+      "romaji": "Shurui",
+      "vi": "Loại",
+      "en": "Type/Kind",
+      "my": "အမျိုးအစား"
+    },
+    {
+      "kanji": "上位",
+      "reading": "じょうい",
+      "romaji": "Joui",
+      "vi": "Cấp cao hơn",
+      "en": "Higher level",
+      "my": "အထက်အဆင့်"
+    },
+    {
+      "kanji": "資格試験",
+      "reading": "しかくしけん",
+      "romaji": "Shikaku Shiken",
+      "vi": "Kỳ thi chứng chỉ",
+      "en": "Certification Exam",
+      "my": "အရည်အချင်းစစ်စာမေးပွဲ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": false,
+    "has_learn_more": true,
+    "has_contact_info": true
+  }
+}

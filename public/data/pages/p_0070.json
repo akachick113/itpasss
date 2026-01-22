@@ -1,0 +1,28 @@
+{
+  "page_id": 70,
+  "image": "p_0070.png",
+  "chapter": 2,
+  "section": "blank",
+  "page_number": 54,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "（このページは白紙です）",
+      "vi": "(Trang này trống)",
+      "en": "(This page is blank)",
+      "my": "(ဤစာမျက်နှာ အလွတ်ဖြစ်သည်)",
+      "terms": [
+        {
+          "kanji": "白紙",
+          "reading": "はくし"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "is_blank_page": true
+  }
+}

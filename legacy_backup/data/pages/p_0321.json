@@ -1,0 +1,472 @@
+{
+  "page_id": 321,
+  "image": "p_0321.png",
+  "chapter": 8,
+  "section": "08-05",
+  "page_number": 305,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "業部門、会計部門、情報システム部門など、さまざまな部門があります。例えば、営業部門がシステムから顧客リストを出力している場合は「個人情報の取り扱い方法が正しいかどうか」が監査の対象になったりします。",
+      "vi": "Có nhiều bộ phận khác nhau như bộ phận kinh doanh, bộ phận kế toán, bộ phận hệ thống thông tin. Ví dụ, nếu bộ phận kinh doanh xuất danh sách khách hàng từ hệ thống, \"phương pháp xử lý thông tin cá nhân có đúng không\" sẽ là đối tượng audit.",
+      "en": "There are various departments like sales, accounting, information systems. For example, if sales department outputs customer list from system, 'whether personal information handling method is correct' becomes audit target.",
+      "terms": [
+        {
+          "kanji": "業部門",
+          "reading": "ぎょうぶもん"
+        },
+        {
+          "kanji": "会計部門",
+          "reading": "かいけいぶもん"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "部門",
+          "reading": "ぶもん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "営業部門",
+          "reading": "えいぎょうぶもん"
+        },
+        {
+          "kanji": "顧客",
+          "reading": "こきゃく"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "個人情報",
+          "reading": "こじんじょうほう"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "監査",
+          "reading": "かんさ"
+        },
+        {
+          "kanji": "対象",
+          "reading": "たいしょう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "監査人は「ヒアリング」「現地調査」「レビュー」などの調査を行います。ヒアリングとは聞き取り調査で、面談やインタビューなどで、被監査部門から情報を収集します。",
+      "vi": "Auditor tiến hành điều tra như \"Hearing\", \"On-site investigation\", \"Review\". Hearing là điều tra phỏng vấn, thu thập thông tin từ bộ phận bị audit thông qua phỏng vấn và interview.",
+      "en": "Auditor conducts investigations like 'Hearing,' 'On-site Investigation,' 'Review.' Hearing is interview investigation, collecting information from audited department through interviews.",
+      "terms": [
+        {
+          "kanji": "監査人",
+          "reading": "かんさにん"
+        },
+        {
+          "kanji": "現地調査",
+          "reading": "げんちちょうさ"
+        },
+        {
+          "kanji": "調査",
+          "reading": "ちょうさ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "聞",
+          "reading": "ぶん"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "面談",
+          "reading": "めんだん"
+        },
+        {
+          "kanji": "被監査部門",
+          "reading": "ひかんさぶもん"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "収集",
+          "reading": "しゅうしゅう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ヒアリングで大切なのは、聞いたことの裏付け（監査証拠）を取ることです。相手が嘘をいうこともあるので、ヒアリングで得た情報が事実であることを示す文書や記録を手に入れる必要があります。",
+      "vi": "Điều quan trọng trong Hearing là lấy bằng chứng xác nhận (audit evidence) cho những gì đã nghe. Vì đối phương có thể nói dối, cần có văn bản hoặc bản ghi chứng minh thông tin thu được từ Hearing là sự thật.",
+      "en": "What's important in Hearing is getting corroboration (audit evidence) for what was heard. Since counterpart may lie, need to obtain documents or records proving information from Hearing is factual.",
+      "terms": [
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "kanji": "聞",
+          "reading": "ぶん"
+        },
+        {
+          "kanji": "裏付",
+          "reading": "うらづけ"
+        },
+        {
+          "kanji": "監査証拠",
+          "reading": "かんさしょうこ"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "相手",
+          "reading": "あいて"
+        },
+        {
+          "kanji": "嘘",
+          "reading": "うそ"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "事実",
+          "reading": "じじつ"
+        },
+        {
+          "kanji": "示",
+          "reading": "じ"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "記録",
+          "reading": "きろく"
+        },
+        {
+          "kanji": "手",
+          "reading": "て"
+        },
+        {
+          "kanji": "入",
+          "reading": "にゅう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（4）報告",
+      "reading": "ほうこく",
+      "vi": "(4) Báo cáo",
+      "en": "(4) Report"
+    },
+    {
+      "type": "paragraph",
+      "ja": "調査が終わると、監査人は依頼人に監査報告書を提出します。",
+      "vi": "Khi điều tra kết thúc, Auditor nộp báo cáo audit cho Client.",
+      "en": "When investigation ends, Auditor submits audit report to Client.",
+      "terms": [
+        {
+          "kanji": "調査",
+          "reading": "ちょうさ"
+        },
+        {
+          "kanji": "終",
+          "reading": "おわり"
+        },
+        {
+          "kanji": "監査人",
+          "reading": "かんさにん"
+        },
+        {
+          "kanji": "依頼人",
+          "reading": "いらいにん"
+        },
+        {
+          "kanji": "監査報告書",
+          "reading": "かんさほうこくしょ"
+        },
+        {
+          "kanji": "提出",
+          "reading": "ていしゅつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（5）改善命令",
+      "reading": "かいぜんめいれい",
+      "vi": "(5) Lệnh cải thiện",
+      "en": "(5) Improvement Order"
+    },
+    {
+      "type": "paragraph",
+      "ja": "依頼人は監査報告書を元に、被監査部門に対して改善命令を出します。",
+      "vi": "Client dựa trên báo cáo audit, đưa ra lệnh cải thiện cho bộ phận bị audit.",
+      "en": "Client issues improvement order to audited department based on audit report.",
+      "terms": [
+        {
+          "kanji": "依頼人",
+          "reading": "いらいにん"
+        },
+        {
+          "kanji": "監査報告書",
+          "reading": "かんさほうこくしょ"
+        },
+        {
+          "kanji": "元",
+          "reading": "もと"
+        },
+        {
+          "kanji": "被監査部門",
+          "reading": "ひかんさぶもん"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "改善命令",
+          "reading": "かいぜんめいれい"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（6）改善",
+      "reading": "かいぜん",
+      "vi": "(6) Cải thiện",
+      "en": "(6) Improvement"
+    },
+    {
+      "type": "paragraph",
+      "ja": "被監査部門は改善命令に基づいて、改善活動を行います。被監査部門の役割は、監査人から不備を指摘された場合に、改善計画を立て、改善活動を行うことです。",
+      "vi": "Bộ phận bị audit thực hiện hoạt động cải thiện dựa trên lệnh cải thiện. Vai trò của bộ phận bị audit là lập kế hoạch cải thiện và thực hiện hoạt động cải thiện khi auditor chỉ ra thiếu sót.",
+      "en": "Audited department conducts improvement activities based on improvement order. Audited department's role is to create improvement plan and conduct improvement activities when auditor points out deficiencies.",
+      "terms": [
+        {
+          "kanji": "被監査部門",
+          "reading": "ひかんさぶもん"
+        },
+        {
+          "kanji": "改善命令",
+          "reading": "かいぜんめいれい"
+        },
+        {
+          "kanji": "基",
+          "reading": "もと"
+        },
+        {
+          "kanji": "改善活動",
+          "reading": "かいぜんかつどう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "監査人",
+          "reading": "かんさにん"
+        },
+        {
+          "kanji": "不備",
+          "reading": "ふび"
+        },
+        {
+          "kanji": "指摘",
+          "reading": "してき"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "改善計画",
+          "reading": "かいぜんけいかく"
+        },
+        {
+          "kanji": "立",
+          "reading": "りつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方、監査人は「フォローアップ」と呼ばれる改善指導を行います。フォローアップでは、被監査部門が適切な改善を行っているかをモニタリングし、必要に応じて追加の指導や助言を行います。ただし、監査人はフォローアップをするだけで、主体的に改善活動を行うことはありません。",
+      "vi": "Mặt khác, Auditor thực hiện hướng dẫn cải thiện gọi là \"Follow-up\". Trong Follow-up, monitoring xem bộ phận bị audit có cải thiện đúng không, và đưa ra hướng dẫn hoặc lời khuyên bổ sung nếu cần. Tuy nhiên, Auditor chỉ Follow-up, không chủ động thực hiện hoạt động cải thiện.",
+      "en": "On other hand, Auditor conducts improvement guidance called 'Follow-up.' In Follow-up, monitors whether audited department is making appropriate improvements, providing additional guidance or advice as needed. However, Auditor only does Follow-up, doesn't proactively conduct improvement activities.",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "監査人",
+          "reading": "かんさにん"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "改善指導",
+          "reading": "かいぜんしどう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "被監査部門",
+          "reading": "ひかんさぶもん"
+        },
+        {
+          "kanji": "適切",
+          "reading": "てきせつ"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "応",
+          "reading": "おう"
+        },
+        {
+          "kanji": "追加",
+          "reading": "ついか"
+        },
+        {
+          "kanji": "指導",
+          "reading": "しどう"
+        },
+        {
+          "kanji": "助言",
+          "reading": "じょげん"
+        },
+        {
+          "kanji": "主体的",
+          "reading": "しゅたいてき"
+        },
+        {
+          "kanji": "改善活動",
+          "reading": "かいぜんかつどう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "試験では「監査の結果報告を受けるのは誰か」という問題が出題される。依頼人、経営者、社長など、表現が異なる場合があるので注意が必要",
+          "vi": "Trong kỳ thi, câu hỏi \"ai nhận báo cáo kết quả audit\" được ra đề. Cần lưu ý vì có thể có cách diễn đạt khác nhau như Client, ban lãnh đạo, giám đốc",
+          "en": "In exam, question 'who receives audit result report' is tested. Note that expressions may differ like Client, management, president"
+        },
+        {
+          "ja": "改善命令に基づいて改善活動を行うのは被監査部門。監査人は、改善活動は行わない",
+          "vi": "Bộ phận bị audit thực hiện hoạt động cải thiện dựa trên lệnh cải thiện. Auditor không thực hiện hoạt động cải thiện",
+          "en": "Audited department conducts improvement activities based on improvement order. Auditor doesn't conduct improvement activities"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "監査報告書",
+      "reading": "かんさほうこくしょ",
+      "romaji": "Kansa Houkokusho",
+      "vi": "Báo cáo kiểm toán",
+      "en": "Audit Report",
+      "my": "စစ်ဆေး အစီရင်ခံစာ"
+    },
+    {
+      "kanji": "監査証拠",
+      "reading": "かんさしょうこ",
+      "romaji": "Kansa Shouko",
+      "vi": "Bằng chứng kiểm toán",
+      "en": "Audit Evidence",
+      "my": "စစ်ဆေး သက်သေ"
+    },
+    {
+      "kanji": "フォローアップ",
+      "reading": "ふぉろーあっぷ",
+      "romaji": "Follow-up",
+      "vi": "Theo dõi",
+      "en": "Follow-up",
+      "my": "ဖောလိုအပ်"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true
+  }
+}

@@ -1,0 +1,111 @@
+{
+    "page_id": 289,
+    "image": "p_0289.png",
+    "chapter": 7,
+    "section": "practice",
+    "page_number": 273,
+    "content": [
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "出る順！過去問＆完全解説",
+                "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích hoàn chỉnh",
+                "en": "By Frequency! Past Questions & Complete Explanations"
+            },
+            "note": {
+                "ja": "解答・解説はp.276参照",
+                "vi": "Xem đáp án và giải thích ở trang 276",
+                "en": "See p.276 for answers and explanations"
+            }
+        },
+        {
+            "type": "exam_question",
+            "number": "7-1",
+            "year": "平成23年度",
+            "question": {
+                "ja": "生産性が同じメンバー5名で20日掛かる作業がある。作業開始直前に3名がインフルエンザにかかったので新たなメンバーと交代させることにした。新メンバーの生産性は当初予定していたメンバーの60%の生産性であるとき、20日以下で作業を完了するためには、少なくとも何名の新メンバーが必要か。",
+                "vi": "Có công việc mà 5 thành viên có năng suất giống nhau cần 20 ngày. Ngay trước khi bắt đầu công việc, 3 người bị cúm nên quyết định thay thế bằng thành viên mới. Khi năng suất của thành viên mới là 60% năng suất của thành viên dự định ban đầu, để hoàn thành công việc trong 20 ngày trở xuống, cần ít nhất bao nhiêu thành viên mới?",
+                "en": "There's work that takes 20 days with 5 members of same productivity. Just before starting, 3 got flu so decided to replace with new members. When new member productivity is 60% of originally planned members, how many new members are needed at minimum to complete work within 20 days?"
+            },
+            "choices": [
+                "ア. 4",
+                "イ. 5",
+                "ウ. 7",
+                "エ. 9"
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "7-2",
+            "year": "不明",
+            "question": {
+                "ja": "図のアローダイアグラムにおいて、作業Bが3日遅れて完了した。全体の遅れを1日にするためには、どの作業を何日短縮すればよいか。",
+                "vi": "Trong Arrow Diagram của hình, công việc B hoàn thành trễ 3 ngày. Để giảm độ trễ toàn bộ xuống còn 1 ngày, cần rút ngắn công việc nào bao nhiêu ngày?",
+                "en": "In the Arrow Diagram in the figure, work B completed 3 days late. To reduce overall delay to 1 day, which work should be shortened by how many days?"
+            },
+            "diagram": {
+                "type": "arrow_diagram",
+                "nodes": [
+                    "A (3)",
+                    "B (5)",
+                    "C (7)",
+                    "D",
+                    "E (10)",
+                    "F (5)"
+                ]
+            },
+            "choices": [
+                {
+                    "ja": "ア. 作業Cを1日短縮する",
+                    "vi": "ア. Rút ngắn công việc C 1 ngày",
+                    "en": "ア. Shorten work C by 1 day"
+                },
+                {
+                    "ja": "イ. 作業Dを1日短縮する",
+                    "vi": "イ. Rút ngắn công việc D 1 ngày",
+                    "en": "イ. Shorten work D by 1 day"
+                },
+                {
+                    "ja": "ウ. 作業Eを1日短縮する",
+                    "vi": "ウ. Rút ngắn công việc E 1 ngày",
+                    "en": "ウ. Shorten work E by 1 day"
+                },
+                {
+                    "ja": "エ. どの作業も短縮する必要はない",
+                    "vi": "エ. Không cần rút ngắn công việc nào",
+                    "en": "エ. No work needs shortening"
+                }
+            ],
+            "correct_answer": "ウ"
+        },
+        {
+            "type": "exam_question",
+            "number": "7-3",
+            "year": "令和2年度",
+            "question": {
+                "ja": "システム開発プロジェクトで使用される技法のうち、スケジュール作成に用いる技法として、適切なものだけを全て挙げたものはどれか。",
+                "vi": "Trong các kỹ thuật được sử dụng trong dự án phát triển hệ thống, kỹ thuật nào được dùng để tạo lịch trình? Chọn tất cả những cái thích hợp.",
+                "en": "Among techniques used in system development projects, which are appropriate for schedule creation? Select all appropriate ones."
+            },
+            "sub_choices": [
+                "a. DFD（Data Flow Diagram）",
+                "b. 回帰分析",
+                "c. クリティカルパス法",
+                "d. プレシデンスダイアグラム法"
+            ],
+            "choices": [
+                "ア. a, b",
+                "イ. a, d",
+                "ウ. b, c",
+                "エ. c, d"
+            ],
+            "correct_answer": "エ"
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 3,
+        "has_diagram": true
+    }
+}

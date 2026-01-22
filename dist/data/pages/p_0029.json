@@ -1,0 +1,507 @@
+{
+  "page_id": 29,
+  "image": "p_0029.png",
+  "chapter": 1,
+  "section": "01-01",
+  "page_number": 13,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "それでは、ITパスポート試験の勉強をはじめていきましょう。本書では、ITパスポート試験の公式のシラバス（出題範囲）に従い、より根本的、かつ重要なところから1つずつ丁寧に解説していきます。最初は「経営理念」です。",
+      "vi": "Vậy thì, hãy bắt đầu học cho kỳ thi IT Passport. Trong cuốn sách này, chúng tôi sẽ giải thích từng điểm một cách cẩn thận, từ những phần cơ bản và quan trọng nhất, theo syllabus chính thức (phạm vi đề thi) của kỳ thi IT Passport. Đầu tiên là \"Triết lý kinh doanh\".",
+      "en": "Now, let's begin studying for the IT Passport exam. In this book, we will explain each point carefully, starting from the most fundamental and important parts, following the official IT Passport exam syllabus (exam scope). First is \"Business Philosophy.\"",
+      "my": "ကဲ IT Passport စာမေးပွဲအတွက် လေ့လာမှုစတင်ကြရအောင်။ ဤစာအုပ်တွင် တရားဝင် IT Passport စာမေးပွဲ syllabus (စာမေးပွဲနယ်ပယ်) အတိုင်း အခြေခံအကျဆုံးနှင့် အရေးကြီးဆုံး အပိုင်းများမှစ၍ တစ်ခုချင်းစီ ဂရုတစိုက် ရှင်းပြပါမည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "勉強",
+          "reading": "べんきょう"
+        },
+        {
+          "kanji": "本書",
+          "reading": "ほんしょ"
+        },
+        {
+          "kanji": "公式",
+          "reading": "こうしき"
+        },
+        {
+          "kanji": "出題範囲",
+          "reading": "しゅつだいはんい"
+        },
+        {
+          "kanji": "従",
+          "reading": "じゅう"
+        },
+        {
+          "kanji": "根本的",
+          "reading": "こんぽんてき"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "丁寧",
+          "reading": "ていねい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "経営理念",
+          "reading": "けいえいりねん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "経営理念は「企業の存在意義」",
+      "reading": "けいえいりねんは「きぎょうのそんざいいぎ」",
+      "vi": "Triết lý kinh doanh là \"Lý do tồn tại của doanh nghiệp\"",
+      "en": "Business Philosophy is \"The Reason for a Company's Existence\"",
+      "my": "စီးပွားရေးအတွေးအခေါ်သည် \"ကုမ္ပဏီတည်ရှိရခြင်း၏ အကြောင်းရင်း\" ဖြစ်သည်"
+    },
+    {
+      "type": "paragraph",
+      "ja": "経営理念とは、企業の運営方針を決定するための「最も基本的、かつ大切な指針」です。経営者は経営理念に従って事業を運営し、企業に関するあらゆることは、経営理念に沿って決められます。",
+      "vi": "Triết lý kinh doanh là \"kim chỉ nam cơ bản và quan trọng nhất\" để xác định phương châm hoạt động của doanh nghiệp. Người quản lý điều hành kinh doanh theo triết lý kinh doanh, và mọi thứ liên quan đến doanh nghiệp đều được quyết định dựa trên triết lý kinh doanh.",
+      "en": "Business philosophy is \"the most fundamental and important guideline\" for determining a company's operating policy. Managers run the business according to the business philosophy, and everything related to the company is decided based on the business philosophy.",
+      "my": "စီးပွားရေးအတွေးအခေါ်သည် ကုမ္ပဏီ၏ လည်ပတ်မှုမူဝါဒ သတ်မှတ်ရန် \"အခြေခံအကျဆုံးနှင့် အရေးကြီးဆုံး လမ်းညွှန်ချက်\" ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "経営理念",
+          "reading": "けいえいりねん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "運営方針",
+          "reading": "うんえいほうしん"
+        },
+        {
+          "kanji": "決定",
+          "reading": "けってい"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "kanji": "指針",
+          "reading": "ししん"
+        },
+        {
+          "kanji": "経営者",
+          "reading": "けいえいしゃ"
+        },
+        {
+          "kanji": "従",
+          "reading": "じゅう"
+        },
+        {
+          "kanji": "事業",
+          "reading": "じぎょう"
+        },
+        {
+          "kanji": "運営",
+          "reading": "うんえい"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "沿",
+          "reading": "えん"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "みなさんはこれから「ストラテジ」や「マネジメント」などの分野についても学習を進めていきますが、それらの知識はすべて経営理念につながっています。ビジョンを定めるときも（p.14）、経営戦略を立てるときも（p.14）、システム開発を計画するときも（p.225）、常に、必ず、それらの内容が経営理念に合致しているかを考えることが必要です。",
+      "vi": "Từ bây giờ, các bạn sẽ học về các lĩnh vực như \"Strategy\" và \"Management\", và tất cả những kiến thức đó đều liên quan đến triết lý kinh doanh. Khi xác định tầm nhìn (trang 14), khi lập chiến lược kinh doanh (trang 14), khi lên kế hoạch phát triển hệ thống (trang 225), bạn luôn phải cân nhắc xem nội dung đó có phù hợp với triết lý kinh doanh hay không.",
+      "en": "From now on, you will also study fields like \"Strategy\" and \"Management,\" and all that knowledge is connected to the business philosophy. When setting a vision (p.14), when formulating a business strategy (p.14), when planning system development (p.225), you must always consider whether the content aligns with the business philosophy.",
+      "my": "ယခုမှစ၍ \"Strategy\" နှင့် \"Management\" ကဲ့သို့ နယ်ပယ်များကိုလည်း လေ့လာမည်ဖြစ်ပြီး ထိုဗဟုသုတအားလုံးသည် စီးပွားရေးအတွေးအခေါ်နှင့် ဆက်စပ်နေသည်။",
+      "terms": [
+        {
+          "kanji": "分野",
+          "reading": "ぶんや"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "経営理念",
+          "reading": "けいえいりねん"
+        },
+        {
+          "kanji": "定",
+          "reading": "てい"
+        },
+        {
+          "kanji": "経営戦略",
+          "reading": "けいえいせんりゃく"
+        },
+        {
+          "kanji": "立",
+          "reading": "た"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "計画",
+          "reading": "けいかく"
+        },
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "合致",
+          "reading": "がっち"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "また、経営理念に反する活動はすべて誤りであると判断されます。なぜなら、経営理念と異なる企業活動をしてしまうと、企業が目指すべき方向とは異なる方向に進んでしまうからです。このことから、経営理念は「企業の存在意義」と表現されることもあります。",
+      "vi": "Ngoài ra, mọi hoạt động đi ngược lại triết lý kinh doanh đều bị coi là sai. Bởi vì nếu thực hiện hoạt động doanh nghiệp khác với triết lý kinh doanh, doanh nghiệp sẽ đi theo hướng khác với hướng mà doanh nghiệp nên hướng tới. Do đó, triết lý kinh doanh đôi khi được gọi là \"Lý do tồn tại của doanh nghiệp\".",
+      "en": "Also, all activities that go against the business philosophy are judged as wrong. Because if you conduct corporate activities different from the business philosophy, the company will head in a direction different from what it should aim for. For this reason, the business philosophy is sometimes called \"the reason for a company's existence.\"",
+      "my": "ထို့အပြင် စီးပွားရေးအတွေးအခေါ်နှင့် ဆန့်ကျင်သော လုပ်ဆောင်ချက်အားလုံးကို မှားယွင်းသည်ဟု သတ်မှတ်သည်။",
+      "terms": [
+        {
+          "kanji": "経営理念",
+          "reading": "けいえいりねん"
+        },
+        {
+          "kanji": "反",
+          "reading": "はん"
+        },
+        {
+          "kanji": "活動",
+          "reading": "かつどう"
+        },
+        {
+          "kanji": "誤",
+          "reading": "ご"
+        },
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "企業活動",
+          "reading": "きぎょうかつどう"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "目指",
+          "reading": "もくし"
+        },
+        {
+          "kanji": "方向",
+          "reading": "ほうこう"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "存在意義",
+          "reading": "そんざいいぎ"
+        },
+        {
+          "kanji": "表現",
+          "reading": "ひょうげん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "経営理念は企業経営において非常に重要な用語であるため、ITパスポート試験でも頻繁に出題されています。",
+      "vi": "Vì triết lý kinh doanh là thuật ngữ rất quan trọng trong quản lý doanh nghiệp, nên nó thường xuyên được ra đề trong kỳ thi IT Passport.",
+      "en": "Because business philosophy is a very important term in corporate management, it frequently appears in the IT Passport exam.",
+      "my": "စီးပွားရေးအတွေးအခေါ်သည် ကုမ္ပဏီစီမံခန့်ခွဲမှုတွင် အလွန်အရေးကြီးသော ဝေါဟာရဖြစ်သောကြောင့် IT Passport စာမေးပွဲတွင် မကြာခဏ ပေါ်လာသည်။",
+      "terms": [
+        {
+          "kanji": "経営理念",
+          "reading": "けいえいりねん"
+        },
+        {
+          "kanji": "企業経営",
+          "reading": "きぎょうけいえい"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "頻繁",
+          "reading": "ひんぱん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "経営理念はすべての企業活動の指針である",
+        "vi": "Triết lý kinh doanh là kim chỉ nam cho mọi hoạt động doanh nghiệp",
+        "en": "Business philosophy is the guideline for all corporate activities",
+        "my": "စီးပွားရေးအတွေးအခေါ်သည် ကုမ္ပဏီလုပ်ငန်းအားလုံး၏ လမ်းညွှန်ဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "企業活動",
+            "reading": "きぎょうかつどう"
+          },
+          {
+            "kanji": "経営理念",
+            "reading": "けいえいりねん"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "経営",
+            "reading": "けいえい"
+          },
+          {
+            "kanji": "指針",
+            "reading": "ししん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "経営理念 → ビジョン → 経営戦略（ピラミッド図）\n\nITパスポート試験の3大分野のうち「ストラテジ」とは経営戦略のこと（p.6）",
+        "vi": "Triết lý kinh doanh → Tầm nhìn → Chiến lược kinh doanh (Hình kim tự tháp)\n\n\"Strategy\" trong 3 lĩnh vực lớn của IT Passport nghĩa là chiến lược kinh doanh (trang 6)",
+        "en": "Business Philosophy → Vision → Business Strategy (Pyramid diagram)\n\n\"Strategy\" among the 3 major fields of IT Passport means business strategy (p.6)",
+        "my": "စီးပွားရေးအတွေးအခေါ် → ရူပါရုံ → စီးပွားရေးဗျူဟာ (ပိရမစ်ပုံ)",
+        "terms": [
+          {
+            "kanji": "経営理念",
+            "reading": "けいえいりねん"
+          },
+          {
+            "kanji": "経営戦略",
+            "reading": "けいえいせんりゃく"
+          },
+          {
+            "kanji": "図",
+            "reading": "ず"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "大分野",
+            "reading": "おおいたの"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、経営理念は経営者や社員が日々の業務で迷った際の「判断基準」になります。経営陣、および社員全員が「経営理念」という道標（コンパス）に従って行動することによってはじめて、企業は正しい方向に向かって進むことができます。経営理念はとても重要な指針なのです。",
+      "vi": "Như vậy, triết lý kinh doanh trở thành \"tiêu chuẩn phán đoán\" khi người quản lý và nhân viên gặp khó khăn trong công việc hàng ngày. Chỉ khi ban lãnh đạo và tất cả nhân viên hành động theo \"triết lý kinh doanh\" như một kim chỉ nam (la bàn), doanh nghiệp mới có thể tiến về đúng hướng. Triết lý kinh doanh là kim chỉ nam rất quan trọng.",
+      "en": "In this way, the business philosophy becomes the \"judgment standard\" when managers and employees are uncertain in their daily work. Only when the management and all employees act according to the \"business philosophy\" as a signpost (compass) can the company move in the right direction. The business philosophy is a very important guideline.",
+      "my": "ဤနည်းဖြင့် စီးပွားရေးအတွေးအခေါ်သည် မန်နေဂျာများနှင့် ဝန်ထမ်းများ နေ့စဉ်အလုပ်တွင် မသေချာသည့်အခါ \"ဆုံးဖြတ်ချက်စံနှုန်း\" ဖြစ်လာသည်။",
+      "terms": [
+        {
+          "kanji": "経営理念",
+          "reading": "けいえいりねん"
+        },
+        {
+          "kanji": "経営者",
+          "reading": "けいえいしゃ"
+        },
+        {
+          "kanji": "社員",
+          "reading": "しゃいん"
+        },
+        {
+          "kanji": "日",
+          "reading": "にち"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "迷",
+          "reading": "めい"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "判断基準",
+          "reading": "はんだんきじゅん"
+        },
+        {
+          "kanji": "経営陣",
+          "reading": "けいえいじん"
+        },
+        {
+          "kanji": "社員全員",
+          "reading": "しゃいんぜんいん"
+        },
+        {
+          "kanji": "道標",
+          "reading": "みちしるべ"
+        },
+        {
+          "kanji": "従",
+          "reading": "じゅう"
+        },
+        {
+          "kanji": "行動",
+          "reading": "こうどう"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "方向",
+          "reading": "ほうこう"
+        },
+        {
+          "kanji": "向",
+          "reading": "こう"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "指針",
+          "reading": "ししん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "経営理念",
+      "reading": "けいえいりねん",
+      "romaji": "Keiei Rinen",
+      "vi": "Triết lý kinh doanh",
+      "en": "Business Philosophy",
+      "my": "စီးပွားရေးအတွေးအခေါ်"
+    },
+    {
+      "kanji": "存在意義",
+      "reading": "そんざいいぎ",
+      "romaji": "Sonzai Igi",
+      "vi": "Lý do tồn tại",
+      "en": "Reason for Existence",
+      "my": "တည်ရှိရခြင်းအကြောင်းရင်း"
+    },
+    {
+      "kanji": "指針",
+      "reading": "ししん",
+      "romaji": "Shishin",
+      "vi": "Kim chỉ nam, Hướng dẫn",
+      "en": "Guideline",
+      "my": "လမ်းညွှန်ချက်"
+    },
+    {
+      "kanji": "判断基準",
+      "reading": "はんだんきじゅん",
+      "romaji": "Handan Kijun",
+      "vi": "Tiêu chuẩn phán đoán",
+      "en": "Judgment Standard",
+      "my": "ဆုံးဖြတ်ချက်စံနှုန်း"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "diagram_type": "pyramid",
+    "has_exam_tip": false
+  }
+}

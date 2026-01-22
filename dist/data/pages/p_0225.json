@@ -1,0 +1,449 @@
+{
+  "page_id": 225,
+  "image": "p_0225.png",
+  "chapter": 5,
+  "section": "05-07",
+  "page_number": 209,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "企画プロセス全体の目的は、経営・事業の目的、目標を達成するために必要なシステムに関係する要件の集合とシステム化の方針、及び、システムを実現するための実施計画を得ることである。",
+      "vi": "Mục đích của toàn bộ Quy trình lập kế hoạch là để đạt mục đích và mục tiêu kinh doanh, thu thập tập hợp yêu cầu liên quan đến hệ thống cần thiết, phương châm hệ thống hóa, và kế hoạch thực hiện để thực hiện hệ thống.",
+      "en": "The purpose of the entire Planning Process is to achieve business objectives and goals, collect sets of system-related requirements, systemization policies, and implementation plans to realize the system.",
+      "my": "Planning Process တစ်ခုလုံး၏ ရည်ရွယ်ချက်မှာ business objectives နှင့် goals အောင်မြင်ရန်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "企画",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "事業",
+          "reading": "じぎょう"
+        },
+        {
+          "kanji": "目標",
+          "reading": "もくひょう"
+        },
+        {
+          "kanji": "達成",
+          "reading": "たっせい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "要件",
+          "reading": "ようけん"
+        },
+        {
+          "kanji": "集合",
+          "reading": "しゅうごう"
+        },
+        {
+          "kanji": "化",
+          "reading": "か"
+        },
+        {
+          "kanji": "方針",
+          "reading": "ほうしん"
+        },
+        {
+          "kanji": "及",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "実施計画",
+          "reading": "じっしけいかく"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "企画プロセスに含まれる2つのプロセス",
+      "vi": "2 quy trình trong Quy trình lập kế hoạch",
+      "en": "2 Processes in Planning Process"
+    },
+    {
+      "type": "paragraph",
+      "ja": "企画プロセスはさらに次の2つのプロセスに分かれます。",
+      "vi": "Quy trình lập kế hoạch được chia thành 2 quy trình sau.",
+      "en": "The Planning Process is further divided into the following 2 processes.",
+      "my": "Planning Process ကို အောက်ပါ process ၂ ခုအဖြစ် ထပ်မံခွဲထားသည်။",
+      "terms": [
+        {
+          "kanji": "企画",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "企画プロセスに含まれる2つのプロセス",
+        "vi": "2 quy trình trong Quy trình lập kế hoạch",
+        "en": "2 Processes in Planning Process"
+      },
+      "headers": {
+        "ja": [
+          "プロセス",
+          "説明"
+        ],
+        "vi": [
+          "Quy trình",
+          "Giải thích"
+        ],
+        "en": [
+          "Process",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "システム化構想の立案プロセス",
+            "経営課題を解決するための新たな業務とシステムの構想を立案するプロセス。具体的なタスクとしては、経営上のニーズと課題の確認、事業環境や業務環境の調査などがある。"
+          ],
+          "vi": [
+            "Quy trình lập kế hoạch cấu tưởng hệ thống hóa",
+            "Quy trình lập kế hoạch nghiệp vụ và hệ thống mới để giải quyết vấn đề kinh doanh. Task cụ thể gồm xác nhận nhu cầu và vấn đề kinh doanh, điều tra môi trường kinh doanh và nghiệp vụ."
+          ],
+          "en": [
+            "System Concept Planning Process",
+            "Process to plan new business and system concepts to solve management issues. Specific tasks include confirming management needs and issues, surveying business and work environments."
+          ]
+        },
+        {
+          "ja": [
+            "システム化計画の立案プロセス",
+            "システム化構想を具現化するための全体のシステム化計画、およびプロジェクト計画を具体化して利害関係者への合意を得るプロセス。具体的なタスクとしては、システム化計画の基本要件の確認や、対象システムの内容、費用とシステム投資効果の予測などがある。"
+          ],
+          "vi": [
+            "Quy trình lập kế hoạch hệ thống hóa",
+            "Quy trình cụ thể hóa kế hoạch hệ thống hóa tổng thể và kế hoạch project để thực hiện cấu tưởng hệ thống hóa và có được sự đồng ý của các bên liên quan. Task cụ thể gồm xác nhận yêu cầu cơ bản của kế hoạch hệ thống hóa, nội dung hệ thống, và dự đoán chi phí và hiệu quả đầu tư hệ thống."
+          ],
+          "en": [
+            "Systemization Planning Process",
+            "Process to concretize overall systemization plan and project plan to realize system concept and gain stakeholder agreement. Specific tasks include confirming basic requirements of systemization plan, target system content, cost and system investment effect prediction."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "この2つのプロセスの名前は「構想」と「計画」が異なるだけですが、ITパスポート試験ではきちんと区別されて出題されるので、それぞれの違いを必ず覚えてください。特にシステム化計画の立案プロセスに関する問題は頻出です。",
+      "vi": "2 quy trình này chỉ khác nhau ở 'cấu tưởng' và 'kế hoạch', nhưng trong IT Passport được phân biệt rõ nên hãy nhớ sự khác biệt. Đặc biệt câu hỏi về Quy trình lập kế hoạch hệ thống hóa thường xuất hiện.",
+      "en": "These 2 processes differ only in 'concept' and 'plan', but they're clearly distinguished in IT Passport, so remember the differences. Especially questions about Systemization Planning Process are frequent.",
+      "my": "ဤ process ၂ ခုသည် 'concept' နှင့် 'plan' တွင်သာ ကွာခြားသည်။",
+      "terms": [
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "構想",
+          "reading": "こうそう"
+        },
+        {
+          "kanji": "計画",
+          "reading": "けいかく"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "区別",
+          "reading": "くべつ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "特",
+          "reading": "とく"
+        },
+        {
+          "kanji": "化計画",
+          "reading": "かけいかく"
+        },
+        {
+          "kanji": "立案",
+          "reading": "りつあん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "頻出",
+          "reading": "ひんしゅつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "経営上のニーズと課題の確認",
+      "vi": "Xác nhận nhu cầu và vấn đề kinh doanh",
+      "en": "Confirming Management Needs and Issues"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システム化構想の立案プロセスのタスクには「経営上のニーズと課題の確認」があります。これは、経営戦略と整合の取れている、全体最適（p.177）を実現するシステムを開発するために必要なタスクです。\n\n経営戦略を無視して、現場のニーズだけを聞いてシステムを企画すると、部分最適（p.177）になる恐れがあります。経営戦略に基づいていない部分最適のシステムは企業にとって害になる可能性があります。そのため、そういった状況に陥らないためにも、最初のプロセスできちんと経営上のニーズや課題を確認することが重要です。",
+      "vi": "Task của Quy trình lập kế hoạch cấu tưởng hệ thống hóa có 'Xác nhận nhu cầu và vấn đề kinh doanh'. Đây là task cần thiết để phát triển hệ thống thực hiện tối ưu hóa tổng thể (trang 177) nhất quán với chiến lược kinh doanh.\n\nNếu bỏ qua chiến lược kinh doanh và chỉ lắng nghe nhu cầu hiện trường để lập kế hoạch hệ thống, có thể dẫn đến tối ưu hóa bộ phận (trang 177). Hệ thống tối ưu hóa bộ phận không dựa trên chiến lược kinh doanh có thể gây hại cho doanh nghiệp. Vì vậy, để không rơi vào tình trạng đó, việc xác nhận đúng nhu cầu và vấn đề kinh doanh trong quy trình đầu tiên rất quan trọng.",
+      "en": "Tasks in the System Concept Planning Process include 'Confirming management needs and issues'. This is a necessary task to develop systems that achieve total optimization (p.177) aligned with business strategy.\n\nIf you ignore business strategy and only listen to field needs when planning systems, it may lead to partial optimization (p.177). Partially optimized systems not based on business strategy can harm companies. So to avoid such situations, it's important to properly confirm management needs and issues in the first process.",
+      "my": "System Concept Planning Process ရှိ tasks တွင် 'management needs နှင့် issues အတည်ပြုခြင်း' ပါဝင်သည်။",
+      "terms": [
+        {
+          "kanji": "化構想",
+          "reading": "かこうそう"
+        },
+        {
+          "kanji": "立案",
+          "reading": "りつあん"
+        },
+        {
+          "kanji": "経営上",
+          "reading": "けいえいじょう"
+        },
+        {
+          "kanji": "課題",
+          "reading": "かだい"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "経営戦略",
+          "reading": "けいえいせんりゃく"
+        },
+        {
+          "kanji": "整合",
+          "reading": "せいごう"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "全体最適",
+          "reading": "ぜんたいさいてき"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "無視",
+          "reading": "むし"
+        },
+        {
+          "kanji": "現場",
+          "reading": "げんば"
+        },
+        {
+          "kanji": "聞",
+          "reading": "き"
+        },
+        {
+          "kanji": "企画",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "部分最適",
+          "reading": "ぶぶんさいてき"
+        },
+        {
+          "kanji": "恐",
+          "reading": "きょう"
+        },
+        {
+          "kanji": "基",
+          "reading": "もと"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "害",
+          "reading": "がい"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "状況",
+          "reading": "じょうきょう"
+        },
+        {
+          "kanji": "陥",
+          "reading": "かん"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "費用とシステム投資効果の予測",
+      "vi": "Dự đoán chi phí và hiệu quả đầu tư hệ thống",
+      "en": "Predicting Cost and System Investment Effect"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システム化計画の立案プロセスのタスクには「費用とシステム投資効果の予測」があります。このタスクで、費用対効果（ROI）を計算します。\n\n開発するシステムの内容が決まったら、開発にいくらかかるのかを計算し、そして、そのシステムによって得られる効果とその費用を比較します。",
+      "vi": "Task của Quy trình lập kế hoạch hệ thống hóa có 'Dự đoán chi phí và hiệu quả đầu tư hệ thống'. Trong task này, tính hiệu quả chi phí (ROI).\n\nKhi nội dung hệ thống phát triển được quyết định, tính chi phí phát triển, và so sánh hiệu quả thu được từ hệ thống đó với chi phí.",
+      "en": "Tasks in the Systemization Planning Process include 'Predicting cost and system investment effect'. In this task, cost-effectiveness (ROI) is calculated.\n\nOnce the system content to develop is decided, calculate development costs, then compare the effects obtained from that system with the costs.",
+      "my": "Systemization Planning Process ရှိ tasks တွင် 'cost နှင့် system investment effect ခန့်မှန်းခြင်း' ပါဝင်သည်။",
+      "terms": [
+        {
+          "kanji": "化計画",
+          "reading": "かけいかく"
+        },
+        {
+          "kanji": "立案",
+          "reading": "りつあん"
+        },
+        {
+          "kanji": "費用",
+          "reading": "ひよう"
+        },
+        {
+          "kanji": "投資効果",
+          "reading": "とうしこうか"
+        },
+        {
+          "kanji": "予測",
+          "reading": "よそく"
+        },
+        {
+          "kanji": "費用対効果",
+          "reading": "ひようついこうか"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "効果",
+          "reading": "こうか"
+        },
+        {
+          "kanji": "比較",
+          "reading": "ひかく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "システム化構想",
+      "reading": "しすてむかこうそう",
+      "romaji": "Systemization Concept",
+      "vi": "Cấu tưởng hệ thống hóa",
+      "en": "Systemization Concept",
+      "my": "စနစ်တကျပြုလုပ်ခြင်း အယူအဆင်"
+    },
+    {
+      "kanji": "システム化計画",
+      "reading": "しすてむかけいかく",
+      "romaji": "Systemization Plan",
+      "vi": "Kế hoạch hệ thống hóa",
+      "en": "Systemization Plan",
+      "my": "စနစ်တကျပြုလုပ်ခြင်း အစီအစဉ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false
+  }
+}

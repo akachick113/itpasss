@@ -1,0 +1,266 @@
+{
+  "page_id": 184,
+  "image": "p_0184.png",
+  "chapter": 4,
+  "section": "04-06",
+  "page_number": 168,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "自動運転",
+      "reading": "じどううんてん",
+      "vi": "Tự lái",
+      "en": "Autonomous Driving",
+      "my": "Autonomous Driving"
+    },
+    {
+      "type": "paragraph",
+      "ja": "Society 5.0で実現されようとしている代表的な技術が「自動運転」です。自動運転とは、運転手の操作なしで、車両が自動で走行する技術です。自動運転の技術レベルをレベル1〜5で表した水準を自動運転レベルといいます。",
+      "vi": "Công nghệ đại diện sắp được thực hiện trong Society 5.0 là tự lái. Tự lái là công nghệ xe chạy tự động mà không có thao tác của người lái. Mức độ công nghệ tự lái được biểu thị từ level 1-5 gọi là Autonomous Driving Level.",
+      "en": "A representative technology being realized in Society 5.0 is 'autonomous driving'. Autonomous driving is technology where vehicles run automatically without driver operation. The technology level expressed from Level 1-5 is called Autonomous Driving Level.",
+      "my": "Society 5.0 တွင် အကောင်အထည်ဖော်နေသော ကိုယ်စားပြု နည်းပညာမှာ autonomous driving ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "代表的",
+          "reading": "だいひょうてき"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "自動運転",
+          "reading": "じどううんてん"
+        },
+        {
+          "kanji": "運転手",
+          "reading": "うんてんしゅ"
+        },
+        {
+          "kanji": "操作",
+          "reading": "そうさ"
+        },
+        {
+          "kanji": "車両",
+          "reading": "しゃりょう"
+        },
+        {
+          "kanji": "自動",
+          "reading": "じどう"
+        },
+        {
+          "kanji": "走行",
+          "reading": "そうこう"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "水準",
+          "reading": "すいじゅん"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "IoTシステム関連のその他の用語",
+        "vi": "Thuật ngữ khác về hệ thống IoT",
+        "en": "Other IoT System Related Terms"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "ドローン",
+            "無人飛行機のこと。「Drone」は無線操縦の無人機という意味。"
+          ],
+          "vi": [
+            "Drone",
+            "Máy bay không người lái. 'Drone' nghĩa là máy bay không người lái điều khiển vô tuyến."
+          ],
+          "en": [
+            "Drone",
+            "Unmanned aircraft. 'Drone' means wirelessly controlled unmanned aircraft."
+          ]
+        },
+        {
+          "ja": [
+            "コネクテッドカー",
+            "インターネットに接続できる機能を持つ自動車。"
+          ],
+          "vi": [
+            "Connected Car",
+            "Ô tô có chức năng kết nối internet."
+          ],
+          "en": [
+            "Connected Car",
+            "Car with internet connectivity function."
+          ]
+        },
+        {
+          "ja": [
+            "スマートファクトリー",
+            "工場の機械をネットワークにつなげて効率化した工場。「スマート工場」とも呼ばれる。"
+          ],
+          "vi": [
+            "Smart Factory",
+            "Nhà máy hiệu quả hóa bằng cách kết nối máy móc nhà máy vào mạng. Còn gọi là nhà máy thông minh."
+          ],
+          "en": [
+            "Smart Factory",
+            "Factory made efficient by connecting factory machines to network. Also called 'smart factory'."
+          ]
+        },
+        {
+          "ja": [
+            "インダストリー4.0",
+            "IoTやAI（人工知能）を使った製造業の革新のこと。第一次は蒸気機関を使った産業革命、第二次は電気を使った産業革命、第三次はコンピュータを使った産業革命。"
+          ],
+          "vi": [
+            "Industry 4.0",
+            "Đổi mới ngành sản xuất sử dụng IoT và AI (Trí tuệ nhân tạo). Thứ nhất là cách mạng công nghiệp dùng động cơ hơi nước, thứ hai dùng điện, thứ ba dùng máy tính."
+          ],
+          "en": [
+            "Industry 4.0",
+            "Manufacturing innovation using IoT and AI. First was industrial revolution using steam engines, second using electricity, third using computers."
+          ]
+        },
+        {
+          "ja": [
+            "仮想現実（VR：Virtual Reality）",
+            "コンピュータを使って、実際にはない空間をあたかも実在するかのように見せる技術。"
+          ],
+          "vi": [
+            "VR (Virtual Reality)",
+            "Công nghệ sử dụng máy tính để hiển thị không gian không tồn tại như thể có thật."
+          ],
+          "en": [
+            "VR (Virtual Reality)",
+            "Technology using computers to show non-existent spaces as if they were real."
+          ]
+        },
+        {
+          "ja": [
+            "拡張現実（AR：Augmented Reality）",
+            "現実の世界にデジタル情報を重ねて表示する技術。"
+          ],
+          "vi": [
+            "AR (Augmented Reality)",
+            "Công nghệ hiển thị thông tin số chồng lên thế giới thực."
+          ],
+          "en": [
+            "AR (Augmented Reality)",
+            "Technology overlaying digital information on the real world."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "組込みシステム",
+      "reading": "くみこみしすてむ",
+      "vi": "Hệ thống nhúng",
+      "en": "Embedded System"
+    },
+    {
+      "type": "paragraph",
+      "ja": "組込みシステム（Embedded System）とは、特定の機能を実行するシステムです。組込みシステムといった場合、通常は「マイクロコンピュータ」のことを指します。ITが発達した現在では、組込みシステムはさまざまな民生機器や産業機器に内蔵されています。",
+      "vi": "Embedded System là hệ thống thực hiện chức năng cụ thể. Khi nói Embedded System, thường chỉ Microcomputer. Với IT phát triển hiện nay, Embedded System được tích hợp trong nhiều thiết bị tiêu dùng và công nghiệp.",
+      "en": "Embedded System is a system that executes specific functions. When saying Embedded System, it usually refers to 'microcomputer'. In today's developed IT era, Embedded Systems are built into various consumer and industrial devices.",
+      "my": "Embedded System သည် တိကျသော လုပ်ဆောင်ချက်များ လုပ်ဆောင်သော စနစ်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "組込",
+          "reading": "くみこみ"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "指",
+          "reading": "ゆび"
+        },
+        {
+          "kanji": "発達",
+          "reading": "はったつ"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "民生機器",
+          "reading": "みんせいきき"
+        },
+        {
+          "kanji": "産業機器",
+          "reading": "さんぎょうきき"
+        },
+        {
+          "kanji": "内蔵",
+          "reading": "ないぞう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "自動運転",
+      "reading": "じどううんてん",
+      "romaji": "Jidou Unten",
+      "vi": "Tự lái",
+      "en": "Autonomous Driving",
+      "my": "Autonomous Driving"
+    },
+    {
+      "kanji": "組込みシステム",
+      "reading": "くみこみしすてむ",
+      "romaji": "Kumikomi System",
+      "vi": "Hệ thống nhúng",
+      "en": "Embedded System",
+      "my": "Embedded System"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true
+  }
+}

@@ -1,0 +1,212 @@
+{
+    "page_id": 493,
+    "image": "p_0493.png",
+    "chapter": 13,
+    "section": "practice",
+    "page_number": 477,
+    "content": [
+        {
+            "type": "practice_intro",
+            "title": {
+                "ja": "出る順！過去問＆完全解説",
+                "vi": "Thứ tự ra đề! Đề thi cũ & Giải thích hoàn chỉnh",
+                "en": "Order of Appearance! Past Questions & Complete Explanations"
+            },
+            "note": {
+                "ja": "解答・解説はp.480参照",
+                "vi": "Xem đáp án và giải thích ở trang 480",
+                "en": "See answers and explanations on p.480"
+            }
+        },
+        {
+            "type": "practice_question",
+            "number": "13-1",
+            "year": "平成23年度",
+            "question": {
+                "ja": "データベース管理システムを利用する目的はどれか。",
+                "vi": "Mục đích sử dụng hệ thống quản lý cơ sở dữ liệu là gì?",
+                "en": "What is purpose of using database management system?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "ja": "OSがなくてもデータを利用可能にする。",
+                    "vi": "Làm cho dữ liệu có thể sử dụng được ngay cả khi không có OS.",
+                    "en": "Make data usable even without OS."
+                },
+                {
+                    "label": "イ",
+                    "ja": "ディスク障害に備えたバックアップを不要にする。",
+                    "vi": "Loại bỏ cần sao lưu để phòng sự cố đĩa.",
+                    "en": "Eliminate need for backup against disk failure."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ネットワークで送受信するデータを暗号化する。",
+                    "vi": "Mã hóa dữ liệu gửi nhận qua mạng.",
+                    "en": "Encrypt data sent/received over network."
+                },
+                {
+                    "label": "エ",
+                    "ja": "複数の利用者がデータの一貫性を確保しながら情報を共有する。",
+                    "vi": "Nhiều người dùng chia sẻ thông tin trong khi đảm bảo tính nhất quán của dữ liệu.",
+                    "en": "Multiple users share information while ensuring data consistency."
+                }
+            ],
+            "answer": "エ"
+        },
+        {
+            "type": "practice_question",
+            "number": "13-2",
+            "year": "平成21年度",
+            "question": {
+                "ja": "関係データベースを利用する際に、データの正規化を行う目的として、適切なものはどれか。",
+                "vi": "Khi sử dụng cơ sở dữ liệu quan hệ, mục đích của việc chuẩn hóa dữ liệu là gì?",
+                "en": "When using relational database, what is purpose of data normalization?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "ja": "異機種のコンピュータ間の、データの互換性を保証する。",
+                    "vi": "Đảm bảo tính tương thích dữ liệu giữa các máy tính khác loại.",
+                    "en": "Ensure data compatibility between different computer types."
+                },
+                {
+                    "label": "イ",
+                    "ja": "データが重複したり、データ更新の際に矛盾が生じたりしないようにする。",
+                    "vi": "Để dữ liệu không bị trùng lặp và không xảy ra mâu thuẫn khi cập nhật dữ liệu.",
+                    "en": "Prevent data duplication and inconsistency during data updates."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "データベースをネットワークで利用する際に、伝送上許されない文字を除去する。",
+                    "vi": "Loại bỏ các ký tự không được phép trong truyền tải khi sử dụng cơ sở dữ liệu qua mạng.",
+                    "en": "Remove characters not allowed in transmission when using database over network."
+                },
+                {
+                    "label": "エ",
+                    "ja": "複数の媒体にまたがるデータの格納領域を、一つの連続した格納領域に見せかける。",
+                    "vi": "Làm cho vùng lưu trữ dữ liệu trải trên nhiều phương tiện trông như 1 vùng lưu trữ liên tục.",
+                    "en": "Make data storage area spanning multiple media appear as one continuous storage area."
+                }
+            ],
+            "answer": "イ"
+        },
+        {
+            "type": "practice_question",
+            "number": "13-3",
+            "year": "平成28年度",
+            "question": {
+                "ja": "データベースを設計するときに、データの関連を整理して表現することを目的として使われるものはどれか。",
+                "vi": "Khi thiết kế cơ sở dữ liệu, cái nào được sử dụng với mục đích sắp xếp và biểu thị quan hệ dữ liệu?",
+                "en": "When designing database, which is used to organize and express data relationships?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "ja": "E-R図",
+                    "vi": "Sơ đồ E-R",
+                    "en": "E-R Diagram"
+                },
+                {
+                    "label": "イ",
+                    "ja": "アローダイアグラム",
+                    "vi": "Sơ đồ mũi tên",
+                    "en": "Arrow Diagram"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ガントチャート",
+                    "vi": "Biểu đồ Gantt",
+                    "en": "Gantt Chart"
+                },
+                {
+                    "label": "エ",
+                    "ja": "フローチャート",
+                    "vi": "Lưu đồ",
+                    "en": "Flowchart"
+                }
+            ],
+            "answer": "ア"
+        },
+        {
+            "type": "practice_question",
+            "number": "13-4",
+            "year": "平成25年度",
+            "question": {
+                "ja": "関係データベースの\"商品\"表から価格が100円以上の商品の行（レコード）だけを全て抽出する操作を何というか。",
+                "vi": "Thao tác trích xuất tất cả các hàng (bản ghi) của sản phẩm có giá từ 100 yên trở lên từ bảng \"Sản phẩm\" của cơ sở dữ liệu quan hệ được gọi là gì?",
+                "en": "What is operation extracting all rows (records) of products with price 100 yen or more from relational database 'Product' table called?"
+            },
+            "table": {
+                "title": {
+                    "ja": "商品",
+                    "vi": "Sản phẩm",
+                    "en": "Product"
+                },
+                "headers": [
+                    "商品番号/Mã SP",
+                    "商品名/Tên SP",
+                    "価格(円)/Giá (Yên)"
+                ],
+                "rows": [
+                    [
+                        "S001",
+                        "はさみ/Kéo",
+                        "200"
+                    ],
+                    [
+                        "S002",
+                        "鉛筆/Bút chì",
+                        "50"
+                    ],
+                    [
+                        "S003",
+                        "ノート/Vở",
+                        "120"
+                    ],
+                    [
+                        "S004",
+                        "消しゴム/Tẩy",
+                        "80"
+                    ],
+                    [
+                        "S005",
+                        "定規/Thước",
+                        "150"
+                    ]
+                ]
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "ja": "結合",
+                    "vi": "Kết hợp",
+                    "en": "Join"
+                },
+                {
+                    "label": "イ",
+                    "ja": "射影",
+                    "vi": "Chiếu",
+                    "en": "Project"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "選択",
+                    "vi": "Chọn",
+                    "en": "Select"
+                },
+                {
+                    "label": "エ",
+                    "ja": "和",
+                    "vi": "Hợp",
+                    "en": "Union"
+                }
+            ],
+            "answer": "ウ"
+        }
+    ],
+    "meta": {
+        "is_practice_questions": true
+    }
+}

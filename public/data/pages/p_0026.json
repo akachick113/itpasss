@@ -1,0 +1,523 @@
+{
+  "page_id": 26,
+  "image": "p_0026.png",
+  "chapter": 0,
+  "section": "00-03",
+  "page_number": 10,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "モチベーションを維持することが大切",
+      "reading": "もちべーしょんをいじすることがたいせつ",
+      "vi": "Duy trì động lực là điều quan trọng",
+      "en": "Maintaining motivation is important",
+      "my": "လှုံ့ဆော်မှုကို ထိန်းသိမ်းရန် အရေးကြီးသည်"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験を受験する学習者の最大の難関は「モチベーションを維持すること」です。モチベーションを失ってしまったら、受験すらしないかもしれません。本書をここまで読み進めている人の多くは、現時点では「さくっと一発で合格してやる」と考えていると思います。その思いを絶やさないことが実は一番大切です。",
+      "vi": "Thử thách lớn nhất đối với người học thi IT Passport là 'duy trì động lực'. Nếu mất động lực, bạn có thể không đi thi. Hầu hết những người đang đọc đến đây đều đang nghĩ 'Mình sẽ đỗ ngay từ lần đầu một cách nhẹ nhàng'. Điều quan trọng nhất là không để mất đi quyết tâm đó.",
+      "en": "The biggest challenge for IT Passport exam learners is 'maintaining motivation'. If you lose motivation, you might not even take the exam. Most people who have read this far are probably thinking 'I'll pass easily on my first try'. The most important thing is to never let go of that determination.",
+      "my": "IT Passport စာမေးပွဲဝင်သူများအတွက် အကြီးမားဆုံးစိန်ခေါ်မှုမှာ 'လှုံ့ဆော်မှုကို ထိန်းသိမ်းခြင်း' ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "受験",
+          "reading": "じゅけん"
+        },
+        {
+          "kanji": "学習者",
+          "reading": "がくしゅうしゃ"
+        },
+        {
+          "kanji": "最大",
+          "reading": "さいだい"
+        },
+        {
+          "kanji": "難関",
+          "reading": "なんかん"
+        },
+        {
+          "kanji": "維持",
+          "reading": "いじ"
+        },
+        {
+          "kanji": "失",
+          "reading": "しつ"
+        },
+        {
+          "kanji": "本書",
+          "reading": "ほんしょ"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "現時点",
+          "reading": "げんじてん"
+        },
+        {
+          "kanji": "一発",
+          "reading": "いっぱつ"
+        },
+        {
+          "kanji": "合格",
+          "reading": "ごうかく"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "絶",
+          "reading": "ぜつ"
+        },
+        {
+          "kanji": "実",
+          "reading": "み"
+        },
+        {
+          "kanji": "一番大切",
+          "reading": "いちばんたいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "試験当日の心得",
+      "reading": "しけんとうじつのこころえ",
+      "vi": "Những điều cần nhớ vào ngày thi",
+      "en": "Tips for exam day",
+      "my": "စာမေးပွဲနေ့အတွက် အကြံပြုချက်များ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "最後に「試験当日に読むだけで確実に得点がアップする秘策」をお伝えします。",
+      "vi": "Cuối cùng, chúng tôi sẽ chia sẻ 'bí quyết giúp tăng điểm chắc chắn chỉ bằng việc đọc vào ngày thi'.",
+      "en": "Finally, we'll share 'secret tips that will definitely boost your score just by reading them on exam day'.",
+      "my": "နောက်ဆုံးတွင် 'စာမေးပွဲနေ့တွင် ဖတ်ရုံဖြင့် အမှတ်တိုးစေမည့် လျှို့ဝှက်နည်းလမ်းများ' ကို မျှဝေပါမည်။",
+      "terms": [
+        {
+          "kanji": "最後",
+          "reading": "さいご"
+        },
+        {
+          "kanji": "試験当日",
+          "reading": "しけんとうじつ"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "確実",
+          "reading": "かくじつ"
+        },
+        {
+          "kanji": "得点",
+          "reading": "とくてん"
+        },
+        {
+          "kanji": "秘策",
+          "reading": "ひさく"
+        },
+        {
+          "kanji": "伝",
+          "reading": "でん"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "長時間悩まず、便利な「後で見直す」機能を活用する",
+        "vi": "Đừng suy nghĩ quá lâu, hãy tận dụng tính năng 'Xem lại sau'",
+        "en": "Don't struggle too long, use the 'Review later' function",
+        "terms": [
+          {
+            "kanji": "機能",
+            "reading": "きのう"
+          },
+          {
+            "kanji": "活用",
+            "reading": "かつよう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験では、ある問題や解答選択肢のなかに、別の問題を解くためのヒントが書かれていることがあります。そのため、わからない問題があった場合は、長く時間悩まずに、CBTの「後で見直すためにチェックする」にチェックを入れて（p.4）、次の問題に進んでください。後で見直すと意外と解ける問題があるものです。",
+        "vi": "Trong kỳ thi IT Passport, đôi khi trong một câu hỏi hoặc các lựa chọn đáp án có chứa gợi ý để giải câu hỏi khác. Do đó, nếu gặp câu hỏi không biết, đừng suy nghĩ quá lâu, hãy đánh dấu 'Đánh dấu để xem lại sau' trên CBT (trang 4) và chuyển sang câu tiếp theo. Khi xem lại, bạn có thể bất ngờ giải được câu hỏi đó.",
+        "en": "In the IT Passport exam, sometimes hints for solving other questions are written within a question or its answer choices. So if you encounter a question you don't know, don't spend too long thinking—check 'Mark for review' on CBT (p.4) and move on. You might surprisingly be able to solve it when you review later.",
+        "my": "IT Passport စာမေးပွဲတွင် တစ်ခါတစ်ရံ မေးခွန်းတစ်ခု သို့မဟုတ် အဖြေရွေးချယ်စရာများထဲတွင် အခြားမေးခွန်းများအတွက် အကြံပြုချက်များ ပါဝင်တတ်သည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "解答選択肢",
+            "reading": "かいとうせんたくし"
+          },
+          {
+            "kanji": "別",
+            "reading": "べつ"
+          },
+          {
+            "kanji": "解",
+            "reading": "かい"
+          },
+          {
+            "kanji": "書",
+            "reading": "かき"
+          },
+          {
+            "kanji": "場合",
+            "reading": "ばあい"
+          },
+          {
+            "kanji": "長",
+            "reading": "なが"
+          },
+          {
+            "kanji": "時間悩",
+            "reading": "じかんのう"
+          },
+          {
+            "kanji": "後",
+            "reading": "のち"
+          },
+          {
+            "kanji": "見直",
+            "reading": "みなおし"
+          },
+          {
+            "kanji": "入",
+            "reading": "はい"
+          },
+          {
+            "kanji": "次",
+            "reading": "つぎ"
+          },
+          {
+            "kanji": "進",
+            "reading": "すすむ"
+          },
+          {
+            "kanji": "意外",
+            "reading": "いがい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "消去法も戦略の1つ",
+        "vi": "Phương pháp loại trừ cũng là một chiến lược",
+        "en": "Elimination is also a strategy",
+        "terms": [
+          {
+            "kanji": "消去法",
+            "reading": "しょうきょほう"
+          },
+          {
+            "kanji": "戦略",
+            "reading": "せんりゃく"
+          }
+        ]
+      },
+      "content": {
+        "ja": "正解の選択肢を見つける方法は2つあります。1つは正解を見つけることです。もう1つは「不正解を3つ見つけること」です。ITパスポート試験では、不正解の選択肢に架空の用語や架空の技術といった、デタラメの情報が記載されることはほとんどありません。そのため、問題の正解がわからなくても、それ以外の選択肢の内容を理解できれば、確実に正答率を上げることができます。",
+        "vi": "Có 2 cách để tìm đáp án đúng. Một là tìm đáp án đúng. Cách thứ hai là 'tìm 3 đáp án sai'. Trong kỳ thi IT Passport, các lựa chọn sai hiếm khi chứa thông tin bịa đặt như thuật ngữ hoặc công nghệ không có thật. Do đó, ngay cả khi không biết đáp án đúng, nếu bạn hiểu được nội dung của các lựa chọn khác, bạn có thể chắc chắn tăng tỉ lệ trả lời đúng.",
+        "en": "There are 2 ways to find the correct answer. One is to find the correct answer directly. The other is 'finding 3 incorrect answers'. In the IT Passport exam, incorrect choices rarely contain made-up information like fictional terms or technologies. So even if you don't know the correct answer, if you can understand the content of other choices, you can definitely improve your accuracy rate.",
+        "my": "အဖြေမှန်ကို ရှာရန် နည်းလမ်း ၂ ခုရှိသည်။ တစ်ခုမှာ အဖြေမှန်ကို တိုက်ရိုက်ရှာခြင်းဖြစ်သည်။",
+        "terms": [
+          {
+            "kanji": "正解",
+            "reading": "せいかい"
+          },
+          {
+            "kanji": "選択肢",
+            "reading": "せんたくし"
+          },
+          {
+            "kanji": "見",
+            "reading": "み"
+          },
+          {
+            "kanji": "方法",
+            "reading": "ほうほう"
+          },
+          {
+            "kanji": "不正解",
+            "reading": "ふせいかい"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "架空",
+            "reading": "かくう"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          },
+          {
+            "kanji": "技術",
+            "reading": "ぎじゅつ"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "記載",
+            "reading": "きさい"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "以外",
+            "reading": "いがい"
+          },
+          {
+            "kanji": "内容",
+            "reading": "ないよう"
+          },
+          {
+            "kanji": "理解",
+            "reading": "りかい"
+          },
+          {
+            "kanji": "確実",
+            "reading": "かくじつ"
+          },
+          {
+            "kanji": "正答率",
+            "reading": "せいとうりつ"
+          },
+          {
+            "kanji": "上",
+            "reading": "うえ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "解答するのに時間がかかる「計算問題」と「擬似言語」の問題はいったん飛ばす",
+        "vi": "Tạm bỏ qua các câu 'Tính toán' và 'Ngôn ngữ giả' tốn thời gian",
+        "en": "Skip time-consuming 'Calculation' and 'Pseudo-language' questions for now",
+        "terms": [
+          {
+            "kanji": "擬似言語",
+            "reading": "ぎじげんご"
+          },
+          {
+            "kanji": "計算問題",
+            "reading": "けいさんもんだい"
+          },
+          {
+            "kanji": "解答",
+            "reading": "かいとう"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験では「計算問題」が約10問、「擬似言語」の問題が約2問出題されます。これらの問題を見て、解答に時間がかかりそうだなと思ったら「後で見直すためにチェックする」にチェックを入れて、次の問題に進むことをお勧めします。これらの問題に時間をかけすぎてしまい、最後の問題まで辿り着かなかったという事態は絶対に避けてください。「最後の問題まで解き終える」ことが、ITパスポート試験に一発合格するうえでは非常に重要です。",
+        "vi": "Trong kỳ thi IT Passport có khoảng 10 'câu hỏi tính toán' và khoảng 2 câu về 'ngôn ngữ giả'. Nếu thấy những câu này có vẻ tốn thời gian, hãy đánh dấu 'Đánh dấu để xem lại sau' và chuyển sang câu tiếp theo. Tuyệt đối tránh tình huống dành quá nhiều thời gian cho những câu này mà không kịp làm hết đề. Việc 'hoàn thành câu hỏi cuối cùng' là cực kỳ quan trọng để đỗ IT Passport ngay từ lần đầu.",
+        "en": "In the IT Passport exam, there are about 10 'calculation questions' and about 2 'pseudo-language' questions. If these questions look time-consuming, check 'Mark for review' and move on to the next question. Absolutely avoid spending too much time on these and not reaching the last question. 'Finishing the last question' is crucial for passing the IT Passport exam on your first try.",
+        "my": "IT Passport စာမေးပွဲတွင် 'တွက်ချက်မှုမေးခွန်း' ၁၀ ခုခန့်နှင့် 'pseudo-language' မေးခွန်း ၂ ခုခန့် ရှိသည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "計算問題",
+            "reading": "けいさんもんだい"
+          },
+          {
+            "kanji": "約",
+            "reading": "やく"
+          },
+          {
+            "kanji": "問",
+            "reading": "とん"
+          },
+          {
+            "kanji": "擬似言語",
+            "reading": "ぎじげんご"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "問出題",
+            "reading": "とんしゅつだい"
+          },
+          {
+            "kanji": "見",
+            "reading": "み"
+          },
+          {
+            "kanji": "解答",
+            "reading": "かいとう"
+          },
+          {
+            "kanji": "時間",
+            "reading": "じかん"
+          },
+          {
+            "kanji": "思",
+            "reading": "おもい"
+          },
+          {
+            "kanji": "後",
+            "reading": "のち"
+          },
+          {
+            "kanji": "見直",
+            "reading": "みなおし"
+          },
+          {
+            "kanji": "入",
+            "reading": "はい"
+          },
+          {
+            "kanji": "次",
+            "reading": "つぎ"
+          },
+          {
+            "kanji": "進",
+            "reading": "すすむ"
+          },
+          {
+            "kanji": "勧",
+            "reading": "かん"
+          },
+          {
+            "kanji": "最後",
+            "reading": "さいご"
+          },
+          {
+            "kanji": "辿",
+            "reading": "てん"
+          },
+          {
+            "kanji": "着",
+            "reading": "ちゃく"
+          },
+          {
+            "kanji": "事態",
+            "reading": "じたい"
+          },
+          {
+            "kanji": "絶対",
+            "reading": "ぜったい"
+          },
+          {
+            "kanji": "避",
+            "reading": "ひ"
+          },
+          {
+            "kanji": "解",
+            "reading": "かい"
+          },
+          {
+            "kanji": "終",
+            "reading": "おわり"
+          },
+          {
+            "kanji": "一発合格",
+            "reading": "いっぱつごうかく"
+          },
+          {
+            "kanji": "非常",
+            "reading": "ひじょう"
+          },
+          {
+            "kanji": "重要",
+            "reading": "じゅうよう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "モチベーション",
+      "reading": "もちべーしょん",
+      "romaji": "Mochibeeshon",
+      "vi": "Động lực",
+      "en": "Motivation",
+      "my": "လှုံ့ဆော်မှု"
+    },
+    {
+      "kanji": "心得",
+      "reading": "こころえ",
+      "romaji": "Kokoroe",
+      "vi": "Điều cần nhớ, nguyên tắc",
+      "en": "Tips, principles",
+      "my": "အကြံပြုချက်များ"
+    },
+    {
+      "kanji": "消去法",
+      "reading": "しょうきょほう",
+      "romaji": "Shoukyohou",
+      "vi": "Phương pháp loại trừ",
+      "en": "Elimination method",
+      "my": "ဖယ်ထုတ်နည်းလမ်း"
+    },
+    {
+      "kanji": "擬似言語",
+      "reading": "ぎじげんご",
+      "romaji": "Giji Gengo",
+      "vi": "Ngôn ngữ giả (pseudo-language)",
+      "en": "Pseudo-language",
+      "my": "pseudo-language"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "exam_tips_count": 3
+  }
+}

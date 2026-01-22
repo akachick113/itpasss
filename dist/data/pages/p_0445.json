@@ -1,0 +1,189 @@
+{
+  "page_id": 445,
+  "image": "p_0445.png",
+  "chapter": 12,
+  "section": "12-02",
+  "page_number": 429,
+  "content": [
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "ディレクトリとフォルダ",
+        "vi": "Thư mục (Directory) và Thư mục (Folder)",
+        "en": "Directory and Folder",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ディレクトリと似た用語に「フォルダ」があります。どちらもファイルを格納する場所です。フォルダは、主にマウスを使って、ダブルクリックしながら視覚的にファイル間を移動する、WindowsやMacなどの操作画面で使われる用語です。一方、ディレクトリは、主にキーボードを使って、文字を入力しながらファイル間を移動する操作画面で使われる用語です。",
+        "vi": "Thuật ngữ tương tự directory là \"folder\". Cả hai đều là nơi lưu trữ tệp. Folder là thuật ngữ được sử dụng trong màn hình thao tác như Windows hoặc Mac, di chuyển trực quan giữa các tệp bằng cách nhấp đúp với chuột. Mặt khác, directory là thuật ngữ được sử dụng trong màn hình thao tác di chuyển giữa các tệp bằng cách nhập văn bản với bàn phím.",
+        "en": "Similar term to directory is 'folder.' Both are places to store files. Folder is term used in operation screens like Windows or Mac, visually moving between files by double-clicking with mouse. On other hand, directory is term used in operation screens moving between files by inputting text with keyboard."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ツリー構造によるデータ管理",
+      "vi": "Quản lý dữ liệu bằng cấu trúc cây",
+      "en": "Data Management by Tree Structure"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ファイルシステムは、ファイルやディレクトリを「ツリー構造（木構造、階層構造）」で管理します。ツリー構造とは、各ファイルを下図のように分類して管理するデータの管理方法です。枝分かれしている木を逆さまにしたような形状になることからツリー構造（木構造）と呼ばれています。",
+      "vi": "Hệ thống tệp quản lý tệp và thư mục bằng \"cấu trúc cây (cấu trúc phân cấp)\". Cấu trúc cây là phương pháp quản lý dữ liệu phân loại và quản lý mỗi tệp như hình dưới. Được gọi là cấu trúc cây vì có hình dạng giống như cây phân nhánh bị lật ngược.",
+      "en": "File system manages files and directories with 'tree structure (hierarchical structure).' Tree structure is data management method classifying and managing each file as in diagram below. Called tree structure because shape is like upside-down branching tree.",
+      "terms": [
+        {
+          "kanji": "構造",
+          "reading": "こうぞう"
+        },
+        {
+          "kanji": "木構造",
+          "reading": "きこうぞう"
+        },
+        {
+          "kanji": "階層構造",
+          "reading": "かいそうこうぞう"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "各",
+          "reading": "かく"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "管理方法",
+          "reading": "かんりほうほう"
+        },
+        {
+          "kanji": "枝分",
+          "reading": "えだふん"
+        },
+        {
+          "kanji": "木",
+          "reading": "き"
+        },
+        {
+          "kanji": "逆",
+          "reading": "ぎゃく"
+        },
+        {
+          "kanji": "形状",
+          "reading": "けいじょう"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ツリー構造によるデータ管理",
+        "vi": "Quản lý dữ liệu bằng cấu trúc cây",
+        "en": "Data Management by Tree Structure"
+      },
+      "description": {
+        "ja": "ルートディレクトリを頂点に、音楽・画像ディレクトリが分岐し、その下に各ファイル（どんぐりころころ.mp3、ぞうさん.mp3、おもちゃのチャチャチャ.mp3、高解像度→バナナ.jpg、みかん.jpg、りんご.jpg）が格納されている",
+        "vi": "Với thư mục gốc ở đỉnh, thư mục nhạc và hình ảnh phân nhánh, và các tệp (donguri.mp3, zousan.mp3, omocha.mp3, độ phân giải cao → banana.jpg, mikan.jpg, ringo.jpg) được lưu trữ bên dưới",
+        "en": "With root directory at top, music and image directories branch, and files (donguri.mp3, zousan.mp3, omocha.mp3, high resolution → banana.jpg, mikan.jpg, ringo.jpg) stored below"
+      }
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "ツリー構造に関する重要用語",
+        "vi": "Thuật ngữ quan trọng liên quan đến cấu trúc cây",
+        "en": "Important Terms Related to Tree Structure"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "term": {
+            "ja": "ルートディレクトリ（Root Directory）",
+            "vi": "Thư mục gốc (Root Directory)",
+            "en": "Root Directory"
+          },
+          "description": {
+            "ja": "階層構造の最上位のディレクトリのこと。通常はハードディスク直下がルートディレクトリになる。",
+            "vi": "Thư mục ở cấp cao nhất của cấu trúc phân cấp. Thông thường ngay dưới ổ cứng là thư mục gốc.",
+            "en": "Directory at top level of hierarchical structure. Usually directly under hard disk is root directory."
+          }
+        },
+        {
+          "term": {
+            "ja": "カレントディレクトリ（Current Directory）",
+            "vi": "Thư mục hiện tại (Current Directory)",
+            "en": "Current Directory"
+          },
+          "description": {
+            "ja": "ユーザーが現在、作業しているディレクトリのこと。",
+            "vi": "Thư mục mà người dùng hiện đang làm việc.",
+            "en": "Directory user is currently working in."
+          }
+        }
+      ],
+      "note": {
+        "ja": "← この2つの用語は必ず覚えよう！",
+        "vi": "← Hãy nhớ kỹ 2 thuật ngữ này!",
+        "en": "← Must remember these 2 terms!"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "フォルダ",
+      "vi": "Thư mục (Folder)",
+      "en": "Folder",
+      "my": "ဖိုလ်ဒါ"
+    },
+    {
+      "term": "ツリー構造",
+      "reading": "ツリーこうぞう",
+      "vi": "Cấu trúc cây",
+      "en": "Tree Structure",
+      "my": "ထရီး စတရက်ချာ"
+    },
+    {
+      "term": "ルートディレクトリ",
+      "vi": "Thư mục gốc",
+      "en": "Root Directory",
+      "my": "ရူး ဒိုင်ရက်ထရီ"
+    },
+    {
+      "term": "カレントディレクトリ",
+      "vi": "Thư mục hiện tại",
+      "en": "Current Directory",
+      "my": "ကရင်း ဒိုင်ရက်ထရီ"
+    }
+  ],
+  "meta": {
+    "has_note_box": true,
+    "has_diagram": true,
+    "has_table": true,
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "page_id": 358,
+  "image": "p_0358.png",
+  "chapter": 9,
+  "section": "09-07",
+  "page_number": 342,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "09-07",
+      "title": {
+        "ja": "プログラミング① 基礎知識",
+        "vi": "Lập trình ① Kiến thức cơ bản",
+        "en": "Programming ① Basic Knowledge"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "日本語は通じない",
+        "vi": "Tiếng Nhật không hiểu được",
+        "en": "Japanese Doesn't Work"
+      },
+      "content": {
+        "ja": "コンピュータに日本語は通じません。そのため、コンピュータを動かすにはプログラム言語で命令を出す必要があります。",
+        "vi": "Máy tính không hiểu tiếng Nhật. Do đó, để máy tính hoạt động cần phát lệnh bằng ngôn ngữ lập trình.",
+        "en": "Computers don't understand Japanese. Therefore, to make computers work, need to give commands in programming language."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "2022年4月以降のITパスポート試験では、新たに「プログラミング」に関する問題が出題範囲に追加されました。これまでも、時代に合わせて新しい用語が追加されたり、古い用語が削除されたりすることはありました。しかし、「プログラミング」のようなまったく新しい項目が追加されることはそれほど多くはありませんでした。このため、この項目から問題が出題される可能性は高いといえます。",
+      "vi": "Từ tháng 4 năm 2022, kỳ thi IT Passport đã thêm câu hỏi về \"Lập trình\" vào phạm vi ra đề. Trước đây cũng có thêm thuật ngữ mới hoặc xóa thuật ngữ cũ theo thời đại. Tuy nhiên, việc thêm mục hoàn toàn mới như \"Lập trình\" không nhiều. Do đó, khả năng ra đề từ mục này cao.",
+      "en": "From April 2022, IT Passport exam added 'Programming' questions to exam scope. Previously, new terms were added or old terms removed with changing times. However, adding completely new items like 'Programming' wasn't common. Therefore, questions from this topic are likely.",
+      "terms": [
+        {
+          "kanji": "年",
+          "reading": "ねん"
+        },
+        {
+          "kanji": "月以降",
+          "reading": "がついこう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "新",
+          "reading": "しん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "出題範囲",
+          "reading": "しゅつだいはんい"
+        },
+        {
+          "kanji": "追加",
+          "reading": "ついか"
+        },
+        {
+          "kanji": "時代",
+          "reading": "じだい"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "古",
+          "reading": "こ"
+        },
+        {
+          "kanji": "削除",
+          "reading": "さくじょ"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ただし、この件については大きく、以下の2つの注意点があります。",
+      "vi": "Tuy nhiên, có 2 điểm chú ý lớn về việc này.",
+      "en": "However, there are 2 major points to note about this.",
+      "terms": [
+        {
+          "kanji": "件",
+          "reading": "けん"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "注意点",
+          "reading": "ちゅういてん"
+        }
+      ]
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        {
+          "ja": "「プログラミング」からの出題数は少ない",
+          "vi": "Số câu hỏi từ \"Lập trình\" ít",
+          "en": "Few questions from 'Programming'"
+        },
+        {
+          "ja": "「プログラミング」の問題は、覚えることが多いうえに、解くのが大変",
+          "vi": "Bài toán \"Lập trình\" có nhiều thứ phải nhớ và khó giải",
+          "en": "Programming problems require much memorization and are hard to solve"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "つまり、このカテゴリーから1～2問が出題される可能性は高い一方で、それ以上多くの問題が出ることはなさそうです。そのため、「この項目を習得しないと一発合格できない」ということにはならなそうです。",
+      "vi": "Nghĩa là, trong khi khả năng ra 1-2 câu từ danh mục này cao, thì có vẻ không ra nhiều hơn. Do đó, có vẻ không phải \"không đậu ngay nếu không nắm vững mục này\".",
+      "en": "That is, while 1-2 questions from this category are likely, probably not more. So it probably won't be 'can't pass first time without mastering this topic.'",
+      "terms": [
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "以上多",
+          "reading": "いじょうた"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "習得",
+          "reading": "しゅうとく"
+        },
+        {
+          "kanji": "一発合格",
+          "reading": "いっぱつごうかく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "そして、出題数が少ないにもかかわらず、プログラミングの問題に答えるためには多くのことを覚える必要があり、さらに問題を解くのも大変という特徴があります。つまり「プログラミングの問題はコスパが悪い」といえます。",
+      "vi": "Và mặc dù số câu hỏi ít, để trả lời câu hỏi lập trình cần nhớ nhiều thứ, và còn có đặc điểm là khó giải. Nghĩa là \"bài toán lập trình có chi phí hiệu quả thấp\".",
+      "en": "And despite few questions, answering programming questions requires memorizing many things, and solving is also hard. That is, 'programming problems have poor cost-effectiveness.'",
+      "terms": [
+        {
+          "kanji": "出題数",
+          "reading": "しゅつだいかず"
+        },
+        {
+          "kanji": "少",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "答",
+          "reading": "こたえ"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "解",
+          "reading": "かい"
+        },
+        {
+          "kanji": "大変",
+          "reading": "たいへん"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "悪",
+          "reading": "あく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "プログラミング",
+      "reading": "ぷろぐらみんぐ",
+      "romaji": "Programming",
+      "vi": "Lập trình",
+      "en": "Programming",
+      "my": "ပရိုဂရမ်းမင်း"
+    },
+    {
+      "term": "プログラム言語",
+      "reading": "ぷろぐらむげんご",
+      "romaji": "Program Gengo",
+      "vi": "Ngôn ngữ lập trình",
+      "en": "Programming Language",
+      "my": "ပရိုဂရမ်းမင်း ဘာသာ"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "page_id": 284,
+  "image": "p_0284.png",
+  "chapter": 7,
+  "section": "07-03",
+  "page_number": 268,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ITパスポート試験では、アローダイアグラムにおけるクリティカルパスの日数の計算問題が出題される",
+          "vi": "Trong kỳ thi IT Passport, đề thi về bài toán tính số ngày Critical Path trong Arrow Diagram",
+          "en": "IT Passport exam includes calculation problems for Critical Path days in Arrow Diagram"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（3）プレシデンスダイアグラム法",
+      "reading": "ぷれしでんすだいあぐらむほう",
+      "vi": "Precedence Diagramming Method",
+      "en": "Precedence Diagramming Method"
+    },
+    {
+      "type": "paragraph",
+      "ja": "プレシデンスダイアグラム法（Precedence Diagramming Method）とは、アクティビティ（作業）間の依存関係を図示する手法です。先ほど解説したアローダイアグラムよりもさらに精密に作業日程を分析できます。",
+      "vi": "Precedence Diagramming Method là phương pháp biểu đồ hóa mối quan hệ phụ thuộc giữa các activity (công việc). Có thể phân tích lịch trình công việc chính xác hơn Arrow Diagram đã giải thích trước đó.",
+      "en": "Precedence Diagramming Method is a method to diagram dependency relationships between activities (work). It can analyze work schedules more precisely than Arrow Diagram explained earlier.",
+      "terms": [
+        {
+          "kanji": "法",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "依存関係",
+          "reading": "いぞんかんけい"
+        },
+        {
+          "kanji": "図示",
+          "reading": "ずし"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "先",
+          "reading": "さき"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "精密",
+          "reading": "せいみつ"
+        },
+        {
+          "kanji": "作業日程",
+          "reading": "さぎょうにってい"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "アローダイアグラムでは先行作業が終了すれば後続作業を開始できます。このような依存関係を「終了－開始関係」といいます。アローダイアグラムには、この依存関係しかありませんが、プレシデンスダイアグラム法では「先行作業が開始されたら、後続作業を開始できる」など、複雑な依存関係を表現できます。",
+      "vi": "Trong Arrow Diagram, công việc sau có thể bắt đầu khi công việc trước kết thúc. Mối quan hệ phụ thuộc như vậy gọi là \"Finish-to-Start\". Arrow Diagram chỉ có mối quan hệ phụ thuộc này, nhưng Precedence Diagramming Method có thể biểu diễn mối quan hệ phụ thuộc phức tạp như \"Công việc sau có thể bắt đầu khi công việc trước bắt đầu\".",
+      "en": "In Arrow Diagram, following work can start when preceding work ends. Such dependency relationship is called 'Finish-to-Start.' Arrow Diagram only has this dependency, but Precedence Diagramming Method can express complex dependencies like 'following work can start when preceding work starts.'",
+      "terms": [
+        {
+          "kanji": "先行作業",
+          "reading": "せんこうさぎょう"
+        },
+        {
+          "kanji": "終了",
+          "reading": "しゅうりょう"
+        },
+        {
+          "kanji": "後続作業",
+          "reading": "こうぞくさぎょう"
+        },
+        {
+          "kanji": "開始",
+          "reading": "かいし"
+        },
+        {
+          "kanji": "依存関係",
+          "reading": "いぞんかんけい"
+        },
+        {
+          "kanji": "開始関係",
+          "reading": "かいしかんけい"
+        },
+        {
+          "kanji": "法",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "複雑",
+          "reading": "ふくざつ"
+        },
+        {
+          "kanji": "表現",
+          "reading": "ひょうげん"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "プレシデンスダイアグラム法を使った図",
+        "vi": "Sơ đồ sử dụng Precedence Diagramming Method",
+        "en": "Diagram Using Precedence Diagramming Method"
+      },
+      "relationships": [
+        {
+          "type": {
+            "ja": "終了－開始関係",
+            "vi": "Finish-to-Start",
+            "en": "Finish-to-Start"
+          },
+          "from": "A",
+          "to": "B"
+        },
+        {
+          "type": {
+            "ja": "開始－開始関係",
+            "vi": "Start-to-Start",
+            "en": "Start-to-Start"
+          },
+          "from": "A",
+          "to": "C"
+        },
+        {
+          "type": {
+            "ja": "終了－終了関係",
+            "vi": "Finish-to-Finish",
+            "en": "Finish-to-Finish"
+          },
+          "from": "E",
+          "to": "F"
+        }
+      ],
+      "nodes": [
+        "開始",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "終了"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "プレシデンスダイアグラム法",
+      "reading": "ぷれしでんすだいあぐらむほう",
+      "romaji": "Precedence Diagram Hou",
+      "vi": "Phương pháp sơ đồ ưu tiên",
+      "en": "Precedence Diagramming Method",
+      "my": "ပရီစီဒင့် ဒိုင်ယာဂရမ် နည်းလမ်း"
+    },
+    {
+      "kanji": "終了－開始関係",
+      "reading": "しゅうりょうかいしかんけい",
+      "romaji": "Shuuryou-Kaishi Kankei",
+      "vi": "Quan hệ Kết thúc-Bắt đầu",
+      "en": "Finish-to-Start Relationship",
+      "my": "ပြီးဆုံး-စတင် ဆက်ဆံမှု"
+    },
+    {
+      "kanji": "開始－開始関係",
+      "reading": "かいしかいしかんけい",
+      "romaji": "Kaishi-Kaishi Kankei",
+      "vi": "Quan hệ Bắt đầu-Bắt đầu",
+      "en": "Start-to-Start Relationship",
+      "my": "စတင်-စတင် ဆက်ဆံမှု"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

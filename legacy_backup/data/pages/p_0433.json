@@ -1,0 +1,190 @@
+{
+    "page_id": 433,
+    "image": "p_0433.png",
+    "chapter": 11,
+    "section": "practice",
+    "page_number": 417,
+    "content": [
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "出る順！過去問＆完全解説",
+                "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích đầy đủ",
+                "en": "In Order of Appearance! Past Questions & Complete Explanations"
+            },
+            "note": {
+                "ja": "解答・解説はp.420参照",
+                "vi": "Xem đáp án và giải thích ở trang 420",
+                "en": "See answers and explanations on p.420"
+            }
+        },
+        {
+            "type": "exam_question",
+            "number": "11-1",
+            "year": "令和3年度",
+            "question": {
+                "ja": "CPU、主記憶、HDDなどのコンピュータを構成する要素を1枚の基板上に実装し、複数枚の基板をラック内に搭載するなどの形態がある、省スペース化を実現しているサーバを何と呼ぶか。",
+                "vi": "Máy chủ thực hiện tiết kiệm không gian bằng cách triển khai các thành phần cấu thành máy tính như CPU, bộ nhớ chính, HDD trên 1 bo mạch, và lắp nhiều bo mạch trong rack được gọi là gì?",
+                "en": "What is server achieving space saving by implementing computer components like CPU, main memory, HDD on 1 board, and loading multiple boards in rack?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": {
+                        "ja": "DNSサーバ",
+                        "vi": "Máy chủ DNS",
+                        "en": "DNS Server"
+                    }
+                },
+                {
+                    "choice": "イ",
+                    "text": {
+                        "ja": "FTPサーバ",
+                        "vi": "Máy chủ FTP",
+                        "en": "FTP Server"
+                    }
+                },
+                {
+                    "choice": "ウ",
+                    "text": {
+                        "ja": "Webサーバ",
+                        "vi": "Máy chủ Web",
+                        "en": "Web Server"
+                    }
+                },
+                {
+                    "choice": "エ",
+                    "text": {
+                        "ja": "ブレードサーバ",
+                        "vi": "Máy chủ blade",
+                        "en": "Blade Server"
+                    }
+                }
+            ],
+            "correct_answer": "エ"
+        },
+        {
+            "type": "exam_question",
+            "number": "11-2",
+            "year": "平成23年度",
+            "question": {
+                "ja": "クロック周波数が1.6GHzのCPUは、4クロックで処理される命令を1秒間に何回実行できるか。",
+                "vi": "CPU có tần số xung nhịp 1.6GHz có thể thực hiện lệnh được xử lý trong 4 clock bao nhiêu lần trong 1 giây?",
+                "en": "How many times per second can CPU with 1.6GHz clock frequency execute instruction processed in 4 clocks?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": "40万"
+                },
+                {
+                    "choice": "イ",
+                    "text": "160万"
+                },
+                {
+                    "choice": "ウ",
+                    "text": "4億"
+                },
+                {
+                    "choice": "エ",
+                    "text": "64億"
+                }
+            ],
+            "correct_answer": "ウ"
+        },
+        {
+            "type": "exam_question",
+            "number": "11-3",
+            "year": "平成25年度",
+            "question": {
+                "ja": "マルチコアプロセッサに関する記述のうち、最も適切なものはどれか。",
+                "vi": "Cái nào là mô tả thích hợp nhất về bộ xử lý đa lõi?",
+                "en": "Which is most appropriate description about multi-core processor?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": {
+                        "ja": "1台のPCに複数のマイクロプロセッサを搭載し、各プロセッサで同時に同じ処理を実行することによって、処理結果の信頼性の向上を図ることを目的とする。",
+                        "vi": "Lắp nhiều bộ vi xử lý vào 1 PC, thực hiện cùng xử lý đồng thời trên mỗi bộ xử lý để nhằm mục đích cải thiện độ tin cậy của kết quả xử lý.",
+                        "en": "Install multiple microprocessors in 1 PC, execute same processing simultaneously on each processor to improve processing result reliability."
+                    }
+                },
+                {
+                    "choice": "イ",
+                    "text": {
+                        "ja": "演算装置の構造とクロック周波数が同じであれば、クアッドコアプロセッサはデュアルコアプロセッサの4倍の処理能力をもつ。",
+                        "vi": "Nếu cấu trúc bộ xử lý và tần số xung nhịp giống nhau, bộ xử lý bốn lõi có khả năng xử lý gấp 4 lần bộ xử lý lõi kép.",
+                        "en": "If arithmetic unit structure and clock frequency are same, quad-core processor has 4 times processing power of dual-core processor."
+                    }
+                },
+                {
+                    "choice": "ウ",
+                    "text": {
+                        "ja": "処理の負荷に応じて一時的にクロック周波数を高くして高速処理を実現する。",
+                        "vi": "Tăng tạm thời tần số xung nhịp theo tải xử lý để thực hiện xử lý tốc độ cao.",
+                        "en": "Temporarily increase clock frequency according to processing load to achieve high-speed processing."
+                    }
+                },
+                {
+                    "choice": "エ",
+                    "text": {
+                        "ja": "1つのCPU内に演算などを行う処理回路を複数個もち、それぞれが同時に別々の処理を実行することにより処理能力の向上を図ることを目的とする。",
+                        "vi": "Có nhiều mạch xử lý thực hiện tính toán, v.v. trong 1 CPU, mỗi mạch thực hiện xử lý riêng biệt đồng thời để nhằm mục đích cải thiện khả năng xử lý.",
+                        "en": "Have multiple processing circuits for arithmetic, etc. in 1 CPU, each executing separate processing simultaneously to improve processing power."
+                    }
+                }
+            ],
+            "correct_answer": "エ"
+        },
+        {
+            "type": "exam_question",
+            "number": "11-4",
+            "year": "令和4年度",
+            "question": {
+                "ja": "CPUの性能に関する記述のうち、適切なものはどれか。",
+                "vi": "Cái nào là mô tả thích hợp về hiệu suất CPU?",
+                "en": "Which is appropriate description about CPU performance?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": {
+                        "ja": "32ビットCPUと64ビットCPUでは、64ビットCPUの方が一度に処理するデータ長を大きくできる。",
+                        "vi": "Với CPU 32-bit và CPU 64-bit, CPU 64-bit có thể xử lý dữ liệu dài hơn trong một lần.",
+                        "en": "With 32-bit CPU and 64-bit CPU, 64-bit CPU can process larger data length at once."
+                    }
+                },
+                {
+                    "choice": "イ",
+                    "text": {
+                        "ja": "CPU内のキャッシュメモリの容量は、少ないほど処理速度が向上する。",
+                        "vi": "Dung lượng bộ nhớ cache trong CPU càng ít thì tốc độ xử lý càng tăng.",
+                        "en": "Less cache memory capacity in CPU increases processing speed."
+                    }
+                },
+                {
+                    "choice": "ウ",
+                    "text": {
+                        "ja": "同じ構造のCPUにおいて、クロック周波数を下げると処理速度が向上する。",
+                        "vi": "Trong CPU cùng cấu trúc, giảm tần số xung nhịp làm tăng tốc độ xử lý.",
+                        "en": "In same structure CPU, lowering clock frequency improves processing speed."
+                    }
+                },
+                {
+                    "choice": "エ",
+                    "text": {
+                        "ja": "デュアルコアCPUとクアッドコアCPUでは、デュアルコアCPUの方が同時に実行する処理の数を多くできる。",
+                        "vi": "Với CPU lõi kép và CPU bốn lõi, CPU lõi kép có thể thực hiện nhiều xử lý đồng thời hơn.",
+                        "en": "With dual-core CPU and quad-core CPU, dual-core CPU can execute more processing simultaneously."
+                    }
+                }
+            ],
+            "correct_answer": "ア"
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 4
+    }
+}

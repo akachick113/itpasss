@@ -1,0 +1,372 @@
+{
+  "page_id": 275,
+  "image": "p_0275.png",
+  "chapter": 7,
+  "section": "07-01",
+  "page_number": 259,
+  "content": [
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "期限がある（有期性）",
+          "vi": "Có thời hạn (tính hữu hạn)",
+          "en": "Has deadline (temporariness)"
+        },
+        {
+          "ja": "成果物が唯一無二の商品やサービスである（独自性）",
+          "vi": "Thành quả là sản phẩm hoặc dịch vụ độc nhất vô nhị (tính độc đáo)",
+          "en": "Deliverable is unique product or service (uniqueness)"
+        }
+      ],
+      "note": {
+        "ja": "2つの特徴",
+        "vi": "2 đặc điểm",
+        "en": "2 characteristics"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "この2つの特徴がある業務のことをプロジェクトといいます。このため「一回限りの業務」ともいえます。身近な例では、受験勉強や就職活動もプロジェクトといえます。規模の大きい例では、リニアモーターカーの建設や、月面着陸計画などもプロジェクトの例です。",
+      "vi": "Nghiệp vụ có 2 đặc điểm này gọi là project. Do đó cũng có thể nói là \"nghiệp vụ một lần\". Ví dụ gần gũi như học thi hoặc tìm việc cũng là project. Ví dụ quy mô lớn như xây dựng tàu đệm từ hoặc kế hoạch đổ bộ mặt trăng cũng là ví dụ về project.",
+      "en": "Work with these 2 characteristics is called a project. Therefore it can also be called 'one-time work.' Familiar examples include exam preparation or job hunting. Large-scale examples include linear motor car construction or lunar landing plans.",
+      "terms": [
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "一回限",
+          "reading": "いっかいげん"
+        },
+        {
+          "kanji": "身近",
+          "reading": "みじか"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "受験勉強",
+          "reading": "じゅけんべんきょう"
+        },
+        {
+          "kanji": "就職活動",
+          "reading": "しゅうしょくかつどう"
+        },
+        {
+          "kanji": "規模",
+          "reading": "きぼ"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "建設",
+          "reading": "けんせつ"
+        },
+        {
+          "kanji": "月面着陸計画",
+          "reading": "げつめんちゃくりくけいかく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験で「プロジェクト」といった場合は主に「システム開発」のことを指します。システム開発ではいつも異なるものを作るのでプロジェクトといえます。",
+      "vi": "Trong kỳ thi IT Passport, khi nói \"Project\" chủ yếu chỉ \"Phát triển hệ thống\". Phát triển hệ thống luôn tạo ra thứ khác nhau nên có thể gọi là project.",
+      "en": "In IT Passport exam, 'Project' mainly refers to 'System Development.' System development always creates different things, so it can be called a project.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "指",
+          "reading": "ゆび"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、毎回まったく同じシステムを作るのであれば、それはプロジェクトである必要はなく、業務プロセスとして生産します。車の生産が好例です。車の生産は、プロジェクトではなく、業務プロセスです。",
+      "vi": "Ngoài ra, nếu tạo hệ thống hoàn toàn giống nhau mỗi lần, thì không cần là project mà sản xuất như quy trình nghiệp vụ. Sản xuất ô tô là ví dụ tốt. Sản xuất ô tô không phải project mà là quy trình nghiệp vụ.",
+      "en": "Also, if creating exactly the same system every time, it doesn't need to be a project but is produced as a business process. Car production is a good example. Car production is not a project but a business process.",
+      "terms": [
+        {
+          "kanji": "毎回",
+          "reading": "まいかい"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "生産",
+          "reading": "せいさん"
+        },
+        {
+          "kanji": "車",
+          "reading": "くるま"
+        },
+        {
+          "kanji": "好例",
+          "reading": "こうれい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "プロジェクトマネージャ",
+      "reading": "ぷろじぇくとまねーじゃ",
+      "vi": "Project Manager",
+      "en": "Project Manager"
+    },
+    {
+      "type": "paragraph",
+      "ja": "プロジェクトマネージャとは、プロジェクトを管理する人です。略して「プロマネ」と呼ばれることもあります。",
+      "vi": "Project Manager là người quản lý dự án. Đôi khi được gọi tắt là \"PM\".",
+      "en": "Project Manager is the person who manages a project. Sometimes abbreviated as 'PM.'",
+      "terms": [
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "略",
+          "reading": "りゃく"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "プロジェクトマネージャが行う仕事のことを「プロジェクトマネジメント」といいます。プロジェクトマネジメントとは「作業範囲」「期限」「費用」の3つを調整しプロジェクトを成功させるべく管理することです。より具体的には、潜在するリスクを管理したうえで、決められた期限までに目標を達成することです。",
+      "vi": "Công việc Project Manager thực hiện gọi là \"Project Management\". Project Management là quản lý để thành công dự án bằng cách điều chỉnh 3 yếu tố \"Phạm vi công việc\", \"Thời hạn\" và \"Chi phí\". Cụ thể hơn là quản lý rủi ro tiềm ẩn và đạt mục tiêu trước thời hạn đã định.",
+      "en": "The work Project Manager does is called 'Project Management.' Project Management is managing to make projects successful by adjusting 3 elements: 'Work Scope,' 'Deadline,' and 'Cost.' More specifically, it's managing latent risks and achieving goals by the set deadline.",
+      "terms": [
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "作業範囲",
+          "reading": "さぎょうはんい"
+        },
+        {
+          "kanji": "期限",
+          "reading": "きげん"
+        },
+        {
+          "kanji": "費用",
+          "reading": "ひよう"
+        },
+        {
+          "kanji": "調整",
+          "reading": "ちょうせい"
+        },
+        {
+          "kanji": "成功",
+          "reading": "せいこう"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "潜在",
+          "reading": "せんざい"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "目標",
+          "reading": "もくひょう"
+        },
+        {
+          "kanji": "達成",
+          "reading": "たっせい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、プロジェクトはプロジェクトマネージャが一人で作業するわけではありません。専門知識を持った人員が必要です。",
+      "vi": "Ngoài ra, dự án không phải là Project Manager làm việc một mình. Cần nhân sự có kiến thức chuyên môn.",
+      "en": "Also, projects aren't worked on by Project Manager alone. Personnel with specialized knowledge are needed.",
+      "terms": [
+        {
+          "kanji": "一人",
+          "reading": "ひとり"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "専門知識",
+          "reading": "せんもんちしき"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "人員",
+          "reading": "じんいん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "プロジェクトの構成要員",
+        "vi": "Thành viên cấu thành dự án",
+        "en": "Project Team Members"
+      },
+      "headers": {
+        "ja": [
+          "名称",
+          "説明"
+        ],
+        "vi": [
+          "Tên",
+          "Giải thích"
+        ],
+        "en": [
+          "Name",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "name": {
+            "ja": "プロジェクトメンバー",
+            "vi": "Project Member",
+            "en": "Project Member"
+          },
+          "explanation": {
+            "ja": "プロジェクトを成功させるために集められた、専門知識を持った人員。実際にプロジェクトを遂行する人たち。",
+            "vi": "Nhân sự có kiến thức chuyên môn được tập hợp để làm dự án thành công. Những người thực sự thực hiện dự án.",
+            "en": "Personnel with specialized knowledge gathered to make project successful. People who actually execute the project."
+          }
+        },
+        {
+          "name": {
+            "ja": "プロジェクトチーム",
+            "vi": "Project Team",
+            "en": "Project Team"
+          },
+          "explanation": {
+            "ja": "プロジェクトマネージャとプロジェクトメンバーを併せて、プロジェクトチームという。",
+            "vi": "Project Manager và Project Member gộp lại gọi là Project Team.",
+            "en": "Project Manager and Project Members together are called Project Team."
+          }
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "プロジェクト組織",
+        "vi": "Tổ chức dự án",
+        "en": "Project Organization",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "何らかの問題を解決するために各部署から専門家を選抜して結成する組織のことを「プロジェクト組織」と呼びました（p.22）。この組織もプロジェクトの完了とともに解散します。つまり、期限がある組織です。",
+        "vi": "Tổ chức được thành lập bằng cách tuyển chọn chuyên gia từ các bộ phận để giải quyết một vấn đề nào đó được gọi là \"Tổ chức dự án\" (trang 22). Tổ chức này cũng giải tán khi dự án hoàn thành. Nghĩa là tổ chức có thời hạn.",
+        "en": "An organization formed by selecting experts from various departments to solve some problem was called 'Project Organization' (p.22). This organization also disbands when project completes. That is, it's an organization with a deadline."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "有期性",
+      "reading": "ゆうきせい",
+      "romaji": "Yuukisei",
+      "vi": "Tính hữu hạn",
+      "en": "Temporariness",
+      "my": "အချိန်ကန့်သတ်မှု"
+    },
+    {
+      "kanji": "独自性",
+      "reading": "どくじせい",
+      "romaji": "Dokujisei",
+      "vi": "Tính độc đáo",
+      "en": "Uniqueness",
+      "my": "ထူးခြားသိမ်း"
+    },
+    {
+      "kanji": "業務プロセス",
+      "reading": "ぎょうむぷろせす",
+      "romaji": "Gyoumu Process",
+      "vi": "Quy trình nghiệp vụ",
+      "en": "Business Process",
+      "my": "လုပ်ငန်း လုပ်ငန်းစဥ်"
+    }
+  ],
+  "meta": {
+    "has_table": true
+  }
+}

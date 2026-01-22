@@ -1,0 +1,530 @@
+{
+  "page_id": 103,
+  "image": "p_0103.png",
+  "chapter": 2,
+  "section": "02-06",
+  "page_number": 87,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ISO",
+      "reading": "あいえすおー",
+      "vi": "ISO",
+      "en": "ISO",
+      "my": "ISO"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ISO（International Organization for Standardization：国際標準化機構）は、国際的な規格を決める組織です。あるいは、この組織が決めた規格を「ISO」と呼んだりします。ISOの本部はスイスのジュネーブにあります。\n\nISOが標準化した規格の名前には「ISO」の後に番号がつきます。例えば、先述した非常口の標識は「ISO 7010」です。また、QRコードは「ISO 18004」です。本書執筆時点でISOが策定した規格は5万件以上あります。",
+      "vi": "ISO (International Organization for Standardization: Tổ chức tiêu chuẩn hóa quốc tế) là tổ chức quyết định tiêu chuẩn quốc tế. Hoặc tiêu chuẩn do tổ chức này quyết định được gọi là ISO. Trụ sở ISO ở Geneva, Thụy Sĩ.\n\nTên tiêu chuẩn ISO hóa có số sau ISO. Ví dụ, biển báo lối thoát hiểm đã nói là ISO 7010. QR Code là ISO 18004. Tại thời điểm viết sách này, có hơn 50,000 tiêu chuẩn ISO.",
+      "en": "ISO (International Organization for Standardization) is an organization that determines international standards. Standards determined by this organization are also called ISO. ISO headquarters is in Geneva, Switzerland.\n\nISO standardized names have numbers after ISO. For example, the emergency exit sign mentioned is ISO 7010. QR Code is ISO 18004. As of this book's writing, ISO has over 50,000 standards.",
+      "my": "ISO (International Organization for Standardization) သည် အပြည်ပြည်ဆိုင်ရာ စံနှုန်းများ သတ်မှတ်သော အဖွဲ့အစည်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "国際標準化機構",
+          "reading": "こくさいひょうじゅんかきこう"
+        },
+        {
+          "kanji": "国際的",
+          "reading": "こくさいてき"
+        },
+        {
+          "kanji": "規格",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "本部",
+          "reading": "ほんぶ"
+        },
+        {
+          "kanji": "標準化",
+          "reading": "ひょうじゅんか"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "番号",
+          "reading": "ばんごう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "先述",
+          "reading": "せんじゅつ"
+        },
+        {
+          "kanji": "非常口",
+          "reading": "ひじょうぐち"
+        },
+        {
+          "kanji": "標識",
+          "reading": "ひょうしき"
+        },
+        {
+          "kanji": "本書執筆時点",
+          "reading": "ほんしょしっぴつじてん"
+        },
+        {
+          "kanji": "策定",
+          "reading": "さくてい"
+        },
+        {
+          "kanji": "万件以上",
+          "reading": "まんけんいじょう"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "もう少し詳しく！ ISO？IOS？",
+        "vi": "Chi tiết hơn! ISO? IOS?",
+        "en": "More Details! ISO? IOS?",
+        "my": "အသေးစိတ် ပိုကြည့်ရန်! ISO? IOS?",
+        "terms": [
+          {
+            "kanji": "ISO",
+            "reading": "あいえすおー"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ISOの正式名称をよく見ると、英語の頭文字の組み合わせではないことに気づきます。頭文字をそのまま使うと「IOS」になります。が、ISOという名称の由来はギリシャ語の「isos」（平等、均一）で、ISOの名前自体が略語だけでなく世界中で使われることを想定して命名されています。",
+        "vi": "Nhìn kỹ tên chính thức của ISO, sẽ thấy không phải là tổ hợp chữ cái đầu tiếng Anh. Nếu dùng chữ cái đầu thì sẽ là IOS. Nhưng nguồn gốc tên ISO từ tiếng Hy Lạp isos (bình đẳng, đồng nhất), và được đặt tên với dự định sử dụng không chỉ là viết tắt mà còn trên toàn thế giới.",
+        "en": "Looking closely at ISO's full name, you'll notice it's not a combination of English initials. Using initials would make IOS. But ISO's name origin is Greek isos (equal, uniform), and was named anticipating global use beyond just abbreviation.",
+        "my": "ISO ၏ နာမည်အပြည့်အစုံကို အနီးကပ်ကြည့်လျှင် အင်္ဂလိပ် အစအလယ်အဆုံးများ ပေါင်းစပ်ထားခြင်း မဟုတ်ကြောင်း တွေ့ရပါမည်။",
+        "terms": [
+          {
+            "kanji": "正式名称",
+            "reading": "せいしきめいしょう"
+          },
+          {
+            "kanji": "見",
+            "reading": "けん"
+          },
+          {
+            "kanji": "英語",
+            "reading": "えいご"
+          },
+          {
+            "kanji": "頭文字",
+            "reading": "かしらもじ"
+          },
+          {
+            "kanji": "組",
+            "reading": "くみ"
+          },
+          {
+            "kanji": "合",
+            "reading": "ごう"
+          },
+          {
+            "kanji": "気",
+            "reading": "き"
+          },
+          {
+            "kanji": "使",
+            "reading": "し"
+          },
+          {
+            "kanji": "名称",
+            "reading": "めいしょう"
+          },
+          {
+            "kanji": "由来",
+            "reading": "ゆらい"
+          },
+          {
+            "kanji": "語",
+            "reading": "ご"
+          },
+          {
+            "kanji": "平等",
+            "reading": "びょうどう"
+          },
+          {
+            "kanji": "均一",
+            "reading": "きんいつ"
+          },
+          {
+            "kanji": "名前自体",
+            "reading": "なまえじたい"
+          },
+          {
+            "kanji": "略語",
+            "reading": "りゃくご"
+          },
+          {
+            "kanji": "世界中",
+            "reading": "せかいじゅう"
+          },
+          {
+            "kanji": "想定",
+            "reading": "そうてい"
+          },
+          {
+            "kanji": "命名",
+            "reading": "めいめい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "目に見えない規格",
+      "vi": "Tiêu chuẩn không thể nhìn thấy",
+      "en": "Invisible Standards"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ISOは非常口の標識やQRコードのような「目で見えるもの」だけでなく、仕事の仕組みのような、目に見えない規格もたくさん策定しています。ITパスポート試験では、次の3つの規格がよく出題されます。",
+      "vi": "ISO không chỉ tiêu chuẩn hóa những thứ nhìn thấy được như biển báo lối thoát hiểm và QR Code, mà còn nhiều tiêu chuẩn không thể nhìn thấy như cơ chế công việc. Trong IT Passport, 3 tiêu chuẩn sau thường được ra đề.",
+      "en": "ISO standardizes not only visible things like emergency exit signs and QR Codes, but also many invisible standards like work systems. In IT Passport, these 3 standards are frequently tested.",
+      "my": "ISO သည် အရေးပေါ်ထွက်ပေါက် ဆိုင်းဘုတ်များနှင့် QR Codes ကဲ့သို့ မြင်နိုင်သော အရာများသာမက လုပ်ငန်းစနစ်များကဲ့သို့ မမြင်နိုင်သော စံနှုန်းများစွာကိုလည်း စံချိန်စံညွှန်းသတ်မှတ်သည်။",
+      "terms": [
+        {
+          "kanji": "非常口",
+          "reading": "ひじょうぐち"
+        },
+        {
+          "kanji": "標識",
+          "reading": "ひょうしき"
+        },
+        {
+          "kanji": "目",
+          "reading": "め"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "規格",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "策定",
+          "reading": "さくてい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ISO 9000",
+      "vi": "ISO 9000",
+      "en": "ISO 9000"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ISO 9000は、品質マネジメントシステムに関する規格です。ここでは「ISO9000は製品の品質をよくするための規格」ということだけ覚えておいてください。なお、ISO 9000には次の表のような関連規格があり、これらが出題されることもあります。ただし、すべての定義を細かく暗記する必要はありません。「9000番台はすべて品質に関する規格」と覚えておけば大丈夫です。",
+      "vi": "ISO 9000 là tiêu chuẩn về hệ thống quản lý chất lượng. Ở đây chỉ cần nhớ ISO 9000 là tiêu chuẩn để cải thiện chất lượng sản phẩm. Lưu ý, ISO 9000 có các tiêu chuẩn liên quan trong bảng sau, và chúng cũng có thể được ra đề. Tuy nhiên, không cần ghi nhớ chi tiết tất cả định nghĩa. Chỉ cần nhớ dãy 9000 là tất cả tiêu chuẩn về chất lượng.",
+      "en": "ISO 9000 is a standard for quality management systems. Just remember that ISO 9000 is a standard for improving product quality. Note that ISO 9000 has related standards in the table below which may be tested. However, you don't need to memorize all definitions in detail. Just remember 9000 series are all quality-related standards.",
+      "my": "ISO 9000 သည် အရည်အသွေး စီမံခန့်ခွဲမှုစနစ်များအတွက် စံနှုန်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "品質",
+          "reading": "ひんしつ"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "規格",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "関連規格",
+          "reading": "かんれんきかく"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "細",
+          "reading": "さい"
+        },
+        {
+          "kanji": "暗記",
+          "reading": "あんき"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "番台",
+          "reading": "ばんだい"
+        },
+        {
+          "kanji": "大丈夫",
+          "reading": "だいじょうぶ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "ISO 9000関連の規格",
+        "vi": "Tiêu chuẩn liên quan đến ISO 9000",
+        "en": "ISO 9000 Related Standards"
+      },
+      "headers": {
+        "ja": [
+          "規格",
+          "内容"
+        ],
+        "vi": [
+          "Tiêu chuẩn",
+          "Nội dung"
+        ],
+        "en": [
+          "Standard",
+          "Content"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "ISO 9000",
+            "品質マネジメントシステム（基本及び用語）"
+          ],
+          "vi": [
+            "ISO 9000",
+            "Hệ thống quản lý chất lượng (cơ bản và thuật ngữ)"
+          ],
+          "en": [
+            "ISO 9000",
+            "Quality Management System (Basics and Terms)"
+          ]
+        },
+        {
+          "ja": [
+            "ISO 9001",
+            "品質マネジメントシステム（認証取得対象の規格）"
+          ],
+          "vi": [
+            "ISO 9001",
+            "Hệ thống quản lý chất lượng (tiêu chuẩn đối tượng lấy chứng nhận)"
+          ],
+          "en": [
+            "ISO 9001",
+            "Quality Management System (Certification Target Standard)"
+          ]
+        },
+        {
+          "ja": [
+            "ISO 9002",
+            "品質マネジメントシステム―ISO 9001:2015適用の指針"
+          ],
+          "vi": [
+            "ISO 9002",
+            "Hệ thống quản lý chất lượng - Hướng dẫn áp dụng ISO 9001:2015"
+          ],
+          "en": [
+            "ISO 9002",
+            "Quality Management System - ISO 9001:2015 Application Guidelines"
+          ]
+        },
+        {
+          "ja": [
+            "ISO 9004",
+            "組織の持続的成功のための運営管理・品質マネジメントアプローチ"
+          ],
+          "vi": [
+            "ISO 9004",
+            "Phương pháp quản lý vận hành và quản lý chất lượng để thành công bền vững của tổ chức"
+          ],
+          "en": [
+            "ISO 9004",
+            "Managing for Sustained Success - Quality Management Approach"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ISO 9000という規格で品質を標準化する主なメリットは、他の企業が安心して部品の調達をできることです。1つの製品を作るために、色々な国からたくさんの部品を取り寄せる場合がありますが、そのような際に1つひとつ海外の工場を回って確認するのは難しいです。",
+      "vi": "Lợi ích chính của tiêu chuẩn hóa chất lượng bằng ISO 9000 là các doanh nghiệp khác có thể yên tâm mua linh kiện. Để tạo 1 sản phẩm, đôi khi cần lấy nhiều linh kiện từ nhiều nước, và trong trường hợp đó khó có thể đi kiểm tra từng nhà máy nước ngoài.",
+      "en": "The main benefit of quality standardization with ISO 9000 is that other companies can confidently procure parts. To make one product, many parts from various countries may be needed, and visiting each overseas factory for verification is difficult.",
+      "my": "ISO 9000 ဖြင့် အရည်အသွေး စံချိန်စံညွှန်းသတ်မှတ်ခြင်း၏ အဓိကအကျိုးကျေးဇူးမှာ အခြားကုမ္ပဏီများ ယုံကြည်စွာ အစိတ်အပိုင်းများ ဝယ်ယူနိုင်ခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "規格",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "品質",
+          "reading": "ひんしつ"
+        },
+        {
+          "kanji": "標準化",
+          "reading": "ひょうじゅんか"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "安心",
+          "reading": "あんしん"
+        },
+        {
+          "kanji": "部品",
+          "reading": "ぶひん"
+        },
+        {
+          "kanji": "調達",
+          "reading": "ちょうたつ"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "色",
+          "reading": "いろ"
+        },
+        {
+          "kanji": "国",
+          "reading": "くに"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "寄",
+          "reading": "より"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "海外",
+          "reading": "かいがい"
+        },
+        {
+          "kanji": "工場",
+          "reading": "こうじょう"
+        },
+        {
+          "kanji": "回",
+          "reading": "かい"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "難",
+          "reading": "なん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "国際標準化機構",
+      "reading": "こくさいひょうじゅんかきこう",
+      "romaji": "Kokusai Hyoujunka Kikou",
+      "vi": "Tổ chức tiêu chuẩn hóa quốc tế",
+      "en": "International Organization for Standardization",
+      "my": "ISO"
+    },
+    {
+      "kanji": "品質マネジメントシステム",
+      "reading": "ひんしつまねじめんとしすてむ",
+      "romaji": "Hinshitsu Management System",
+      "vi": "Hệ thống quản lý chất lượng",
+      "en": "Quality Management System",
+      "my": "အရည်အသွေး စီမံခန့်ခွဲမှုစနစ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_learn_more": true
+  }
+}

@@ -1,0 +1,150 @@
+{
+    "page_id": 63,
+    "image": "p_0063.png",
+    "chapter": 1,
+    "section": "practice",
+    "page_number": 47,
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "ja": "出る順！過去問＆完全解説",
+            "reading": "でるじゅん！かこもんあんどかんぜんかいせつ",
+            "vi": "Theo thứ tự hay ra! Đề thi cũ & Giải thích đầy đủ",
+            "en": "In Order of Frequency! Past Questions & Complete Explanations",
+            "my": "ထွက်လေ့ရှိသော အစဉ်အတိုင်း! အရင်မေးခွန်းများ & ရှင်းလင်းချက်အပြည့်အစုံ"
+        },
+        {
+            "type": "exam_question",
+            "number": "1-10",
+            "year": "令和3年度",
+            "question": {
+                "ja": "ABC分析の事例として、適切なものはどれか。",
+                "vi": "Ví dụ nào sau đây phù hợp với phân tích ABC?",
+                "en": "Which of the following is an appropriate example of ABC analysis?"
+            },
+            "options": {
+                "ja": [
+                    "ア. 顧客の消費行動を、時代、年齢、世代の三つの観点から分析する。",
+                    "イ. 自社の商品を、売上高の高い順に三つのグループに分類して分析する。",
+                    "ウ. マーケティング環境を、顧客、競合、自社の三つの観点から分析する。",
+                    "エ. リピート顧客を、最新購買日、購買頻度、購買金額の三つの観点から分析する。"
+                ],
+                "vi": [
+                    "ア. Phân tích hành vi tiêu dùng của khách hàng từ 3 quan điểm: thời đại, tuổi tác, thế hệ.",
+                    "イ. Phân loại sản phẩm công ty thành 3 nhóm theo thứ tự doanh thu cao để phân tích.",
+                    "ウ. Phân tích môi trường marketing từ 3 quan điểm: khách hàng, đối thủ, công ty.",
+                    "エ. Phân tích khách hàng lặp lại từ 3 quan điểm: ngày mua gần nhất, tần suất mua, số tiền mua."
+                ],
+                "en": [
+                    "A. Analyze customer consumption behavior from 3 perspectives: era, age, generation.",
+                    "B. Classify company products into 3 groups by sales volume order for analysis.",
+                    "C. Analyze marketing environment from 3 perspectives: customers, competitors, company.",
+                    "D. Analyze repeat customers from 3 perspectives: last purchase date, purchase frequency, purchase amount."
+                ]
+            },
+            "answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "1-11",
+            "year": "令和3年度",
+            "question": {
+                "ja": "システム開発プロジェクトにおいて、テスト中に発見された不具合の再発防止のために不具合分析を行うことにした。テスト結果及び不具合の内容を基に記入し、不具合ごとに根本原因を突き止めた後に、根本原因ごとに集計を行い発生頻度の多い順に並べ、主要な根本原因の特定を行った。ここで利用した図表のうち、根本原因を集計し、発生頻度順に並べて棒グラフで示し、累積値を折れ線グラフで重ねて示したものはどれか。",
+                "vi": "Trong dự án phát triển hệ thống, để ngăn ngừa tái phát lỗi được phát hiện trong kiểm thử, đã tiến hành phân tích lỗi. Dựa trên kết quả kiểm thử và nội dung lỗi, ghi nhận từng lỗi, tìm ra nguyên nhân gốc rễ, rồi tổng hợp theo từng nguyên nhân gốc rễ theo thứ tự tần suất xuất hiện nhiều nhất để xác định nguyên nhân gốc rễ chính. Trong các biểu đồ đã sử dụng, biểu đồ nào thể hiện tổng hợp nguyên nhân gốc rễ bằng đồ thị cột theo thứ tự tần suất, với giá trị tích lũy bằng đồ thị đường?",
+                "en": "In a system development project, defect analysis was conducted to prevent recurrence of defects found during testing. Based on test results and defect content, each defect was recorded, root causes were identified, then aggregated by root cause in order of frequency to identify main root causes. Which chart shows root causes aggregated by bar graph in frequency order with cumulative values shown as line graph?"
+            },
+            "options": {
+                "ja": [
+                    "ア. 散布図",
+                    "イ. チェックシート",
+                    "ウ. 特性要因図",
+                    "エ. パレート図"
+                ],
+                "vi": [
+                    "ア. Đồ thị phân tán",
+                    "イ. Bảng kiểm tra",
+                    "ウ. Biểu đồ nhân quả",
+                    "エ. Biểu đồ Pareto"
+                ],
+                "en": [
+                    "A. Scatter Plot",
+                    "B. Check Sheet",
+                    "C. Cause-and-Effect Diagram",
+                    "D. Pareto Chart"
+                ]
+            },
+            "answer": "エ"
+        },
+        {
+            "type": "exam_question",
+            "number": "1-12",
+            "year": "平成24年度",
+            "question": {
+                "ja": "2種類のデータの関係性を表すことを目的として用いるものはどれか。",
+                "vi": "Biểu đồ nào được sử dụng với mục đích thể hiện mối quan hệ giữa 2 loại dữ liệu?",
+                "en": "Which is used for the purpose of showing the relationship between 2 types of data?"
+            },
+            "options": {
+                "ja": [
+                    "ア. 決定表",
+                    "イ. 散布図",
+                    "ウ. 特性要因図",
+                    "エ. パレート図"
+                ],
+                "vi": [
+                    "ア. Bảng quyết định",
+                    "イ. Đồ thị phân tán",
+                    "ウ. Biểu đồ nhân quả",
+                    "エ. Biểu đồ Pareto"
+                ],
+                "en": [
+                    "A. Decision Table",
+                    "B. Scatter Plot",
+                    "C. Cause-and-Effect Diagram",
+                    "D. Pareto Chart"
+                ]
+            },
+            "answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "1-13",
+            "year": "平成25年度",
+            "question": {
+                "ja": "クラスの学生の8科目の成績をそれぞれ5段階で評価した。クラスの平均点と学生の成績の比較や、科目間の成績のバランスを評価するために用いるグラフとして、最も適切なものはどれか。",
+                "vi": "Đánh giá thành tích 8 môn của học sinh trong lớp theo 5 cấp độ. Đồ thị nào phù hợp nhất để so sánh điểm trung bình lớp với thành tích học sinh và đánh giá sự cân bằng thành tích giữa các môn?",
+                "en": "Students' grades in 8 subjects were evaluated on a 5-level scale. Which graph is most appropriate to compare class average with student grades and evaluate grade balance between subjects?"
+            },
+            "options": {
+                "ja": [
+                    "ア. 円グラフ",
+                    "イ. 散布図",
+                    "ウ. パレート図",
+                    "エ. レーダーチャート"
+                ],
+                "vi": [
+                    "ア. Biểu đồ tròn",
+                    "イ. Đồ thị phân tán",
+                    "ウ. Biểu đồ Pareto",
+                    "エ. Biểu đồ radar"
+                ],
+                "en": [
+                    "A. Pie Chart",
+                    "B. Scatter Plot",
+                    "C. Pareto Chart",
+                    "D. Radar Chart"
+                ]
+            },
+            "answer": "エ"
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_practice_page": true,
+        "questions_covered": "1-10, 1-11, 1-12, 1-13",
+        "answers": "イ, エ, イ, エ"
+    }
+}

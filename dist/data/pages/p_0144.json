@@ -1,0 +1,414 @@
+{
+  "page_id": 144,
+  "image": "p_0144.png",
+  "chapter": 4,
+  "section": "04-01",
+  "page_number": 128,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "魔の川",
+      "vi": "Sông Ma",
+      "en": "Devil's River"
+    },
+    {
+      "type": "paragraph",
+      "ja": "魔の川は、技術の変化が川の流れのように速く、製品の開発段階に進まなれば、これまでに費やした研究コストが「水の泡」になることから、川に例えられました。",
+      "vi": "Sông Ma được ví như dòng sông vì sự thay đổi công nghệ nhanh như dòng chảy, và nếu không tiến đến giai đoạn phát triển sản phẩm, chi phí nghiên cứu đã bỏ ra sẽ tan thành mây khói.",
+      "en": "Devil's River is compared to a river because technology changes as fast as river flow, and if the product doesn't progress to development stage, all research costs become wasted.",
+      "my": "Devil's River ကို မြစ်နှင့် နှိုင်းယှဉ်သည် အကြောင်းမှာ နည်းပညာ ပြောင်းလဲမှု မြစ်စီးရေလို မြန်ဆန်သောကြောင့်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "魔",
+          "reading": "ま"
+        },
+        {
+          "kanji": "川",
+          "reading": "かわ"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "変化",
+          "reading": "へんか"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "速",
+          "reading": "そく"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "開発段階",
+          "reading": "かいはつだんかい"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "費",
+          "reading": "ひ"
+        },
+        {
+          "kanji": "研究",
+          "reading": "けんきゅう"
+        },
+        {
+          "kanji": "水",
+          "reading": "みず"
+        },
+        {
+          "kanji": "泡",
+          "reading": "あわ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "死の谷",
+      "vi": "Thung lũng Chết",
+      "en": "Valley of Death"
+    },
+    {
+      "type": "paragraph",
+      "ja": "続く死の谷は、多額の開発コストをかけた製品が事業化しなければ、経営資金が底をついて経営破綻することから「死」に例えられました。",
+      "vi": "Tiếp theo Thung lũng Chết được ví như cái chết vì nếu sản phẩm đã tốn nhiều chi phí phát triển không được thương mại hóa, vốn kinh doanh cạn kiệt dẫn đến phá sản.",
+      "en": "Valley of Death is compared to 'death' because if products with heavy development costs don't commercialize, business funds dry up leading to bankruptcy.",
+      "my": "Thung lũng Chết ကို 'သေခြင်း' နှင့် နှိုင်းယှဉ်သည်။",
+      "terms": [
+        {
+          "kanji": "続",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "死",
+          "reading": "し"
+        },
+        {
+          "kanji": "谷",
+          "reading": "たに"
+        },
+        {
+          "kanji": "多額",
+          "reading": "たがく"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "事業化",
+          "reading": "じぎょうか"
+        },
+        {
+          "kanji": "経営資金",
+          "reading": "けいえいしきん"
+        },
+        {
+          "kanji": "底",
+          "reading": "そこ"
+        },
+        {
+          "kanji": "経営破綻",
+          "reading": "けいえいはたん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ダーウィンの海",
+      "vi": "Biển Darwin",
+      "en": "Darwin's Sea"
+    },
+    {
+      "type": "paragraph",
+      "ja": "最後に、ダーウィンの海は、事業化された商品が競合他社との競争で自然淘汰されることから、進化論を唱えた「ダーウィン」の名前が付くと覚えましょう。",
+      "vi": "Cuối cùng, Biển Darwin được đặt tên theo Darwin người đề xướng thuyết tiến hóa, vì sản phẩm đã thương mại hóa bị đào thải tự nhiên trong cạnh tranh với đối thủ.",
+      "en": "Finally, Darwin's Sea is named after Darwin who proposed evolution theory, because commercialized products get naturally eliminated in competition with rivals.",
+      "my": "နောက်ဆုံးတွင် Darwin's Sea ကို အဆင့်မြင့်ဖွံ့ဖြိုးဖို့ သီအိုရီ တင်ပြခဲ့သော Darwin ၏ နာမည်ဖြင့် မှည့်ခေါ်သည်။",
+      "terms": [
+        {
+          "kanji": "最後",
+          "reading": "さいご"
+        },
+        {
+          "kanji": "海",
+          "reading": "うみ"
+        },
+        {
+          "kanji": "事業化",
+          "reading": "じぎょうか"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "競合他社",
+          "reading": "きょうごうたしゃ"
+        },
+        {
+          "kanji": "競争",
+          "reading": "きょうそう"
+        },
+        {
+          "kanji": "自然淘汰",
+          "reading": "しぜんとうた"
+        },
+        {
+          "kanji": "進化論",
+          "reading": "しんかろん"
+        },
+        {
+          "kanji": "唱",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "付",
+          "reading": "つき"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、上記の「3つの難関」が出題されます。しかも、各難関がどの場所にあるのかを覚える必要があります。例えば「開発段階と製品化段階の間の難関の名前は何？」といった具合です。難関の順序を機械的に覚えるのは大変なので、暗記方法を紹介します。",
+      "vi": "Trong IT Passport, 3 rào cản trên sẽ được ra đề. Hơn nữa, cần nhớ mỗi rào cản nằm ở vị trí nào. Ví dụ: Tên rào cản giữa giai đoạn phát triển và sản xuất là gì? Vì khó nhớ thứ tự rào cản một cách máy móc nên sẽ giới thiệu cách ghi nhớ.",
+      "en": "In IT Passport, the above 3 barriers are tested. Moreover, you need to remember where each barrier is located. For example: 'What's the name of the barrier between development and commercialization stage?' Since memorizing barrier order mechanically is difficult, here's a memory method.",
+      "my": "IT Passport တွင် အထက်ပါ အတားအဆီး ၃ ခုကို စမ်းသပ်သည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "難関",
+          "reading": "なんかん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "各難関",
+          "reading": "かくなんかん"
+        },
+        {
+          "kanji": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "開発段階",
+          "reading": "かいはつだんかい"
+        },
+        {
+          "kanji": "製品化段階",
+          "reading": "せいひんかだんかい"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "具合",
+          "reading": "ぐあい"
+        },
+        {
+          "kanji": "順序",
+          "reading": "じゅんじょ"
+        },
+        {
+          "kanji": "機械的",
+          "reading": "きかいてき"
+        },
+        {
+          "kanji": "大変",
+          "reading": "たいへん"
+        },
+        {
+          "kanji": "暗記方法",
+          "reading": "あんきほうほう"
+        },
+        {
+          "kanji": "紹介",
+          "reading": "しょうかい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "PoCとPoV",
+      "reading": "ぴーおーしーとぴーおーぶい",
+      "vi": "PoC và PoV",
+      "en": "PoC and PoV",
+      "my": "PoC နှင့် PoV"
+    },
+    {
+      "type": "paragraph",
+      "ja": "PoC（Proof of Concept：概念実証）とは、新しいアイディアや技術が実現可能かを調べるための簡易的な検証です。\n\nPoCは、プロジェクトの初期段階で行われ、技術的な実現性を調べます。PoCが成功すれば、その技術が理論的には実現可能であることが実証されます。\n\n一方で、PoV（Proof of Value：価値実証）とは、あるアイディアや技術がビジネスにとって価値があるかを調べるための検証です。PoCが「実現性」を検証するのに対して、PoVでは「価値」を検証します。",
+      "vi": "PoC (Proof of Concept: Chứng minh khái niệm) là xác minh đơn giản để kiểm tra xem ý tưởng hoặc công nghệ mới có khả thi hay không.\n\nPoC được thực hiện ở giai đoạn đầu dự án để kiểm tra tính khả thi công nghệ. Nếu PoC thành công, chứng minh công nghệ đó có thể thực hiện về mặt lý thuyết.\n\nMặt khác, PoV (Proof of Value: Chứng minh giá trị) là xác minh để kiểm tra xem ý tưởng hoặc công nghệ có giá trị cho doanh nghiệp không. Trong khi PoC kiểm tra tính khả thi thì PoV kiểm tra giá trị.",
+      "en": "PoC (Proof of Concept) is a simple verification to check if new ideas or technology are feasible.\n\nPoC is conducted in early project stages to examine technical feasibility. If PoC succeeds, it proves the technology is theoretically achievable.\n\nMeanwhile, PoV (Proof of Value) is verification to check if an idea or technology has business value. While PoC verifies 'feasibility', PoV verifies 'value'.",
+      "my": "PoC (Proof of Concept: အယူအဆ သက်သေပြခြင်း) သည် စိတ်ကူးသစ်များ သို့မဟုတ် နည်းပညာ ဖြစ်နိုင်ခြေရှိမရှိ စစ်ဆေးရန် ရိုးရှင်းသော အတည်ပြုခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "概念実証",
+          "reading": "がいねんじっしょう"
+        },
+        {
+          "kanji": "新",
+          "reading": "あたら"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "実現可能",
+          "reading": "じつげんかのう"
+        },
+        {
+          "kanji": "調",
+          "reading": "ちょう"
+        },
+        {
+          "kanji": "簡易的",
+          "reading": "かんいてき"
+        },
+        {
+          "kanji": "検証",
+          "reading": "けんしょう"
+        },
+        {
+          "kanji": "初期段階",
+          "reading": "しょきだんかい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "技術的",
+          "reading": "ぎじゅつてき"
+        },
+        {
+          "kanji": "実現性",
+          "reading": "じつげんせい"
+        },
+        {
+          "kanji": "成功",
+          "reading": "せいこう"
+        },
+        {
+          "kanji": "理論的",
+          "reading": "りろんてき"
+        },
+        {
+          "kanji": "実証",
+          "reading": "じっしょう"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "価値実証",
+          "reading": "かちじっしょう"
+        },
+        {
+          "kanji": "価値",
+          "reading": "かち"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "魔の川",
+      "reading": "まのかわ",
+      "romaji": "Ma no Kawa",
+      "vi": "Sông Ma",
+      "en": "Devil's River",
+      "my": "မကောင်းဆိုးဝါးမြစ်"
+    },
+    {
+      "kanji": "死の谷",
+      "reading": "しのたに",
+      "romaji": "Shi no Tani",
+      "vi": "Thung lũng Chết",
+      "en": "Valley of Death",
+      "my": "သေခြင်းတောင်ကြား"
+    },
+    {
+      "kanji": "PoC",
+      "reading": "ぴーおーしー",
+      "romaji": "PoC",
+      "vi": "Chứng minh khái niệm",
+      "en": "Proof of Concept",
+      "my": "PoC"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true
+  }
+}

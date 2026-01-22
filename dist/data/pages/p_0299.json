@@ -1,0 +1,282 @@
+{
+  "page_id": 299,
+  "image": "p_0299.png",
+  "chapter": 8,
+  "section": "08-02",
+  "page_number": 283,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "08-02",
+      "title": {
+        "ja": "SLMと可用性管理",
+        "vi": "SLM và Quản lý khả dụng",
+        "en": "SLM and Availability Management"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "サービスのイメージを合わせる",
+        "vi": "Thống nhất hình ảnh về dịch vụ",
+        "en": "Align Service Image"
+      },
+      "content": {
+        "ja": "サービスは目に見えない商品なので、売り手と買い手との間で、想像していたサービスの形が食い違うことがあります。そこで、サービスの提供を開始する前に、サービスのイメージを文書にして、お互いに一致させます。",
+        "vi": "Vì dịch vụ là sản phẩm vô hình, nên giữa người bán và người mua, hình dạng dịch vụ tưởng tượng có thể khác nhau. Do đó, trước khi bắt đầu cung cấp dịch vụ, ghi lại hình ảnh dịch vụ thành văn bản để thống nhất với nhau.",
+        "en": "Since service is invisible product, the imagined service form between seller and buyer may differ. So before starting service provision, document service image to align with each other."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、サービスマネジメントのうちの「SLM」と「可用性管理」について詳しく解説していきます。",
+      "vi": "Từ đây, sẽ giải thích chi tiết về \"SLM\" và \"Availability Management\" trong Service Management.",
+      "en": "From here, we'll explain in detail 'SLM' and 'Availability Management' in Service Management.",
+      "terms": [
+        {
+          "kanji": "可用性管理",
+          "reading": "かようせいかんり"
+        },
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "SLM",
+      "reading": "えすえるえむ",
+      "vi": "SLM",
+      "en": "SLM",
+      "note": "よく出る！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "SLM（Service Level Management：サービスレベル管理）とは、サービスの提供者と利用者が合意した「サービスレベル（サービスの品質や範囲）」を維持・改善するための活動です。",
+      "vi": "SLM (Service Level Management: Quản lý mức dịch vụ) là hoạt động duy trì và cải thiện \"Service Level (chất lượng và phạm vi dịch vụ)\" mà nhà cung cấp dịch vụ và người dùng đã đồng ý.",
+      "en": "SLM (Service Level Management) is activity to maintain and improve 'Service Level (service quality and scope)' that service provider and user agreed upon.",
+      "terms": [
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "提供者",
+          "reading": "ていきょうしゃ"
+        },
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "kanji": "合意",
+          "reading": "ごうい"
+        },
+        {
+          "kanji": "品質",
+          "reading": "ひんしつ"
+        },
+        {
+          "kanji": "範囲",
+          "reading": "はんい"
+        },
+        {
+          "kanji": "維持",
+          "reading": "いじ"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "活動",
+          "reading": "かつどう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "SLMでは主にPDCAの手法を使ってサービスの維持・改善を行います。PDCAとは、Plan（計画）→Do（実行）→Check（評価）→Act（改善）の4つのプロセスを繰り返すことによって、継続的に業務を改善していく手法です。",
+      "vi": "Trong SLM, chủ yếu sử dụng phương pháp PDCA để duy trì và cải thiện dịch vụ. PDCA là phương pháp cải thiện nghiệp vụ liên tục bằng cách lặp lại 4 quy trình: Plan (Kế hoạch) → Do (Thực hiện) → Check (Đánh giá) → Act (Cải thiện).",
+      "en": "SLM mainly uses PDCA method to maintain and improve service. PDCA is method to continuously improve operations by repeating 4 processes: Plan → Do → Check → Act.",
+      "terms": [
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "維持",
+          "reading": "いじ"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "計画",
+          "reading": "けいかく"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "継続的",
+          "reading": "けいぞくてき"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "SLMとPDCAの関係",
+        "vi": "Mối quan hệ giữa SLM và PDCA",
+        "en": "Relationship Between SLM and PDCA"
+      },
+      "headers": {
+        "ja": [
+          "PDCAのプロセス",
+          "SLM（サービスレベル管理）の内容"
+        ],
+        "vi": [
+          "PDCA Process",
+          "Nội dung SLM (Quản lý mức dịch vụ)"
+        ],
+        "en": [
+          "PDCA Process",
+          "SLM (Service Level Management) Content"
+        ]
+      },
+      "rows": [
+        {
+          "process": "Plan（計画）",
+          "content": {
+            "ja": "サービスレベルの合意",
+            "vi": "Thỏa thuận Service Level",
+            "en": "Service Level agreement"
+          }
+        },
+        {
+          "process": "Do（実行）",
+          "content": {
+            "ja": "サービスの運用",
+            "vi": "Vận hành dịch vụ",
+            "en": "Service operation"
+          }
+        },
+        {
+          "process": "Check（評価）",
+          "content": {
+            "ja": "サービスの監視・測定、および評価（レビュー）",
+            "vi": "Giám sát, đo lường và đánh giá dịch vụ (Review)",
+            "en": "Service monitoring/measurement and evaluation (review)"
+          }
+        },
+        {
+          "process": "Act（改善）",
+          "content": {
+            "ja": "サービスのパフォーマンスを維持・改善するための対策の実施",
+            "vi": "Thực hiện biện pháp để duy trì và cải thiện hiệu suất dịch vụ",
+            "en": "Implement measures to maintain/improve service performance"
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、PDCAに関する問題が、ほぼ100％出題されます。ただし「PDCAの定義」は問われません。問われるのは「4つの各プロセスの具体",
+      "vi": "Trong kỳ thi IT Passport, câu hỏi về PDCA ra gần như 100%. Tuy nhiên \"định nghĩa PDCA\" không được hỏi. Điều được hỏi là \"cụ thể từng quy trình trong 4 quy trình",
+      "en": "In IT Passport exam, PDCA questions appear almost 100%. However 'PDCA definition' is not asked. What's asked is 'specific details of each of 4 processes",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "各",
+          "reading": "かく"
+        },
+        {
+          "kanji": "具体",
+          "reading": "ぐたい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "SLM",
+      "reading": "えすえるえむ",
+      "romaji": "SLM",
+      "vi": "Quản lý mức dịch vụ",
+      "en": "Service Level Management",
+      "my": "အစ်အဲလ်အမ်"
+    },
+    {
+      "kanji": "PDCA",
+      "reading": "ぴーでぃーしーえー",
+      "romaji": "PDCA",
+      "vi": "PDCA",
+      "en": "Plan-Do-Check-Act",
+      "my": "ပီဒီစီအေ"
+    }
+  ],
+  "meta": {
+    "has_illustration": true,
+    "has_table": true
+  }
+}

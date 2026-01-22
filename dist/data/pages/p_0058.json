@@ -1,0 +1,527 @@
+{
+  "page_id": 58,
+  "image": "p_0058.png",
+  "chapter": 1,
+  "section": "01-08",
+  "page_number": 42,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "ると、今年の利益が、本業で稼いだものなのか、副業で稼いだものなのかなどを確認できます。\n\n株主は大切なお金を企業に預けているので、経営者の実績や手腕をチェックする必要があります。企業が本業で儲かっているならば、その経営者は有能だといえますが、自社ビルを売却して一時的に現金を手に入れただけでは、その経営者が有能だとはいえません。重要なのは、「今現在、利益が出ているか否か」ではなく、「その利益がどのようにして生み出されたのか」なのです。",
+      "vi": "Có thể xác nhận liệu lợi nhuận năm nay có phải từ hoạt động kinh doanh chính hay từ hoạt động phụ.\n\nVì cổ đông đã gửi tiền quan trọng cho doanh nghiệp, họ cần kiểm tra thành tích và năng lực của nhà quản lý. Nếu doanh nghiệp kiếm được lợi nhuận từ hoạt động chính, có thể nói nhà quản lý đó có năng lực. Nhưng nếu chỉ bán tòa nhà công ty để tạm thời có tiền mặt, không thể nói nhà quản lý đó có năng lực. Điều quan trọng không phải là \"hiện tại có lợi nhuận hay không\" mà là \"lợi nhuận đó được tạo ra như thế nào\".",
+      "en": "You can confirm whether this year's profit came from the main business or side business.\n\nSince shareholders entrust their important money to the company, they need to check management's track record and skills. If the company profits from its main business, the manager is capable. But if they just sold the company building to temporarily get cash, that manager is not capable. What's important is not \"whether there's profit now\" but \"how that profit was generated.\"",
+      "my": "ဒီနှစ်၏ အမြတ်သည် main business မှလား side business မှလား ဆိုသည်ကို အတည်ပြုနိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "今年",
+          "reading": "こんねん"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "本業",
+          "reading": "ほんぎょう"
+        },
+        {
+          "kanji": "稼",
+          "reading": "か"
+        },
+        {
+          "kanji": "副業",
+          "reading": "ふくぎょう"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "株主",
+          "reading": "かぶぬし"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "kanji": "金",
+          "reading": "きん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "預",
+          "reading": "よ"
+        },
+        {
+          "kanji": "経営者",
+          "reading": "けいえいしゃ"
+        },
+        {
+          "kanji": "実績",
+          "reading": "じっせき"
+        },
+        {
+          "kanji": "手腕",
+          "reading": "しゅわん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "儲",
+          "reading": "ちょ"
+        },
+        {
+          "kanji": "有能",
+          "reading": "ゆうのう"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "売却",
+          "reading": "ばいきゃく"
+        },
+        {
+          "kanji": "一時的",
+          "reading": "いちじてき"
+        },
+        {
+          "kanji": "現金",
+          "reading": "げんきん"
+        },
+        {
+          "kanji": "手",
+          "reading": "て"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "今現在",
+          "reading": "いまげんざい"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "否",
+          "reading": "ひ"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "損益計算書",
+        "vi": "Báo cáo kết quả kinh doanh",
+        "en": "Income Statement"
+      },
+      "headers": {
+        "ja": [
+          "項目",
+          "単位：百万円"
+        ],
+        "vi": [
+          "Mục",
+          "Đơn vị: triệu yên"
+        ],
+        "en": [
+          "Item",
+          "Unit: million yen"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "売上高",
+            "100"
+          ],
+          "vi": [
+            "Doanh thu",
+            "100"
+          ],
+          "en": [
+            "Sales",
+            "100"
+          ]
+        },
+        {
+          "ja": [
+            "売上原価",
+            "30"
+          ],
+          "vi": [
+            "Giá vốn hàng bán",
+            "30"
+          ],
+          "en": [
+            "Cost of Sales",
+            "30"
+          ]
+        },
+        {
+          "ja": [
+            "売上総利益",
+            "70"
+          ],
+          "vi": [
+            "Lợi nhuận gộp",
+            "70"
+          ],
+          "en": [
+            "Gross Profit",
+            "70"
+          ]
+        },
+        {
+          "ja": [
+            "販売費及び一般管理費",
+            "20"
+          ],
+          "vi": [
+            "Chi phí bán hàng và quản lý",
+            "20"
+          ],
+          "en": [
+            "Selling & Admin Expenses",
+            "20"
+          ]
+        },
+        {
+          "ja": [
+            "営業利益",
+            "50 ← 本業の儲け"
+          ],
+          "vi": [
+            "Lợi nhuận hoạt động",
+            "50 ← Lợi nhuận từ hoạt động chính"
+          ],
+          "en": [
+            "Operating Profit",
+            "50 ← Main business profit"
+          ]
+        },
+        {
+          "ja": [
+            "営業外収益",
+            "5"
+          ],
+          "vi": [
+            "Thu nhập ngoài hoạt động",
+            "5"
+          ],
+          "en": [
+            "Non-operating Income",
+            "5"
+          ]
+        },
+        {
+          "ja": [
+            "営業外費用",
+            "15"
+          ],
+          "vi": [
+            "Chi phí ngoài hoạt động",
+            "15"
+          ],
+          "en": [
+            "Non-operating Expenses",
+            "15"
+          ]
+        },
+        {
+          "ja": [
+            "経常利益",
+            "40 ← 本業と副業を合わせた儲け"
+          ],
+          "vi": [
+            "Lợi nhuận thường xuyên",
+            "40 ← Lợi nhuận từ hoạt động chính + phụ"
+          ],
+          "en": [
+            "Ordinary Profit",
+            "40 ← Main + side business profit"
+          ]
+        },
+        {
+          "ja": [
+            "特別利益",
+            "5"
+          ],
+          "vi": [
+            "Lợi nhuận đặc biệt",
+            "5"
+          ],
+          "en": [
+            "Extraordinary Income",
+            "5"
+          ]
+        },
+        {
+          "ja": [
+            "特別損失",
+            "10"
+          ],
+          "vi": [
+            "Tổn thất đặc biệt",
+            "10"
+          ],
+          "en": [
+            "Extraordinary Loss",
+            "10"
+          ]
+        },
+        {
+          "ja": [
+            "税引前当期純利益",
+            "35"
+          ],
+          "vi": [
+            "Lợi nhuận trước thuế",
+            "35"
+          ],
+          "en": [
+            "Profit Before Tax",
+            "35"
+          ]
+        },
+        {
+          "ja": [
+            "法人税等",
+            "10"
+          ],
+          "vi": [
+            "Thuế thu nhập doanh nghiệp",
+            "10"
+          ],
+          "en": [
+            "Corporate Tax",
+            "10"
+          ]
+        },
+        {
+          "ja": [
+            "当期純利益",
+            "25 ← 最終的な儲け"
+          ],
+          "vi": [
+            "Lợi nhuận ròng",
+            "25 ← Lợi nhuận cuối cùng"
+          ],
+          "en": [
+            "Net Profit",
+            "25 ← Final profit"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "損益計算書の各項目",
+      "reading": "そんえきけいさんしょのかくこうもく",
+      "vi": "Các mục trong báo cáo kết quả kinh doanh",
+      "en": "Income Statement Items",
+      "my": "Income Statement Items"
+    },
+    {
+      "type": "paragraph",
+      "ja": "損益計算書は、前項で解説した「損益分岐点の計算問題」と同様に、ITパスポート試験で最も出題される可能性が高い用語の1つです。このため、ここをきちんと押さえておくことで確実に得点につなげることができます。\n\nただし、難易度が他の項目と比べてやや高めであることが難点です。上図を見るとわかるとおり、損益計算書には13もの用語があります。会計や経理に慣れていない人にとって、これらの用語とその意味を全部覚えるのは大変です。\n\nそこで、これまでの実際の試験での出題傾向や用語の重要度を考慮し、まずは「利益に関する項目」から覚えることを提案します。一度にすべてを覚えようとするのではなく、出題頻度の高いもの（次ページの表で★マークがついているもの）から順番に覚えていってください。",
+      "vi": "Báo cáo kết quả kinh doanh, giống như \"bài toán tính điểm hòa vốn\" đã giải thích ở phần trước, là một trong những thuật ngữ có khả năng được ra đề nhiều nhất trong IT Passport. Do đó, nắm vững phần này sẽ chắc chắn giúp bạn ghi điểm.\n\nTuy nhiên, độ khó cao hơn so với các mục khác. Như có thể thấy từ hình trên, báo cáo kết quả kinh doanh có 13 thuật ngữ. Đối với người không quen với kế toán, việc nhớ tất cả các thuật ngữ và ý nghĩa là khó.\n\nDo đó, xem xét xu hướng ra đề trong các kỳ thi thực tế và mức độ quan trọng của thuật ngữ, đề xuất bắt đầu nhớ từ \"các mục liên quan đến lợi nhuận\". Không cố nhớ tất cả cùng lúc, hãy nhớ theo thứ tự từ những mục được ra đề nhiều nhất (có đánh dấu ★ trong bảng trang sau).",
+      "en": "Income statement, like the \"break-even point calculation\" explained earlier, is one of the terms most likely to appear on the IT Passport exam. Therefore, mastering this will definitely help you score points.\n\nHowever, the difficulty is somewhat higher than other items. As you can see from the figure, income statements have 13 terms. For those unfamiliar with accounting, memorizing all these terms and meanings is challenging.\n\nTherefore, considering actual exam trends and term importance, I suggest starting with \"profit-related items.\" Rather than trying to memorize everything at once, memorize in order from most frequently tested items (marked with ★ in the table on the next page).",
+      "my": "Income statement သည် အရင်ရှင်းပြခဲ့သော \"break-even point calculation\" ကဲ့သို့ပင် IT Passport စာမေးပွဲတွင် အများဆုံး ထွက်နိုင်သော ဝေါဟာရများထဲမှ တစ်ခုဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "損益計算書",
+          "reading": "そんえきけいさんしょ"
+        },
+        {
+          "kanji": "前項",
+          "reading": "ぜんこう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "損益分岐点",
+          "reading": "そんえきぶんきてん"
+        },
+        {
+          "kanji": "計算問題",
+          "reading": "けいさんもんだい"
+        },
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "押",
+          "reading": "おう"
+        },
+        {
+          "kanji": "確実",
+          "reading": "かくじつ"
+        },
+        {
+          "kanji": "得点",
+          "reading": "とくてん"
+        },
+        {
+          "kanji": "難易度",
+          "reading": "なんいど"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "比",
+          "reading": "ひ"
+        },
+        {
+          "kanji": "難点",
+          "reading": "なんてん"
+        },
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "会計",
+          "reading": "かいけい"
+        },
+        {
+          "kanji": "経理",
+          "reading": "けいり"
+        },
+        {
+          "kanji": "慣",
+          "reading": "かん"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "全部覚",
+          "reading": "ぜんぶかく"
+        },
+        {
+          "kanji": "大変",
+          "reading": "たいへん"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "出題傾向",
+          "reading": "しゅつだいけいこう"
+        },
+        {
+          "kanji": "重要度",
+          "reading": "じゅうようど"
+        },
+        {
+          "kanji": "考慮",
+          "reading": "こうりょ"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "提案",
+          "reading": "ていあん"
+        },
+        {
+          "kanji": "一度",
+          "reading": "いちど"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "順番",
+          "reading": "じゅんばん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "page_id": 459,
+  "image": "p_0459.png",
+  "chapter": 12,
+  "section": "12-04",
+  "page_number": 443,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "表計算ソフトの複写（絶対参照）",
+        "vi": "Sao chép của phần mềm bảng tính (Tham chiếu tuyệt đối)",
+        "en": "Spreadsheet Copy (Absolute Reference)"
+      },
+      "description": {
+        "ja": "F2セルの「E2/$I$1」（セル番号I1は絶対参照）を、F3セルに複写すると、「E3/$I$1」となり、I1は固定されたまま",
+        "vi": "Sao chép \"E2/$I$1\" (địa chỉ ô I1 là tham chiếu tuyệt đối) của ô F2 sang ô F3, sẽ thành \"E3/$I$1\", I1 vẫn được cố định",
+        "en": "Copying 'E2/$I$1' (cell I1 is absolute reference) from F2 to F3, becomes 'E3/$I$1', I1 remains fixed"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "絶対参照は次のように指定します。用途によって、列のみを固定する場合、行のみを固定する場合、列と行の両方を固定する場合があります。それぞれの指定方法を覚えておいてください。",
+      "vi": "Tham chiếu tuyệt đối được chỉ định như sau. Tùy theo mục đích, có trường hợp chỉ cố định cột, chỉ cố định hàng, hoặc cố định cả cột và hàng. Hãy nhớ mỗi phương pháp chỉ định.",
+      "en": "Absolute reference specified as follows. Depending on purpose, may fix only column, only row, or both column and row. Remember each specification method.",
+      "terms": [
+        {
+          "kanji": "絶対参照",
+          "reading": "ぜったいさんしょう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "用途",
+          "reading": "ようと"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "固定",
+          "reading": "こてい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "指定方法",
+          "reading": "していほうほう"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "列を固定する絶対参照：$B2",
+          "vi": "Tham chiếu tuyệt đối cố định cột: $B2",
+          "en": "Absolute reference fixing column: $B2"
+        },
+        {
+          "ja": "行を固定する絶対参照：B$2",
+          "vi": "Tham chiếu tuyệt đối cố định hàng: B$2",
+          "en": "Absolute reference fixing row: B$2"
+        },
+        {
+          "ja": "列と行の両方を固定：$B$2",
+          "vi": "Cố định cả cột và hàng: $B$2",
+          "en": "Fixing both column and row: $B$2"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "セルの値をコピーすることを「複写」という",
+          "vi": "Sao chép giá trị ô được gọi là \"複写 (sao chép)\"",
+          "en": "Copying cell value is called '複写 (copy)'"
+        },
+        {
+          "ja": "列名、または行番号の前に「$」を入力すると、複写時に値を固定できる",
+          "vi": "Nhập \"$\" trước tên cột hoặc số hàng có thể cố định giá trị khi sao chép",
+          "en": "Entering '$' before column name or row number can fix value when copying"
+        },
+        {
+          "ja": "複写の際にセル番地を固定する参照方法を「絶対参照」という",
+          "vi": "Phương pháp tham chiếu cố định địa chỉ ô khi sao chép được gọi là \"tham chiếu tuyệt đối\"",
+          "en": "Reference method fixing cell address when copying is called 'absolute reference'"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "$B2",
+      "vi": "Cố định cột B",
+      "en": "Fix column B",
+      "my": "ကော်လံ ဘီ ကို ဖစ်"
+    },
+    {
+      "term": "B$2",
+      "vi": "Cố định hàng 2",
+      "en": "Fix row 2",
+      "my": "ရိုး ၅ ကို ဖစ်"
+    },
+    {
+      "term": "$B$2",
+      "vi": "Cố định cả cột B và hàng 2",
+      "en": "Fix both column B and row 2",
+      "my": "ကော်လံနှင့် ရိုး နှစ်ခု ဖစ်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

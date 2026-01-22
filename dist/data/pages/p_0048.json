@@ -1,0 +1,373 @@
+{
+  "page_id": 48,
+  "image": "p_0048.png",
+  "chapter": 1,
+  "section": "01-06",
+  "page_number": 32,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "01-06",
+      "ja": "経営者の意思決定と問題解決手法",
+      "reading": "けいえいしゃのいしけっていともんだいかいけつしゅほう",
+      "vi": "Ra quyết định của nhà quản lý và Phương pháp giải quyết vấn đề",
+      "en": "Management Decision-Making and Problem-Solving Methods",
+      "my": "မန်နေဂျာ၏ ဆုံးဖြတ်ချက်ချခြင်းနှင့် ပြဿနာဖြေရှင်းနည်းများ"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "アイディアは質より量",
+        "vi": "Ý tưởng cần số lượng hơn chất lượng",
+        "en": "Ideas: Quantity over Quality",
+        "my": "အကြံဉာဏ်များ - အရည်အသွေးထက် အရေအတွက်",
+        "terms": [
+          {
+            "kanji": "質より量",
+            "reading": "しつよりりょう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "経営者は「問題を解決するための意思決定」をできるだけ正確に、かつ効率的に行うことが必要です。ITパスポート試験では、この意思決定を行うための手法もよく出題されます。",
+        "vi": "Nhà quản lý cần đưa ra \"quyết định để giải quyết vấn đề\" một cách chính xác và hiệu quả nhất có thể. Trong kỳ thi IT Passport, các phương pháp ra quyết định này cũng thường được ra đề.",
+        "en": "Managers need to make \"decisions to solve problems\" as accurately and efficiently as possible. The IT Passport exam often tests these decision-making methods.",
+        "my": "မန်နေဂျာများသည် \"ပြဿနာများဖြေရှင်းရန် ဆုံးဖြတ်ချက်များ\" ကို တတ်နိုင်သမျှ တိကျပြီး ထိရောက်စွာ ချမှတ်ရန် လိုအပ်သည်။",
+        "terms": [
+          {
+            "kanji": "経営者",
+            "reading": "けいえいしゃ"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "解決",
+            "reading": "かいけつ"
+          },
+          {
+            "kanji": "意思決定",
+            "reading": "いしけってい"
+          },
+          {
+            "kanji": "正確",
+            "reading": "せいかく"
+          },
+          {
+            "kanji": "効率的",
+            "reading": "こうりつてき"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "手法",
+            "reading": "しゅほう"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "経営者は業務分析の結果をもとにして、さまざまな意思決定と問題解決を行い、企業を運営しています。",
+      "vi": "Nhà quản lý dựa trên kết quả phân tích nghiệp vụ để đưa ra các quyết định và giải quyết vấn đề khác nhau, từ đó điều hành doanh nghiệp.",
+      "en": "Managers make various decisions and solve problems based on business analysis results to operate the company.",
+      "my": "မန်နေဂျာများသည် ကုမ္ပဏီကို လည်ပတ်ရန် စီးပွားရေးခွဲခြမ်းစိတ်ဖြာမှုရလဒ်များအပေါ် အခြေခံ၍ ဆုံးဖြတ်ချက်အမျိုးမျိုး ချမှတ်ပြီး ပြဿနာများ ဖြေရှင်းသည်။",
+      "terms": [
+        {
+          "kanji": "経営者",
+          "reading": "けいえいしゃ"
+        },
+        {
+          "kanji": "業務分析",
+          "reading": "ぎょうむぶんせき"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "意思決定",
+          "reading": "いしけってい"
+        },
+        {
+          "kanji": "問題解決",
+          "reading": "もんだいかいけつ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "運営",
+          "reading": "うんえい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "意思を決定するための手法",
+      "reading": "いしをけっていするためのしゅほう",
+      "vi": "Phương pháp ra quyết định",
+      "en": "Decision-Making Methods",
+      "my": "ဆုံးဖြတ်ချက်ချရေးနည်းလမ်းများ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "経営者が意思決定を行うには将来を予測する必要があります。そこで利用するのが期待値です。",
+      "vi": "Để nhà quản lý ra quyết định, cần dự đoán tương lai. Ở đây sử dụng giá trị kỳ vọng.",
+      "en": "For managers to make decisions, they need to predict the future. This is where expected value is used.",
+      "my": "မန်နေဂျာများ ဆုံးဖြတ်ချက်ချရန် အနာဂတ်ကို ခန့်မှန်းရန် လိုအပ်သည်။ ဤနေရာတွင် expected value ကို အသုံးပြုသည်။",
+      "terms": [
+        {
+          "kanji": "経営者",
+          "reading": "けいえいしゃ"
+        },
+        {
+          "kanji": "意思決定",
+          "reading": "いしけってい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "将来",
+          "reading": "しょうらい"
+        },
+        {
+          "kanji": "予測",
+          "reading": "よそく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "期待値",
+          "reading": "きたいち"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "期待値",
+      "reading": "きたいち",
+      "vi": "Giá trị kỳ vọng",
+      "en": "Expected Value",
+      "my": "Expected Value"
+    },
+    {
+      "type": "paragraph",
+      "ja": "期待値とは、文字どおり「期待される値」であり、確率的に決まる平均値です。\nITパスポート試験では「期待値の計算方法」がかなり頻繁に出題されるので、ぜひ習得しておいてください。計算式そのものはシンプルです。\n\nここでは、サイコロを用いて期待値の計算方法を説明します。サイコロには1から6までの数字が書かれており、どの面も1/6の確率で出ます。",
+      "vi": "Giá trị kỳ vọng, đúng như tên gọi là \"giá trị được kỳ vọng\", là giá trị trung bình được xác định theo xác suất.\nTrong kỳ thi IT Passport, \"phương pháp tính giá trị kỳ vọng\" được ra đề khá thường xuyên, vì vậy hãy nắm vững. Công thức tính rất đơn giản.\n\nỞ đây, chúng ta sẽ giải thích phương pháp tính giá trị kỳ vọng bằng xúc xắc. Xúc xắc có số từ 1 đến 6, mỗi mặt có xác suất xuất hiện là 1/6.",
+      "en": "Expected value is literally the \"expected value\" and is the average determined probabilistically.\nThe IT Passport exam frequently tests \"expected value calculation methods,\" so please master this. The formula itself is simple.\n\nHere, we'll explain the expected value calculation method using dice. A die has numbers 1 to 6, and each side appears with a probability of 1/6.",
+      "my": "Expected value သည် စာသားအတိုင်း \"မျှော်မှန်းတန်ဖိုး\" ဖြစ်ပြီး ဖြစ်နိုင်ခြေအရ ဆုံးဖြတ်သော ပျမ်းမျှတန်ဖိုးဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "期待値",
+          "reading": "きたいち"
+        },
+        {
+          "kanji": "文字",
+          "reading": "もじ"
+        },
+        {
+          "kanji": "期待",
+          "reading": "きたい"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "確率的",
+          "reading": "かくりつてき"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "平均値",
+          "reading": "へいきんち"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "計算方法",
+          "reading": "けいさんほうほう"
+        },
+        {
+          "kanji": "頻繁",
+          "reading": "ひんぱん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "習得",
+          "reading": "しゅうとく"
+        },
+        {
+          "kanji": "計算式",
+          "reading": "けいさんしき"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "説明",
+          "reading": "せつめい"
+        },
+        {
+          "kanji": "数字",
+          "reading": "すうじ"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "面",
+          "reading": "めん"
+        },
+        {
+          "kanji": "確率",
+          "reading": "かくりつ"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "サイコロの目と確率",
+        "vi": "Mặt xúc xắc và xác suất",
+        "en": "Dice faces and probability"
+      },
+      "headers": {
+        "ja": [
+          "サイコロの目",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "vi": [
+          "Mặt xúc xắc",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "en": [
+          "Dice face",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "確率",
+            "1/6",
+            "1/6",
+            "1/6",
+            "1/6",
+            "1/6",
+            "1/6"
+          ],
+          "vi": [
+            "Xác suất",
+            "1/6",
+            "1/6",
+            "1/6",
+            "1/6",
+            "1/6",
+            "1/6"
+          ],
+          "en": [
+            "Probability",
+            "1/6",
+            "1/6",
+            "1/6",
+            "1/6",
+            "1/6",
+            "1/6"
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "意思決定",
+      "reading": "いしけってい",
+      "romaji": "Ishi Kettei",
+      "vi": "Ra quyết định",
+      "en": "Decision-Making",
+      "my": "ဆုံးဖြတ်ချက်ချခြင်း"
+    },
+    {
+      "kanji": "期待値",
+      "reading": "きたいち",
+      "romaji": "Kitaichi",
+      "vi": "Giá trị kỳ vọng",
+      "en": "Expected Value",
+      "my": "မျှော်မှန်းတန်ဖိုး"
+    },
+    {
+      "kanji": "確率",
+      "reading": "かくりつ",
+      "romaji": "Kakuritsu",
+      "vi": "Xác suất",
+      "en": "Probability",
+      "my": "ဖြစ်နိုင်ခြေ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "has_exam_tip": false
+  }
+}

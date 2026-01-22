@@ -1,0 +1,162 @@
+{
+  "page_id": 503,
+  "image": "p_0503.png",
+  "chapter": 14,
+  "section": "14-02",
+  "page_number": 487,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ルーター",
+      "vi": "Router",
+      "en": "Router"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ルーター",
+        "vi": "Router",
+        "en": "Router"
+      },
+      "definition": {
+        "ja": "ルーターとは、ネットワークとネットワークをつなぐ機器です。例えば、東京支社のLANと大阪支社のLANをつなぐ際に必要になる機器です。なお、ITパスポート試験では「LANやWANを相互接続する機器」という文章で出題されることもあります。LANとWANはネットワークですから、意味合いは同じですが、表現が少し異なるので注意してください。",
+        "vi": "Router là thiết bị kết nối mạng với mạng. Ví dụ, đây là thiết bị cần thiết khi kết nối LAN của chi nhánh Tokyo với LAN của chi nhánh Osaka. Trong kỳ thi IT Passport, cũng có thể ra đề bằng câu \"thiết bị kết nối LAN và WAN với nhau\". Vì LAN và WAN đều là mạng nên ý nghĩa giống nhau, nhưng hãy chú ý vì cách diễn đạt hơi khác.",
+        "en": "Router is device connecting network to network. For example, device needed when connecting LAN of Tokyo branch with LAN of Osaka branch. In IT Passport exam, may also appear as 'device that interconnects LAN and WAN.' Since LAN and WAN are networks, meaning is same, but note expression is slightly different."
+      }
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ルーター",
+        "vi": "Router",
+        "en": "Router"
+      },
+      "description": {
+        "ja": "LAN ─ ルーター ─ ルーター ─ LAN。ルーターにも複数のポート（ケーブルの接続口）がある。外見はハブとあまり変わりませんが、機器の役割はまったく異なる",
+        "vi": "LAN ─ Router ─ Router ─ LAN. Router cũng có nhiều cổng (đầu nối cáp). Bề ngoài không khác Hub nhiều, nhưng vai trò của thiết bị hoàn toàn khác",
+        "en": "LAN ─ Router ─ Router ─ LAN. Router also has multiple ports (cable connection points). Appearance doesn't differ much from Hub, but device role is completely different"
+      }
+    },
+    {
+      "type": "comparison_box",
+      "title": {
+        "ja": "この違いはしっかり覚えておいてください",
+        "vi": "Hãy nhớ kỹ sự khác biệt này",
+        "en": "Remember this difference well"
+      },
+      "items": [
+        {
+          "term": {
+            "ja": "ハブの役割",
+            "vi": "Vai trò của Hub",
+            "en": "Hub Role"
+          },
+          "description": {
+            "ja": "複数のコンピュータ同士をつなぐこと",
+            "vi": "Kết nối nhiều máy tính với nhau",
+            "en": "Connect multiple computers together"
+          }
+        },
+        {
+          "term": {
+            "ja": "ルーターの役割",
+            "vi": "Vai trò của Router",
+            "en": "Router Role"
+          },
+          "description": {
+            "ja": "ネットワークとネットワーク（LANやWAN）をつなぐこと",
+            "vi": "Kết nối mạng với mạng (LAN và WAN)",
+            "en": "Connect network to network (LAN and WAN)"
+          }
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "デフォルトゲートウェイ",
+      "vi": "Default Gateway",
+      "en": "Default Gateway"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "デフォルトゲートウェイ",
+        "vi": "Default Gateway",
+        "en": "Default Gateway"
+      },
+      "definition": {
+        "ja": "デフォルトゲートウェイとは、他のネットワークへの出入口の役割を担っている機器（ルーター）です（次ページの図を参照）。具体的には、オフィスや家庭内のネットワークから、他のネットワーク（インターネットなど）へアクセスする際に必要になる機器です。「Gateway」は「出入口」という意味です。",
+        "vi": "Default Gateway là thiết bị (router) đóng vai trò cổng vào ra đến mạng khác (xem hình trang sau). Cụ thể, là thiết bị cần thiết khi truy cập từ mạng trong văn phòng hoặc gia đình đến mạng khác (Internet,...). \"Gateway\" có nghĩa là \"cổng vào ra\".",
+        "en": "Default Gateway is device (router) serving as gateway to other networks (see diagram on next page). Specifically, device needed when accessing from office or home network to other networks (Internet, etc.). 'Gateway' means 'entrance/exit.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、プロバイダから貸与される家庭用のルーターの多くは、デフォルトゲートウェイの役割も担っています。",
+      "vi": "Ngoài ra, nhiều router gia đình được mượn từ nhà cung cấp cũng đóng vai trò Default Gateway.",
+      "en": "Note that many home routers lent by providers also serve as default gateway.",
+      "terms": [
+        {
+          "kanji": "貸与",
+          "reading": "たいよ"
+        },
+        {
+          "kanji": "家庭用",
+          "reading": "かていよう"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "担",
+          "reading": "たん"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！SDN (Software Defined Network)",
+        "vi": "Chi tiết hơn! SDN (Software Defined Network)",
+        "en": "More Details! SDN (Software Defined Network)"
+      },
+      "content": {
+        "ja": "SDN（Software Defined Network）とは、ネットワークを構成する通信機器を、ソフトウェアで制御する技術です。",
+        "vi": "SDN (Software Defined Network) là công nghệ điều khiển các thiết bị truyền thông cấu thành mạng bằng phần mềm.",
+        "en": "SDN (Software Defined Network) is technology controlling communication devices composing network with software."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ルーター",
+      "vi": "Router",
+      "en": "Router",
+      "my": "ရူတာ"
+    },
+    {
+      "term": "デフォルトゲートウェイ",
+      "vi": "Default Gateway",
+      "en": "Default Gateway",
+      "my": "ဒီဖော့ ဂိတ်ဝေ"
+    },
+    {
+      "term": "SDN",
+      "full": "Software Defined Network",
+      "vi": "SDN (Mạng định nghĩa bằng phần mềm)",
+      "en": "SDN (Software Defined Network)",
+      "my": "အက်စ်ဒီအန်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

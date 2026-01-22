@@ -1,0 +1,281 @@
+{
+  "page_id": 538,
+  "image": "p_0538.png",
+  "chapter": 15,
+  "section": "15-01",
+  "page_number": 522,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "15-01",
+      "title": {
+        "ja": "情報セキュリティの脅威",
+        "vi": "Mối đe dọa bảo mật thông tin",
+        "en": "Information Security Threats"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "コンピュータの病原体",
+        "vi": "Mầm bệnh của máy tính",
+        "en": "Computer Pathogens"
+      },
+      "content": {
+        "ja": "私たちが細菌やウイルスなどの病原体によって病気になってしまうように、コンピュータも悪意のあるソフトウェアによって正しく動作しなくなることがあります。",
+        "vi": "Giống như chúng ta bị bệnh bởi mầm bệnh như vi khuẩn và virus, máy tính cũng có thể không hoạt động đúng bởi phần mềm độc hại.",
+        "en": "Just as we get sick from pathogens like bacteria and viruses, computers can also malfunction due to malicious software."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "インターネットで私たちの生活はとても便利になりました。今では「インターネットは日常生活を送るための必需品」といっても過言ではないでしょう。",
+      "vi": "Cuộc sống của chúng ta trở nên rất tiện lợi nhờ Internet. Bây giờ có thể nói \"Internet là vật dụng thiết yếu để sống cuộc sống hàng ngày\" mà không hề quá.",
+      "en": "Our lives have become very convenient with Internet. Now it's no exaggeration to say 'Internet is essential for daily life.'",
+      "terms": [
+        {
+          "kanji": "私",
+          "reading": "わたし"
+        },
+        {
+          "kanji": "生活",
+          "reading": "せいかつ"
+        },
+        {
+          "kanji": "便利",
+          "reading": "べんり"
+        },
+        {
+          "kanji": "今",
+          "reading": "いま"
+        },
+        {
+          "kanji": "日常生活",
+          "reading": "にちじょうせいかつ"
+        },
+        {
+          "kanji": "送",
+          "reading": "そう"
+        },
+        {
+          "kanji": "必需品",
+          "reading": "ひつじゅひん"
+        },
+        {
+          "kanji": "過言",
+          "reading": "かごん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "その一方で、インターネットが広く普及したことに伴って、使い方を間違えたり、悪意のある人が使ったりと、これまでには存在しなかったリスクも生まれています（インターネットを通して、国家や企業、個人などのシステムのデータを盗んだり、破壊する行為のことを「サイバー攻撃」といいます）。",
+      "vi": "Mặt khác, cùng với việc Internet phổ biến rộng rãi, cũng xuất hiện những rủi ro chưa từng tồn tại như sử dụng sai cách hoặc người có ác ý sử dụng (hành vi đánh cắp hoặc phá hủy dữ liệu hệ thống của quốc gia, doanh nghiệp, cá nhân qua Internet được gọi là \"tấn công mạng\").",
+      "en": "On the other hand, with widespread Internet adoption, risks that didn't exist before have emerged like misuse or malicious use (acts of stealing or destroying system data of nations, businesses, individuals through Internet are called 'cyber attacks').",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "広",
+          "reading": "こう"
+        },
+        {
+          "kanji": "普及",
+          "reading": "ふきゅう"
+        },
+        {
+          "kanji": "伴",
+          "reading": "はん"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "方",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "間違",
+          "reading": "かんい"
+        },
+        {
+          "kanji": "悪意",
+          "reading": "あくい"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "存在",
+          "reading": "そんざい"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        },
+        {
+          "kanji": "国家",
+          "reading": "こっか"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "個人",
+          "reading": "こじん"
+        },
+        {
+          "kanji": "盗",
+          "reading": "とう"
+        },
+        {
+          "kanji": "破壊",
+          "reading": "はかい"
+        },
+        {
+          "kanji": "行為",
+          "reading": "こうい"
+        },
+        {
+          "kanji": "攻撃",
+          "reading": "こうげき"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このような、新しいリスクに対して、安全を確保することを「情報セキュリティ」といいます。",
+      "vi": "Việc đảm bảo an toàn đối với những rủi ro mới như vậy được gọi là \"Bảo mật thông tin\".",
+      "en": "Ensuring safety against such new risks is called 'Information Security.'",
+      "terms": [
+        {
+          "kanji": "新",
+          "reading": "しん"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "kanji": "確保",
+          "reading": "かくほ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "情報セキュリティとは",
+      "vi": "Bảo mật thông tin là gì",
+      "en": "What is Information Security"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "情報セキュリティ",
+        "vi": "Bảo mật thông tin",
+        "en": "Information Security"
+      },
+      "definition": {
+        "ja": "情報セキュリティとは、情報資産を守ることです。反対に、情報資産に損害を与える原因のことを「脅威」といいます。",
+        "vi": "Bảo mật thông tin là việc bảo vệ tài sản thông tin. Ngược lại, nguyên nhân gây thiệt hại cho tài sản thông tin được gọi là \"mối đe dọa\".",
+        "en": "Information Security is protecting information assets. Conversely, causes of damage to information assets are called 'threats.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "情報セキュリティにおける脅威は、大きく次の3つに分類できます。",
+      "vi": "Mối đe dọa trong bảo mật thông tin có thể được phân loại lớn thành 3 loại sau.",
+      "en": "Threats in information security can be broadly classified into following 3 types.",
+      "terms": [
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "脅威",
+          "reading": "きょうい"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "（1）人的脅威",
+          "vi": "(1) Mối đe dọa do con người",
+          "en": "(1) Human Threats"
+        },
+        {
+          "ja": "（2）技術的脅威",
+          "vi": "(2) Mối đe dọa kỹ thuật",
+          "en": "(2) Technical Threats"
+        },
+        {
+          "ja": "（3）物理的脅威",
+          "vi": "(3) Mối đe dọa vật lý",
+          "en": "(3) Physical Threats"
+        }
+      ],
+      "note": {
+        "ja": "脅威は大きく3種類！",
+        "vi": "Có 3 loại mối đe dọa lớn!",
+        "en": "3 major threat types!"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "脅威",
+      "reading": "きょうい",
+      "vi": "Mối đe dọa",
+      "en": "Threat",
+      "my": "ခြိမ်းခြောက်မှု"
+    },
+    {
+      "term": "サイバー攻撃",
+      "vi": "Tấn công mạng",
+      "en": "Cyber Attack",
+      "my": "ဆိုင်ဘာတိုက်ခိုက်"
+    },
+    {
+      "term": "情報資産",
+      "vi": "Tài sản thông tin",
+      "en": "Information Assets",
+      "my": "သတင်းအချက်အလက် ပိုင်ဆိုင်မှု"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "page_id": 482,
+  "image": "p_0482.png",
+  "chapter": 13,
+  "section": "13-03",
+  "page_number": 466,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "正規化が必要な表（正規化前）",
+        "vi": "Bảng cần chuẩn hóa (Trước chuẩn hóa)",
+        "en": "Table Needing Normalization (Before Normalization)"
+      },
+      "description": {
+        "ja": "学生表に教員名が直接含まれている。「田中花子」が2箇所に存在し、「山田太郎」くんが転校すると伊藤一郎先生もいなくなる（矛盾）",
+        "vi": "Bảng sinh viên chứa trực tiếp tên giáo viên. \"Tanaka Hanako\" tồn tại ở 2 chỗ, nếu \"Yamada Taro\" chuyển trường thì giáo viên Ito Ichiro cũng mất (mâu thuẫn)",
+        "en": "Student table directly contains teacher name. 'Tanaka Hanako' exists in 2 places, if 'Yamada Taro' transfers then teacher Ito Ichiro also disappears (inconsistency)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "しかし、実際には「伊藤一郎」先生は「山田太郎」くんが転校したとしても、学校に残るはずなので、上記のような情報の持ち方では困ります。",
+      "vi": "Tuy nhiên, thực tế giáo viên \"Ito Ichiro\" vẫn ở lại trường ngay cả khi \"Yamada Taro\" chuyển trường, nên cách giữ thông tin như trên sẽ gặp khó khăn.",
+      "en": "However, in reality teacher 'Ito Ichiro' should remain at school even if 'Yamada Taro' transfers, so above way of holding information is problematic.",
+      "terms": [
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "伊藤一郎",
+          "reading": "いとういちろう"
+        },
+        {
+          "kanji": "先生",
+          "reading": "せんせい"
+        },
+        {
+          "kanji": "山田太郎",
+          "reading": "やまだたろう"
+        },
+        {
+          "kanji": "転校",
+          "reading": "てんこう"
+        },
+        {
+          "kanji": "学校",
+          "reading": "がっこう"
+        },
+        {
+          "kanji": "残",
+          "reading": "ざん"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "方",
+          "reading": "かた"
+        },
+        {
+          "kanji": "困",
+          "reading": "こん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "これらの問題を解決するには、「学生」表と「教員」表を分けて、下図のように2つの表でデータを管理します。",
+      "vi": "Để giải quyết các vấn đề này, chia bảng \"Sinh viên\" và bảng \"Giáo viên\", và quản lý dữ liệu bằng 2 bảng như hình dưới.",
+      "en": "To solve these problems, divide 'Student' table and 'Teacher' table, and manage data with 2 tables as shown below.",
+      "terms": [
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "学生",
+          "reading": "がくせい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "教員",
+          "reading": "きょういん"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "表の正規化",
+        "vi": "Chuẩn hóa bảng",
+        "en": "Table Normalization"
+      },
+      "description": {
+        "ja": "学生表（学生番号、学生名、電話番号、教員番号）と教員表（教員番号、教員名）に分離。「田中花子」先生は教員表で1回だけ登場し、名前の修正は1箇所で済む。「山田太郎」が転校しても伊藤一郎先生は教員表に残る",
+        "vi": "Tách thành bảng sinh viên (Mã sinh viên, Tên sinh viên, Số điện thoại, Mã giáo viên) và bảng giáo viên (Mã giáo viên, Tên giáo viên). Giáo viên \"Tanaka Hanako\" chỉ xuất hiện 1 lần trong bảng giáo viên, sửa tên chỉ cần 1 chỗ. Ngay cả khi \"Yamada Taro\" chuyển trường, giáo viên Ito Ichiro vẫn còn trong bảng giáo viên",
+        "en": "Separated into student table (Student ID, Student Name, Phone Number, Teacher ID) and teacher table (Teacher ID, Teacher Name). Teacher 'Tanaka Hanako' appears only once in teacher table, name correction needs only 1 place. Even if 'Yamada Taro' transfers, teacher Ito Ichiro remains in teacher table"
+      },
+      "annotations": {
+        "ja": "正規化。名前の修正は1箇所で済む。山田太郎くんが転校しても伊藤一郎先生は学校に残る",
+        "vi": "Chuẩn hóa. Sửa tên chỉ cần 1 chỗ. Ngay cả khi Yamada Taro chuyển trường, giáo viên Ito Ichiro vẫn ở lại trường",
+        "en": "Normalization. Name correction needs only 1 place. Even if Yamada Taro transfers, teacher Ito Ichiro remains at school"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のように、「学生」表と「教員」表を分けておけば、「田中花子」先生の名前の更新は1箇所ですみ、また、生徒が転校しても、教員の名前は「教員」表に残ります。このように、取り扱うすべてのデータを重複なく、データを更新しても矛盾しない形に整理することを「正規化」といいます。",
+      "vi": "Như trên, nếu tách bảng \"Sinh viên\" và bảng \"Giáo viên\", việc cập nhật tên giáo viên \"Tanaka Hanako\" chỉ cần 1 chỗ, và ngay cả khi học sinh chuyển trường, tên giáo viên vẫn còn trong bảng \"Giáo viên\". Như vậy, việc sắp xếp tất cả dữ liệu xử lý không trùng lặp và không mâu thuẫn ngay cả khi cập nhật dữ liệu được gọi là \"chuẩn hóa\".",
+      "en": "As above, if dividing 'Student' and 'Teacher' tables, updating teacher 'Tanaka Hanako's' name needs only 1 place, and even if student transfers, teacher name remains in 'Teacher' table. Thus, organizing all handled data without duplication and without inconsistency even when updating data is called 'normalization.'",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "学生",
+          "reading": "がくせい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "教員",
+          "reading": "きょういん"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "田中花子",
+          "reading": "たなかはなこ"
+        },
+        {
+          "kanji": "先生",
+          "reading": "せんせい"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "更新",
+          "reading": "こうしん"
+        },
+        {
+          "kanji": "箇所",
+          "reading": "かしょ"
+        },
+        {
+          "kanji": "生徒",
+          "reading": "せいと"
+        },
+        {
+          "kanji": "転校",
+          "reading": "てんこう"
+        },
+        {
+          "kanji": "残",
+          "reading": "ざん"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "重複",
+          "reading": "ちょうふく"
+        },
+        {
+          "kanji": "矛盾",
+          "reading": "むじゅん"
+        },
+        {
+          "kanji": "形",
+          "reading": "かたち"
+        },
+        {
+          "kanji": "整理",
+          "reading": "せいり"
+        },
+        {
+          "kanji": "正規化",
+          "reading": "せいきか"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "重要！これが正規化の目的！",
+      "vi": "Quan trọng! Đây là mục đích của chuẩn hóa!",
+      "en": "Important! This is purpose of normalization!",
+      "terms": [
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "正規化",
+          "reading": "せいきか"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "E-R図とは、データベースを設計するときに、表同士の関連を表す図",
+          "vi": "Sơ đồ E-R là sơ đồ biểu thị quan hệ giữa các bảng khi thiết kế cơ sở dữ liệu",
+          "en": "E-R diagram is diagram showing relationships between tables when designing database"
+        },
+        {
+          "ja": "正規化の目的は、データが重複したり、データ更新の際に矛盾が生じたりしないようにすること",
+          "vi": "Mục đích của chuẩn hóa là để dữ liệu không bị trùng lặp và không xảy ra mâu thuẫn khi cập nhật dữ liệu",
+          "en": "Purpose of normalization is to prevent data duplication and inconsistency during data updates"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "正規化",
+      "reading": "せいきか",
+      "vi": "Chuẩn hóa",
+      "en": "Normalization",
+      "my": "နော်မလိုက်ဇေးရှင်း"
+    },
+    {
+      "term": "重複",
+      "reading": "ちょうふく",
+      "vi": "Trùng lặp",
+      "en": "Duplication",
+      "my": "ဒူပလီကိတ်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

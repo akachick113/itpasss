@@ -1,0 +1,290 @@
+{
+  "page_id": 375,
+  "image": "p_0375.png",
+  "chapter": 9,
+  "section": "09-08",
+  "page_number": 359,
+  "content": [
+    {
+      "type": "output_example",
+      "title": {
+        "ja": "【出力例】繰り返し処理（do）",
+        "vi": "【Ví dụ xuất】Xử lý lặp (do)",
+        "en": "[Output Example] Loop Processing (do)"
+      },
+      "output": "☆☆☆☆☆☆☆☆☆☆"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "繰り返し処理とfor",
+      "reading": "くりかえししょりとフォー",
+      "vi": "Xử lý lặp và for",
+      "en": "Loop Processing and for"
+    },
+    {
+      "type": "paragraph",
+      "ja": "whileやdoを使った繰り返し処理では、処理の中で変数cntの値をカウントアップしましたが、「for」を使うと条件式の中で変数の値をカウントアップできます。以下はforの書式です。",
+      "vi": "Trong xử lý lặp dùng while và do, đã tăng giá trị biến cnt trong xử lý, nhưng dùng \"for\" có thể tăng giá trị biến trong biểu thức điều kiện. Sau đây là định dạng for.",
+      "en": "In loop processing using while and do, incremented variable cnt value in processing, but using 'for' can increment variable value in conditional expression. Following is for format.",
+      "terms": [
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "条件式",
+          "reading": "じょうけんしき"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "書式",
+          "reading": "しょしき"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【書式】繰り返し処理（for）",
+        "vi": "【Định dạng】Xử lý lặp (for)",
+        "en": "[Format] Loop Processing (for)"
+      },
+      "code": "for (制御記述)\n    処理\nendfor",
+      "explanation": {
+        "ja": "・最初にforを書き、その後に( )（丸括弧）を書く\n・( )の中に制御記述を書く\n・続いて、処理を書き、最後にendforを書く",
+        "vi": "・Viết for trước, sau đó viết ( ) (ngoặc tròn)\n・Viết mô tả điều khiển trong ( )\n・Tiếp theo, viết xử lý, cuối cùng viết endfor",
+        "en": "・Write for first, then write ( ) (parentheses)\n・Write control description in ( )\n・Then, write processing, finally write endfor"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "処理は、指定した制御記述の内容にもとづいて繰り返し実行されます。制御記述には「繰り返しを継続する条件」を書きます。以下は、これまでの出力と同じ「☆マーク」を10個表示する（出力する）プログラム例です。",
+      "vi": "Xử lý được thực hiện lặp dựa trên nội dung mô tả điều khiển đã chỉ định. Trong mô tả điều khiển viết \"điều kiện tiếp tục lặp\". Sau đây là ví dụ chương trình hiển thị (xuất) 10 \"dấu ☆\" giống như xuất trước đó.",
+      "en": "Processing is repeatedly executed based on specified control description content. Control description writes 'condition to continue loop.' Following is example program displaying (outputting) 10 '☆ marks' same as previous output.",
+      "terms": [
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "制御記述",
+          "reading": "せいぎょきじゅつ"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "継続",
+          "reading": "けいぞく"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "個表示",
+          "reading": "こひょうじ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】繰り返し処理（for）",
+        "vi": "【Ví dụ chương trình】Xử lý lặp (for)",
+        "en": "[Program Example] Loop Processing (for)"
+      },
+      "code": "整数型: cnt\nfor (cntを1から10まで1ずつ増やす)\n    \"☆\"を出力する\nendfor"
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "繰り返し処理（for）の内容",
+        "vi": "Nội dung xử lý lặp (for)",
+        "en": "Loop Processing (for) Content"
+      },
+      "headers": {
+        "ja": [
+          "プログラム",
+          "説明"
+        ],
+        "vi": [
+          "Chương trình",
+          "Giải thích"
+        ],
+        "en": [
+          "Program",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "program": "整数型: cnt",
+          "description": {
+            "ja": "変数cntを整数型で宣言",
+            "vi": "Khai báo biến cnt kiểu số nguyên",
+            "en": "Declare variable cnt as integer type"
+          }
+        },
+        {
+          "program": "for (cntを1から10まで1ずつ増やす)",
+          "description": {
+            "ja": "変数cntの値に「1」を加算する。また、変数cntの値が1から10までの間は3行目の処理を繰り返し実行する",
+            "vi": "Cộng \"1\" vào giá trị biến cnt. Và trong khi giá trị biến cnt từ 1 đến 10, thực hiện lặp xử lý dòng 3",
+            "en": "Add '1' to variable cnt value. And while variable cnt value is from 1 to 10, repeatedly execute line 3 processing"
+          }
+        },
+        {
+          "program": "\"☆\"を出力する",
+          "description": {
+            "ja": "☆マークを出力する処理",
+            "vi": "Xử lý xuất dấu ☆",
+            "en": "Processing outputting ☆ mark"
+          }
+        },
+        {
+          "program": "endfor",
+          "description": {
+            "ja": "forの処理の終わりを表す",
+            "vi": "Cho thấy kết thúc xử lý for",
+            "en": "Shows end of for processing"
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "以上が選択処理（if）と繰り返し処理（while、do、for）の書式です。ifやwhileなどを使うことで、処理の流れを変更できることがわかります。",
+      "vi": "Trên đây là định dạng xử lý lựa chọn (if) và xử lý lặp (while, do, for). Có thể thấy việc sử dụng if hoặc while, v.v. có thể thay đổi luồng xử lý.",
+      "en": "Above are selection processing (if) and loop processing (while, do, for) formats. Can see that using if or while, etc. can change processing flow.",
+      "terms": [
+        {
+          "kanji": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "kanji": "選択処理",
+          "reading": "せんたくしょり"
+        },
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "書式",
+          "reading": "しょしき"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "変更",
+          "reading": "へんこう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "for",
+      "vi": "for (cho)",
+      "en": "for",
+      "my": "ဖော"
+    },
+    {
+      "term": "endfor",
+      "vi": "endfor (kết thúc for)",
+      "en": "endfor",
+      "my": "အင်ဒ်ဖော"
+    },
+    {
+      "term": "制御記述",
+      "reading": "せいぎょきじゅつ",
+      "vi": "Mô tả điều khiển",
+      "en": "Control Description",
+      "my": "ထိန်းချုပ် ဖော်ပြချက်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "is_key_content": true
+  }
+}

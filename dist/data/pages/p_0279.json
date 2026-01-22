@@ -1,0 +1,300 @@
+{
+  "page_id": 279,
+  "image": "p_0279.png",
+  "chapter": 7,
+  "section": "07-02",
+  "page_number": 263,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "ここでは、まず「プロジェクトスコープマネジメント」と「プロジェクトステークホルダマネジメント」を解説します。",
+      "vi": "Ở đây, trước tiên sẽ giải thích \"Project Scope Management\" và \"Project Stakeholder Management\".",
+      "en": "Here, we'll first explain 'Project Scope Management' and 'Project Stakeholder Management.'",
+      "terms": [
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "プロジェクトスコープマネジメント",
+      "reading": "ぷろじぇくとすこーぷまねじめんと",
+      "vi": "Project Scope Management",
+      "en": "Project Scope Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "プロジェクトスコープマネジメントとは、プロジェクトに必要な作業を抽出することです。スコープ（作業範囲）を定義することで、プロジェクトで実施すべきことが明確になります。具体的には「プロジェクトが生み出す製品やサービスなどの成果物」と「それらを完成するために必要な作業」を定義して管理します。",
+      "vi": "Project Scope Management là trích xuất công việc cần thiết cho dự án. Bằng cách định nghĩa Scope (phạm vi công việc), những gì cần thực hiện trong dự án trở nên rõ ràng. Cụ thể, định nghĩa và quản lý \"Thành quả như sản phẩm hoặc dịch vụ mà dự án tạo ra\" và \"Công việc cần thiết để hoàn thành chúng\".",
+      "en": "Project Scope Management is extracting work needed for projects. By defining Scope (work scope), what should be done in project becomes clear. Specifically, define and manage 'deliverables like products or services the project produces' and 'work needed to complete them.'",
+      "terms": [
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "抽出",
+          "reading": "ちゅうしゅつ"
+        },
+        {
+          "kanji": "作業範囲",
+          "reading": "さぎょうはんい"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "実施",
+          "reading": "じっし"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "成果物",
+          "reading": "せいかぶつ"
+        },
+        {
+          "kanji": "完成",
+          "reading": "かんせい"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "プロジェクトスコープマネジメントでは、WBSを作成します。",
+      "vi": "Trong Project Scope Management, tạo WBS.",
+      "en": "In Project Scope Management, WBS is created.",
+      "terms": [
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "WBS",
+      "reading": "だぶるびーえす",
+      "vi": "WBS",
+      "en": "WBS",
+      "note": "よく出る！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "WBS（Work Breakdown Structure）とは、プロジェクトという1つの大きな作業を細かい作業単位に分割することであり、またそれを表した図です。大きな作業（Work）を分割（Breakdown）することからこのような名前がついています。",
+      "vi": "WBS (Work Breakdown Structure) là việc chia công việc lớn gọi là dự án thành đơn vị công việc nhỏ, và cũng là sơ đồ biểu diễn điều đó. Tên này được đặt vì chia (Breakdown) công việc lớn (Work).",
+      "en": "WBS (Work Breakdown Structure) is dividing one large work called project into smaller work units, and also the diagram representing it. This name comes from breaking down (Breakdown) large work (Work).",
+      "terms": [
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "細",
+          "reading": "さい"
+        },
+        {
+          "kanji": "作業単位",
+          "reading": "さぎょうたんい"
+        },
+        {
+          "kanji": "分割",
+          "reading": "ぶんかつ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "WBSの例",
+        "vi": "Ví dụ WBS",
+        "en": "WBS Example"
+      },
+      "structure": {
+        "level1": {
+          "ja": "新営業店システム開発プロジェクト",
+          "vi": "Dự án phát triển hệ thống chi nhánh kinh doanh mới",
+          "en": "New Sales Branch System Development Project"
+        },
+        "level2": [
+          {
+            "ja": "要件定義",
+            "vi": "Định nghĩa yêu cầu",
+            "en": "Requirements Definition"
+          },
+          {
+            "ja": "システム設計",
+            "vi": "Thiết kế hệ thống",
+            "en": "System Design"
+          },
+          {
+            "ja": "プログラミング",
+            "vi": "Lập trình",
+            "en": "Programming"
+          },
+          {
+            "ja": "結合テスト",
+            "vi": "Kiểm thử tích hợp",
+            "en": "Integration Test"
+          }
+        ],
+        "level3_example": [
+          {
+            "ja": "テスト計画",
+            "vi": "Kế hoạch test",
+            "en": "Test Plan"
+          },
+          {
+            "ja": "テスト実施",
+            "vi": "Thực hiện test",
+            "en": "Test Execution"
+          }
+        ],
+        "level4_example": [
+          {
+            "ja": "品質基準定義",
+            "vi": "Định nghĩa tiêu chuẩn chất lượng",
+            "en": "Quality Standards Definition"
+          },
+          {
+            "ja": "テスト計画書作成",
+            "vi": "Tạo tài liệu kế hoạch test",
+            "en": "Test Plan Document Creation"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "プロジェクトに取り掛かる際に、プロジェクトが1つの大きな塊のままでは、どのくらいの時間がかかるのか、どのくらいの費用がかかるのかを正しく見積もることができません。そこで、プロジェクトの作業を「時間やコストを見積もることができる大きさ」になるまで細かく分割します。WBSでは、上図のように、グループごとに階層状になるように分割します。通常は3～4階層程度まで分割します。",
+      "vi": "Khi bắt đầu dự án, nếu dự án còn là một khối lớn, không thể ước tính chính xác mất bao nhiêu thời gian, bao nhiêu chi phí. Do đó, chia công việc dự án thành \"kích thước có thể ước tính thời gian và chi phí\". Trong WBS, như hình trên, chia theo từng nhóm thành dạng phân cấp. Thường chia đến khoảng 3-4 cấp.",
+      "en": "When starting a project, if project remains one large block, you can't correctly estimate how much time or cost it takes. So, divide project work into 'size where time and cost can be estimated.' In WBS, as shown above, divide into hierarchical form by groups. Usually divided to about 3-4 levels.",
+      "terms": [
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "掛",
+          "reading": "か"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "塊",
+          "reading": "かい"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "費用",
+          "reading": "ひよう"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "見積",
+          "reading": "みつもり"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "細",
+          "reading": "さい"
+        },
+        {
+          "kanji": "分割",
+          "reading": "ぶんかつ"
+        },
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "階層状",
+          "reading": "かいそうじょう"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "階層程度",
+          "reading": "かいそうていど"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "WBS",
+      "reading": "だぶるびーえす",
+      "romaji": "WBS",
+      "vi": "Cấu trúc phân chia công việc",
+      "en": "Work Breakdown Structure",
+      "my": "အလုပ် ခွဲခြမ်း ဖွဲ့စည်းပုံ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true
+  }
+}

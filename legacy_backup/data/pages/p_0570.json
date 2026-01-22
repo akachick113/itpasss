@@ -1,0 +1,251 @@
+{
+  "page_id": 570,
+  "image": "p_0570.png",
+  "chapter": 15,
+  "section": "15-06",
+  "page_number": 554,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "15-06",
+      "title": {
+        "ja": "脅威への対策",
+        "vi": "Biện pháp đối phó mối đe dọa",
+        "en": "Countermeasures Against Threats"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "体を使った認証",
+        "vi": "Xác thực sử dụng cơ thể",
+        "en": "Authentication Using Body"
+      },
+      "content": {
+        "ja": "本人であることを確認する方法として最も身近なのはパスワードです。パスワードの他にも指紋や目などの体の特徴が個人の認証に使われています。",
+        "vi": "Phương pháp xác nhận bản thân gần gũi nhất là mật khẩu. Ngoài mật khẩu, đặc điểm cơ thể như vân tay hoặc mắt cũng được sử dụng để xác thực cá nhân.",
+        "en": "Most familiar method for confirming identity is password. Besides password, body features like fingerprints or eyes are used for personal authentication."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここでは、具体的なセキュリティ対策（脅威への対策）を解説します。セキュリティ対策は大きく「人的セキュリティ対策」「技術的セキュリティ対策」「物理的セキュリティ対策」の3つに分類できます。",
+      "vi": "Ở đây sẽ giải thích các biện pháp bảo mật cụ thể (biện pháp đối phó mối đe dọa). Biện pháp bảo mật được chia thành 3 loại lớn: \"Biện pháp bảo mật nhân sự\", \"Biện pháp bảo mật kỹ thuật\", \"Biện pháp bảo mật vật lý\".",
+      "en": "Here will explain specific security measures (countermeasures against threats). Security measures are broadly classified into 3: 'Human Security Measures,' 'Technical Security Measures,' 'Physical Security Measures.'",
+      "terms": [
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "対策",
+          "reading": "たいさく"
+        },
+        {
+          "kanji": "脅威",
+          "reading": "きょうい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "人的",
+          "reading": "じんてき"
+        },
+        {
+          "kanji": "技術的",
+          "reading": "ぎじゅつてき"
+        },
+        {
+          "kanji": "物理的",
+          "reading": "ぶつりてき"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では「バイオメトリクス認証」の出題頻度が断トツに高く、次いで「WAF」「SSL/TLS」「WPA2」「2要素認証」の4用語がよく出題されます。これらの用語については必ず習得しておいてください。",
+      "vi": "Trong kỳ thi IT Passport, tần suất ra đề của \"Xác thực sinh trắc học\" cao nhất, tiếp theo là 4 thuật ngữ \"WAF\", \"SSL/TLS\", \"WPA2\", \"Xác thực 2 yếu tố\" thường được ra đề. Hãy chắc chắn nắm vững các thuật ngữ này.",
+      "en": "In IT Passport exam, 'Biometric Authentication' appears most frequently, followed by 4 terms 'WAF,' 'SSL/TLS,' 'WPA2,' '2-Factor Authentication.' Make sure to master these terms.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "認証",
+          "reading": "にんしょう"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "断",
+          "reading": "だん"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "要素認証",
+          "reading": "ようそにんしょう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "習得",
+          "reading": "しゅうとく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "人的セキュリティ対策",
+      "vi": "Biện pháp bảo mật nhân sự",
+      "en": "Human Security Measures"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "人的セキュリティ対策",
+        "vi": "Biện pháp bảo mật nhân sự",
+        "en": "Human Security Measures"
+      },
+      "definition": {
+        "ja": "人的セキュリティ対策とは、人によって引き起こされる脅威への対策です。",
+        "vi": "Biện pháp bảo mật nhân sự là biện pháp đối phó với mối đe dọa do con người gây ra.",
+        "en": "Human Security Measures are countermeasures against threats caused by people."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "のぞき見防止フィルム",
+      "vi": "Film chống nhìn trộm",
+      "en": "Privacy Filter"
+    },
+    {
+      "type": "paragraph",
+      "ja": "他人の秘密の情報（パスワードなど）を肩越しに盗み見る「ショルダーハック」（p.523）への防止策として有効なのは「のぞき見防止フィルムを貼ること」です。のぞき見防止フィルムとは、PCやスマートフォンの画面に貼り付けて、のぞき見を防ぐフィルムです。このフィルムを貼ると、画面の正面以外からは画面の内容が見えなくなります。",
+      "vi": "Biện pháp phòng ngừa hiệu quả đối với \"Shoulder Hack\" (trang 523) - việc nhìn trộm qua vai thông tin bí mật của người khác (như mật khẩu) - là \"dán film chống nhìn trộm\". Film chống nhìn trộm là film dán lên màn hình PC hoặc smartphone để ngăn nhìn trộm. Khi dán film này, nội dung màn hình không thể nhìn thấy từ các hướng khác ngoài chính diện.",
+      "en": "Effective countermeasure against 'Shoulder Hack' (p.523) - peeking over shoulder at others' secret information (like passwords) - is 'applying privacy filter.' Privacy filter is film applied to PC or smartphone screen to prevent peeking. When this film is applied, screen content becomes invisible from directions other than front.",
+      "terms": [
+        {
+          "kanji": "他人",
+          "reading": "たにん"
+        },
+        {
+          "kanji": "秘密",
+          "reading": "ひみつ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "肩越",
+          "reading": "かたえつ"
+        },
+        {
+          "kanji": "盗",
+          "reading": "とう"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "防止策",
+          "reading": "ぼうしさく"
+        },
+        {
+          "kanji": "有効",
+          "reading": "ゆうこう"
+        },
+        {
+          "kanji": "見防止",
+          "reading": "けんぼうし"
+        },
+        {
+          "kanji": "貼",
+          "reading": "ちょう"
+        },
+        {
+          "kanji": "画面",
+          "reading": "がめん"
+        },
+        {
+          "kanji": "付",
+          "reading": "つき"
+        },
+        {
+          "kanji": "防",
+          "reading": "ぼう"
+        },
+        {
+          "kanji": "正面以外",
+          "reading": "しょうめんいがい"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "人的セキュリティ対策",
+      "vi": "Biện pháp bảo mật nhân sự",
+      "en": "Human Security Measures",
+      "my": "လူပိုင်း ဆိုင်ရာ လုံခြုံရေး အစီအမံများ"
+    },
+    {
+      "term": "技術的セキュリティ対策",
+      "vi": "Biện pháp bảo mật kỹ thuật",
+      "en": "Technical Security Measures",
+      "my": "နည်းပညာပိုင်း ဆိုင်ရာ လုံခြုံရေး အစီအမံများ"
+    },
+    {
+      "term": "物理的セキュリティ対策",
+      "vi": "Biện pháp bảo mật vật lý",
+      "en": "Physical Security Measures",
+      "my": "ရုပ်ပိုင်းဆိုင်ရာ လုံခြုံရေး အစီအမံများ"
+    },
+    {
+      "term": "のぞき見防止フィルム",
+      "vi": "Film chống nhìn trộm",
+      "en": "Privacy Filter",
+      "my": "ချောင်းကြည့်ကာကွယ် ဖီလင်"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

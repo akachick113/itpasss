@@ -1,0 +1,402 @@
+{
+  "page_id": 305,
+  "image": "p_0305.png",
+  "chapter": 8,
+  "section": "08-03",
+  "page_number": 289,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "サービスデスク（ヘルプデスク）",
+      "reading": "さーびすですく",
+      "vi": "Service Desk (Help Desk)",
+      "en": "Service Desk (Help Desk)",
+      "note": "サービスデスクの目的は何か？"
+    },
+    {
+      "type": "paragraph",
+      "ja": "サービスデスクとは、トラブルなどの問い合わせを受け付ける単一の窓口です。サービスデスクの目的は、サービスレベルを低下させないことです。そのため、サービスデスクは、問題管理に基づいた「根本原因の究明」よりも、インシデント管理に基づいた「迅速な回答や復旧」を優先して行います（p.287）。",
+      "vi": "Service Desk là cửa sổ duy nhất tiếp nhận yêu cầu về sự cố. Mục đích của Service Desk là không làm giảm Service Level. Do đó, Service Desk ưu tiên \"trả lời và khôi phục nhanh chóng\" dựa trên Incident Management hơn là \"tìm nguyên nhân gốc\" dựa trên Problem Management (trang 287).",
+      "en": "Service Desk is single point of contact for receiving trouble inquiries. Service Desk's purpose is not to lower Service Level. Therefore, Service Desk prioritizes 'quick response and restoration' based on Incident Management over 'root cause investigation' based on Problem Management (p.287).",
+      "terms": [
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "付",
+          "reading": "つき"
+        },
+        {
+          "kanji": "単一",
+          "reading": "たんいつ"
+        },
+        {
+          "kanji": "窓口",
+          "reading": "まどぐち"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "低下",
+          "reading": "ていか"
+        },
+        {
+          "kanji": "問題管理",
+          "reading": "もんだいかんり"
+        },
+        {
+          "kanji": "基",
+          "reading": "もと"
+        },
+        {
+          "kanji": "根本原因",
+          "reading": "こんぽんげんいん"
+        },
+        {
+          "kanji": "究明",
+          "reading": "きゅうめい"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "迅速",
+          "reading": "じんそく"
+        },
+        {
+          "kanji": "回答",
+          "reading": "かいとう"
+        },
+        {
+          "kanji": "復旧",
+          "reading": "ふっきゅう"
+        },
+        {
+          "kanji": "優先",
+          "reading": "ゆうせん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "具体的な作業内容としては、利用者のトラブル対応や、問い合わせの記録と整理、適切な部署への引継ぎ、対応結果の記録などを行います。",
+      "vi": "Nội dung công việc cụ thể là xử lý sự cố của người dùng, ghi chép và sắp xếp yêu cầu, chuyển giao cho bộ phận thích hợp, ghi chép kết quả xử lý.",
+      "en": "Specific work includes handling user troubles, recording and organizing inquiries, handing over to appropriate departments, recording response results.",
+      "terms": [
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "作業内容",
+          "reading": "さぎょうないよう"
+        },
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "記録",
+          "reading": "きろく"
+        },
+        {
+          "kanji": "整理",
+          "reading": "せいり"
+        },
+        {
+          "kanji": "適切",
+          "reading": "てきせつ"
+        },
+        {
+          "kanji": "部署",
+          "reading": "ぶしょ"
+        },
+        {
+          "kanji": "引継",
+          "reading": "ひきつぎ"
+        },
+        {
+          "kanji": "対応結果",
+          "reading": "たいおうけっか"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "サービスデスクのイメージ",
+        "vi": "Hình ảnh Service Desk",
+        "en": "Service Desk Image"
+      },
+      "description": {
+        "ja": "利用者からの問い合わせを受け付け、サポート担当者が対応し、必要に応じてエスカレーションを行う",
+        "vi": "Tiếp nhận yêu cầu từ người dùng, nhân viên hỗ trợ xử lý, escalation nếu cần",
+        "en": "Receive inquiries from users, support staff responds, escalate as needed"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "エスカレーション",
+      "reading": "えすかれーしょん",
+      "vi": "Escalation",
+      "en": "Escalation"
+    },
+    {
+      "type": "paragraph",
+      "ja": "エスカレーションとは、ヘルプデスクでは対応しきれない「技術的に高度な問い合わせ」を、上位の管理者や技術部門などに引き継ぐことです。一次受付、二次受付、三次受付と、バトンを引き継いでいきます。",
+      "vi": "Escalation là chuyển giao \"yêu cầu kỹ thuật cao\" mà Help Desk không thể xử lý được cho quản lý cấp cao hoặc bộ phận kỹ thuật. Chuyển baton từ tiếp nhận cấp 1, cấp 2, cấp 3.",
+      "en": "Escalation is handing over 'technically advanced inquiries' that Help Desk cannot handle to upper management or technical departments. Passing baton from 1st level, 2nd level, 3rd level reception.",
+      "terms": [
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "技術的",
+          "reading": "ぎじゅつてき"
+        },
+        {
+          "kanji": "高度",
+          "reading": "こうど"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "上位",
+          "reading": "じょうい"
+        },
+        {
+          "kanji": "管理者",
+          "reading": "かんりしゃ"
+        },
+        {
+          "kanji": "技術部門",
+          "reading": "ぎじゅつぶもん"
+        },
+        {
+          "kanji": "引",
+          "reading": "ひき"
+        },
+        {
+          "kanji": "継",
+          "reading": "けい"
+        },
+        {
+          "kanji": "一次受付",
+          "reading": "いちじうけつけ"
+        },
+        {
+          "kanji": "二次受付",
+          "reading": "にじうけつけ"
+        },
+        {
+          "kanji": "三次受付",
+          "reading": "さんじうけつけ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "サービスサポートの関連図",
+        "vi": "Sơ đồ liên quan Service Support",
+        "en": "Service Support Relationship Diagram"
+      },
+      "flow": [
+        {
+          "ja": "問い合わせ",
+          "vi": "Yêu cầu",
+          "en": "Inquiry"
+        },
+        {
+          "ja": "サポート",
+          "vi": "Support",
+          "en": "Support"
+        },
+        {
+          "ja": "エスカレーション",
+          "vi": "Escalation",
+          "en": "Escalation"
+        },
+        {
+          "ja": "上位部署",
+          "vi": "Bộ phận cấp cao",
+          "en": "Upper Department"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ユーザーはサービスデスクに対して問い合わせを行います。サービスデスクが「単一の窓口」と呼ばれるのは、サービスデスクがすべての問い合わせを一括して受け付けるからです。",
+      "vi": "Người dùng gửi yêu cầu đến Service Desk. Service Desk được gọi là \"cửa sổ duy nhất\" vì Service Desk tiếp nhận tất cả yêu cầu cùng một nơi.",
+      "en": "Users make inquiries to Service Desk. Service Desk is called 'single point of contact' because Service Desk receives all inquiries together.",
+      "terms": [
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "単一",
+          "reading": "たんいつ"
+        },
+        {
+          "kanji": "窓口",
+          "reading": "まどぐち"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "一括",
+          "reading": "いっかつ"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "付",
+          "reading": "つき"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "しかし、サービスデスクのスタッフがすべての問い合わせに回答できるわけではありません。中には対応できないものも含まれます。",
+      "vi": "Tuy nhiên, nhân viên Service Desk không thể trả lời được tất cả yêu cầu. Có những yêu cầu không thể xử lý được.",
+      "en": "However, Service Desk staff cannot answer all inquiries. Some cannot be handled.",
+      "terms": [
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "回答",
+          "reading": "かいとう"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "サービスデスクでは対応できない問い合わせがあった場合、適切な部門にエスカ",
+      "vi": "Khi có yêu cầu mà Service Desk không thể xử lý, sẽ escalation đến bộ phận thích hợp",
+      "en": "When there are inquiries Service Desk cannot handle, they escalate to appropriate department",
+      "terms": [
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "適切",
+          "reading": "てきせつ"
+        },
+        {
+          "kanji": "部門",
+          "reading": "ぶもん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "サービスデスク",
+      "reading": "さーびすですく",
+      "romaji": "Service Desk",
+      "vi": "Bàn dịch vụ",
+      "en": "Service Desk",
+      "my": "ဆားဗစ် စားပွဲ"
+    },
+    {
+      "kanji": "エスカレーション",
+      "reading": "えすかれーしょん",
+      "romaji": "Escalation",
+      "vi": "Nâng cấp xử lý",
+      "en": "Escalation",
+      "my": "အဆင့်မြှင့်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true
+  }
+}

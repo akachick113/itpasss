@@ -1,0 +1,164 @@
+{
+    "page_id": 237,
+    "image": "p_0237.png",
+    "chapter": 5,
+    "section": "practice_answers",
+    "page_number": 221,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "5-19",
+            "answer": "ア",
+            "explanation": {
+                "ja": "ROIが100%を超えると採算性があるといえます。ROIは「利益÷投資額」で算出できます。AとBが100%を超えるので採算性があるといえます。よって正解は「ア」です。",
+                "vi": "Khi ROI vượt quá 100% có thể nói là có tính sinh lợi. ROI được tính bằng \"Lợi nhuận ÷ Số tiền đầu tư\". A và B vượt quá 100% nên có tính sinh lợi. Do đó đáp án đúng là \"ア\".",
+                "en": "When ROI exceeds 100%, it can be said to be profitable. ROI is calculated as 'Profit ÷ Investment.' A and B exceed 100% so they are profitable. Therefore, the correct answer is 'ア.'"
+            },
+            "calculation": {
+                "ja": [
+                    "【案件A】利益：80×5年、投資：250+250×10%×5年、ROI：400÷375=107%",
+                    "【案件B】利益：140×5年、投資：450+450×10%×5年、ROI：700÷675=104%",
+                    "【案件C】利益：200×5年、投資：700+700×10%×5年、ROI：1000÷1050=95%"
+                ],
+                "vi": [
+                    "【Dự án A】Lợi nhuận: 80×5 năm, Đầu tư: 250+250×10%×5 năm, ROI: 400÷375=107%",
+                    "【Dự án B】Lợi nhuận: 140×5 năm, Đầu tư: 450+450×10%×5 năm, ROI: 700÷675=104%",
+                    "【Dự án C】Lợi nhuận: 200×5 năm, Đầu tư: 700+700×10%×5 năm, ROI: 1000÷1050=95%"
+                ],
+                "en": [
+                    "[Project A] Profit: 80×5 years, Investment: 250+250×10%×5 years, ROI: 400÷375=107%",
+                    "[Project B] Profit: 140×5 years, Investment: 450+450×10%×5 years, ROI: 700÷675=104%",
+                    "[Project C] Profit: 200×5 years, Investment: 700+700×10%×5 years, ROI: 1000÷1050=95%"
+                ]
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-20",
+            "answer": "エ",
+            "explanation": {
+                "ja": "ソフトウェアライフサイクルは主に（1）企画プロセス、（2）要件定義プロセス、（3）開発プロセス、（4）運用プロセス、（5）保守プロセスの順になります。よって、aに入るのはエの要件定義プロセスになります。",
+                "vi": "Vòng đời phần mềm chủ yếu theo thứ tự (1) Quy trình lập kế hoạch, (2) Quy trình định nghĩa yêu cầu, (3) Quy trình phát triển, (4) Quy trình vận hành, (5) Quy trình bảo trì. Do đó, điền vào a là エ - Quy trình định nghĩa yêu cầu.",
+                "en": "Software lifecycle mainly follows the order of (1) Planning Process, (2) Requirements Definition Process, (3) Development Process, (4) Operation Process, (5) Maintenance Process. Therefore, 'a' is filled with エ - Requirements Definition Process."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-21",
+            "answer": "エ",
+            "explanation": {
+                "ja": "要件定義プロセスでは、ユーザーのニーズを聞きます。",
+                "vi": "Trong quy trình định nghĩa yêu cầu, lắng nghe nhu cầu của người dùng.",
+                "en": "In the requirements definition process, user needs are listened to."
+            },
+            "choice_explanations": [
+                {
+                    "label": "ア",
+                    "ja": "企画プロセスに含まれる作業です。",
+                    "vi": "Đây là công việc thuộc quy trình lập kế hoạch.",
+                    "en": "This is work included in the planning process."
+                },
+                {
+                    "label": "イ",
+                    "ja": "開発プロセスに含まれる作業です。",
+                    "vi": "Đây là công việc thuộc quy trình phát triển.",
+                    "en": "This is work included in the development process."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "企画プロセスに含まれる作業です。",
+                    "vi": "Đây là công việc thuộc quy trình lập kế hoạch.",
+                    "en": "This is work included in the planning process."
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-22",
+            "answer": "エ",
+            "explanation": {
+                "ja": "要件定義プロセスでは、業務要件を洗い出します。業務要件とは、日々の仕事を行うために必要となる条件で、業務の手順、ルール、権限などです。",
+                "vi": "Trong quy trình định nghĩa yêu cầu, phát hiện yêu cầu nghiệp vụ. Yêu cầu nghiệp vụ là điều kiện cần thiết để thực hiện công việc hàng ngày như quy trình nghiệp vụ, quy tắc, quyền hạn.",
+                "en": "In the requirements definition process, business requirements are identified. Business requirements are conditions needed to perform daily work, such as procedures, rules, and permissions."
+            },
+            "choice_explanations": [
+                {
+                    "label": "ア",
+                    "ja": "システム化計画の立案プロセスの不備に起因する問題です。",
+                    "vi": "Đây là vấn đề phát sinh do thiếu sót trong quy trình lập kế hoạch hệ thống hóa.",
+                    "en": "This is a problem caused by deficiencies in the system planning process."
+                },
+                {
+                    "label": "イ",
+                    "ja": "システム化構想の立案プロセスの不備に起因する問題です。",
+                    "vi": "Đây là vấn đề phát sinh do thiếu sót trong quy trình lập ý tưởng hệ thống hóa.",
+                    "en": "This is a problem caused by deficiencies in the system concept formulation process."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "調達（取得プロセス）の不備に起因する問題です。",
+                    "vi": "Đây là vấn đề phát sinh do thiếu sót trong quy trình mua sắm (quy trình thu mua).",
+                    "en": "This is a problem caused by deficiencies in the procurement (acquisition process)."
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-23",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "RFPは「Request For Proposal」（提案依頼書）の略です。提案書の提出を目的としているのはウだけです。",
+                "vi": "RFP là viết tắt của \"Request For Proposal\" (Tài liệu yêu cầu đề xuất). Chỉ có ウ có mục đích nộp đề xuất.",
+                "en": "RFP stands for 'Request For Proposal.' Only ウ has the purpose of submitting proposals."
+            },
+            "choice_explanations": [
+                {
+                    "label": "ア",
+                    "ja": "RFI（Request For Information）の目的です。",
+                    "vi": "Đây là mục đích của RFI (Request For Information).",
+                    "en": "This is the purpose of RFI (Request For Information)."
+                },
+                {
+                    "label": "エ",
+                    "ja": "NDA（Non-Disclosure Agreement）の目的です。",
+                    "vi": "Đây là mục đích của NDA (Non-Disclosure Agreement).",
+                    "en": "This is the purpose of NDA (Non-Disclosure Agreement)."
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-24",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "「技術情報などの提供を依頼」というキーワードからRFIが正解だとわかります。RFI（Request For Information：情報提供依頼書）は、ベンダーに対して、ベンダーの実績や技術、経験などの情報を送るように要求する文書です。",
+                "vi": "Từ keyword \"yêu cầu cung cấp thông tin kỹ thuật\", có thể biết RFI là đáp án đúng. RFI (Request For Information: Tài liệu yêu cầu cung cấp thông tin) là tài liệu yêu cầu vendor gửi thông tin về thành tích, kỹ thuật, kinh nghiệm của vendor.",
+                "en": "From the keyword 'request for technical information,' RFI is the correct answer. RFI (Request For Information) is a document requesting vendors to send information about their achievements, technology, and experience."
+            },
+            "choice_explanations": [
+                {
+                    "label": "ア",
+                    "ja": "EDI（Electronic Data Interchange）は、インターネットを使って請求書などの書類を企業間でやりとりすることです。",
+                    "vi": "EDI (Electronic Data Interchange) là trao đổi tài liệu như hóa đơn giữa các doanh nghiệp qua internet.",
+                    "en": "EDI (Electronic Data Interchange) is exchanging documents like invoices between companies using the internet."
+                },
+                {
+                    "label": "イ",
+                    "ja": "KPI（Key Performance Indicator：重要業績評価指標）とは、戦略目標の達成状況を表す指標です。",
+                    "vi": "KPI (Key Performance Indicator: Chỉ số đánh giá hiệu suất quan trọng) là chỉ số thể hiện tình trạng đạt được mục tiêu chiến lược.",
+                    "en": "KPI (Key Performance Indicator) is an indicator showing the status of achieving strategic goals."
+                },
+                {
+                    "label": "エ",
+                    "ja": "RFP（Request For Proposal：提案依頼書）は、発注候補のベンダーに対して、具体的なシステム設計や機器構成、受注条件などを記載した提案書の提出を依頼する文書です。",
+                    "vi": "RFP (Request For Proposal: Tài liệu yêu cầu đề xuất) là tài liệu yêu cầu vendor ứng viên đặt hàng nộp đề xuất ghi thiết kế hệ thống cụ thể, cấu hình thiết bị, điều kiện nhận đơn hàng.",
+                    "en": "RFP (Request For Proposal) is a document requesting candidate vendors to submit proposals describing specific system design, equipment configuration, and order conditions."
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 6
+    }
+}

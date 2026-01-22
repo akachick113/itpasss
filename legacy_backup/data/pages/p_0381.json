@@ -1,0 +1,331 @@
+{
+  "page_id": 381,
+  "image": "p_0381.png",
+  "chapter": 9,
+  "section": "09-09",
+  "page_number": 365,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "以下は2つの値の合計を戻す関数のプログラム例です。",
+      "vi": "Sau đây là ví dụ chương trình hàm trả về tổng của 2 giá trị.",
+      "en": "Following is example program of function returning sum of 2 values.",
+      "terms": [
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "合計",
+          "reading": "ごうけい"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        },
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】関数（戻り値あり）",
+        "vi": "【Ví dụ chương trình】Hàm (có giá trị trả về)",
+        "en": "[Program Example] Function (with return value)"
+      },
+      "code": "○sum(整数型: x, 整数型: y)  ←①\n    return x + y\n\n整数型: result ← sum(3, 2)  ←②\nresultを出力する  ←③",
+      "annotations": [
+        {
+          "number": "①",
+          "ja": "関数定義",
+          "vi": "Định nghĩa hàm",
+          "en": "Function definition"
+        },
+        {
+          "number": "②",
+          "ja": "関数呼び出しと戻り値の代入",
+          "vi": "Gọi hàm và gán giá trị trả về",
+          "en": "Function call and return value assignment"
+        },
+        {
+          "number": "③",
+          "ja": "結果出力",
+          "vi": "Xuất kết quả",
+          "en": "Output result"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記の関数sumは、引数xと引数yをたし算した結果を戻り値として返します①。このプログラムのポイントは、関数sumを呼び出している箇所です②。この一行で以下の2つのことを行っています。",
+      "vi": "Hàm sum trên trả về kết quả cộng đối số x và đối số y làm giá trị trả về①. Điểm quan trọng của chương trình này là nơi gọi hàm sum②. Một dòng này thực hiện 2 việc sau.",
+      "en": "Above sum function returns result of adding argument x and argument y as return value①. Point of this program is where sum function is called②. This one line performs following 2 things.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "引数",
+          "reading": "ひきすう"
+        },
+        {
+          "kanji": "算",
+          "reading": "さん"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "箇所",
+          "reading": "かしょ"
+        },
+        {
+          "kanji": "一行",
+          "reading": "いちぎょう"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        {
+          "ja": "引数に3と2を渡して関数sumを呼び出す",
+          "vi": "Gọi hàm sum với đối số 3 và 2",
+          "en": "Call sum function passing 3 and 2 as arguments"
+        },
+        {
+          "ja": "そして、関数sumの実行結果（x + yの計算結果）を、整数型の変数resultに代入する",
+          "vi": "Và gán kết quả thực hiện hàm sum (kết quả tính x + y) vào biến result kiểu số nguyên",
+          "en": "And assign sum function execution result (x + y calculation result) to integer type variable result"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "関数の呼び出しと同時に変数を初期化して、実行結果を代入しているところがこのプログラムのポイントになります。この点をしっかりと理解しておいてください。",
+      "vi": "Điểm quan trọng của chương trình này là khởi tạo biến đồng thời với gọi hàm và gán kết quả thực hiện. Hãy hiểu kỹ điểm này.",
+      "en": "Point of this program is initializing variable simultaneously with function call and assigning execution result. Please understand this point well.",
+      "terms": [
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "同時",
+          "reading": "どうじ"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "初期化",
+          "reading": "しょきか"
+        },
+        {
+          "kanji": "実行結果",
+          "reading": "じっこうけっか"
+        },
+        {
+          "kanji": "代入",
+          "reading": "だいにゅう"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "最終行では、変数resultの内容を出力しています③。上記の計算結果は「5」なので、以下のように出力されます。",
+      "vi": "Dòng cuối xuất nội dung biến result③. Vì kết quả tính toán trên là \"5\" nên xuất ra như sau.",
+      "en": "Final line outputs variable result contents③. Since above calculation result is '5,' outputs as follows.",
+      "terms": [
+        {
+          "kanji": "最終行",
+          "reading": "さいしゅうぎょう"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "計算結果",
+          "reading": "けいさんけっか"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        }
+      ]
+    },
+    {
+      "type": "output_example",
+      "title": {
+        "ja": "【出力例】",
+        "vi": "【Ví dụ xuất】",
+        "en": "[Output Example]"
+      },
+      "output": "5"
+    },
+    {
+      "type": "paragraph",
+      "ja": "以上が関数の仕組みです。関数を使って複数の命令を1つにまとめておけば、プログラムの実行時にその関数を呼び出すだけで、複数の命令を一度に実行できます。そのため、重複する命令を何度も書かなくてすみ、プログラムがすっきりします。",
+      "vi": "Trên đây là cơ chế của hàm. Nếu gộp nhiều lệnh thành một dùng hàm, khi thực hiện chương trình chỉ cần gọi hàm đó là có thể thực hiện nhiều lệnh cùng lúc. Do đó, không cần viết lệnh trùng lặp nhiều lần, chương trình gọn gàng hơn.",
+      "en": "Above is function mechanism. If grouping multiple commands into one using function, when executing program just calling that function can execute multiple commands at once. Therefore, don't need to write duplicate commands many times, program becomes cleaner.",
+      "terms": [
+        {
+          "kanji": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "命令",
+          "reading": "めいれい"
+        },
+        {
+          "kanji": "実行時",
+          "reading": "じっこうじ"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "一度",
+          "reading": "いちど"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "重複",
+          "reading": "ちょうふく"
+        },
+        {
+          "kanji": "何度",
+          "reading": "なんど"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！手続（てつづき）",
+        "vi": "Chi tiết hơn! Thủ tục (procedure)",
+        "en": "More Details! Procedure"
+      },
+      "content": {
+        "ja": "ITパスポート試験で掲載される擬似言語の表には「手続」という用語があります。手続とは「戻り値を持たない関数」です。",
+        "vi": "Trong bảng ngôn ngữ giả của kỳ thi IT Passport có thuật ngữ \"thủ tục\". Thủ tục là \"hàm không có giá trị trả về\".",
+        "en": "In IT Passport exam pseudocode table, there's term 'procedure.' Procedure is 'function without return value.'"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "手続",
+      "reading": "てつづき",
+      "vi": "Thủ tục",
+      "en": "Procedure",
+      "my": "လုပ်ထုံးလုပ်နည်း"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

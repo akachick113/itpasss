@@ -1,0 +1,131 @@
+{
+    "page_id": 293,
+    "image": "p_0293.png",
+    "chapter": 7,
+    "section": "answers",
+    "page_number": 277,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "7-3",
+            "correct_answer": "エ",
+            "explanation": {
+                "ja": "a～dについて確認します。",
+                "vi": "Kiểm tra a đến d.",
+                "en": "Check a through d."
+            },
+            "choices_explanation": {
+                "a": {
+                    "ja": "誤りです。DFD（Data Flow Diagram）は、データの流れを表す図です。この図は主に業務プロセスを分析するために使われます。",
+                    "vi": "Sai. DFD (Data Flow Diagram) là sơ đồ biểu diễn luồng dữ liệu. Sơ đồ này chủ yếu được dùng để phân tích quy trình nghiệp vụ.",
+                    "en": "Incorrect. DFD (Data Flow Diagram) is diagram showing data flow. This diagram is mainly used to analyze business processes."
+                },
+                "b": {
+                    "ja": "誤りです。回帰分析は、過去のデータから相関関係を分析する統計手法です。スケジュール作成には直接関係しません。",
+                    "vi": "Sai. Hồi quy phân tích là phương pháp thống kê phân tích mối tương quan từ dữ liệu quá khứ. Không liên quan trực tiếp đến tạo lịch trình.",
+                    "en": "Incorrect. Regression analysis is statistical method analyzing correlation from past data. Not directly related to schedule creation."
+                },
+                "c": {
+                    "ja": "正しい。クリティカルパス法は、プロジェクトにおいて最も時間のかかる経路を特定する手法です。この手法では、プロジェクトのスケジュールを作成するために、全作業を完了するのに必要な日数を特定します。",
+                    "vi": "Đúng. Critical Path Method là phương pháp xác định đường đi mất nhiều thời gian nhất trong dự án. Phương pháp này xác định số ngày cần thiết để hoàn thành tất cả công việc để tạo lịch trình dự án.",
+                    "en": "Correct. Critical Path Method is technique to identify path taking most time in project. This method identifies days needed to complete all work to create project schedule."
+                },
+                "d": {
+                    "ja": "正しい。プレシデンスダイアグラム法は、作業間の依存関係を図示する手法です。この手法では、スケジュールを作成するために、作業の順序と期間を視覚的に表します。",
+                    "vi": "Đúng. Precedence Diagramming Method là phương pháp biểu đồ hóa mối quan hệ phụ thuộc giữa các công việc. Phương pháp này biểu diễn trực quan thứ tự và thời gian công việc để tạo lịch trình.",
+                    "en": "Correct. Precedence Diagramming Method is technique to diagram dependency relationships between work. This method visually represents work order and duration to create schedule."
+                }
+            },
+            "summary": {
+                "ja": "以上から、スケジュール作成に用いる技法はcとdです。",
+                "vi": "Từ trên, kỹ thuật dùng để tạo lịch trình là c và d.",
+                "en": "From above, techniques used for schedule creation are c and d."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "7-4",
+            "correct_answer": "ア",
+            "explanation": {
+                "ja": "プロジェクトスコープマネジメントでは、WBSを作成してプロジェクトにかかる時間やコストを見積もります。",
+                "vi": "Trong Project Scope Management, tạo WBS và ước tính thời gian và chi phí cho dự án.",
+                "en": "In Project Scope Management, create WBS and estimate time and cost for project."
+            },
+            "choices_explanation": {
+                "イ": {
+                    "ja": "プロジェクト資源マネジメントで実施する活動です。",
+                    "vi": "Là hoạt động thực hiện trong Project Resource Management.",
+                    "en": "This is activity done in Project Resource Management."
+                },
+                "ウ": {
+                    "ja": "プロジェクトスケジュールマネジメントで実施する活動です。",
+                    "vi": "Là hoạt động thực hiện trong Project Schedule Management.",
+                    "en": "This is activity done in Project Schedule Management."
+                },
+                "エ": {
+                    "ja": "プロジェクト調達マネジメントで実施する活動です。",
+                    "vi": "Là hoạt động thực hiện trong Project Procurement Management.",
+                    "en": "This is activity done in Project Procurement Management."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "7-5",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "「階層的に要素分解」というキーワードから、WBSの説明であると判断できます。",
+                "vi": "Từ từ khóa \"phân giải phần tử theo phân cấp\", có thể phán đoán đây là giải thích về WBS.",
+                "en": "From keyword 'hierarchically decompose elements,' this can be determined as WBS explanation."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "DFD（Data Flow Diagram）とは、データの流れを表す図で、データに着目して業務プロセスを分析する際に使用します。",
+                    "vi": "DFD (Data Flow Diagram) là sơ đồ biểu diễn luồng dữ liệu, được sử dụng khi phân tích quy trình nghiệp vụ tập trung vào dữ liệu.",
+                    "en": "DFD (Data Flow Diagram) is diagram showing data flow, used when analyzing business processes focusing on data."
+                },
+                "ウ": {
+                    "ja": "アローダイアグラムとは、作業の流れを矢印を使って表した図です。",
+                    "vi": "Arrow Diagram là sơ đồ biểu diễn luồng công việc bằng mũi tên.",
+                    "en": "Arrow Diagram is diagram showing work flow using arrows."
+                },
+                "エ": {
+                    "ja": "マイルストーンチャートとは、スケジュールに重要な節目（マイルストーン）を書き込んだ表です。",
+                    "vi": "Milestone Chart là bảng ghi các mốc quan trọng (milestone) vào lịch trình.",
+                    "en": "Milestone Chart is table with important milestones written in schedule."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "7-6",
+            "correct_answer": "ア",
+            "explanation": {
+                "ja": "WBSでは以下の条件を満たすまで工程を細分化します。\n・見積もりができる（コスト）\n・作業工数が計算できる（スケジュール）\n\nつまり、スコープ（作業範囲）を洗い出すときは、残りの2つの制約条件であるコストとスケジュールが計算できるところまで作業を分解します。",
+                "vi": "Trong WBS, chia nhỏ công đoạn cho đến khi đáp ứng các điều kiện sau.\n・Có thể ước tính (Chi phí)\n・Có thể tính công số (Lịch trình)\n\nNghĩa là, khi rà soát Scope (phạm vi công việc), phân giải công việc đến mức có thể tính 2 điều kiện ràng buộc còn lại là Cost và Schedule.",
+                "en": "In WBS, subdivide processes until following conditions are met.\n・Can estimate (Cost)\n・Can calculate work man-days (Schedule)\n\nThat is, when identifying Scope (work scope), decompose work to point where remaining 2 constraints of Cost and Schedule can be calculated."
+            },
+            "choices_explanation": {
+                "イ": {
+                    "ja": "要素分解の最下位の詳細さは、プロジェクトの規模によって異なります。",
+                    "vi": "Mức độ chi tiết thấp nhất của phân giải khác nhau tùy theo quy mô dự án.",
+                    "en": "Lowest decomposition detail level differs depending on project size."
+                },
+                "ウ": {
+                    "ja": "要素分解の深さは要素成果物によって異なります。",
+                    "vi": "Độ sâu phân giải khác nhau tùy theo thành quả phần tử.",
+                    "en": "Decomposition depth differs depending on element deliverables."
+                },
+                "エ": {
+                    "ja": "細かくすればするほど、管理する手間がかかり、作業効率が下がります。",
+                    "vi": "Càng chi tiết thì càng tốn công quản lý, hiệu suất công việc giảm.",
+                    "en": "Finer decomposition takes more management effort, reducing work efficiency."
+                }
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 4
+    }
+}

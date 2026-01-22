@@ -1,0 +1,135 @@
+{
+    "page_id": 498,
+    "image": "p_0498.png",
+    "chapter": 13,
+    "section": "practice",
+    "page_number": 482,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "13-9",
+            "answer": "ア",
+            "explanation": {
+                "ja": "4つの条件を図に記入すると以下のようになります。図と矢印の向きが同じになる選択肢アが正解です。",
+                "vi": "Khi điền 4 điều kiện vào hình sẽ như sau. Đáp án ア có hình và hướng mũi tên giống nhau là đáp án đúng.",
+                "en": "When filling 4 conditions in diagram, becomes as follows. Choice ア with same diagram and arrow direction is correct answer."
+            },
+            "diagram_explanation": {
+                "condition_1": {
+                    "ja": "①出版社は、一つの出版社とだけ契約している。",
+                    "vi": "①Nhà xuất bản chỉ ký hợp đồng với 1 nhà xuất bản.",
+                    "en": "①Publisher contracts with only 1 publisher."
+                },
+                "condition_2": {
+                    "ja": "②著者は、複数の著者と契約している。",
+                    "vi": "②Tác giả ký hợp đồng với nhiều tác giả.",
+                    "en": "②Author contracts with multiple authors."
+                },
+                "condition_3": {
+                    "ja": "③1冊の本は、1人の著者が書いている。",
+                    "vi": "③1 cuốn sách do 1 tác giả viết.",
+                    "en": "③1 book is written by 1 author."
+                },
+                "condition_4": {
+                    "ja": "④著者は、複数の本を書いている。",
+                    "vi": "④Tác giả viết nhiều sách.",
+                    "en": "④Author writes multiple books."
+                },
+                "result": "出版社 ──▷ 著者 ──▷ 本"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "13-10",
+            "answer": "ア",
+            "explanation": {
+                "ja": "トランザクションが完了した際に、データベースの更新内容を確定することを「コミット」といいます。",
+                "vi": "Việc xác định nội dung cập nhật cơ sở dữ liệu khi giao dịch hoàn thành được gọi là \"Commit\".",
+                "en": "Confirming database update content when transaction completes is called 'Commit.'"
+            },
+            "option_explanations": [
+                {
+                    "label": "イ",
+                    "ja": "スキーマとは、データベースに格納するデータの種類や大きさ、他のデータとの関連などを定義したものです。",
+                    "vi": "Schema là định nghĩa về loại và kích thước dữ liệu lưu trong cơ sở dữ liệu, quan hệ với dữ liệu khác.",
+                    "en": "Schema is definition of data types, sizes stored in database, relationships with other data."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ロールフォワードとは、データベースに障害が起きたときに、障害発生直前に行ったトランザクション完了時点まで状態を復帰させることです。",
+                    "vi": "Rollforward là việc khôi phục trạng thái đến thời điểm hoàn thành giao dịch được thực hiện ngay trước khi sự cố xảy ra khi có sự cố cơ sở dữ liệu.",
+                    "en": "Rollforward is restoring state to transaction completion point done just before failure when database failure occurs."
+                },
+                {
+                    "label": "エ",
+                    "ja": "ロックとは、データベースに対するデータの読み書きを一時的に制限する機能です。",
+                    "vi": "Lock là chức năng tạm thời hạn chế đọc ghi dữ liệu đối với cơ sở dữ liệu.",
+                    "en": "Lock is function temporarily restricting data read/write to database."
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "13-11",
+            "answer": "エ",
+            "explanation": {
+                "ja": "トランザクションとは「関連する複数の処理のまとまり」です。また、ログファイルとは「トランザクションの前後の状態を保存したファイル」です。",
+                "vi": "Giao dịch là \"tập hợp các xử lý liên quan\". Ngoài ra, tệp nhật ký là \"tệp lưu trạng thái trước và sau giao dịch\".",
+                "en": "Transaction is 'collection of related processes.' Also, log file is 'file saving state before and after transaction.'"
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "ja": "コミットではなく、ロールバックに関する記述です。",
+                    "vi": "Đây là mô tả về Rollback, không phải Commit.",
+                    "en": "This is description about Rollback, not Commit."
+                },
+                {
+                    "label": "イ",
+                    "ja": "排他制御ではなく、コミットに関する記述です。",
+                    "vi": "Đây là mô tả về Commit, không phải điều khiển loại trừ.",
+                    "en": "This is description about Commit, not exclusive control."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ロールバックではなく、排他制御に関する記述です。",
+                    "vi": "Đây là mô tả về điều khiển loại trừ, không phải Rollback.",
+                    "en": "This is description about exclusive control, not Rollback."
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "13-12",
+            "answer": "ア",
+            "explanation": {
+                "ja": "DBMSにおいて、データの検索を高速に行う目的で設定するのは、インデックスです。インデックスは「本の索引」と同様の仕組みであり、DBMSに設定することで、データの検索を高速化することができます。",
+                "vi": "Trong DBMS, cái được đặt với mục đích tìm kiếm dữ liệu nhanh là Index. Index có cơ chế tương tự \"mục lục sách\", và bằng cách đặt trong DBMS, có thể tăng tốc tìm kiếm dữ liệu.",
+                "en": "In DBMS, what is set for purpose of fast data search is Index. Index has same mechanism as 'book index,' and by setting in DBMS, can speed up data search."
+            },
+            "option_explanations": [
+                {
+                    "label": "イ",
+                    "ja": "外部キーは、別の表の主キーを参照する列です。",
+                    "vi": "Khóa ngoại là cột tham chiếu khóa chính của bảng khác.",
+                    "en": "Foreign key is column referencing primary key of another table."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "主キーは、表の中からある特定の行を識別するための列です。",
+                    "vi": "Khóa chính là cột để nhận dạng một hàng cụ thể từ bảng.",
+                    "en": "Primary key is column to identify specific row from table."
+                },
+                {
+                    "label": "エ",
+                    "ja": "スキーマは、データの構造や定義を表す設計情報です。",
+                    "vi": "Schema là thông tin thiết kế biểu thị cấu trúc và định nghĩa dữ liệu.",
+                    "en": "Schema is design information representing data structure and definitions."
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "is_answer_explanation": true
+    }
+}

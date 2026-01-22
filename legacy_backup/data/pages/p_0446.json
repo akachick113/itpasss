@@ -1,0 +1,227 @@
+{
+  "page_id": 446,
+  "image": "p_0446.png",
+  "chapter": 12,
+  "section": "12-02",
+  "page_number": 430,
+  "content": [
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "英語の意味がわかれば用語の意味もわかる",
+        "vi": "Nếu hiểu nghĩa tiếng Anh thì cũng hiểu nghĩa thuật ngữ",
+        "en": "Understanding English Meaning Helps Understand Term",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ルートディレクトリの「ルート（Root）」とは、「根っこ」という意味です。このことから、すべてのツリー構造の最上位に位置するディレクトリであることがわかります。同様に、カレントディレクトリの「カレント（Current）」とは「現在の」という意味です。つまり、現在、ユーザーが操作しているディレクトリであることがわかります。",
+        "vi": "\"Root\" trong Root Directory có nghĩa là \"gốc rễ\". Từ đây có thể hiểu đây là thư mục ở vị trí cao nhất của tất cả cấu trúc cây. Tương tự, \"Current\" trong Current Directory có nghĩa là \"hiện tại\". Nghĩa là có thể hiểu đây là thư mục mà người dùng hiện đang thao tác.",
+        "en": "'Root' in Root Directory means 'root.' From this, can understand it's directory at top of all tree structures. Similarly, 'Current' in Current Directory means 'present.' Meaning can understand it's directory user is currently operating."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "「パス」によるファイルの指定",
+      "vi": "Chỉ định tệp bằng \"Đường dẫn\"",
+      "en": "Specifying Files by 'Path'"
+    },
+    {
+      "type": "paragraph",
+      "ja": "WindowsやMacなどでは、マウスを操作することでディレクトリ（フォルダ）の階層を上下に行き来できるのですが、その他にも、キーボードで直接「パス」という文字列を指定することで、目的のディレクトリへ移動する方法もあります。",
+      "vi": "Trong Windows hoặc Mac, v.v., có thể di chuyển lên xuống phân cấp thư mục bằng cách thao tác chuột, nhưng ngoài ra còn có phương pháp di chuyển đến thư mục mục tiêu bằng cách chỉ định trực tiếp chuỗi \"path\" bằng bàn phím.",
+      "en": "In Windows or Mac, etc., can move up and down directory hierarchy by operating mouse, but also method to move to target directory by directly specifying 'path' string with keyboard.",
+      "terms": [
+        {
+          "kanji": "操作",
+          "reading": "そうさ"
+        },
+        {
+          "kanji": "階層",
+          "reading": "かいそう"
+        },
+        {
+          "kanji": "上下",
+          "reading": "じょうげ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "来",
+          "reading": "らい"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "直接",
+          "reading": "ちょくせつ"
+        },
+        {
+          "kanji": "文字列",
+          "reading": "もじれつ"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "移動",
+          "reading": "いどう"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、この「パスを使って目的のディレクトリやファイルを指定する方法」が必ずといっていいほど出題されます。そのため、ここでその方法を詳しく解説します。必ず習得してください。",
+      "vi": "Trong kỳ thi IT Passport, \"phương pháp chỉ định thư mục hoặc tệp mục tiêu bằng đường dẫn\" này hầu như chắc chắn sẽ được ra đề. Vì vậy, ở đây sẽ giải thích chi tiết phương pháp đó. Hãy chắc chắn nắm vững.",
+      "en": "In IT Passport exam, this 'method of specifying target directory or file using path' almost certainly appears. So will explain method in detail here. Must master it.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "習得",
+          "reading": "しゅうとく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "パスとは",
+      "vi": "Đường dẫn là gì",
+      "en": "What is Path"
+    },
+    {
+      "type": "paragraph",
+      "ja": "パス（Path）とは、ファイルやディレクトリの場所を示す文字列です。例えば、次の図のようなツリー構造のシステムにおいて、「りんご.jpg」ファイルを開くことを考えてみましょう。このファイルは「ルートディレクトリ」→「画像」→「りんご.jpg」の順に辿ることで指定できます。",
+      "vi": "Path là chuỗi ký tự chỉ vị trí của tệp hoặc thư mục. Ví dụ, hãy xem xét việc mở tệp \"ringo.jpg\" trong hệ thống cấu trúc cây như hình sau. Tệp này có thể được chỉ định bằng cách đi theo thứ tự \"Thư mục gốc\" → \"Hình ảnh\" → \"ringo.jpg\".",
+      "en": "Path is string indicating location of file or directory. For example, consider opening 'ringo.jpg' file in tree structure system like following diagram. This file can be specified by following order 'Root Directory' → 'Image' → 'ringo.jpg.'",
+      "terms": [
+        {
+          "kanji": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "kanji": "示",
+          "reading": "じ"
+        },
+        {
+          "kanji": "文字列",
+          "reading": "もじれつ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "構造",
+          "reading": "こうぞう"
+        },
+        {
+          "kanji": "開",
+          "reading": "かい"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "画像",
+          "reading": "がぞう"
+        },
+        {
+          "kanji": "順",
+          "reading": "じゅん"
+        },
+        {
+          "kanji": "辿",
+          "reading": "てん"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ファイルやディレクトリの指定",
+        "vi": "Chỉ định tệp và thư mục",
+        "en": "Specifying Files and Directories"
+      },
+      "description": {
+        "ja": "ルートディレクトリから「画像」ディレクトリを経由して「りんご.jpg」へのパスを矢印で示す。ツリー構造の中でファイル位置を特定する方法を視覚化",
+        "vi": "Hiển thị đường dẫn từ thư mục gốc qua thư mục \"Hình ảnh\" đến \"ringo.jpg\" bằng mũi tên. Trực quan hóa phương pháp xác định vị trí tệp trong cấu trúc cây",
+        "en": "Shows path from root directory through 'Image' directory to 'ringo.jpg' with arrows. Visualizes method of identifying file location in tree structure"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "パス",
+      "vi": "Đường dẫn",
+      "en": "Path",
+      "my": "ပက်"
+    }
+  ],
+  "meta": {
+    "has_note_box": true,
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "page_id": 432,
+  "image": "p_0432.png",
+  "chapter": 11,
+  "section": "11-06",
+  "page_number": 416,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "USBとは、キーボードやマウスなどの周辺機器を接続できる、現在最も普及している入出力インタフェース",
+          "vi": "USB là giao diện nhập xuất phổ biến nhất hiện nay, có thể kết nối các thiết bị ngoại vi như bàn phím và chuột",
+          "en": "USB is currently most popular I/O interface that can connect peripherals like keyboard and mouse"
+        },
+        {
+          "ja": "バスパワーとは、ケーブルを通して周辺装置に電力を送る方式",
+          "vi": "Bus Power là phương thức gửi điện đến thiết bị ngoại vi thông qua cáp",
+          "en": "Bus Power is method sending power to peripherals through cable"
+        },
+        {
+          "ja": "HDMIとは、映像や音声をやり取りする規格",
+          "vi": "HDMI là tiêu chuẩn trao đổi hình ảnh và âm thanh",
+          "en": "HDMI is standard for exchanging video and audio"
+        },
+        {
+          "ja": "Bluetoothとは、無線でデータをやり取りする規格",
+          "vi": "Bluetooth là tiêu chuẩn trao đổi dữ liệu không dây",
+          "en": "Bluetooth is standard for wireless data exchange"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "デバイスドライバ",
+      "vi": "Trình điều khiển thiết bị",
+      "en": "Device Driver"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ハードウェアではなく、ソフトウェアの話になってしまいますが、本項の最後に「デバイスドライバ」について解説します。",
+      "vi": "Không phải phần cứng mà là phần mềm, nhưng cuối phần này sẽ giải thích về \"trình điều khiển thiết bị\".",
+      "en": "Not hardware but software, but at end of this section will explain 'device driver.'",
+      "terms": [
+        {
+          "kanji": "話",
+          "reading": "はなし"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "最後",
+          "reading": "さいご"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "デバイスドライバ（Device Driver）とは、PCから周辺機器を操作するためのソフトウェアです。「周辺装置（デバイス）を駆動（ドライブ）するためのソフトウェア」と覚えてください。",
+      "vi": "Device Driver là phần mềm để điều khiển thiết bị ngoại vi từ PC. Hãy nhớ là \"phần mềm để điều khiển (drive) thiết bị ngoại vi (device)\".",
+      "en": "Device Driver is software for operating peripherals from PC. Remember as 'software to drive peripheral device.'",
+      "terms": [
+        {
+          "kanji": "周辺機器",
+          "reading": "しゅうへんきき"
+        },
+        {
+          "kanji": "操作",
+          "reading": "そうさ"
+        },
+        {
+          "kanji": "周辺装置",
+          "reading": "しゅうへんそうち"
+        },
+        {
+          "kanji": "駆動",
+          "reading": "くどう"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "デバイスドライバは、プリンターやスキャナーなどを購入した際に、説明書などと一緒に同梱されているCD-ROMなどに入っています（最近はメーカーのWebサイトからダウンロードするケースも増えています）。デバイスドライバをインストールすることで、PCから周辺機器を操作できるようになります。",
+      "vi": "Trình điều khiển thiết bị được bao gồm trong CD-ROM đi kèm với hướng dẫn sử dụng khi mua máy in hoặc máy quét (gần đây việc tải xuống từ trang web của nhà sản xuất cũng tăng lên). Bằng cách cài đặt trình điều khiển thiết bị, có thể điều khiển thiết bị ngoại vi từ PC.",
+      "en": "Device driver is included in CD-ROM bundled with manual when purchasing printer or scanner (recently downloading from manufacturer website increasing). By installing device driver, can operate peripherals from PC.",
+      "terms": [
+        {
+          "kanji": "購入",
+          "reading": "こうにゅう"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "説明書",
+          "reading": "せつめいしょ"
+        },
+        {
+          "kanji": "一緒",
+          "reading": "いっしょ"
+        },
+        {
+          "kanji": "同梱",
+          "reading": "どうこん"
+        },
+        {
+          "kanji": "入",
+          "reading": "にゅう"
+        },
+        {
+          "kanji": "最近",
+          "reading": "さいきん"
+        },
+        {
+          "kanji": "増",
+          "reading": "ぞう"
+        },
+        {
+          "kanji": "周辺機器",
+          "reading": "しゅうへんきき"
+        },
+        {
+          "kanji": "操作",
+          "reading": "そうさ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "プラグアンドプレイ",
+      "vi": "Plug and Play",
+      "en": "Plug and Play"
+    },
+    {
+      "type": "paragraph",
+      "ja": "周辺機器を購入するたびにデバイスドライバをインストールするのは面倒です。そこで、この問題を解決するために登場したのが「プラグアンドプレイ」です。",
+      "vi": "Việc cài đặt trình điều khiển thiết bị mỗi khi mua thiết bị ngoại vi thật phiền phức. Vì vậy, \"Plug and Play\" đã xuất hiện để giải quyết vấn đề này.",
+      "en": "Installing device driver every time purchasing peripherals is troublesome. So 'Plug and Play' appeared to solve this problem.",
+      "terms": [
+        {
+          "kanji": "周辺機器",
+          "reading": "しゅうへんきき"
+        },
+        {
+          "kanji": "購入",
+          "reading": "こうにゅう"
+        },
+        {
+          "kanji": "面倒",
+          "reading": "めんどう"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "プラグアンドプレイ（Plug and Play）とは、周辺機器をPCに接続した際に、自動的にデバイスドライバのインストールと設定を行う機能です。プラグアンドプレイのメリットは、手動でデバイスドライバのインストールを行わなくて良い点です。",
+      "vi": "Plug and Play là tính năng tự động cài đặt và thiết lập trình điều khiển thiết bị khi kết nối thiết bị ngoại vi với PC. Ưu điểm của Plug and Play là không cần cài đặt trình điều khiển thiết bị thủ công.",
+      "en": "Plug and Play is function automatically installing and configuring device driver when connecting peripherals to PC. Plug and Play's advantage is no need to manually install device driver.",
+      "terms": [
+        {
+          "kanji": "周辺機器",
+          "reading": "しゅうへんきき"
+        },
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "自動的",
+          "reading": "じどうてき"
+        },
+        {
+          "kanji": "設定",
+          "reading": "せってい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "手動",
+          "reading": "しゅどう"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "デバイスドライバとは、PCから周辺機器を操作するためのソフトウェアである。このソフトウェアを自動的にインストールする機能のことを「プラグアンドプレイ」という",
+          "vi": "Trình điều khiển thiết bị là phần mềm để điều khiển thiết bị ngoại vi từ PC. Tính năng tự động cài đặt phần mềm này được gọi là \"Plug and Play\"",
+          "en": "Device driver is software for operating peripherals from PC. Function automatically installing this software is called 'Plug and Play'"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "デバイスドライバ",
+      "vi": "Trình điều khiển thiết bị",
+      "en": "Device Driver",
+      "my": "ဒီဗိုက် ဒရိုင်ဗာ"
+    },
+    {
+      "term": "プラグアンドプレイ",
+      "vi": "Plug and Play",
+      "en": "Plug and Play",
+      "my": "ပလက် အန်ဒ် ပလေး"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

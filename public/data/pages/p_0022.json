@@ -1,0 +1,384 @@
+{
+  "page_id": 22,
+  "image": "p_0022.png",
+  "chapter": 0,
+  "section": "00-02",
+  "page_number": 6,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "00-02",
+      "ja": "試験に出題される問題",
+      "reading": "しけんにしゅつだいされるもんだい",
+      "vi": "Các câu hỏi trong kỳ thi",
+      "en": "Questions on the Exam",
+      "my": "စာမေးပွဲတွင် ပါဝင်သောမေးခွန်းများ"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "出題範囲（シラバス）と出題傾向",
+      "reading": "しゅつだいはんい（シラバス）としゅつだいけいこう",
+      "vi": "Phạm vi đề thi (Syllabus) và Xu hướng ra đề",
+      "en": "Exam Scope (Syllabus) and Question Trends",
+      "my": "စာမေးပွဲနယ်ပယ် (Syllabus) နှင့် မေးခွန်းထွက်ပုံ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験に出題される問題は、大きく次の3つの分野に分類されており、分野ごとに出題される問題数や試験問題に出題傾向があります。",
+      "vi": "Các câu hỏi trong kỳ thi IT Passport được chia thành 3 lĩnh vực lớn. Mỗi lĩnh vực có số lượng câu hỏi và xu hướng ra đề riêng.",
+      "en": "Questions on the IT Passport exam are classified into three major fields. Each field has its own number of questions and question trends.",
+      "my": "IT Passport စာမေးပွဲရှိ မေးခွန်းများကို အဓိကနယ်ပယ် ၃ ခုအဖြစ် ခွဲခြားထားသည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "分野",
+          "reading": "ぶんや"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "問題数",
+          "reading": "もんだいすう"
+        },
+        {
+          "kanji": "試験問題",
+          "reading": "しけんもんだい"
+        },
+        {
+          "kanji": "出題傾向",
+          "reading": "しゅつだいけいこう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "ITパスポート試験に出題される問題の分野",
+        "vi": "Các lĩnh vực câu hỏi trong kỳ thi IT Passport",
+        "en": "Question Fields in the IT Passport Exam"
+      },
+      "headers": {
+        "ja": [
+          "分野",
+          "説明"
+        ],
+        "vi": [
+          "Lĩnh vực",
+          "Mô tả"
+        ],
+        "en": [
+          "Field",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "ストラテジ系",
+            "経営者の仕事に関する内容。ストラテジとは「戦略」のこと。この分野からは、企業活動や法務、経営戦略、システム戦略などに関する問題が出題される"
+          ],
+          "vi": [
+            "Strategy (Chiến lược)",
+            "Nội dung liên quan đến công việc quản lý. Strategy có nghĩa là 'chiến lược'. Lĩnh vực này bao gồm các câu hỏi về hoạt động doanh nghiệp, pháp luật, chiến lược kinh doanh, chiến lược hệ thống"
+          ],
+          "en": [
+            "Strategy",
+            "Content related to management work. Questions about corporate activities, legal affairs, business strategy, and system strategy"
+          ]
+        },
+        {
+          "ja": [
+            "マネジメント系",
+            "管理者の仕事に関する内容。この分野からは、開発技術やプロジェクトマネジメント、サービスマネジメントなどに関する問題が出題される"
+          ],
+          "vi": [
+            "Management (Quản lý)",
+            "Nội dung liên quan đến công việc quản lý. Lĩnh vực này bao gồm các câu hỏi về kỹ thuật phát triển, quản lý dự án, quản lý dịch vụ"
+          ],
+          "en": [
+            "Management",
+            "Content related to managerial work. Questions about development technology, project management, and service management"
+          ]
+        },
+        {
+          "ja": [
+            "テクノロジ系",
+            "コンピュータの仕組みに関する内容。この分野からは、コンピュータの基礎理論やコンピュータシステム、技術要素（データベースやセキュリティなど）に関する問題が出題される"
+          ],
+          "vi": [
+            "Technology (Công nghệ)",
+            "Nội dung về cấu trúc máy tính. Lĩnh vực này bao gồm các câu hỏi về lý thuyết cơ bản máy tính, hệ thống máy tính, yếu tố kỹ thuật (cơ sở dữ liệu, bảo mật, v.v.)"
+          ],
+          "en": [
+            "Technology",
+            "Content about computer structure. Questions about basic computer theory, computer systems, and technical elements (database, security, etc.)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "分野ごとの出題内容（公式のシラバスの内容）",
+        "vi": "Nội dung theo từng lĩnh vực (theo Syllabus chính thức)",
+        "en": "Content by Field (Official Syllabus)"
+      },
+      "headers": {
+        "ja": [
+          "分野",
+          "内容"
+        ],
+        "vi": [
+          "Lĩnh vực",
+          "Nội dung"
+        ],
+        "en": [
+          "Field",
+          "Content"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "ストラテジ系",
+            "・企業と法務\n・経営戦略\n・システム戦略"
+          ],
+          "vi": [
+            "Strategy",
+            "・Doanh nghiệp và Pháp luật\n・Chiến lược kinh doanh\n・Chiến lược hệ thống"
+          ],
+          "en": [
+            "Strategy",
+            "・Corporate and Legal\n・Business Strategy\n・System Strategy"
+          ]
+        },
+        {
+          "ja": [
+            "マネジメント系",
+            "・開発技術\n・プロジェクトマネジメント\n・サービスマネジメント（システム監査など）"
+          ],
+          "vi": [
+            "Management",
+            "・Kỹ thuật phát triển\n・Quản lý dự án\n・Quản lý dịch vụ (Kiểm toán hệ thống, v.v.)"
+          ],
+          "en": [
+            "Management",
+            "・Development Technology\n・Project Management\n・Service Management (System Audit, etc.)"
+          ]
+        },
+        {
+          "ja": [
+            "テクノロジ系",
+            "・基礎理論（アルゴリズム、プログラミングなど）\n・コンピュータシステム（ソフトウェア、ハードウェアなど）\n・技術要素（データベース、セキュリティなど）"
+          ],
+          "vi": [
+            "Technology",
+            "・Lý thuyết cơ bản (Thuật toán, Lập trình, v.v.)\n・Hệ thống máy tính (Phần mềm, Phần cứng, v.v.)\n・Yếu tố kỹ thuật (Cơ sở dữ liệu, Bảo mật, v.v.)"
+          ],
+          "en": [
+            "Technology",
+            "・Basic Theory (Algorithms, Programming, etc.)\n・Computer Systems (Software, Hardware, etc.)\n・Technical Elements (Database, Security, etc.)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "重要ポイント",
+        "vi": "Điểm quan trọng",
+        "en": "Important Point"
+      },
+      "content": {
+        "ja": "まずは「ITパスポート試験では、テクノロジ系以外のことも出題される」ということを覚えておいてください。ITパスポート試験が情報処理技術者試験の一区分であることから、「ITパスポート試験＝テクノロジ関係の試験」という風に思っている人が多いのですが、これは誤りです。",
+        "vi": "Trước hết, hãy nhớ rằng 'Kỳ thi IT Passport không chỉ ra đề về lĩnh vực Technology'. Vì IT Passport là một phần của kỳ thi Kỹ thuật viên Xử lý Thông tin, nhiều người nghĩ rằng 'Kỳ thi IT Passport = Kỳ thi về công nghệ', nhưng điều này là SAI.",
+        "en": "First, remember that 'The IT Passport exam covers topics beyond just Technology'. Since IT Passport is part of the Information Processing Technician exam, many people think 'IT Passport = Technology exam', but this is INCORRECT.",
+        "my": "ပထမဦးစွာ 'IT Passport စာမေးပွဲသည် Technology နယ်ပယ်အပြင် အခြားအကြောင်းအရာများပါ ပါဝင်သည်' ကို မှတ်သားပါ။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "系以外",
+            "reading": "けいいがい"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          },
+          {
+            "kanji": "情報処理技術者試験",
+            "reading": "じょうほうしょりぎじゅつしゃしけん"
+          },
+          {
+            "kanji": "一区分",
+            "reading": "いっくふん"
+          },
+          {
+            "kanji": "関係",
+            "reading": "かんけい"
+          },
+          {
+            "kanji": "風",
+            "reading": "かぜ"
+          },
+          {
+            "kanji": "思",
+            "reading": "おもい"
+          },
+          {
+            "kanji": "人",
+            "reading": "ひと"
+          },
+          {
+            "kanji": "多",
+            "reading": "おお"
+          },
+          {
+            "kanji": "誤",
+            "reading": "ご"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "出題範囲",
+      "reading": "しゅつだいはんい",
+      "romaji": "Shutsudai Han'i",
+      "vi": "Phạm vi đề thi",
+      "en": "Exam scope",
+      "my": "မေးခွန်းထုတ်နယ်ပယ်"
+    },
+    {
+      "kanji": "分野",
+      "reading": "ぶんや",
+      "romaji": "Bunya",
+      "vi": "Lĩnh vực",
+      "en": "Field/Area",
+      "my": "နယ်ပယ်"
+    },
+    {
+      "kanji": "分類",
+      "reading": "ぶんるい",
+      "romaji": "Bunrui",
+      "vi": "Phân loại",
+      "en": "Classification",
+      "my": "အမျိုးအစားခွဲခြားခြင်း"
+    },
+    {
+      "kanji": "傾向",
+      "reading": "けいこう",
+      "romaji": "Keikou",
+      "vi": "Xu hướng",
+      "en": "Trend",
+      "my": "လမ်းကြောင်း"
+    },
+    {
+      "kanji": "経営者",
+      "reading": "けいえいしゃ",
+      "romaji": "Keieisha",
+      "vi": "Nhà quản lý",
+      "en": "Manager/Executive",
+      "my": "စီမံခန့်ခွဲသူ"
+    },
+    {
+      "kanji": "戦略",
+      "reading": "せんりゃく",
+      "romaji": "Senryaku",
+      "vi": "Chiến lược",
+      "en": "Strategy",
+      "my": "ဗျူဟာ"
+    },
+    {
+      "kanji": "企業活動",
+      "reading": "きぎょうかつどう",
+      "romaji": "Kigyou Katsudou",
+      "vi": "Hoạt động doanh nghiệp",
+      "en": "Corporate Activities",
+      "my": "ကုမ္ပဏီလုပ်ငန်းများ"
+    },
+    {
+      "kanji": "法務",
+      "reading": "ほうむ",
+      "romaji": "Houmu",
+      "vi": "Pháp vụ",
+      "en": "Legal Affairs",
+      "my": "ဥပဒေရေးရာ"
+    },
+    {
+      "kanji": "経営戦略",
+      "reading": "けいえいせんりゃく",
+      "romaji": "Keiei Senryaku",
+      "vi": "Chiến lược kinh doanh",
+      "en": "Business Strategy",
+      "my": "စီးပွားရေးဗျူဟာ"
+    },
+    {
+      "kanji": "管理者",
+      "reading": "かんりしゃ",
+      "romaji": "Kanrisha",
+      "vi": "Người quản lý",
+      "en": "Administrator",
+      "my": "အုပ်ချုပ်သူ"
+    },
+    {
+      "kanji": "開発技術",
+      "reading": "かいはつぎじゅつ",
+      "romaji": "Kaihatsu Gijutsu",
+      "vi": "Kỹ thuật phát triển",
+      "en": "Development Technology",
+      "my": "ဖွံ့ဖြိုးတိုးတက်ရေးနည်းပညာ"
+    },
+    {
+      "kanji": "基礎理論",
+      "reading": "きそりろん",
+      "romaji": "Kiso Riron",
+      "vi": "Lý thuyết cơ bản",
+      "en": "Basic Theory",
+      "my": "အခြေခံသီအိုရီ"
+    },
+    {
+      "kanji": "誤り",
+      "reading": "あやまり",
+      "romaji": "Ayamari",
+      "vi": "Sai lầm",
+      "en": "Error/Mistake",
+      "my": "အမှား"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "tables_count": 2
+  }
+}

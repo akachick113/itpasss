@@ -1,0 +1,227 @@
+{
+  "page_id": 203,
+  "image": "p_0203.png",
+  "chapter": 5,
+  "section": "05-04",
+  "page_number": 187,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "05-04",
+      "ja": "ソリューションビジネス",
+      "reading": "そりゅーしょんびじねす",
+      "vi": "Solution Business",
+      "en": "Solution Business",
+      "my": "Solution Business"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "自社のシステムはどこにある？",
+        "vi": "Hệ thống của công ty bạn ở đâu?",
+        "en": "Where is Your Company's System?",
+        "my": "သင့်ကုမ္ပဏီ၏ စနစ် ဘယ်မှာရှိသလဲ?"
+      },
+      "content": {
+        "ja": "テクノロジやネットワーク技術が進歩したことによって、情報システムの在り方も大きく変わりました。みなさんの会社の情報システムは社内に設置されているのでしょうか。",
+        "vi": "Do công nghệ và kỹ thuật mạng tiến bộ, cách thức hệ thống thông tin cũng thay đổi lớn. Hệ thống thông tin công ty các bạn được đặt trong nội bộ không?",
+        "en": "With advances in technology and network technology, the nature of information systems has changed greatly. Is your company's information system installed internally?",
+        "my": "နည်းပညာနှင့် ကွန်ရက်နည်းပညာ တိုးတက်မှုနှင့်အတူ သတင်းအချက်အလက်စနစ်များ၏ သဘောသဘာဝ ကြီးမားစွာ ပြောင်းလဲခဲ့သည်။",
+        "terms": [
+          {
+            "kanji": "技術",
+            "reading": "ぎじゅつ"
+          },
+          {
+            "kanji": "進歩",
+            "reading": "しんぽ"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "在",
+            "reading": "ざい"
+          },
+          {
+            "kanji": "方",
+            "reading": "かた"
+          },
+          {
+            "kanji": "大",
+            "reading": "おお"
+          },
+          {
+            "kanji": "変",
+            "reading": "へん"
+          },
+          {
+            "kanji": "会社",
+            "reading": "かいしゃ"
+          },
+          {
+            "kanji": "社内",
+            "reading": "しゃない"
+          },
+          {
+            "kanji": "設置",
+            "reading": "せっち"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは「ソリューションビジネス」を解説します。ソリューションビジネスとは、顧客の業務上の問題を解決するサービス、または情報システムです。なお、ソリューションビジネスを提供する会社のことを「システムインテグレーター（SI）」といいます。システム開発は、自社では行わず、このシステムインテグレーターに開発を依頼するのが一般的です。\n\nITパスポート試験では「ハウジングサービス」「クラウドコンピューティング」の2つの用語がよく出題されます。",
+      "vi": "Từ đây sẽ giải thích Solution Business. Solution Business là dịch vụ hoặc hệ thống thông tin giải quyết vấn đề nghiệp vụ của khách hàng. Công ty cung cấp Solution Business được gọi là System Integrator (SI). Phát triển hệ thống thường không tự làm mà thuê SI phát triển.\n\nTrong IT Passport, 2 thuật ngữ Housing Service và Cloud Computing thường được ra đề.",
+      "en": "From here we'll explain 'Solution Business'. Solution Business is a service or information system that solves customers' business problems. Companies providing Solution Business are called 'System Integrators (SI)'. System development is typically not done in-house but outsourced to System Integrators.\n\nIn IT Passport, two terms 'Housing Service' and 'Cloud Computing' are frequently tested.",
+      "my": "ယခုမှစ၍ 'Solution Business' ကို ရှင်းပြမည်။",
+      "terms": [
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "顧客",
+          "reading": "こきゃく"
+        },
+        {
+          "kanji": "業務上",
+          "reading": "ぎょうむじょう"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "依頼",
+          "reading": "いらい"
+        },
+        {
+          "kanji": "一般的",
+          "reading": "いっぱんてき"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ソリューションの形態",
+      "vi": "Hình thái Solution",
+      "en": "Forms of Solution"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ソリューションとは、業務上の問題を解決する手段、もしくは解決するために導入される情報システムです。「ITソリューション」と呼ばれることもあります。ソリューションは、サーバをどこに置くかで次のように分類されます。",
+      "vi": "Solution là phương tiện giải quyết vấn đề nghiệp vụ hoặc hệ thống thông tin được đưa vào để giải quyết. Đôi khi được gọi là IT Solution. Solution được phân loại theo nơi đặt server như sau.",
+      "en": "Solution is a means to solve business problems, or information systems introduced to solve them. It's sometimes called 'IT Solution'. Solutions are classified by where servers are placed as follows.",
+      "my": "Solution သည် စီးပွားရေးပြဿနာများကို ဖြေရှင်းရန် နည်းလမ်း သို့မဟုတ် ဖြေရှင်းရန် မိတ်ဆက်ထားသော သတင်းအချက်အလက်စနစ်များ ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "業務上",
+          "reading": "ぎょうむじょう"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "手段",
+          "reading": "しゅだん"
+        },
+        {
+          "kanji": "導入",
+          "reading": "どうにゅう"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ソリューションビジネス",
+      "reading": "そりゅーしょんびじねす",
+      "romaji": "Solution Business",
+      "vi": "Kinh doanh giải pháp",
+      "en": "Solution Business",
+      "my": "ဖြေရှင်းချက် လုပ်ငန်း"
+    },
+    {
+      "kanji": "システムインテグレーター",
+      "reading": "しすてむいんてぐれーたー",
+      "romaji": "System Integrator",
+      "vi": "Nhà tích hợp hệ thống",
+      "en": "System Integrator (SI)",
+      "my": "စနစ်အင်တီဂရိတာ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

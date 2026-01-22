@@ -1,0 +1,350 @@
+{
+  "page_id": 455,
+  "image": "p_0455.png",
+  "chapter": 12,
+  "section": "12-04",
+  "page_number": 439,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "表計算ソフトに関する重要用語",
+        "vi": "Thuật ngữ quan trọng liên quan đến phần mềm bảng tính",
+        "en": "Important Terms Related to Spreadsheet Software"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "term": {
+            "ja": "ワークシート",
+            "vi": "Worksheet",
+            "en": "Worksheet"
+          },
+          "description": {
+            "ja": "作業スペース全体。",
+            "vi": "Toàn bộ không gian làm việc.",
+            "en": "Entire work space."
+          }
+        },
+        {
+          "term": {
+            "ja": "セル",
+            "vi": "Ô (Cell)",
+            "en": "Cell"
+          },
+          "description": {
+            "ja": "1つひとつのマス目。ワークシートの大きさはセルを増やすことで自由に変更できる。",
+            "vi": "Từng ô một. Kích thước của worksheet có thể thay đổi tự do bằng cách thêm ô.",
+            "en": "Each individual box. Worksheet size can be freely changed by adding cells."
+          }
+        },
+        {
+          "term": {
+            "ja": "列",
+            "vi": "Cột",
+            "en": "Column"
+          },
+          "description": {
+            "ja": "縦方向のセルの並び。各列にはA、B、Cのようにアルファベットが振られている。",
+            "vi": "Hàng ô theo chiều dọc. Mỗi cột được gán bảng chữ cái như A, B, C.",
+            "en": "Vertical arrangement of cells. Each column is assigned alphabet like A, B, C."
+          }
+        },
+        {
+          "term": {
+            "ja": "行",
+            "vi": "Hàng",
+            "en": "Row"
+          },
+          "description": {
+            "ja": "横方向のセルの並び。各行には1、2、3のように番号が割り振られている。",
+            "vi": "Hàng ô theo chiều ngang. Mỗi hàng được gán số như 1, 2, 3.",
+            "en": "Horizontal arrangement of cells. Each row is assigned numbers like 1, 2, 3."
+          }
+        },
+        {
+          "term": {
+            "ja": "セル番地",
+            "vi": "Địa chỉ ô",
+            "en": "Cell Address"
+          },
+          "description": {
+            "ja": "列と行で表したセルの位置。例えば、E列、2行目のセルのセル番地は「E2」のように書く。",
+            "vi": "Vị trí ô được biểu thị bằng cột và hàng. Ví dụ, địa chỉ ô của ô cột E, hàng 2 được viết như \"E2\".",
+            "en": "Cell position expressed by column and row. For example, cell address of column E, row 2 is written as 'E2.'"
+          }
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "セルに計算式を入力する",
+      "vi": "Nhập công thức vào ô",
+      "en": "Entering Formulas in Cells"
+    },
+    {
+      "type": "paragraph",
+      "ja": "セルには「240」のような固定の数値を入力することも可能ですが、「2+5」といった四則演算や、「B2+C2+D2」といったセル番地を使用した計算式を入力することも可能です。",
+      "vi": "Có thể nhập giá trị cố định như \"240\" vào ô, nhưng cũng có thể nhập phép tính bốn phép như \"2+5\", hoặc công thức sử dụng địa chỉ ô như \"B2+C2+D2\".",
+      "en": "Can enter fixed values like '240' in cells, but can also enter arithmetic operations like '2+5,' or formulas using cell addresses like 'B2+C2+D2.'",
+      "terms": [
+        {
+          "kanji": "固定",
+          "reading": "こてい"
+        },
+        {
+          "kanji": "数値",
+          "reading": "すうち"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "四則演算",
+          "reading": "しそくえんざん"
+        },
+        {
+          "kanji": "番地",
+          "reading": "ばんち"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "計算式",
+          "reading": "けいさんしき"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "前ページの図を見てください。セル番地E2のセルには、国語、数学、英語の合計値が入力されています。この値は、ユーザー自身が電卓などで計算して値を入力するよりも、「B2+C2+D2」という計算式を入力したほうが、より速く、しかも正確に合計値を算出できます。これが、上記のようなソフトウェアが「表計算ソフト」と呼ばれる理由です。「表」を使って「計算」するのが表計算ソフトなのです。",
+      "vi": "Xem hình trang trước. Ô địa chỉ E2 được nhập tổng của Tiếng Nhật, Toán, Tiếng Anh. Thay vì người dùng tự tính bằng máy tính bỏ túi và nhập giá trị, nhập công thức \"B2+C2+D2\" sẽ tính tổng nhanh và chính xác hơn. Đây là lý do phần mềm như trên được gọi là \"phần mềm bảng tính\". Phần mềm bảng tính là để \"tính toán\" bằng \"bảng\".",
+      "en": "See previous page diagram. Cell address E2 has total of Japanese, Math, English. Rather than user calculating with calculator and entering value, entering formula 'B2+C2+D2' calculates total faster and more accurately. This is why such software is called 'spreadsheet.' Spreadsheet is for 'calculating' using 'tables.'",
+      "terms": [
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "番地",
+          "reading": "ばんち"
+        },
+        {
+          "kanji": "国語",
+          "reading": "こくご"
+        },
+        {
+          "kanji": "数学",
+          "reading": "すうがく"
+        },
+        {
+          "kanji": "英語",
+          "reading": "えいご"
+        },
+        {
+          "kanji": "合計値",
+          "reading": "ごうけいち"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "自身",
+          "reading": "じしん"
+        },
+        {
+          "kanji": "電卓",
+          "reading": "でんたく"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "計算式",
+          "reading": "けいさんしき"
+        },
+        {
+          "kanji": "速",
+          "reading": "そく"
+        },
+        {
+          "kanji": "正確",
+          "reading": "せいかく"
+        },
+        {
+          "kanji": "算出",
+          "reading": "さんしゅつ"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "表計算",
+          "reading": "ひょうけいさん"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "理由",
+          "reading": "りゆう"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "セル番地E2のセルに「B2+C2+D2」と入力すると、入力した式が自動的に計算され、計算結果である「240」が瞬時に表示されます。",
+      "vi": "Khi nhập \"B2+C2+D2\" vào ô địa chỉ E2, công thức nhập sẽ được tính tự động, và kết quả tính \"240\" được hiển thị ngay lập tức.",
+      "en": "When entering 'B2+C2+D2' in cell E2, entered formula automatically calculates, and calculation result '240' instantly displays.",
+      "terms": [
+        {
+          "kanji": "番地",
+          "reading": "ばんち"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "式",
+          "reading": "しき"
+        },
+        {
+          "kanji": "自動的",
+          "reading": "じどうてき"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "計算結果",
+          "reading": "けいさんけっか"
+        },
+        {
+          "kanji": "瞬時",
+          "reading": "しゅんじ"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "セルに計算式を入力する",
+        "vi": "Nhập công thức vào ô",
+        "en": "Entering Formula in Cell"
+      },
+      "description": {
+        "ja": "E2セルに「B2+C2+D2」と入力すると、自動的に計算結果「240」が表示される",
+        "vi": "Khi nhập \"B2+C2+D2\" vào ô E2, kết quả tính \"240\" tự động hiển thị",
+        "en": "When entering 'B2+C2+D2' in E2 cell, calculation result '240' automatically displays"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、PCのキーボードには「×」や「÷」の記号がないので、表計算ソフトで四則演算を行う際は「+」（たし算）、「-」（ひき算）、「*」（かけ算）、「/」（わり算）の4つの記号を使います。",
+      "vi": "Ngoài ra, vì bàn phím PC không có ký hiệu \"×\" và \"÷\", khi thực hiện phép tính bốn phép trong phần mềm bảng tính, sử dụng 4 ký hiệu \"+\" (cộng), \"-\" (trừ), \"*\" (nhân), \"/\" (chia).",
+      "en": "Also, since PC keyboard doesn't have '×' and '÷' symbols, when performing arithmetic in spreadsheet, use 4 symbols '+' (add), '-' (subtract), '*' (multiply), '/' (divide).",
+      "terms": [
+        {
+          "kanji": "記号",
+          "reading": "きごう"
+        },
+        {
+          "kanji": "表計算",
+          "reading": "ひょうけいさん"
+        },
+        {
+          "kanji": "四則演算",
+          "reading": "しそくえんざん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "算",
+          "reading": "さん"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "セル番地",
+      "reading": "セルばんち",
+      "vi": "Địa chỉ ô",
+      "en": "Cell Address",
+      "my": "ဆဲလ် လိပ်စာ"
+    },
+    {
+      "term": "計算式",
+      "reading": "けいさんしき",
+      "vi": "Công thức tính",
+      "en": "Formula",
+      "my": "ဖောမျူလာ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

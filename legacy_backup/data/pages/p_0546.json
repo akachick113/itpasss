@@ -1,0 +1,247 @@
+{
+  "page_id": 546,
+  "image": "p_0546.png",
+  "chapter": 15,
+  "section": "15-02",
+  "page_number": 530,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "15-02",
+      "title": {
+        "ja": "リスクマネジメント",
+        "vi": "Quản lý rủi ro",
+        "en": "Risk Management"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "身近なリスク",
+        "vi": "Rủi ro gần gũi",
+        "en": "Familiar Risks"
+      },
+      "content": {
+        "ja": "企業のまわりには、経営資源をおびやかすたくさんの危険が潜んでいます。企業はそれらの危険に対して、できるだけお金をかけずに対処する必要があります。",
+        "vi": "Xung quanh doanh nghiệp ẩn chứa nhiều nguy hiểm đe dọa nguồn lực kinh doanh. Doanh nghiệp cần đối phó với những nguy hiểm đó mà tốn ít tiền nhất có thể.",
+        "en": "Around companies lurk many dangers threatening management resources. Companies need to deal with those dangers while spending as little money as possible."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは「リスクマネジメント」について解説します。なお、マネジメントに関する内容なので、テクノロジ系分野ではなく、マネジメント系分野のほうが適していそうな内容ですが、情報セキュリティに関しては技術的な側面が強いので、ITパスポート試験では、テクノロジ系分野で出題されています。",
+      "vi": "Từ đây sẽ giải thích về \"Quản lý rủi ro\". Vì là nội dung liên quan đến quản lý nên có vẻ phù hợp với phân loại Quản lý hơn phân loại Công nghệ, nhưng vì bảo mật thông tin có khía cạnh kỹ thuật mạnh nên trong kỳ thi IT Passport được ra đề trong phân loại Công nghệ.",
+      "en": "From here will explain 'Risk Management.' Since it's management content, seems more suitable for Management category than Technology, but since information security has strong technical aspect, in IT Passport exam it appears in Technology category.",
+      "terms": [
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "系分野",
+          "reading": "けいぶんや"
+        },
+        {
+          "kanji": "適",
+          "reading": "てき"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "技術的",
+          "reading": "ぎじゅつてき"
+        },
+        {
+          "kanji": "側面",
+          "reading": "そくめん"
+        },
+        {
+          "kanji": "強",
+          "reading": "きょう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "リスクマネジメントとは",
+      "vi": "Quản lý rủi ro là gì",
+      "en": "What is Risk Management"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "リスクマネジメント",
+        "vi": "Quản lý rủi ro",
+        "en": "Risk Management"
+      },
+      "definition": {
+        "ja": "リスクマネジメント（Risk Management）とは、企業の活動に伴って発生するあらゆるリスクを管理し、そのリスクによる損失を最小の費用で食い止めるためのプロセスです。",
+        "vi": "Risk Management là quy trình quản lý mọi rủi ro phát sinh cùng với hoạt động của doanh nghiệp và ngăn chặn thiệt hại do rủi ro đó với chi phí tối thiểu.",
+        "en": "Risk Management is process of managing all risks occurring with company activities and stopping losses from those risks with minimum cost."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "第7章で解説した「プロジェクトマネジメントの10の知識エリア」（p.262）のなかに「プロジェクトリスクマネジメント」というエリアがありました。このプロジェクトリスクマネジメントの対象が「プロジェクトにおけるリスク」であるのに対し、本章のリスクマネジメントでは「組織のあらゆるリスク」が対象になります。",
+      "vi": "Trong \"10 lĩnh vực kiến thức của Quản lý dự án\" (trang 262) đã giải thích ở chương 7, có lĩnh vực \"Quản lý rủi ro dự án\". Trong khi đối tượng của Quản lý rủi ro dự án là \"rủi ro trong dự án\", Quản lý rủi ro trong chương này đối tượng là \"mọi rủi ro của tổ chức\".",
+      "en": "In '10 Project Management Knowledge Areas' (p.262) explained in Chapter 7, there was 'Project Risk Management' area. While Project Risk Management targets 'risks in project,' Risk Management in this chapter targets 'all organizational risks.'",
+      "terms": [
+        {
+          "kanji": "第",
+          "reading": "だい"
+        },
+        {
+          "kanji": "章",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "対象",
+          "reading": "たいしょう"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "本章",
+          "reading": "ほんしょう"
+        },
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "リスクマネジメントの必要性",
+      "vi": "Sự cần thiết của Quản lý rủi ro",
+      "en": "Necessity of Risk Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "企業はさまざまなリスクから企業の資産を守るために、いろいろな対策を行います。本来であれば、考えうるすべてのリスクに対して、適切な対策を実行すべきです。しかし、実際に対策を行うにはヒト、モノ、カネ、情報などの経営資源が必要になるため、無駄遣いをしてしまえば、すべてのリスクに対応することはできません。費用がいくらあっても足りません。",
+      "vi": "Doanh nghiệp thực hiện nhiều biện pháp để bảo vệ tài sản doanh nghiệp khỏi các rủi ro khác nhau. Đúng ra nên thực hiện biện pháp phù hợp cho tất cả rủi ro có thể nghĩ đến. Tuy nhiên, thực tế cần nguồn lực kinh doanh như nhân lực, vật lực, tiền bạc, thông tin để thực hiện biện pháp, nên nếu lãng phí thì không thể đối phó với tất cả rủi ro. Chi phí bao nhiêu cũng không đủ.",
+      "en": "Companies implement various measures to protect company assets from various risks. Ideally, appropriate measures should be implemented for all conceivable risks. However, since implementing measures requires management resources like people, things, money, information, if wasted cannot respond to all risks. No amount of money is enough.",
+      "terms": [
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "資産",
+          "reading": "しさん"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "対策",
+          "reading": "たいさく"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "本来",
+          "reading": "ほんらい"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "適切",
+          "reading": "てきせつ"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "経営資源",
+          "reading": "けいえいしげん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "無駄遣",
+          "reading": "むだけん"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "費用",
+          "reading": "ひよう"
+        },
+        {
+          "kanji": "足",
+          "reading": "あし"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "リスクマネジメント",
+      "vi": "Risk Management (Quản lý rủi ro)",
+      "en": "Risk Management",
+      "my": "အန္တရာယ်စီမံခန်း"
+    },
+    {
+      "term": "経営資源",
+      "vi": "Nguồn lực kinh doanh",
+      "en": "Management Resources",
+      "my": "စီမံခန်းရင်းမြစ်"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "page_id": 372,
+  "image": "p_0372.png",
+  "chapter": 9,
+  "section": "09-08",
+  "page_number": 356,
+  "content": [
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】選択処理（elseifあり）",
+        "vi": "【Ví dụ chương trình】Xử lý lựa chọn (có elseif)",
+        "en": "[Program Example] Selection Processing (with elseif)"
+      },
+      "code": "if (numは0より大きい)\n    \"正の整数です\"を出力する\nelseif (numは0より小さい)\n    \"負の整数です\"を出力する\nelse\n    \"0です\"を出力する\nendif"
+    },
+    {
+      "type": "paragraph",
+      "ja": "このようにelseifを使うことで、変数numの値が「0」より大きい場合、「0」より小さい場合、それ以外の場合で処理を切り分けることができます。",
+      "vi": "Như vậy, bằng cách dùng elseif, có thể phân chia xử lý theo trường hợp giá trị biến num lớn hơn \"0\", nhỏ hơn \"0\", và các trường hợp khác.",
+      "en": "Like this, by using elseif, can separate processing for cases when variable num value is greater than '0,' less than '0,' and other cases.",
+      "terms": [
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "小",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "以外",
+          "reading": "いがい"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "切",
+          "reading": "せつ"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "繰り返し処理とwhile",
+      "reading": "くりかえししょりとワイル",
+      "vi": "Xử lý lặp và while",
+      "en": "Loop Processing and while"
+    },
+    {
+      "type": "paragraph",
+      "ja": "繰り返し処理（ある条件に合致した場合のみ処理を繰り返したい場合）は「while」を使います。whileを使用すると下図のように、条件を満たす間はずっと、同じ処理を繰り返し実行できます。",
+      "vi": "Xử lý lặp (khi muốn lặp xử lý chỉ khi phù hợp điều kiện nào đó) sử dụng \"while\". Dùng while như hình dưới, có thể thực hiện lặp cùng xử lý liên tục trong khi thỏa điều kiện.",
+      "en": "Loop processing (when wanting to repeat processing only when matching certain condition) uses 'while.' Using while as in diagram below, can repeatedly execute same processing continuously while condition is satisfied.",
+      "terms": [
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "合致",
+          "reading": "がっち"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "満",
+          "reading": "まん"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "while",
+        "vi": "while",
+        "en": "while"
+      },
+      "description": {
+        "ja": "条件式がYesなら処理を実行してループ、Noなら終了するフローチャート",
+        "vi": "Flowchart: nếu biểu thức điều kiện Yes thì thực hiện xử lý và lặp, nếu No thì kết thúc",
+        "en": "Flowchart: if conditional expression Yes then execute processing and loop, if No then exit"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "最初に条件を判断し、条件を満たす場合のみ処理を実行します。その後、再び条件に戻り、条件を判断します。この処理を条件を満たさなくなるまで繰り返します。条件を満たさない場合、繰り返しは終了します。以下はwhileの書式です。",
+      "vi": "Đầu tiên phán đoán điều kiện, chỉ thực hiện xử lý khi thỏa điều kiện. Sau đó, quay lại điều kiện và phán đoán. Xử lý này lặp lại đến khi không thỏa điều kiện. Khi không thỏa điều kiện, vòng lặp kết thúc. Sau đây là định dạng while.",
+      "en": "First judge condition, execute processing only when condition is satisfied. Then return to condition and judge again. This processing repeats until condition is not satisfied. When condition not satisfied, loop ends. Following is while format.",
+      "terms": [
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        },
+        {
+          "kanji": "満",
+          "reading": "まん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "再",
+          "reading": "さい"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        },
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "終了",
+          "reading": "しゅうりょう"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "書式",
+          "reading": "しょしき"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【書式】繰り返し処理（while）",
+        "vi": "【Định dạng】Xử lý lặp (while)",
+        "en": "[Format] Loop Processing (while)"
+      },
+      "code": "while (条件式)\n    処理\nendwhile"
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "while",
+      "vi": "while (trong khi)",
+      "en": "while",
+      "my": "ဝောင်း"
+    },
+    {
+      "term": "endwhile",
+      "vi": "endwhile (kết thúc while)",
+      "en": "endwhile",
+      "my": "အင်ဒ်ဝောင်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

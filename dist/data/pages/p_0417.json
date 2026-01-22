@@ -1,0 +1,241 @@
+{
+  "page_id": 417,
+  "image": "p_0417.png",
+  "chapter": 11,
+  "section": "11-04",
+  "page_number": 401,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "11-04",
+      "title": {
+        "ja": "記憶",
+        "vi": "Ghi nhớ",
+        "en": "Memory"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "記録方法",
+        "vi": "Phương pháp ghi nhớ",
+        "en": "Recording Method"
+      },
+      "content": {
+        "ja": "コンピュータと私たち人間の情報の記録方法はとても似ています。コンピュータにも、脳のように情報を忘れてしまう装置と、ノートのように半永久的に情報を記録しておける装置があります。",
+        "vi": "Phương pháp ghi nhớ thông tin của máy tính và con người chúng ta rất giống nhau. Máy tính cũng có thiết bị quên thông tin như não và thiết bị có thể ghi nhớ thông tin bán vĩnh viễn như sổ ghi chép.",
+        "en": "Computer and human information recording methods are very similar. Computers also have devices that forget information like brain and devices that can record information semi-permanently like notebooks."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここでは、コンピュータの5つの役割のうちの1つ「記憶」について解説します。ITパスポート試験では「キャッシュメモリ」の出題頻度が最も高く、次いで「不揮発性メモリ」「SSD」「ハードディスク」の3つの用語がよく出題されます。",
+      "vi": "Ở đây giải thích về \"ghi nhớ\" - một trong 5 vai trò của máy tính. Trong kỳ thi IT Passport, \"bộ nhớ cache\" có tần suất ra đề cao nhất, tiếp theo là 3 thuật ngữ \"bộ nhớ không bay hơi\", \"SSD\", \"ổ đĩa cứng\" thường được ra đề.",
+      "en": "Here explains 'memory' - one of 5 computer roles. In IT Passport exam, 'cache memory' has highest frequency, followed by 3 terms 'non-volatile memory,' 'SSD,' 'hard disk' often appearing.",
+      "terms": [
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "記憶",
+          "reading": "きおく"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "不揮発性",
+          "reading": "ふきはつせい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "記憶装置の種類",
+      "vi": "Các loại thiết bị ghi nhớ",
+      "en": "Types of Memory Devices"
+    },
+    {
+      "type": "paragraph",
+      "ja": "記憶装置とは、そのなのとおり、データを記憶する装置です。身近にある記憶装置の具体例としては、持ち運びのできる「USBメモリ」や、スマートフォンに搭載されている「フラッシュメモリ」などがあります。",
+      "vi": "Thiết bị ghi nhớ là thiết bị ghi nhớ dữ liệu đúng như tên gọi. Ví dụ cụ thể của thiết bị ghi nhớ xung quanh chúng ta bao gồm \"USB memory\" có thể mang theo và \"flash memory\" được trang bị trong điện thoại thông minh.",
+      "en": "Memory device is device storing data as name suggests. Concrete examples of memory devices around us include portable 'USB memory' and 'flash memory' equipped in smartphones.",
+      "terms": [
+        {
+          "kanji": "記憶装置",
+          "reading": "きおくそうち"
+        },
+        {
+          "kanji": "記憶",
+          "reading": "きおく"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "身近",
+          "reading": "みじか"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "運",
+          "reading": "うん"
+        },
+        {
+          "kanji": "搭載",
+          "reading": "とうさい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "記憶装置は必須の機能です。もし記憶装置がない場合、撮影した写真を保存することすらできません。",
+      "vi": "Thiết bị ghi nhớ là chức năng bắt buộc. Nếu không có thiết bị ghi nhớ, thậm chí không thể lưu ảnh đã chụp.",
+      "en": "Memory device is essential function. Without memory device, can't even save taken photos.",
+      "terms": [
+        {
+          "kanji": "記憶装置",
+          "reading": "きおくそうち"
+        },
+        {
+          "kanji": "必須",
+          "reading": "ひっす"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "撮影",
+          "reading": "さつえい"
+        },
+        {
+          "kanji": "写真",
+          "reading": "しゃしん"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "コンピュータに搭載されている記憶装置は、大きく次の3つに分類できます。",
+      "vi": "Thiết bị ghi nhớ được trang bị trong máy tính có thể phân loại thành 3 loại lớn sau.",
+      "en": "Memory devices equipped in computers can be broadly classified into following 3 types.",
+      "terms": [
+        {
+          "kanji": "搭載",
+          "reading": "とうさい"
+        },
+        {
+          "kanji": "記憶装置",
+          "reading": "きおくそうち"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        {
+          "number": "(1)",
+          "ja": "主記憶装置",
+          "vi": "Bộ nhớ chính",
+          "en": "Main Memory"
+        },
+        {
+          "number": "(2)",
+          "ja": "補助記憶装置",
+          "vi": "Bộ nhớ phụ",
+          "en": "Auxiliary Storage"
+        },
+        {
+          "number": "(3)",
+          "ja": "キャッシュメモリ",
+          "vi": "Bộ nhớ cache",
+          "en": "Cache Memory"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "記憶装置",
+      "reading": "きおくそうち",
+      "vi": "Thiết bị ghi nhớ",
+      "en": "Memory Device",
+      "my": "မှတ်ဏာဢာ ကိရိယာ"
+    },
+    {
+      "term": "USBメモリ",
+      "vi": "USB memory",
+      "en": "USB Memory",
+      "my": "ယူအက်စ်ဘီ မဲမရီ"
+    },
+    {
+      "term": "フラッシュメモリ",
+      "vi": "Flash memory",
+      "en": "Flash Memory",
+      "my": "ဖလက်ရှ မဲမရီ"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

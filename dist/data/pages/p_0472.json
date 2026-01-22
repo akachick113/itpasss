@@ -1,0 +1,136 @@
+{
+  "page_id": 472,
+  "image": "p_0472.png",
+  "chapter": 13,
+  "section": "13-01",
+  "page_number": 456,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "13-01",
+      "title": {
+        "ja": "データベースの基本",
+        "vi": "Cơ bản về cơ sở dữ liệu",
+        "en": "Database Basics"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "データが集まる場所",
+        "vi": "Nơi dữ liệu tập hợp",
+        "en": "Place Where Data Gathers"
+      },
+      "content": {
+        "ja": "コンピュータの世界では、データが集まる場所をデータベースといいます。「ベース」には「本拠地」や「基盤となる場所」といった意味があります。つまり、データベースとは、「データが集められた場所」という意味です。",
+        "vi": "Trong thế giới máy tính, nơi dữ liệu tập hợp được gọi là cơ sở dữ liệu. \"Base\" có nghĩa là \"căn cứ\" hoặc \"nơi làm nền tảng\". Nghĩa là, cơ sở dữ liệu có nghĩa là \"nơi dữ liệu được tập hợp\".",
+        "en": "In computer world, place where data gathers is called database. 'Base' means 'headquarters' or 'foundation place.' Meaning, database means 'place where data is collected.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "本章では、業務システムにおいて非常に重要な役割を担っている「データベース」について解説します。データベースが扱う「データ（情報）」は、4大経営資源の1つです（ヒト、モノ、カネ、情報：p.18）。",
+      "vi": "Trong chương này, giải thích về \"Cơ sở dữ liệu\" đóng vai trò rất quan trọng trong hệ thống nghiệp vụ. \"Dữ liệu (thông tin)\" mà cơ sở dữ liệu xử lý là một trong 4 nguồn lực kinh doanh lớn (Con người, Vật, Tiền, Thông tin: trang 18).",
+      "en": "This chapter explains 'Database' which plays very important role in business systems. 'Data (information)' handled by database is one of 4 major business resources (People, Things, Money, Information: p.18).",
+      "terms": [
+        {
+          "kanji": "本章",
+          "reading": "ほんしょう"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "担",
+          "reading": "たん"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "大経営資源",
+          "reading": "だいけいえいしげん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "データベースとは",
+      "vi": "Cơ sở dữ liệu là gì",
+      "en": "What is Database"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "データベース",
+        "vi": "Cơ sở dữ liệu",
+        "en": "Database"
+      },
+      "definition": {
+        "ja": "データベース（Database）とは、情報の集まりです。データベースに情報（データ）を集めると、データを一元管理することができます。",
+        "vi": "Cơ sở dữ liệu (Database) là tập hợp thông tin. Khi thu thập thông tin (dữ liệu) vào cơ sở dữ liệu, có thể quản lý dữ liệu tập trung.",
+        "en": "Database is collection of information. When collecting information (data) in database, can manage data centrally."
+      },
+      "note": {
+        "ja": "重要！1つの場所に集めること！",
+        "vi": "Quan trọng! Tập hợp vào 1 nơi!",
+        "en": "Important! Collect in 1 place!"
+      }
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "データベースの概念図",
+        "vi": "Sơ đồ khái niệm cơ sở dữ liệu",
+        "en": "Database Concept Diagram"
+      },
+      "description": {
+        "ja": "左側：データをファイルで管理（Aさん、Bさん、Cさんそれぞれが売上データ、商品データ、在庫データを個別に持つ）→データがバラバラなところにある。右側：データをデータベースで管理（売上データ、商品データ、在庫データが1つの場所に集まっている）→データが1つの場所に集まっている",
+        "vi": "Bên trái: Quản lý dữ liệu bằng tệp (A-san, B-san, C-san mỗi người có dữ liệu bán hàng, dữ liệu sản phẩm, dữ liệu tồn kho riêng biệt) → Dữ liệu ở những nơi rời rạc. Bên phải: Quản lý dữ liệu bằng cơ sở dữ liệu (dữ liệu bán hàng, dữ liệu sản phẩm, dữ liệu tồn kho tập hợp ở 1 nơi) → Dữ liệu tập hợp ở 1 nơi",
+        "en": "Left: Managing data with files (A-san, B-san, C-san each have sales data, product data, inventory data separately) → Data scattered in different places. Right: Managing data with database (sales data, product data, inventory data gathered in 1 place) → Data gathered in 1 place"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "データベース",
+      "vi": "Cơ sở dữ liệu",
+      "en": "Database",
+      "my": "ဒေတာဘေး"
+    },
+    {
+      "term": "一元管理",
+      "reading": "いちげんかんり",
+      "vi": "Quản lý tập trung",
+      "en": "Centralized Management",
+      "my": "စင်တရလိုက် မန်နေးဂျမန်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

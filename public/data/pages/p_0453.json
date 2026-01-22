@@ -1,0 +1,276 @@
+{
+  "page_id": 453,
+  "image": "p_0453.png",
+  "chapter": 12,
+  "section": "12-03",
+  "page_number": 437,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "す。反面、バックアップファイルが複数になるので、復旧作業が差分バックアップよりもさらに煩雑になります。下図は、日曜日にフルバックアップをとり、月曜日から水曜日までの毎日、増分バックアップをとった状態を表しています。",
+      "vi": "Ngược lại, vì tệp sao lưu thành nhiều tệp, nên việc khôi phục còn phức tạp hơn sao lưu khác biệt. Hình dưới biểu thị trạng thái lấy sao lưu đầy đủ vào Chủ nhật, và lấy sao lưu tăng dần mỗi ngày từ thứ Hai đến thứ Tư.",
+      "en": "Conversely, since backup files become multiple, recovery work becomes even more complex than differential backup. Diagram below shows state of taking full backup on Sunday, and taking incremental backup daily from Monday to Wednesday.",
+      "terms": [
+        {
+          "kanji": "反面",
+          "reading": "はんめん"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "復旧作業",
+          "reading": "ふっきゅうさぎょう"
+        },
+        {
+          "kanji": "差分",
+          "reading": "さぶん"
+        },
+        {
+          "kanji": "煩雑",
+          "reading": "はんざつ"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "日曜日",
+          "reading": "にちようび"
+        },
+        {
+          "kanji": "月曜日",
+          "reading": "げつようび"
+        },
+        {
+          "kanji": "水曜日",
+          "reading": "すいようび"
+        },
+        {
+          "kanji": "毎日",
+          "reading": "まいにち"
+        },
+        {
+          "kanji": "増分",
+          "reading": "ぞうぶん"
+        },
+        {
+          "kanji": "状態",
+          "reading": "じょうたい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "増分バックアップ",
+        "vi": "Sao lưu tăng dần",
+        "en": "Incremental Backup"
+      },
+      "description": {
+        "ja": "日曜日にフルバックアップ、月・火・水・木に増分バックアップ。増分バックアップは前回からの差分のみ（非累積）",
+        "vi": "Sao lưu đầy đủ vào Chủ nhật, sao lưu tăng dần vào thứ Hai, Ba, Tư, Năm. Sao lưu tăng dần chỉ là khác biệt từ lần trước (không tích lũy)",
+        "en": "Full backup on Sunday, incremental backup on Mon/Tue/Wed/Thu. Incremental backup is only difference from previous (non-cumulative)"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "レプリケーションとアーカイブ",
+      "vi": "Sao chép và Lưu trữ",
+      "en": "Replication and Archive"
+    },
+    {
+      "type": "paragraph",
+      "ja": "バックアップと似た機能に「レプリケーション」と「アーカイブ」があります。レプリケーションとは、データの複製（レプリカ）を別のコンピュータ上に作成して、内容をリアルタイムに同期することです。一方、アーカイブとは、データを保管庫（アーカイブ）にコピーして長期間保存することです。",
+      "vi": "Chức năng tương tự sao lưu là \"sao chép (replication)\" và \"lưu trữ (archive)\". Sao chép là tạo bản sao (replica) dữ liệu trên máy tính khác và đồng bộ nội dung theo thời gian thực. Mặt khác, lưu trữ là sao chép dữ liệu vào kho lưu trữ (archive) và bảo quản dài hạn.",
+      "en": "Similar functions to backup are 'replication' and 'archive.' Replication is creating data copy (replica) on another computer and synchronizing content in real-time. On other hand, archive is copying data to storage (archive) and preserving long-term.",
+      "terms": [
+        {
+          "kanji": "似",
+          "reading": "じ"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "複製",
+          "reading": "ふくせい"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "同期",
+          "reading": "どうき"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "保管庫",
+          "reading": "ほかんこ"
+        },
+        {
+          "kanji": "長期間保存",
+          "reading": "ちょうきかんほぞん"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "レプリケーション、バックアップ、アーカイブの比較",
+        "vi": "So sánh Sao chép, Sao lưu, Lưu trữ",
+        "en": "Comparison of Replication, Backup, Archive"
+      },
+      "headers": {
+        "ja": [
+          "",
+          "レプリケーション",
+          "バックアップ",
+          "アーカイブ"
+        ],
+        "vi": [
+          "",
+          "Sao chép",
+          "Sao lưu",
+          "Lưu trữ"
+        ],
+        "en": [
+          "",
+          "Replication",
+          "Backup",
+          "Archive"
+        ]
+      },
+      "rows": [
+        {
+          "category": {
+            "ja": "目的",
+            "vi": "Mục đích",
+            "en": "Purpose"
+          },
+          "replication": {
+            "ja": "システムの継続",
+            "vi": "Tiếp tục hệ thống",
+            "en": "System continuity"
+          },
+          "backup": {
+            "ja": "データの復旧",
+            "vi": "Khôi phục dữ liệu",
+            "en": "Data recovery"
+          },
+          "archive": {
+            "ja": "データの参照",
+            "vi": "Tham chiếu dữ liệu",
+            "en": "Data reference"
+          }
+        },
+        {
+          "category": {
+            "ja": "コピーのタイミング",
+            "vi": "Thời điểm sao chép",
+            "en": "Copy timing"
+          },
+          "replication": {
+            "ja": "リアルタイム",
+            "vi": "Thời gian thực",
+            "en": "Real-time"
+          },
+          "backup": {
+            "ja": "数時間〜数日おき",
+            "vi": "Vài giờ ~ vài ngày",
+            "en": "Every few hours to days"
+          },
+          "archive": {
+            "ja": "数ヶ月〜数年おき",
+            "vi": "Vài tháng ~ vài năm",
+            "en": "Every few months to years"
+          }
+        }
+      ],
+      "note": {
+        "ja": "重要！それぞれの違いを整理！",
+        "vi": "Quan trọng! Sắp xếp sự khác biệt của mỗi loại!",
+        "en": "Important! Organize differences of each!"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "フルバックアップとは、常にすべてのデータをバックアップすること",
+          "vi": "Sao lưu đầy đủ là luôn sao lưu tất cả dữ liệu",
+          "en": "Full backup is always backing up all data"
+        },
+        {
+          "ja": "差分バックアップとは、フルバックアップ以降、新たに追加されたデータをバックアップすること",
+          "vi": "Sao lưu khác biệt là sao lưu dữ liệu mới được thêm từ sau sao lưu đầy đủ",
+          "en": "Differential backup is backing up data newly added since full backup"
+        },
+        {
+          "ja": "増分バックアップとは、前回のバックアップから新たに追加されたデータのみをバックアップすること",
+          "vi": "Sao lưu tăng dần là chỉ sao lưu dữ liệu mới được thêm từ lần sao lưu trước",
+          "en": "Incremental backup is backing up only data newly added since previous backup"
+        },
+        {
+          "ja": "レプリケーションとは、データの内容をリアルタイムに同期すること",
+          "vi": "Sao chép là đồng bộ nội dung dữ liệu theo thời gian thực",
+          "en": "Replication is synchronizing data content in real-time"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "レプリケーション",
+      "vi": "Sao chép (Replication)",
+      "en": "Replication",
+      "my": "ရီပလီကေးရှင်း"
+    },
+    {
+      "term": "アーカイブ",
+      "vi": "Lưu trữ (Archive)",
+      "en": "Archive",
+      "my": "အာကိုက်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

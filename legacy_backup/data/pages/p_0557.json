@@ -1,0 +1,194 @@
+{
+    "page_id": 557,
+    "image": "p_0557.png",
+    "chapter": 15,
+    "section": "Practice",
+    "page_number": 541,
+    "content": [
+        {
+            "type": "practice_question",
+            "number": "15-8",
+            "year": "平成21年度",
+            "question": {
+                "ja": "サーバに対するDoS攻撃のねらいはどれか。",
+                "vi": "Mục đích của DoS Attack đối với server là gì?",
+                "en": "What is aim of DoS Attack against server?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "サーバ管理者の権限を奪取する。",
+                        "vi": "Chiếm đoạt quyền của quản trị viên server.",
+                        "en": "Seize server administrator's authority."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "サービスを妨害する。",
+                        "vi": "Gây cản trở dịch vụ.",
+                        "en": "Obstruct service."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "データを改ざんする。",
+                        "vi": "Sửa đổi dữ liệu.",
+                        "en": "Falsify data."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "データを盗む。",
+                        "vi": "Đánh cắp dữ liệu.",
+                        "en": "Steal data."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "15-9",
+            "year": "平成28年度",
+            "question": {
+                "ja": "情報セキュリティにおいて、可用性が損なわれる事象はどれか。",
+                "vi": "Trong bảo mật thông tin, sự kiện nào làm mất tính sẵn sàng?",
+                "en": "In information security, which event damages availability?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "機密情報のコピーが格納されたUSBメモリが盗難にあった。",
+                        "vi": "USB có bản sao thông tin bí mật bị đánh cắp.",
+                        "en": "USB memory containing copy of confidential information was stolen."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "顧客情報管理システムの顧客情報が誤った内容のまま運用されていた。",
+                        "vi": "Thông tin khách hàng của hệ thống quản lý được vận hành với nội dung sai.",
+                        "en": "Customer information in management system was operated with incorrect content."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "社内のサーバに不正侵入されて、社外秘の情報が漏えいした。",
+                        "vi": "Server nội bộ bị xâm nhập trái phép, thông tin bí mật bị rò rỉ.",
+                        "en": "Internal server was illegally intruded, confidential information leaked."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "取引先との電子決済システムがDoS攻撃を受け、処理ができなくなった。",
+                        "vi": "Hệ thống thanh toán điện tử với đối tác bị DoS Attack, không thể xử lý.",
+                        "en": "Electronic payment system with business partner received DoS Attack, could not process."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "15-10",
+            "year": "平成25年度",
+            "question": {
+                "ja": "リスクマネジメントに含まれる四つのプロセスであるリスク対応、リスク特定、リスク評価、リスク分析を実施する順番として、適切なものはどれか。",
+                "vi": "Thứ tự thực hiện phù hợp cho 4 quy trình trong Quản lý rủi ro: đối phó rủi ro, xác định rủi ro, đánh giá rủi ro, phân tích rủi ro là gì?",
+                "en": "Which is appropriate order for implementing 4 Risk Management processes: risk response, risk identification, risk evaluation, risk analysis?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "リスク特定→リスク評価→リスク分析→リスク対応",
+                        "vi": "Xác định→Đánh giá→Phân tích→Đối phó",
+                        "en": "Identification→Evaluation→Analysis→Response"
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "リスク特定→リスク分析→リスク評価→リスク対応",
+                        "vi": "Xác định→Phân tích→Đánh giá→Đối phó",
+                        "en": "Identification→Analysis→Evaluation→Response"
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "リスク評価→リスク特定→リスク分析→リスク対応",
+                        "vi": "Đánh giá→Xác định→Phân tích→Đối phó",
+                        "en": "Evaluation→Identification→Analysis→Response"
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "リスク分析→リスク特定→リスク対応→リスク評価",
+                        "vi": "Phân tích→Xác định→Đối phó→Đánh giá",
+                        "en": "Analysis→Identification→Response→Evaluation"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "15-11",
+            "year": "令和6年度",
+            "question": {
+                "ja": "情報セキュリティのリスクマネジメントにおけるリスクへの対応を、リスク共有、リスク回避、リスク保有及びリスク低減の四つに分類するとき、リスク共有の例として、適切なものはどれか。",
+                "vi": "Khi phân loại đối phó rủi ro trong Quản lý rủi ro bảo mật thông tin thành 4 loại: chia sẻ rủi ro, tránh rủi ro, giữ lại rủi ro, giảm rủi ro, ví dụ nào phù hợp cho chia sẻ rủi ro?",
+                "en": "When classifying risk response in information security risk management into 4: risk sharing, risk avoidance, risk retention, risk reduction, which is appropriate example of risk sharing?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "災害によるシステムの停止時間を短くするために、遠隔地にバックアップセンターを設置する。",
+                        "vi": "Thiết lập trung tâm sao lưu ở xa để rút ngắn thời gian dừng hệ thống do thảm họa.",
+                        "en": "Install backup center at remote location to shorten system downtime due to disaster."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "情報漏えいによって発生する損害賠償や事故処理の損失補償のために、サイバー保険に加入する。",
+                        "vi": "Tham gia bảo hiểm mạng để bồi thường thiệt hại và bù đắp tổn thất xử lý sự cố do rò rỉ thông tin.",
+                        "en": "Join cyber insurance for damage compensation and loss compensation for incident handling due to information leakage."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "電子メールによる機密ファイルの流出を防ぐために、ファイルを添付した電子メールの送信には上司の許可を必要とする仕組みにする。",
+                        "vi": "Để ngăn rò rỉ file bí mật qua email, tạo cơ chế yêu cầu sự cho phép của cấp trên khi gửi email có đính kèm file.",
+                        "en": "To prevent confidential file leakage via email, require supervisor permission for sending emails with file attachments."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "ノートPCの紛失や盗難による情報漏えいを防ぐために、HDDを暗号化する。",
+                        "vi": "Mã hóa HDD để ngăn rò rỉ thông tin do mất hoặc bị đánh cắp laptop.",
+                        "en": "Encrypt HDD to prevent information leakage due to notebook PC loss or theft."
+                    }
+                }
+            ]
+        }
+    ],
+    "answer_key": {
+        "15-8": "イ",
+        "15-9": "エ",
+        "15-10": "イ",
+        "15-11": "イ"
+    },
+    "meta": {
+        "is_practice": true
+    }
+}

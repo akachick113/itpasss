@@ -1,0 +1,370 @@
+{
+  "page_id": 168,
+  "image": "p_0168.png",
+  "chapter": 4,
+  "section": "04-03",
+  "page_number": 152,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "CAD",
+      "vi": "CAD",
+      "en": "CAD"
+    },
+    {
+      "type": "paragraph",
+      "ja": "CAD（Computer Aided Design：コンピュータ支援設計）とは、製品の設計をコンピュータで行うシステムです。CADを利用すれば、従来は手作業で描いていた製品の設計図をコンピュータ上で作成できます。CADで作成した設計図はデジタルのデータなので、複製や保存、他者との共有を簡単に行うことができます。",
+      "vi": "CAD (Computer Aided Design: Thiết kế hỗ trợ bởi máy tính) là hệ thống thiết kế sản phẩm bằng máy tính. Sử dụng CAD, có thể tạo bản vẽ thiết kế sản phẩm trên máy tính mà trước đây phải vẽ tay. Bản vẽ thiết kế bằng CAD là dữ liệu số nên có thể dễ dàng sao chép, lưu trữ, chia sẻ với người khác.",
+      "en": "CAD (Computer Aided Design) is a system for designing products on computers. Using CAD, product blueprints that were previously hand-drawn can be created on computers. Since CAD designs are digital data, copying, saving, and sharing with others is easy.",
+      "my": "CAD (Computer Aided Design) သည် ကွန်ပျူတာများဖြင့် ထုတ်ကုန်များ ဒီဇိုင်းဆွဲသည့် စနစ်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "支援設計",
+          "reading": "しえんせっけい"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "設計",
+          "reading": "せっけい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "従来",
+          "reading": "じゅうらい"
+        },
+        {
+          "kanji": "手作業",
+          "reading": "てさぎょう"
+        },
+        {
+          "kanji": "描",
+          "reading": "びょう"
+        },
+        {
+          "kanji": "設計図",
+          "reading": "せっけいず"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "複製",
+          "reading": "ふくせい"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "他者",
+          "reading": "たしゃ"
+        },
+        {
+          "kanji": "共有",
+          "reading": "きょうゆう"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "CAM",
+      "vi": "CAM",
+      "en": "CAM"
+    },
+    {
+      "type": "paragraph",
+      "ja": "CAM（Computer Aided Manufacturing：コンピュータ支援製造）とは、CADで作成された設計図面のデータを元にして、工作機械を操作するためのプログラムを作成するシステムです。工作機械とは、材料に穴を開けたり、材料を削ったりする機械です。\n\nCAMを使用するメリットの1つに、職人（社員）の熟練度に左右されることなく、製造作業の精度や効率を高めることができることが挙げられます。",
+      "vi": "CAM (Computer Aided Manufacturing: Sản xuất hỗ trợ bởi máy tính) là hệ thống tạo chương trình điều khiển máy công cụ dựa trên dữ liệu bản vẽ thiết kế từ CAD. Máy công cụ là máy khoan lỗ hoặc gọt vật liệu.\n\nMột trong những lợi ích của CAM là có thể nâng cao độ chính xác và hiệu quả sản xuất mà không phụ thuộc vào trình độ thành thạo của thợ (nhân viên).",
+      "en": "CAM (Computer Aided Manufacturing) is a system that creates programs to operate machine tools based on design drawing data from CAD. Machine tools are machines that drill holes or cut materials.\n\nOne benefit of CAM is that manufacturing precision and efficiency can be improved regardless of craftsmen (employees') skill level.",
+      "my": "CAM (Computer Aided Manufacturing) သည် CAD မှ ဒီဇိုင်းပုံဆွဲဒေတာ အခြေခံ၍ စက်ကိရိယာများ လည်ပတ်ရန် ပရိုဂရမ်များ ဖန်တီးသည့် စနစ်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "支援製造",
+          "reading": "しえんせいぞう"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "設計図面",
+          "reading": "せっけいずめん"
+        },
+        {
+          "kanji": "元",
+          "reading": "もと"
+        },
+        {
+          "kanji": "工作機械",
+          "reading": "こうさくきかい"
+        },
+        {
+          "kanji": "操作",
+          "reading": "そうさ"
+        },
+        {
+          "kanji": "材料",
+          "reading": "ざいりょう"
+        },
+        {
+          "kanji": "穴",
+          "reading": "あな"
+        },
+        {
+          "kanji": "開",
+          "reading": "ひら"
+        },
+        {
+          "kanji": "削",
+          "reading": "さく"
+        },
+        {
+          "kanji": "機械",
+          "reading": "きかい"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "職人",
+          "reading": "しょくにん"
+        },
+        {
+          "kanji": "社員",
+          "reading": "しゃいん"
+        },
+        {
+          "kanji": "熟練度",
+          "reading": "じゅくれんど"
+        },
+        {
+          "kanji": "左右",
+          "reading": "さゆう"
+        },
+        {
+          "kanji": "製造作業",
+          "reading": "せいぞうさぎょう"
+        },
+        {
+          "kanji": "精度",
+          "reading": "せいど"
+        },
+        {
+          "kanji": "効率",
+          "reading": "こうりつ"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "挙",
+          "reading": "きょ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "コンカレントエンジニアリング",
+      "reading": "こんかれんとえんじにありんぐ",
+      "vi": "Concurrent Engineering",
+      "en": "Concurrent Engineering",
+      "my": "Concurrent Engineering"
+    },
+    {
+      "type": "paragraph",
+      "ja": "コンカレントエンジニアリング（Concurrent Engineering）とは、製品の開発プロセスを同時並行で行う手法です。Concurrentは「同時」という意味です。設計から生産に至るまでの作業を同時並行で行うことで開発期間を短縮することができます。",
+      "vi": "Concurrent Engineering là phương pháp thực hiện quy trình phát triển sản phẩm đồng thời song song. Concurrent nghĩa là đồng thời. Bằng cách thực hiện công việc từ thiết kế đến sản xuất đồng thời song song, có thể rút ngắn thời gian phát triển.",
+      "en": "Concurrent Engineering is a method of conducting product development processes simultaneously in parallel. Concurrent means 'simultaneous'. By performing work from design to production in parallel, development time can be shortened.",
+      "my": "Concurrent Engineering သည် ထုတ်ကုန်ဖွံ့ဖြိုးရေးလုပ်ငန်းစဉ်များကို တပြိုင်နက်တည်း အပြိုင်လုပ်ဆောင်သော နည်းလမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "同時並行",
+          "reading": "どうじへいこう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "同時",
+          "reading": "どうじ"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "設計",
+          "reading": "せっけい"
+        },
+        {
+          "kanji": "生産",
+          "reading": "せいさん"
+        },
+        {
+          "kanji": "至",
+          "reading": "いた"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "開発期間",
+          "reading": "かいはつきかん"
+        },
+        {
+          "kanji": "短縮",
+          "reading": "たんしゅく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "（1）「設計」「試作」「生産準備」の3つの生産工程がある\n（2）従来の生産工程では、すべての設計が終わった後で試作に入り、試作が終わった後で生産準備に入っていた\n（3）コンカレントエンジニアリングでは、設計工程の途中で試作をはじめ、また試作工程の途中で生産準備をはじめる\n（4）複数の開発プロセスを同時並行で行うことで、全体の開発期間を短縮できる",
+      "vi": "(1) Có 3 công đoạn sản xuất: thiết kế, thử nghiệm, chuẩn bị sản xuất\n(2) Trong công đoạn sản xuất truyền thống, sau khi hoàn thành tất cả thiết kế mới bắt đầu thử nghiệm, sau khi thử nghiệm xong mới chuẩn bị sản xuất\n(3) Trong Concurrent Engineering, bắt đầu thử nghiệm giữa chừng thiết kế, cũng như bắt đầu chuẩn bị sản xuất giữa chừng thử nghiệm\n(4) Bằng cách thực hiện nhiều quy trình phát triển đồng thời song song, có thể rút ngắn toàn bộ thời gian phát triển",
+      "en": "(1) There are 3 production stages: design, prototype, production preparation\n(2) In traditional production, prototyping started after all design was complete, and production preparation after prototyping\n(3) In concurrent engineering, prototyping starts during design, and production preparation starts during prototyping\n(4) By conducting multiple development processes in parallel, overall development time can be shortened",
+      "my": "(1) ထုတ်လုပ်ရေးအဆင့် ၃ ခုရှိသည်: ဒီဇိုင်း၊ ပုံစံတူ၊ ထုတ်လုပ်ရေး ပြင်ဆင်မှု",
+      "terms": [
+        {
+          "kanji": "設計",
+          "reading": "せっけい"
+        },
+        {
+          "kanji": "試作",
+          "reading": "しさく"
+        },
+        {
+          "kanji": "生産準備",
+          "reading": "せいさんじゅんび"
+        },
+        {
+          "kanji": "生産工程",
+          "reading": "せいさんこうてい"
+        },
+        {
+          "kanji": "従来",
+          "reading": "じゅうらい"
+        },
+        {
+          "kanji": "終",
+          "reading": "おわり"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "設計工程",
+          "reading": "せっけいこうてい"
+        },
+        {
+          "kanji": "途中",
+          "reading": "とちゅう"
+        },
+        {
+          "kanji": "試作工程",
+          "reading": "しさくこうてい"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "同時並行",
+          "reading": "どうじへいこう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "開発期間",
+          "reading": "かいはつきかん"
+        },
+        {
+          "kanji": "短縮",
+          "reading": "たんしゅく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "CAD",
+      "reading": "きゃど",
+      "romaji": "Computer Aided Design",
+      "vi": "Thiết kế hỗ trợ máy tính",
+      "en": "Computer Aided Design",
+      "my": "CAD"
+    },
+    {
+      "kanji": "CAM",
+      "reading": "きゃむ",
+      "romaji": "Computer Aided Manufacturing",
+      "vi": "Sản xuất hỗ trợ máy tính",
+      "en": "Computer Aided Manufacturing",
+      "my": "CAM"
+    },
+    {
+      "kanji": "コンカレントエンジニアリング",
+      "reading": "こんかれんとえんじにありんぐ",
+      "romaji": "Concurrent Engineering",
+      "vi": "Kỹ thuật đồng thời",
+      "en": "Concurrent Engineering",
+      "my": "Concurrent Engineering"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true
+  }
+}

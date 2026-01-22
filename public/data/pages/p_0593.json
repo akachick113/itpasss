@@ -1,0 +1,267 @@
+{
+    "page_id": 593,
+    "image": "p_0593.png",
+    "chapter": "review",
+    "section": "exam_review",
+    "page_number": 577,
+    "content": [
+        {
+            "type": "review_section_header",
+            "title": {
+                "ja": "寝る前10分＆試験直前に効果的！重要用語を総復習！",
+                "vi": "Hiệu quả 10 phút trước khi ngủ & ngay trước khi thi! Ôn tập tổng hợp các thuật ngữ quan trọng!",
+                "en": "Effective 10 min before sleep & right before exam! Complete review of important terms!"
+            }
+        },
+        {
+            "type": "review_chapter",
+            "chapter_num": 1,
+            "title": {
+                "ja": "1章",
+                "vi": "Chương 1",
+                "en": "Chapter 1"
+            },
+            "terms": [
+                {
+                    "ja": "経営理念とは、企業の存在意義",
+                    "vi": "Lý niệm kinh doanh là ý nghĩa tồn tại của doanh nghiệp",
+                    "en": "Corporate philosophy is raison d'être of company"
+                },
+                {
+                    "ja": "ビジョンとは、企業が目指す将来の姿",
+                    "vi": "Tầm nhìn là hình ảnh tương lai mà doanh nghiệp hướng tới",
+                    "en": "Vision is future image company aims for"
+                },
+                {
+                    "ja": "経営戦略とは、ビジョンを実現するための具体的な行動計画",
+                    "vi": "Chiến lược kinh doanh là kế hoạch hành động cụ thể để thực hiện tầm nhìn",
+                    "en": "Business strategy is concrete action plan to realize vision"
+                },
+                {
+                    "ja": "CSRとは、企業の社会的責任",
+                    "vi": "CSR là trách nhiệm xã hội của doanh nghiệp",
+                    "en": "CSR is corporate social responsibility"
+                },
+                {
+                    "ja": "ソーシャルビジネスとは、子育てや介護、環境問題などの社会的課題を、ビジネスの手法を活用して解決しようとする企業活動",
+                    "vi": "Social Business là hoạt động doanh nghiệp cố gắng giải quyết các vấn đề xã hội như nuôi con, chăm sóc người già, vấn đề môi trường bằng phương pháp kinh doanh",
+                    "en": "Social Business is corporate activity trying to solve social issues like childcare, nursing, environmental problems using business methods"
+                },
+                {
+                    "ja": "SDGsとは、持続可能な世界を実現するための17の国際目標",
+                    "vi": "SDGs là 17 mục tiêu quốc tế để thực hiện thế giới bền vững",
+                    "en": "SDGs are 17 international goals to realize sustainable world"
+                },
+                {
+                    "ja": "OJTとは、業務の実践を通じた教育訓練",
+                    "vi": "OJT là đào tạo thông qua thực hành nghiệp vụ",
+                    "en": "OJT is training through practical work"
+                },
+                {
+                    "ja": "Off-JTとは、仕事を離れて行われる教育訓練",
+                    "vi": "Off-JT là đào tạo được thực hiện khi rời khỏi công việc",
+                    "en": "Off-JT is training conducted away from work"
+                },
+                {
+                    "ja": "HRテックとは、HRMのうち、AIやIoTにいった最先端のITを活用した分野",
+                    "vi": "HR Tech là lĩnh vực sử dụng IT tiên tiến như AI và IoT trong HRM",
+                    "en": "HR Tech is field utilizing cutting-edge IT like AI and IoT in HRM"
+                },
+                {
+                    "ja": "コアコンピタンスとは、各事業部を組合した企業としての成果や価値",
+                    "vi": "Core Competency là thành quả và giá trị của doanh nghiệp kết hợp các bộ phận kinh doanh",
+                    "en": "Core Competency is results and value as company combining business divisions"
+                },
+                {
+                    "ja": "CEO：経営の最高責任者",
+                    "vi": "CEO: Giám đốc điều hành cao nhất",
+                    "en": "CEO: Chief Executive Officer"
+                },
+                {
+                    "ja": "CIO：情報システム戦略の最高責任者",
+                    "vi": "CIO: Giám đốc chiến lược hệ thống thông tin cao nhất",
+                    "en": "CIO: Chief Information Officer"
+                },
+                {
+                    "ja": "CISO：情報セキュリティの最高責任者",
+                    "vi": "CISO: Giám đốc bảo mật thông tin cao nhất",
+                    "en": "CISO: Chief Information Security Officer"
+                },
+                {
+                    "ja": "パレート図は：棒グラフと折れ線グラフを組み合わせたグラフ。重要なデータが網羅的に識別されるため、重要な項目を一目で確認できる",
+                    "vi": "Biểu đồ Pareto: Biểu đồ kết hợp biểu đồ cột và biểu đồ đường. Vì dữ liệu quan trọng được nhận diện toàn diện nên có thể xác nhận các mục quan trọng trong nháy mắt",
+                    "en": "Pareto chart: Graph combining bar chart and line graph. Important data is comprehensively identified, allowing important items to be confirmed at a glance"
+                },
+                {
+                    "ja": "ABC分析：重要度で3つのグループにランク分け",
+                    "vi": "Phân tích ABC: Xếp hạng thành 3 nhóm theo mức độ quan trọng",
+                    "en": "ABC Analysis: Ranking into 3 groups by importance"
+                },
+                {
+                    "ja": "レーダーチャート：放射状の図",
+                    "vi": "Biểu đồ radar: Biểu đồ hình tỏa tròn",
+                    "en": "Radar chart: Radial diagram"
+                },
+                {
+                    "ja": "散布図：相関関係は「正の相関」「負の相関」「相関なし」の3つ",
+                    "vi": "Biểu đồ phân tán: Quan hệ tương quan có 3 loại \"tương quan dương\", \"tương quan âm\", \"không có tương quan\"",
+                    "en": "Scatter plot: Correlation has 3 types: positive correlation, negative correlation, no correlation"
+                },
+                {
+                    "ja": "回帰分析：過去を分析して、将来を予測する方法",
+                    "vi": "Phân tích hồi quy: Phương pháp phân tích quá khứ để dự đoán tương lai",
+                    "en": "Regression analysis: Method analyzing past to predict future"
+                },
+                {
+                    "ja": "ブレーンストーミング：複数人でアイデアを出し合う",
+                    "vi": "Brainstorming: Nhiều người cùng đưa ra ý tưởng",
+                    "en": "Brainstorming: Multiple people share ideas together"
+                },
+                {
+                    "ja": "資本金は貸借対照表の純資産の部に分類される",
+                    "vi": "Vốn được phân loại vào phần tài sản ròng của bảng cân đối kế toán",
+                    "en": "Capital is classified in net assets section of balance sheet"
+                },
+                {
+                    "ja": "自己資本比率＝自己資本÷総資本×100",
+                    "vi": "Tỷ lệ vốn tự có = Vốn tự có ÷ Tổng vốn × 100",
+                    "en": "Equity ratio = Equity ÷ Total capital × 100"
+                },
+                {
+                    "ja": "営業利益＝売上総利益－販売費",
+                    "vi": "Lợi nhuận kinh doanh = Lợi nhuận gộp - Chi phí bán hàng",
+                    "en": "Operating profit = Gross profit - Selling expenses"
+                },
+                {
+                    "ja": "経常利益＝営業利益＋営業外収益－営業外費用",
+                    "vi": "Lợi nhuận thường xuyên = Lợi nhuận kinh doanh + Thu nhập ngoài kinh doanh - Chi phí ngoài kinh doanh",
+                    "en": "Ordinary profit = Operating profit + Non-operating income - Non-operating expenses"
+                },
+                {
+                    "ja": "純利益＝経常利益＋特別利益－特別損失－法人税等",
+                    "vi": "Lợi nhuận ròng = Lợi nhuận thường xuyên + Lợi nhuận đặc biệt - Tổn thất đặc biệt - Thuế doanh nghiệp",
+                    "en": "Net profit = Ordinary profit + Extraordinary gains - Extraordinary losses - Corporate taxes"
+                },
+                {
+                    "ja": "キャッシュフロー計算書：現金の出入りを「営業活動」「投資活動」「財務活動」の3つに分けて計算する",
+                    "vi": "Báo cáo lưu chuyển tiền tệ: Tính toán tiền ra vào chia thành 3 phần \"hoạt động kinh doanh\", \"hoạt động đầu tư\", \"hoạt động tài chính\"",
+                    "en": "Cash flow statement: Calculate cash in/out divided into 3: operating activities, investing activities, financing activities"
+                },
+                {
+                    "ja": "ROEとは、自己資本に対して、どれだけの利益を出したかを表す指標である",
+                    "vi": "ROE là chỉ số thể hiện đã tạo ra bao nhiêu lợi nhuận so với vốn tự có",
+                    "en": "ROE is indicator showing how much profit was generated relative to equity"
+                }
+            ]
+        },
+        {
+            "type": "review_chapter",
+            "chapter_num": 2,
+            "title": {
+                "ja": "2章",
+                "vi": "Chương 2",
+                "en": "Chapter 2"
+            },
+            "terms": [
+                {
+                    "ja": "著作権は、著作物を創作した時点で自動的に発生する（役所などへの申請は不要）",
+                    "vi": "Quyền tác giả tự động phát sinh tại thời điểm tạo ra tác phẩm (không cần đăng ký với cơ quan)",
+                    "en": "Copyright automatically arises when work is created (no application to offices needed)"
+                },
+                {
+                    "ja": "著作権法は、本、音楽、写真、美術作品、映像、説明書、プログラム、データベースを保護する",
+                    "vi": "Luật bản quyền bảo vệ sách, âm nhạc, ảnh, tác phẩm mỹ thuật, video, hướng dẫn sử dụng, chương trình, cơ sở dữ liệu",
+                    "en": "Copyright law protects books, music, photos, artworks, videos, manuals, programs, databases"
+                },
+                {
+                    "ja": "プログラム言語、アルゴリズム、プロトコルは著作権法で保護されない",
+                    "vi": "Ngôn ngữ lập trình, thuật toán, giao thức không được bảo vệ bởi luật bản quyền",
+                    "en": "Programming languages, algorithms, protocols are not protected by copyright law"
+                },
+                {
+                    "ja": "高度な発明に与えられる権利：特許権",
+                    "vi": "Quyền được cấp cho phát minh tiên tiến: Quyền sáng chế",
+                    "en": "Right given to advanced invention: Patent"
+                },
+                {
+                    "ja": "高度でなくても実用的に与えられる権利：実用新案権",
+                    "vi": "Quyền được cấp thực tế ngay cả khi không tiên tiến: Quyền mẫu hữu ích",
+                    "en": "Right given practically even if not advanced: Utility model right"
+                },
+                {
+                    "ja": "デザインに与えられる権利：意匠権",
+                    "vi": "Quyền được cấp cho thiết kế: Quyền kiểu dáng",
+                    "en": "Right given to design: Design right"
+                },
+                {
+                    "ja": "サービスに与えられる権利：商標権",
+                    "vi": "Quyền được cấp cho dịch vụ: Quyền thương hiệu",
+                    "en": "Right given to service: Trademark right"
+                },
+                {
+                    "ja": "バブリシティ権：有名人の写真を勝手に商品に掲載して販売することは違法となる権利",
+                    "vi": "Quyền công khai: Quyền khiến việc tự ý đăng ảnh người nổi tiếng lên sản phẩm và bán là bất hợp pháp",
+                    "en": "Publicity right: Right making it illegal to publish celebrity photos on products without permission and sell"
+                },
+                {
+                    "ja": "クロスライセンス：権利者同士が互いに権利を使う",
+                    "vi": "Cấp phép chéo: Các chủ sở hữu quyền sử dụng quyền của nhau",
+                    "en": "Cross-license: Rights holders use each other's rights"
+                },
+                {
+                    "ja": "なりすましによるアクセス：他人のIDとパスワードを不正利用、コンピュータにアクセス",
+                    "vi": "Truy cập mạo danh: Sử dụng trái phép ID và mật khẩu của người khác để truy cập máy tính",
+                    "en": "Access by impersonation: Illegally using others' ID and password to access computer"
+                },
+                {
+                    "ja": "セキュリティホールからのアクセス：セキュリティの欠点を使ってアクセス",
+                    "vi": "Truy cập từ lỗ hổng bảo mật: Truy cập sử dụng điểm yếu bảo mật",
+                    "en": "Access from security hole: Accessing using security flaws"
+                },
+                {
+                    "ja": "労働者派遣契約とは、労働者は派遣先の指揮命令系",
+                    "vi": "Hợp đồng phái cử lao động là hệ thống chỉ huy mà người lao động nhận lệnh từ nơi được phái cử",
+                    "en": "Worker dispatch contract: Worker follows chain of command at dispatch destination"
+                },
+                {
+                    "ja": "請負契約とは、委託元の指揮命令に従わない",
+                    "vi": "Hợp đồng khoán: Không tuân theo chỉ huy của bên ủy thác",
+                    "en": "Contract work: Does not follow client's chain of command"
+                },
+                {
+                    "ja": "労働基準法など：法定時間と経営時間",
+                    "vi": "Luật tiêu chuẩn lao động: Thời gian theo luật định và thời gian kinh doanh",
+                    "en": "Labor Standards Law etc.: Statutory hours and business hours"
+                },
+                {
+                    "ja": "労働契約法：労働条件の最低限度を定めた法律",
+                    "vi": "Luật hợp đồng lao động: Luật quy định mức tối thiểu của điều kiện lao động",
+                    "en": "Labor Contract Law: Law establishing minimum working conditions"
+                },
+                {
+                    "ja": "労働者が遵守すべき法律：労働の義務",
+                    "vi": "Luật người lao động phải tuân thủ: Nghĩa vụ lao động",
+                    "en": "Law workers must follow: Duty to work"
+                },
+                {
+                    "ja": "コンプライアンスとは、次の2つを守ること",
+                    "vi": "Tuân thủ là việc tuân thủ 2 điều sau",
+                    "en": "Compliance is following these 2 things"
+                },
+                {
+                    "ja": "企業倫理：業績の上げるないように適切な仕事",
+                    "vi": "Đạo đức doanh nghiệp: Công việc phù hợp không làm giảm hiệu suất",
+                    "en": "Corporate ethics: Appropriate work that doesn't reduce performance"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "is_review": true,
+        "chapters_covered": [
+            1,
+            2
+        ]
+    }
+}

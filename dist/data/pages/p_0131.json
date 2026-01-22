@@ -1,0 +1,66 @@
+{
+    "page_id": 131,
+    "image": "p_0131.png",
+    "chapter": 3,
+    "section": "answers",
+    "page_number": 115,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "3-5",
+            "answer": "ア",
+            "explanation": {
+                "ja": "株の買い付けを「公表」して行うことからTOBの説明だとわかります。\n\nイ. M&Aの説明です。\n\nウ. 自社株式取得の説明です。\n\nエ. MBOの説明です。",
+                "vi": "Vì là mua cổ phiếu công bố nên biết đây là giải thích TOB.\n\nイ Giải thích M&A.\n\nウ Giải thích mua lại cổ phiếu của mình.\n\nエ Giải thích MBO.",
+                "en": "Publicly announcing share purchase indicates TOB explanation.\n\nB. M&A explanation.\n\nC. Treasury stock acquisition explanation.\n\nD. MBO explanation."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "3-6",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "マーケティングミックスは4つの要素で構成されるため、誤りの選択肢にも4つの要素を持つSWOT分析やPPMがよく登場します。\n\nア. SWOT分析の説明です。\n\nイ. 3Cの説明です。\n\nエ. PPMの説明です。",
+                "vi": "Marketing Mix gồm 4 yếu tố nên trong lựa chọn sai cũng thường xuất hiện SWOT Analysis và PPM có 4 yếu tố.\n\nア Giải thích SWOT Analysis.\n\nイ Giải thích 3C.\n\nエ Giải thích PPM.",
+                "en": "Marketing Mix has 4 elements, so wrong choices often include SWOT Analysis and PPM which also have 4 elements.\n\nA. SWOT Analysis explanation.\n\nB. 3C explanation.\n\nD. PPM explanation."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "3-7",
+            "answer": "イ",
+            "explanation": {
+                "ja": "RFM分析とは、データベース化された顧客情報であるRecency（最終購買日）、Frequency（購買頻度）、Monetary（累計購買金額）を用いてマーケティングを行う方法です。",
+                "vi": "RFM Analysis là phương pháp thực hiện Marketing bằng cách sử dụng thông tin khách hàng đã được cơ sở dữ liệu hóa: Recency (Ngày mua cuối), Frequency (Tần suất mua), Monetary (Tổng tiền mua).",
+                "en": "RFM Analysis is a marketing method using databased customer information: Recency (last purchase date), Frequency (purchase frequency), Monetary (cumulative purchase amount)."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "3-8",
+            "answer": "エ",
+            "explanation": {
+                "ja": "UXとは、利用者が商品やサービスを利用することで得られる体験です。よって、エが正解です。\n\nア. ユニバーサルデザインの説明です。\n\nイ. CRMの説明です。\n\nウ. ユーザビリティの説明です。",
+                "vi": "UX là trải nghiệm người dùng có được khi sử dụng sản phẩm hoặc dịch vụ. Do đó, エ là đáp án.\n\nア Giải thích Universal Design.\n\nイ Giải thích CRM.\n\nウ Giải thích Usability.",
+                "en": "UX is the experience users get from using products or services. Thus, D is correct.\n\nA. Universal Design explanation.\n\nB. CRM explanation.\n\nC. Usability explanation."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "3-9",
+            "answer": "イ",
+            "explanation": {
+                "ja": "ベンチャーキャピタル（Venture Capital：VC）とは、ベンチャー企業に投資を行う企業です。また、ベンチャー企業とは、独自の技術で急成長する新興企業です。ベンチャーキャピタルは、投資したベンチャー企業が株式市場に上場した後に、その株式を売却することで、大きな利益を得ることができます。\n\nア. ジョイントベンチャーに関する記述です。\n\nウ. オープンイノベーションに関する記述です。\n\nエ. プロジェクト組織に関する記述です。",
+                "vi": "Venture Capital (VC) là doanh nghiệp đầu tư vào doanh nghiệp khởi nghiệp. Doanh nghiệp khởi nghiệp là doanh nghiệp mới nổi phát triển nhanh bằng công nghệ độc đáo. VC có thể thu lợi lớn bằng cách bán cổ phiếu sau khi doanh nghiệp được đầu tư niêm yết trên thị trường.\n\nア Mô tả về Joint Venture.\n\nウ Mô tả về Open Innovation.\n\nエ Mô tả về tổ chức dự án.",
+                "en": "Venture Capital (VC) invests in venture companies. Venture companies are startups growing rapidly with unique technology. VC can gain large profits by selling shares after invested ventures list on stock market.\n\nA. Description of Joint Venture.\n\nC. Description of Open Innovation.\n\nD. Description of project organization."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "3-5, 3-6, 3-7, 3-8, 3-9"
+    }
+}

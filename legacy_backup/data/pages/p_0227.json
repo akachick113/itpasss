@@ -1,0 +1,306 @@
+{
+  "page_id": 227,
+  "image": "p_0227.png",
+  "chapter": 5,
+  "section": "05-07",
+  "page_number": 211,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "業務要件の洗い出し",
+      "vi": "Rà soát yêu cầu nghiệp vụ",
+      "en": "Identifying Work Requirements"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ユーザーからのヒアリングが終わったら、その結果をもとにして「業務要件」を洗い出します。業務要件とは、日々の仕事を行うために必要となる条件です。\n\n例えば、回転寿司屋さんの業務要件を例にすると、注文を受ける、寿司を作る、寿司を提供する、会計をする、などが業務要件になります。これらの業務要件が1つでも欠けると、業務は行えなくなります。",
+      "vi": "Sau khi phỏng vấn User xong, dựa trên kết quả đó sẽ rà soát 'yêu cầu nghiệp vụ'. Yêu cầu nghiệp vụ là điều kiện cần thiết để thực hiện công việc hàng ngày.\n\nVí dụ, với yêu cầu nghiệp vụ của quán sushi băng chuyền: nhận đơn, làm sushi, phục vụ sushi, thanh toán là các yêu cầu nghiệp vụ. Nếu thiếu một trong những yêu cầu nghiệp vụ này, nghiệp vụ không thể thực hiện được.",
+      "en": "After interviewing users, identify 'work requirements' based on the results. Work requirements are conditions needed to perform daily work.\n\nFor example, for a conveyor belt sushi shop's work requirements: receiving orders, making sushi, serving sushi, and billing are work requirements. If even one of these work requirements is missing, work cannot be performed.",
+      "my": "Users များကို interview ပြီးနောက် ရလဒ်များအပေါ် အခြေခံ၍ 'work requirements' ကို ခွဲခြားသတ်မှတ်သည်။",
+      "terms": [
+        {
+          "kanji": "終",
+          "reading": "おわり"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "業務要件",
+          "reading": "ぎょうむようけん"
+        },
+        {
+          "kanji": "洗",
+          "reading": "せん"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "日",
+          "reading": "にち"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "回転寿司屋",
+          "reading": "かいてんずしや"
+        },
+        {
+          "kanji": "注文",
+          "reading": "ちゅうもん"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "寿司",
+          "reading": "すし"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "会計",
+          "reading": "かいけい"
+        },
+        {
+          "kanji": "欠",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・要件定義プロセスとは、業務要件を明確にするプロセスである\n・要件定義プロセスの主な目的は「ユーザーのニーズを知ること」",
+        "vi": "・Quy trình định nghĩa yêu cầu là quy trình làm rõ yêu cầu nghiệp vụ\n・Mục đích chính của Quy trình định nghĩa yêu cầu là 'biết nhu cầu của User'",
+        "en": "・Requirements Definition Process is a process to clarify work requirements\n・The main purpose of Requirements Definition Process is 'to know user needs'",
+        "my": "・ Requirements Definition Process သည် work requirements ကို ရှင်းလင်းစေသော process ဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "要件定義",
+            "reading": "ようけんていぎ"
+          },
+          {
+            "kanji": "業務要件",
+            "reading": "ぎょうむようけん"
+          },
+          {
+            "kanji": "明確",
+            "reading": "めいかく"
+          },
+          {
+            "kanji": "主",
+            "reading": "しゅ"
+          },
+          {
+            "kanji": "目的",
+            "reading": "もくてき"
+          },
+          {
+            "kanji": "知",
+            "reading": "ち"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "わからなくなったら絵に描いてみる",
+        "vi": "Nếu không hiểu hãy thử vẽ",
+        "en": "If You Don't Understand, Try Drawing"
+      },
+      "content": {
+        "ja": "「図解」や「イラスト」は、物事を理解するのにとても有効な手法です。そのため、世の中には「図解でわかる〜」や「マンガで学ぶ〜」といった類の実用書がたくさんあります。これらの実用書が人気なのは、多くの人がこの手法が有効であると知っているからです。\n\nこのため、本書でもできるだけ多くの概念図や解説図を載せています。ただし、すべての用語を図解しているわけではないので、もし本書の内容だけでは足りない場合は、読んで学んだことを、みなさん自身で絵に描いてみたり、またはインターネットを検索して適切な解説図を探してみてください。文字を読むだけでは なかなか理解できないことも、解説図を見れば すんなり理解できることがたくさんあります。",
+        "vi": "Sơ đồ và minh họa là phương pháp rất hiệu quả để hiểu sự việc. Vì vậy có nhiều sách thực dụng như 'hiểu qua sơ đồ' hoặc 'học qua manga'. Những sách này phổ biến vì nhiều người biết phương pháp này hiệu quả.\n\nVì vậy sách này cũng đưa nhiều sơ đồ khái niệm và giải thích nhất có thể. Tuy nhiên không phải tất cả thuật ngữ đều được minh họa, nếu nội dung sách không đủ, hãy thử vẽ những gì đã học hoặc tìm kiếm trên internet để tìm sơ đồ giải thích phù hợp. Nhiều điều khó hiểu khi chỉ đọc chữ có thể dễ dàng hiểu khi xem sơ đồ giải thích.",
+        "en": "Diagrams and illustrations are very effective methods for understanding things. So there are many practical books like 'understand through diagrams' or 'learn through manga'. These books are popular because many people know this method is effective.\n\nSo this book also includes as many concept and explanation diagrams as possible. However, not all terms are illustrated, so if the book's content isn't enough, try drawing what you've learned yourself, or search the internet for appropriate explanation diagrams. Many things hard to understand by reading alone can be easily understood by looking at explanation diagrams.",
+        "terms": [
+          {
+            "kanji": "図解",
+            "reading": "ずかい"
+          },
+          {
+            "kanji": "物事",
+            "reading": "ものごと"
+          },
+          {
+            "kanji": "理解",
+            "reading": "りかい"
+          },
+          {
+            "kanji": "有効",
+            "reading": "ゆうこう"
+          },
+          {
+            "kanji": "手法",
+            "reading": "しゅほう"
+          },
+          {
+            "kanji": "世",
+            "reading": "よ"
+          },
+          {
+            "kanji": "中",
+            "reading": "なか"
+          },
+          {
+            "kanji": "学",
+            "reading": "がく"
+          },
+          {
+            "kanji": "類",
+            "reading": "るい"
+          },
+          {
+            "kanji": "実用書",
+            "reading": "じつようかき"
+          },
+          {
+            "kanji": "人気",
+            "reading": "にんき"
+          },
+          {
+            "kanji": "多",
+            "reading": "た"
+          },
+          {
+            "kanji": "人",
+            "reading": "にん"
+          },
+          {
+            "kanji": "知",
+            "reading": "ち"
+          },
+          {
+            "kanji": "本書",
+            "reading": "ほんしょ"
+          },
+          {
+            "kanji": "概念図",
+            "reading": "がいねんず"
+          },
+          {
+            "kanji": "解説図",
+            "reading": "かいせつず"
+          },
+          {
+            "kanji": "載",
+            "reading": "さい"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          },
+          {
+            "kanji": "内容",
+            "reading": "ないよう"
+          },
+          {
+            "kanji": "足",
+            "reading": "あし"
+          },
+          {
+            "kanji": "場合",
+            "reading": "ばあい"
+          },
+          {
+            "kanji": "読",
+            "reading": "どく"
+          },
+          {
+            "kanji": "自身",
+            "reading": "じしん"
+          },
+          {
+            "kanji": "絵",
+            "reading": "え"
+          },
+          {
+            "kanji": "描",
+            "reading": "びょう"
+          },
+          {
+            "kanji": "検索",
+            "reading": "けんさく"
+          },
+          {
+            "kanji": "適切",
+            "reading": "てきせつ"
+          },
+          {
+            "kanji": "探",
+            "reading": "たん"
+          },
+          {
+            "kanji": "文字",
+            "reading": "もじ"
+          },
+          {
+            "kanji": "見",
+            "reading": "けん"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "業務要件",
+      "reading": "ぎょうむようけん",
+      "romaji": "Gyoumu Youken",
+      "vi": "Yêu cầu nghiệp vụ",
+      "en": "Work Requirements",
+      "my": "လုပ်ငန်း လိုအပ်ချက်များ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

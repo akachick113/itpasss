@@ -1,0 +1,150 @@
+{
+    "page_id": 535,
+    "image": "p_0535.png",
+    "chapter": 14,
+    "section": "Answer",
+    "page_number": 519,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "14-11",
+            "answer": "ア",
+            "explanation": {
+                "ja": "IPv4は32ビットの大きさを持ちます。それに対して、IPv6は128ビットの大きさを持ちます。",
+                "vi": "IPv4 có kích thước 32 bit. Trong khi đó, IPv6 có kích thước 128 bit.",
+                "en": "IPv4 has 32-bit size. In contrast, IPv6 has 128-bit size."
+            },
+            "option_explanations": [
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "IPv6とIPv4は共存できます。",
+                        "vi": "IPv6 và IPv4 có thể cùng tồn tại.",
+                        "en": "IPv6 and IPv4 can coexist."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "IPv6はデータの宛先となるコンピュータを見分けるプロトコルなので、有線や無線に関わらず、利用できます。",
+                        "vi": "Vì IPv6 là giao thức phân biệt máy tính là đích dữ liệu, có thể sử dụng bất kể có dây hay không dây.",
+                        "en": "Since IPv6 is protocol identifying computer as data destination, can use regardless of wired or wireless."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "IPv6はツイストペアケーブルも利用できます。",
+                        "vi": "IPv6 cũng có thể sử dụng cáp xoắn đôi.",
+                        "en": "IPv6 can also use twisted pair cables."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "14-12",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "Bccに指定した宛先のメールアドレスは、他の宛先には通知されません。",
+                "vi": "Địa chỉ email của người nhận được chỉ định trong Bcc sẽ không được thông báo cho người nhận khác.",
+                "en": "Email addresses of recipients specified in Bcc are not notified to other recipients."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "14-13",
+            "answer": "エ",
+            "explanation": {
+                "ja": "「Webサーバからの情報を一時的に保存」というキーワードから、エが正解であると判断できます。アはCSSに関する記述です。イはHTTPSに関する記述です。ウはCGIに関する記述です。",
+                "vi": "Từ từ khóa \"lưu trữ tạm thời thông tin từ máy chủ Web\", có thể phán đoán đáp án đúng là エ. ア là mô tả về CSS. イ là mô tả về HTTPS. ウ là mô tả về CGI.",
+                "en": "From keyword 'temporarily store Web server information,' can determine エ is correct. ア is about CSS. イ is about HTTPS. ウ is about CGI."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "14-14",
+            "answer": "イ",
+            "explanation": {
+                "ja": "エッジコンピューティングとは、IoT機器の近くにサーバを配置することで応答速度を高める技術です。「工場（IoTデバイス群）のふち（エッジ）に置く」と覚えましょう。アはレプリケーションに関する記述です。ウはSDNに関する記述です。エはLPWAに関する記述です。",
+                "vi": "Edge Computing là công nghệ nâng cao tốc độ phản hồi bằng cách đặt máy chủ gần thiết bị IoT. Hãy nhớ là \"đặt ở rìa (edge) của nhà máy (nhóm thiết bị IoT)\". ア là mô tả về replication. ウ là mô tả về SDN. エ là mô tả về LPWA.",
+                "en": "Edge Computing is technology increasing response speed by placing servers near IoT devices. Remember as 'place at edge of factory (IoT device group).' ア is about replication. ウ is about SDN. エ is about LPWA."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "14-15",
+            "answer": "ア",
+            "explanation": {
+                "ja": "BLE（Bluetooth Low Energy）は、Bluetoothの仕様の1つで、省電力の通信規格です。センサーデバイスやウェアラブル機器など、電池で長期間動作することが求められるIoTシステムにおいて特に広く利用されています。さらに、RSSI（Received Signal Strength Indicator：受信信号強度）を使うことで、送受信機器間のおおよその距離を推定することも可能です。",
+                "vi": "BLE (Bluetooth Low Energy) là một thông số kỹ thuật của Bluetooth, là tiêu chuẩn truyền thông tiết kiệm năng lượng. Được sử dụng rộng rãi đặc biệt trong hệ thống IoT yêu cầu hoạt động lâu dài bằng pin như thiết bị cảm biến và thiết bị đeo được. Hơn nữa, bằng cách sử dụng RSSI (Received Signal Strength Indicator: Cường độ tín hiệu nhận), có thể ước tính khoảng cách gần đúng giữa các thiết bị gửi nhận.",
+                "en": "BLE (Bluetooth Low Energy) is one of Bluetooth specifications, power-saving communication standard. Widely used especially in IoT systems requiring long-term battery operation like sensor devices and wearables. Furthermore, by using RSSI (Received Signal Strength Indicator), can estimate approximate distance between send/receive devices."
+            },
+            "option_explanations": [
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "IrDA（Infrared Data Association）は赤外線通信規格です。通信距離が短く、障害物にも弱いため、IoT用途には不向きです。",
+                        "vi": "IrDA (Infrared Data Association) là quy cách truyền thông hồng ngoại. Khoảng cách truyền thông ngắn và yếu với vật cản nên không phù hợp cho IoT.",
+                        "en": "IrDA (Infrared Data Association) is infrared communication standard. Short communication distance and weak against obstacles, so unsuitable for IoT."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "NFC（Near Field Communication）は、数cm程度の非常に近距離での通信技術です。省電力ではありますが、距離測定には向いていません。",
+                        "vi": "NFC (Near Field Communication) là công nghệ truyền thông khoảng cách rất gần khoảng vài cm. Tiết kiệm năng lượng nhưng không phù hợp để đo khoảng cách.",
+                        "en": "NFC (Near Field Communication) is very short-range communication technology of few cm. Power-saving but not suitable for distance measurement."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "PLC（Power Line Communication）は、電力線を使った通信技術です。IoT機器の無線通信や距離測定とは異なる技術です。",
+                        "vi": "PLC (Power Line Communication) là công nghệ truyền thông sử dụng đường dây điện. Là công nghệ khác với truyền thông không dây và đo khoảng cách thiết bị IoT.",
+                        "en": "PLC (Power Line Communication) is communication technology using power lines. Different technology from IoT device wireless communication and distance measurement."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "14-16",
+            "answer": "ア",
+            "explanation": {
+                "ja": "LPWAの正語は「Low Power Wide Area」です。つまり「省電力（Low Power）」「広範囲（Wide Area）」がLPWAの特徴になります。これを覚えておけば、この2つのキーワードが入っている選択肢が正解であると導くことができます。",
+                "vi": "Tên đầy đủ của LPWA là \"Low Power Wide Area\". Tức là \"tiết kiệm năng lượng (Low Power)\" và \"phạm vi rộng (Wide Area)\" là đặc điểm của LPWA. Nếu nhớ điều này, có thể suy ra lựa chọn chứa 2 từ khóa này là đáp án đúng.",
+                "en": "LPWA's full name is 'Low Power Wide Area.' Meaning 'power-saving (Low Power)' and 'wide range (Wide Area)' are LPWA's characteristics. If remember this, can deduce that option containing these 2 keywords is correct."
+            },
+            "option_explanations": [
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "MDMは、社員に支給するスマートフォンなどの携帯情報端末を企業が統合的に管理する手法です。",
+                        "vi": "MDM là phương pháp doanh nghiệp quản lý tích hợp các thiết bị thông tin di động như smartphone cấp cho nhân viên.",
+                        "en": "MDM is method for companies to integrally manage mobile information devices like smartphones provided to employees."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "SDNは、ネットワークを構成する通信機器を、ソフトウェアで制御する技術です。",
+                        "vi": "SDN là công nghệ điều khiển thiết bị truyền thông cấu thành mạng bằng phần mềm.",
+                        "en": "SDN is technology controlling communication devices constituting network with software."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "WPA2は、無線LAN上の通信を暗号化する規格です。",
+                        "vi": "WPA2 là quy cách mã hóa truyền thông trên LAN không dây.",
+                        "en": "WPA2 is standard for encrypting communication on wireless LAN."
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "is_answer": true
+    }
+}

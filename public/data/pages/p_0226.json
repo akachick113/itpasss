@@ -1,0 +1,356 @@
+{
+  "page_id": 226,
+  "image": "p_0226.png",
+  "chapter": 5,
+  "section": "05-07",
+  "page_number": 210,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ROIとは",
+      "reading": "あーるおーあいとは",
+      "vi": "ROI là gì",
+      "en": "What is ROI"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ROI（Return On Investment：投資利益率）とは、情報システムの費用対効果（コストパフォーマンス）を評価するための指標です。投資した金額に対して得られる利益の割合から求めます。ROIの値が高いほど、費用対効果（コストパフォーマンス）が良い投資であるといえます。\n\nROI＝利益÷投資額",
+      "vi": "ROI (Return On Investment: Tỷ lệ lợi nhuận đầu tư) là chỉ số đánh giá hiệu quả chi phí (cost performance) của hệ thống thông tin. Tính từ tỷ lệ lợi nhuận thu được so với số tiền đầu tư. ROI càng cao thì hiệu quả chi phí (cost performance) càng tốt.\n\nROI = Lợi nhuận ÷ Số tiền đầu tư",
+      "en": "ROI (Return On Investment) is an indicator to evaluate cost-effectiveness (cost performance) of information systems. Calculated from the ratio of profit to invested amount. The higher the ROI, the better the cost-effectiveness (cost performance) of the investment.\n\nROI = Profit ÷ Investment Amount",
+      "my": "ROI (Return On Investment) သည် information systems ၏ cost-effectiveness ကို အကဲဖြတ်ရန် indicator ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "投資利益率",
+          "reading": "とうしりえきりつ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "費用対効果",
+          "reading": "ひようついこうか"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "指標",
+          "reading": "しひょう"
+        },
+        {
+          "kanji": "投資",
+          "reading": "とうし"
+        },
+        {
+          "kanji": "金額",
+          "reading": "きんがく"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "割合",
+          "reading": "わりあい"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "投資額",
+          "reading": "とうしがく"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・企画プロセスの目的は、システムを実現するための実施計画を得ることである\n・企画プロセスは、システム化構想の立案とシステム化計画の立案に分類される\n・システム化構想の立案プロセスでは、経営上のニーズや課題を確認する\n・システム化計画の立案プロセスでは、費用とシステム投資効果を予測する\n・ROIの計算式は、ROI＝利益÷投資額",
+        "vi": "・Mục đích của Quy trình lập kế hoạch là có được kế hoạch thực hiện để thực hiện hệ thống\n・Quy trình lập kế hoạch được phân thành Lập cấu tưởng hệ thống hóa và Lập kế hoạch hệ thống hóa\n・Trong Quy trình lập cấu tưởng hệ thống hóa, xác nhận nhu cầu và vấn đề kinh doanh\n・Trong Quy trình lập kế hoạch hệ thống hóa, dự đoán chi phí và hiệu quả đầu tư hệ thống\n・Công thức ROI: ROI = Lợi nhuận ÷ Số tiền đầu tư",
+        "en": "・Purpose of Planning Process is to obtain implementation plans to realize systems\n・Planning Process is classified into System Concept Planning and Systemization Planning\n・In System Concept Planning Process, confirm management needs and issues\n・In Systemization Planning Process, predict cost and system investment effect\n・ROI formula: ROI = Profit ÷ Investment Amount",
+        "my": "・ Planning Process ၏ ရည်ရွယ်ချက်မှာ systems ကို အကောင်အထည်ဖော်ရန် implementation plans ရယူခြင်း",
+        "terms": [
+          {
+            "kanji": "企画",
+            "reading": "きかく"
+          },
+          {
+            "kanji": "目的",
+            "reading": "もくてき"
+          },
+          {
+            "kanji": "実現",
+            "reading": "じつげん"
+          },
+          {
+            "kanji": "実施計画",
+            "reading": "じっしけいかく"
+          },
+          {
+            "kanji": "得",
+            "reading": "え"
+          },
+          {
+            "kanji": "化構想",
+            "reading": "かこうそう"
+          },
+          {
+            "kanji": "立案",
+            "reading": "りつあん"
+          },
+          {
+            "kanji": "化計画",
+            "reading": "かけいかく"
+          },
+          {
+            "kanji": "分類",
+            "reading": "ぶんるい"
+          },
+          {
+            "kanji": "経営上",
+            "reading": "けいえいじょう"
+          },
+          {
+            "kanji": "課題",
+            "reading": "かだい"
+          },
+          {
+            "kanji": "確認",
+            "reading": "かくにん"
+          },
+          {
+            "kanji": "費用",
+            "reading": "ひよう"
+          },
+          {
+            "kanji": "投資効果",
+            "reading": "とうしこうか"
+          },
+          {
+            "kanji": "予測",
+            "reading": "よそく"
+          },
+          {
+            "kanji": "計算式",
+            "reading": "けいさんしき"
+          },
+          {
+            "kanji": "利益",
+            "reading": "りえき"
+          },
+          {
+            "kanji": "投資額",
+            "reading": "とうしがく"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "要件定義プロセス",
+      "vi": "Quy trình định nghĩa yêu cầu",
+      "en": "Requirements Definition Process"
+    },
+    {
+      "type": "paragraph",
+      "ja": "企画プロセスの次は要件定義プロセスです。要件定義プロセスとは、ユーザーが業務を行うのに必要な要件を明確にするプロセスです。要件定義プロセスの主な目的は「ユーザーのニーズを知ること」です。",
+      "vi": "Sau Quy trình lập kế hoạch là Quy trình định nghĩa yêu cầu. Quy trình định nghĩa yêu cầu là quy trình làm rõ yêu cầu cần thiết để User thực hiện nghiệp vụ. Mục đích chính của Quy trình định nghĩa yêu cầu là 'biết nhu cầu của User'.",
+      "en": "After the Planning Process comes the Requirements Definition Process. Requirements Definition Process is the process of clarifying requirements needed for users to perform work. The main purpose of Requirements Definition Process is 'to know user needs'.",
+      "my": "Planning Process ပြီးနောက် Requirements Definition Process ရောက်လာသည်။",
+      "terms": [
+        {
+          "kanji": "企画",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "要件",
+          "reading": "ようけん"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "知",
+          "reading": "ち"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "要件定義プロセスの進め方",
+      "vi": "Cách tiến hành Quy trình định nghĩa yêu cầu",
+      "en": "How to Proceed with Requirements Definition Process"
+    },
+    {
+      "type": "paragraph",
+      "ja": "要件定義プロセスでは、システムに必要な要件を明らかにするために、現在のシステムを利用しているユーザーや、業務を手作業で行っているユーザーから「どんなシステムが必要なのか（ニーズ）」をヒアリングします。\n\nなお、「ニーズを確認する」というタスクは、企画プロセスにもありましたが（p.208）、企画プロセスで確認するのは「経営上のニーズ」であり、要件定義プロセスで確認するのは「ユーザーのニーズ」です。同じ言葉でも内容や目的はまったく異なるので注意してください。",
+      "vi": "Trong Quy trình định nghĩa yêu cầu, để làm rõ yêu cầu cần thiết cho hệ thống, sẽ phỏng vấn User đang sử dụng hệ thống hiện tại hoặc User thực hiện nghiệp vụ thủ công để biết 'hệ thống cần thiết là gì (nhu cầu)'.\n\nNgoài ra, task 'xác nhận nhu cầu' cũng có trong Quy trình lập kế hoạch (trang 208), nhưng Quy trình lập kế hoạch xác nhận 'nhu cầu kinh doanh', còn Quy trình định nghĩa yêu cầu xác nhận 'nhu cầu của User'. Dù cùng từ ngữ nhưng nội dung và mục đích hoàn toàn khác nên hãy chú ý.",
+      "en": "In Requirements Definition Process, to clarify requirements needed for the system, interview users currently using the system or users doing work manually to find out 'what system is needed (needs)'.\n\nNote that the 'confirm needs' task also exists in Planning Process (p.208), but Planning Process confirms 'management needs', while Requirements Definition Process confirms 'user needs'. Even with the same words, content and purpose are completely different, so be careful.",
+      "my": "Requirements Definition Process တွင် system အတွက် လိုအပ်သော requirements ကို ရှင်းလင်းရန် လက်ရှိ system ကို အသုံးပြုနေသော users များကို interview ပြုလုပ်သည်။",
+      "terms": [
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "要件",
+          "reading": "ようけん"
+        },
+        {
+          "kanji": "明",
+          "reading": "めい"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "手作業",
+          "reading": "てさぎょう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "企画",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "経営上",
+          "reading": "けいえいじょう"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ROI",
+      "reading": "あーるおーあい",
+      "romaji": "Return On Investment",
+      "vi": "Tỷ lệ hoàn vốn đầu tư",
+      "en": "Return On Investment",
+      "my": "ရင်းနှီးမှု အမြတ်အစွန်း"
+    },
+    {
+      "kanji": "投資利益率",
+      "reading": "とうしりえきりつ",
+      "romaji": "Toushi Riekiritsu",
+      "vi": "Tỷ lệ lợi nhuận đầu tư",
+      "en": "Investment Profit Rate",
+      "my": "ရင်းနှီးမှု အမြတ်အစွန်း နှုန်း"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

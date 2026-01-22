@@ -1,0 +1,411 @@
+{
+  "page_id": 395,
+  "image": "p_0395.png",
+  "chapter": 10,
+  "section": "10-03",
+  "page_number": 379,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "RAIDのレベル（種類）",
+        "vi": "Cấp độ (loại) RAID",
+        "en": "RAID Levels (Types)"
+      },
+      "headers": {
+        "ja": [
+          "レベル",
+          "説明"
+        ],
+        "vi": [
+          "Cấp độ",
+          "Giải thích"
+        ],
+        "en": [
+          "Level",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "level": "RAID 0",
+          "description": {
+            "ja": "データを複数のハードディスクに分散させて書き込む記憶方式。別名「ストライピング」。",
+            "vi": "Phương thức lưu trữ phân tán và ghi dữ liệu lên nhiều ổ đĩa cứng. Tên khác \"Striping\".",
+            "en": "Storage method distributing and writing data to multiple hard disks. Also called 'Striping.'"
+          }
+        },
+        {
+          "level": "RAID 1",
+          "description": {
+            "ja": "複数のハードディスクに同じデータを書き込む記憶方式。別名「ミラーリング」。",
+            "vi": "Phương thức lưu trữ ghi cùng dữ liệu lên nhiều ổ đĩa cứng. Tên khác \"Mirroring\".",
+            "en": "Storage method writing same data to multiple hard disks. Also called 'Mirroring.'"
+          }
+        },
+        {
+          "level": "RAID 2",
+          "description": {
+            "ja": "データに「ハミングコード」という誤り訂正符号を加えて、複数のディスクに分けてデータを書き込む記憶方式。",
+            "vi": "Phương thức lưu trữ thêm mã sửa lỗi \"Hamming code\" vào dữ liệu và ghi phân tán lên nhiều đĩa.",
+            "en": "Storage method adding 'Hamming code' error correction and writing data distributed to multiple disks."
+          }
+        },
+        {
+          "level": "RAID 3",
+          "description": {
+            "ja": "誤り訂正符号は専用のディスクに書き込み、データはその他のディスクに分散して書き込む記憶方式。",
+            "vi": "Phương thức lưu trữ ghi mã sửa lỗi vào đĩa chuyên dụng và ghi dữ liệu phân tán lên các đĩa khác.",
+            "en": "Storage method writing error correction to dedicated disk and distributing data to other disks."
+          }
+        },
+        {
+          "level": "RAID 4",
+          "description": {
+            "ja": "RAID 3と同様の記録方式だが、データの分割をブロック（セクター）単位で行う記憶方式。",
+            "vi": "Phương thức lưu trữ giống RAID 3 nhưng phân chia dữ liệu theo đơn vị block (sector).",
+            "en": "Storage method same as RAID 3 but divides data in block (sector) units."
+          }
+        },
+        {
+          "level": "RAID 5",
+          "description": {
+            "ja": "データに「パリティ」という誤り訂正符号を加えて、複数のディスクに分散してデータを書き込む記憶方式。",
+            "vi": "Phương thức lưu trữ thêm mã sửa lỗi \"parity\" vào dữ liệu và ghi phân tán lên nhiều đĩa.",
+            "en": "Storage method adding 'parity' error correction and writing data distributed to multiple disks."
+          }
+        },
+        {
+          "level": "RAID 6",
+          "description": {
+            "ja": "RAID 5と同様の記録方式だが、パリティを2重に生成する記憶方式。",
+            "vi": "Phương thức lưu trữ giống RAID 5 nhưng tạo parity kép.",
+            "en": "Storage method same as RAID 5 but generates dual parity."
+          }
+        }
+      ],
+      "note": {
+        "ja": "※データSOS「故障から学ぶのRAID講座」（https://www.data-sos.com/）を参考に一部改変",
+        "vi": "※Tham khảo và chỉnh sửa một phần từ Data SOS \"Khóa học RAID từ sự cố\"",
+        "en": "※Partially modified from Data SOS 'RAID course from failures'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "レベルは「記録方式」の違いを表す。性能の高さではない！",
+      "vi": "Cấp độ biểu thị sự khác biệt về \"phương thức ghi\". Không phải là mức hiệu suất!",
+      "en": "Level represents difference in 'recording method.' Not performance level!",
+      "terms": [
+        {
+          "kanji": "記録方式",
+          "reading": "きろくほうしき"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "性能",
+          "reading": "せいのう"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ストライピング",
+      "reading": "ストライピング",
+      "vi": "Striping",
+      "en": "Striping"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ストライピング（RAID 0）とは、データを複数のハードディスクに分散させて書き込む記憶方式です。",
+      "vi": "Striping (RAID 0) là phương thức lưu trữ phân tán và ghi dữ liệu lên nhiều ổ đĩa cứng.",
+      "en": "Striping (RAID 0) is storage method distributing and writing data to multiple hard disks.",
+      "terms": [
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "分散",
+          "reading": "ぶんさん"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "込",
+          "reading": "こみ"
+        },
+        {
+          "kanji": "記憶方式",
+          "reading": "きおくほうしき"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "次ページの図を参照してください。図を見るとわかるように、ストライピングではデータが多重化されていません。RAID 0は「複数のディスクをあたかも1つのディスクとして扱う技術」なので、ディスクが1つでも壊れると全体が動作しなくなります。つまり、ストライピングにしてもシステムの可用性は上がりません。むしろディスクが増えた分だけ故障するリスクが上がるので、可用性は下がります。",
+      "vi": "Hãy xem hình ở trang tiếp theo. Như có thể thấy từ hình, trong striping dữ liệu không được đa bản hóa. RAID 0 là \"công nghệ xử lý nhiều đĩa như thể là một đĩa\" nên nếu một đĩa hỏng thì toàn bộ không hoạt động được. Tức là, striping không tăng tính khả dụng của hệ thống. Thậm chí vì rủi ro hỏng tăng theo số đĩa nên tính khả dụng giảm.",
+      "en": "See diagram on next page. As can see from diagram, in striping data is not redundant. RAID 0 is 'technology treating multiple disks as if one disk' so if one disk breaks, entire system stops working. So striping doesn't increase system availability. Rather availability decreases because failure risk increases with more disks.",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "多重化",
+          "reading": "たじゅうか"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "壊",
+          "reading": "かい"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "動作",
+          "reading": "どうさ"
+        },
+        {
+          "kanji": "可用性",
+          "reading": "かようせい"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "増",
+          "reading": "ぞう"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "故障",
+          "reading": "こしょう"
+        },
+        {
+          "kanji": "下",
+          "reading": "した"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方で、ストライピングにすると、ハードディスクに並列でアクセスできるので、データの読み書きを高速化できます。",
+      "vi": "Mặt khác, với striping có thể truy cập song song vào ổ đĩa cứng nên có thể tăng tốc đọc ghi dữ liệu.",
+      "en": "On other hand, with striping can access hard disks in parallel, so can speed up data reading/writing.",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "並列",
+          "reading": "へいれつ"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "高速化",
+          "reading": "こうそくか"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ミラーリング",
+      "reading": "ミラーリング",
+      "vi": "Mirroring",
+      "en": "Mirroring"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ミラーリング（RAID 1）とは、複数のハードディスクに同じデータを書き込む記憶方式です。ミラーリングにするとすべてのデータが多重化されるため、万が一、1つのディスクが破損しても、別のディスクを使って処理を続けることができます。つまり、ミラーリングにするとシステムの可用性が上がります。",
+      "vi": "Mirroring (RAID 1) là phương thức lưu trữ ghi cùng dữ liệu lên nhiều ổ đĩa cứng. Với mirroring tất cả dữ liệu được đa bản hóa nên nếu một đĩa hỏng, có thể tiếp tục xử lý bằng đĩa khác. Tức là, mirroring tăng tính khả dụng của hệ thống.",
+      "en": "Mirroring (RAID 1) is storage method writing same data to multiple hard disks. With mirroring all data is redundant so if one disk breaks, can continue processing using another disk. So mirroring increases system availability.",
+      "terms": [
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "込",
+          "reading": "こみ"
+        },
+        {
+          "kanji": "記憶方式",
+          "reading": "きおくほうしき"
+        },
+        {
+          "kanji": "多重化",
+          "reading": "たじゅうか"
+        },
+        {
+          "kanji": "万",
+          "reading": "まん"
+        },
+        {
+          "kanji": "一",
+          "reading": "いち"
+        },
+        {
+          "kanji": "破損",
+          "reading": "はそん"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "続",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "可用性",
+          "reading": "かようせい"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方、デメリットもあります。ミラーリングでは、1つのデータを複数のディスクに保存するため、同じディスク容量で比較した場合に、保存できるデータ量はストライピングの半分になります。これは費用の増加につながります。また、データを同時に複数のディスクに記録するため、処理速度も遅くなります。",
+      "vi": "Mặt khác, cũng có nhược điểm. Trong mirroring, vì lưu một dữ liệu lên nhiều đĩa nên khi so sánh cùng dung lượng đĩa, lượng dữ liệu có thể lưu chỉ bằng một nửa striping. Điều này dẫn đến tăng chi phí. Ngoài ra, vì ghi dữ liệu đồng thời lên nhiều đĩa nên tốc độ xử lý cũng chậm hơn.",
+      "en": "On other hand, there are demerits. In mirroring, since saving one data to multiple disks, when comparing same disk capacity, saveable data amount is half of striping. This leads to cost increase. Also processing speed slows because recording data to multiple disks simultaneously.",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "容量",
+          "reading": "ようりょう"
+        },
+        {
+          "kanji": "比較",
+          "reading": "ひかく"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "量",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "半分",
+          "reading": "はんぶん"
+        },
+        {
+          "kanji": "費用",
+          "reading": "ひよう"
+        },
+        {
+          "kanji": "増加",
+          "reading": "ぞうか"
+        },
+        {
+          "kanji": "同時",
+          "reading": "どうじ"
+        },
+        {
+          "kanji": "記録",
+          "reading": "きろく"
+        },
+        {
+          "kanji": "処理速度",
+          "reading": "しょりそくど"
+        },
+        {
+          "kanji": "遅",
+          "reading": "ち"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "has_table": true,
+    "is_key_content": true
+  }
+}

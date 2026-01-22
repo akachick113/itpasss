@@ -1,0 +1,283 @@
+{
+  "page_id": 422,
+  "image": "p_0422.png",
+  "chapter": 11,
+  "section": "11-04",
+  "page_number": 406,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "半導体メモリ",
+      "reading": "はんどうたいメモリ",
+      "vi": "Bộ nhớ bán dẫn",
+      "en": "Semiconductor Memory"
+    },
+    {
+      "type": "paragraph",
+      "ja": "続いて、現在のコンピュータの記憶装置に欠かせない部品である「半導体メモリ」について解説します。",
+      "vi": "Tiếp theo, giải thích về \"bộ nhớ bán dẫn\" - bộ phận không thể thiếu cho thiết bị ghi nhớ của máy tính hiện đại.",
+      "en": "Next, explains 'semiconductor memory' - essential component for current computer memory devices.",
+      "terms": [
+        {
+          "kanji": "続",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "記憶装置",
+          "reading": "きおくそうち"
+        },
+        {
+          "kanji": "欠",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "部品",
+          "reading": "ぶひん"
+        },
+        {
+          "kanji": "半導体",
+          "reading": "はんどうたい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "半導体メモリとは、半導体に電気を通すことで、データを保存する装置です。先述したように、記憶装置にデータを保存する方法には磁気（HDDなど）や、光（CDやDVDなど）、電気（USBメモリやSDカードなど）が使われています（p.404）。これらのうち、電気を使ってデータを読み書きする記憶装置の部品として使われているのが「半導体メモリ」です。",
+      "vi": "Bộ nhớ bán dẫn là thiết bị lưu dữ liệu bằng cách cho điện chạy qua bán dẫn. Như đã đề cập trước đó, phương pháp lưu dữ liệu vào thiết bị ghi nhớ sử dụng từ (HDD, v.v.), ánh sáng (CD, DVD, v.v.), điện (USB memory, thẻ SD, v.v.) (trang 404). Trong số này, \"bộ nhớ bán dẫn\" được sử dụng như bộ phận của thiết bị ghi nhớ đọc ghi dữ liệu bằng điện.",
+      "en": "Semiconductor memory is device storing data by passing electricity through semiconductor. As mentioned earlier, methods for storing data in memory devices use magnetism (HDD, etc.), light (CD, DVD, etc.), electricity (USB memory, SD card, etc.) (p.404). Among these, 'semiconductor memory' is used as component of memory devices reading/writing data using electricity.",
+      "terms": [
+        {
+          "kanji": "半導体",
+          "reading": "はんどうたい"
+        },
+        {
+          "kanji": "電気",
+          "reading": "でんき"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "先述",
+          "reading": "せんじゅつ"
+        },
+        {
+          "kanji": "記憶装置",
+          "reading": "きおくそうち"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "磁気",
+          "reading": "じき"
+        },
+        {
+          "kanji": "光",
+          "reading": "ひかり"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "部品",
+          "reading": "ぶひん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、半導体メモリは、単に「メモリ」と呼ばれることが多いので、本書でも以降は半導体メモリのことを「メモリ」と記載します。",
+      "vi": "Ngoài ra, vì bộ nhớ bán dẫn thường được gọi đơn giản là \"memory\", nên từ đây cuốn sách này cũng sẽ ghi bộ nhớ bán dẫn là \"memory\".",
+      "en": "Also, since semiconductor memory is often simply called 'memory,' this book will also write semiconductor memory as 'memory' from here on.",
+      "terms": [
+        {
+          "kanji": "半導体",
+          "reading": "はんどうたい"
+        },
+        {
+          "kanji": "単",
+          "reading": "たん"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "本書",
+          "reading": "ほんしょ"
+        },
+        {
+          "kanji": "以降",
+          "reading": "いこう"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "メモリの種類",
+      "vi": "Các loại memory",
+      "en": "Types of Memory"
+    },
+    {
+      "type": "paragraph",
+      "ja": "メモリには次のようにたくさんの種類があります。",
+      "vi": "Có nhiều loại memory như sau.",
+      "en": "There are many types of memory as follows.",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "主なメモリの種類",
+        "vi": "Các loại memory chính",
+        "en": "Main Memory Types"
+      },
+      "description": {
+        "ja": "メモリ → RAM（揮発性）→ DRAM（主記憶、リフレッシュ必要）/ SRAM（キャッシュメモリ、リフレッシュ不要）\n        → ROM（不揮発性）→ マスクROM（読み出しのみ）/ PROM → EPROM（紫外線でデータを消去）/ EEPROM → フラッシュメモリ（電気でデータを消去）",
+        "vi": "Memory → RAM (bay hơi) → DRAM (bộ nhớ chính, cần làm mới) / SRAM (bộ nhớ cache, không cần làm mới)\n        → ROM (không bay hơi) → Mask ROM (chỉ đọc) / PROM → EPROM (xóa dữ liệu bằng tia cực tím) / EEPROM → Flash memory (xóa dữ liệu bằng điện)",
+        "en": "Memory → RAM (volatile) → DRAM (main memory, refresh required) / SRAM (cache memory, no refresh required)\n        → ROM (non-volatile) → Mask ROM (read only) / PROM → EPROM (erase data with UV) / EEPROM → Flash memory (erase data with electricity)"
+      },
+      "note": {
+        "ja": "メモリの種類に悩んだら、この樹形図を見直そう！",
+        "vi": "Nếu lúng túng về các loại memory, hãy xem lại sơ đồ hình cây này!",
+        "en": "If confused about memory types, review this tree diagram!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のように、メモリの種類はめまいがするほど多いのですが、ITパスポート試験で覚えるべきポイントは3つだけです。",
+      "vi": "Như trên, các loại memory nhiều đến chóng mặt, nhưng điểm cần nhớ cho kỳ thi IT Passport chỉ có 3.",
+      "en": "As above, memory types are dizzying in number, but points to remember for IT Passport exam are only 3.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        {
+          "ja": "RAMとROMの違い",
+          "vi": "Sự khác biệt giữa RAM và ROM",
+          "en": "Difference between RAM and ROM"
+        },
+        {
+          "ja": "DRAMとSRAMの違い",
+          "vi": "Sự khác biệt giữa DRAM và SRAM",
+          "en": "Difference between DRAM and SRAM"
+        },
+        {
+          "ja": "フラッシュメモリの概要",
+          "vi": "Tổng quan về flash memory",
+          "en": "Overview of flash memory"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "半導体メモリ",
+      "reading": "はんどうたいメモリ",
+      "vi": "Bộ nhớ bán dẫn",
+      "en": "Semiconductor Memory",
+      "my": "ဆီမီကန်ဒတ်တာ မဲမရီ"
+    },
+    {
+      "term": "RAM",
+      "full": "Random Access Memory",
+      "vi": "RAM",
+      "en": "Random Access Memory",
+      "my": "ရမ်"
+    },
+    {
+      "term": "ROM",
+      "full": "Read Only Memory",
+      "vi": "ROM",
+      "en": "Read Only Memory",
+      "my": "ရွမ်"
+    },
+    {
+      "term": "DRAM",
+      "full": "Dynamic RAM",
+      "vi": "DRAM",
+      "en": "Dynamic RAM",
+      "my": "ဒီရမ်"
+    },
+    {
+      "term": "SRAM",
+      "full": "Static RAM",
+      "vi": "SRAM",
+      "en": "Static RAM",
+      "my": "အက်စ်ရမ်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

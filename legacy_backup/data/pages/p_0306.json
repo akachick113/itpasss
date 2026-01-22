@@ -1,0 +1,280 @@
+{
+  "page_id": 306,
+  "image": "p_0306.png",
+  "chapter": 8,
+  "section": "08-03",
+  "page_number": 290,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "レーションをして対応を引き継ぎます。",
+      "vi": "và chuyển giao xử lý.",
+      "en": "and hand over handling.",
+      "terms": [
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "引",
+          "reading": "ひき"
+        },
+        {
+          "kanji": "継",
+          "reading": "けい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "FAQ",
+      "reading": "えふえーきゅー",
+      "vi": "FAQ",
+      "en": "FAQ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "サービスデスクは、問い合わせの件数を減らすために、WebサイトのなかにFAQを掲載します。",
+      "vi": "Service Desk đăng FAQ trên Website để giảm số lượng yêu cầu.",
+      "en": "Service Desk posts FAQ on Website to reduce number of inquiries.",
+      "terms": [
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "件数",
+          "reading": "けんすう"
+        },
+        {
+          "kanji": "減",
+          "reading": "げん"
+        },
+        {
+          "kanji": "掲載",
+          "reading": "けいさい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "FAQ（Frequently Asked Questions）とは、よくある質問とその答えをまとめたものです。充実したFAQがあれば、利用者はサービスデスクに問い合わせる前に、FAQを閲覧することで問題を解決できる場合があります。そのため、FAQを用意しておくことで、サービスデスクへの問い合わせ件数を減らして負担を軽減できます。",
+      "vi": "FAQ (Frequently Asked Questions) là tập hợp các câu hỏi thường gặp và câu trả lời. Nếu có FAQ đầy đủ, người dùng có thể giải quyết vấn đề bằng cách xem FAQ trước khi hỏi Service Desk. Do đó, chuẩn bị FAQ có thể giảm số yêu cầu đến Service Desk và giảm gánh nặng.",
+      "en": "FAQ (Frequently Asked Questions) compiles common questions and their answers. With comprehensive FAQ, users can sometimes solve problems by viewing FAQ before contacting Service Desk. Therefore, preparing FAQ can reduce inquiries to Service Desk and reduce burden.",
+      "terms": [
+        {
+          "kanji": "質問",
+          "reading": "しつもん"
+        },
+        {
+          "kanji": "答",
+          "reading": "こたえ"
+        },
+        {
+          "kanji": "充実",
+          "reading": "じゅうじつ"
+        },
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "閲覧",
+          "reading": "えつらん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "用意",
+          "reading": "ようい"
+        },
+        {
+          "kanji": "件数",
+          "reading": "けんすう"
+        },
+        {
+          "kanji": "減",
+          "reading": "げん"
+        },
+        {
+          "kanji": "負担",
+          "reading": "ふたん"
+        },
+        {
+          "kanji": "軽減",
+          "reading": "けいげん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "チャットボット",
+      "reading": "ちゃっとぼっと",
+      "vi": "Chatbot",
+      "en": "Chatbot"
+    },
+    {
+      "type": "paragraph",
+      "ja": "チャットボットは、ユーザーからの質問に対して、ソフトウェアがリアルタイムで自動的に応答する仕組みです。",
+      "vi": "Chatbot là cơ chế mà phần mềm tự động phản hồi theo thời gian thực đối với câu hỏi từ người dùng.",
+      "en": "Chatbot is mechanism where software automatically responds in real-time to user questions.",
+      "terms": [
+        {
+          "kanji": "質問",
+          "reading": "しつもん"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "自動的",
+          "reading": "じどうてき"
+        },
+        {
+          "kanji": "応答",
+          "reading": "おうとう"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "「チャットボット」という用語は「チャット（対話）」と「ボット（ロボット）」を組み合わせた言葉です。ユーザーからの問い合わせ対応やFAQ、カスタマーサポートなど、さまざまな場面で活用されています。近年は、AIの導入によってより自然な対話が可能になっています。",
+      "vi": "Thuật ngữ \"Chatbot\" là kết hợp của \"Chat (đối thoại)\" và \"Bot (robot)\". Được sử dụng trong nhiều tình huống như xử lý yêu cầu từ người dùng, FAQ, Customer Support. Gần đây, việc áp dụng AI đã cho phép đối thoại tự nhiên hơn.",
+      "en": "Term 'Chatbot' combines 'Chat (dialogue)' and 'Bot (robot)'. Used in various situations like handling user inquiries, FAQ, Customer Support. Recently, AI introduction has enabled more natural dialogue.",
+      "terms": [
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "対話",
+          "reading": "たいわ"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "場面",
+          "reading": "ばめん"
+        },
+        {
+          "kanji": "活用",
+          "reading": "かつよう"
+        },
+        {
+          "kanji": "近年",
+          "reading": "きんねん"
+        },
+        {
+          "kanji": "導入",
+          "reading": "どうにゅう"
+        },
+        {
+          "kanji": "自然",
+          "reading": "しぜん"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "サービスデスクの目的は、サービスレベルを低下させないこと。そのため、問題管理（根本原因の究明）よりも、インシデント管理（迅速な復旧）が優先される",
+          "vi": "Mục đích của Service Desk là không làm giảm Service Level. Do đó, Incident Management (khôi phục nhanh) được ưu tiên hơn Problem Management (tìm nguyên nhân gốc)",
+          "en": "Service Desk's purpose is not to lower Service Level. Therefore, Incident Management (quick restoration) is prioritized over Problem Management (root cause investigation)"
+        },
+        {
+          "ja": "チャットボットは、質問に自動的に応答する仕組み",
+          "vi": "Chatbot là cơ chế tự động phản hồi câu hỏi",
+          "en": "Chatbot is mechanism that automatically responds to questions"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "FAQ",
+      "reading": "えふえーきゅー",
+      "romaji": "FAQ",
+      "vi": "Câu hỏi thường gặp",
+      "en": "Frequently Asked Questions",
+      "my": "အမေးခံမြား မေးခွန်းများ"
+    },
+    {
+      "kanji": "チャットボット",
+      "reading": "ちゃっとぼっと",
+      "romaji": "Chatbot",
+      "vi": "Chatbot",
+      "en": "Chatbot",
+      "my": "ချက်ဘော့"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "page_id": 488,
+  "image": "p_0488.png",
+  "chapter": 13,
+  "section": "13-04",
+  "page_number": 472,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "的が達成されます。そこで、出金処理と入金処理の2つをまとめて1つのトランザクションといいます。このことから「トランザクションとは、ユーザーから見た1つの処理」ということもできます。",
+      "vi": "tiêu được đạt được. Vì vậy, 2 xử lý rút tiền và nạp tiền được gộp lại gọi là 1 giao dịch. Từ đó có thể nói \"Giao dịch là 1 xử lý từ góc nhìn của người dùng\".",
+      "en": "is achieved. So, withdrawal and deposit processes combined are called 1 transaction. From this can say 'Transaction is 1 process from user's view.'",
+      "terms": [
+        {
+          "kanji": "的",
+          "reading": "てき"
+        },
+        {
+          "kanji": "達成",
+          "reading": "たっせい"
+        },
+        {
+          "kanji": "出金処理",
+          "reading": "しゅっきんしょり"
+        },
+        {
+          "kanji": "入金処理",
+          "reading": "にゅうきんしょり"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "ja": "トランザクション管理の重要性",
+      "vi": "Tầm quan trọng của quản lý giao dịch",
+      "en": "Importance of Transaction Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "なぜトランザクション管理が重要なのかは明白です。太郎くんの口座から1万円を出金したにもかかわらず、花子さんの口座への入金処理が失敗したら、1万円が宙に浮いてしまいます。",
+      "vi": "Tại sao quản lý giao dịch quan trọng thì rất rõ ràng. Mặc dù đã rút 1 vạn yên từ tài khoản của Taro, nếu xử lý nạp tiền vào tài khoản của Hanako thất bại, 1 vạn yên sẽ bị treo.",
+      "en": "Why transaction management is important is clear. Although 10,000 yen withdrawn from Taro's account, if deposit process to Hanako's account fails, 10,000 yen becomes lost.",
+      "terms": [
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "明白",
+          "reading": "めいはく"
+        },
+        {
+          "kanji": "太郎",
+          "reading": "たろう"
+        },
+        {
+          "kanji": "口座",
+          "reading": "こうざ"
+        },
+        {
+          "kanji": "万円",
+          "reading": "まんえん"
+        },
+        {
+          "kanji": "出金",
+          "reading": "しゅっきん"
+        },
+        {
+          "kanji": "花子",
+          "reading": "はなこ"
+        },
+        {
+          "kanji": "入金処理",
+          "reading": "にゅうきんしょり"
+        },
+        {
+          "kanji": "失敗",
+          "reading": "しっぱい"
+        },
+        {
+          "kanji": "宙",
+          "reading": "ちゅう"
+        },
+        {
+          "kanji": "浮",
+          "reading": "ふ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "そのようなことがないように、作業全体をトランザクションという1つのかたまりで管理します。作業全体をトランザクションで管理しておけば、もし送金の途中で処理（例えば、入金処理のみ）が失敗した場合も、トランザクションの最初まで戻す（例えば、出金処理も取り消す）ことで、作業全体の整合性を保つことができます。",
+      "vi": "Để không xảy ra điều như vậy, quản lý toàn bộ công việc như 1 khối gọi là giao dịch. Nếu quản lý toàn bộ công việc bằng giao dịch, ngay cả khi xử lý thất bại giữa chừng (ví dụ chỉ xử lý nạp tiền thất bại), bằng cách quay lại đầu giao dịch (ví dụ hủy cả xử lý rút tiền), có thể giữ tính toàn vẹn của toàn bộ công việc.",
+      "en": "To prevent such things, manage entire work as 1 block called transaction. If managing entire work with transaction, even if process fails midway (e.g., only deposit fails), by returning to transaction start (e.g., also cancel withdrawal), can maintain integrity of entire work.",
+      "terms": [
+        {
+          "kanji": "作業全体",
+          "reading": "さぎょうぜんたい"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "送金",
+          "reading": "そうきん"
+        },
+        {
+          "kanji": "途中",
+          "reading": "とちゅう"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "入金処理",
+          "reading": "にゅうきんしょり"
+        },
+        {
+          "kanji": "失敗",
+          "reading": "しっぱい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        },
+        {
+          "kanji": "出金処理",
+          "reading": "しゅっきんしょり"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "消",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "整合性",
+          "reading": "せいごうせい"
+        },
+        {
+          "kanji": "保",
+          "reading": "ほ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、トランザクションが正常に完了した際に、データベースの更新内容を確定することを「コミット」といいます。また、このようにしてトランザクションを管理することを「トランザクション管理」といいます。",
+      "vi": "Ngoài ra, khi giao dịch hoàn thành bình thường, việc xác định nội dung cập nhật cơ sở dữ liệu được gọi là \"Commit\". Ngoài ra, việc quản lý giao dịch như vậy được gọi là \"Quản lý giao dịch\".",
+      "en": "Also, when transaction completes normally, confirming database update content is called 'Commit.' Also, managing transactions this way is called 'Transaction Management.'",
+      "terms": [
+        {
+          "kanji": "正常",
+          "reading": "せいじょう"
+        },
+        {
+          "kanji": "完了",
+          "reading": "かんりょう"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "更新内容",
+          "reading": "こうしんないよう"
+        },
+        {
+          "kanji": "確定",
+          "reading": "かくてい"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "トランザクション管理とは、ユーザーがDBMSに対して行う一連の命令を管理する機能",
+          "vi": "Quản lý giao dịch là chức năng quản lý một loạt các lệnh mà người dùng thực hiện với DBMS",
+          "en": "Transaction management is function managing series of commands user performs to DBMS"
+        },
+        {
+          "ja": "コミットとは、トランザクションが正常に完了した際に、データベースの更新内容を確定すること",
+          "vi": "Commit là xác định nội dung cập nhật cơ sở dữ liệu khi giao dịch hoàn thành bình thường",
+          "en": "Commit is confirming database update content when transaction completes normally"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "障害回復",
+      "vi": "Khôi phục sự cố",
+      "en": "Failure Recovery"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "障害回復",
+        "vi": "Khôi phục sự cố",
+        "en": "Failure Recovery"
+      },
+      "definition": {
+        "ja": "障害回復とは、壊れたデータやハードウェアを直すことです。「リカバリ」とも呼ばれます。データベースに障害が発生した際にそれを修復するには、次の2つのファイルが必要です。",
+        "vi": "Khôi phục sự cố là việc sửa chữa dữ liệu hoặc phần cứng bị hỏng. Còn được gọi là \"Recovery\". Để sửa chữa khi sự cố xảy ra với cơ sở dữ liệu, cần 2 tệp sau.",
+        "en": "Failure recovery is fixing broken data or hardware. Also called 'Recovery.' To repair when failure occurs in database, following 2 files needed."
+      }
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "データベースの障害回復のために必要な2つのファイル",
+        "vi": "2 tệp cần cho khôi phục sự cố cơ sở dữ liệu",
+        "en": "2 Files Needed for Database Failure Recovery"
+      },
+      "headers": {
+        "ja": [
+          "種類",
+          "説明"
+        ],
+        "vi": [
+          "Loại",
+          "Giải thích"
+        ],
+        "en": [
+          "Type",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "type": {
+            "ja": "バックアップファイル",
+            "vi": "Tệp sao lưu",
+            "en": "Backup File"
+          },
+          "description": {
+            "ja": "データベース全体を保存しているファイル。このファイルは定期的（毎週末など）に取得する。なお、このファイルを取得する処理のことを「バックアップ」という（p.435）。",
+            "vi": "Tệp lưu toàn bộ cơ sở dữ liệu. Tệp này được lấy định kỳ (mỗi cuối tuần). Xử lý lấy tệp này được gọi là \"Sao lưu\" (trang 435).",
+            "en": "File saving entire database. This file taken periodically (every weekend). Process of taking this file called 'Backup' (p.435)."
+          }
+        },
+        {
+          "type": {
+            "ja": "ログファイル",
+            "vi": "Tệp nhật ký",
+            "en": "Log File"
+          },
+          "description": {
+            "ja": "データベースの更新履歴を記録したファイル。トランザクション直前に記録したものを「更新前ログファイル」といい、トランザクション完了後に記録したものを「更新後ログファイル」という。",
+            "vi": "Tệp ghi lại lịch sử cập nhật cơ sở dữ liệu. Tệp ghi ngay trước giao dịch gọi là \"Tệp nhật ký trước cập nhật\", tệp ghi sau khi giao dịch hoàn thành gọi là \"Tệp nhật ký sau cập nhật\".",
+            "en": "File recording database update history. One recorded just before transaction called 'Before-update log file,' one recorded after transaction completion called 'After-update log file.'"
+          }
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "コミット",
+      "vi": "Commit (Xác nhận)",
+      "en": "Commit",
+      "my": "ကမ်မစ်"
+    },
+    {
+      "term": "障害回復",
+      "reading": "しょうがいかいふく",
+      "vi": "Khôi phục sự cố",
+      "en": "Failure Recovery",
+      "my": "ဖေးလ်ယာ ရီကုဗရီ"
+    },
+    {
+      "term": "バックアップファイル",
+      "vi": "Tệp sao lưu",
+      "en": "Backup File",
+      "my": "ဘက်အက် ဖိုင်"
+    },
+    {
+      "term": "ログファイル",
+      "vi": "Tệp nhật ký",
+      "en": "Log File",
+      "my": "လော့ ဖိုင်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

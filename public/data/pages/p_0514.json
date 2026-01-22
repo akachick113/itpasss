@@ -1,0 +1,139 @@
+{
+  "page_id": 514,
+  "image": "p_0514.png",
+  "chapter": 14,
+  "section": "14-04",
+  "page_number": 498,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ポート番号",
+        "vi": "Số cổng",
+        "en": "Port Number"
+      },
+      "description": {
+        "ja": "電子メールを送信。IPアドレスでコンピュータを識別。ポート番号でアプリケーションソフトウェアを識別",
+        "vi": "Gửi email. Nhận dạng máy tính bằng địa chỉ IP. Nhận dạng phần mềm ứng dụng bằng số cổng",
+        "en": "Send email. Identify computer with IP Address. Identify application software with Port Number"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "MACアドレス",
+      "vi": "Địa chỉ MAC",
+      "en": "MAC Address"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "MACアドレス",
+        "vi": "Địa chỉ MAC",
+        "en": "MAC Address"
+      },
+      "definition": {
+        "ja": "MACアドレス（Media Access Control address）とは、ネットワーク機器ごとに割り当てられている固有の宛先です。MACアドレスは、IPアドレスと同じく、コンピュータを識別する番号です。",
+        "vi": "Địa chỉ MAC (Media Access Control address) là địa chỉ đích cố định được gán cho mỗi thiết bị mạng. Địa chỉ MAC, giống như địa chỉ IP, là số để nhận dạng máy tính.",
+        "en": "MAC Address (Media Access Control address) is unique destination assigned to each network device. MAC Address, like IP Address, is number to identify computer."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、IPアドレスが最終的な通信相手を特定する番号なのに対して、MACアドレスは次の通信相手を特定する番号です。",
+      "vi": "Ngoài ra, trong khi địa chỉ IP là số xác định đối tác truyền thông cuối cùng, địa chỉ MAC là số xác định đối tác truyền thông tiếp theo.",
+      "en": "Note, while IP Address is number identifying final communication partner, MAC Address is number identifying next communication partner.",
+      "terms": [
+        {
+          "kanji": "最終的",
+          "reading": "さいしゅうてき"
+        },
+        {
+          "kanji": "通信相手",
+          "reading": "つうしんあいて"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "番号",
+          "reading": "ばんごう"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "MACアドレス",
+        "vi": "Địa chỉ MAC",
+        "en": "MAC Address"
+      },
+      "description": {
+        "ja": "IPアドレスは最終的な通信相手を特定する。コンピュータ→ルータ→ハブ→ルータ→コンピュータ。MACアドレスは次の送信相手を特定する",
+        "vi": "Địa chỉ IP xác định đối tác truyền thông cuối cùng. Máy tính → Router → Hub → Router → Máy tính. Địa chỉ MAC xác định đối tác gửi tiếp theo",
+        "en": "IP Address identifies final communication partner. Computer → Router → Hub → Router → Computer. MAC Address identifies next sending partner"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "データがIPアドレスの指す最終的なコンピュータにたどり着くまでには、ルーターなどのたくさんのネットワーク機器を経由します。これらの中継点となるネット",
+      "vi": "Để dữ liệu đến được máy tính cuối cùng mà địa chỉ IP chỉ đến, phải đi qua nhiều thiết bị mạng như router. Mạng trở thành điểm trung chuyển này",
+      "en": "For data to reach final computer that IP Address points to, passes through many network devices like routers. These become relay point net",
+      "terms": [
+        {
+          "kanji": "指",
+          "reading": "ゆび"
+        },
+        {
+          "kanji": "最終的",
+          "reading": "さいしゅうてき"
+        },
+        {
+          "kanji": "着",
+          "reading": "ちゃく"
+        },
+        {
+          "kanji": "機器",
+          "reading": "きき"
+        },
+        {
+          "kanji": "経由",
+          "reading": "けいゆ"
+        },
+        {
+          "kanji": "中継点",
+          "reading": "ちゅうけいてん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "MACアドレス",
+      "full": "Media Access Control address",
+      "vi": "Địa chỉ MAC",
+      "en": "MAC Address",
+      "my": "MAC လိပ်စာ"
+    },
+    {
+      "term": "固有",
+      "reading": "こゆう",
+      "vi": "Cố định/Riêng biệt",
+      "en": "Unique/Fixed",
+      "my": "ထူးခြားသော / ကိုယ်ပိုင်သော"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

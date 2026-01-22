@@ -1,0 +1,225 @@
+{
+  "page_id": 473,
+  "image": "p_0473.png",
+  "chapter": 13,
+  "section": "13-01",
+  "page_number": 457,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "なお、データベースを図で表す場合は、慣習として前ページの図のような円柱で表記します。システム関連の図の中に円柱が記載されていたら、その図はデータベース（または、データベース管理システム）と考えて間違いありません。",
+      "vi": "Ngoài ra, khi biểu thị cơ sở dữ liệu bằng hình, theo thông lệ sử dụng hình trụ như hình trang trước. Nếu trong sơ đồ liên quan đến hệ thống có hình trụ, có thể chắc chắn đó là cơ sở dữ liệu (hoặc hệ thống quản lý cơ sở dữ liệu).",
+      "en": "Also, when representing database in diagram, conventionally use cylinder like previous page. If cylinder appears in system-related diagram, can be certain it's database (or database management system).",
+      "terms": [
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "慣習",
+          "reading": "かんしゅう"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "円柱",
+          "reading": "えんちゅう"
+        },
+        {
+          "kanji": "表記",
+          "reading": "ひょうき"
+        },
+        {
+          "kanji": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "間違",
+          "reading": "かんい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "関係データモデル",
+      "vi": "Mô hình dữ liệu quan hệ",
+      "en": "Relational Data Model"
+    },
+    {
+      "type": "paragraph",
+      "ja": "世の中のデータベースには「関係データモデル」や「階層データモデル」「ネットワークデータモデル」など、さまざまな種類（データの保存方法が異なる）がありますが、現在最も普及しており、かつITパスポート試験によく出題されるのは「関係データモデル」です。関係データモデルでは、データの集まりを「表」で表します。",
+      "vi": "Cơ sở dữ liệu trên thế giới có nhiều loại (phương pháp lưu dữ liệu khác nhau) như \"Mô hình dữ liệu quan hệ\", \"Mô hình dữ liệu phân cấp\", \"Mô hình dữ liệu mạng\", nhưng hiện tại phổ biến nhất và thường được ra đề trong kỳ thi IT Passport là \"Mô hình dữ liệu quan hệ\". Trong mô hình dữ liệu quan hệ, tập hợp dữ liệu được biểu thị bằng \"bảng\".",
+      "en": "Databases in world have various types (different data storage methods) like 'Relational Data Model,' 'Hierarchical Data Model,' 'Network Data Model,' but currently most prevalent and often appearing in IT Passport exam is 'Relational Data Model.' In relational data model, data collection is represented by 'table.'",
+      "terms": [
+        {
+          "kanji": "世",
+          "reading": "よ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "階層",
+          "reading": "かいそう"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "保存方法",
+          "reading": "ほぞんほうほう"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "現在最",
+          "reading": "げんざいさい"
+        },
+        {
+          "kanji": "普及",
+          "reading": "ふきゅう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "関係データモデルのデータの持ち方",
+        "vi": "Cách giữ dữ liệu của mô hình dữ liệu quan hệ",
+        "en": "How Relational Data Model Holds Data"
+      },
+      "description": {
+        "ja": "表形式：学生番号（1, 2, 3）、学生名（山田太郎、鈴木愛子、高橋二郎）、電話番号、教員名。「データの集まりは『表』で表す」と注釈",
+        "vi": "Dạng bảng: Mã sinh viên (1, 2, 3), Tên sinh viên (Yamada Taro, Suzuki Aiko, Takahashi Jiro), Số điện thoại, Tên giáo viên. Chú thích \"Tập hợp dữ liệu được biểu thị bằng 'bảng'\"",
+        "en": "Table format: Student ID (1, 2, 3), Student Name (Yamada Taro, Suzuki Aiko, Takahashi Jiro), Phone Number, Teacher Name. Annotation 'Data collection represented by table'"
+      }
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "ITパスポート試験での表記",
+        "vi": "Ký hiệu trong kỳ thi IT Passport",
+        "en": "Notation in IT Passport Exam",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ITパスポート試験では、「関係データモデル」の同義語として、「関係モデル」という用語が使われる場合があります。用語が少し異なりますが、内容はまったく同じです。",
+        "vi": "Trong kỳ thi IT Passport, thuật ngữ \"Mô hình quan hệ\" đôi khi được sử dụng như từ đồng nghĩa của \"Mô hình dữ liệu quan hệ\". Thuật ngữ hơi khác nhau, nhưng nội dung hoàn toàn giống nhau.",
+        "en": "In IT Passport exam, term 'Relational Model' may be used as synonym for 'Relational Data Model.' Terms slightly differ, but content is exactly same."
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "関係データモデルでは、データの集まりを表形式で表現する",
+          "vi": "Trong mô hình dữ liệu quan hệ, tập hợp dữ liệu được biểu diễn dưới dạng bảng",
+          "en": "In relational data model, data collection expressed in table format"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！階層データモデルとネットワークデータモデル",
+        "vi": "Chi tiết hơn! Mô hình dữ liệu phân cấp và Mô hình dữ liệu mạng",
+        "en": "More Details! Hierarchical Data Model and Network Data Model"
+      },
+      "content": {
+        "ja": "階層データモデルでは、データ同士の関係を「木構造」で表します。つまり、各データは親となるデータを1つだけ持つことができます。一方、ネットワークデータモデルでは、データ同士の関係を「網の目のようにつながった状態」で表します。このため、各データは親となるデータを複数持つことができます。なお、これらの用語は不正解選択肢で出題されることはあっても、正解選択肢としてはまず登場しないので、覚える必要はありません。",
+        "vi": "Trong mô hình dữ liệu phân cấp, quan hệ giữa các dữ liệu được biểu thị bằng \"cấu trúc cây\". Nghĩa là, mỗi dữ liệu chỉ có thể có 1 dữ liệu cha. Mặt khác, trong mô hình dữ liệu mạng, quan hệ giữa các dữ liệu được biểu thị ở \"trạng thái kết nối như mắt lưới\". Do đó, mỗi dữ liệu có thể có nhiều dữ liệu cha. Ngoài ra, các thuật ngữ này có thể xuất hiện trong đáp án sai, nhưng hầu như không xuất hiện như đáp án đúng, nên không cần nhớ.",
+        "en": "In hierarchical data model, relationships between data represented by 'tree structure.' Meaning, each data can have only 1 parent data. On other hand, in network data model, relationships represented by 'mesh-connected state.' So each data can have multiple parent data. Also, these terms may appear in wrong choices but hardly as correct answers, so no need to memorize."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "関係データモデル",
+      "reading": "かんけいデータモデル",
+      "vi": "Mô hình dữ liệu quan hệ",
+      "en": "Relational Data Model",
+      "my": "ရီလေးရှင်နဲ ဒေတာ မော်ဒဲ"
+    },
+    {
+      "term": "階層データモデル",
+      "reading": "かいそうデータモデル",
+      "vi": "Mô hình dữ liệu phân cấp",
+      "en": "Hierarchical Data Model",
+      "my": "ဟိုင်ရာကီ ဒေတာ မော်ဒဲ"
+    },
+    {
+      "term": "ネットワークデータモデル",
+      "vi": "Mô hình dữ liệu mạng",
+      "en": "Network Data Model",
+      "my": "နက်ဝက် ဒေတာ မော်ဒဲ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_note_box": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

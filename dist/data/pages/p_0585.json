@@ -1,0 +1,144 @@
+{
+    "page_id": 585,
+    "image": "p_0585.png",
+    "chapter": 15,
+    "section": "practice_questions_2",
+    "page_number": 569,
+    "content": [
+        {
+            "type": "practice_section_header",
+            "title": {
+                "ja": "出る順！過去問＆完全解説",
+                "vi": "Thứ tự ra đề! Đề thi cũ & Giải thích đầy đủ",
+                "en": "Exam Order! Past Questions & Complete Explanations"
+            },
+            "note": {
+                "ja": "解答・解説はp.574参照",
+                "vi": "Xem đáp án và giải thích ở trang 574",
+                "en": "See p.574 for answers and explanations"
+            }
+        },
+        {
+            "type": "question",
+            "id": "15-15",
+            "year": "令和6年度",
+            "question": {
+                "ja": "次の記述のうち、バイオメトリクス認証の例だけを全て挙げたものはどれか。",
+                "vi": "Trong các mô tả sau, đâu là lựa chọn chỉ liệt kê tất cả ví dụ về xác thực sinh trắc học?",
+                "en": "Among following descriptions, which lists only all examples of biometric authentication?"
+            },
+            "options": [
+                {
+                    "id": "a",
+                    "ja": "Webページに並んだ文字の列から成る画像を表示し、読み取った文字列を利用者に入力させることによって、認証を行う。",
+                    "vi": "Hiển thị hình ảnh gồm hàng ký tự xếp trên trang Web, xác thực bằng cách yêu cầu người dùng nhập chuỗi ký tự đã đọc.",
+                    "en": "Display image of character string on Web page, authenticate by having user input read characters."
+                },
+                {
+                    "id": "b",
+                    "ja": "キーボードで特定文字列を入力させ、そのときの打鍵の速度やタイミングの変化によって、認証を行う。",
+                    "vi": "Yêu cầu nhập chuỗi ký tự cụ thể bằng bàn phím, xác thực bằng sự thay đổi tốc độ và thời điểm gõ phím.",
+                    "en": "Have user input specific character string on keyboard, authenticate by typing speed and timing changes."
+                },
+                {
+                    "id": "c",
+                    "ja": "タッチパネルに手書きで氏名を入力させ、そのときの筆跡、筆圧、運筆速度などによって、認証を行う。",
+                    "vi": "Yêu cầu nhập tên viết tay trên màn hình cảm ứng, xác thực bằng nét chữ, áp lực bút, tốc độ viết.",
+                    "en": "Have user input handwritten name on touch panel, authenticate by handwriting, pressure, writing speed."
+                },
+                {
+                    "id": "d",
+                    "ja": "タッチパネルに表示された複数の点をあらかじめ決められた順になぞらせることによって、認証を行う。",
+                    "vi": "Xác thực bằng cách yêu cầu vẽ theo thứ tự đã định sẵn qua các điểm hiển thị trên màn hình cảm ứng.",
+                    "en": "Authenticate by having user trace multiple points displayed on touch panel in predetermined order."
+                }
+            ],
+            "choices": [
+                "ア. a, b",
+                "イ. a, d",
+                "ウ. b, c",
+                "エ. c, d"
+            ],
+            "answer": "ウ"
+        },
+        {
+            "type": "question",
+            "id": "15-16",
+            "year": "平成24年度",
+            "question": {
+                "ja": "デジタル署名を用いることで可能なことはどれか。",
+                "vi": "Điều gì có thể thực hiện được khi sử dụng chữ ký số?",
+                "en": "What is possible by using digital signature?"
+            },
+            "options": [
+                {
+                    "id": "ア",
+                    "ja": "署名された文書の暗号化方式の受信者への通知",
+                    "vi": "Thông báo phương thức mã hóa của tài liệu đã ký cho người nhận",
+                    "en": "Notification of encryption method of signed document to recipient"
+                },
+                {
+                    "id": "イ",
+                    "ja": "署名された文書の改ざんの検出",
+                    "vi": "Phát hiện sửa đổi tài liệu đã ký",
+                    "en": "Detection of falsification of signed document"
+                },
+                {
+                    "id": "ウ",
+                    "ja": "署名された文書の改ざんの防止",
+                    "vi": "Ngăn chặn sửa đổi tài liệu đã ký",
+                    "en": "Prevention of falsification of signed document"
+                },
+                {
+                    "id": "エ",
+                    "ja": "署名された文書の漏えいの防止",
+                    "vi": "Ngăn chặn rò rỉ tài liệu đã ký",
+                    "en": "Prevention of leakage of signed document"
+                }
+            ],
+            "answer": "イ"
+        },
+        {
+            "type": "question",
+            "id": "15-17",
+            "year": "令和6年度",
+            "question": {
+                "ja": "PKIにおけるCA（Certificate Authority）の役割に関する記述として、適切なものはどれか。",
+                "vi": "Mô tả nào phù hợp về vai trò của CA (Certificate Authority) trong PKI?",
+                "en": "Which description is appropriate regarding role of CA (Certificate Authority) in PKI?"
+            },
+            "options": [
+                {
+                    "id": "ア",
+                    "ja": "インターネットと内部ネットワークの間にあって、内部ネットワーク上のコンピュータに代わってインターネットにアクセスする。",
+                    "vi": "Nằm giữa Internet và mạng nội bộ, truy cập Internet thay mặt cho máy tính trên mạng nội bộ.",
+                    "en": "Located between Internet and internal network, accessing Internet on behalf of computers on internal network."
+                },
+                {
+                    "id": "イ",
+                    "ja": "インターネットと内部ネットワークの間にあって、パケットフィルタリング機能などを用いてインターネットから内部ネットワークへの不正アクセスを防ぐ。",
+                    "vi": "Nằm giữa Internet và mạng nội bộ, sử dụng chức năng lọc packet để ngăn truy cập trái phép từ Internet vào mạng nội bộ.",
+                    "en": "Located between Internet and internal network, preventing unauthorized access from Internet to internal network using packet filtering."
+                },
+                {
+                    "id": "ウ",
+                    "ja": "利用者に指定されたドメイン名を基にIPアドレスとドメイン名の対応付けを行い、利用者を目的のサーバにアクセスさせる。",
+                    "vi": "Đối chiếu địa chỉ IP và tên miền dựa trên tên miền được người dùng chỉ định, cho phép người dùng truy cập server đích.",
+                    "en": "Matching IP address and domain name based on domain name specified by user, allowing user to access target server."
+                },
+                {
+                    "id": "エ",
+                    "ja": "利用者の公開鍵に対する公開鍵証明書の発行や失効を行い、鍵の正当性を保証する。",
+                    "vi": "Phát hành và thu hồi chứng chỉ khóa công khai cho khóa công khai của người dùng, đảm bảo tính hợp lệ của khóa.",
+                    "en": "Issuing and revoking public key certificates for user's public key, guaranteeing key validity."
+                }
+            ],
+            "answer": "エ"
+        }
+    ],
+    "answer_key": {
+        "15-15": "ウ",
+        "15-16": "イ",
+        "15-17": "エ"
+    }
+}

@@ -1,0 +1,369 @@
+{
+  "page_id": 481,
+  "image": "p_0481.png",
+  "chapter": 13,
+  "section": "13-03",
+  "page_number": 465,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "例えば、校長と学校の関係は「1対1」になります。1つの学校に校長は1人だけですし、校長は1つの学校にのみ所属します。",
+      "vi": "Ví dụ, quan hệ giữa hiệu trưởng và trường học là \"1 đối 1\". 1 trường chỉ có 1 hiệu trưởng, và hiệu trưởng chỉ thuộc về 1 trường.",
+      "en": "For example, relationship between principal and school is '1-to-1.' One school has only 1 principal, and principal belongs to only 1 school.",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "校長",
+          "reading": "こうちょう"
+        },
+        {
+          "kanji": "学校",
+          "reading": "がっこう"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "所属",
+          "reading": "しょぞく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "学校と学生の関係は「1対多」になります。1つの学校に、複数の学生が在学し、一人の学生が所属する学校は1つです。",
+      "vi": "Quan hệ giữa trường học và sinh viên là \"1 đối nhiều\". 1 trường có nhiều sinh viên theo học, và 1 sinh viên thuộc về 1 trường.",
+      "en": "Relationship between school and student is '1-to-Many.' One school has multiple students, and one student belongs to 1 school.",
+      "terms": [
+        {
+          "kanji": "学校",
+          "reading": "がっこう"
+        },
+        {
+          "kanji": "学生",
+          "reading": "がくせい"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "対多",
+          "reading": "ついた"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "在学",
+          "reading": "ざいがく"
+        },
+        {
+          "kanji": "一人",
+          "reading": "ひとり"
+        },
+        {
+          "kanji": "所属",
+          "reading": "しょぞく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "学生と受講科目の関係は「多対多」になります。1人の学生は複数の科目を受講し、1つの受講科目を複数の学生が履修します。",
+      "vi": "Quan hệ giữa sinh viên và môn học là \"nhiều đối nhiều\". 1 sinh viên đăng ký nhiều môn, và 1 môn học được nhiều sinh viên học.",
+      "en": "Relationship between student and course is 'Many-to-Many.' One student takes multiple courses, and one course is taken by multiple students.",
+      "terms": [
+        {
+          "kanji": "学生",
+          "reading": "がくせい"
+        },
+        {
+          "kanji": "受講科目",
+          "reading": "じゅこうかもく"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "多対多",
+          "reading": "たついた"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "科目",
+          "reading": "かもく"
+        },
+        {
+          "kanji": "受講",
+          "reading": "じゅこう"
+        },
+        {
+          "kanji": "履修",
+          "reading": "りしゅう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "E-R図",
+        "vi": "Sơ đồ E-R",
+        "en": "E-R Diagram"
+      },
+      "description": {
+        "ja": "エンティティ：校長、学校、学生、受講科目。リレーションシップ：校長─学校（1対1）、学校─学生（1対多）、学生─受講科目（多対多）。エンティティは四角、リレーションシップは動詞（ここでは「所属する」）",
+        "vi": "Thực thể: Hiệu trưởng, Trường học, Sinh viên, Môn học. Mối quan hệ: Hiệu trưởng─Trường học (1:1), Trường học─Sinh viên (1:N), Sinh viên─Môn học (N:N). Thực thể là hình chữ nhật, Mối quan hệ là động từ (ở đây là \"thuộc về\")",
+        "en": "Entity: Principal, School, Student, Course. Relationship: Principal─School (1:1), School─Student (1:N), Student─Course (N:N). Entity is rectangle, Relationship is verb (here 'belong to')"
+      }
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "E-R図の記号は問題文に記載される",
+        "vi": "Ký hiệu sơ đồ E-R được ghi trong đề thi",
+        "en": "E-R Diagram Symbols Written in Questions",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "E-R図の表記方法にはいくつかの種類があるため、ITパスポート試験は、問題文の中に必ずその問題で使われている表記方法の説明書きが記載されます。",
+        "vi": "Vì có một số loại phương pháp ký hiệu sơ đồ E-R, trong kỳ thi IT Passport, chắc chắn sẽ có giải thích về phương pháp ký hiệu được sử dụng trong đề thi đó trong đề thi.",
+        "en": "Since there are several types of E-R diagram notation methods, IT Passport exam always includes explanation of notation method used in that question."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "正規化",
+      "vi": "Chuẩn hóa",
+      "en": "Normalization"
+    },
+    {
+      "type": "paragraph",
+      "ja": "「正規化の目的」がよく出る！",
+      "vi": "\"Mục đích của chuẩn hóa\" hay được ra đề!",
+      "en": "'Purpose of normalization' often appears!",
+      "terms": [
+        {
+          "kanji": "正規化",
+          "reading": "せいきか"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        }
+      ]
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "正規化",
+        "vi": "Chuẩn hóa",
+        "en": "Normalization"
+      },
+      "definition": {
+        "ja": "正規化（Normalization）とは、データが重複したり、データ更新の際に矛盾が生じたりしないように表を分けることです。",
+        "vi": "Chuẩn hóa (Normalization) là việc chia bảng để dữ liệu không bị trùng lặp và không xảy ra mâu thuẫn khi cập nhật dữ liệu.",
+        "en": "Normalization is dividing tables so data doesn't duplicate or cause inconsistency during data updates."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "具体例を見ながら解説します。次の図のように「学生」表の中に「教員名」列が存在したとします。",
+      "vi": "Sẽ giải thích với ví dụ cụ thể. Giả sử cột \"Tên giáo viên\" tồn tại trong bảng \"Sinh viên\" như hình sau.",
+      "en": "Will explain with concrete example. Suppose 'Teacher Name' column exists in 'Student' table as shown below.",
+      "terms": [
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "学生",
+          "reading": "がくせい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "教員名",
+          "reading": "きょういんめい"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "存在",
+          "reading": "そんざい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このような形でデータを格納していると、もし「田中花子」先生の苗字が変わった場合、2箇所を修正しなければなりません。さらに、もし「山田太郎」くんが転校したことによって「学生」表から「山田太郎」くんの行を削除すると、担任の「伊藤一郎」先生までも学校からいなくなってしまいます。なぜなら、他に教員を管理するための表がなく、また「伊藤一郎」先生の情報が「山田太郎」くんの行にしか存在しないからです。",
+      "vi": "Khi lưu dữ liệu theo dạng này, nếu họ của giáo viên \"Tanaka Hanako\" thay đổi, phải sửa 2 chỗ. Hơn nữa, nếu \"Yamada Taro\" chuyển trường và xóa hàng của \"Yamada Taro\" khỏi bảng \"Sinh viên\", giáo viên chủ nhiệm \"Ito Ichiro\" cũng sẽ biến mất khỏi trường. Vì không có bảng khác để quản lý giáo viên, và thông tin của giáo viên \"Ito Ichiro\" chỉ tồn tại trong hàng của \"Yamada Taro\".",
+      "en": "When storing data this way, if teacher 'Tanaka Hanako's' surname changes, must correct 2 places. Furthermore, if 'Yamada Taro' transfers schools and his row is deleted from 'Student' table, homeroom teacher 'Ito Ichiro' also disappears from school. Because there's no other table to manage teachers, and 'Ito Ichiro' information only exists in 'Yamada Taro's' row.",
+      "terms": [
+        {
+          "kanji": "形",
+          "reading": "かたち"
+        },
+        {
+          "kanji": "格納",
+          "reading": "かくのう"
+        },
+        {
+          "kanji": "田中花子",
+          "reading": "たなかはなこ"
+        },
+        {
+          "kanji": "先生",
+          "reading": "せんせい"
+        },
+        {
+          "kanji": "苗字",
+          "reading": "みょうじ"
+        },
+        {
+          "kanji": "変",
+          "reading": "へん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "箇所",
+          "reading": "かしょ"
+        },
+        {
+          "kanji": "修正",
+          "reading": "しゅうせい"
+        },
+        {
+          "kanji": "山田太郎",
+          "reading": "やまだたろう"
+        },
+        {
+          "kanji": "転校",
+          "reading": "てんこう"
+        },
+        {
+          "kanji": "学生",
+          "reading": "がくせい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "削除",
+          "reading": "さくじょ"
+        },
+        {
+          "kanji": "担任",
+          "reading": "たんにん"
+        },
+        {
+          "kanji": "伊藤一郎",
+          "reading": "いとういちろう"
+        },
+        {
+          "kanji": "学校",
+          "reading": "がっこう"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "教員",
+          "reading": "きょういん"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "存在",
+          "reading": "そんざい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "正規化",
+      "reading": "せいきか",
+      "vi": "Chuẩn hóa",
+      "en": "Normalization",
+      "my": "နော်မလိုက်ဇေးရှင်း"
+    },
+    {
+      "term": "矛盾",
+      "reading": "むじゅん",
+      "vi": "Mâu thuẫn",
+      "en": "Inconsistency",
+      "my": "ရှုပ်လှဲမှု"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_note_box": true,
+    "is_key_content": true
+  }
+}

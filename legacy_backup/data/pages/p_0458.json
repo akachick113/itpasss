@@ -1,0 +1,346 @@
+{
+  "page_id": 458,
+  "image": "p_0458.png",
+  "chapter": 12,
+  "section": "12-04",
+  "page_number": 442,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "表計算ソフトの複写",
+        "vi": "Sao chép của phần mềm bảng tính",
+        "en": "Spreadsheet Copy"
+      },
+      "description": {
+        "ja": "E2セルの「合計(B2:D2)」=240を、E3セルに複写すると、自動的に「合計(B3:D3)」=290に変換される",
+        "vi": "Sao chép \"Tổng(B2:D2)\"=240 của ô E2 sang ô E3, tự động chuyển đổi thành \"Tổng(B3:D3)\"=290",
+        "en": "Copying 'SUM(B2:D2)'=240 from E2 to E3, automatically converts to 'SUM(B3:D3)'=290"
+      },
+      "note": {
+        "ja": "単なるコピーではない！",
+        "vi": "Không phải copy đơn giản!",
+        "en": "Not just simple copy!"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "絶対参照",
+      "vi": "Tham chiếu tuyệt đối",
+      "en": "Absolute Reference"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のように、複写においてセル番地を自動的に変更する機能は、とても便利ではあるのですが、場合によってはセル番地が勝手に変更されると困る場合もあります。そのような場合は、セル番地の前に「$」（ドルマーク）を記入します。",
+      "vi": "Như trên, chức năng tự động thay đổi địa chỉ ô khi sao chép rất tiện lợi, nhưng đôi khi việc địa chỉ ô tự động thay đổi lại gây phiền. Trong trường hợp như vậy, ghi \"$\" (dấu đô la) trước địa chỉ ô.",
+      "en": "As above, function automatically changing cell address when copying is very convenient, but sometimes auto-changing cell address is troublesome. In such cases, write '$' (dollar mark) before cell address.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "複写",
+          "reading": "ふくしゃ"
+        },
+        {
+          "kanji": "番地",
+          "reading": "ばんち"
+        },
+        {
+          "kanji": "自動的",
+          "reading": "じどうてき"
+        },
+        {
+          "kanji": "変更",
+          "reading": "へんこう"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "便利",
+          "reading": "べんり"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "勝手",
+          "reading": "かって"
+        },
+        {
+          "kanji": "困",
+          "reading": "こん"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "記入",
+          "reading": "きにゅう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "「$」は列名、行番号のどちらにもつけることができます。列名の前につけると列名を固定でき、行番号の前につけると行番号を固定できます。",
+      "vi": "\"$\" có thể gắn vào cả tên cột và số hàng. Gắn trước tên cột sẽ cố định tên cột, gắn trước số hàng sẽ cố định số hàng.",
+      "en": "'$' can be attached to both column name and row number. Attaching before column name fixes column name, attaching before row number fixes row number.",
+      "terms": [
+        {
+          "kanji": "列名",
+          "reading": "れつめい"
+        },
+        {
+          "kanji": "行番号",
+          "reading": "ぎょうばんごう"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "固定",
+          "reading": "こてい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、「$」を使って複写の際に列名や行番号を固定する参照方法を「絶対参照」といいます。一方、「$」を使わない通常の参照方法を「相対参照」といいます。",
+      "vi": "Như vậy, phương pháp tham chiếu cố định tên cột hoặc số hàng khi sao chép bằng \"$\" được gọi là \"tham chiếu tuyệt đối\". Mặt khác, phương pháp tham chiếu thông thường không sử dụng \"$\" được gọi là \"tham chiếu tương đối\".",
+      "en": "Like this, reference method fixing column name or row number when copying using '$' is called 'absolute reference.' On other hand, normal reference method without '$' is called 'relative reference.'",
+      "terms": [
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "複写",
+          "reading": "ふくしゃ"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "列名",
+          "reading": "れつめい"
+        },
+        {
+          "kanji": "行番号",
+          "reading": "ぎょうばんごう"
+        },
+        {
+          "kanji": "固定",
+          "reading": "こてい"
+        },
+        {
+          "kanji": "参照方法",
+          "reading": "さんしょうほうほう"
+        },
+        {
+          "kanji": "絶対参照",
+          "reading": "ぜったいさんしょう"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "相対参照",
+          "reading": "そうたいさんしょう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "絶対参照が必要な例を考えてみます。次ページの図では、3教科の平均値を求めています。このとき、教科数が入力されているセルI1は、太郎くんの平均値を求める際も、花子さんの平均値を求める際も参照します。",
+      "vi": "Hãy xem xét ví dụ cần tham chiếu tuyệt đối. Trong hình trang sau, đang tính giá trị trung bình của 3 môn. Khi đó, ô I1 chứa số môn được tham chiếu khi tính trung bình của cả Taro và Hanako.",
+      "en": "Consider example needing absolute reference. In next page diagram, calculating average of 3 subjects. Then, cell I1 containing number of subjects is referenced when calculating average for both Taro and Hanako.",
+      "terms": [
+        {
+          "kanji": "絶対参照",
+          "reading": "ぜったいさんしょう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "教科",
+          "reading": "きょうか"
+        },
+        {
+          "kanji": "平均値",
+          "reading": "へいきんち"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "教科数",
+          "reading": "きょうかかず"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "太郎",
+          "reading": "たろう"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "花子",
+          "reading": "はなこ"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "この場合も、常にセルI1を参照する必要があります。参照先が変わると平均値を求められなくなります。",
+      "vi": "Trong trường hợp này cũng vậy, luôn cần tham chiếu ô I1. Nếu đích tham chiếu thay đổi sẽ không thể tính trung bình.",
+      "en": "In this case too, always need to reference cell I1. If reference destination changes, cannot calculate average.",
+      "terms": [
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "参照先",
+          "reading": "さんしょうさき"
+        },
+        {
+          "kanji": "変",
+          "reading": "へん"
+        },
+        {
+          "kanji": "平均値",
+          "reading": "へいきんち"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このような場合は絶対参照を使って「E2/$I$1」と入力します。このように指定することで、セルI1の列と行がともに絶対参照になるため、どこに複写しても常にセルI1が参照されます。これが絶対参照を使う1つの例です。",
+      "vi": "Trong trường hợp như vậy, sử dụng tham chiếu tuyệt đối và nhập \"E2/$I$1\". Bằng cách chỉ định như vậy, cả cột và hàng của ô I1 đều thành tham chiếu tuyệt đối, nên dù sao chép đi đâu cũng luôn tham chiếu ô I1. Đây là một ví dụ sử dụng tham chiếu tuyệt đối.",
+      "en": "In such case, use absolute reference and enter 'E2/$I$1'. By specifying like this, both column and row of cell I1 become absolute reference, so wherever copied, always references cell I1. This is one example using absolute reference.",
+      "terms": [
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "絶対参照",
+          "reading": "ぜったいさんしょう"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "列",
+          "reading": "れつ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "複写",
+          "reading": "ふくしゃ"
+        },
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "絶対参照",
+      "reading": "ぜったいさんしょう",
+      "vi": "Tham chiếu tuyệt đối",
+      "en": "Absolute Reference",
+      "my": "အက်စိုလိုတ် ရီဖရင်း"
+    },
+    {
+      "term": "相対参照",
+      "reading": "そうたいさんしょう",
+      "vi": "Tham chiếu tương đối",
+      "en": "Relative Reference",
+      "my": "ရီလေးထစ် ရီဖရင်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

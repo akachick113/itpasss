@@ -1,0 +1,56 @@
+{
+    "page_id": 164,
+    "image": "p_0164.png",
+    "chapter": 4,
+    "section": "answers",
+    "page_number": 148,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "4-6",
+            "answer": "エ",
+            "explanation": {
+                "ja": "エ.「脳神経回路」というキーワードから、ニューラルネットワークを多層化したディープラーニングの記述であると判断できます。\n\nア. CRMの記述です。\nイ. e-ラーニングの記述です。\nウ. ナレッジマネジメントの記述です。",
+                "vi": "D. Từ keyword mạch thần kinh não có thể phán đoán là mô tả về Deep Learning - mô hình đa lớp của Neural Network.\n\nA. Mô tả về CRM.\nB. Mô tả về e-Learning.\nC. Mô tả về Knowledge Management.",
+                "en": "D. From keyword 'brain neural circuit', we can determine it's describing deep learning - multi-layered neural network.\n\nA. Description of CRM.\nB. Description of e-Learning.\nC. Description of Knowledge Management."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-7",
+            "answer": "エ",
+            "explanation": {
+                "ja": "エ. 生成AI（Generative AI）とは、テキスト、音声、静止画、動画などのオリジナルコンテンツを自動的に「生成」するAIです。生成AIでは、ユーザーが自然言語で指示（プロンプト）を与えると、それに応じて新しいコンテンツが自動生成されます。\n\nア. 生成AIは学習済みモデルを使って動作するため、「一切の学習を必要とせず」は誤りです。\n\nイ. 機械学習の回帰モデルなどに関する記述です。\n\nウ. RPA (Robotic Process Automation) に関する記述です。",
+                "vi": "D. Generative AI là AI tự động tạo nội dung gốc như văn bản, giọng nói, ảnh tĩnh, video. Trong Generative AI, khi người dùng cho chỉ thị (prompt) bằng ngôn ngữ tự nhiên, nội dung mới được tự động tạo theo đó.\n\nA. Generative AI hoạt động bằng mô hình đã học nên không cần học gì là sai.\n\nB. Mô tả về mô hình hồi quy của Machine Learning.\n\nC. Mô tả về RPA (Robotic Process Automation).",
+                "en": "D. Generative AI automatically 'generates' original content like text, audio, images, videos. In generative AI, when users give natural language instructions (prompts), new content is automatically generated accordingly.\n\nA. Generative AI uses pre-trained models, so 'without any learning' is incorrect.\n\nB. Description of machine learning regression models.\n\nC. Description of RPA (Robotic Process Automation)."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-8",
+            "answer": "エ",
+            "explanation": {
+                "ja": "エ. 生成AIが誤った情報をもっともらしい情報として生成する現象のことを「ハルシネーション（幻覚：Hallucination）」といいます。ハルシネーションのキーワードは「もっともらしい」です。\n\nア. エコーチェンバー（Echo Chamber）とは、SNSなどで、自分と似た意見を持つ人々とばかり交流することで、自分の意見が強化・増幅されてしまう現象です。\n\nイ. シンギュラリティ（Singularity：技術的特異点）は、AIが人間の知能を超える転換点です。\n\nウ. ディープフェイク（Deepfake）は、深層学習（Deep Learning）を用いて、人物の顔や音声を本物そっくりに合成した偽（Fake）の映像や音声です。",
+                "vi": "D. Hiện tượng Generative AI tạo thông tin sai như thông tin đáng tin gọi là Hallucination (ảo giác). Keyword của Hallucination là có vẻ đáng tin.\n\nA. Echo Chamber là hiện tượng ý kiến của mình được tăng cường và khuếch đại do chỉ giao lưu với người có ý kiến tương tự trên SNS.\n\nB. Singularity (điểm kỳ dị công nghệ) là điểm chuyển đổi khi AI vượt qua trí tuệ con người.\n\nC. Deepfake là video hoặc âm thanh giả (Fake) được tổng hợp giống thật khuôn mặt và giọng nói người bằng Deep Learning.",
+                "en": "D. The phenomenon where generative AI generates incorrect information as plausible is called 'Hallucination'. Hallucination's keyword is 'plausible'.\n\nA. Echo Chamber is the phenomenon where one's opinions are reinforced/amplified by only interacting with like-minded people on SNS.\n\nB. Singularity is the turning point when AI surpasses human intelligence.\n\nC. Deepfake is fake video/audio synthesized to look real using Deep Learning."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-9",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "ウ.「接続仕様を外部に公開」は「APIをオープン」にしていることなので、オープンAPIが正解だとわかります。\n\nア. BPO (Business Process Outsourcing) とは、経理、総務、コールセンター運営などの業務プロセスを外部委託することです。\n\nイ. RPA (Robotic Process Automation) とは、ソフトウェアロボットで定型的な事務作業を自動化することです。\n\nエ. 技術経営 (MOT：Management Of Technology) とは、イノベーション（技術革新）と経営戦略やビジネスを結び付けようとする考え方です。",
+                "vi": "C. Công khai đặc tả kết nối ra bên ngoài nghĩa là mở API nên Open API là đáp án đúng.\n\nA. BPO (Business Process Outsourcing) là ủy thác bên ngoài quy trình nghiệp vụ như kế toán, tổng vụ, vận hành call center.\n\nB. RPA (Robotic Process Automation) là tự động hóa công việc văn phòng định hình bằng robot phần mềm.\n\nD. Quản lý công nghệ (MOT: Management Of Technology) là cách tư duy kết nối đổi mới (cách mạng công nghệ) với chiến lược kinh doanh.",
+                "en": "C. 'Publishing connection specifications externally' means making API open, so Open API is correct.\n\nA. BPO (Business Process Outsourcing) is outsourcing business processes like accounting, general affairs, call center operations.\n\nB. RPA (Robotic Process Automation) is automating routine office work with software robots.\n\nD. Technology Management (MOT) is a way of thinking to connect innovation with business strategy."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "4-6, 4-7, 4-8, 4-9"
+    }
+}

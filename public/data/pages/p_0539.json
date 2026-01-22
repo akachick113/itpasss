@@ -1,0 +1,212 @@
+{
+  "page_id": 539,
+  "image": "p_0539.png",
+  "chapter": 15,
+  "section": "15-01",
+  "page_number": 523,
+  "content": [
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "語源を知る",
+        "vi": "Hiểu nguồn gốc từ",
+        "en": "Know Etymology",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "情報セキュリティの脅威の具体例は非常に多いため、そのすべての用語を1つづつ丸暗記する方法は得策ではありません。そこで本書では「用語を語源で覚える」ことを提案しています。情報セキュリティ関連の用語のなかには、聞きなれない言葉や造語もあります。一見しただけでは何を意味しているのかわかりづらい用語もあります。そのような場合でも、語源を知ると納得できることが多いと思います。ぜひ一度取り組んでみてください。",
+        "vi": "Vì có rất nhiều ví dụ cụ thể về mối đe dọa bảo mật thông tin, việc học thuộc từng thuật ngữ một không phải là cách hay. Vì vậy sách này đề xuất \"nhớ thuật ngữ qua nguồn gốc\". Trong các thuật ngữ liên quan đến bảo mật thông tin có những từ không quen hoặc từ mới. Có những thuật ngữ khó hiểu ý nghĩa chỉ nhìn qua. Ngay cả trong trường hợp đó, tôi nghĩ bạn có thể hiểu được nếu biết nguồn gốc từ. Hãy thử một lần.",
+        "en": "Since there are many specific examples of information security threats, memorizing all terms one by one is not good strategy. So this book proposes 'remembering terms by etymology.' Among information security terms are unfamiliar words and coined terms. Some terms are hard to understand at first glance. Even in such cases, knowing etymology often helps understanding. Please try it."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（1）人的脅威",
+      "vi": "(1) Mối đe dọa do con người",
+      "en": "(1) Human Threats"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "人的脅威",
+        "vi": "Mối đe dọa do con người",
+        "en": "Human Threats"
+      },
+      "definition": {
+        "ja": "人的脅威とは、人によって引き起こされる脅威です。例えば、社員が誤操作でデータを消してしまうことや、悪意を持った人がコンピュータに不正アクセス（p.65）することです。これらはすべて人的脅威となります。",
+        "vi": "Mối đe dọa do con người là mối đe dọa được gây ra bởi con người. Ví dụ, nhân viên xóa dữ liệu do thao tác sai, hoặc người có ác ý truy cập trái phép vào máy tính (trang 65). Tất cả đều là mối đe dọa do con người.",
+        "en": "Human Threats are threats caused by people. For example, employees deleting data by mistake, or malicious people accessing computers illegally (p.65). All these are human threats."
+      },
+      "note": {
+        "ja": "「社員の誤操作」も脅威の1つ",
+        "vi": "\"Thao tác sai của nhân viên\" cũng là 1 mối đe dọa",
+        "en": "'Employee mistakes' are also threats"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "クラッキング",
+      "vi": "Cracking",
+      "en": "Cracking"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "クラッキング",
+        "vi": "Cracking",
+        "en": "Cracking"
+      },
+      "definition": {
+        "ja": "クラッキング（Cracking）とは、悪意をもってコンピュータに不正侵入し、データを盗み見たり、破壊したりすることです。",
+        "vi": "Cracking là việc xâm nhập trái phép vào máy tính với ác ý, xem trộm hoặc phá hủy dữ liệu.",
+        "en": "Cracking is illegally intruding into computers with malicious intent, stealing or destroying data."
+      },
+      "etymology": {
+        "ja": "Crackingは「ひびを入れる」という意味です。ひびを入れて元の状態を壊すところから、データを盗んだり、破壊するという意味での言葉が使われています。",
+        "vi": "Cracking có nghĩa là \"tạo vết nứt\". Từ việc tạo vết nứt và phá hủy trạng thái ban đầu, từ này được sử dụng với nghĩa đánh cắp hoặc phá hủy dữ liệu.",
+        "en": "Cracking means 'to crack.' From cracking and destroying original state, the word is used meaning stealing or destroying data."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ソーシャルエンジニアリング",
+      "vi": "Social Engineering",
+      "en": "Social Engineering"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ソーシャルエンジニアリング",
+        "vi": "Social Engineering",
+        "en": "Social Engineering"
+      },
+      "definition": {
+        "ja": "ソーシャルエンジニアリングとは、特別なツールや技術は使わず、人間の心理の隙を利用して秘密情報を手に入れることです。ITパスポート試験では、過去に次のような表現で問題が出題されています。",
+        "vi": "Social Engineering là việc lấy thông tin bí mật bằng cách lợi dụng kẽ hở tâm lý con người mà không sử dụng công cụ hoặc kỹ thuật đặc biệt. Trong kỳ thi IT Passport, các câu hỏi đã được ra với cách diễn đạt như sau.",
+        "en": "Social Engineering is obtaining secret information by exploiting human psychological gaps without using special tools or techniques. In IT Passport exam, questions have appeared with following expressions."
+      }
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "社員を装った電話を社外からかけて、社内の機密情報を聞き出す",
+          "vi": "Gọi điện từ bên ngoài giả làm nhân viên để lấy thông tin bí mật nội bộ",
+          "en": "Call from outside pretending to be employee to extract internal confidential information"
+        },
+        {
+          "ja": "パスワードが書かれた紙をごみ箱から拾い、システムに不正にアクセスする",
+          "vi": "Nhặt giấy có ghi mật khẩu từ thùng rác và truy cập hệ thống trái phép",
+          "en": "Pick up paper with password from trash and illegally access system"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ソーシャルエンジニアリングの一例に「ショルダーハック」や「トラッシング」があります。ショルダーハックとは、他人がパスワードなどの秘密の情報を入力しているところを肩越しに盗み見ることです。また、トラッシングは、捨てられた書類や記録媒体から、IDやパスワードなどの情報を盗み出すことです。",
+      "vi": "Một ví dụ của Social Engineering là \"Shoulder Hacking\" và \"Trashing\". Shoulder Hacking là việc nhìn trộm qua vai khi người khác đang nhập thông tin bí mật như mật khẩu. Ngoài ra, Trashing là việc đánh cắp thông tin như ID, mật khẩu từ tài liệu hoặc phương tiện lưu trữ đã bị vứt bỏ.",
+      "en": "Examples of Social Engineering include 'Shoulder Hacking' and 'Trashing.' Shoulder Hacking is peeking over shoulder when someone enters secret information like passwords. Also, Trashing is stealing information like IDs and passwords from discarded documents or storage media.",
+      "terms": [
+        {
+          "kanji": "一例",
+          "reading": "いちれい"
+        },
+        {
+          "kanji": "他人",
+          "reading": "たにん"
+        },
+        {
+          "kanji": "秘密",
+          "reading": "ひみつ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "肩越",
+          "reading": "かたえつ"
+        },
+        {
+          "kanji": "盗",
+          "reading": "とう"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "捨",
+          "reading": "しゃ"
+        },
+        {
+          "kanji": "書類",
+          "reading": "しょるい"
+        },
+        {
+          "kanji": "記録媒体",
+          "reading": "きろくばいたい"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "語源",
+        "vi": "Nguồn gốc từ",
+        "en": "Etymology"
+      },
+      "content": {
+        "ja": "ソーシャルエンジニアリングとは「社会工学」という意味もあります。社会工学とは、社会問題を理工学的なアプローチ（数字や物理など）で解決しようとする学問です。理工学的なアプローチをまったく使わない不正行為なのに、この学問にならえというようにいたずらっぽく名付けたのでしょうか。",
+        "vi": "Social Engineering cũng có nghĩa là \"kỹ thuật xã hội\". Kỹ thuật xã hội là ngành học cố gắng giải quyết vấn đề xã hội bằng cách tiếp cận khoa học kỹ thuật (số học, vật lý,...). Mặc dù là hành vi gian lận hoàn toàn không sử dụng cách tiếp cận khoa học kỹ thuật, có lẽ nó được đặt tên hài hước theo ngành học này.",
+        "en": "Social Engineering also means 'social engineering (science).' Social engineering is discipline trying to solve social problems with scientific approaches (math, physics). Though it's fraud without any scientific approach, perhaps named playfully after this discipline."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "人的脅威",
+      "vi": "Mối đe dọa do con người",
+      "en": "Human Threats",
+      "my": "လူတ်မှဈဓာတ် ခြိမ်းခြောက်"
+    },
+    {
+      "term": "クラッキング",
+      "vi": "Cracking",
+      "en": "Cracking",
+      "my": "ခရက်ကင်"
+    },
+    {
+      "term": "ソーシャルエンジニアリング",
+      "vi": "Social Engineering",
+      "en": "Social Engineering",
+      "my": "လူမှုဆက်ပတ် အင်ဂျင်နီယာရင်"
+    },
+    {
+      "term": "ショルダーハック",
+      "vi": "Shoulder Hacking",
+      "en": "Shoulder Hacking",
+      "my": "ပခုံးလှြိုင်ချိုးကြညည်ခြင်း"
+    },
+    {
+      "term": "トラッシング",
+      "vi": "Trashing",
+      "en": "Trashing",
+      "my": "အမှိုက်ဖွေရှာခြင်း"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

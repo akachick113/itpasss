@@ -1,0 +1,310 @@
+{
+  "page_id": 507,
+  "image": "p_0507.png",
+  "chapter": 14,
+  "section": "14-02",
+  "page_number": 491,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "伝送効率と伝送時間",
+      "vi": "Hiệu suất truyền và Thời gian truyền",
+      "en": "Transmission Efficiency and Transmission Time"
+    },
+    {
+      "type": "paragraph",
+      "ja": "通信回線の状況を測る尺度に「伝送効率」と「伝送時間」の2種類があります。",
+      "vi": "Có 2 loại thước đo để đo tình trạng đường truyền thông tin: \"Hiệu suất truyền\" và \"Thời gian truyền\".",
+      "en": "There are 2 types of measures to gauge communication line condition: 'Transmission Efficiency' and 'Transmission Time.'",
+      "terms": [
+        {
+          "kanji": "通信回線",
+          "reading": "つうしんかいせん"
+        },
+        {
+          "kanji": "状況",
+          "reading": "じょうきょう"
+        },
+        {
+          "kanji": "測",
+          "reading": "そく"
+        },
+        {
+          "kanji": "尺度",
+          "reading": "しゃくど"
+        },
+        {
+          "kanji": "伝送効率",
+          "reading": "でんそうこうりつ"
+        },
+        {
+          "kanji": "伝送時間",
+          "reading": "でんそうじかん"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "伝送効率とは",
+      "vi": "Hiệu suất truyền là gì",
+      "en": "What is Transmission Efficiency"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "伝送効率",
+        "vi": "Hiệu suất truyền",
+        "en": "Transmission Efficiency"
+      },
+      "definition": {
+        "ja": "伝送効率とは、回線速度に対する伝送速度の割合です。次の式で求めます。",
+        "vi": "Hiệu suất truyền là tỷ lệ của tốc độ truyền so với tốc độ đường truyền. Tính bằng công thức sau.",
+        "en": "Transmission efficiency is ratio of transmission speed to line speed. Calculated with following formula."
+      }
+    },
+    {
+      "type": "formula",
+      "formula": {
+        "ja": "伝送効率（%）= 伝送速度 ÷ 回線速度 × 100",
+        "vi": "Hiệu suất truyền (%) = Tốc độ truyền ÷ Tốc độ đường truyền × 100",
+        "en": "Transmission Efficiency (%) = Transmission Speed ÷ Line Speed × 100"
+      },
+      "note": {
+        "ja": "重要！計算式を覚えよう！",
+        "vi": "Quan trọng! Hãy nhớ công thức!",
+        "en": "Important! Remember formula!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、回線速度（回線の計算上の最大速度）が4Mbpsで、伝送速度（実際の速度）が2Mbpsの場合、伝送効率は「50%」になります。",
+      "vi": "Ví dụ, nếu tốc độ đường truyền (tốc độ tối đa tính toán của đường truyền) là 4Mbps và tốc độ truyền (tốc độ thực tế) là 2Mbps, hiệu suất truyền là \"50%\".",
+      "en": "For example, if line speed (maximum calculated speed of line) is 4Mbps and transmission speed (actual speed) is 2Mbps, transmission efficiency is '50%.'",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "回線速度",
+          "reading": "かいせんそくど"
+        },
+        {
+          "kanji": "回線",
+          "reading": "かいせん"
+        },
+        {
+          "kanji": "計算上",
+          "reading": "けいさんじょう"
+        },
+        {
+          "kanji": "最大速度",
+          "reading": "さいだいそくど"
+        },
+        {
+          "kanji": "伝送速度",
+          "reading": "でんそうそくど"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "速度",
+          "reading": "そくど"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "伝送効率",
+          "reading": "でんそうこうりつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "高速道路に渋滞があるように、通信回線にも渋滞（データの伝送速度を落とすさまざまな要因）があります。このようなデータの渋滞のことを「輻輳」（ものが1箇所に集まること）といいます。",
+      "vi": "Giống như cao tốc có tắc nghẽn, đường truyền thông cũng có tắc nghẽn (các yếu tố khác nhau làm giảm tốc độ truyền dữ liệu). Sự tắc nghẽn dữ liệu như vậy được gọi là \"nghẽn mạch\" (việc tập trung vào 1 chỗ).",
+      "en": "Just as highways have congestion, communication lines also have congestion (various factors slowing data transmission speed). Such data congestion is called 'congestion' (collection in one place).",
+      "terms": [
+        {
+          "kanji": "高速道路",
+          "reading": "こうそくどうろ"
+        },
+        {
+          "kanji": "渋滞",
+          "reading": "じゅうたい"
+        },
+        {
+          "kanji": "通信回線",
+          "reading": "つうしんかいせん"
+        },
+        {
+          "kanji": "伝送速度",
+          "reading": "でんそうそくど"
+        },
+        {
+          "kanji": "落",
+          "reading": "らく"
+        },
+        {
+          "kanji": "要因",
+          "reading": "よういん"
+        },
+        {
+          "kanji": "輻輳",
+          "reading": "ふくそう"
+        },
+        {
+          "kanji": "箇所",
+          "reading": "かしょ"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "伝送時間",
+      "vi": "Thời gian truyền",
+      "en": "Transmission Time"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "伝送時間",
+        "vi": "Thời gian truyền",
+        "en": "Transmission Time"
+      },
+      "definition": {
+        "ja": "伝送時間とは、あるデータ量を伝送するのに必要な時間です。次の式で求めます。",
+        "vi": "Thời gian truyền là thời gian cần thiết để truyền một lượng dữ liệu nhất định. Tính bằng công thức sau.",
+        "en": "Transmission time is time needed to transmit certain amount of data. Calculated with following formula."
+      }
+    },
+    {
+      "type": "formula",
+      "formula": {
+        "ja": "伝送時間 = データ量 ÷ 伝送速度",
+        "vi": "Thời gian truyền = Lượng dữ liệu ÷ Tốc độ truyền",
+        "en": "Transmission Time = Data Amount ÷ Transmission Speed"
+      },
+      "note": {
+        "ja": "重要！計算式を覚えよう！",
+        "vi": "Quan trọng! Hãy nhớ công thức!",
+        "en": "Important! Remember formula!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、伝送速度が2bpsで、データ量が6ビットの場合、伝送時間は「3秒」になります。",
+      "vi": "Ví dụ, nếu tốc độ truyền là 2bps và lượng dữ liệu là 6 bit, thời gian truyền là \"3 giây\".",
+      "en": "For example, if transmission speed is 2bps and data amount is 6 bits, transmission time is '3 seconds.'",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "伝送速度",
+          "reading": "でんそうそくど"
+        },
+        {
+          "kanji": "量",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "伝送時間",
+          "reading": "でんそうじかん"
+        },
+        {
+          "kanji": "秒",
+          "reading": "びょう"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "実効値と理論値",
+        "vi": "Giá trị thực tế và Giá trị lý thuyết",
+        "en": "Actual Value and Theoretical Value",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "設問によっては、伝送速度が「実効値（実際の値）」ではなく、「理論値（計算上の最大値）」を意味する場合があります。そのため、伝送速度の設問では、伝送速度が「実効値」なのか、「理論値」なのかを読み解くようにしてください。",
+        "vi": "Tùy theo câu hỏi, tốc độ truyền có thể có nghĩa là \"giá trị lý thuyết (giá trị tối đa tính toán)\" thay vì \"giá trị thực tế (giá trị thực)\". Vì vậy, trong các câu hỏi về tốc độ truyền, hãy đọc hiểu xem tốc độ truyền là \"giá trị thực tế\" hay \"giá trị lý thuyết\".",
+        "en": "Depending on question, transmission speed may mean 'theoretical value (maximum calculated value)' rather than 'actual value (real value).' Therefore, in questions about transmission speed, read to understand whether transmission speed is 'actual value' or 'theoretical value.'"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "伝送効率（%）＝伝送速度÷回線速度×100",
+          "vi": "Hiệu suất truyền (%) = Tốc độ truyền ÷ Tốc độ đường truyền × 100",
+          "en": "Transmission Efficiency (%) = Transmission Speed ÷ Line Speed × 100"
+        },
+        {
+          "ja": "伝送時間＝データ量÷伝送速度",
+          "vi": "Thời gian truyền = Lượng dữ liệu ÷ Tốc độ truyền",
+          "en": "Transmission Time = Data Amount ÷ Transmission Speed"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "伝送効率",
+      "reading": "でんそうこうりつ",
+      "vi": "Hiệu suất truyền",
+      "en": "Transmission Efficiency",
+      "my": "ထရန်စ်မရှင်း ထိရောက်မှု"
+    },
+    {
+      "term": "伝送時間",
+      "reading": "でんそうじかん",
+      "vi": "Thời gian truyền",
+      "en": "Transmission Time",
+      "my": "ထရန်စ်မရှင်း အချိန်"
+    },
+    {
+      "term": "輻輳",
+      "reading": "ふくそう",
+      "vi": "Nghẽn mạch",
+      "en": "Congestion",
+      "my": "ကန်ဂျက်ရှင်း"
+    }
+  ],
+  "meta": {
+    "has_formula": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

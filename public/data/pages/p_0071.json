@@ -1,0 +1,375 @@
+{
+  "page_id": 71,
+  "image": "p_0071.png",
+  "chapter": 2,
+  "section": "intro",
+  "page_number": 55,
+  "content": [
+    {
+      "type": "chapter_title",
+      "number": 2,
+      "ja": "法務",
+      "reading": "ほうむ",
+      "vi": "Pháp vụ",
+      "en": "Legal Affairs",
+      "my": "ဥပဒေရေးရာ"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "この章のポイント！",
+        "vi": "Điểm quan trọng của chương này!",
+        "en": "Key Points of This Chapter!",
+        "my": "ဤအခန်း၏ အဓိကအချက်များ!",
+        "terms": [
+          {
+            "kanji": "章",
+            "reading": "しょう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "コンピュータを業務で利用するには、関連する法律や権利のことを把握しておくことが重要です。悪意がなかったとしても他人の権利を侵害したり、法律違反を行えば、それは立派な犯罪です。自身を守り、また法令を守るうえでも、本章の内容はとても重要です。",
+        "vi": "Để sử dụng máy tính trong công việc, điều quan trọng là phải nắm được các luật và quyền liên quan. Ngay cả khi không có ác ý, nếu xâm phạm quyền của người khác hoặc vi phạm pháp luật thì đó vẫn là tội phạm. Để bảo vệ bản thân và tuân thủ pháp luật, nội dung chương này rất quan trọng.",
+        "en": "To use computers for work, it's important to understand related laws and rights. Even without malice, violating others' rights or breaking laws is a crime. To protect yourself and comply with laws, this chapter's content is very important.",
+        "my": "အလုပ်အတွက် ကွန်ပျူတာအသုံးပြုရန် သက်ဆိုင်ရာ ဥပဒေများနှင့် အခွင့်အရေးများကို နားလည်ရန် အရေးကြီးသည်။",
+        "terms": [
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "利用",
+            "reading": "りよう"
+          },
+          {
+            "kanji": "関連",
+            "reading": "かんれん"
+          },
+          {
+            "kanji": "法律",
+            "reading": "ほうりつ"
+          },
+          {
+            "kanji": "権利",
+            "reading": "けんり"
+          },
+          {
+            "kanji": "把握",
+            "reading": "はあく"
+          },
+          {
+            "kanji": "重要",
+            "reading": "じゅうよう"
+          },
+          {
+            "kanji": "悪意",
+            "reading": "あくい"
+          },
+          {
+            "kanji": "他人",
+            "reading": "たにん"
+          },
+          {
+            "kanji": "侵害",
+            "reading": "しんがい"
+          },
+          {
+            "kanji": "法律違反",
+            "reading": "ほうりついはん"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "立派",
+            "reading": "りっぱ"
+          },
+          {
+            "kanji": "犯罪",
+            "reading": "はんざい"
+          },
+          {
+            "kanji": "自身",
+            "reading": "じしん"
+          },
+          {
+            "kanji": "守",
+            "reading": "しゅ"
+          },
+          {
+            "kanji": "法令",
+            "reading": "ほうれい"
+          },
+          {
+            "kanji": "本章",
+            "reading": "ほんしょう"
+          },
+          {
+            "kanji": "内容",
+            "reading": "ないよう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "ここに注目して読もう！",
+        "vi": "Hãy chú ý đọc phần này!",
+        "en": "Pay Attention to These!",
+        "my": "ဒါတွေကို အာရုံစိုက်ပါ!"
+      },
+      "content": {
+        "ja": "・知的財産権、セキュリティ関連法規、個人情報保護法など、身近な職場の法律\n・ライセンス形態、ライセンス管理など、ソフトウェアライセンスの考え方\n・コンプライアンスなど、企業の規範に関する考え方\n・標準化の意義",
+        "vi": "・Luật tại nơi làm việc quen thuộc như quyền sở hữu trí tuệ, luật liên quan đến bảo mật, luật bảo vệ thông tin cá nhân\n・Cách nghĩ về giấy phép phần mềm như hình thức giấy phép, quản lý giấy phép\n・Cách nghĩ về quy phạm doanh nghiệp như tuân thủ (Compliance)\n・Ý nghĩa của chuẩn hóa",
+        "en": "・Workplace laws like intellectual property rights, security-related regulations, personal information protection law\n・Software licensing concepts like license types, license management\n・Corporate compliance concepts\n・Significance of standardization",
+        "my": "・ ဉာဏပိုင်ဆိုင်ခွင့်၊ လုံခြုံရေးဆိုင်ရာ စည်းမျဉ်းများ၊ ကိုယ်ရေးအချက်အလက်ကာကွယ်ရေးဥပဒေ ကဲ့သို့သော အလုပ်ခွင်ဥပဒေများ",
+        "terms": [
+          {
+            "kanji": "知的財産権",
+            "reading": "ちてきざいさんけん"
+          },
+          {
+            "kanji": "関連法規",
+            "reading": "かんれんほうき"
+          },
+          {
+            "kanji": "個人情報保護法",
+            "reading": "こじんじょうほうほごほう"
+          },
+          {
+            "kanji": "身近",
+            "reading": "みじか"
+          },
+          {
+            "kanji": "職場",
+            "reading": "しょくば"
+          },
+          {
+            "kanji": "法律",
+            "reading": "ほうりつ"
+          },
+          {
+            "kanji": "形態",
+            "reading": "けいたい"
+          },
+          {
+            "kanji": "管理",
+            "reading": "かんり"
+          },
+          {
+            "kanji": "考",
+            "reading": "こう"
+          },
+          {
+            "kanji": "方",
+            "reading": "かた"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "規範",
+            "reading": "きはん"
+          },
+          {
+            "kanji": "関",
+            "reading": "かん"
+          },
+          {
+            "kanji": "標準化",
+            "reading": "ひょうじゅんか"
+          },
+          {
+            "kanji": "意義",
+            "reading": "いぎ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "試験範囲全体における本章の位置づけ",
+        "vi": "Vị trí của chương này trong toàn bộ phạm vi thi",
+        "en": "Position of This Chapter in Exam Scope"
+      },
+      "headers": {
+        "ja": [
+          "分野",
+          "大分類"
+        ],
+        "vi": [
+          "Lĩnh vực",
+          "Phân loại lớn"
+        ],
+        "en": [
+          "Field",
+          "Major Category"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "ストラテジ系",
+            "企業と法務 ← 本章はココ！"
+          ],
+          "vi": [
+            "Chiến lược",
+            "Doanh nghiệp và Pháp vụ ← Chương này ở đây!"
+          ],
+          "en": [
+            "Strategy",
+            "Corporate and Legal ← This chapter is here!"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "経営戦略"
+          ],
+          "vi": [
+            "",
+            "Chiến lược kinh doanh"
+          ],
+          "en": [
+            "",
+            "Business Strategy"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "システム戦略"
+          ],
+          "vi": [
+            "",
+            "Chiến lược hệ thống"
+          ],
+          "en": [
+            "",
+            "System Strategy"
+          ]
+        },
+        {
+          "ja": [
+            "マネジメント系",
+            "開発技術"
+          ],
+          "vi": [
+            "Quản lý",
+            "Kỹ thuật phát triển"
+          ],
+          "en": [
+            "Management",
+            "Development Technology"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "プロジェクトマネジメント"
+          ],
+          "vi": [
+            "",
+            "Quản lý dự án"
+          ],
+          "en": [
+            "",
+            "Project Management"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "サービスマネジメント"
+          ],
+          "vi": [
+            "",
+            "Quản lý dịch vụ"
+          ],
+          "en": [
+            "",
+            "Service Management"
+          ]
+        },
+        {
+          "ja": [
+            "テクノロジ系",
+            "基礎理論"
+          ],
+          "vi": [
+            "Công nghệ",
+            "Lý thuyết cơ bản"
+          ],
+          "en": [
+            "Technology",
+            "Basic Theory"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "コンピュータシステム"
+          ],
+          "vi": [
+            "",
+            "Hệ thống máy tính"
+          ],
+          "en": [
+            "",
+            "Computer System"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "技術要素"
+          ],
+          "vi": [
+            "",
+            "Yếu tố kỹ thuật"
+          ],
+          "en": [
+            "",
+            "Technical Elements"
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "法務",
+      "reading": "ほうむ",
+      "romaji": "Houmu",
+      "vi": "Pháp vụ",
+      "en": "Legal Affairs",
+      "my": "ဥပဒေရေးရာ"
+    },
+    {
+      "kanji": "知的財産権",
+      "reading": "ちてきざいさんけん",
+      "romaji": "Chiteki Zaisan Ken",
+      "vi": "Quyền sở hữu trí tuệ",
+      "en": "Intellectual Property Rights",
+      "my": "ဉာဏပိုင်ဆိုင်ခွင့်"
+    },
+    {
+      "kanji": "標準化",
+      "reading": "ひょうじゅんか",
+      "romaji": "Hyoujunka",
+      "vi": "Chuẩn hóa",
+      "en": "Standardization",
+      "my": "စံနှုန်းသတ်မှတ်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "is_chapter_intro": true
+  }
+}

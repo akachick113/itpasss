@@ -1,0 +1,300 @@
+{
+  "page_id": 183,
+  "image": "p_0183.png",
+  "chapter": 4,
+  "section": "04-06",
+  "page_number": 167,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "IoTシステムが複数のIoTデバイスで構成される場合、各IoTデバイスが直接IoTサーバと通信をするとネットワークに負荷がかかります。そのような場合は、IoTゲートウェイが中継点となり、IoTデバイスから送られるデータをまとめてからIoTサーバに送ることで、ネットワークの負荷を軽減できます。",
+      "vi": "Khi hệ thống IoT gồm nhiều IoT Device, nếu mỗi IoT Device giao tiếp trực tiếp với IoT Server sẽ gây tải cho mạng. Trong trường hợp đó, IoT Gateway thành điểm trung chuyển, tổng hợp dữ liệu từ các IoT Device rồi gửi đến IoT Server để giảm tải mạng.",
+      "en": "When an IoT system consists of multiple IoT Devices, each device communicating directly with IoT Server creates network load. In such cases, IoT Gateway becomes a relay point, collecting data from IoT Devices before sending to IoT Server, reducing network load.",
+      "my": "IoT system တွင် IoT Devices အများအပြား ပါဝင်သောအခါ ကိရိယာတစ်ခုစီ IoT Server နှင့် တိုက်ရိုက်ဆက်သွယ်ခြင်းသည် network load ဖန်တီးသည်။",
+      "terms": [
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "各",
+          "reading": "かく"
+        },
+        {
+          "kanji": "直接",
+          "reading": "ちょくせつ"
+        },
+        {
+          "kanji": "通信",
+          "reading": "つうしん"
+        },
+        {
+          "kanji": "負荷",
+          "reading": "ふか"
+        },
+        {
+          "kanji": "中継点",
+          "reading": "ちゅうけいてん"
+        },
+        {
+          "kanji": "送",
+          "reading": "そう"
+        },
+        {
+          "kanji": "軽減",
+          "reading": "けいげん"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・IoTとは、自動車や家電などの「モノ」が直接インターネットにつながって、お互いに情報をやりとりすること\n・センサーとは、物理量を検出して電気信号に変える装置\n・アクチュエーターとは、電気信号を力学的な運動に変える装置\n・IoTゲートウェイとは、IoTデバイスとIoTサーバ間の通信を中継することでネットワークの負荷を軽減する装置",
+        "vi": "・IoT là việc các vật như ô tô, thiết bị gia dụng kết nối trực tiếp internet và trao đổi thông tin với nhau\n・Sensor là thiết bị phát hiện đại lượng vật lý và chuyển thành tín hiệu điện\n・Actuator là thiết bị chuyển tín hiệu điện thành chuyển động cơ học\n・IoT Gateway là thiết bị giảm tải mạng bằng cách trung chuyển giao tiếp giữa IoT Device và IoT Server",
+        "en": "・IoT is where 'things' like cars and appliances connect directly to internet and exchange information\n・Sensor is a device detecting physical quantities and converting to electrical signals\n・Actuator is a device converting electrical signals to mechanical motion\n・IoT Gateway is a device reducing network load by relaying communication between IoT Devices and IoT Server",
+        "my": "・ IoT သည် ကားများနှင့် အိမ်သုံးပစ္စည်းများ ကဲ့သို့သော 'အရာများ' အင်တာနက်သို့ တိုက်ရိုက်ချိတ်ဆက်ပြီး အချက်အလက် ဖလှယ်ခြင်းဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "自動車",
+            "reading": "じどうしゃ"
+          },
+          {
+            "kanji": "家電",
+            "reading": "かでん"
+          },
+          {
+            "kanji": "直接",
+            "reading": "ちょくせつ"
+          },
+          {
+            "kanji": "互",
+            "reading": "ご"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "物理量",
+            "reading": "ぶつりりょう"
+          },
+          {
+            "kanji": "検出",
+            "reading": "けんしゅつ"
+          },
+          {
+            "kanji": "電気信号",
+            "reading": "でんきしんごう"
+          },
+          {
+            "kanji": "変",
+            "reading": "へん"
+          },
+          {
+            "kanji": "装置",
+            "reading": "そうち"
+          },
+          {
+            "kanji": "力学的",
+            "reading": "りきがくてき"
+          },
+          {
+            "kanji": "運動",
+            "reading": "うんどう"
+          },
+          {
+            "kanji": "間",
+            "reading": "かん"
+          },
+          {
+            "kanji": "通信",
+            "reading": "つうしん"
+          },
+          {
+            "kanji": "中継",
+            "reading": "ちゅうけい"
+          },
+          {
+            "kanji": "負荷",
+            "reading": "ふか"
+          },
+          {
+            "kanji": "軽減",
+            "reading": "けいげん"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "Society 5.0",
+      "vi": "Society 5.0",
+      "en": "Society 5.0"
+    },
+    {
+      "type": "paragraph",
+      "ja": "AI（人工知能）やIoTの普及に伴い、内閣府が提唱する未来社会のコンセプトである「Society 5.0」も注目されはじめています。以下は内閣府が定めたSociety 5.0の定義です。抽象的な定義文なので覚えにくいと思いますが、少なくとも「仮想空間」と「現実空間」の2つのキーワードは覚えておいてください。\n\nSociety 5.0とは、「サイバー空間（仮想空間）とフィジカル空間（現実空間）」を高度に融合させたシステムにより、経済発展と社会的課題の解決を両立する、人間中心の社会（Society）",
+      "vi": "Cùng với sự phổ biến của AI (Trí tuệ nhân tạo) và IoT, khái niệm xã hội tương lai Society 5.0 do Nội các đề xuất cũng bắt đầu được chú ý. Dưới đây là định nghĩa Society 5.0 của Nội các. Định nghĩa trừu tượng nên khó nhớ, nhưng ít nhất hãy nhớ 2 từ khóa không gian ảo và không gian thực.\n\nSociety 5.0 là xã hội lấy con người làm trung tâm (Society), đạt được cả phát triển kinh tế và giải quyết vấn đề xã hội thông qua hệ thống tích hợp cao độ không gian mạng (không gian ảo) và không gian vật lý (không gian thực)",
+      "en": "With the spread of AI and IoT, 'Society 5.0', the future society concept proposed by the Cabinet Office, is gaining attention. Below is the Cabinet Office's definition. It's abstract and hard to remember, but at least remember the 2 keywords 'virtual space' and 'real space'.\n\nSociety 5.0 is a human-centered society (Society) that achieves both economic development and solving social issues through a system that highly integrates cyberspace (virtual space) and physical space (real space)",
+      "my": "AI နှင့် IoT ပျံ့နှံ့လာသည်နှင့်အမျှ Cabinet Office မှ အဆိုပြုသော အနာဂတ်လူ့အဖွဲ့အစည်း သဘောတရား Society 5.0 သည် အာရုံစိုက်ခံနေရသည်။",
+      "terms": [
+        {
+          "kanji": "人工知能",
+          "reading": "じんこうちのう"
+        },
+        {
+          "kanji": "普及",
+          "reading": "ふきゅう"
+        },
+        {
+          "kanji": "伴",
+          "reading": "はん"
+        },
+        {
+          "kanji": "内閣府",
+          "reading": "ないかくふ"
+        },
+        {
+          "kanji": "提唱",
+          "reading": "ていしょう"
+        },
+        {
+          "kanji": "未来社会",
+          "reading": "みらいしゃかい"
+        },
+        {
+          "kanji": "注目",
+          "reading": "ちゅうもく"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "定",
+          "reading": "てい"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "抽象的",
+          "reading": "ちゅうしょうてき"
+        },
+        {
+          "kanji": "定義文",
+          "reading": "ていぎぶん"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "少",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "仮想空間",
+          "reading": "かそうくうかん"
+        },
+        {
+          "kanji": "現実空間",
+          "reading": "げんじつくうかん"
+        },
+        {
+          "kanji": "空間",
+          "reading": "くうかん"
+        },
+        {
+          "kanji": "高度",
+          "reading": "こうど"
+        },
+        {
+          "kanji": "融合",
+          "reading": "ゆうごう"
+        },
+        {
+          "kanji": "経済発展",
+          "reading": "けいざいはってん"
+        },
+        {
+          "kanji": "社会的課題",
+          "reading": "しゃかいてきかだい"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "両立",
+          "reading": "りょうりつ"
+        },
+        {
+          "kanji": "人間中心",
+          "reading": "にんげんちゅうしん"
+        },
+        {
+          "kanji": "社会",
+          "reading": "しゃかい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "Society 5.0",
+      "reading": "そさえてぃーごーてんぜろ",
+      "romaji": "Society 5.0",
+      "vi": "Xã hội 5.0",
+      "en": "Society 5.0",
+      "my": "Society 5.0"
+    },
+    {
+      "kanji": "サイバー空間",
+      "reading": "さいばーくうかん",
+      "romaji": "Cyberspace",
+      "vi": "Không gian mạng",
+      "en": "Cyberspace",
+      "my": "Cyberspace"
+    },
+    {
+      "kanji": "フィジカル空間",
+      "reading": "ふぃじかるくうかん",
+      "romaji": "Physical Space",
+      "vi": "Không gian vật lý",
+      "en": "Physical Space",
+      "my": "Physical Space"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

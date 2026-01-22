@@ -1,0 +1,172 @@
+{
+  "page_id": 247,
+  "image": "p_0247.png",
+  "chapter": 6,
+  "section": "06-02",
+  "page_number": 231,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "3つの要件定義の覚え方",
+      "reading": "みっつのようけんていぎのおぼえかた",
+      "vi": "Cách ghi nhớ 3 loại Định nghĩa yêu cầu",
+      "en": "How to Remember 3 Types of Requirements Definition",
+      "note": {
+        "ja": "学習のポイント",
+        "vi": "Điểm học tập",
+        "en": "Learning Point"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "共通フレームは非常にややこしい文書で、「要件定義」が3種類も出てきます（このようにややこしい文書なので一般に普及していないのかもしれません）。",
+      "vi": "Common Frame là tài liệu rất phức tạp, trong đó \"Định nghĩa yêu cầu\" xuất hiện đến 3 loại (vì là tài liệu phức tạp như vậy nên có thể không phổ biến rộng rãi).",
+      "en": "Common Frame is a very complicated document, with 'Requirements Definition' appearing in 3 types (perhaps it's not widely used because it's such a complicated document).",
+      "terms": [
+        {
+          "kanji": "共通",
+          "reading": "きょうつう"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "一般",
+          "reading": "いっぱん"
+        },
+        {
+          "kanji": "普及",
+          "reading": "ふきゅう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "3つとは「要件定義プロセス」「システム要件定義」「ソフトウェア要件定義」です。ITパスポート試験ではすべての要件定義が重要用語であるため、これらの違いをはっきりと把握しておくことが大切です。ぜひここでまとめて覚えてしまいましょう。",
+      "vi": "3 loại là \"Quy trình định nghĩa yêu cầu\", \"Định nghĩa yêu cầu hệ thống\", \"Định nghĩa yêu cầu phần mềm\". Trong kỳ thi IT Passport, tất cả định nghĩa yêu cầu đều là thuật ngữ quan trọng, nên việc nắm rõ sự khác biệt là rất cần thiết. Hãy nhớ hết ở đây.",
+      "en": "The 3 are 'Requirements Definition Process,' 'System Requirements Definition,' and 'Software Requirements Definition.' In IT Passport exams, all requirements definitions are important terms, so clearly understanding their differences is essential. Let's memorize them all here.",
+      "terms": [
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "重要用語",
+          "reading": "じゅうようようご"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "3つの要件定義",
+        "vi": "3 loại Định nghĩa yêu cầu",
+        "en": "3 Types of Requirements Definition"
+      },
+      "headers": {
+        "ja": [
+          "要件定義",
+          "説明"
+        ],
+        "vi": [
+          "Định nghĩa yêu cầu",
+          "Giải thích"
+        ],
+        "en": [
+          "Requirements Definition",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "type": {
+            "ja": "要件定義プロセス",
+            "vi": "Quy trình định nghĩa yêu cầu",
+            "en": "Requirements Definition Process"
+          },
+          "explanation": {
+            "ja": "共通フレームの5つのプロセスのうちの1つ。主に業務要件を決める。",
+            "vi": "1 trong 5 quy trình của Common Frame. Chủ yếu quyết định yêu cầu nghiệp vụ.",
+            "en": "One of 5 processes in Common Frame. Mainly decides business requirements."
+          }
+        },
+        {
+          "type": {
+            "ja": "システム要件定義",
+            "vi": "Định nghĩa yêu cầu hệ thống",
+            "en": "System Requirements Definition"
+          },
+          "explanation": {
+            "ja": "共通フレームの5つのプロセスのうちの「開発プロセス」のうちの1つ。業務要件のうちのシステム要件を決める。",
+            "vi": "1 trong \"Quy trình phát triển\" của 5 quy trình Common Frame. Quyết định yêu cầu hệ thống trong yêu cầu nghiệp vụ.",
+            "en": "One of the 'Development Process' among 5 processes in Common Frame. Decides system requirements among business requirements."
+          }
+        },
+        {
+          "type": {
+            "ja": "ソフトウェア要件定義",
+            "vi": "Định nghĩa yêu cầu phần mềm",
+            "en": "Software Requirements Definition"
+          },
+          "explanation": {
+            "ja": "共通フレームの5つのプロセスのうちの「開発プロセス」のうちの1つ。システム要件のうちのソフトウェア要件を決める。",
+            "vi": "1 trong \"Quy trình phát triển\" của 5 quy trình Common Frame. Quyết định yêu cầu phần mềm trong yêu cầu hệ thống.",
+            "en": "One of the 'Development Process' among 5 processes in Common Frame. Decides software requirements among system requirements."
+          }
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "要件定義プロセス",
+      "reading": "ようけんていぎぷろせす",
+      "romaji": "Youken Teigi Process",
+      "vi": "Quy trình định nghĩa yêu cầu",
+      "en": "Requirements Definition Process",
+      "my": "လိုအပ်ချက် သတ်မှတ်ချက် လုပ်ငန်းစဉ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "is_summary": true
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "page_id": 244,
+  "image": "p_0244.png",
+  "chapter": 6,
+  "section": "06-02",
+  "page_number": 228,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "06-02",
+      "title": {
+        "ja": "システム要件定義",
+        "vi": "Định nghĩa yêu cầu hệ thống",
+        "en": "System Requirements Definition"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "想像していたものと違う…",
+        "vi": "Khác với những gì đã tưởng tượng...",
+        "en": "Different from what I imagined..."
+      },
+      "content": {
+        "ja": "開発プロセスの最初の工程である「システム要件定義」では、これから作るシステムで実現したいことを決めます。この段階できちんと意思疎通ができていないと、求めていたものと異なるシステムが納品されてしまうこともあります。",
+        "vi": "Trong \"Định nghĩa yêu cầu hệ thống\" - công đoạn đầu tiên của quy trình phát triển, quyết định những gì muốn thực hiện với hệ thống sẽ tạo. Nếu ở giai đoạn này không giao tiếp đúng cách, có thể hệ thống được giao sẽ khác với những gì mong muốn.",
+        "en": "In 'System Requirements Definition' - the first phase of the development process, you decide what you want to achieve with the system to be created. If communication isn't done properly at this stage, a system different from what was expected may be delivered."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "システム要件定義",
+      "reading": "しすてむようけんていぎ",
+      "vi": "Định nghĩa yêu cầu hệ thống",
+      "en": "System Requirements Definition"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システム要件定義とは、システムに必要な条件（システム要件）を決める工程です。簡単にいえば「どのようなシステムを作るのか」を、開発会社と明確にするプロセスです。",
+      "vi": "Định nghĩa yêu cầu hệ thống là công đoạn quyết định các điều kiện cần thiết cho hệ thống (yêu cầu hệ thống). Nói đơn giản, đây là quy trình làm rõ \"sẽ tạo hệ thống như thế nào\" với công ty phát triển.",
+      "en": "System Requirements Definition is the phase to determine necessary conditions for the system (system requirements). Simply put, it's the process of clarifying 'what kind of system to create' with the development company.",
+      "terms": [
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "要件",
+          "reading": "ようけん"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "開発会社",
+          "reading": "かいはつがいしゃ"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "この工程はとても重要です。なぜなら、この工程でシステムに必要な条件をきちんと書類に残し、お互いに共有することで、責任の所在を明確にでき、また、後々の「言った」「言わない」の争いを未然に防ぐことができるからです。",
+      "vi": "Công đoạn này rất quan trọng. Vì bằng cách ghi chép đúng các điều kiện cần thiết cho hệ thống vào tài liệu và chia sẻ với nhau ở công đoạn này, có thể làm rõ trách nhiệm và ngăn ngừa tranh chấp \"đã nói\", \"không nói\" sau này.",
+      "en": "This phase is very important. Because by properly documenting necessary system conditions and sharing them at this phase, responsibilities can be clarified and 'said'/'didn't say' disputes can be prevented later.",
+      "terms": [
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "書類",
+          "reading": "しょるい"
+        },
+        {
+          "kanji": "残",
+          "reading": "ざん"
+        },
+        {
+          "kanji": "互",
+          "reading": "ご"
+        },
+        {
+          "kanji": "共有",
+          "reading": "きょうゆう"
+        },
+        {
+          "kanji": "責任",
+          "reading": "せきにん"
+        },
+        {
+          "kanji": "所在",
+          "reading": "しょざい"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "言",
+          "reading": "い"
+        },
+        {
+          "kanji": "争",
+          "reading": "そう"
+        },
+        {
+          "kanji": "未然",
+          "reading": "みぜん"
+        },
+        {
+          "kanji": "防",
+          "reading": "ぼう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "システム要件",
+      "reading": "しすてむようけん",
+      "vi": "Yêu cầu hệ thống",
+      "en": "System Requirements"
+    },
+    {
+      "type": "paragraph",
+      "ja": "前章で解説した要件定義プロセス（p.210）では「業務要件」を洗い出しました。一方、ここで解説するシステム要件定義では「システム要件」を決めます。",
+      "vi": "Trong Quy trình định nghĩa yêu cầu giải thích ở chương trước (trang 210), đã phát hiện \"yêu cầu nghiệp vụ\". Mặt khác, trong Định nghĩa yêu cầu hệ thống giải thích ở đây sẽ quyết định \"yêu cầu hệ thống\".",
+      "en": "In the Requirements Definition Process explained in the previous chapter (p.210), 'business requirements' were identified. On the other hand, in System Requirements Definition explained here, 'system requirements' are decided.",
+      "terms": [
+        {
+          "kanji": "前章",
+          "reading": "ぜんしょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "業務要件",
+          "reading": "ぎょうむようけん"
+        },
+        {
+          "kanji": "洗",
+          "reading": "せん"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "要件",
+          "reading": "ようけん"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "システム要件とは、業務要件のうちのシステムで実現する役割のことであり、具体的には、システムに必要な機能や性能です。これには「応答時間」や「運用時間」なども含まれます。例えば、現在の証券取引所で株を売買するシステムは約0.001秒で",
+      "vi": "Yêu cầu hệ thống là vai trò thực hiện bằng hệ thống trong yêu cầu nghiệp vụ, cụ thể là chức năng và hiệu suất cần thiết cho hệ thống. Điều này bao gồm \"thời gian phản hồi\" và \"thời gian vận hành\". Ví dụ, hệ thống mua bán cổ phiếu ở sàn giao dịch chứng khoán hiện tại khoảng 0.001 giây",
+      "en": "System requirements are the roles to be realized by the system among business requirements, specifically the functions and performance needed for the system. This includes 'response time' and 'operation time.' For example, the current stock exchange trading system takes about 0.001 seconds",
+      "terms": [
+        {
+          "kanji": "要件",
+          "reading": "ようけん"
+        },
+        {
+          "kanji": "業務要件",
+          "reading": "ぎょうむようけん"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "性能",
+          "reading": "せいのう"
+        },
+        {
+          "kanji": "応答時間",
+          "reading": "おうとうじかん"
+        },
+        {
+          "kanji": "運用時間",
+          "reading": "うんようじかん"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "証券取引所",
+          "reading": "しょうけんとりひきじょ"
+        },
+        {
+          "kanji": "株",
+          "reading": "かぶ"
+        },
+        {
+          "kanji": "売買",
+          "reading": "ばいばい"
+        },
+        {
+          "kanji": "約",
+          "reading": "やく"
+        },
+        {
+          "kanji": "秒",
+          "reading": "びょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "システム要件",
+      "reading": "しすてむようけん",
+      "romaji": "System Youken",
+      "vi": "Yêu cầu hệ thống",
+      "en": "System Requirements",
+      "my": "စနစ် လိုအပ်ချက်များ"
+    },
+    {
+      "kanji": "業務要件",
+      "reading": "ぎょうむようけん",
+      "romaji": "Gyoumu Youken",
+      "vi": "Yêu cầu nghiệp vụ",
+      "en": "Business Requirements",
+      "my": "လုပ်ငန်း လိုအပ်ချက်များ"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

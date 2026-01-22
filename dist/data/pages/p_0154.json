@@ -1,0 +1,249 @@
+{
+  "page_id": 154,
+  "image": "p_0154.png",
+  "chapter": 4,
+  "section": "04-02",
+  "page_number": 138,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・教師あり学習では、正解データを与える\n・教師なし学習では、正解データを与えない\n・強化学習では、報酬を与える",
+        "vi": "・Học có giám sát: cho dữ liệu đáp án\n・Học không giám sát: không cho dữ liệu đáp án\n・Học tăng cường: cho phần thưởng",
+        "en": "・Supervised learning: give correct answer data\n・Unsupervised learning: don't give correct answer data\n・Reinforcement learning: give rewards",
+        "my": "・ Supervised learning: မှန်ကန်သော အဖြေဒေတာ ပေးပါ",
+        "terms": [
+          {
+            "kanji": "教師",
+            "reading": "きょうし"
+          },
+          {
+            "kanji": "学習",
+            "reading": "がくしゅう"
+          },
+          {
+            "kanji": "正解",
+            "reading": "せいかい"
+          },
+          {
+            "kanji": "与",
+            "reading": "よ"
+          },
+          {
+            "kanji": "強化学習",
+            "reading": "きょうかがくしゅう"
+          },
+          {
+            "kanji": "報酬",
+            "reading": "ほうしゅう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ニューラルネットワーク",
+      "reading": "にゅーらるねっとわーく",
+      "vi": "Neural Network",
+      "en": "Neural Network",
+      "my": "Neural Network"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ニューラルネットワークとは、人間の脳の中にある「神経細胞（ニューロン）が信号をやり取りする仕組み」をコンピュータ上に再現する技術です。神経細胞（ニューロン）が網状につながる（ネットワーク）ので、ニューラルネットワークといいます。",
+      "vi": "Neural Network là công nghệ tái tạo cơ chế tế bào thần kinh (neuron) trao đổi tín hiệu trong não người trên máy tính. Gọi là Neural Network vì tế bào thần kinh (neuron) kết nối thành mạng (network).",
+      "en": "Neural network is technology reproducing the mechanism of 'nerve cells (neurons) exchanging signals' in human brain on computers. It's called neural network because nerve cells (neurons) connect in a mesh (network).",
+      "my": "Neural network သည် လူသား ဦးနှောက်ထဲရှိ အာရုံကြောဆဲလ်များ (neurons) အချက်ပြမှုများ ဖလှယ်သော ယန္တရားကို ကွန်ပျူတာများပေါ်တွင် ပြန်လည်ထုတ်လုပ်သည့် နည်းပညာဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "脳",
+          "reading": "のう"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "神経細胞",
+          "reading": "しんけいさいぼう"
+        },
+        {
+          "kanji": "信号",
+          "reading": "しんごう"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "再現",
+          "reading": "さいげん"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "網状",
+          "reading": "あみじょう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "モデル",
+      "vi": "Mô hình",
+      "en": "Model"
+    },
+    {
+      "type": "paragraph",
+      "ja": "現実世界にある複雑なモノを単純化してわかりやすくしたものを「モデル」といいます。例えば、プラモデルは、プラスチックで乗り物やロボットなどを模したモデルです。ニューラルネットワークは複雑な脳の仕組みをプログラムで再現したモデルです。\n\nなぜ、脳の仕組みをプログラムで模すのかというと、そのモデルをコンピュータ上で動かしたいからです。",
+      "vi": "Mô hình là thứ đơn giản hóa và dễ hiểu hóa những thứ phức tạp trong thế giới thực. Ví dụ, mô hình nhựa (Plastic model) là mô hình mô phỏng xe cộ hoặc robot bằng nhựa. Neural Network là mô hình tái tạo cơ chế não phức tạp bằng chương trình.\n\nLý do mô phỏng cơ chế não bằng chương trình là vì muốn chạy mô hình đó trên máy tính.",
+      "en": "'Model' is something that simplifies complex real-world things to make them understandable. For example, plastic models are models imitating vehicles or robots with plastic. Neural network is a model reproducing complex brain mechanisms with programs.\n\nThe reason for modeling brain mechanisms with programs is to run that model on computers.",
+      "my": "'Model' သည် ရှုပ်ထွေးသော လောကီအရာများကို ရိုးရှင်းအောင် ပြုလုပ်သော အရာဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "現実世界",
+          "reading": "げんじつせかい"
+        },
+        {
+          "kanji": "複雑",
+          "reading": "ふくざつ"
+        },
+        {
+          "kanji": "単純化",
+          "reading": "たんじゅんか"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "乗",
+          "reading": "じょう"
+        },
+        {
+          "kanji": "物",
+          "reading": "もの"
+        },
+        {
+          "kanji": "模",
+          "reading": "も"
+        },
+        {
+          "kanji": "脳",
+          "reading": "のう"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "再現",
+          "reading": "さいげん"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "動",
+          "reading": "どう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ニューロンと活性化関数",
+      "vi": "Neuron và hàm kích hoạt",
+      "en": "Neuron and Activation Function"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ニューラルネットワークの基本的な計算単位は「ニューロン」です。\n\nニューロンは、値を受け取り、その値を処理して出力します。出力された値は",
+      "vi": "Đơn vị tính toán cơ bản của Neural Network là Neuron.\n\nNeuron nhận giá trị, xử lý giá trị đó và xuất ra. Giá trị xuất ra là",
+      "en": "The basic computational unit of neural network is 'neuron'.\n\nNeurons receive values, process them and output. The output values are",
+      "my": "Neural network ၏ အခြေခံ တွက်ချက်မှု ယူနစ်မှာ 'neuron' ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "計算単位",
+          "reading": "けいさんたんい"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ニューラルネットワーク",
+      "reading": "にゅーらるねっとわーく",
+      "romaji": "Neural Network",
+      "vi": "Mạng nơ-ron",
+      "en": "Neural Network",
+      "my": "Neural Network"
+    },
+    {
+      "kanji": "ニューロン",
+      "reading": "にゅーろん",
+      "romaji": "Neuron",
+      "vi": "Nơ-ron",
+      "en": "Neuron",
+      "my": "Neuron"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

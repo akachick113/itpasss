@@ -1,0 +1,35 @@
+{
+    "page_id": 611,
+    "image": "p_0611.png",
+    "chapter": "colophon",
+    "section": "colophon",
+    "page_number": 595,
+    "content": [
+        {
+            "type": "ebook_info",
+            "publication_date": {
+                "ja": "2026年2月1日 電子第2版発行",
+                "vi": "Phát hành phiên bản điện tử thứ 2 ngày 1/2/2026",
+                "en": "Electronic 2nd edition published: February 1, 2026"
+            },
+            "note": {
+                "ja": "※この電子書籍は同名印刷物の2025年12月26日 初版第2刷発行のデータを利用しています。※元の印刷物と一部異なる場合があります。あらかじめご了承ください。",
+                "vi": "※Sách điện tử này sử dụng dữ liệu từ ấn bản in cùng tên, in lần 2 phiên bản đầu ngày 26/12/2025. ※Có thể có một số khác biệt so với ấn bản in gốc. Xin vui lòng thông cảm.",
+                "en": "※This e-book uses data from the print edition of the same name, first edition 2nd printing dated December 26, 2025. ※May differ partially from original print edition. Please understand in advance."
+            }
+        },
+        {
+            "type": "copyright_notice",
+            "text": {
+                "ja": "本書に掲載されているコンテンツの著作権は、著作権法により保護されています。これらについて、著作権法で認められるもの、規約等により許諾が明示されているものを除き権利者に無断で転載・複製・翻訳・販売・貸与・印刷・データ配信（Webページへの転載など送信可能化を含む）・改ざん等する行為は、固く禁じられています。",
+                "vi": "Bản quyền của nội dung được đăng trong sách này được bảo vệ theo Luật bản quyền. Các hành vi như tái bản, sao chép, dịch thuật, bán, cho thuê, in ấn, phân phối dữ liệu (bao gồm đăng lên trang Web và các hình thức truyền tải khác), sửa đổi, v.v. mà không có sự cho phép của chủ sở hữu quyền (ngoại trừ những gì được phép theo Luật bản quyền hoặc được cho phép rõ ràng trong các điều khoản) đều bị nghiêm cấm.",
+                "en": "The copyright of the content published in this book is protected by copyright law. Acts such as reprinting, reproducing, translating, selling, lending, printing, data distribution (including posting to Web pages and other transmission-possible formats), falsification, etc. without permission from the rights holder (except those permitted by copyright law or explicitly permitted in terms and conditions) are strictly prohibited."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "is_colophon": true,
+        "is_final_page": true
+    }
+}

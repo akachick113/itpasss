@@ -1,0 +1,437 @@
+{
+  "page_id": 150,
+  "image": "p_0150.png",
+  "chapter": 4,
+  "section": "04-02",
+  "page_number": 134,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "GPSは、3つ以上の人工衛星の電波を使って位置情報を特定するシステムである",
+        "vi": "GPS là hệ thống xác định vị trí bằng sóng từ 3 vệ tinh nhân tạo trở lên",
+        "en": "GPS is a system that determines location using signals from 3+ satellites",
+        "my": "GPS သည် ဂြိုဟ်တု ၃ လုံးအထက်မှ အချက်ပြမှုများ အသုံးပြု၍ တည်နေရာ ဆုံးဖြတ်သည့် စနစ်ဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "以上",
+            "reading": "いじょう"
+          },
+          {
+            "kanji": "人工衛星",
+            "reading": "じんこうえいせい"
+          },
+          {
+            "kanji": "電波",
+            "reading": "でんぱ"
+          },
+          {
+            "kanji": "使",
+            "reading": "つか"
+          },
+          {
+            "kanji": "位置情報",
+            "reading": "いちじょうほう"
+          },
+          {
+            "kanji": "特定",
+            "reading": "とくてい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "準天頂衛星",
+        "vi": "Vệ tinh chuẩn thiên đỉnh",
+        "en": "Quasi-Zenith Satellite",
+        "my": "Quasi-Zenith Satellite"
+      },
+      "content": {
+        "ja": "準天頂衛星とは、特定の地域の上空に長時間留まるような軌道をもつ人工衛星です。この人工衛星の利点は、GPSを併用することで高層ビルの間など見通しが悪い場所や、GPSの電波が届きにくい場所でも位置情報を正確に測れることです。日本では「みちびき」という名前の準天頂衛星が運用されています。",
+        "vi": "Vệ tinh chuẩn thiên đỉnh là vệ tinh nhân tạo có quỹ đạo lưu lại lâu trên bầu trời khu vực cụ thể. Ưu điểm của vệ tinh này là dùng kết hợp với GPS để đo chính xác vị trí ngay cả ở nơi khó nhìn như giữa các tòa nhà cao tầng hoặc nơi sóng GPS khó đến. Ở Nhật, vệ tinh chuẩn thiên đỉnh tên Michibiki đang được vận hành.",
+        "en": "Quasi-zenith satellite is a satellite with an orbit that stays above a specific region for a long time. Its advantage is that when combined with GPS, it can accurately measure position even in places with poor visibility like between tall buildings or where GPS signals are hard to reach. In Japan, a quasi-zenith satellite named Michibiki is in operation.",
+        "my": "Quasi-zenith satellite သည် တိကျသော ဒေသတစ်ခုအထက်တွင် ကြာရှည်စွာ နေထိုင်သည့် ပတ်လမ်းကြောင်းရှိသော ဂြိုဟ်တုဖြစ်သည်။",
+        "terms": [
+          {
+            "kanji": "準天頂衛星",
+            "reading": "じゅんてんちょうえいせい"
+          },
+          {
+            "kanji": "特定",
+            "reading": "とくてい"
+          },
+          {
+            "kanji": "地域",
+            "reading": "ちいき"
+          },
+          {
+            "kanji": "上空",
+            "reading": "じょうくう"
+          },
+          {
+            "kanji": "長時間留",
+            "reading": "ちょうじかんりゅう"
+          },
+          {
+            "kanji": "軌道",
+            "reading": "きどう"
+          },
+          {
+            "kanji": "人工衛星",
+            "reading": "じんこうえいせい"
+          },
+          {
+            "kanji": "利点",
+            "reading": "りてん"
+          },
+          {
+            "kanji": "併用",
+            "reading": "へいよう"
+          },
+          {
+            "kanji": "高層",
+            "reading": "こうそう"
+          },
+          {
+            "kanji": "間",
+            "reading": "かん"
+          },
+          {
+            "kanji": "見通",
+            "reading": "みとおし"
+          },
+          {
+            "kanji": "悪",
+            "reading": "あく"
+          },
+          {
+            "kanji": "場所",
+            "reading": "ばしょ"
+          },
+          {
+            "kanji": "電波",
+            "reading": "でんぱ"
+          },
+          {
+            "kanji": "届",
+            "reading": "とどけ"
+          },
+          {
+            "kanji": "位置情報",
+            "reading": "いちじょうほう"
+          },
+          {
+            "kanji": "正確",
+            "reading": "せいかく"
+          },
+          {
+            "kanji": "測",
+            "reading": "そく"
+          },
+          {
+            "kanji": "日本",
+            "reading": "にっぽん"
+          },
+          {
+            "kanji": "名前",
+            "reading": "なまえ"
+          },
+          {
+            "kanji": "運用",
+            "reading": "うんよう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "AI",
+      "reading": "えーあい",
+      "vi": "AI",
+      "en": "AI",
+      "my": "AI"
+    },
+    {
+      "type": "paragraph",
+      "ja": "AI（Artificial Intelligence：人工知能）とは、人間の知的な振る舞いをコンピュータ上に再現する技術です。\n\nAIの主な用途を下表に示します。なお、ITパスポート試験ではAIの活用事例が問われることが多いです。そのため、用語の定義を丸暗記するのではなく、それぞれの用語を区別できるようになっておいてください。",
+      "vi": "AI (Artificial Intelligence: Trí tuệ nhân tạo) là công nghệ tái tạo hành vi trí tuệ của con người trên máy tính.\n\nBảng dưới cho thấy các ứng dụng chính của AI. Lưu ý, IT Passport thường hỏi về ví dụ ứng dụng AI. Do đó, đừng chỉ học thuộc định nghĩa thuật ngữ mà hãy có khả năng phân biệt từng thuật ngữ.",
+      "en": "AI (Artificial Intelligence) is technology that reproduces human intelligent behavior on computers.\n\nThe table below shows AI's main applications. Note that IT Passport often asks about AI use cases. Therefore, don't just memorize definitions but be able to distinguish each term.",
+      "my": "AI (Artificial Intelligence: လူလုပ်ဉာဏ်ရည်) သည် ကွန်ပျူတာများပေါ်တွင် လူသား၏ ဉာဏ်ရည်ပြုမူမှုကို ပြန်လည်ထုတ်လုပ်သည့် နည်းပညာဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "人工知能",
+          "reading": "じんこうちのう"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "知的",
+          "reading": "ちてき"
+        },
+        {
+          "kanji": "振",
+          "reading": "しん"
+        },
+        {
+          "kanji": "舞",
+          "reading": "まい"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "再現",
+          "reading": "さいげん"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "用途",
+          "reading": "ようと"
+        },
+        {
+          "kanji": "下表",
+          "reading": "かひょう"
+        },
+        {
+          "kanji": "示",
+          "reading": "じ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "活用事例",
+          "reading": "かつようじれい"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "丸暗記",
+          "reading": "まるあんき"
+        },
+        {
+          "kanji": "区別",
+          "reading": "くべつ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "AIの主な用途",
+        "vi": "Ứng dụng chính của AI",
+        "en": "Main AI Applications"
+      },
+      "headers": {
+        "ja": [
+          "用途",
+          "説明"
+        ],
+        "vi": [
+          "Ứng dụng",
+          "Giải thích"
+        ],
+        "en": [
+          "Application",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "画像の認識・合成",
+            "画像データの中から一定の特徴を持つモノを判別したり、画像を生成したりすること。例えば、スマートフォンの顔認証やナンバープレート認識システム、アート作品の生成など。"
+          ],
+          "vi": [
+            "Nhận dạng/Tổng hợp hình ảnh",
+            "Phân biệt vật có đặc điểm nhất định trong dữ liệu hình ảnh hoặc tạo hình ảnh. Ví dụ: nhận diện khuôn mặt smartphone, hệ thống nhận dạng biển số, tạo tác phẩm nghệ thuật."
+          ],
+          "en": [
+            "Image Recognition/Synthesis",
+            "Identifying objects with certain features in image data or generating images. Examples: smartphone face recognition, license plate recognition, art creation."
+          ]
+        },
+        {
+          "ja": [
+            "自然言語処理",
+            "人間が使っている言語をコンピュータが解釈すること。例えば、検索エンジンでの解釈、Webサイトの機械翻訳、チャットボットなど。"
+          ],
+          "vi": [
+            "Xử lý ngôn ngữ tự nhiên",
+            "Máy tính giải thích ngôn ngữ con người sử dụng. Ví dụ: giải thích trong search engine, dịch máy website, chatbot."
+          ],
+          "en": [
+            "Natural Language Processing",
+            "Computer interpreting human language. Examples: search engine interpretation, website machine translation, chatbots."
+          ]
+        },
+        {
+          "ja": [
+            "音声の認識・合成",
+            "音声データの中から、一定の特徴を持つ音を判別したり、音声を生成したりすること。例えば、Webサイトの読み上げ機能や、実際の声の代わりになる音声の生成など。"
+          ],
+          "vi": [
+            "Nhận dạng/Tổng hợp giọng nói",
+            "Phân biệt âm thanh có đặc điểm nhất định trong dữ liệu âm thanh hoặc tạo giọng nói. Ví dụ: chức năng đọc website, tạo giọng nói thay thế giọng thật."
+          ],
+          "en": [
+            "Speech Recognition/Synthesis",
+            "Identifying sounds with certain features in audio data or generating speech. Examples: website read-aloud function, generating substitute voice."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "AI関連の用語",
+      "vi": "Thuật ngữ liên quan AI",
+      "en": "AI Related Terms"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、AIに関連する用語が非常によく出題されます。次ページの表の4つの用語はAIと関連性が高いのでセットで覚えると効率よく習得できます。各用語の詳細については後述しますが、先に各用語の定義を紹介します。",
+      "vi": "Trong IT Passport, thuật ngữ liên quan AI rất hay được ra đề. Bảng trang sau có 4 thuật ngữ liên quan cao với AI nên nhớ theo bộ sẽ hiệu quả. Chi tiết mỗi thuật ngữ sẽ nói sau, nhưng trước tiên giới thiệu định nghĩa.",
+      "en": "In IT Passport, AI-related terms are very frequently tested. The 4 terms in the next page's table are highly related to AI, so learning them as a set is efficient. Details of each term will be described later, but first here are the definitions.",
+      "my": "IT Passport တွင် AI ဆိုင်ရာ ဝေါဟာရများကို အလွန်မကြာခဏ စမ်းသပ်သည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "関連性",
+          "reading": "かんれんせい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "効率",
+          "reading": "こうりつ"
+        },
+        {
+          "kanji": "習得",
+          "reading": "しゅうとく"
+        },
+        {
+          "kanji": "各用語",
+          "reading": "かくようご"
+        },
+        {
+          "kanji": "詳細",
+          "reading": "しょうさい"
+        },
+        {
+          "kanji": "後述",
+          "reading": "こうじゅつ"
+        },
+        {
+          "kanji": "先",
+          "reading": "さき"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "紹介",
+          "reading": "しょうかい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "AI",
+      "reading": "えーあい",
+      "romaji": "Artificial Intelligence",
+      "vi": "Trí tuệ nhân tạo",
+      "en": "Artificial Intelligence",
+      "my": "AI"
+    },
+    {
+      "kanji": "自然言語処理",
+      "reading": "しぜんげんごしょり",
+      "romaji": "Shizen Gengo Shori",
+      "vi": "Xử lý ngôn ngữ tự nhiên",
+      "en": "Natural Language Processing",
+      "my": "သဘာဝကို ဘာသာစကား လုပ်ဆောင်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#4CAF50">
+    <meta name="color-scheme" content="light dark">
+    <title>IT Passport Study Guide | ITパスポート学習ガイド</title>
+    <meta name="description"
+        content="Multi-language IT Passport study guide with Japanese, Vietnamese, English, and Myanmar translations">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Noto+Sans+Myanmar:wght@400;500;700&family=Inter:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <!-- Skip Link for Accessibility -->
+    <a href="#pageContent" class="skip-link">Skip to content</a>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">
+                <span class="logo-icon">📚</span>
+                <h1>IT Passport</h1>
+            </div>
+            <nav class="nav-controls">
+                <!-- Language Selector -->
+                <div class="language-selector">
+                    <button class="lang-btn active" data-lang="ja" title="日本語">🇯🇵</button>
+                    <button class="lang-btn" data-lang="vi" title="Tiếng Việt">🇻🇳</button>
+                    <button class="lang-btn" data-lang="en" title="English">🇬🇧</button>
+                    <button class="lang-btn" data-lang="my" title="မြန်မာ">🇲🇲</button>
+                </div>
+                <!-- Furigana Toggle -->
+                <button class="furigana-toggle active" id="furiganaToggle" title="Toggle Furigana">
+                    <span class="toggle-icon">あ</span>
+                    <span class="toggle-label" data-i18n="furigana">Furigana</span>
+                </button>
+                <!-- Settings -->
+                <button class="settings-btn" id="settingsBtn" title="Settings" aria-label="Open settings">⚙️</button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Layout -->
+    <div class="main-layout">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <h2 data-i18n="chapters">目次</h2>
+                <button class="sidebar-close" id="sidebarClose" aria-label="Close menu">✕</button>
+            </div>
+            <div class="chapter-list" id="chapterList">
+                <!-- Chapters will be loaded dynamically -->
+                <div class="chapter-item" data-chapter="0">
+                    <span class="chapter-icon">📖</span>
+                    <span class="chapter-title">序章 - ITパスポート試験の概要</span>
+                </div>
+                <div class="chapter-item" data-chapter="1">
+                    <span class="chapter-icon">🏢</span>
+                    <span class="chapter-title">第1章 - 企業活動</span>
+                </div>
+                <div class="chapter-item" data-chapter="2">
+                    <span class="chapter-icon">⚖️</span>
+                    <span class="chapter-title">第2章 - 法務</span>
+                </div>
+                <div class="chapter-item" data-chapter="3">
+                    <span class="chapter-icon">📊</span>
+                    <span class="chapter-title">第3章 - 経営戦略マネジメント</span>
+                </div>
+                <div class="chapter-item" data-chapter="4">
+                    <span class="chapter-icon">🔧</span>
+                    <span class="chapter-title">第4章 - 技術戦略マネジメント</span>
+                </div>
+                <div class="chapter-item" data-chapter="5">
+                    <span class="chapter-icon">🎯</span>
+                    <span class="chapter-title">第5章 - システム戦略</span>
+                </div>
+                <div class="chapter-item" data-chapter="6">
+                    <span class="chapter-icon">💻</span>
+                    <span class="chapter-title">第6章 - 開発技術</span>
+                </div>
+                <div class="chapter-item" data-chapter="7">
+                    <span class="chapter-icon">📋</span>
+                    <span class="chapter-title">第7章 - プロジェクトマネジメント</span>
+                </div>
+                <div class="chapter-item" data-chapter="8">
+                    <span class="chapter-icon">🔍</span>
+                    <span class="chapter-title">第8章 - サービスマネジメント</span>
+                </div>
+                <div class="chapter-item" data-chapter="9">
+                    <span class="chapter-icon">🧮</span>
+                    <span class="chapter-title">第9章 - 基礎理論とアルゴリズム</span>
+                </div>
+                <div class="chapter-item" data-chapter="10">
+                    <span class="chapter-icon">🖥️</span>
+                    <span class="chapter-title">第10章 - コンピュータシステム</span>
+                </div>
+                <div class="chapter-item" data-chapter="11">
+                    <span class="chapter-icon">🔌</span>
+                    <span class="chapter-title">第11章 - ハードウェア</span>
+                </div>
+            </div>
+            <!-- Progress -->
+            <div class="sidebar-footer">
+                <div class="progress-bar">
+                    <div class="progress-fill" style="width: 0%"></div>
+                </div>
+                <span class="progress-text">0 / 611 pages</span>
+            </div>
+        </aside>
+
+        <!-- Content Area -->
+        <main class="content" id="content">
+            <!-- Page Navigation -->
+            <div class="page-nav">
+                <button class="nav-btn prev" id="prevPage" disabled>
+                    <span>◀</span>
+                    <span data-i18n="prev">前へ</span>
+                </button>
+                <div class="page-info">
+                    <span data-i18n="page">ページ</span>
+                    <input type="number" class="page-input" id="pageInput" value="1" min="1" max="611">
+                    <span>/</span>
+                    <span class="total-pages">611</span>
+                </div>
+                <button class="nav-btn next" id="nextPage">
+                    <span data-i18n="next">次へ</span>
+                    <span>▶</span>
+                </button>
+            </div>
+
+            <!-- Content Display -->
+            <article class="page-content" id="pageContent">
+                <!-- Welcome Message -->
+                <div class="welcome-screen">
+                    <div class="welcome-icon">📚</div>
+                    <h2>ITパスポート学習ガイド</h2>
+                    <p class="welcome-subtitle">IT Passport Study Guide</p>
+                    <div class="language-cards">
+                        <div class="lang-card">
+                            <span class="flag">🇯🇵</span>
+                            <span>日本語</span>
+                        </div>
+                        <div class="lang-card">
+                            <span class="flag">🇻🇳</span>
+                            <span>Tiếng Việt</span>
+                        </div>
+                        <div class="lang-card">
+                            <span class="flag">🇬🇧</span>
+                            <span>English</span>
+                        </div>
+                        <div class="lang-card">
+                            <span class="flag">🇲🇲</span>
+                            <span>မြန်မာ</span>
+                        </div>
+                    </div>
+                    <p class="welcome-hint">← Select a chapter to begin</p>
+                </div>
+            </article>
+
+            <!-- Vocabulary Panel -->
+            <aside class="vocab-panel" id="vocabPanel">
+                <div class="vocab-header">
+                    <h3>📝 <span data-i18n="vocabulary">用語集</span></h3>
+                    <button class="vocab-close" id="vocabClose">✕</button>
+                </div>
+                <div class="vocab-list" id="vocabList">
+                    <!-- Vocabulary items will be loaded here -->
+                </div>
+            </aside>
+        </main>
+    </div>
+
+    <!-- Settings Modal -->
+    <div class="modal" id="settingsModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>⚙️ <span data-i18n="settings">設定</span></h3>
+                <button class="modal-close" id="settingsClose">✕</button>
+            </div>
+            <div class="modal-body">
+                <div class="setting-group">
+                    <label>Font Size</label>
+                    <div class="font-size-controls">
+                        <button class="font-btn" data-size="small">A</button>
+                        <button class="font-btn active" data-size="medium">A</button>
+                        <button class="font-btn" data-size="large">A</button>
+                    </div>
+                </div>
+                <div class="setting-group">
+                    <label>Theme</label>
+                    <div class="theme-controls">
+                        <button class="theme-btn active" data-theme="light">☀️ Light</button>
+                        <button class="theme-btn" data-theme="dark">🌙 Dark</button>
+                    </div>
+                </div>
+                <div class="setting-group">
+                    <label>Display Mode</label>
+                    <div class="display-controls">
+                        <button class="display-btn active" data-display="side-by-side">Side by Side</button>
+                        <button class="display-btn" data-display="toggle">Toggle</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mobile Menu Button -->
+    <button class="mobile-menu-btn" id="mobileMenuBtn" title="目次を開く">📑</button>
+
+    <!-- Scripts -->
+    <script src="js/i18n.js?v=6"></script>
+    <script src="js/furigana.js?v=6"></script>
+    <script src="js/app.js?v=6"></script>
+</body>
+
+</html>

@@ -1,0 +1,77 @@
+{
+    "page_id": 347,
+    "image": "p_0347.png",
+    "chapter": 9,
+    "section": "answers",
+    "page_number": 331,
+    "content": [
+        {
+            "type": "diagram",
+            "title": {
+                "ja": "「男性」かつ、「20歳未満の人」または「65歳以上の人」を表すベン図",
+                "vi": "Biểu đồ Venn biểu diễn \"Nam\" đồng thời \"người dưới 20 tuổi\" hoặc \"người từ 65 tuổi trở lên\"",
+                "en": "Venn diagram representing 'Male' and 'under 20' or '65+'"
+            },
+            "content": {
+                "ja": "20歳未満、男性、65歳以上の3つの円で、男性と重なる部分（20歳未満∩男性と男性∩65歳以上）が答え",
+                "vi": "3 vòng tròn: dưới 20, nam, trên 65, phần chồng lên nam (dưới 20 ∩ nam và nam ∩ trên 65) là đáp án",
+                "en": "3 circles: under 20, male, 65+, parts overlapping with male (under 20 ∩ male and male ∩ 65+) are answer"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "9-2",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "部分集合に関する問題です。各選択肢の内容をベン図で描くと次のようになります。",
+                "vi": "Bài toán về tập con. Khi vẽ nội dung mỗi lựa chọn bằng biểu đồ Venn như sau.",
+                "en": "Problem about subsets. Drawing each choice content with Venn diagram shows following."
+            },
+            "diagram": {
+                "ja": "ア：A∩Bが赤、Aでない集合が緑→赤は緑の部分集合ではない\nイ：A∩Bが赤、Aが緑→赤は緑の部分集合である✓\nウ：A∪Bが赤、A∩Bが緑→赤は緑の部分集合ではない\nエ：A∪Bが赤、Aが緑→赤は緑の部分集合ではない",
+                "vi": "ア: A∩B đỏ, tập không phải A xanh → đỏ không phải tập con của xanh\nイ: A∩B đỏ, A xanh → đỏ là tập con của xanh ✓\nウ: A∪B đỏ, A∩B xanh → đỏ không phải tập con của xanh\nエ: A∪B đỏ, A xanh → đỏ không phải tập con của xanh",
+                "en": "ア: A∩B red, set not A green → red not subset of green\nイ: A∩B red, A green → red is subset of green ✓\nウ: A∪B red, A∩B green → red not subset of green\nエ: A∪B red, A green → red not subset of green"
+            },
+            "detail": {
+                "ja": "この図では、各選択肢の文章の左側の集合を赤色、文章の右側の集合を緑色で示しています。赤色が緑色の部分集合になっているのは選択肢イのみです。",
+                "vi": "Trong hình này, tập bên trái câu của mỗi lựa chọn là màu đỏ, tập bên phải là màu xanh. Chỉ có lựa chọn イ có màu đỏ là tập con của màu xanh.",
+                "en": "In this diagram, left set of each choice is shown in red, right set in green. Only choice イ has red as subset of green."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "9-3",
+            "correct_answer": "ウ",
+            "explanation": {
+                "ja": "計算手順は以下のとおりです。",
+                "vi": "Thủ tục tính như sau.",
+                "en": "Calculation procedure is as follows."
+            },
+            "calculation": {
+                "steps": [
+                    {
+                        "ja": "各桁の16進数を10進数に変える：A → (10)₁₀, 3 → (3)₁₀",
+                        "vi": "Đổi số thập lục phân mỗi chữ số sang thập phân: A → (10)₁₀, 3 → (3)₁₀",
+                        "en": "Convert each hexadecimal digit to decimal: A → (10)₁₀, 3 → (3)₁₀"
+                    },
+                    {
+                        "ja": "各桁に16進数の重みをかける：10×16¹ + 3×16⁰",
+                        "vi": "Nhân mỗi chữ số với trọng số thập lục phân: 10×16¹ + 3×16⁰",
+                        "en": "Multiply each digit by hexadecimal weight: 10×16¹ + 3×16⁰"
+                    },
+                    {
+                        "ja": "各桁をたし合わせる：160 + 3 = 163",
+                        "vi": "Cộng các chữ số lại: 160 + 3 = 163",
+                        "en": "Add digits together: 160 + 3 = 163"
+                    }
+                ],
+                "result": "163"
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "has_diagram": true,
+        "answer_count": 2
+    }
+}

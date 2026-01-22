@@ -1,0 +1,149 @@
+{
+    "page_id": 384,
+    "image": "p_0384.png",
+    "chapter": 9,
+    "section": "answers",
+    "page_number": 368,
+    "content": [
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "解答・解説",
+                "vi": "Đáp án và Giải thích",
+                "en": "Answers and Explanations"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "9-7",
+            "correct_answer": "エ",
+            "explanation": {
+                "ja": "プログラムの各行の命令は下表のような内容になります。",
+                "vi": "Lệnh của mỗi dòng trong chương trình có nội dung như bảng dưới.",
+                "en": "Each line's command in program has content as in table below."
+            },
+            "program_analysis": {
+                "headers": [
+                    "行番号",
+                    "プログラムの内容",
+                    "説明"
+                ],
+                "rows": [
+                    {
+                        "line": "1",
+                        "content": "○文字列型: convert(整数型の配列: arrayInput)",
+                        "description": {
+                            "ja": "整数型の配列arrayInputを引数に持つ関数convertを宣言する。",
+                            "vi": "Khai báo hàm convert có đối số là mảng kiểu số nguyên arrayInput.",
+                            "en": "Declare function convert with integer array arrayInput as argument."
+                        }
+                    },
+                    {
+                        "line": "2",
+                        "content": "文字列型: stringOutput ← \"\"  // 空文字列を格納",
+                        "description": {
+                            "ja": "文字列型の変数stringOutputを宣言して、文字列で初期化。",
+                            "vi": "Khai báo biến stringOutput kiểu chuỗi và khởi tạo bằng chuỗi rỗng.",
+                            "en": "Declare string type variable stringOutput and initialize with empty string."
+                        }
+                    },
+                    {
+                        "line": "3",
+                        "content": "整数型: i",
+                        "description": {
+                            "ja": "",
+                            "vi": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "line": "4",
+                        "content": "for (iを1からarrayInputの要素数まで1ずつ増やす)",
+                        "description": {
+                            "ja": "変数iに「1」を代入したうえで、変数iを1ずつ増やして、「配列arrayInputの要素数」になるまで、5～9行目の処理を繰り返し実行する。",
+                            "vi": "Gán \"1\" vào biến i, tăng biến i lên 1 và thực hiện lặp xử lý dòng 5-9 đến khi đạt \"số phần tử của mảng arrayInput\".",
+                            "en": "Assign '1' to variable i, increment i by 1, and repeatedly execute lines 5-9 processing until reaching 'arrayInput element count.'"
+                        }
+                    },
+                    {
+                        "line": "5",
+                        "content": "if (arrayInput[i]が1と等しい)",
+                        "description": {
+                            "ja": "配列arrayInputのi番目の要素が「1」と等しいときに、6行目の処理を実行する。",
+                            "vi": "Khi phần tử thứ i của mảng arrayInput bằng \"1\", thực hiện xử lý dòng 6.",
+                            "en": "When i-th element of array arrayInput equals '1,' execute line 6 processing."
+                        }
+                    },
+                    {
+                        "line": "6",
+                        "content": "stringOutputの末尾に\"A\"を追加する",
+                        "description": {
+                            "ja": "変数stringOutputの末尾に\"A\"を追加する。",
+                            "vi": "Thêm \"A\" vào cuối biến stringOutput.",
+                            "en": "Add 'A' to end of variable stringOutput."
+                        }
+                    },
+                    {
+                        "line": "7",
+                        "content": "else",
+                        "description": {
+                            "ja": "5行目の条件と異なるときは、8行目の処理を実行する。",
+                            "vi": "Khi khác với điều kiện dòng 5, thực hiện xử lý dòng 8.",
+                            "en": "When different from line 5 condition, execute line 8 processing."
+                        }
+                    },
+                    {
+                        "line": "8",
+                        "content": "stringOutputの末尾に\"B\"を追加する",
+                        "description": {
+                            "ja": "変数stringOutputの末尾に\"B\"を追加する。",
+                            "vi": "Thêm \"B\" vào cuối biến stringOutput.",
+                            "en": "Add 'B' to end of variable stringOutput."
+                        }
+                    },
+                    {
+                        "line": "9",
+                        "content": "endif",
+                        "description": {
+                            "ja": "5行目からの選択処理を終了する。",
+                            "vi": "Kết thúc xử lý lựa chọn từ dòng 5.",
+                            "en": "End selection processing from line 5."
+                        }
+                    },
+                    {
+                        "line": "10",
+                        "content": "endfor",
+                        "description": {
+                            "ja": "4行目からの繰返し処理を終了する。",
+                            "vi": "Kết thúc xử lý lặp từ dòng 4.",
+                            "en": "End loop processing from line 4."
+                        }
+                    },
+                    {
+                        "line": "11",
+                        "content": "return stringOutput",
+                        "description": {
+                            "ja": "変数stringOutputを返す。",
+                            "vi": "Trả về biến stringOutput.",
+                            "en": "Return variable stringOutput."
+                        }
+                    }
+                ]
+            },
+            "summary": {
+                "ja": "関数convertは、配列の要素を1つずつ順番に確認して、その要素が「1」の場合は\"A\"を文字列stringOutputに追加します。また「1」以外の場合は\"B\"を文字列stringOutputに追加します。",
+                "vi": "Hàm convert kiểm tra từng phần tử của mảng theo thứ tự, nếu phần tử đó là \"1\" thì thêm \"A\" vào chuỗi stringOutput. Nếu khác \"1\" thì thêm \"B\" vào chuỗi stringOutput.",
+                "en": "Function convert checks array elements one by one in order, if element is '1' adds 'A' to string stringOutput. If other than '1' adds 'B' to string stringOutput."
+            },
+            "conclusion": {
+                "ja": "例えば、引数の配列arrayInputに選択肢エの{1, 1, 2, 1, 0}を渡して、プログラムを実行した場合のトレース表を見てみましょう（次ページを参照）。引数を{1, 1, 2, 1, 0}にしたときの戻り値は、\"AABAB\"となります。よって、選択肢エが正解です。",
+                "vi": "Ví dụ, hãy xem bảng trace khi truyền {1, 1, 2, 1, 0} của lựa chọn エ vào mảng đối số arrayInput và thực hiện chương trình (xem trang tiếp theo). Khi đối số là {1, 1, 2, 1, 0}, giá trị trả về là \"AABAB\". Do đó, lựa chọn エ là đáp án đúng.",
+                "en": "For example, let's see trace table when passing choice エ's {1, 1, 2, 1, 0} to argument array arrayInput and executing program (see next page). When argument is {1, 1, 2, 1, 0}, return value is 'AABAB.' Therefore, choice エ is correct."
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 1
+    }
+}

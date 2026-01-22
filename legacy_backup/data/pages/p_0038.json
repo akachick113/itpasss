@@ -1,0 +1,169 @@
+{
+  "page_id": 38,
+  "image": "p_0038.png",
+  "chapter": 1,
+  "section": "01-04",
+  "page_number": 22,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（3）マトリックス組織",
+      "reading": "まとりっくすそしき",
+      "vi": "(3) Tổ chức ma trận",
+      "en": "(3) Matrix Organization",
+      "my": "(၃) Matrix Organization"
+    },
+    {
+      "type": "paragraph",
+      "ja": "マトリックス組織とは、社員が職能部門と事業部門の両方に所属する組織です。なお、マトリックス組織と事業部制組織の明確な違いは「所属部署数」です。例えば、マトリックス組織では社員は「国内事業部」と「営業部」の2つの部署に所属しますが、事業部制組織では社員は「国内事業の営業部」という1つの部署に所属します。",
+      "vi": "Tổ chức ma trận là tổ chức mà nhân viên thuộc cả bộ phận chức năng và bộ phận kinh doanh. Sự khác biệt rõ ràng giữa tổ chức ma trận và tổ chức theo bộ phận kinh doanh là \"số lượng bộ phận thuộc về\". Ví dụ, trong tổ chức ma trận, nhân viên thuộc 2 bộ phận là \"Bộ phận kinh doanh nội địa\" và \"Bộ phận bán hàng\", nhưng trong tổ chức theo bộ phận kinh doanh, nhân viên thuộc 1 bộ phận là \"Bộ phận bán hàng của kinh doanh nội địa\".",
+      "en": "Matrix organization is an organization where employees belong to both functional departments and business divisions. The clear difference between matrix organization and divisional organization is \"the number of departments to which one belongs.\" For example, in a matrix organization, employees belong to 2 departments: \"Domestic Business Division\" and \"Sales Department,\" but in a divisional organization, employees belong to 1 department: \"Sales Department of Domestic Business.\"",
+      "my": "Matrix organization သည် ဝန်ထမ်းများ functional departments နှင့် business divisions နှစ်ခုလုံးတွင် ပါဝင်သော အဖွဲ့အစည်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        },
+        {
+          "kanji": "社員",
+          "reading": "しゃいん"
+        },
+        {
+          "kanji": "職能部門",
+          "reading": "しょくのうぶもん"
+        },
+        {
+          "kanji": "事業部門",
+          "reading": "じぎょうぶもん"
+        },
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "所属",
+          "reading": "しょぞく"
+        },
+        {
+          "kanji": "事業部制組織",
+          "reading": "じぎょうぶせいそしき"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "所属部署数",
+          "reading": "しょぞくぶしょかず"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "国内事業部",
+          "reading": "こくないじぎょうぶ"
+        },
+        {
+          "kanji": "営業部",
+          "reading": "えいぎょうぶ"
+        },
+        {
+          "kanji": "部署",
+          "reading": "ぶしょ"
+        },
+        {
+          "kanji": "国内事業",
+          "reading": "こくないじぎょう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（4）プロジェクト組織",
+      "reading": "ぷろじぇくとそしき",
+      "vi": "(4) Tổ chức dự án",
+      "en": "(4) Project Organization",
+      "my": "(၄) Project Organization"
+    },
+    {
+      "type": "paragraph",
+      "ja": "プロジェクト組織とは、ある問題を解決するために各部門から専門家を集めて結成する一時的な組織です。",
+      "vi": "Tổ chức dự án là tổ chức tạm thời được thành lập bằng cách tập hợp các chuyên gia từ các bộ phận khác nhau để giải quyết một vấn đề nào đó.",
+      "en": "Project organization is a temporary organization formed by gathering experts from various departments to solve a specific problem.",
+      "my": "Project organization သည် ပြဿနာတစ်ခုကို ဖြေရှင်းရန် ဌာနအသီးသီးမှ ကျွမ်းကျင်သူများ စုဆောင်း၍ ဖွဲ့စည်းသော ယာယီအဖွဲ့အစည်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "各部門",
+          "reading": "かくぶもん"
+        },
+        {
+          "kanji": "専門家",
+          "reading": "せんもんか"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "結成",
+          "reading": "けっせい"
+        },
+        {
+          "kanji": "一時的",
+          "reading": "いちじてき"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "マトリックス組織",
+      "reading": "まとりっくすそしき",
+      "romaji": "Matrix Soshiki",
+      "vi": "Tổ chức ma trận",
+      "en": "Matrix Organization",
+      "my": "Matrix အဖွဲ့အစည်း"
+    },
+    {
+      "kanji": "プロジェクト組織",
+      "reading": "ぷろじぇくとそしき",
+      "romaji": "Project Soshiki",
+      "vi": "Tổ chức dự án",
+      "en": "Project Organization",
+      "my": "ပရောဂျက်အဖွဲ့အစည်း"
+    },
+    {
+      "kanji": "所属部署",
+      "reading": "しょぞくぶしょ",
+      "romaji": "Shozoku Busho",
+      "vi": "Bộ phận thuộc về",
+      "en": "Department affiliation",
+      "my": "ဤာနပိုင်ဆိုင်ရာ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": false,
+    "illustration": "matrix_org_chart"
+  }
+}

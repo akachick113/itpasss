@@ -1,0 +1,365 @@
+{
+  "page_id": 86,
+  "image": "p_0086.png",
+  "chapter": 2,
+  "section": "02-04",
+  "page_number": 70,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "請負契約",
+      "reading": "うけおいけいやく",
+      "vi": "Hợp đồng thầu",
+      "en": "Subcontract",
+      "my": "စာချုပ်ခွဲ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "請負契約と労働者派遣契約との違いは、指示者と雇用主です。請負契約では、労働者と発注者との間に直接的なやり取りは一切ありません。",
+      "vi": "Sự khác biệt giữa hợp đồng thầu và hợp đồng phái cử lao động nằm ở người chỉ dẫn và người sử dụng lao động. Trong hợp đồng thầu, hoàn toàn không có giao dịch trực tiếp giữa người lao động và bên đặt thầu.",
+      "en": "The difference between subcontract and worker dispatch contract is the instructor and employer. In subcontracts, there is absolutely no direct communication between workers and the client.",
+      "my": "Subcontract နှင့် worker dispatch contract ကြား ကွာခြားချက်မှာ ညွှန်ကြားသူနှင့် အလုပ်ရှင်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "請負契約",
+          "reading": "うけおいけいやく"
+        },
+        {
+          "kanji": "労働者派遣契約",
+          "reading": "ろうどうしゃはけんけいやく"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "指示者",
+          "reading": "しじもの"
+        },
+        {
+          "kanji": "雇用主",
+          "reading": "こようしゅ"
+        },
+        {
+          "kanji": "労働者",
+          "reading": "ろうどうしゃ"
+        },
+        {
+          "kanji": "発注者",
+          "reading": "はっちゅうもの"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "直接的",
+          "reading": "ちょくせつてき"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "一切",
+          "reading": "いっさい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "請負契約の特徴",
+      "reading": "うけおいけいやくのとくちょう",
+      "vi": "Đặc điểm của hợp đồng thầu",
+      "en": "Features of Subcontract",
+      "my": "Subcontract ၏ အင်္ဂါရပ်များ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "労働者派遣契約と請負契約には、次の点で大きな違いがあります。\n\n・労働者派遣契約では、派遣先の会社が労働者に指示を出せる\n・請負契約では、発注者の会社は労働者に指示を出せない\n\nこのことに起因して、請負契約には次の2つの特徴があります。",
+      "vi": "Có sự khác biệt lớn giữa hợp đồng phái cử lao động và hợp đồng thầu:\n\n・Trong hợp đồng phái cử, công ty tiếp nhận có thể ra chỉ dẫn cho người lao động\n・Trong hợp đồng thầu, công ty đặt thầu KHÔNG thể ra chỉ dẫn cho người lao động\n\nDo đó, hợp đồng thầu có 2 đặc điểm sau:",
+      "en": "There are big differences between worker dispatch and subcontract:\n\n・In dispatch contracts, client company can give instructions to workers\n・In subcontracts, client company CANNOT give instructions to workers\n\nDue to this, subcontracts have these 2 features:",
+      "my": "Worker dispatch နှင့် subcontract ကြား ကြီးမားသော ကွာခြားချက်များရှိသည်။",
+      "terms": [
+        {
+          "kanji": "労働者派遣契約",
+          "reading": "ろうどうしゃはけんけいやく"
+        },
+        {
+          "kanji": "請負契約",
+          "reading": "うけおいけいやく"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "派遣先",
+          "reading": "はけんさき"
+        },
+        {
+          "kanji": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "kanji": "労働者",
+          "reading": "ろうどうしゃ"
+        },
+        {
+          "kanji": "指示",
+          "reading": "しじ"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "発注者",
+          "reading": "はっちゅうもの"
+        },
+        {
+          "kanji": "起因",
+          "reading": "きいん"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "請負契約の特徴",
+        "vi": "Đặc điểm của hợp đồng thầu",
+        "en": "Features of Subcontract"
+      },
+      "headers": {
+        "ja": [
+          "特徴",
+          "説明"
+        ],
+        "vi": [
+          "Đặc điểm",
+          "Giải thích"
+        ],
+        "en": [
+          "Feature",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "完成責任",
+            "請負契約では、発注者は労働者に直接指示を出せないため、仕事の完成をもって報酬を支払う契約になっている。"
+          ],
+          "vi": [
+            "Trách nhiệm hoàn thành",
+            "Trong hợp đồng thầu, vì bên đặt thầu không thể ra chỉ dẫn trực tiếp cho người lao động, nên hợp đồng là trả tiền khi hoàn thành công việc."
+          ],
+          "en": [
+            "Completion Responsibility",
+            "In subcontracts, since clients cannot give direct instructions to workers, payment is made upon work completion."
+          ]
+        },
+        {
+          "ja": [
+            "契約不適合責任",
+            "請負契約では、発注者は労働者に直接指示を出せないため、完成した仕事と契約の合意しない部分があった場合の責任は、指示を出した請負会社が負うことになっている。"
+          ],
+          "vi": [
+            "Trách nhiệm không phù hợp hợp đồng",
+            "Trong hợp đồng thầu, vì bên đặt thầu không thể ra chỉ dẫn trực tiếp, nếu công việc hoàn thành không phù hợp với hợp đồng, công ty nhận thầu - người ra chỉ dẫn - phải chịu trách nhiệm."
+          ],
+          "en": [
+            "Contract Non-conformity Liability",
+            "In subcontracts, since clients cannot give direct instructions, if completed work doesn't match contract, the contracting company who gave instructions bears responsibility."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "もう少し詳しく！ 偽装請負",
+        "vi": "Chi tiết hơn! Thầu giả tạo",
+        "en": "More Details! Fake Subcontracting",
+        "my": "အသေးစိတ် ပိုကြည့်ရန်",
+        "terms": [
+          {
+            "kanji": "偽装請負",
+            "reading": "ぎそううけおい"
+          },
+          {
+            "kanji": "偽装",
+            "reading": "ぎそう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "請負契約（労働者への指示は違法）であるにもかかわらず、実態としては労働者派遣契約（労働者への指示はOK）であるかのように、発注者が労働者に指示をしているような状態のことを「偽装請負」といいます。",
+        "vi": "Tình trạng mà bên đặt thầu ra chỉ dẫn cho người lao động như thể đó là hợp đồng phái cử (ra chỉ dẫn OK) trong khi thực tế là hợp đồng thầu (ra chỉ dẫn là bất hợp pháp) được gọi là Thầu giả tạo.",
+        "en": "When clients give instructions to workers as if it's a dispatch contract (instructions OK) when it's actually a subcontract (instructions illegal), this is called Fake Subcontracting.",
+        "my": "Client များက dispatch contract (ညွှန်ကြားချက်များ OK) ကဲ့သို့ အလုပ်သမားများကို ညွှန်ကြားချက်ပေးသောအခါ အမှန်တကယ်က subcontract (ညွှန်ကြားချက်များ တရားမဝင်) ဖြစ်လျှင် ဤကို Fake Subcontracting ဟုခေါ်သည်။",
+        "terms": [
+          {
+            "kanji": "請負契約",
+            "reading": "うけおいけいやく"
+          },
+          {
+            "kanji": "労働者",
+            "reading": "ろうどうしゃ"
+          },
+          {
+            "kanji": "指示",
+            "reading": "しじ"
+          },
+          {
+            "kanji": "違法",
+            "reading": "いほう"
+          },
+          {
+            "kanji": "実態",
+            "reading": "じったい"
+          },
+          {
+            "kanji": "労働者派遣契約",
+            "reading": "ろうどうしゃはけんけいやく"
+          },
+          {
+            "kanji": "発注者",
+            "reading": "はっちゅうもの"
+          },
+          {
+            "kanji": "状態",
+            "reading": "じょうたい"
+          },
+          {
+            "kanji": "偽装請負",
+            "reading": "ぎそううけおい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "著作権の帰属先",
+      "reading": "ちょさくけんのきぞくさき",
+      "vi": "Nơi quyền tác giả thuộc về",
+      "en": "Copyright Ownership",
+      "my": "မူပိုင်ခွင့် ပိုင်ဆိုင်မှု"
+    },
+    {
+      "type": "paragraph",
+      "ja": "前項で「プログラムは著作権法の保護の対象である」ことを解説しましたが（p.57）、著作権は、本項で解説している労働契約とも密接に関係しており、その点が出題されることも多いので、ここで著作権と労働契約の関連性について解説します。",
+      "vi": "Ở phần trước đã giải thích Chương trình là đối tượng bảo vệ của Luật quyền tác giả (trang 57), nhưng quyền tác giả cũng liên quan mật thiết với hợp đồng lao động giải thích ở phần này, và điểm đó cũng thường được ra đề, nên ở đây sẽ giải thích mối quan hệ giữa quyền tác giả và hợp đồng lao động.",
+      "en": "In the previous section, we explained that Programs are protected by Copyright Law (p.57). Copyright is also closely related to labor contracts explained here, and this point often appears on exams, so we'll explain the relationship between copyright and labor contracts.",
+      "my": "ယခင်အပိုင်းတွင် ပရိုဂရမ်များသည် မူပိုင်ခွင့်ဥပဒေဖြင့် ကာကွယ်ထားကြောင်း ရှင်းပြခဲ့သည်။",
+      "terms": [
+        {
+          "kanji": "前項",
+          "reading": "ぜんこう"
+        },
+        {
+          "kanji": "著作権法",
+          "reading": "ちょさくけんほう"
+        },
+        {
+          "kanji": "保護",
+          "reading": "ほご"
+        },
+        {
+          "kanji": "対象",
+          "reading": "たいしょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "著作権",
+          "reading": "ちょさくけん"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "労働契約",
+          "reading": "ろうどうけいやく"
+        },
+        {
+          "kanji": "密接",
+          "reading": "みっせつ"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "関連性",
+          "reading": "かんれんせい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "完成責任",
+      "reading": "かんせいせきにん",
+      "romaji": "Kansei Sekinin",
+      "vi": "Trách nhiệm hoàn thành",
+      "en": "Completion Responsibility",
+      "my": "ပြီးဆုံးရေးတာဝန်"
+    },
+    {
+      "kanji": "契約不適合責任",
+      "reading": "けいやくふてきごうせきにん",
+      "romaji": "Keiyaku Futekigou Sekinin",
+      "vi": "Trách nhiệm không phù hợp hợp đồng",
+      "en": "Contract Non-conformity Liability",
+      "my": "စာချုပ်မကိုက်ညီတာဝန်"
+    },
+    {
+      "kanji": "偽装請負",
+      "reading": "ぎそううけおい",
+      "romaji": "Gisou Ukeoi",
+      "vi": "Thầu giả tạo",
+      "en": "Fake Subcontracting",
+      "my": "အတုအယက်ကန်ထရိုက်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "has_learn_more": true
+  }
+}

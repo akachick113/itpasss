@@ -1,0 +1,144 @@
+{
+    "page_id": 439,
+    "image": "p_0439.png",
+    "chapter": 12,
+    "section": "intro",
+    "page_number": 423,
+    "content": [
+        {
+            "type": "chapter_header",
+            "number": 12,
+            "title": {
+                "ja": "ソフトウェア",
+                "vi": "Phần mềm",
+                "en": "Software"
+            }
+        },
+        {
+            "type": "points_box",
+            "title": {
+                "ja": "この章のポイント！",
+                "vi": "Điểm chính của chương này!",
+                "en": "Key Points of This Chapter!"
+            },
+            "intro": {
+                "ja": "システムは「ハードウェア」と「ソフトウェア」の2つの要素から構成されています（p.224）。本章ではこのうちの「ソフトウェア」について解説します。ソフトウェアは目に見えませんが、システムにおいて非常に重要な役割を担っています。",
+                "vi": "Hệ thống được cấu thành từ 2 yếu tố \"Phần cứng\" và \"Phần mềm\" (trang 224). Chương này giải thích về \"Phần mềm\". Phần mềm không nhìn thấy được nhưng đóng vai trò rất quan trọng trong hệ thống.",
+                "en": "System consists of 2 elements: 'Hardware' and 'Software' (p.224). This chapter explains 'Software.' Software is invisible but plays very important role in system."
+            },
+            "focus_areas": {
+                "ja": "ここに注目して読もう！",
+                "vi": "Hãy chú ý đọc ở đây!",
+                "en": "Focus on reading here!"
+            },
+            "items": [
+                {
+                    "ja": "OSの必要性、機能、種類、特徴",
+                    "vi": "Sự cần thiết, chức năng, loại, đặc điểm của OS",
+                    "en": "OS necessity, functions, types, characteristics"
+                },
+                {
+                    "ja": "ファイル管理の考え方と基本的な機能の利用法、バックアップの基本的な考え方",
+                    "vi": "Cách suy nghĩ về quản lý tệp và cách sử dụng chức năng cơ bản, cách suy nghĩ cơ bản về sao lưu",
+                    "en": "File management concept and basic function usage, backup basic concept"
+                },
+                {
+                    "ja": "オープンソースソフトウェア（OSS）の特徴",
+                    "vi": "Đặc điểm của phần mềm mã nguồn mở (OSS)",
+                    "en": "Open source software (OSS) characteristics"
+                }
+            ]
+        },
+        {
+            "type": "exam_scope_table",
+            "title": {
+                "ja": "試験範囲全体における本章の位置づけ",
+                "vi": "Vị trí của chương này trong toàn bộ phạm vi thi",
+                "en": "Position of This Chapter in Overall Exam Scope"
+            },
+            "categories": [
+                {
+                    "category": {
+                        "ja": "ストラテジ系",
+                        "vi": "Hệ Chiến lược",
+                        "en": "Strategy"
+                    },
+                    "subcategories": [
+                        {
+                            "ja": "企業と法務",
+                            "vi": "Doanh nghiệp và Pháp luật",
+                            "en": "Corporate and Legal"
+                        },
+                        {
+                            "ja": "経営戦略",
+                            "vi": "Chiến lược Kinh doanh",
+                            "en": "Business Strategy"
+                        },
+                        {
+                            "ja": "システム戦略",
+                            "vi": "Chiến lược Hệ thống",
+                            "en": "System Strategy"
+                        }
+                    ]
+                },
+                {
+                    "category": {
+                        "ja": "マネジメント系",
+                        "vi": "Hệ Quản lý",
+                        "en": "Management"
+                    },
+                    "subcategories": [
+                        {
+                            "ja": "開発技術",
+                            "vi": "Công nghệ Phát triển",
+                            "en": "Development Technology"
+                        },
+                        {
+                            "ja": "プロジェクトマネジメント",
+                            "vi": "Quản lý Dự án",
+                            "en": "Project Management"
+                        },
+                        {
+                            "ja": "サービスマネジメント",
+                            "vi": "Quản lý Dịch vụ",
+                            "en": "Service Management"
+                        }
+                    ]
+                },
+                {
+                    "category": {
+                        "ja": "テクノロジ系",
+                        "vi": "Hệ Công nghệ",
+                        "en": "Technology"
+                    },
+                    "subcategories": [
+                        {
+                            "ja": "基礎理論",
+                            "vi": "Lý thuyết Cơ bản",
+                            "en": "Basic Theory"
+                        },
+                        {
+                            "ja": "コンピュータシステム",
+                            "vi": "Hệ thống Máy tính",
+                            "en": "Computer System",
+                            "highlight": true
+                        },
+                        {
+                            "ja": "技術要素",
+                            "vi": "Yếu tố Kỹ thuật",
+                            "en": "Technical Elements"
+                        }
+                    ]
+                }
+            ],
+            "current_position": {
+                "ja": "本章はココ！",
+                "vi": "Chương này ở đây!",
+                "en": "This chapter is here!"
+            }
+        }
+    ],
+    "meta": {
+        "is_chapter_intro": true
+    }
+}

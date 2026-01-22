@@ -1,0 +1,129 @@
+{
+    "page_id": 290,
+    "image": "p_0290.png",
+    "chapter": 7,
+    "section": "practice",
+    "page_number": 274,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "7-4",
+            "year": "令和6年度",
+            "question": {
+                "ja": "システム開発プロジェクトにおいて、新機能の追加要求が変更管理委員会で認可された後にプロジェクトスコープマネジメントで実施する活動として、適切なものはどれか。",
+                "vi": "Trong dự án phát triển hệ thống, sau khi yêu cầu thêm tính năng mới được Change Control Committee phê duyệt, hoạt động nào thích hợp để thực hiện trong Project Scope Management?",
+                "en": "In system development project, after new feature addition request is approved by Change Control Committee, which activity is appropriate to implement in Project Scope Management?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. 新機能を追加で開発するためにWBSを変更し、コストの詳細な見積りをするための情報として提供する。",
+                    "vi": "ア. Thay đổi WBS để phát triển thêm tính năng mới, cung cấp làm thông tin để ước tính chi tiết chi phí.",
+                    "en": "ア. Change WBS for additional new feature development, provide as information for detailed cost estimation."
+                },
+                {
+                    "ja": "イ. 新機能を追加で開発するためのWBSのアクティビティの実行に必要なスキルを確認し、必要に応じてプロジェクトチームの能力向上を図る。",
+                    "vi": "イ. Xác nhận kỹ năng cần thiết để thực hiện activity của WBS để phát triển thêm tính năng mới, nâng cao năng lực Project Team nếu cần.",
+                    "en": "イ. Confirm skills needed to execute WBS activities for additional new feature development, improve Project Team capability as needed."
+                },
+                {
+                    "ja": "ウ. 変更されたWBSに基づいてスケジュールを作成し、完了時期の見通しを提示する。",
+                    "vi": "ウ. Tạo lịch trình dựa trên WBS đã thay đổi, đề xuất triển vọng thời điểm hoàn thành.",
+                    "en": "ウ. Create schedule based on changed WBS, present outlook for completion timing."
+                },
+                {
+                    "ja": "エ. 変更されたWBSに基づいて要員の充足度を確認し、必要な場合は作業の外注を検討する。",
+                    "vi": "エ. Xác nhận mức độ đủ nhân sự dựa trên WBS đã thay đổi, xem xét thuê ngoài công việc nếu cần.",
+                    "en": "エ. Confirm personnel sufficiency based on changed WBS, consider outsourcing work if needed."
+                }
+            ],
+            "correct_answer": "ア"
+        },
+        {
+            "type": "exam_question",
+            "number": "7-5",
+            "year": "平成27年度",
+            "question": {
+                "ja": "プロジェクトチームが実行する作業を、階層的に要素分解した図表はどれか。",
+                "vi": "Biểu đồ phân giải phân cấp công việc mà Project Team thực hiện là gì?",
+                "en": "What is the diagram that hierarchically decomposes work that Project Team executes?"
+            },
+            "choices": [
+                "ア. DFD",
+                "イ. WBS",
+                "ウ. アローダイアグラム",
+                "エ. マイルストーンチャート"
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "7-6",
+            "year": "令和2年度",
+            "question": {
+                "ja": "プロジェクトマネジメントにおけるWBSの要素分解に関する記述のうち、適切なものはどれか。",
+                "vi": "Trong các mô tả về phân giải phần tử WBS trong Project Management, mô tả nào thích hợp?",
+                "en": "Among descriptions about WBS element decomposition in Project Management, which is appropriate?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. 要素分解の最下位の詳細さは、コスト見積りとスケジュール作成を行えるレベルである。",
+                    "vi": "ア. Mức độ chi tiết thấp nhất của phân giải là cấp độ có thể thực hiện ước tính chi phí và tạo lịch trình.",
+                    "en": "ア. Lowest decomposition detail level is where cost estimation and schedule creation can be done."
+                },
+                {
+                    "ja": "イ. 要素分解の最下位の詳細さは、プロジェクトの規模によらず同じにする。",
+                    "vi": "イ. Mức độ chi tiết thấp nhất của phân giải giống nhau bất kể quy mô dự án.",
+                    "en": "イ. Lowest decomposition detail level is same regardless of project size."
+                },
+                {
+                    "ja": "ウ. 要素分解の深さは、すべての要素成果物に対して同じにする。",
+                    "vi": "ウ. Độ sâu phân giải giống nhau cho tất cả các thành quả phần tử.",
+                    "en": "ウ. Decomposition depth is same for all element deliverables."
+                },
+                {
+                    "ja": "エ. 要素分解を細かくすればするほど作業効率が向上する。",
+                    "vi": "エ. Phân giải càng chi tiết thì hiệu suất công việc càng tăng.",
+                    "en": "エ. Finer decomposition improves work efficiency."
+                }
+            ],
+            "correct_answer": "ア"
+        },
+        {
+            "type": "exam_question",
+            "number": "7-7",
+            "year": "平成21年度",
+            "question": {
+                "ja": "プロジェクトを管理する上で、プロジェクトマネージャが考慮すべき制約条件の組み合わせとして、適切なものはどれか。",
+                "vi": "Trong quản lý dự án, tổ hợp các điều kiện ràng buộc mà Project Manager cần xem xét là gì?",
+                "en": "In managing projects, which combination of constraints should Project Manager consider?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. 対象範囲、納期、予算",
+                    "vi": "ア. Phạm vi đối tượng, thời hạn, ngân sách",
+                    "en": "ア. Target scope, deadline, budget"
+                },
+                {
+                    "ja": "イ. 対象範囲、納期、リスク",
+                    "vi": "イ. Phạm vi đối tượng, thời hạn, rủi ro",
+                    "en": "イ. Target scope, deadline, risk"
+                },
+                {
+                    "ja": "ウ. 対象範囲、予算、リスク",
+                    "vi": "ウ. Phạm vi đối tượng, ngân sách, rủi ro",
+                    "en": "ウ. Target scope, budget, risk"
+                },
+                {
+                    "ja": "エ. 納期、予算、リスク",
+                    "vi": "エ. Thời hạn, ngân sách, rủi ro",
+                    "en": "エ. Deadline, budget, risk"
+                }
+            ],
+            "correct_answer": "ア"
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 4
+    }
+}

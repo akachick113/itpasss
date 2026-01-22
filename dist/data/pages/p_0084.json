@@ -1,0 +1,362 @@
+{
+  "page_id": 84,
+  "image": "p_0084.png",
+  "chapter": 2,
+  "section": "02-04",
+  "page_number": 68,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "02-04",
+      "ja": "労働関連法規と取引関連法規",
+      "reading": "ろうどうかんれんほうきととりひきかんれんほうき",
+      "vi": "Luật lao động và Luật giao dịch",
+      "en": "Labor Laws and Transaction Laws",
+      "my": "အလုပ်သမားဥပဒေများနှင့် အရောင်းအဝယ်ဥပဒေများ"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "労働者を守るための法律",
+        "vi": "Luật bảo vệ người lao động",
+        "en": "Laws to Protect Workers",
+        "my": "အလုပ်သမားများကို ကာကွယ်ရန် ဥပဒေများ"
+      },
+      "content": {
+        "ja": "企業がお金儲けのことばかりを考えてしまうと、そこで働く人の労働環境が悪化することがあります。国は労働基準法で労働者の権利を守っています。",
+        "vi": "Nếu doanh nghiệp chỉ nghĩ đến việc kiếm tiền, môi trường làm việc của người lao động có thể xấu đi. Nhà nước bảo vệ quyền lợi người lao động bằng Luật tiêu chuẩn lao động.",
+        "en": "If companies only think about making money, workers' conditions may worsen. The government protects workers' rights through the Labor Standards Law.",
+        "my": "ကုမ္ပဏီများက ငွေရှာခြင်းကိုသာ စဉ်းစားလျှင် အလုပ်သမားများ၏ အခြေအနေ ပိုဆိုးလာနိုင်သည်။",
+        "terms": [
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "金儲",
+            "reading": "きんちょ"
+          },
+          {
+            "kanji": "考",
+            "reading": "こう"
+          },
+          {
+            "kanji": "働",
+            "reading": "はたら"
+          },
+          {
+            "kanji": "人",
+            "reading": "ひと"
+          },
+          {
+            "kanji": "労働環境",
+            "reading": "ろうどうかんきょう"
+          },
+          {
+            "kanji": "悪化",
+            "reading": "あっか"
+          },
+          {
+            "kanji": "国",
+            "reading": "くに"
+          },
+          {
+            "kanji": "労働基準法",
+            "reading": "ろうどうきじゅんほう"
+          },
+          {
+            "kanji": "労働者",
+            "reading": "ろうどうしゃ"
+          },
+          {
+            "kanji": "権利",
+            "reading": "けんり"
+          },
+          {
+            "kanji": "守",
+            "reading": "しゅ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、私たち労働者に深く関係している法律の概要を解説します。特に「労働者派遣契約」と「請負契約」の2つの用語がよく出題されます。",
+      "vi": "Từ đây sẽ giải thích tổng quan về các luật liên quan sâu sắc đến chúng ta - người lao động. Đặc biệt, 2 thuật ngữ Hợp đồng phái cử lao động và Hợp đồng thầu thường được ra đề.",
+      "en": "From here, we'll explain laws deeply related to us workers. Especially, the terms Worker Dispatch Contract and Subcontract are frequently tested.",
+      "my": "ဤနေရာမှစ၍ ကျွန်ုပ်တို့ အလုပ်သမားများနှင့် နက်ရှိုင်းစွာ ဆက်နွယ်သော ဥပဒေများကို ရှင်းပြပါမည်။",
+      "terms": [
+        {
+          "kanji": "私",
+          "reading": "わたし"
+        },
+        {
+          "kanji": "労働者",
+          "reading": "ろうどうしゃ"
+        },
+        {
+          "kanji": "深",
+          "reading": "ふか"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "法律",
+          "reading": "ほうりつ"
+        },
+        {
+          "kanji": "概要",
+          "reading": "がいよう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "特",
+          "reading": "とく"
+        },
+        {
+          "kanji": "労働者派遣契約",
+          "reading": "ろうどうしゃはけんけいやく"
+        },
+        {
+          "kanji": "請負契約",
+          "reading": "うけおいけいやく"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "労働基準法とは",
+      "reading": "ろうどうきじゅんほうとは",
+      "vi": "Luật tiêu chuẩn lao động là gì",
+      "en": "What is Labor Standards Law",
+      "my": "အလုပ်သမားစံနှုန်းဥပဒေဆိုသည်မှာ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "労働基準法とは、労働条件の最低基準を定めた法律です。労働条件には、労働時間や休憩時間、賃金、休暇などが含まれます。これらの最低基準を法律で定めることによって、企業が従業員を劣悪な条件下で働かせることを防ぎ、また、労働者を保護しています。",
+      "vi": "Luật tiêu chuẩn lao động là luật quy định tiêu chuẩn tối thiểu về điều kiện lao động. Điều kiện lao động bao gồm thời gian làm việc, thời gian nghỉ ngơi, tiền lương, ngày nghỉ. Việc quy định các tiêu chuẩn tối thiểu này bằng pháp luật ngăn doanh nghiệp bắt nhân viên làm việc trong điều kiện tồi tệ và bảo vệ người lao động.",
+      "en": "Labor Standards Law establishes minimum standards for working conditions. Working conditions include work hours, break time, wages, and holidays. By setting these minimum standards in law, it prevents companies from making employees work under poor conditions and protects workers.",
+      "my": "အလုပ်သမားစံနှုန်းဥပဒေသည် အလုပ်အခြေအနေများအတွက် အနိမ့်ဆုံးစံနှုန်းများ ချမှတ်သည်။",
+      "terms": [
+        {
+          "kanji": "労働基準法",
+          "reading": "ろうどうきじゅんほう"
+        },
+        {
+          "kanji": "労働条件",
+          "reading": "ろうどうじょうけん"
+        },
+        {
+          "kanji": "最低基準",
+          "reading": "さいていきじゅん"
+        },
+        {
+          "kanji": "定",
+          "reading": "てい"
+        },
+        {
+          "kanji": "法律",
+          "reading": "ほうりつ"
+        },
+        {
+          "kanji": "労働時間",
+          "reading": "ろうどうじかん"
+        },
+        {
+          "kanji": "休憩時間",
+          "reading": "きゅうけいじかん"
+        },
+        {
+          "kanji": "賃金",
+          "reading": "ちんぎん"
+        },
+        {
+          "kanji": "休暇",
+          "reading": "きゅうか"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "従業員",
+          "reading": "じゅうぎょういん"
+        },
+        {
+          "kanji": "劣悪",
+          "reading": "れつあく"
+        },
+        {
+          "kanji": "条件下",
+          "reading": "じょうけんか"
+        },
+        {
+          "kanji": "働",
+          "reading": "はたら"
+        },
+        {
+          "kanji": "防",
+          "reading": "ぼう"
+        },
+        {
+          "kanji": "労働者",
+          "reading": "ろうどうしゃ"
+        },
+        {
+          "kanji": "保護",
+          "reading": "ほご"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "労働基準法とは、労働時間、休憩時間、休暇など、労働条件の最低基準を定めた法律",
+        "vi": "Luật tiêu chuẩn lao động là luật quy định tiêu chuẩn tối thiểu về điều kiện lao động như thời gian làm việc, thời gian nghỉ ngơi, ngày nghỉ",
+        "en": "Labor Standards Law establishes minimum standards for working conditions like work hours, break time, holidays",
+        "my": "အလုပ်သမားစံနှုန်းဥပဒေသည် အလုပ်နာရီ၊ အနားချိန်၊ ရုံးပိတ်ရက်များကဲ့သို့ အလုပ်အခြေအနေများအတွက် အနိမ့်ဆုံးစံနှုန်းများ ချမှတ်သည်",
+        "terms": [
+          {
+            "kanji": "労働基準法",
+            "reading": "ろうどうきじゅんほう"
+          },
+          {
+            "kanji": "労働時間",
+            "reading": "ろうどうじかん"
+          },
+          {
+            "kanji": "休憩時間",
+            "reading": "きゅうけいじかん"
+          },
+          {
+            "kanji": "休暇",
+            "reading": "きゅうか"
+          },
+          {
+            "kanji": "労働条件",
+            "reading": "ろうどうじょうけん"
+          },
+          {
+            "kanji": "最低基準",
+            "reading": "さいていきじゅん"
+          },
+          {
+            "kanji": "定",
+            "reading": "てい"
+          },
+          {
+            "kanji": "法律",
+            "reading": "ほうりつ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "3つの契約",
+      "reading": "3つのけいやく",
+      "vi": "3 loại hợp đồng",
+      "en": "3 Types of Contracts",
+      "my": "စာချုပ် ၃ မျိုး"
+    },
+    {
+      "type": "paragraph",
+      "ja": "企業が経営資源の1つである「ヒト」を活用する際の契約には、次の3種類があります。",
+      "vi": "Khi doanh nghiệp sử dụng Con người - một trong các nguồn lực kinh doanh, có 3 loại hợp đồng sau:",
+      "en": "When companies utilize People - one of the management resources, there are 3 types of contracts:",
+      "my": "ကုမ္ပဏီများက စီမံခန့်ခွဲမှုအရင်းအမြစ်များထဲမှ လူများကို အသုံးပြုသောအခါ စာချုပ် ၃ မျိုးရှိသည်:",
+      "terms": [
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "経営資源",
+          "reading": "けいえいしげん"
+        },
+        {
+          "kanji": "活用",
+          "reading": "かつよう"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "契約",
+          "reading": "けいやく"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "労働基準法",
+      "reading": "ろうどうきじゅんほう",
+      "romaji": "Roudou Kijun Hou",
+      "vi": "Luật tiêu chuẩn lao động",
+      "en": "Labor Standards Law",
+      "my": "အလုပ်သမားစံနှုန်းဥပဒေ"
+    },
+    {
+      "kanji": "労働者派遣契約",
+      "reading": "ろうどうしゃはけんけいやく",
+      "romaji": "Roudousha Haken Keiyaku",
+      "vi": "Hợp đồng phái cử lao động",
+      "en": "Worker Dispatch Contract",
+      "my": "အလုပ်သမားစေလွှတ်မှုစာချုပ်"
+    },
+    {
+      "kanji": "請負契約",
+      "reading": "うけおいけいやく",
+      "romaji": "Ukeoi Keiyaku",
+      "vi": "Hợp đồng thầu",
+      "en": "Subcontract",
+      "my": "ကန်ထရိုက်စာချုပ်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

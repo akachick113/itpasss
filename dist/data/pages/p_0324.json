@@ -1,0 +1,293 @@
+{
+  "page_id": 324,
+  "image": "p_0324.png",
+  "chapter": 8,
+  "section": "08-06",
+  "page_number": 308,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "コーポレートガバナンス",
+        "vi": "Corporate Governance",
+        "en": "Corporate Governance"
+      },
+      "description": {
+        "ja": "ステークホルダ → コーポレートガバナンス → 社員 → 内部統制・業務 → コーポレート（企業）",
+        "vi": "Stakeholder → Corporate Governance → Nhân viên → Internal Control・Nghiệp vụ → Corporate (Doanh nghiệp)",
+        "en": "Stakeholder → Corporate Governance → Employees → Internal Control/Operations → Corporate (Company)"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "社外取締役",
+      "reading": "しゃがいとりしまりやく",
+      "vi": "Outside Director",
+      "en": "Outside Director",
+      "note": "重要！普通によく出る！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、コーポレートガバナンスを強化するための施策として、社外取締役の登用が出題されます。",
+      "vi": "Trong kỳ thi IT Passport, việc bổ nhiệm Outside Director là biện pháp tăng cường Corporate Governance được ra đề.",
+      "en": "In IT Passport exam, appointing Outside Directors as measure to strengthen Corporate Governance is tested.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "強化",
+          "reading": "きょうか"
+        },
+        {
+          "kanji": "施策",
+          "reading": "しさく"
+        },
+        {
+          "kanji": "社外取締役",
+          "reading": "しゃがいとりしまりやく"
+        },
+        {
+          "kanji": "登用",
+          "reading": "とうよう"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "社外取締役とは、その名の通り、社外から選任された取締役です。社外取締役になるための条件は「その企業での勤務経験や取引関係がないこと」です。この条件があるため、社外取締役は企業との利害関係のない独立した立場で経営を監視できます。つまり、社外取締役を登用することで、コーポレートガバナンスを強化できます。",
+      "vi": "Outside Director theo đúng tên gọi là giám đốc được bổ nhiệm từ bên ngoài công ty. Điều kiện để trở thành Outside Director là \"không có kinh nghiệm làm việc hoặc quan hệ giao dịch với doanh nghiệp đó\". Vì điều kiện này, Outside Director có thể giám sát kinh doanh từ vị trí độc lập không có quan hệ lợi ích với doanh nghiệp. Nghĩa là, bổ nhiệm Outside Director có thể tăng cường Corporate Governance.",
+      "en": "Outside Director is, as name suggests, director appointed from outside company. Condition to become Outside Director is 'no work experience or business relationship with that company.' With this condition, Outside Director can monitor management from independent position with no interest relationship with company. That is, by appointing Outside Directors, Corporate Governance can be strengthened.",
+      "terms": [
+        {
+          "kanji": "社外取締役",
+          "reading": "しゃがいとりしまりやく"
+        },
+        {
+          "kanji": "名",
+          "reading": "めい"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        },
+        {
+          "kanji": "社外",
+          "reading": "しゃがい"
+        },
+        {
+          "kanji": "選任",
+          "reading": "せんにん"
+        },
+        {
+          "kanji": "取締役",
+          "reading": "とりしまりやく"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "勤務経験",
+          "reading": "きんむけいけん"
+        },
+        {
+          "kanji": "取引関係",
+          "reading": "とりひきかんけい"
+        },
+        {
+          "kanji": "利害関係",
+          "reading": "りがいかんけい"
+        },
+        {
+          "kanji": "独立",
+          "reading": "どくりつ"
+        },
+        {
+          "kanji": "立場",
+          "reading": "たちば"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "監視",
+          "reading": "かんし"
+        },
+        {
+          "kanji": "登用",
+          "reading": "とうよう"
+        },
+        {
+          "kanji": "強化",
+          "reading": "きょうか"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "内部統制",
+      "reading": "ないぶとうせい",
+      "vi": "Internal Control",
+      "en": "Internal Control"
+    },
+    {
+      "type": "paragraph",
+      "ja": "内部統制とは、社内のすべての人が業務を健全化することです。内部統制の運用においては、企業に属する全員に一定の役割があります。ただし、内部統制の整備と運用の責任を持つのは経営者です。",
+      "vi": "Internal Control là việc tất cả mọi người trong công ty làm lành mạnh nghiệp vụ. Trong vận hành Internal Control, tất cả người thuộc doanh nghiệp đều có vai trò nhất định. Tuy nhiên, người chịu trách nhiệm thiết lập và vận hành Internal Control là ban lãnh đạo.",
+      "en": "Internal Control is all people in company making operations healthy. In Internal Control operation, everyone belonging to company has certain role. However, management is responsible for establishing and operating Internal Control.",
+      "terms": [
+        {
+          "kanji": "内部統制",
+          "reading": "ないぶとうせい"
+        },
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "健全化",
+          "reading": "けんぜんか"
+        },
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "属",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "全員",
+          "reading": "ぜんいん"
+        },
+        {
+          "kanji": "一定",
+          "reading": "いってい"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "整備",
+          "reading": "せいび"
+        },
+        {
+          "kanji": "責任",
+          "reading": "せきにん"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "経営者",
+          "reading": "けいえいしゃ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "内部統制はコーポレートガバナンスを実現するための手段であるともいえます。なぜなら、コーポレートガバナンスで経営を監視したとしても、業務が正しく行われなければ健全な経営は実現できないからです。つまり、コーポレートガバナンスを実現するには、内部統制を整備することが必要不可欠です。",
+      "vi": "Có thể nói Internal Control là phương tiện để thực hiện Corporate Governance. Vì ngay cả khi giám sát kinh doanh bằng Corporate Governance, nếu nghiệp vụ không được thực hiện đúng thì không thể thực hiện kinh doanh lành mạnh. Nghĩa là, để thực hiện Corporate Governance, thiết lập Internal Control là không thể thiếu.",
+      "en": "Internal Control can be said to be means to realize Corporate Governance. Because even if monitoring management with Corporate Governance, if operations aren't done correctly, healthy management can't be realized. That is, to realize Corporate Governance, establishing Internal Control is essential.",
+      "terms": [
+        {
+          "kanji": "内部統制",
+          "reading": "ないぶとうせい"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "手段",
+          "reading": "しゅだん"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "監視",
+          "reading": "かんし"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "健全",
+          "reading": "けんぜん"
+        },
+        {
+          "kanji": "整備",
+          "reading": "せいび"
+        },
+        {
+          "kanji": "必要不可欠",
+          "reading": "ひつようふかけつ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "内部統制とコーポレートガバナンスの関係",
+        "vi": "Mối quan hệ giữa Internal Control và Corporate Governance",
+        "en": "Relationship Between Internal Control and Corporate Governance"
+      },
+      "description": {
+        "ja": "手段：内部統制・IT統制 → 目的：コーポレートガバナンス・ITガバナンス",
+        "vi": "Phương tiện: Internal Control・IT Control → Mục đích: Corporate Governance・IT Governance",
+        "en": "Means: Internal Control・IT Control → Purpose: Corporate Governance・IT Governance"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "社外取締役",
+      "reading": "しゃがいとりしまりやく",
+      "romaji": "Shagai Torishimariyaku",
+      "vi": "Giám đốc bên ngoài",
+      "en": "Outside Director",
+      "my": "ပြင်ပ ဒါရိုက်တာ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "page_id": 545,
+  "image": "p_0545.png",
+  "chapter": 15,
+  "section": "15-01",
+  "page_number": 529,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ソーシャルエンジニアリングの代表例は、秘密の情報を「肩越しに盗み見る」こと",
+          "vi": "Ví dụ đại diện của Social Engineering là \"nhìn trộm thông tin bí mật qua vai\"",
+          "en": "Representative example of Social Engineering is 'peeking at secret information over shoulder'"
+        },
+        {
+          "ja": "マルウェアとは、悪意のあるソフトウェアの総称",
+          "vi": "Malware là tên gọi chung của phần mềm độc hại",
+          "en": "Malware is general term for malicious software"
+        },
+        {
+          "ja": "ボットとは、多数のPCに感染して、攻撃者から指令を受けると、一斉攻撃などの動作を行うプログラム",
+          "vi": "Bot là chương trình lây nhiễm nhiều PC và thực hiện tấn công đồng loạt khi nhận lệnh từ kẻ tấn công",
+          "en": "Bot is program infecting many PCs and performing mass attacks when receiving commands from attackers"
+        },
+        {
+          "ja": "スパイウェアとは、利用者に気づかれないように個人情報などを収集するプログラム",
+          "vi": "Spyware là chương trình thu thập thông tin cá nhân mà người dùng không nhận ra",
+          "en": "Spyware is program collecting personal information without user noticing"
+        },
+        {
+          "ja": "ランサムウェアとは、ファイルを使用不能にし、解除と引き換えに金銭を得るソフトウェア",
+          "vi": "Ransomware là phần mềm làm file không thể sử dụng và lấy tiền để đổi lấy việc giải trừ",
+          "en": "Ransomware is software making files unusable and obtaining money in exchange for release"
+        },
+        {
+          "ja": "バックドアとは、システムに意図的に設けられた秘密のアクセス経路",
+          "vi": "Backdoor là đường truy cập bí mật được cố ý tạo trong hệ thống",
+          "en": "Backdoor is secret access path intentionally placed in system"
+        },
+        {
+          "ja": "フィッシングとは、偽サイトに暗証番号やクレジットカード番号を入力させて、個人情報を盗み取ること",
+          "vi": "Phishing là việc yêu cầu nhập mã PIN hoặc số thẻ tín dụng vào trang web giả để đánh cắp thông tin cá nhân",
+          "en": "Phishing is making users enter PINs or credit card numbers on fake sites to steal personal information"
+        },
+        {
+          "ja": "DoS攻撃とは、電子メールやWebリクエストなどを大量に送りつけて、ネットワーク上のサービスを提供不能にすること",
+          "vi": "DoS Attack là việc gửi số lượng lớn email hoặc Web Request để làm dịch vụ trên mạng không thể cung cấp",
+          "en": "DoS Attack is sending large amounts of email or Web Requests to make network services unavailable"
+        },
+        {
+          "ja": "ゼロデイ攻撃とは、ソフトウェアの脆弱性が発見された際に、それが修正される前にその脆弱性を突いて攻撃すること",
+          "vi": "Zero-day Attack là việc tấn công khai thác lỗ hổng trước khi nó được sửa khi phát hiện lỗ hổng phần mềm",
+          "en": "Zero-day Attack is attacking by exploiting vulnerability before it's fixed when software vulnerability is discovered"
+        },
+        {
+          "ja": "クロスサイトスクリプティングとは、悪意あるスクリプトを埋め込み、データを盗み出す攻撃",
+          "vi": "Cross Site Scripting là tấn công nhúng script độc hại và đánh cắp dữ liệu",
+          "en": "Cross Site Scripting is attack embedding malicious script and stealing data"
+        },
+        {
+          "ja": "バッファオーバーフロー攻撃とは、データの格納領域（バッファ）に入りきらないほどの大きなデータを送りつけて、システムを不正操作する攻撃",
+          "vi": "Buffer Overflow Attack là tấn công gửi dữ liệu lớn đến mức không thể chứa trong vùng lưu trữ (buffer) để thao tác hệ thống trái phép",
+          "en": "Buffer Overflow Attack is attack sending data too large for storage area (buffer) to manipulate system illegally"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

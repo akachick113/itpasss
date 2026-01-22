@@ -1,0 +1,215 @@
+{
+  "page_id": 404,
+  "image": "p_0404.png",
+  "chapter": 10,
+  "section": "10-06",
+  "page_number": 388,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "並列システム",
+      "reading": "へいれつシステム",
+      "vi": "Hệ thống song song",
+      "en": "Parallel System",
+      "exam_note": "★要チェック！直列との違いを把握しよう！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "並列システムとは、複数の装置が並列に接続されたシステムです。並列システムの代表例はデュアルシステムやデュプレックスシステムです（p.376）。並列システムの場合、システムを構成する装置が1つ故障しても、システムは稼働を継続できます。並列システムの稼働率は、次の式で求めることができます。",
+      "vi": "Hệ thống song song là hệ thống trong đó nhiều thiết bị được kết nối song song. Ví dụ điển hình của hệ thống song song là hệ thống dual và hệ thống duplex (trang 376). Trong trường hợp hệ thống song song, ngay cả khi một thiết bị cấu thành hệ thống hỏng, hệ thống vẫn tiếp tục hoạt động. Tỉ lệ khả dụng của hệ thống song song có thể tính bằng công thức sau.",
+      "en": "Parallel system is system where multiple devices are connected in parallel. Typical examples of parallel system are dual system and duplex system (p.376). In parallel system case, even if one device composing system fails, system continues operating. Parallel system availability can be calculated by following formula.",
+      "terms": [
+        {
+          "kanji": "並列",
+          "reading": "へいれつ"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "代表例",
+          "reading": "だいひょうれい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "故障",
+          "reading": "こしょう"
+        },
+        {
+          "kanji": "稼働",
+          "reading": "かどう"
+        },
+        {
+          "kanji": "継続",
+          "reading": "けいぞく"
+        },
+        {
+          "kanji": "稼働率",
+          "reading": "かどうりつ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "式",
+          "reading": "しき"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        }
+      ]
+    },
+    {
+      "type": "formula",
+      "content": {
+        "ja": "並列システムの稼働率 = 1 − (1 − 装置Aの稼働率) × (1 − 装置Bの稼働率)",
+        "vi": "Tỉ lệ khả dụng hệ thống song song = 1 − (1 − Tỉ lệ khả dụng thiết bị A) × (1 − Tỉ lệ khả dụng thiết bị B)",
+        "en": "Parallel System Availability = 1 − (1 − Device A Availability) × (1 − Device B Availability)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、次の図のような並列システムの稼働率は「0.98」となります。",
+      "vi": "Ví dụ, tỉ lệ khả dụng của hệ thống song song như hình sau là \"0.98\".",
+      "en": "For example, availability of parallel system like following diagram is '0.98.'",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "並列",
+          "reading": "へいれつ"
+        },
+        {
+          "kanji": "稼働率",
+          "reading": "かどうりつ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "並列システム",
+        "vi": "Hệ thống song song",
+        "en": "Parallel System"
+      },
+      "description": {
+        "ja": "装置AとB（共に稼働率0.9）が並列に接続。並列システムの稼働率 = 1 − (1 − 0.9) × (1 − 0.8) = 0.98",
+        "vi": "Thiết bị A và B (cả hai tỉ lệ khả dụng 0.9) kết nối song song. Tỉ lệ khả dụng hệ thống song song = 1 − (1 − 0.9) × (1 − 0.8) = 0.98",
+        "en": "Device A and B (both availability 0.9) connected in parallel. Parallel system availability = 1 − (1 − 0.9) × (1 − 0.8) = 0.98"
+      },
+      "calculation": "並列システムの稼働率 = 1 − (1 − 0.9) × (1 − 0.8) = 0.98"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "複合システム",
+      "reading": "ふくごうシステム",
+      "vi": "Hệ thống kết hợp",
+      "en": "Combined System",
+      "exam_note": "★要チェック！稼働率の計算問題がよく出る！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "複合システムとは、複数の装置、もしくは複数のシステムを部品として組み合わせて作る、より大きな1つのシステムです。",
+      "vi": "Hệ thống kết hợp là một hệ thống lớn hơn được tạo bằng cách kết hợp nhiều thiết bị hoặc nhiều hệ thống như các bộ phận.",
+      "en": "Combined system is one larger system made by combining multiple devices or multiple systems as components.",
+      "terms": [
+        {
+          "kanji": "複合",
+          "reading": "ふくごう"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "部品",
+          "reading": "ぶひん"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "複合システム",
+        "vi": "Hệ thống kết hợp",
+        "en": "Combined System"
+      },
+      "description": {
+        "ja": "システム①（装置A稼働率0.9と装置A稼働率0.9が直列）とシステム②（装置A稼働率0.8と装置B稼働率0.8が並列）が組み合わさった複合システム。システム①の稼働率 = 0.9 × 0.8 = 0.72、システム②の稼働率 = 1 − (1 − 0.9) × (1 − 0.8) = 0.98、複合システムの稼働率 = システム① × システム② ≒ 0.71",
+        "vi": "Hệ thống kết hợp gồm hệ thống ① (thiết bị A tỉ lệ khả dụng 0.9 và thiết bị A tỉ lệ khả dụng 0.9 nối tiếp) và hệ thống ② (thiết bị A tỉ lệ khả dụng 0.8 và thiết bị B tỉ lệ khả dụng 0.8 song song). Tỉ lệ khả dụng hệ thống ① = 0.9 × 0.8 = 0.72, Tỉ lệ khả dụng hệ thống ② = 1 − (1 − 0.9) × (1 − 0.8) = 0.98, Tỉ lệ khả dụng hệ thống kết hợp = Hệ thống ① × Hệ thống ② ≒ 0.71",
+        "en": "Combined system of system ① (device A availability 0.9 and device A availability 0.9 in series) and system ② (device A availability 0.8 and device B availability 0.8 in parallel). System ① availability = 0.9 × 0.8 = 0.72, System ② availability = 1 − (1 − 0.9) × (1 − 0.8) = 0.98, Combined system availability = System ① × System ② ≒ 0.71"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "並列システム",
+      "reading": "へいれつシステム",
+      "vi": "Hệ thống song song",
+      "en": "Parallel System",
+      "my": "အပြိုင်ကင်း စနစ်"
+    },
+    {
+      "kanji": "複合システム",
+      "reading": "ふくごうシステム",
+      "vi": "Hệ thống kết hợp",
+      "en": "Combined System",
+      "my": "ပေါင်းစပ် စနစ်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_formula": true,
+    "is_key_content": true
+  }
+}

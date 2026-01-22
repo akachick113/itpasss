@@ -1,0 +1,324 @@
+{
+  "page_id": 363,
+  "image": "p_0363.png",
+  "chapter": 9,
+  "section": "09-07",
+  "page_number": 347,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "変数",
+      "reading": "へんすう",
+      "vi": "Biến",
+      "en": "Variable"
+    },
+    {
+      "type": "paragraph",
+      "ja": "続いて、プログラミングにおいて最も重要な機能である「変数」について解説します。",
+      "vi": "Tiếp theo, giải thích về \"biến\" là chức năng quan trọng nhất trong lập trình.",
+      "en": "Next, explains 'variable,' most important function in programming.",
+      "terms": [
+        {
+          "kanji": "続",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "変数とは、値（数値や文字列など）をコンピュータの主記憶装置に格納する機能です。変数のイメージとしては「コンピュータ内に用意された箱」を想像するとわかりやすいと思います。プログラムで扱うさまざまな値を変数にれることで、値を一時的に保存したり、他のプログラムに渡したりすることができます。",
+      "vi": "Biến là chức năng lưu trữ giá trị (số hoặc chuỗi ký tự, v.v.) vào bộ nhớ chính của máy tính. Hình ảnh của biến dễ hiểu khi tưởng tượng \"hộp được chuẩn bị trong máy tính\". Bằng cách đặt các giá trị khác nhau mà chương trình xử lý vào biến, có thể lưu tạm giá trị hoặc truyền đến chương trình khác.",
+      "en": "Variable is function storing values (numbers or strings, etc.) in computer's main memory. Variable image is easy to understand imagining 'box prepared inside computer.' By putting various values program handles into variables, can temporarily save values or pass to other programs.",
+      "terms": [
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "数値",
+          "reading": "すうち"
+        },
+        {
+          "kanji": "文字列",
+          "reading": "もじれつ"
+        },
+        {
+          "kanji": "主記憶装置",
+          "reading": "しゅきおくそうち"
+        },
+        {
+          "kanji": "格納",
+          "reading": "かくのう"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "用意",
+          "reading": "ようい"
+        },
+        {
+          "kanji": "箱",
+          "reading": "はこ"
+        },
+        {
+          "kanji": "想像",
+          "reading": "そうぞう"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "一時的",
+          "reading": "いちじてき"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "変数のイメージ",
+        "vi": "Hình ảnh biến",
+        "en": "Variable Image"
+      },
+      "description": {
+        "ja": "箱の形をした変数に10、0.5、1000といった数値や「文字列」を格納するイメージ図",
+        "vi": "Hình ảnh lưu các số như 10, 0.5, 1000 và \"chuỗi ký tự\" vào biến có hình hộp",
+        "en": "Image of storing numbers like 10, 0.5, 1000 and 'string' in box-shaped variable"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "変数の宣言",
+      "reading": "へんすうのせんげん",
+      "vi": "Khai báo biến",
+      "en": "Variable Declaration"
+    },
+    {
+      "type": "paragraph",
+      "ja": "変数を利用するには、最初に、変数の名前をコンピュータに伝える必要があります。これを「変数の宣言」といいます。以下は変数の宣言の書式です。",
+      "vi": "Để sử dụng biến, trước tiên cần thông báo tên biến cho máy tính. Đây gọi là \"khai báo biến\". Sau đây là định dạng khai báo biến.",
+      "en": "To use variable, first need to tell computer variable name. This is called 'variable declaration.' Following is variable declaration format.",
+      "terms": [
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "伝",
+          "reading": "でん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "宣言",
+          "reading": "せんげん"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "書式",
+          "reading": "しょしき"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【書式】変数の宣言",
+        "vi": "【Định dạng】Khai báo biến",
+        "en": "[Format] Variable Declaration"
+      },
+      "code": "型名: 変数名",
+      "explanation": {
+        "ja": "・最初に「型名」を書く（型についてはp.348で解説）\n・続いて「:」（コロン）を書いて「変数名」を書く",
+        "vi": "・Viết \"tên kiểu\" trước (về kiểu xem trang 348)\n・Tiếp theo viết \":\" (dấu hai chấm) rồi viết \"tên biến\"",
+        "en": "・Write 'type name' first (type explained on p.348)\n・Then write ':' (colon) and 'variable name'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "このようにして、箱（変数）の名前をコンピュータに伝えることで、コンピュータはその箱を、他の箱と区別できるようになります。",
+      "vi": "Bằng cách này, khi thông báo tên hộp (biến) cho máy tính, máy tính có thể phân biệt hộp đó với các hộp khác.",
+      "en": "This way, by telling computer box (variable) name, computer can distinguish that box from other boxes.",
+      "terms": [
+        {
+          "kanji": "箱",
+          "reading": "はこ"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "伝",
+          "reading": "でん"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "区別",
+          "reading": "くべつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "以下は「num」という名前の変数を宣言する例です。",
+      "vi": "Sau đây là ví dụ khai báo biến có tên \"num\".",
+      "en": "Following is example declaring variable named 'num.'",
+      "terms": [
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "宣言",
+          "reading": "せんげん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】変数numの宣言",
+        "vi": "【Ví dụ chương trình】Khai báo biến num",
+        "en": "[Program Example] Variable num Declaration"
+      },
+      "code": "整数型: num"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のようにプログラムを書くことで「整数型のnumという名前の変数」を宣言できます。",
+      "vi": "Bằng cách viết chương trình như trên có thể khai báo \"biến có tên num kiểu số nguyên\".",
+      "en": "By writing program as above, can declare 'variable named num of integer type.'",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "整数型",
+          "reading": "せいすうがた"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "宣言",
+          "reading": "せんげん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "変数",
+      "reading": "へんすう",
+      "vi": "Biến",
+      "en": "Variable",
+      "my": "ကိန်းရှင်"
+    },
+    {
+      "term": "変数の宣言",
+      "vi": "Khai báo biến",
+      "en": "Variable Declaration",
+      "my": "ကိန်းရှင် ကြေနာချက်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

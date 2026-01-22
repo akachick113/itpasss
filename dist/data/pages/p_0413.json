@@ -1,0 +1,200 @@
+{
+  "page_id": 413,
+  "image": "p_0413.png",
+  "chapter": 11,
+  "section": "11-02",
+  "page_number": 397,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "5つの役割",
+        "vi": "5 vai trò",
+        "en": "Five Roles"
+      },
+      "headers": {
+        "ja": [
+          "役割",
+          "説明"
+        ],
+        "vi": [
+          "Vai trò",
+          "Giải thích"
+        ],
+        "en": [
+          "Role",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "role": {
+            "ja": "演算",
+            "vi": "Tính toán",
+            "en": "Arithmetic"
+          },
+          "description": {
+            "ja": "データを計算すること。人間でいえば脳にあたる。演算とは、たし算やひき算などの計算のこと、「コンピュータ」は日本語では「計算機」という意味なので、演算はコンピュータの最も基本的な役割の1つ。コンピュータでは「CPU（中央処理装置）」と呼ばれる機器がこの役割を担う（p.398）。",
+            "vi": "Tính toán dữ liệu. Đối với con người, tương đương với não. Tính toán là các phép tính như cộng, trừ, v.v. Vì \"máy tính\" trong tiếng Nhật có nghĩa là \"máy tính toán\" nên tính toán là một trong những vai trò cơ bản nhất của máy tính. Trong máy tính, thiết bị gọi là \"CPU (bộ xử lý trung tâm)\" đảm nhận vai trò này (trang 398).",
+            "en": "Calculating data. Equivalent to brain in humans. Arithmetic means calculations like addition and subtraction. Since 'computer' in Japanese means 'calculator,' arithmetic is one of computer's most basic roles. In computers, device called 'CPU (Central Processing Unit)' handles this role (p.398)."
+          }
+        },
+        {
+          "role": {
+            "ja": "制御",
+            "vi": "Điều khiển",
+            "en": "Control"
+          },
+          "description": {
+            "ja": "他の役割（演算、記憶、入力、出力）を担う装置をコントロール（制御）すること。人間でいえば脳にあたる。司令塔のような役割。コンピュータでは、CPUがこの役割を担う。",
+            "vi": "Điều khiển (control) các thiết bị đảm nhận các vai trò khác (tính toán, ghi nhớ, nhập, xuất). Đối với con người, tương đương với não. Vai trò giống như tháp chỉ huy. Trong máy tính, CPU đảm nhận vai trò này.",
+            "en": "Controlling devices handling other roles (arithmetic, memory, input, output). Equivalent to brain in humans. Role like command tower. In computers, CPU handles this role."
+          }
+        },
+        {
+          "role": {
+            "ja": "記憶",
+            "vi": "Ghi nhớ",
+            "en": "Memory"
+          },
+          "description": {
+            "ja": "データを覚えておくこと。人間でいえば脳にあたる。コンピュータでは、「主記憶装置」「ハードディスク」「SSD」などがこの役割を担う（p.402）。",
+            "vi": "Ghi nhớ dữ liệu. Đối với con người, tương đương với não. Trong máy tính, \"bộ nhớ chính\", \"ổ đĩa cứng\", \"SSD\", v.v. đảm nhận vai trò này (trang 402).",
+            "en": "Remembering data. Equivalent to brain in humans. In computers, 'main memory,' 'hard disk,' 'SSD,' etc. handle this role (p.402)."
+          }
+        },
+        {
+          "role": {
+            "ja": "入力",
+            "vi": "Nhập",
+            "en": "Input"
+          },
+          "description": {
+            "ja": "データを入れること。人間でいえば目、耳、鼻、口、皮膚の五感にあたる。コンピュータでは「キーボード」や「マウス」などがこの役割を担う（p.409）。",
+            "vi": "Nhập dữ liệu. Đối với con người, tương đương với năm giác quan: mắt, tai, mũi, miệng, da. Trong máy tính, \"bàn phím\" và \"chuột\", v.v. đảm nhận vai trò này (trang 409).",
+            "en": "Inputting data. Equivalent to five senses in humans: eyes, ears, nose, mouth, skin. In computers, 'keyboard' and 'mouse,' etc. handle this role (p.409)."
+          }
+        },
+        {
+          "role": {
+            "ja": "出力",
+            "vi": "Xuất",
+            "en": "Output"
+          },
+          "description": {
+            "ja": "データを表示すること。人間でいえば口などにあたる。コンピュータでは「ディスプレイ」や「プリンター」などがこの役割を担う（p.410）。",
+            "vi": "Hiển thị dữ liệu. Đối với con người, tương đương với miệng, v.v. Trong máy tính, \"màn hình\" và \"máy in\", v.v. đảm nhận vai trò này (trang 410).",
+            "en": "Displaying data. Equivalent to mouth, etc. in humans. In computers, 'display' and 'printer,' etc. handle this role (p.410)."
+          }
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "コンピュータの5つの役割",
+        "vi": "5 vai trò của máy tính",
+        "en": "Five Roles of Computer"
+      },
+      "description": {
+        "ja": "データの流れ：入力（キーボード）→記憶（主記憶装置）→演算・制御（CPU）→出力（ディスプレイ）。CPUは制御と演算を担当し、他のすべての装置を制御する",
+        "vi": "Luồng dữ liệu: Nhập (bàn phím) → Ghi nhớ (bộ nhớ chính) → Tính toán và điều khiển (CPU) → Xuất (màn hình). CPU đảm nhận điều khiển và tính toán, điều khiển tất cả các thiết bị khác",
+        "en": "Data flow: Input (keyboard) → Memory (main memory) → Arithmetic & Control (CPU) → Output (display). CPU handles control and arithmetic, controls all other devices"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "それぞれの役割については次項以降で詳しく解説していくので、この段落ではひとまず「コンピュータの各装置の役割は5種類に分類できるのだな」ということだけ覚えておいてください。入力、演算、記憶、出力の4つは人間の情報処理の仕組みと似ているので覚えやすいと思います。制御は少しイメージしづらいかもしれません。",
+      "vi": "Mỗi vai trò sẽ được giải thích chi tiết trong các phần tiếp theo, vì vậy trong đoạn này, trước tiên hãy nhớ rằng \"vai trò của mỗi thiết bị máy tính có thể được phân loại thành 5 loại\". Nhập, tính toán, ghi nhớ, xuất 4 cái giống với cơ chế xử lý thông tin của con người nên tôi nghĩ dễ nhớ. Điều khiển có thể hơi khó hình dung.",
+      "en": "Each role will be explained in detail in following sections, so for now just remember 'computer device roles can be classified into 5 types.' Input, arithmetic, memory, output 4 are similar to human information processing mechanism so think easy to remember. Control may be a bit hard to imagine.",
+      "terms": [
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "次項以降",
+          "reading": "じこういこう"
+        },
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "段落",
+          "reading": "だんらく"
+        },
+        {
+          "kanji": "各装置",
+          "reading": "かくそうち"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "演算",
+          "reading": "えんざん"
+        },
+        {
+          "kanji": "記憶",
+          "reading": "きおく"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "情報処理",
+          "reading": "じょうほうしょり"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "似",
+          "reading": "じ"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "制御",
+          "reading": "せいぎょ"
+        },
+        {
+          "kanji": "少",
+          "reading": "すく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

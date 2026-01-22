@@ -1,0 +1,135 @@
+{
+    "page_id": 291,
+    "image": "p_0291.png",
+    "chapter": 7,
+    "section": "practice",
+    "page_number": 275,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "7-8",
+            "year": "平成29年度",
+            "question": {
+                "ja": "プロジェクトに参加するメンバーの適切な配置を検討するために、明確にする必要があるものはどれか。",
+                "vi": "Để xem xét bố trí phù hợp thành viên tham gia dự án, cần làm rõ điều gì?",
+                "en": "To consider appropriate placement of project members, what needs to be clarified?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. コスト見積りの方法",
+                    "vi": "ア. Phương pháp ước tính chi phí",
+                    "en": "ア. Cost estimation method"
+                },
+                {
+                    "ja": "イ. 作業進捗の報告方法",
+                    "vi": "イ. Phương pháp báo cáo tiến độ công việc",
+                    "en": "イ. Work progress reporting method"
+                },
+                {
+                    "ja": "ウ. 成果物の受入基準",
+                    "vi": "ウ. Tiêu chuẩn tiếp nhận thành quả",
+                    "en": "ウ. Deliverable acceptance criteria"
+                },
+                {
+                    "ja": "エ. 割り当てる役割と責任",
+                    "vi": "エ. Vai trò và trách nhiệm được phân công",
+                    "en": "エ. Assigned roles and responsibilities"
+                }
+            ],
+            "correct_answer": "エ"
+        },
+        {
+            "type": "exam_question",
+            "number": "7-9",
+            "year": "平成21年度",
+            "question": {
+                "ja": "あるプロジェクトの関係者6人が、それぞれ1対1で情報の伝達を行う必要があるとき、情報の伝達を行うために必要な経路の数は少なくとも幾つになるか。",
+                "vi": "Khi 6 người liên quan đến dự án cần truyền đạt thông tin 1-1 với nhau, số đường truyền thông tin cần thiết tối thiểu là bao nhiêu?",
+                "en": "When 6 project stakeholders need to communicate information 1-on-1 with each other, what's the minimum number of communication paths needed?"
+            },
+            "choices": [
+                "ア. 6",
+                "イ. 9",
+                "ウ. 15",
+                "エ. 30"
+            ],
+            "correct_answer": "ウ"
+        },
+        {
+            "type": "exam_question",
+            "number": "7-10",
+            "year": "平成28年度",
+            "question": {
+                "ja": "システム開発プロジェクトにおけるステークホルダに関する記述のうち、適切なものはどれか。",
+                "vi": "Trong các mô tả về Stakeholder trong dự án phát triển hệ thống, mô tả nào thích hợp?",
+                "en": "Among descriptions about Stakeholders in system development projects, which is appropriate?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. システム開発プロジェクトに参画するプロジェクトチームのメンバーはステークホルダである。",
+                    "vi": "ア. Thành viên Project Team tham gia dự án phát triển hệ thống là Stakeholder.",
+                    "en": "ア. Project Team members participating in system development project are Stakeholders."
+                },
+                {
+                    "ja": "イ. システム開発プロジェクトの実行又は完了によって、売上の増加やシステム化による作業効率向上などの恩恵を受ける人及び組織だけがステークホルダである。",
+                    "vi": "イ. Chỉ những người và tổ chức nhận được lợi ích như tăng doanh số hoặc nâng cao hiệu suất công việc nhờ hệ thống hóa từ việc thực hiện hoặc hoàn thành dự án phát triển hệ thống mới là Stakeholder.",
+                    "en": "イ. Only people and organizations receiving benefits like sales increase or work efficiency improvement from system execution or project completion are Stakeholders."
+                },
+                {
+                    "ja": "ウ. システム開発プロジェクトの費用を負担するプロジェクトスポンサだけがステークホルダである。",
+                    "vi": "ウ. Chỉ Project Sponsor chịu chi phí dự án phát triển hệ thống mới là Stakeholder.",
+                    "en": "ウ. Only Project Sponsor bearing system development project costs is Stakeholder."
+                },
+                {
+                    "ja": "エ. システム開発プロジェクトのプロジェクトマネージャ自身はステークホルダに含まれない。",
+                    "vi": "エ. Bản thân Project Manager của dự án phát triển hệ thống không thuộc Stakeholder.",
+                    "en": "エ. Project Manager themselves is not included in Stakeholders."
+                }
+            ],
+            "correct_answer": "ア"
+        },
+        {
+            "type": "exam_question",
+            "number": "7-11",
+            "year": "令和6年度",
+            "question": {
+                "ja": "プロジェクトに該当する事例として、適切なものだけを全て挙げたものはどれか。",
+                "vi": "Ví dụ nào thích hợp là Project? Chọn tất cả những cái thích hợp.",
+                "en": "Which examples are appropriate as Projects? Select all appropriate ones."
+            },
+            "sub_choices": [
+                {
+                    "ja": "a. 会社合併に伴う新組織への移行",
+                    "vi": "a. Chuyển đổi sang tổ chức mới theo sáp nhập công ty",
+                    "en": "a. Transition to new organization due to company merger"
+                },
+                {
+                    "ja": "b. 社内システムの問合せや不具合を受け付けるサービスデスクの運用",
+                    "vi": "b. Vận hành Service Desk tiếp nhận yêu cầu và lỗi của hệ thống nội bộ",
+                    "en": "b. Operating Service Desk accepting inquiries and defects for internal system"
+                },
+                {
+                    "ja": "c. 新規の経理システム導入に向けたプログラム開発",
+                    "vi": "c. Phát triển chương trình hướng đến triển khai hệ thống kế toán mới",
+                    "en": "c. Program development for new accounting system implementation"
+                },
+                {
+                    "ja": "d. 毎年度末に実施する会計処理",
+                    "vi": "d. Xử lý kế toán thực hiện cuối mỗi năm tài chính",
+                    "en": "d. Accounting processing done at end of each fiscal year"
+                }
+            ],
+            "choices": [
+                "ア. a, c",
+                "イ. c",
+                "ウ. b, c",
+                "エ. b, d"
+            ],
+            "correct_answer": "ア"
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 4
+    }
+}

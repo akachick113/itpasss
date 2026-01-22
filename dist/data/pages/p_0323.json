@@ -1,0 +1,329 @@
+{
+  "page_id": 323,
+  "image": "p_0323.png",
+  "chapter": 8,
+  "section": "08-06",
+  "page_number": 307,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "08-06",
+      "title": {
+        "ja": "内部統制",
+        "vi": "Internal Control",
+        "en": "Internal Control"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "自分でもきちんと守る",
+        "vi": "Tự mình cũng phải bảo vệ đúng",
+        "en": "Protect Properly Yourself Too"
+      },
+      "content": {
+        "ja": "利害関係のない第三者に企業の状況を調査してもらうこと（システム監査）も大切です。しかし、地域の消防団のように、自分たちの力で企業を守り、良くしていくことも大切です。",
+        "vi": "Việc để bên thứ ba không có quan hệ lợi ích điều tra tình hình doanh nghiệp (System Audit) cũng quan trọng. Tuy nhiên, giống như đội cứu hỏa địa phương, tự bảo vệ và cải thiện doanh nghiệp bằng sức của mình cũng quan trọng.",
+        "en": "Having neutral third party investigate company situation (System Audit) is important. However, like local fire brigade, protecting and improving company by own strength is also important."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "前項ではシステム監査について解説しました。システム監査とは「リスクに適切に対応しているかを評価すること」でした。このようなシステム監査の仕組みはとても重要です。",
+      "vi": "Phần trước đã giải thích về System Audit. System Audit là \"đánh giá xem có ứng phó thích hợp với Risk không\". Cơ chế System Audit như vậy rất quan trọng.",
+      "en": "Previous section explained System Audit. System Audit was 'evaluating whether responding appropriately to Risks.' Such System Audit mechanism is very important.",
+      "terms": [
+        {
+          "kanji": "前項",
+          "reading": "ぜんこう"
+        },
+        {
+          "kanji": "監査",
+          "reading": "かんさ"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "適切",
+          "reading": "てきせつ"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "しかし、それだけでは不十分です。経営者や従業員の自助努力によって企業をより良くする活動も必要です。こういった社内の人間が行う活動のことを「内部統制」といいます。本項では次の4つの用語を柱に解説します。",
+      "vi": "Tuy nhiên, chỉ vậy là không đủ. Cũng cần hoạt động cải thiện doanh nghiệp bằng nỗ lực tự thân của ban lãnh đạo và nhân viên. Hoạt động do người trong công ty thực hiện như vậy gọi là \"Internal Control\". Phần này sẽ giải thích dựa trên 4 thuật ngữ sau.",
+      "en": "However, that alone is insufficient. Activities to improve company through self-help efforts of management and employees are also needed. Such activities done by internal people are called 'Internal Control.' This section explains based on following 4 terms.",
+      "terms": [
+        {
+          "kanji": "不十分",
+          "reading": "ふじゅうぶん"
+        },
+        {
+          "kanji": "経営者",
+          "reading": "けいえいしゃ"
+        },
+        {
+          "kanji": "従業員",
+          "reading": "じゅうぎょういん"
+        },
+        {
+          "kanji": "自助努力",
+          "reading": "じじょどりょく"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "活動",
+          "reading": "かつどう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "内部統制",
+          "reading": "ないぶとうせい"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "柱",
+          "reading": "はしら"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "内部統制に関する4つの用語",
+        "vi": "4 thuật ngữ liên quan đến Internal Control",
+        "en": "4 Terms Related to Internal Control"
+      },
+      "headers": {
+        "ja": [
+          "関連用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ liên quan",
+          "Giải thích"
+        ],
+        "en": [
+          "Related Term",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "term": {
+            "ja": "コーポレートガバナンス",
+            "vi": "Corporate Governance",
+            "en": "Corporate Governance"
+          },
+          "description": {
+            "ja": "ステークホルダが経営を監視すること",
+            "vi": "Stakeholder giám sát kinh doanh",
+            "en": "Stakeholders monitoring management"
+          }
+        },
+        {
+          "term": {
+            "ja": "内部統制",
+            "vi": "Internal Control",
+            "en": "Internal Control"
+          },
+          "description": {
+            "ja": "社員全員で業務を健全化すること",
+            "vi": "Toàn bộ nhân viên làm lành mạnh nghiệp vụ",
+            "en": "All employees making operations healthy"
+          }
+        },
+        {
+          "term": {
+            "ja": "ITガバナンス",
+            "vi": "IT Governance",
+            "en": "IT Governance"
+          },
+          "description": {
+            "ja": "ITを使ったコーポレートガバナンス",
+            "vi": "Corporate Governance sử dụng IT",
+            "en": "Corporate Governance using IT"
+          }
+        },
+        {
+          "term": {
+            "ja": "IT統制",
+            "vi": "IT Control",
+            "en": "IT Control"
+          },
+          "description": {
+            "ja": "ITを使った内部統制",
+            "vi": "Internal Control sử dụng IT",
+            "en": "Internal Control using IT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "コーポレートガバナンス",
+      "reading": "こーぽれーとがばなんす",
+      "vi": "Corporate Governance",
+      "en": "Corporate Governance"
+    },
+    {
+      "type": "paragraph",
+      "ja": "コーポレートガバナンス（企業統治）とは、株主や社外取締役などを中心としたステークホルダが、経営者の経営を監視することです。一般的には、企業を健全に経営するのは経営者の役割です。しかし実際には、経営者が企業を私物のように扱うことで起こる不祥事が後を絶ちません。",
+      "vi": "Corporate Governance (Quản trị doanh nghiệp) là việc Stakeholder như cổ đông hoặc giám đốc bên ngoài giám sát kinh doanh của ban lãnh đạo. Nói chung, vai trò của ban lãnh đạo là kinh doanh doanh nghiệp lành mạnh. Tuy nhiên thực tế, các vụ bê bối do ban lãnh đạo đối xử doanh nghiệp như tài sản cá nhân không ngừng xảy ra.",
+      "en": "Corporate Governance is Stakeholders like shareholders or external directors monitoring management's operations. Generally, management's role is to run company soundly. However, in reality, scandals from management treating company as personal property continue to occur.",
+      "terms": [
+        {
+          "kanji": "企業統治",
+          "reading": "きぎょうとうち"
+        },
+        {
+          "kanji": "株主",
+          "reading": "かぶぬし"
+        },
+        {
+          "kanji": "社外取締役",
+          "reading": "しゃがいとりしまりやく"
+        },
+        {
+          "kanji": "中心",
+          "reading": "ちゅうしん"
+        },
+        {
+          "kanji": "経営者",
+          "reading": "けいえいしゃ"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "監視",
+          "reading": "かんし"
+        },
+        {
+          "kanji": "一般的",
+          "reading": "いっぱんてき"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "健全",
+          "reading": "けんぜん"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "私物",
+          "reading": "しぶつ"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "起",
+          "reading": "お"
+        },
+        {
+          "kanji": "不祥事",
+          "reading": "ふしょうじ"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "絶",
+          "reading": "ぜつ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "内部統制",
+      "reading": "ないぶとうせい",
+      "romaji": "Naibu Tousei",
+      "vi": "Kiểm soát nội bộ",
+      "en": "Internal Control",
+      "my": "အတွင်းပိုင်း ထိန်းချုပ်မှု"
+    },
+    {
+      "kanji": "コーポレートガバナンス",
+      "reading": "こーぽれーとがばなんす",
+      "romaji": "Corporate Governance",
+      "vi": "Quản trị doanh nghiệp",
+      "en": "Corporate Governance",
+      "my": "ကော်ပိုရိတ် ဂသာနန့်"
+    }
+  ],
+  "meta": {
+    "has_illustration": true,
+    "has_table": true
+  }
+}

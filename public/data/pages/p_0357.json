@@ -1,0 +1,140 @@
+{
+    "page_id": 357,
+    "image": "p_0357.png",
+    "chapter": 9,
+    "section": "answers",
+    "page_number": 341,
+    "content": [
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "解答・解説",
+                "vi": "Đáp án và Giải thích",
+                "en": "Answers and Explanations"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "9-4",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "スタックとは、最後に格納したデータを最初に取り出すデータ構造です。",
+                "vi": "Stack là cấu trúc dữ liệu lấy ra dữ liệu lưu cuối cùng trước tiên.",
+                "en": "Stack is data structure retrieving last stored data first."
+            },
+            "choices_analysis": [
+                {
+                    "choice": "ア",
+                    "ja": "ランダムアクセスの説明です。",
+                    "vi": "Giải thích về Random Access.",
+                    "en": "This describes Random Access."
+                },
+                {
+                    "choice": "ウ",
+                    "ja": "キューの説明です。",
+                    "vi": "Giải thích về Queue.",
+                    "en": "This describes Queue."
+                },
+                {
+                    "choice": "エ",
+                    "ja": "優先度付きキューの説明です。",
+                    "vi": "Giải thích về Priority Queue.",
+                    "en": "This describes Priority Queue."
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "9-5",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "①から④までの手続きがアルゴリズムです。このアルゴリズムをフローチャートに直すと右図のようになります。",
+                "vi": "Thủ tục từ ① đến ④ là thuật toán. Khi chuyển thuật toán này thành flowchart sẽ như hình bên phải.",
+                "en": "Procedure from ① to ④ is algorithm. Converting this algorithm to flowchart shows right diagram."
+            },
+            "detail": {
+                "ja": "実際の試験では時間がないので、フローチャートは描く必要はありませんが、トレース表はできるだけ書くようにしてください。トレース表を書くと、処理結果を正確に算出できます。",
+                "vi": "Trong kỳ thi thực tế không có thời gian nên không cần vẽ flowchart, nhưng hãy cố gắng viết bảng trace. Khi viết bảng trace, có thể tính chính xác kết quả xử lý.",
+                "en": "In actual exam there's no time so no need to draw flowchart, but try to write trace table. Writing trace table allows accurate calculation of processing results."
+            },
+            "trace_table": {
+                "headers": [
+                    "手続",
+                    "x",
+                    "y"
+                ],
+                "rows": [
+                    [
+                        "①",
+                        "2",
+                        "3"
+                    ],
+                    [
+                        "②",
+                        "2",
+                        "2"
+                    ],
+                    [
+                        "③",
+                        "4",
+                        "2"
+                    ],
+                    [
+                        "②",
+                        "4",
+                        "1"
+                    ],
+                    [
+                        "③",
+                        "5",
+                        "1"
+                    ]
+                ],
+                "note": {
+                    "ja": "y=2なので②へ、y=1なので終了",
+                    "vi": "y=2 nên đến ②, y=1 nên kết thúc",
+                    "en": "y=2 so go to ②, y=1 so end"
+                }
+            },
+            "result": {
+                "ja": "処理が終了した時点でxが「5」であることがわかります。",
+                "vi": "Có thể thấy khi xử lý kết thúc, x là \"5\".",
+                "en": "Can see that when processing ends, x is '5.'"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "9-6",
+            "correct_answer": "ウ",
+            "explanation": {
+                "ja": "HTMLはWebページを記述するための言語です。タグによって文書の論理構造などを表現します。",
+                "vi": "HTML là ngôn ngữ để mô tả trang web. Biểu diễn cấu trúc logic của tài liệu bằng tag.",
+                "en": "HTML is language for describing web pages. Expresses document logical structure with tags."
+            },
+            "choices_analysis": [
+                {
+                    "choice": "ア",
+                    "ja": "HTMLで記述されたテキストをブラウザに転送するためのプロトコルはHTTPです。FTPはファイル転送のためのプロトコルです。",
+                    "vi": "Giao thức để chuyển văn bản HTML đến trình duyệt là HTTP. FTP là giao thức để chuyển file.",
+                    "en": "Protocol for transferring HTML text to browser is HTTP. FTP is file transfer protocol."
+                },
+                {
+                    "choice": "イ",
+                    "ja": "HTMLがSGMLというマークアップ言語を元に開発された言語です。",
+                    "vi": "HTML là ngôn ngữ được phát triển dựa trên ngôn ngữ đánh dấu SGML.",
+                    "en": "HTML is language developed based on SGML markup language."
+                },
+                {
+                    "choice": "エ",
+                    "ja": "HTMLはSGMLというマークアップ言語の書き方がシンプルになるように開発されました。",
+                    "vi": "HTML được phát triển để cách viết ngôn ngữ đánh dấu SGML trở nên đơn giản hơn.",
+                    "en": "HTML was developed so SGML markup language writing became simpler."
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 3
+    }
+}

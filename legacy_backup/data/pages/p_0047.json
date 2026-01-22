@@ -1,0 +1,439 @@
+{
+  "page_id": 47,
+  "image": "p_0047.png",
+  "chapter": 1,
+  "section": "01-05",
+  "page_number": 31,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "散布図と回帰分析",
+      "reading": "さんぷずとかいきぶんせき",
+      "vi": "Biểu đồ phân tán và Phân tích hồi quy",
+      "en": "Scatter Plot and Regression Analysis",
+      "my": "Scatter Plot နှင့် Regression Analysis"
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "散布図がよく出題される！",
+        "vi": "Biểu đồ phân tán thường được ra đề!",
+        "en": "Scatter plot frequently appears on exams!",
+        "my": "Scatter plot ကို မကြာခဏ မေးလေ့ရှိသည်!",
+        "terms": [
+          {
+            "kanji": "散布図",
+            "reading": "さんぷず"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          }
+        ]
+      },
+      "content": {
+        "ja": "散布図は試験でよく出題されるので覚えておきましょう。",
+        "vi": "Biểu đồ phân tán thường được ra đề trong thi nên hãy ghi nhớ.",
+        "en": "Remember scatter plots as they frequently appear on exams.",
+        "my": "Scatter plots ကို မှတ်သားပါ၊ စာမေးပွဲတွင် မကြာခဏ ထွက်လေ့ရှိသည်။",
+        "terms": [
+          {
+            "kanji": "散布図",
+            "reading": "さんぷず"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "散布図とは、2種類のデータの関係性を表す図です。散布図を使うと、2つのデータの間にどのような関係性があるか（相関関係）を確認できます。",
+      "vi": "Biểu đồ phân tán là biểu đồ thể hiện mối quan hệ giữa 2 loại dữ liệu. Sử dụng biểu đồ phân tán, có thể xác nhận mối quan hệ (tương quan) giữa 2 dữ liệu như thế nào.",
+      "en": "A scatter plot is a diagram that shows the relationship between 2 types of data. Using a scatter plot, you can confirm what kind of relationship (correlation) exists between 2 data sets.",
+      "my": "Scatter plot သည် data အမျိုးအစား ၂ ခုကြား ဆက်နွယ်မှုကို ပြသသော ပုံကြမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "散布図",
+          "reading": "さんぷず"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "関係性",
+          "reading": "かんけいせい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "相関関係",
+          "reading": "そうかんかんけい"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "回帰分析とは、「回帰直線」（散布図内の点が多く集まっている所に引いた直線）を使って、過去のデータがどのような原因によって引き起こされているのかを分析し、将来を予測する手法です。2種類のデータに相関関係があれば、将来も高い確率での相関関係が当てはまるだろうと予測できます。例えば、ビールの売上は暑い夏に伸びます。つまり、ビールの販売量と気温には「正の相関」があるといえます。",
+      "vi": "Phân tích hồi quy là phương pháp sử dụng \"đường hồi quy\" (đường thẳng vẽ qua nơi các điểm trong biểu đồ phân tán tập trung nhiều) để phân tích nguyên nhân gây ra dữ liệu quá khứ và dự đoán tương lai. Nếu 2 loại dữ liệu có tương quan, có thể dự đoán rằng tương quan đó cũng sẽ áp dụng trong tương lai với xác suất cao. Ví dụ, doanh số bia tăng vào mùa hè nóng. Nghĩa là, có thể nói lượng bán bia và nhiệt độ có \"tương quan dương\".",
+      "en": "Regression analysis is a method that uses a \"regression line\" (a line drawn through where many points in the scatter plot gather) to analyze what causes past data and predict the future. If 2 types of data have correlation, you can predict that the correlation will likely apply in the future with high probability. For example, beer sales increase in hot summers. In other words, beer sales and temperature have a \"positive correlation.\"",
+      "my": "Regression analysis သည် scatter plot ရှိ အမှတ်များ စုဝေးရာနေရာမှတဆင့် \"regression line\" ရေးဆွဲ၍ အတိတ် data ၏ အကြောင်းရင်းများကို ခွဲခြမ်းစိတ်ဖြာပြီး အနာဂတ်ကို ခန့်မှန်းသော နည်းလမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "回帰分析",
+          "reading": "かいきぶんせき"
+        },
+        {
+          "kanji": "回帰直線",
+          "reading": "かいきちょくせん"
+        },
+        {
+          "kanji": "散布図内",
+          "reading": "さんぷずない"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "所",
+          "reading": "ところ"
+        },
+        {
+          "kanji": "引",
+          "reading": "ひき"
+        },
+        {
+          "kanji": "直線",
+          "reading": "ちょくせん"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "過去",
+          "reading": "かこ"
+        },
+        {
+          "kanji": "原因",
+          "reading": "げんいん"
+        },
+        {
+          "kanji": "起",
+          "reading": "き"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "将来",
+          "reading": "しょうらい"
+        },
+        {
+          "kanji": "予測",
+          "reading": "よそく"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "相関関係",
+          "reading": "そうかんかんけい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "確率",
+          "reading": "かくりつ"
+        },
+        {
+          "kanji": "当",
+          "reading": "とう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "売上",
+          "reading": "うりあげ"
+        },
+        {
+          "kanji": "暑",
+          "reading": "しょ"
+        },
+        {
+          "kanji": "夏",
+          "reading": "なつ"
+        },
+        {
+          "kanji": "伸",
+          "reading": "しん"
+        },
+        {
+          "kanji": "販売量",
+          "reading": "はんばいりょう"
+        },
+        {
+          "kanji": "気温",
+          "reading": "きおん"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "相関",
+          "reading": "そうかん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、ITパスポート試験では、散布図のことが、とにかくよく出題されます。必ず覚えておいてください。",
+      "vi": "Lưu ý rằng trong kỳ thi IT Passport, biểu đồ phân tán được ra đề rất thường xuyên. Hãy nhớ kỹ.",
+      "en": "Note that in the IT Passport exam, scatter plots are tested very frequently. Be sure to remember this.",
+      "my": "IT Passport စာမေးပွဲတွင် scatter plots ကို အလွန်မကြာခဏ မေးကြောင်း သတိပြုပါ။ ဒါကို သေချာမှတ်သားပါ။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "散布図",
+          "reading": "さんぷず"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・パレート図：棒グラフと折れ線グラフを組み合わせたグラフ。最も重要なデータが横軸の左端に記載されるため、重要な項目を一目で確認できる\n・ABC分析：重要度で3つのグループにランク分けする\n・レーダーチャート：放射状の図\n・散布図：相関関係は「正の相関」「負の相関」「相関なし」の3つ\n・回帰分析：過去を分析して、将来を予測する",
+        "vi": "・Biểu đồ Pareto: Đồ thị kết hợp biểu đồ cột và biểu đồ đường. Dữ liệu quan trọng nhất ở bên trái trục hoành, có thể xác nhận mục quan trọng chỉ trong một cái nhìn\n・Phân tích ABC: Phân loại thành 3 nhóm theo mức độ quan trọng\n・Radar Chart: Biểu đồ hình tỏa tròn\n・Biểu đồ phân tán: Tương quan có 3 loại: \"tương quan dương\", \"tương quan âm\", \"không tương quan\"\n・Phân tích hồi quy: Phân tích quá khứ và dự đoán tương lai",
+        "en": "・Pareto chart: Graph combining bar and line graphs. Most important data on left of horizontal axis, easy to identify\n・ABC analysis: Rank into 3 groups by importance\n・Radar chart: Radial diagram\n・Scatter plot: 3 types of correlation: \"positive\", \"negative\", \"no correlation\"\n・Regression analysis: Analyze past to predict future",
+        "my": "・Pareto chart: bar နှင့် line graphs ပေါင်းစပ်ထားသော ဂရပ်",
+        "terms": [
+          {
+            "kanji": "図",
+            "reading": "ず"
+          },
+          {
+            "kanji": "棒",
+            "reading": "ぼう"
+          },
+          {
+            "kanji": "折",
+            "reading": "おり"
+          },
+          {
+            "kanji": "線",
+            "reading": "せん"
+          },
+          {
+            "kanji": "組",
+            "reading": "くみ"
+          },
+          {
+            "kanji": "合",
+            "reading": "ごう"
+          },
+          {
+            "kanji": "最",
+            "reading": "さい"
+          },
+          {
+            "kanji": "重要",
+            "reading": "じゅうよう"
+          },
+          {
+            "kanji": "横軸",
+            "reading": "よこじく"
+          },
+          {
+            "kanji": "左端",
+            "reading": "ひだりはし"
+          },
+          {
+            "kanji": "記載",
+            "reading": "きさい"
+          },
+          {
+            "kanji": "項目",
+            "reading": "こうもく"
+          },
+          {
+            "kanji": "一目",
+            "reading": "いちもく"
+          },
+          {
+            "kanji": "確認",
+            "reading": "かくにん"
+          },
+          {
+            "kanji": "分析",
+            "reading": "ぶんせき"
+          },
+          {
+            "kanji": "重要度",
+            "reading": "じゅうようど"
+          },
+          {
+            "kanji": "分",
+            "reading": "ふん"
+          },
+          {
+            "kanji": "放射状",
+            "reading": "ほうしゃじょう"
+          },
+          {
+            "kanji": "散布図",
+            "reading": "さんぷず"
+          },
+          {
+            "kanji": "相関関係",
+            "reading": "そうかんかんけい"
+          },
+          {
+            "kanji": "正",
+            "reading": "せい"
+          },
+          {
+            "kanji": "相関",
+            "reading": "そうかん"
+          },
+          {
+            "kanji": "負",
+            "reading": "ふ"
+          },
+          {
+            "kanji": "回帰分析",
+            "reading": "かいきぶんせき"
+          },
+          {
+            "kanji": "過去",
+            "reading": "かこ"
+          },
+          {
+            "kanji": "将来",
+            "reading": "しょうらい"
+          },
+          {
+            "kanji": "予測",
+            "reading": "よそく"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "散布図",
+      "reading": "さんぷず",
+      "romaji": "Sanpuzu",
+      "vi": "Biểu đồ phân tán",
+      "en": "Scatter Plot",
+      "my": "Scatter Plot"
+    },
+    {
+      "kanji": "回帰分析",
+      "reading": "かいきぶんせき",
+      "romaji": "Kaiki Bunseki",
+      "vi": "Phân tích hồi quy",
+      "en": "Regression Analysis",
+      "my": "Regression ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    },
+    {
+      "kanji": "相関関係",
+      "reading": "そうかんかんけい",
+      "romaji": "Soukan Kankei",
+      "vi": "Mối tương quan",
+      "en": "Correlation",
+      "my": "ဆက်နွယ်မှု"
+    },
+    {
+      "kanji": "正の相関",
+      "reading": "せいのそうかん",
+      "romaji": "Sei no Soukan",
+      "vi": "Tương quan dương",
+      "en": "Positive Correlation",
+      "my": "အပြုဆက်နွယ်မှု"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "diagram_type": "scatter_plot"
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "page_id": 174,
+  "image": "p_0174.png",
+  "chapter": 4,
+  "section": "04-04",
+  "page_number": 158,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "生産管理関連の用語",
+      "reading": "せいさんかんりかんれんのようご",
+      "vi": "Thuật ngữ liên quan quản lý sản xuất",
+      "en": "Production Management Related Terms"
+    },
+    {
+      "type": "paragraph",
+      "ja": "生産管理の計算問題は上記のようなシンプルな内容ばかりではありません。場合によっては「リードタイム」や「不良率」「歩留り率」などが記載され、それらも考慮して生産個数を求めなければならない場合があります。各用語の意味を覚えておいてください。",
+      "vi": "Bài toán tính toán quản lý sản xuất không chỉ đơn giản như trên. Đôi khi có Lead Time, Tỷ lệ lỗi, Tỷ lệ thu hồi và phải xem xét chúng để tính số lượng sản xuất. Hãy nhớ ý nghĩa các thuật ngữ.",
+      "en": "Production management calculations aren't always this simple. Sometimes 'lead time', 'defect rate', 'yield rate' are included and must be considered when calculating production quantities. Remember each term's meaning.",
+      "my": "ထုတ်လုပ်ရေးစီမံခန့်ခွဲမှု တွက်ချက်မှုများသည် ဤမျှ ရိုးရှင်းသည်မဟုတ်ပါ။",
+      "terms": [
+        {
+          "kanji": "生産管理",
+          "reading": "せいさんかんり"
+        },
+        {
+          "kanji": "計算問題",
+          "reading": "けいさんもんだい"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "不良率",
+          "reading": "ふりょうりつ"
+        },
+        {
+          "kanji": "歩留",
+          "reading": "ぶどまり"
+        },
+        {
+          "kanji": "率",
+          "reading": "りつ"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "考慮",
+          "reading": "こうりょ"
+        },
+        {
+          "kanji": "生産個数",
+          "reading": "せいさんこすう"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "各用語",
+          "reading": "かくようご"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "リードタイム",
+      "vi": "Lead Time",
+      "en": "Lead Time"
+    },
+    {
+      "type": "paragraph",
+      "ja": "リードタイム（Lead Time）とは、所要時間です。生産のリードタイムは「生産工程に着手してから完了するまでの時間」です。また、調達のリードタイムは「発注から納品までにかかる時間」です。",
+      "vi": "Lead Time là thời gian cần thiết. Lead Time sản xuất là thời gian từ khi bắt đầu quy trình sản xuất đến khi hoàn thành. Lead Time mua hàng là thời gian từ đặt hàng đến giao hàng.",
+      "en": "Lead Time is required time. Production lead time is 'time from starting production process to completion'. Procurement lead time is 'time from ordering to delivery'.",
+      "my": "Lead Time သည် လိုအပ်သောအချိန်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "所要時間",
+          "reading": "しょようじかん"
+        },
+        {
+          "kanji": "生産",
+          "reading": "せいさん"
+        },
+        {
+          "kanji": "生産工程",
+          "reading": "せいさんこうてい"
+        },
+        {
+          "kanji": "着手",
+          "reading": "ちゃくしゅ"
+        },
+        {
+          "kanji": "完了",
+          "reading": "かんりょう"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "調達",
+          "reading": "ちょうたつ"
+        },
+        {
+          "kanji": "発注",
+          "reading": "はっちゅう"
+        },
+        {
+          "kanji": "納品",
+          "reading": "のうひん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "不良率",
+      "vi": "Tỷ lệ lỗi",
+      "en": "Defect Rate"
+    },
+    {
+      "type": "paragraph",
+      "ja": "不良率とは、欠陥のある製品の割合です。例えば、100個の製品を生産して、8個の製品に欠陥が見つかった場合、不良率は8%になります。",
+      "vi": "Tỷ lệ lỗi là tỷ lệ sản phẩm có khuyết điểm. Ví dụ, sản xuất 100 sản phẩm, phát hiện 8 sản phẩm lỗi, tỷ lệ lỗi là 8%.",
+      "en": "Defect rate is the percentage of defective products. For example, if 8 defects are found in 100 products, defect rate is 8%.",
+      "my": "Defect rate သည် ချို့ယွင်းမှုရှိသော ထုတ်ကုန်ရာခိုင်နှုန်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "不良率",
+          "reading": "ふりょうりつ"
+        },
+        {
+          "kanji": "欠陥",
+          "reading": "けっかん"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "割合",
+          "reading": "わりあい"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "個",
+          "reading": "こ"
+        },
+        {
+          "kanji": "生産",
+          "reading": "せいさん"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "歩留り率",
+      "reading": "ぶどまりりつ",
+      "vi": "Tỷ lệ thu hồi",
+      "en": "Yield Rate"
+    },
+    {
+      "type": "paragraph",
+      "ja": "歩留り率とは、欠陥のない製品の割合です。いい換えれば「良品の割合」です。不良率の逆です。例えば、100個の製品を生産して、92個が欠陥のない良品だった場合の歩留り率は92%です。不良率がわかれば、歩留り率がわかりますし、歩留り率がわかれば不良率がわかります。歩留り率は単に「歩留り」とも呼ばれます。",
+      "vi": "Tỷ lệ thu hồi là tỷ lệ sản phẩm không có khuyết điểm. Nói cách khác là tỷ lệ sản phẩm tốt. Ngược với tỷ lệ lỗi. Ví dụ, sản xuất 100 sản phẩm, 92 sản phẩm tốt không lỗi, tỷ lệ thu hồi là 92%. Nếu biết tỷ lệ lỗi thì biết tỷ lệ thu hồi và ngược lại. Tỷ lệ thu hồi còn gọi đơn giản là yield.",
+      "en": "Yield rate is the percentage of non-defective products. In other words, 'good product percentage'. Opposite of defect rate. For example, if 92 of 100 products are good, yield rate is 92%. Knowing defect rate gives yield rate and vice versa. Yield rate is also simply called 'yield'.",
+      "my": "Yield rate သည် ချို့ယွင်းမှုမရှိသော ထုတ်ကုန်ရာခိုင်နှုန်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "歩留",
+          "reading": "ぶどまり"
+        },
+        {
+          "kanji": "率",
+          "reading": "りつ"
+        },
+        {
+          "kanji": "欠陥",
+          "reading": "けっかん"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "割合",
+          "reading": "わりあい"
+        },
+        {
+          "kanji": "換",
+          "reading": "かん"
+        },
+        {
+          "kanji": "良品",
+          "reading": "りょうひん"
+        },
+        {
+          "kanji": "不良率",
+          "reading": "ふりょうりつ"
+        },
+        {
+          "kanji": "逆",
+          "reading": "ぎゃく"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "個",
+          "reading": "こ"
+        },
+        {
+          "kanji": "生産",
+          "reading": "せいさん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "単",
+          "reading": "たん"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・生産個数を求める問題が出題される\n・リードタイムとは、所要時間\n・不良率とは、欠陥のある製品の割合\n・歩留り率とは、欠陥のない製品の割合",
+        "vi": "・Có bài toán tính số lượng sản xuất\n・Lead Time là thời gian cần thiết\n・Tỷ lệ lỗi là tỷ lệ sản phẩm có khuyết điểm\n・Tỷ lệ thu hồi là tỷ lệ sản phẩm không có khuyết điểm",
+        "en": "・Problems calculating production quantities appear\n・Lead time is required time\n・Defect rate is percentage of defective products\n・Yield rate is percentage of non-defective products",
+        "my": "・ ထုတ်လုပ်မှုပမာဏ တွက်ချက်သော ပြဿနာများ ထွက်သည်",
+        "terms": [
+          {
+            "kanji": "生産個数",
+            "reading": "せいさんこすう"
+          },
+          {
+            "kanji": "求",
+            "reading": "きゅう"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "所要時間",
+            "reading": "しょようじかん"
+          },
+          {
+            "kanji": "不良率",
+            "reading": "ふりょうりつ"
+          },
+          {
+            "kanji": "欠陥",
+            "reading": "けっかん"
+          },
+          {
+            "kanji": "製品",
+            "reading": "せいひん"
+          },
+          {
+            "kanji": "割合",
+            "reading": "わりあい"
+          },
+          {
+            "kanji": "歩留",
+            "reading": "ぶどまり"
+          },
+          {
+            "kanji": "率",
+            "reading": "りつ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "問題文の用語をきちんと理解しておこう！",
+        "vi": "Hãy hiểu rõ thuật ngữ trong đề bài!",
+        "en": "Understand Problem Terms Properly!",
+        "my": "ပြဿနာ ဝေါဟာရများကို မှန်ကန်စွာ နားလည်ပါ!",
+        "terms": [
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          },
+          {
+            "kanji": "文",
+            "reading": "ぶん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験で正答を導き出すためには、問題文や選択肢に出てくる用語の意味を正しく理解しておくことが重要です。各章を行ったり来たりしながら、少しずつ、重要な用語の意味を覚えていってください。",
+        "vi": "Để tìm ra đáp án đúng trong IT Passport, điều quan trọng là hiểu đúng ý nghĩa thuật ngữ trong đề bài và đáp án. Hãy đi qua lại giữa các chương và dần dần nhớ ý nghĩa các thuật ngữ quan trọng.",
+        "en": "To find correct answers in IT Passport, it's important to correctly understand terms in problems and choices. Go back and forth between chapters and gradually remember important term meanings.",
+        "my": "IT Passport တွင် မှန်ကန်သော အဖြေများ ရှာဖွေရန် ပြဿနာများနှင့် ရွေးချယ်မှုများရှိ ဝေါဟာရများကို မှန်ကန်စွာ နားလည်ရန် အရေးကြီးသည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "正答",
+            "reading": "せいとう"
+          },
+          {
+            "kanji": "導",
+            "reading": "どう"
+          },
+          {
+            "kanji": "出",
+            "reading": "で"
+          },
+          {
+            "kanji": "問題文",
+            "reading": "もんだいぶん"
+          },
+          {
+            "kanji": "選択肢",
+            "reading": "せんたくし"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          },
+          {
+            "kanji": "意味",
+            "reading": "いみ"
+          },
+          {
+            "kanji": "正",
+            "reading": "せい"
+          },
+          {
+            "kanji": "理解",
+            "reading": "りかい"
+          },
+          {
+            "kanji": "重要",
+            "reading": "じゅうよう"
+          },
+          {
+            "kanji": "各章",
+            "reading": "かくしょう"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "来",
+            "reading": "らい"
+          },
+          {
+            "kanji": "少",
+            "reading": "すく"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "リードタイム",
+      "reading": "りーどたいむ",
+      "romaji": "Lead Time",
+      "vi": "Thời gian dẫn",
+      "en": "Lead Time",
+      "my": "Lead Time"
+    },
+    {
+      "kanji": "不良率",
+      "reading": "ふりょうりつ",
+      "romaji": "Furyou Ritsu",
+      "vi": "Tỷ lệ lỗi",
+      "en": "Defect Rate",
+      "my": "ချို့ယွင်းနှုန်း"
+    },
+    {
+      "kanji": "歩留り率",
+      "reading": "ぶどまりりつ",
+      "romaji": "Budomari Ritsu",
+      "vi": "Tỷ lệ thu hồi",
+      "en": "Yield Rate",
+      "my": "Yield Rate"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

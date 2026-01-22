@@ -1,0 +1,296 @@
+{
+  "page_id": 285,
+  "image": "p_0285.png",
+  "chapter": 7,
+  "section": "07-04",
+  "page_number": 269,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "07-04",
+      "title": {
+        "ja": "プロジェクト資源マネジメント",
+        "vi": "Quản lý nguồn lực dự án",
+        "en": "Project Resource Management"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "適材適所の実現方法",
+        "vi": "Phương pháp thực hiện đúng người đúng việc",
+        "en": "How to Achieve Right Person Right Place"
+      },
+      "content": {
+        "ja": "システム開発においては資源（主に人的資源）の配置や役割分担も重要です。プロジェクトマネージャは必要な人員を確保し、仕事を割り振ります。",
+        "vi": "Trong phát triển hệ thống, việc bố trí nguồn lực (chủ yếu là nguồn nhân lực) và phân công vai trò cũng quan trọng. Project Manager đảm bảo nhân sự cần thiết và phân công công việc.",
+        "en": "In system development, resource allocation (mainly human resources) and role distribution are important. Project Manager secures necessary personnel and assigns work."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "プロジェクト資源マネジメントでは物的資源と人的資源の両方を扱いますが、試験では主に人的資源に関する問題が出題されるので、ここでは人的資源についてのみ解説します。",
+      "vi": "Project Resource Management xử lý cả nguồn lực vật chất và nguồn nhân lực, nhưng trong kỳ thi chủ yếu ra đề về nguồn nhân lực, nên ở đây chỉ giải thích về nguồn nhân lực.",
+      "en": "Project Resource Management handles both physical resources and human resources, but exam mainly tests human resources, so here we only explain human resources.",
+      "terms": [
+        {
+          "kanji": "資源",
+          "reading": "しげん"
+        },
+        {
+          "kanji": "物的資源",
+          "reading": "ぶってきしげん"
+        },
+        {
+          "kanji": "人的資源",
+          "reading": "じんてきしげん"
+        },
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "メンバーの役割と責任",
+      "reading": "めんばーのやくわりとせきにん",
+      "vi": "Vai trò và trách nhiệm của thành viên",
+      "en": "Member Roles and Responsibilities"
+    },
+    {
+      "type": "paragraph",
+      "ja": "プロジェクト資源マネジメントでは、プロジェクトに参加する要員の役割、責任、必要なスキルを決定し、それらが効果的に機能するように管理します。",
+      "vi": "Trong Project Resource Management, quyết định vai trò, trách nhiệm, kỹ năng cần thiết của nhân viên tham gia dự án và quản lý để chúng hoạt động hiệu quả.",
+      "en": "In Project Resource Management, determine roles, responsibilities, required skills of project staff and manage them to function effectively.",
+      "terms": [
+        {
+          "kanji": "資源",
+          "reading": "しげん"
+        },
+        {
+          "kanji": "参加",
+          "reading": "さんか"
+        },
+        {
+          "kanji": "要員",
+          "reading": "よういん"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "責任",
+          "reading": "せきにん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "決定",
+          "reading": "けってい"
+        },
+        {
+          "kanji": "効果的",
+          "reading": "こうかてき"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "プロジェクト資源マネジメントで最も大切なことは、プロジェクトメンバー全員が各自の役割と責任を把握できるようにし、また参加時期を明確にすることです。",
+      "vi": "Điều quan trọng nhất trong Project Resource Management là làm cho tất cả Project Member nắm được vai trò và trách nhiệm của mình, và làm rõ thời điểm tham gia.",
+      "en": "The most important thing in Project Resource Management is making all Project Members understand their roles and responsibilities, and clarifying participation timing.",
+      "terms": [
+        {
+          "kanji": "資源",
+          "reading": "しげん"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "kanji": "全員",
+          "reading": "ぜんいん"
+        },
+        {
+          "kanji": "各自",
+          "reading": "かくじ"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "責任",
+          "reading": "せきにん"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        },
+        {
+          "kanji": "参加時期",
+          "reading": "さんかじき"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "作業量の計算問題",
+      "reading": "さぎょうりょうのけいさんもんだい",
+      "vi": "Bài toán tính khối lượng công việc",
+      "en": "Work Volume Calculation Problems"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、人的資源に関して、作業量や作業日数、作業コストなどを計算する問題が出題されます。なお、メンバーの増員時に気をつけなければならないのは「新人メンバーと、ベテランのメンバーでは作業効率が異なる」ことです。設問のなかに必ず作業効率に関する記述があるので、正しく計算します。",
+      "vi": "Trong kỳ thi IT Passport, ra đề bài toán tính khối lượng công việc, số ngày làm việc, chi phí công việc liên quan đến nguồn nhân lực. Ngoài ra, điều cần chú ý khi tăng thành viên là \"hiệu suất công việc của thành viên mới và thành viên có kinh nghiệm khác nhau\". Trong câu hỏi chắc chắn có mô tả về hiệu suất công việc, nên hãy tính toán chính xác.",
+      "en": "IT Passport exam includes problems calculating work volume, work days, work cost related to human resources. Note when adding members: 'work efficiency differs between new members and experienced members.' Questions always describe work efficiency, so calculate correctly.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "人的資源",
+          "reading": "じんてきしげん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "作業量",
+          "reading": "さぎょうりょう"
+        },
+        {
+          "kanji": "作業日数",
+          "reading": "さぎょうびかず"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "増員時",
+          "reading": "ぞういんとき"
+        },
+        {
+          "kanji": "気",
+          "reading": "き"
+        },
+        {
+          "kanji": "新人",
+          "reading": "しんじん"
+        },
+        {
+          "kanji": "作業効率",
+          "reading": "さぎょうこうりつ"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "設問",
+          "reading": "せつもん"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "記述",
+          "reading": "きじゅつ"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "プロジェクト資源マネジメント",
+      "reading": "ぷろじぇくとしげんまねじめんと",
+      "romaji": "Project Shigen Management",
+      "vi": "Quản lý nguồn lực dự án",
+      "en": "Project Resource Management",
+      "my": "ပရောဂျက် အရင်းအမြစ် မန်နေ့ဂျမန့်"
+    },
+    {
+      "kanji": "人的資源",
+      "reading": "じんてきしげん",
+      "romaji": "Jinteki Shigen",
+      "vi": "Nguồn nhân lực",
+      "en": "Human Resources",
+      "my": "လူ့စွမ်းအရင်းအမြစ်"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

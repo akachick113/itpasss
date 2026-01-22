@@ -1,0 +1,396 @@
+{
+  "page_id": 136,
+  "image": "p_0136.png",
+  "chapter": 3,
+  "section": "03-04",
+  "page_number": 120,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "在庫数を最適な状態に保つことができたり、より効率的に企業同士が連携できるようになります。",
+      "vi": "có thể giữ số lượng tồn kho ở trạng thái tối ưu và các công ty có thể hợp tác hiệu quả hơn.",
+      "en": "inventory can be kept at optimal levels and companies can cooperate more efficiently.",
+      "my": "ကုန်ပစ္စည်းလက်ကျန်ကို အကောင်းဆုံးအဆင့်တွင် ထားရှိနိုင်ပြီး ကုမ္ပဏီများ ပိုမိုထိရောက်စွာ ပူးပေါင်းဆောင်ရွက်နိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "在庫数",
+          "reading": "ざいこかず"
+        },
+        {
+          "kanji": "最適",
+          "reading": "さいてき"
+        },
+        {
+          "kanji": "状態",
+          "reading": "じょうたい"
+        },
+        {
+          "kanji": "保",
+          "reading": "ほ"
+        },
+        {
+          "kanji": "効率的",
+          "reading": "こうりつてき"
+        },
+        {
+          "kanji": "企業同士",
+          "reading": "きぎょうどうし"
+        },
+        {
+          "kanji": "連携",
+          "reading": "れんけい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "SFA",
+      "reading": "えすえふえー",
+      "vi": "SFA",
+      "en": "SFA",
+      "my": "SFA"
+    },
+    {
+      "type": "paragraph",
+      "ja": "SFA（Sales Force Automation：営業支援システム）とは、営業ノウハウを共有するためのシステムです。主に営業部門で使われます。SFAを使うと、各営業担当者が持っていた営業情報を一元化できるので、より効率的に営業活動を行うことができます。",
+      "vi": "SFA (Sales Force Automation: Hệ thống hỗ trợ bán hàng) là hệ thống để chia sẻ know-how bán hàng. Chủ yếu được sử dụng trong bộ phận kinh doanh. Sử dụng SFA có thể tập trung thông tin kinh doanh từng nhân viên nắm giữ nên có thể thực hiện hoạt động kinh doanh hiệu quả hơn.",
+      "en": "SFA (Sales Force Automation) is a system to share sales know-how. Mainly used in sales departments. Using SFA centralizes sales information each salesperson had, enabling more efficient sales activities.",
+      "my": "SFA (Sales Force Automation) သည် အရောင်းဆိုင်ရာ အသိပညာများကို မျှဝေရန် စနစ်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "営業支援",
+          "reading": "えいぎょうしえん"
+        },
+        {
+          "kanji": "営業",
+          "reading": "えいぎょう"
+        },
+        {
+          "kanji": "共有",
+          "reading": "きょうゆう"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "営業部門",
+          "reading": "えいぎょうぶもん"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "各営業担当者",
+          "reading": "かくえいぎょうたんとうしゃ"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "営業情報",
+          "reading": "えいぎょうじょうほう"
+        },
+        {
+          "kanji": "一元化",
+          "reading": "いちげんか"
+        },
+        {
+          "kanji": "効率的",
+          "reading": "こうりつてき"
+        },
+        {
+          "kanji": "営業活動",
+          "reading": "えいぎょうかつどう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "CRM",
+      "reading": "しーあーるえむ",
+      "vi": "CRM",
+      "en": "CRM",
+      "my": "CRM"
+    },
+    {
+      "type": "paragraph",
+      "ja": "多数の新規顧客から得られる一時的な利益よりも、既存顧客が生涯にわたってもたらしてくれる利益のほうが大きくなることがあります。なぜなら、新規顧客を獲得するには膨大なコストがかかるのです。\n\nこのような考えのもと、既存顧客と良好な関係を築くための手法が考案されました。それが「CRM」です。\n\nCRM（Customer Relationship Management：顧客関係管理）とは、顧客との良好な関係を築くことで長期的な利益を得る手法です。\n\nCRMでは顧客の個人情報や購買履歴などの情報を一元管理します。こうすることで、セールス、マーケティング、カスタマーサポート（サービスデスクなど）といった顧客と接点のある部門で顧客情報を共有することができ、その結果、顧客ごとに最適なサービスやアフターケアを行うことが可能になります。",
+      "vi": "Lợi nhuận mà khách hàng hiện tại mang lại suốt đời có thể lớn hơn lợi nhuận tạm thời từ nhiều khách hàng mới. Vì chi phí để có được khách hàng mới rất lớn.\n\nDựa trên suy nghĩ này, phương pháp xây dựng quan hệ tốt với khách hàng hiện tại đã được nghĩ ra. Đó là CRM.\n\nCRM (Customer Relationship Management: Quản lý quan hệ khách hàng) là phương pháp thu lợi dài hạn bằng cách xây dựng quan hệ tốt với khách hàng.\n\nCRM quản lý tập trung thông tin như thông tin cá nhân và lịch sử mua của khách hàng. Như vậy, các bộ phận tiếp xúc khách hàng như bán hàng, marketing, hỗ trợ khách hàng (service desk) có thể chia sẻ thông tin khách hàng, kết quả là có thể cung cấp dịch vụ và chăm sóc sau bán hàng tối ưu cho từng khách hàng.",
+      "en": "Lifetime profits from existing customers can be greater than temporary profits from many new customers. Because acquiring new customers costs a lot.\n\nBased on this thinking, methods to build good relationships with existing customers were devised. That is CRM.\n\nCRM (Customer Relationship Management) is a method to gain long-term profits by building good relationships with customers.\n\nCRM centrally manages customer personal information and purchase history. This allows customer-facing departments like sales, marketing, customer support (service desk) to share customer information, enabling optimal service and after-care for each customer.",
+      "my": "ရှိပြီးသား ဖောက်သည်များထံမှ တစ်သက်တာ အမြတ်အစွန်းသည် ဖောက်သည်အသစ်များစွာထံမှ ယာယီအမြတ်အစွန်းထက် ပိုကြီးနိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "多数",
+          "reading": "たすう"
+        },
+        {
+          "kanji": "新規顧客",
+          "reading": "しんきこきゃく"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "一時的",
+          "reading": "いちじてき"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "既存顧客",
+          "reading": "きぞんこきゃく"
+        },
+        {
+          "kanji": "生涯",
+          "reading": "しょうがい"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "獲得",
+          "reading": "かくとく"
+        },
+        {
+          "kanji": "膨大",
+          "reading": "ぼうだい"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "良好",
+          "reading": "りょうこう"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "築",
+          "reading": "ちく"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "考案",
+          "reading": "こうあん"
+        },
+        {
+          "kanji": "顧客関係管理",
+          "reading": "こきゃくかんけいかんり"
+        },
+        {
+          "kanji": "顧客",
+          "reading": "こきゃく"
+        },
+        {
+          "kanji": "長期的",
+          "reading": "ちょうきてき"
+        },
+        {
+          "kanji": "個人情報",
+          "reading": "こじんじょうほう"
+        },
+        {
+          "kanji": "購買履歴",
+          "reading": "こうばいりれき"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "一元管理",
+          "reading": "いちげんかんり"
+        },
+        {
+          "kanji": "接点",
+          "reading": "せってん"
+        },
+        {
+          "kanji": "部門",
+          "reading": "ぶもん"
+        },
+        {
+          "kanji": "顧客情報",
+          "reading": "こきゃくじょうほう"
+        },
+        {
+          "kanji": "共有",
+          "reading": "きょうゆう"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "最適",
+          "reading": "さいてき"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・ERPとは、経営資源を統合的に管理する手法である\n・SCMとは、調達・生産・販売などのプロセス全体の最適化を行う手法である\n・SFA（営業支援システム）とは、営業情報を一元化して、効率的に営業活動を行うための支援システムである\n・CRMとは、顧客との良好な関係を築くことで長期的な利益を得る手法である",
+        "vi": "・ERP là phương pháp quản lý tích hợp nguồn lực kinh doanh\n・SCM là phương pháp tối ưu hóa toàn bộ quy trình mua sắm, sản xuất, bán hàng\n・SFA (Hệ thống hỗ trợ bán hàng) là hệ thống hỗ trợ tập trung thông tin bán hàng để hoạt động hiệu quả\n・CRM là phương pháp thu lợi dài hạn bằng cách xây dựng quan hệ tốt với khách hàng",
+        "en": "・ERP is a method for integrated management of business resources\n・SCM is a method to optimize entire procurement, production, sales processes\n・SFA (Sales Support System) is a support system centralizing sales info for efficient activities\n・CRM is a method to gain long-term profits by building good customer relationships",
+        "my": "・ ERP သည် စီးပွားရေးအရင်းအမြစ်များကို ပေါင်းစပ်စီမံခန့်ခွဲမှုအတွက် နည်းလမ်းဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "経営資源",
+            "reading": "けいえいしげん"
+          },
+          {
+            "kanji": "統合的",
+            "reading": "とうごうてき"
+          },
+          {
+            "kanji": "管理",
+            "reading": "かんり"
+          },
+          {
+            "kanji": "手法",
+            "reading": "しゅほう"
+          },
+          {
+            "kanji": "調達",
+            "reading": "ちょうたつ"
+          },
+          {
+            "kanji": "生産",
+            "reading": "せいさん"
+          },
+          {
+            "kanji": "販売",
+            "reading": "はんばい"
+          },
+          {
+            "kanji": "全体",
+            "reading": "ぜんたい"
+          },
+          {
+            "kanji": "最適化",
+            "reading": "さいてきか"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "営業支援",
+            "reading": "えいぎょうしえん"
+          },
+          {
+            "kanji": "営業情報",
+            "reading": "えいぎょうじょうほう"
+          },
+          {
+            "kanji": "一元化",
+            "reading": "いちげんか"
+          },
+          {
+            "kanji": "効率的",
+            "reading": "こうりつてき"
+          },
+          {
+            "kanji": "営業活動",
+            "reading": "えいぎょうかつどう"
+          },
+          {
+            "kanji": "支援",
+            "reading": "しえん"
+          },
+          {
+            "kanji": "顧客",
+            "reading": "こきゃく"
+          },
+          {
+            "kanji": "良好",
+            "reading": "りょうこう"
+          },
+          {
+            "kanji": "関係",
+            "reading": "かんけい"
+          },
+          {
+            "kanji": "築",
+            "reading": "ちく"
+          },
+          {
+            "kanji": "長期的",
+            "reading": "ちょうきてき"
+          },
+          {
+            "kanji": "利益",
+            "reading": "りえき"
+          },
+          {
+            "kanji": "得",
+            "reading": "え"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "SFA",
+      "reading": "えすえふえー",
+      "romaji": "SFA",
+      "vi": "Hệ thống hỗ trợ bán hàng",
+      "en": "Sales Force Automation",
+      "my": "SFA"
+    },
+    {
+      "kanji": "CRM",
+      "reading": "しーあーるえむ",
+      "romaji": "CRM",
+      "vi": "Quản lý quan hệ khách hàng",
+      "en": "Customer Relationship Management",
+      "my": "CRM"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

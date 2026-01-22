@@ -1,0 +1,360 @@
+{
+  "page_id": 179,
+  "image": "p_0179.png",
+  "chapter": 4,
+  "section": "04-05",
+  "page_number": 163,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "インターネットショッピングが一般に広く浸透したことによって、顔の見えない相手と取引することが多くなりました。そして「お金を払ったのに商品が届かない」「商品を送ったのに代金が支払われない」などのトラブルも増加しています。\n\nそのようなトラブルに対応するために誕生したのがエスクローサービスです。エスクローサービスでは、買い手と売り手の間に仲介会社（エスクローサービス会社）が入ります。\n\nエスクローサービスを使った買い物の流れは以下のとおりです。\n\n（1）買い手がエスクローサービスにお金を渡す\n（2）売り手は商品を発送する\n（3）買い手に商品が届いたらエスクローサービスが売り手にお金を渡す\n\nこのようにすることで、買い手側の「お金を払ったのに商品が届かない」というリスクをなくすことができます。また、売り手側の「商品を送ったのに代金が支払われない」というリスクをなくすことができます。\n\n近年、エスクローサービスの必要性が高まっており、それに合わせるように、ITパスポート試験でもこの用語に関する問題が頻出となっています。\n\nちなみに、あまり聞き慣れない「エスクロー（Escrow）」という言葉は「第三者預託」という意味です。",
+      "vi": "Với sự phổ biến rộng rãi của mua sắm trực tuyến, giao dịch với người không thấy mặt tăng lên. Và các vấn đề như đã trả tiền mà hàng không đến hay đã gửi hàng mà không được trả tiền cũng tăng.\n\nEscrow Service ra đời để đối phó với các vấn đề như vậy. Trong Escrow Service, công ty trung gian (công ty Escrow Service) đứng giữa người mua và người bán.\n\nQuy trình mua sắm sử dụng Escrow Service như sau:\n\n(1) Người mua đưa tiền cho Escrow Service\n(2) Người bán gửi hàng\n(3) Khi hàng đến người mua, Escrow Service đưa tiền cho người bán\n\nNhư vậy, có thể loại bỏ rủi ro đã trả tiền mà hàng không đến của người mua. Cũng có thể loại bỏ rủi ro đã gửi hàng mà không được trả tiền của người bán.\n\nGần đây, nhu cầu Escrow Service tăng, và theo đó, câu hỏi về thuật ngữ này hay ra trong IT Passport.\n\nNhân tiện, từ Escrow không quen nghe có nghĩa là ký quỹ bên thứ ba.",
+      "en": "With widespread internet shopping, transactions with faceless parties increased. Problems like 'paid but product didn't arrive' or 'sent product but didn't get paid' also increased.\n\nEscrow Service was born to address such problems. In Escrow Service, an intermediary company enters between buyer and seller.\n\nEscrow Service shopping flow:\n\n(1) Buyer gives money to Escrow Service\n(2) Seller ships product\n(3) When product reaches buyer, Escrow Service gives money to seller\n\nThis eliminates buyer's risk of 'paid but product didn't arrive'. Also eliminates seller's risk of 'sent product but didn't get paid'.\n\nRecently, Escrow Service need is rising, and IT Passport frequently tests this term.\n\nIncidentally, the unfamiliar word 'Escrow' means 'third-party deposit'.",
+      "my": "အင်တာနက် ဈေးဝယ်ခြင်း ပျံ့နှံ့လာသည်နှင့်အမျှ မျက်နှာမမြင်ရသော ပါတီများနှင့် ငွေပေးငွေယူများ တိုးလာသည်။",
+      "terms": [
+        {
+          "kanji": "一般",
+          "reading": "いっぱん"
+        },
+        {
+          "kanji": "広",
+          "reading": "ひろ"
+        },
+        {
+          "kanji": "浸透",
+          "reading": "しんとう"
+        },
+        {
+          "kanji": "顔",
+          "reading": "かお"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "相手",
+          "reading": "あいて"
+        },
+        {
+          "kanji": "取引",
+          "reading": "とりひき"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "金",
+          "reading": "きん"
+        },
+        {
+          "kanji": "払",
+          "reading": "ふつ"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "届",
+          "reading": "とどけ"
+        },
+        {
+          "kanji": "送",
+          "reading": "おく"
+        },
+        {
+          "kanji": "代金",
+          "reading": "だいきん"
+        },
+        {
+          "kanji": "支払",
+          "reading": "しはらい"
+        },
+        {
+          "kanji": "増加",
+          "reading": "ぞうか"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "誕生",
+          "reading": "たんじょう"
+        },
+        {
+          "kanji": "買",
+          "reading": "か"
+        },
+        {
+          "kanji": "手",
+          "reading": "て"
+        },
+        {
+          "kanji": "売",
+          "reading": "う"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "仲介会社",
+          "reading": "ちゅうかいかいしゃ"
+        },
+        {
+          "kanji": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "物",
+          "reading": "もの"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        },
+        {
+          "kanji": "発送",
+          "reading": "はっそう"
+        },
+        {
+          "kanji": "手側",
+          "reading": "てがわ"
+        },
+        {
+          "kanji": "近年",
+          "reading": "きんねん"
+        },
+        {
+          "kanji": "必要性",
+          "reading": "ひつようせい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "頻出",
+          "reading": "ひんしゅつ"
+        },
+        {
+          "kanji": "聞",
+          "reading": "き"
+        },
+        {
+          "kanji": "慣",
+          "reading": "かん"
+        },
+        {
+          "kanji": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "kanji": "第三者預託",
+          "reading": "だいさんしゃよたく"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ECに関するその他の用語",
+      "vi": "Thuật ngữ khác về EC",
+      "en": "Other EC Related Terms"
+    },
+    {
+      "type": "paragraph",
+      "ja": "出題率は低いのですが、ECに関するその他の用語には以下のものがあります。これらの用語が出題されることもあるので、一度は目を通しておいてください。",
+      "vi": "Tỷ lệ ra đề thấp, nhưng có các thuật ngữ EC khác sau đây. Các thuật ngữ này có thể được ra đề nên hãy xem qua một lần.",
+      "en": "Though test frequency is low, other EC terms include the following. These may be tested, so review them once.",
+      "my": "စမ်းသပ်မှု အကြိမ်ရေ နည်းသော်လည်း အခြား EC ဝေါဟာရများတွင် အောက်ပါတို့ ပါဝင်သည်။",
+      "terms": [
+        {
+          "kanji": "出題率",
+          "reading": "しゅつだいりつ"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "一度",
+          "reading": "いちど"
+        },
+        {
+          "kanji": "目",
+          "reading": "め"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "EC（電子商取引）での決済方法",
+        "vi": "Phương thức thanh toán trong EC (Thương mại điện tử)",
+        "en": "EC (Electronic Commerce) Payment Methods"
+      },
+      "headers": {
+        "ja": [
+          "方法",
+          "説明"
+        ],
+        "vi": [
+          "Phương pháp",
+          "Giải thích"
+        ],
+        "en": [
+          "Method",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "クレジットカード",
+            "後払いで支払うことができるカード。"
+          ],
+          "vi": [
+            "Thẻ tín dụng",
+            "Thẻ cho phép thanh toán sau."
+          ],
+          "en": [
+            "Credit Card",
+            "Card that allows postpayment."
+          ]
+        },
+        {
+          "ja": [
+            "デビットカード",
+            "商品の購入時に即時に口座から引き落としが行われるカード。"
+          ],
+          "vi": [
+            "Thẻ ghi nợ",
+            "Thẻ trừ tiền từ tài khoản ngay khi mua hàng."
+          ],
+          "en": [
+            "Debit Card",
+            "Card that immediately debits from account when purchasing."
+          ]
+        },
+        {
+          "ja": [
+            "暗号資産（仮想通貨）",
+            "紙幣や硬貨などの実物がない、インターネット上でやり取りされる通貨。"
+          ],
+          "vi": [
+            "Tài sản mã hóa (tiền ảo)",
+            "Tiền tệ được giao dịch trên internet mà không có vật thể như tiền giấy hay xu."
+          ],
+          "en": [
+            "Crypto Assets (Virtual Currency)",
+            "Currency traded on internet without physical bills or coins."
+          ]
+        },
+        {
+          "ja": [
+            "AML（マネーロンダリング対策）",
+            "マネーロンダリング（資金洗浄）を防止するための取り組み。AMLは「Anti-Money Laundering」の略。"
+          ],
+          "vi": [
+            "AML (Phòng chống rửa tiền)",
+            "Nỗ lực ngăn chặn rửa tiền. AML là viết tắt của Anti-Money Laundering."
+          ],
+          "en": [
+            "AML (Anti-Money Laundering)",
+            "Efforts to prevent money laundering. AML stands for Anti-Money Laundering."
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "第三者預託",
+      "reading": "だいさんしゃよたく",
+      "romaji": "Daisansha Yotaku",
+      "vi": "Ký quỹ bên thứ ba",
+      "en": "Third-party Deposit",
+      "my": "တတိယပါတီ အပ်နှံစာချုပ်"
+    },
+    {
+      "kanji": "AML",
+      "reading": "えーえむえる",
+      "romaji": "Anti-Money Laundering",
+      "vi": "Phòng chống rửa tiền",
+      "en": "Anti-Money Laundering",
+      "my": "AML"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "page_id": 295,
+  "image": "p_0295.png",
+  "chapter": 8,
+  "section": "intro",
+  "page_number": 279,
+  "content": [
+    {
+      "type": "chapter_header",
+      "number": 8,
+      "title": {
+        "ja": "サービスマネジメントとシステム監査",
+        "vi": "Quản lý dịch vụ và Kiểm toán hệ thống",
+        "en": "Service Management and System Audit"
+      }
+    },
+    {
+      "type": "chapter_overview",
+      "title": {
+        "ja": "この章のポイント！",
+        "vi": "Điểm chính của chương này!",
+        "en": "Key Points of This Chapter!"
+      },
+      "content": {
+        "ja": "マネジメント系分野の最後の章です。本章では、サービスマネジメントの本質である「情報システムを安定的、かつ効率的に運用し、利用者に提供するサービスの品質を維持・向上させること」の大切さを理解したうえで、それをどのように実現するかを習得してください。",
+        "vi": "Đây là chương cuối cùng của lĩnh vực Management. Trong chương này, hãy hiểu tầm quan trọng của bản chất Service Management là \"vận hành hệ thống thông tin một cách ổn định và hiệu quả, duy trì và nâng cao chất lượng dịch vụ cung cấp cho người dùng\", sau đó học cách thực hiện điều đó.",
+        "en": "This is the last chapter of Management field. In this chapter, understand the importance of Service Management essence: 'operating information systems stably and efficiently, maintaining and improving quality of services provided to users,' then learn how to achieve that."
+      }
+    },
+    {
+      "type": "key_topics",
+      "title": {
+        "ja": "ここに注目して読もう！",
+        "vi": "Hãy chú ý khi đọc!",
+        "en": "Pay Attention to These!"
+      },
+      "items": [
+        {
+          "ja": "ITサービスマネジメントの意義、目的、考え方",
+          "vi": "Ý nghĩa, mục đích, cách suy nghĩ của IT Service Management",
+          "en": "Meaning, purpose, and thinking of IT Service Management"
+        },
+        {
+          "ja": "コンピュータやネットワークなどのシステム環境整備に関する考え方",
+          "vi": "Cách suy nghĩ về chuẩn bị môi trường hệ thống như máy tính và mạng",
+          "en": "Thinking about system environment preparation like computers and networks"
+        },
+        {
+          "ja": "システム監査の意義、目的、考え方、システム監査の流れ",
+          "vi": "Ý nghĩa, mục đích, cách suy nghĩ của System Audit, luồng System Audit",
+          "en": "Meaning, purpose, thinking of System Audit, System Audit flow"
+        },
+        {
+          "ja": "内部統制、ITガバナンスの意義、目的、考え方",
+          "vi": "Ý nghĩa, mục đích, cách suy nghĩ của Internal Control, IT Governance",
+          "en": "Meaning, purpose, thinking of Internal Control, IT Governance"
+        }
+      ]
+    },
+    {
+      "type": "exam_scope",
+      "title": {
+        "ja": "試験範囲全体における本章の位置づけ",
+        "vi": "Vị trí của chương này trong toàn bộ phạm vi thi",
+        "en": "Position of This Chapter in Overall Exam Scope"
+      },
+      "table": {
+        "headers": {
+          "ja": [
+            "分野",
+            "大分類"
+          ],
+          "vi": [
+            "Lĩnh vực",
+            "Phân loại lớn"
+          ],
+          "en": [
+            "Field",
+            "Major Category"
+          ]
+        },
+        "rows": [
+          {
+            "field": "ストラテジ系",
+            "categories": [
+              "企業と法務",
+              "経営戦略",
+              "システム戦略"
+            ]
+          },
+          {
+            "field": "マネジメント系",
+            "categories": [
+              "開発技術",
+              "プロジェクトマネジメント",
+              "サービスマネジメント"
+            ],
+            "highlight": "サービスマネジメント"
+          },
+          {
+            "field": "テクノロジ系",
+            "categories": [
+              "基礎理論",
+              "コンピュータシステム",
+              "技術要素"
+            ]
+          }
+        ]
+      },
+      "note": {
+        "ja": "本章はココ！",
+        "vi": "Chương này ở đây!",
+        "en": "This chapter is here!"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "サービスマネジメント",
+      "reading": "さーびすまねじめんと",
+      "romaji": "Service Management",
+      "vi": "Quản lý dịch vụ",
+      "en": "Service Management",
+      "my": "ဆားဗစ် မန်နေ့ဂျမန့်"
+    },
+    {
+      "kanji": "システム監査",
+      "reading": "しすてむかんさ",
+      "romaji": "System Kansa",
+      "vi": "Kiểm toán hệ thống",
+      "en": "System Audit",
+      "my": "စနစ် စစ်ဆေး"
+    }
+  ],
+  "meta": {
+    "is_chapter_intro": true
+  }
+}

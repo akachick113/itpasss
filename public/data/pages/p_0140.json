@@ -1,0 +1,66 @@
+{
+    "page_id": 140,
+    "image": "p_0140.png",
+    "chapter": 3,
+    "section": "answers",
+    "page_number": 124,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "3-12",
+            "answer": "ア",
+            "explanation": {
+                "ja": "CSFとKPIはセットで覚えておきましょう。BSCでは、CSFに社員のモチベーションアップを設定し、そのKPIとして離職率を設定したりします。\n\nイはCSF（Critical Success Factors）の説明です。ウはモニタリングの説明です。エはバリューエンジニアリングの説明です。",
+                "vi": "Hãy nhớ CSF và KPI như bộ đôi. Trong BSC, CSF là nâng cao động lực nhân viên và KPI là tỷ lệ nghỉ việc.\n\nイ là giải thích CSF (Critical Success Factors). ウ là giải thích Monitoring. エ là giải thích Value Engineering.",
+                "en": "Remember CSF and KPI as a pair. In BSC, CSF might be employee motivation improvement with KPI being turnover rate.\n\nB is CSF (Critical Success Factors) explanation. C is Monitoring explanation. D is Value Engineering explanation."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "3-13",
+            "answer": "ア",
+            "explanation": {
+                "ja": "「サプライチェーンマネジメント」という名前は、消費者に製品を供給する（サプライ）までの企業同士のつながりを鎖（チェーン）に喩えたことに由来します。一社のみの最適化ではなく、企業間を含めたプロセス全体を最適化するのが目的です。\n\nイ. BPR（Business Process Reengineering）の説明です（p.183）。\n\nウ. BPO（Business Process Outsourcing）の説明です。経理、総務などの業務プロセス全体を外部委託することをBPOといいます。\n\nエ. ERP（Enterprise Resource Planning）の説明です。",
+                "vi": "Tên Supply Chain Management xuất phát từ việc ví sự liên kết giữa các doanh nghiệp trong chuỗi cung ứng (supply) sản phẩm đến người tiêu dùng như chuỗi (chain). Mục đích không phải tối ưu hóa một công ty mà là toàn bộ quy trình bao gồm cả các doanh nghiệp.\n\nイ Giải thích BPR (Business Process Reengineering) (trang 183).\n\nウ Giải thích BPO (Business Process Outsourcing). Thuê ngoài toàn bộ quy trình nghiệp vụ như kế toán, tổng vụ gọi là BPO.\n\nエ Giải thích ERP (Enterprise Resource Planning).",
+                "en": "The name Supply Chain Management comes from comparing the link between companies in supplying products to consumers like a chain. The purpose is not optimizing one company but the entire process including multiple companies.\n\nB. Explanation of BPR (Business Process Reengineering) (p.183).\n\nC. Explanation of BPO (Business Process Outsourcing). Outsourcing entire business processes like accounting is called BPO.\n\nD. Explanation of ERP (Enterprise Resource Planning)."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "3-14",
+            "answer": "イ",
+            "explanation": {
+                "ja": "「顧客と良好な関係」からCRMであると判断できます。\n\nア. BSC（Balanced Scorecard）は「財務」「顧客」「業務プロセス」「学習と成長」の4つの視点から業績評価を行う手法です。\n\nウ. ERP（Enterprise Resource Planning）は、経営資源を統合的に管理する手法です。\n\nエ. PPM（Product Portfolio Management）は、自社の製品もしくは事業を、花形、問題児、金のなる木、負け犬の4つに分類する手法です。",
+                "vi": "Từ từ khóa quan hệ tốt với khách hàng có thể xác định đây là CRM.\n\nア BSC (Balanced Scorecard) đánh giá hiệu suất từ 4 góc nhìn: Tài chính, Khách hàng, Quy trình, Học tập và phát triển.\n\nウ ERP (Enterprise Resource Planning) quản lý tích hợp nguồn lực kinh doanh.\n\nエ PPM (Product Portfolio Management) phân loại sản phẩm/sự nghiệp thành 4 loại: Ngôi sao, Dấu hỏi, Bò sữa, Chó.",
+                "en": "From the keyword 'good relationship with customers' we can determine it's CRM.\n\nA. BSC (Balanced Scorecard) evaluates performance from 4 perspectives: Financial, Customer, Business Process, Learning and Growth.\n\nC. ERP (Enterprise Resource Planning) manages business resources in an integrated manner.\n\nD. PPM (Product Portfolio Management) classifies products/businesses into 4 categories: Star, Question Mark, Cash Cow, Dog."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "3-15",
+            "answer": "イ",
+            "explanation": {
+                "ja": "ERP（Enterprise Resource Planning：企業資源計画）とは、経営資源（ヒト、モノ、カネ、情報）を統合的に管理する手法です。部署ごとにバラバラだった情報を一元管理することで効率的な経営が可能になります。\n\nア. SFA（Sales Force Automation：営業支援システム）の説明です。\n\nウ. SCM（Supply Chain Management：供給連鎖管理）の説明です。\n\nエ. CRM（Customer Relationship Management：顧客関係管理）の説明です。",
+                "vi": "ERP (Enterprise Resource Planning: Kế hoạch nguồn lực doanh nghiệp) là phương pháp quản lý tích hợp nguồn lực kinh doanh (Người, Vật, Tiền, Thông tin). Bằng cách quản lý tập trung thông tin từng bộ phận riêng lẻ, có thể kinh doanh hiệu quả.\n\nア Giải thích SFA (Sales Force Automation: Hệ thống hỗ trợ bán hàng).\n\nウ Giải thích SCM (Supply Chain Management: Quản lý chuỗi cung ứng).\n\nエ Giải thích CRM (Customer Relationship Management: Quản lý quan hệ khách hàng).",
+                "en": "ERP (Enterprise Resource Planning) integrates management of business resources (People, Goods, Money, Information). By centrally managing information that was separate by department, efficient management becomes possible.\n\nA. Explanation of SFA (Sales Force Automation).\n\nC. Explanation of SCM (Supply Chain Management).\n\nD. Explanation of CRM (Customer Relationship Management)."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "3-16",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "「営業ノウハウの共有」という説明からSFAであると判断できます。\n\nア. CRMシステムは、顧客との良好な関係を築いて、長期的な利益を得るためのシステムです。\n\nイ. SCMシステムは、調達・生産・販売などのプロセス全体の最適化を行うためのシステムです。\n\nエ. データウェアハウスは、意思決定に役立てるためのデータの集まりです。",
+                "vi": "Từ giải thích chia sẻ know-how kinh doanh có thể xác định đây là SFA.\n\nア CRM System là hệ thống xây dựng quan hệ tốt với khách hàng để thu lợi dài hạn.\n\nイ SCM System là hệ thống tối ưu hóa toàn bộ quy trình mua sắm, sản xuất, bán hàng.\n\nエ Data Warehouse là tập hợp dữ liệu để hỗ trợ ra quyết định.",
+                "en": "From the description 'sharing sales know-how' we can determine it's SFA.\n\nA. CRM System builds good relationships with customers for long-term profits.\n\nB. SCM System optimizes entire procurement, production, sales processes.\n\nD. Data Warehouse is a collection of data to support decision making."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "3-12, 3-13, 3-14, 3-15, 3-16"
+    }
+}

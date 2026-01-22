@@ -1,0 +1,400 @@
+{
+  "page_id": 223,
+  "image": "p_0223.png",
+  "chapter": 5,
+  "section": "05-06",
+  "page_number": 207,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "ソフトウェアライフサイクルの5つのプロセス",
+        "vi": "5 quy trình của Software Lifecycle",
+        "en": "5 Processes of Software Lifecycle"
+      },
+      "headers": {
+        "ja": [
+          "プロセス",
+          "説明"
+        ],
+        "vi": [
+          "Quy trình",
+          "Giải thích"
+        ],
+        "en": [
+          "Process",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "企画",
+            "経営目標を達成するために、システムに必要な要件を集め、計画を立てるプロセス。"
+          ],
+          "vi": [
+            "Lập kế hoạch",
+            "Quy trình thu thập yêu cầu cần thiết cho hệ thống và lập kế hoạch để đạt mục tiêu kinh doanh."
+          ],
+          "en": [
+            "Planning",
+            "Process to collect requirements needed for the system and make plans to achieve business goals."
+          ]
+        },
+        {
+          "ja": [
+            "要件定義",
+            "業務を行うのに必要な要件を決めるプロセス。"
+          ],
+          "vi": [
+            "Định nghĩa yêu cầu",
+            "Quy trình xác định yêu cầu cần thiết để thực hiện nghiệp vụ."
+          ],
+          "en": [
+            "Requirements Definition",
+            "Process to determine requirements needed to perform work."
+          ]
+        },
+        {
+          "ja": [
+            "開発",
+            "実際にシステムを作成するプロセス。"
+          ],
+          "vi": [
+            "Phát triển",
+            "Quy trình thực sự tạo hệ thống."
+          ],
+          "en": [
+            "Development",
+            "Process to actually create the system."
+          ]
+        },
+        {
+          "ja": [
+            "運用",
+            "システムの本番への移行や、システムを安定的に稼働させるプロセス。"
+          ],
+          "vi": [
+            "Vận hành",
+            "Quy trình chuyển hệ thống sang sản xuất và vận hành ổn định."
+          ],
+          "en": [
+            "Operation",
+            "Process to migrate system to production and operate stably."
+          ]
+        },
+        {
+          "ja": [
+            "保守",
+            "不具合の修正やソフトウェアのアップデートなどを行うプロセス。"
+          ],
+          "vi": [
+            "Bảo trì",
+            "Quy trình sửa lỗi và cập nhật phần mềm."
+          ],
+          "en": [
+            "Maintenance",
+            "Process to fix defects and update software."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・ソフトウェアライフサイクルプロセス（SLCP）とは、ソフトウェアの企画、要件定義、開発、運用、保守までの一連の活動であり、それらの活動内容を定義した国際規格である\n・共通フレームとは、ソフトウェア開発とその取引を適正化するために、それらのベースとなる作業項目を1つひとつ定義した本である",
+        "vi": "・Software Life Cycle Process (SLCP) là hoạt động liên tục từ lập kế hoạch, định nghĩa yêu cầu, phát triển, vận hành, bảo trì phần mềm, và là tiêu chuẩn quốc tế định nghĩa nội dung các hoạt động đó\n・Common Frame là sách định nghĩa từng hạng mục công việc làm cơ sở để phát triển phần mềm và giao dịch hợp lý",
+        "en": "・Software Life Cycle Process (SLCP) is a series of activities from software planning, requirements definition, development, operation, to maintenance, and is an international standard defining those activities\n・Common Frame is a book defining work items one by one as a base for software development and proper transactions",
+        "my": "・ Software Life Cycle Process (SLCP)",
+        "terms": [
+          {
+            "kanji": "企画",
+            "reading": "きかく"
+          },
+          {
+            "kanji": "要件定義",
+            "reading": "ようけんていぎ"
+          },
+          {
+            "kanji": "開発",
+            "reading": "かいはつ"
+          },
+          {
+            "kanji": "運用",
+            "reading": "うんよう"
+          },
+          {
+            "kanji": "保守",
+            "reading": "ほしゅ"
+          },
+          {
+            "kanji": "一連",
+            "reading": "いちれん"
+          },
+          {
+            "kanji": "活動",
+            "reading": "かつどう"
+          },
+          {
+            "kanji": "活動内容",
+            "reading": "かつどうないよう"
+          },
+          {
+            "kanji": "定義",
+            "reading": "ていぎ"
+          },
+          {
+            "kanji": "国際規格",
+            "reading": "こくさいきかく"
+          },
+          {
+            "kanji": "共通",
+            "reading": "きょうつう"
+          },
+          {
+            "kanji": "取引",
+            "reading": "とりひき"
+          },
+          {
+            "kanji": "適正化",
+            "reading": "てきせいか"
+          },
+          {
+            "kanji": "作業項目",
+            "reading": "さぎょうこうもく"
+          },
+          {
+            "kanji": "本",
+            "reading": "ほん"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "各プロセスとITパスポート試験の関係",
+      "vi": "Mối quan hệ giữa các quy trình và IT Passport",
+      "en": "Relationship Between Processes and IT Passport"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ソフトウェアライフサイクルの5つのプロセスのうち、企画と要件定義は経営層が関わる部分なので、ITパスポート試験では「ストラテジ系分野」として出題されます。一方、開発、運用、保守は「マネジメント系分野」として出題されます。このため本章では、企画と要件定義について解説します。開発、運用、保守については6章以降で順次、解説します。",
+      "vi": "Trong 5 quy trình của Software Lifecycle, Lập kế hoạch và Định nghĩa yêu cầu liên quan đến tầng quản lý nên được ra trong IT Passport như phân loại Strategy. Mặt khác, Phát triển, Vận hành, Bảo trì được ra như phân loại Management. Vì vậy chương này giải thích về Lập kế hoạch và Định nghĩa yêu cầu. Phát triển, Vận hành, Bảo trì sẽ giải thích từ chương 6 trở đi.",
+      "en": "Of the 5 Software Lifecycle processes, Planning and Requirements Definition involve management, so IT Passport tests them as 'Strategy Field'. On the other hand, Development, Operation, Maintenance are tested as 'Management Field'. So this chapter explains Planning and Requirements Definition. Development, Operation, Maintenance are explained from Chapter 6 onwards.",
+      "my": "Software Lifecycle ၏ process ၅ ခုအနက် Planning နှင့် Requirements Definition သည် management နှင့် ပတ်သက်သည်။",
+      "terms": [
+        {
+          "kanji": "企画",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "経営層",
+          "reading": "けいえいそう"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "部分",
+          "reading": "ぶぶん"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "系分野",
+          "reading": "けいぶんや"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        },
+        {
+          "kanji": "保守",
+          "reading": "ほしゅ"
+        },
+        {
+          "kanji": "本章",
+          "reading": "ほんしょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "章以降",
+          "reading": "しょういこう"
+        },
+        {
+          "kanji": "順次",
+          "reading": "じゅんじ"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "プロセスは5つとは限らない",
+        "vi": "Quy trình không nhất thiết là 5",
+        "en": "Processes Are Not Limited to 5"
+      },
+      "content": {
+        "ja": "混乱を招く恐れがあるので十分に注意して聞いてほしいのですが、ITパスポート試験では過去に、上記とは異なるプロセスが出題されたこともあります。具体的には「運用」の前に開設というプロセスがあったり、「運用」と「保守」が1つにまとめられた4つのプロセスとして扱われたりするパターンです。しかし、基本的には上記の5つのプロセスの順序を覚えて、もしプロセスが4つしかない問いが出題された場合は柔軟に対応してください。",
+        "vi": "Vì có thể gây nhầm lẫn nên hãy chú ý lắng nghe, trong IT Passport trước đây cũng có bài ra quy trình khác với trên. Cụ thể là có quy trình 'Triển khai' trước 'Vận hành', hoặc 'Vận hành' và 'Bảo trì' gộp thành 4 quy trình. Tuy nhiên về cơ bản hãy nhớ thứ tự 5 quy trình trên, nếu có câu hỏi chỉ 4 quy trình hãy linh hoạt đối ứng.",
+        "en": "Be careful as this might cause confusion, but IT Passport has previously tested different processes. Specifically, there may be a 'Deployment' process before 'Operation', or 'Operation' and 'Maintenance' combined into 4 processes. However, basically remember the order of the 5 processes above, and if a question with only 4 processes appears, respond flexibly.",
+        "terms": [
+          {
+            "kanji": "混乱",
+            "reading": "こんらん"
+          },
+          {
+            "kanji": "招",
+            "reading": "しょう"
+          },
+          {
+            "kanji": "恐",
+            "reading": "きょう"
+          },
+          {
+            "kanji": "十分",
+            "reading": "じゅうぶん"
+          },
+          {
+            "kanji": "注意",
+            "reading": "ちゅうい"
+          },
+          {
+            "kanji": "聞",
+            "reading": "き"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "過去",
+            "reading": "かこ"
+          },
+          {
+            "kanji": "上記",
+            "reading": "じょうき"
+          },
+          {
+            "kanji": "異",
+            "reading": "い"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "具体的",
+            "reading": "ぐたいてき"
+          },
+          {
+            "kanji": "運用",
+            "reading": "うんよう"
+          },
+          {
+            "kanji": "前",
+            "reading": "まえ"
+          },
+          {
+            "kanji": "開設",
+            "reading": "かいせつ"
+          },
+          {
+            "kanji": "保守",
+            "reading": "ほしゅ"
+          },
+          {
+            "kanji": "扱",
+            "reading": "きゅう"
+          },
+          {
+            "kanji": "基本的",
+            "reading": "きほんてき"
+          },
+          {
+            "kanji": "順序",
+            "reading": "じゅんじょ"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          },
+          {
+            "kanji": "問",
+            "reading": "とん"
+          },
+          {
+            "kanji": "場合",
+            "reading": "ばあい"
+          },
+          {
+            "kanji": "柔軟",
+            "reading": "じゅうなん"
+          },
+          {
+            "kanji": "対応",
+            "reading": "たいおう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "企画プロセス",
+      "reading": "きかくぷろせす",
+      "romaji": "Kikaku Process",
+      "vi": "Quy trình lập kế hoạch",
+      "en": "Planning Process",
+      "my": "စီမံကိန်း လုပ်ငန်းစဉ်"
+    },
+    {
+      "kanji": "要件定義プロセス",
+      "reading": "ようけんていぎぷろせす",
+      "romaji": "Youken Teigi Process",
+      "vi": "Quy trình định nghĩa yêu cầu",
+      "en": "Requirements Definition Process",
+      "my": "လိုအပ်ချက် သတ်မှတ်ချက် လုပ်ငန်းစဉ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

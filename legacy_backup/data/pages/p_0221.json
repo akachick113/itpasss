@@ -1,0 +1,284 @@
+{
+  "page_id": 221,
+  "image": "p_0221.png",
+  "chapter": 5,
+  "section": "05-06",
+  "page_number": 205,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "セスはISOで標準化されています（ISO/IEC 12207：p.206）。\n\nこの他にも、システムのライフサイクルプロセスを規定した「システムライフサイクルプロセス」という国際規格もあります（ISO/IEC 15288）。",
+      "vi": "SLCP được tiêu chuẩn hóa bởi ISO (ISO/IEC 12207: trang 206).\n\nNgoài ra còn có tiêu chuẩn quốc tế quy định quy trình vòng đời hệ thống là System Life Cycle Process (ISO/IEC 15288).",
+      "en": "SLCP is standardized by ISO (ISO/IEC 12207: p.206).\n\nThere's also an international standard called 'System Life Cycle Process' that specifies system lifecycle processes (ISO/IEC 15288).",
+      "my": "SLCP ကို ISO မှ standardize ပြုလုပ်ထားသည်။",
+      "terms": [
+        {
+          "kanji": "標準化",
+          "reading": "ひょうじゅんか"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "規定",
+          "reading": "きてい"
+        },
+        {
+          "kanji": "国際規格",
+          "reading": "こくさいきかく"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "SLCPはどっち？",
+        "vi": "SLCP là cái nào?",
+        "en": "Which is SLCP?"
+      },
+      "content": {
+        "ja": "ソフトウェアライフサイクルプロセスとシステムライフサイクルプロセスはともに、略すと「SLCP」になります。しかし、ITパスポート試験でSLCPといった場合は、ほぼ例外なく「ソフトウェアライフサイクルプロセス」のことを指します。",
+        "vi": "Software Life Cycle Process và System Life Cycle Process đều viết tắt là SLCP. Tuy nhiên, trong IT Passport khi nói SLCP thì hầu như luôn chỉ Software Life Cycle Process.",
+        "en": "Both Software Life Cycle Process and System Life Cycle Process abbreviate to 'SLCP'. However, in IT Passport, SLCP almost always refers to 'Software Life Cycle Process'.",
+        "terms": [
+          {
+            "kanji": "略",
+            "reading": "りゃく"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "場合",
+            "reading": "ばあい"
+          },
+          {
+            "kanji": "例外",
+            "reading": "れいがい"
+          },
+          {
+            "kanji": "指",
+            "reading": "ゆび"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "共通フレーム",
+      "reading": "きょうつうふれーむ",
+      "vi": "Common Frame",
+      "en": "Common Frame"
+    },
+    {
+      "type": "paragraph",
+      "ja": "共通フレームとは、ソフトウェア開発とその取引を適正化するために、それらのベースとなる作業項目を1つひとつ定義した本です。もう少しだけ詳しい方をすると「システム開発に関わる人たちが、同じ言語で話ができるように、用語などの定義を統一した本」であるといえます。\n\nシステム開発には、さまざまな作業や技術、手法があります。これらの用語の定義（意味や内容）が統一されていないと、関係者（経営者、ユーザー、情報システム部、ベンダー）の間で誤解が生じたり、意見疎通ができず、後々トラブルが起こる原因になります。これは誰にとっても良いことではありません。\n\nそこで、こういった誤解を可能な限り未然に防ぐために、独立行政法人情報処理推進機構（IPA）が主体となって「共通フレーム」という本を作成しています。執筆時点の最新版は「共通フレーム2013」です。",
+      "vi": "Common Frame là sách định nghĩa từng hạng mục công việc làm cơ sở để phát triển phần mềm và giao dịch hợp lý. Nói chi tiết hơn là sách thống nhất định nghĩa thuật ngữ để những người liên quan đến phát triển hệ thống có thể nói cùng ngôn ngữ.\n\nPhát triển hệ thống có nhiều công việc, kỹ thuật, phương pháp. Nếu định nghĩa (ý nghĩa và nội dung) của các thuật ngữ này không thống nhất, sẽ gây hiểu lầm giữa các bên liên quan (Người điều hành, User, Bộ phận hệ thống thông tin, Vendor), không thể giao tiếp và gây rắc rối sau này. Điều này không tốt cho ai cả.\n\nVì vậy, để ngăn chặn hiểu lầm, IPA (Information-technology Promotion Agency) đã tạo sách Common Frame. Phiên bản mới nhất tại thời điểm viết là Common Frame 2013.",
+      "en": "Common Frame is a book defining work items one by one as a base for software development and proper transactions. In more detail, it's 'a book unifying definitions of terms so people involved in system development can speak the same language'.\n\nSystem development has various work, technologies, and methods. If term definitions (meanings and contents) aren't unified, misunderstandings occur between stakeholders (managers, users, IS department, vendors), communication fails, and causes troubles later. This isn't good for anyone.\n\nSo to prevent such misunderstandings as much as possible, IPA (Information-technology Promotion Agency) created the 'Common Frame' book. The latest version at writing is 'Common Frame 2013'.",
+      "my": "Common Frame သည် software development နှင့် သင့်လျော်သော ငွေကြေးလဲလှယ်မှုများအတွက် အခြေခံအဖြစ် အလုပ် items များကို တစ်ခုချင်း သတ်မှတ်သော စာအုပ်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "共通",
+          "reading": "きょうつう"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "取引",
+          "reading": "とりひき"
+        },
+        {
+          "kanji": "適正化",
+          "reading": "てきせいか"
+        },
+        {
+          "kanji": "作業項目",
+          "reading": "さぎょうこうもく"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "本",
+          "reading": "ほん"
+        },
+        {
+          "kanji": "少",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "方",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "言語",
+          "reading": "げんご"
+        },
+        {
+          "kanji": "話",
+          "reading": "はなし"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "統一",
+          "reading": "とういつ"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "関係者",
+          "reading": "かんけいしゃ"
+        },
+        {
+          "kanji": "経営者",
+          "reading": "けいえいしゃ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "部",
+          "reading": "ぶ"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "誤解",
+          "reading": "ごかい"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "意見疎通",
+          "reading": "いけんそつう"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "起",
+          "reading": "き"
+        },
+        {
+          "kanji": "原因",
+          "reading": "げんいん"
+        },
+        {
+          "kanji": "誰",
+          "reading": "だれ"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "限",
+          "reading": "げん"
+        },
+        {
+          "kanji": "未然",
+          "reading": "みぜん"
+        },
+        {
+          "kanji": "防",
+          "reading": "ぼう"
+        },
+        {
+          "kanji": "独立行政法人情報処理推進機構",
+          "reading": "どくりつぎょうせいほうじんじょうほうしょりすいしんきこう"
+        },
+        {
+          "kanji": "主体",
+          "reading": "しゅたい"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "執筆時点",
+          "reading": "しっぴつじてん"
+        },
+        {
+          "kanji": "最新版",
+          "reading": "さいしんばん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "共通フレーム",
+      "reading": "きょうつうふれーむ",
+      "romaji": "Kyoutsuu Frame",
+      "vi": "Khung chung",
+      "en": "Common Frame",
+      "my": "ဘုံ မူဘောင်"
+    },
+    {
+      "kanji": "IPA",
+      "reading": "あいぴーえー",
+      "romaji": "Information-technology Promotion Agency",
+      "vi": "Cơ quan xúc tiến công nghệ thông tin",
+      "en": "IPA",
+      "my": "IPA"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false
+  }
+}

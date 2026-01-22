@@ -1,0 +1,331 @@
+{
+  "page_id": 414,
+  "image": "p_0414.png",
+  "chapter": 11,
+  "section": "11-03",
+  "page_number": 398,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "11-03",
+      "title": {
+        "ja": "演算と制御",
+        "vi": "Tính toán và Điều khiển",
+        "en": "Arithmetic and Control"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "CPUはテンポに合わせて動く",
+        "vi": "CPU hoạt động theo nhịp",
+        "en": "CPU Works to the Beat"
+      },
+      "content": {
+        "ja": "CPUの中には、演奏のテンポを一定に保つためのメトロノームのような装置があります。CPUはこのメトロノームのテンポに合わせて処理を行います。",
+        "vi": "Trong CPU có thiết bị giống như máy đếm nhịp để giữ nhịp biểu diễn không đổi. CPU thực hiện xử lý theo nhịp của máy đếm nhịp này.",
+        "en": "Inside CPU is device like metronome to keep performance tempo constant. CPU performs processing in time with this metronome's beat."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここでは、コンピュータの5つの役割のうちの2つ、「演算」と「制御」について解説します。これらの役割はともに「CPU」と呼ばれる装置が担っています。",
+      "vi": "Ở đây giải thích về 2 trong 5 vai trò của máy tính: \"tính toán\" và \"điều khiển\". Cả hai vai trò này đều được đảm nhận bởi thiết bị gọi là \"CPU\".",
+      "en": "Here explains 2 of 5 computer roles: 'arithmetic' and 'control.' Both roles are handled by device called 'CPU.'",
+      "terms": [
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "演算",
+          "reading": "えんざん"
+        },
+        {
+          "kanji": "制御",
+          "reading": "せいぎょ"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "担",
+          "reading": "たん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では「クロック周波数」と「マルチコアプロセッサ」の2つの用語の出題頻度が高いです。まずはこの2つの用語をきちんと押さえ、そのうえで、CPUの役割や機能の全体像をしっかりと理解してください。",
+      "vi": "Trong kỳ thi IT Passport, 2 thuật ngữ \"tần số xung nhịp\" và \"bộ xử lý đa lõi\" có tần suất ra đề cao. Trước tiên hãy nắm vững 2 thuật ngữ này, sau đó hiểu kỹ toàn bộ vai trò và chức năng của CPU.",
+      "en": "In IT Passport exam, 2 terms 'clock frequency' and 'multi-core processor' have high frequency. First master these 2 terms, then thoroughly understand CPU's overall role and functions.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "周波数",
+          "reading": "しゅうはすう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "押",
+          "reading": "おう"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "全体像",
+          "reading": "ぜんたいぞう"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "演算・制御とCPU",
+      "vi": "Tính toán, Điều khiển và CPU",
+      "en": "Arithmetic, Control, and CPU"
+    },
+    {
+      "type": "paragraph",
+      "ja": "コンピュータの演算と制御は、CPU（Central Processing Unit：中央処理装置）と呼ばれる1つの装置が担っています。そのことのとおり、「コンピュータの中心で仕事をする機械」です。人間における脳にあたる装置です。なお、CPUは「プロセッサ」と呼ばれることもあります。ここで覚えておいてください。",
+      "vi": "Tính toán và điều khiển của máy tính được đảm nhận bởi một thiết bị gọi là CPU (Central Processing Unit: Bộ xử lý trung tâm). Đúng như tên gọi, đó là \"máy làm việc ở trung tâm của máy tính\". Đó là thiết bị tương đương với não người. Ngoài ra, CPU đôi khi cũng được gọi là \"processor\". Hãy nhớ điều này.",
+      "en": "Computer arithmetic and control are handled by one device called CPU (Central Processing Unit). As name suggests, it's 'machine working at center of computer.' Device equivalent to human brain. Also, CPU is sometimes called 'processor.' Please remember this.",
+      "terms": [
+        {
+          "kanji": "演算",
+          "reading": "えんざん"
+        },
+        {
+          "kanji": "制御",
+          "reading": "せいぎょ"
+        },
+        {
+          "kanji": "中央処理装置",
+          "reading": "ちゅうおうしょりそうち"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "担",
+          "reading": "たん"
+        },
+        {
+          "kanji": "中心",
+          "reading": "ちゅうしん"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "機械",
+          "reading": "きかい"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "脳",
+          "reading": "のう"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "CPUの性能は、次の3つの指標で表されます。",
+      "vi": "Hiệu suất của CPU được biểu thị bằng 3 chỉ số sau.",
+      "en": "CPU performance is represented by following 3 metrics.",
+      "terms": [
+        {
+          "kanji": "性能",
+          "reading": "せいのう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "指標",
+          "reading": "しひょう"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        }
+      ]
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        {
+          "number": "(1)",
+          "ja": "クロック周波数",
+          "vi": "Tần số xung nhịp",
+          "en": "Clock Frequency"
+        },
+        {
+          "number": "(2)",
+          "ja": "コア",
+          "vi": "Lõi",
+          "en": "Core"
+        },
+        {
+          "number": "(3)",
+          "ja": "レジスタのデータサイズ",
+          "vi": "Kích thước dữ liệu thanh ghi",
+          "en": "Register Data Size"
+        }
+      ],
+      "note": {
+        "ja": "→ 3つの違いを理解しよう！",
+        "vi": "→ Hãy hiểu sự khác biệt của 3 cái!",
+        "en": "→ Understand differences of 3!"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（1）クロック周波数",
+      "reading": "クロックしゅうはすう",
+      "vi": "(1) Tần số xung nhịp",
+      "en": "(1) Clock Frequency"
+    },
+    {
+      "type": "paragraph",
+      "ja": "クロック周波数とは、CPUが動く速さを表す指標です。コンピュータは内部に発振器を持っていて、CPUはこの発振器が発生させるテンポに合わせて命令を処理します。クロック周波数はこの発振器が1秒間に発生させる信号の回数です。",
+      "vi": "Tần số xung nhịp là chỉ số biểu thị tốc độ hoạt động của CPU. Máy tính có bộ dao động bên trong, và CPU xử lý lệnh theo nhịp được tạo ra bởi bộ dao động này. Tần số xung nhịp là số lần tín hiệu được tạo ra trong 1 giây bởi bộ dao động này.",
+      "en": "Clock frequency is metric representing CPU operating speed. Computer has oscillator inside, and CPU processes instructions in time with tempo generated by this oscillator. Clock frequency is number of signals this oscillator generates per second.",
+      "terms": [
+        {
+          "kanji": "周波数",
+          "reading": "しゅうはすう"
+        },
+        {
+          "kanji": "動",
+          "reading": "どう"
+        },
+        {
+          "kanji": "速",
+          "reading": "そく"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "指標",
+          "reading": "しひょう"
+        },
+        {
+          "kanji": "内部",
+          "reading": "ないぶ"
+        },
+        {
+          "kanji": "発振器",
+          "reading": "はっしんき"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "発生",
+          "reading": "はっせい"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "命令",
+          "reading": "めいれい"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "秒間",
+          "reading": "びょうかん"
+        },
+        {
+          "kanji": "信号",
+          "reading": "しんごう"
+        },
+        {
+          "kanji": "回数",
+          "reading": "かいすう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "CPU",
+      "full": "Central Processing Unit",
+      "vi": "Bộ xử lý trung tâm",
+      "en": "Central Processing Unit",
+      "my": "စီပိုယူ (ဗၟမအို ပရိုဆက်ချင်ရူ)"
+    },
+    {
+      "term": "プロセッサ",
+      "vi": "Processor",
+      "en": "Processor",
+      "my": "ပရိုစက်ဆာ"
+    },
+    {
+      "term": "クロック周波数",
+      "reading": "クロックしゅうはすう",
+      "vi": "Tần số xung nhịp",
+      "en": "Clock Frequency",
+      "my": "ကလော့ ကြိမ်နှေုန်း"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

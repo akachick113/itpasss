@@ -1,0 +1,172 @@
+{
+    "page_id": 560,
+    "image": "p_0560.png",
+    "chapter": 15,
+    "section": "Answer",
+    "page_number": 544,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "15-9",
+            "answer": "エ",
+            "explanation": {
+                "ja": "可用性とは、必要なときにサービスの利用が可能であることです。「利用が可能」という意味で覚えておいてください。サービスが利用できない事象は選択肢エのみになります。可用性に関してはこの問題のようにDoS攻撃によるサービス妨害が頻繁に出題されます。",
+                "vi": "Tính sẵn sàng là có thể sử dụng dịch vụ khi cần. Hãy nhớ với nghĩa \"có thể sử dụng\". Sự kiện không thể sử dụng dịch vụ chỉ có lựa chọn エ. Về tính sẵn sàng, như câu hỏi này, cản trở dịch vụ do DoS Attack thường được ra đề.",
+                "en": "Availability is being able to use service when needed. Remember as meaning 'can use.' Event where service cannot be used is only choice エ. For availability, like this question, service obstruction from DoS Attack frequently appears."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "機密性が損なわれる事象です。",
+                        "vi": "Là sự kiện mất tính bảo mật.",
+                        "en": "Is event damaging confidentiality."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "完全性が損なわれる事象です。",
+                        "vi": "Là sự kiện mất tính toàn vẹn.",
+                        "en": "Is event damaging integrity."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "機密性が損なわれる事象です。",
+                        "vi": "Là sự kiện mất tính bảo mật.",
+                        "en": "Is event damaging confidentiality."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "15-10",
+            "answer": "イ",
+            "explanation": {
+                "ja": "リスクマネジメントは次の4つのプロセスで行います。",
+                "vi": "Quản lý rủi ro được thực hiện với 4 quy trình sau.",
+                "en": "Risk Management is done with following 4 processes."
+            },
+            "process_list": [
+                {
+                    "ja": "リスク特定：リスクの洗い出し",
+                    "vi": "Xác định rủi ro: Xác định rủi ro",
+                    "en": "Risk Identification: Identify risks"
+                },
+                {
+                    "ja": "リスク分析：リスクの発生確率と損害の大きさを調べる",
+                    "vi": "Phân tích rủi ro: Điều tra xác suất xảy ra và mức độ thiệt hại",
+                    "en": "Risk Analysis: Investigate occurrence probability and damage size"
+                },
+                {
+                    "ja": "リスク評価：リスクに優先順位をつける",
+                    "vi": "Đánh giá rủi ro: Đặt ưu tiên cho rủi ro",
+                    "en": "Risk Evaluation: Prioritize risks"
+                },
+                {
+                    "ja": "リスク対応：リスクに対処する",
+                    "vi": "Đối phó rủi ro: Đối phó rủi ro",
+                    "en": "Risk Response: Address risks"
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "15-11",
+            "answer": "イ",
+            "explanation": {
+                "ja": "保険に加入してリスクを他の組織と共有することは「リスク共有」に分類されます。その他の選択肢はすべて「リスク低減」の例です。",
+                "vi": "Việc tham gia bảo hiểm và chia sẻ rủi ro với tổ chức khác được phân loại là \"Chia sẻ rủi ro\". Các lựa chọn khác đều là ví dụ của \"Giảm rủi ro\".",
+                "en": "Joining insurance to share risk with other organizations is classified as 'Risk Sharing.' Other choices are all examples of 'Risk Reduction.'"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "15-12",
+            "answer": "イ",
+            "explanation": {
+                "ja": "「ランサム」の意味が「身代金」であることを覚えておけば、イの「キーを提供することなどを条件に金銭を要求」が正解であるとわかります。",
+                "vi": "Nếu nhớ nghĩa của \"Ransom\" là \"tiền chuộc\", có thể hiểu イ \"yêu cầu tiền với điều kiện như cung cấp khóa\" là đáp án đúng.",
+                "en": "If remember meaning of 'Ransom' is 'ransom money,' can understand イ 'demanding money on condition like providing key' is correct."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "バックドアに関する記述です。",
+                        "vi": "Là mô tả về Backdoor.",
+                        "en": "Is description about Backdoor."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "MITB（Man-In-The-Browser）攻撃に関する記述です。",
+                        "vi": "Là mô tả về tấn công MITB (Man-In-The-Browser).",
+                        "en": "Is description about MITB (Man-In-The-Browser) attack."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "ワームに関する記述です。",
+                        "vi": "Là mô tả về Worm.",
+                        "en": "Is description about Worm."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "15-13",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "ショルダーハックとは、他人がパスワードなどの秘密の情報を入力しているところを肩越しに盗み見ることです。ショルダーハックへの対策として有効なのは、後ろから見られないように、ディスプレイにのぞき見防止フィルムを貼ることです。",
+                "vi": "Shoulder Hack là nhìn trộm qua vai khi người khác đang nhập thông tin bí mật như mật khẩu. Biện pháp hiệu quả đối với Shoulder Hack là dán film chống nhìn trộm lên màn hình để không bị nhìn từ phía sau.",
+                "en": "Shoulder Hack is peeking over shoulder when others enter secret information like passwords. Effective countermeasure for Shoulder Hack is applying anti-peeping film on display so cannot be seen from behind."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "15-14",
+            "answer": "ア",
+            "explanation": {
+                "ja": "物理的に離れたパソコンを、ネットワーク経由で遠隔操作するマルウェアのことを「RAT」（Remote Administration Tool/Remote Access Tool）といいます。",
+                "vi": "Malware điều khiển từ xa máy tính ở xa về mặt vật lý qua mạng được gọi là \"RAT\" (Remote Administration Tool/Remote Access Tool).",
+                "en": "Malware that remotely controls physically distant computers via network is called 'RAT' (Remote Administration Tool/Remote Access Tool)."
+            },
+            "option_explanations": [
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "VPN（Virtual Private Network）は、インターネットなどの公共の通信回線を、あたかも専用回線のように利用できる技術です。",
+                        "vi": "VPN (Virtual Private Network) là công nghệ có thể sử dụng đường truyền thông công cộng như Internet như thể đường truyền chuyên dụng.",
+                        "en": "VPN (Virtual Private Network) is technology enabling use of public communication lines like Internet as if dedicated lines."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "デバイスドライバは、PCから周辺機器を操作するためのソフトウェアです。",
+                        "vi": "Device driver là phần mềm để thao tác thiết bị ngoại vi từ PC.",
+                        "en": "Device driver is software for operating peripheral devices from PC."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "ランサムウェアは、PCやファイルを使用不能にしたうえで、回復のための金銭を要求するソフトウェアです。",
+                        "vi": "Ransomware là phần mềm yêu cầu tiền để khôi phục sau khi làm PC hoặc file không thể sử dụng.",
+                        "en": "Ransomware is software demanding money for recovery after making PC or files unusable."
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "is_answer": true
+    }
+}

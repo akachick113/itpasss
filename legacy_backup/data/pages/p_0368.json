@@ -1,0 +1,156 @@
+{
+  "page_id": 368,
+  "image": "p_0368.png",
+  "chapter": 9,
+  "section": "09-08",
+  "page_number": 352,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "09-08",
+      "title": {
+        "ja": "プログラミング② 選択処理と繰り返し処理",
+        "vi": "Lập trình ② Xử lý lựa chọn và Xử lý lặp",
+        "en": "Programming ② Selection Processing and Loop Processing"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "信号機は車の流れをコントロールする",
+        "vi": "Đèn tín hiệu điều khiển dòng xe",
+        "en": "Traffic Lights Control Traffic Flow"
+      },
+      "content": {
+        "ja": "交差点では、信号機が青なら車が進み、赤なら車が止まります。信号機の色という「条件」によって、車の流れをコントロールしています。プログラムでも、処理の流れをコントロールできます。",
+        "vi": "Tại ngã tư, nếu đèn xanh thì xe đi, nếu đỏ thì xe dừng. Điều khiển dòng xe bằng \"điều kiện\" là màu đèn tín hiệu. Trong chương trình cũng có thể điều khiển luồng xử lý.",
+        "en": "At intersection, if light is green cars proceed, if red cars stop. Controls traffic flow by 'condition' of traffic light color. In programs too, can control processing flow."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "コンピュータがプログラムを処理する順序には、次の3種類があります。",
+      "vi": "Thứ tự máy tính xử lý chương trình có 3 loại sau.",
+      "en": "Order computer processes program has following 3 types.",
+      "terms": [
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "順序",
+          "reading": "じゅんじょ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "処理の流れ",
+        "vi": "Luồng xử lý",
+        "en": "Processing Flow"
+      },
+      "headers": {
+        "ja": [
+          "処理の流れ",
+          "説明"
+        ],
+        "vi": [
+          "Luồng xử lý",
+          "Giải thích"
+        ],
+        "en": [
+          "Processing Flow",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "type": {
+            "ja": "順次処理",
+            "vi": "Xử lý tuần tự",
+            "en": "Sequential Processing"
+          },
+          "description": {
+            "ja": "プログラムを上の行から順番に実行する。",
+            "vi": "Thực hiện chương trình theo thứ tự từ dòng trên.",
+            "en": "Execute program in order from top line."
+          }
+        },
+        {
+          "type": {
+            "ja": "選択処理",
+            "vi": "Xử lý lựa chọn",
+            "en": "Selection Processing"
+          },
+          "description": {
+            "ja": "指定した条件に合致した場合のみ、処理を実行する。",
+            "vi": "Chỉ thực hiện xử lý khi phù hợp với điều kiện đã chỉ định.",
+            "en": "Execute processing only when matching specified condition."
+          }
+        },
+        {
+          "type": {
+            "ja": "繰り返し処理",
+            "vi": "Xử lý lặp",
+            "en": "Loop Processing"
+          },
+          "description": {
+            "ja": "指定した条件に合致した場合のみ、処理を繰り返し実行する。",
+            "vi": "Chỉ thực hiện lặp xử lý khi phù hợp với điều kiện đã chỉ định.",
+            "en": "Repeat processing only when matching specified condition."
+          }
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "処理の流れ",
+        "vi": "Luồng xử lý",
+        "en": "Processing Flow"
+      },
+      "description": {
+        "ja": "順次処理、選択処理、繰り返し処理の3つのフローチャート図。順次処理は処理1→処理2の直線。選択処理は条件式でNo/Yesに分岐して処理。繰り返し処理は条件式でループ。",
+        "vi": "3 sơ đồ flowchart: xử lý tuần tự, xử lý lựa chọn, xử lý lặp. Xử lý tuần tự là đường thẳng xử lý 1→xử lý 2. Xử lý lựa chọn phân nhánh No/Yes theo biểu thức điều kiện. Xử lý lặp là vòng lặp theo biểu thức điều kiện.",
+        "en": "3 flowcharts: sequential, selection, loop processing. Sequential is straight line processing 1→processing 2. Selection branches No/Yes by conditional expression. Loop is loop by conditional expression."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "順次処理",
+      "reading": "じゅんじしょり",
+      "vi": "Xử lý tuần tự",
+      "en": "Sequential Processing",
+      "my": "အစီအစဥ် လုပ်ဆောင်ချက်"
+    },
+    {
+      "term": "選択処理",
+      "reading": "せんたくしょり",
+      "vi": "Xử lý lựa chọn",
+      "en": "Selection Processing",
+      "my": "ရွေးချယ်ပြိုး လုပ်ဆောင်ချက်"
+    },
+    {
+      "term": "繰り返し処理",
+      "reading": "くりかえししょり",
+      "vi": "Xử lý lặp",
+      "en": "Loop Processing",
+      "my": "ထပ်ခါထပ်ခါ လုပ်ဆောင်ချက်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

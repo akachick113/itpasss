@@ -1,0 +1,275 @@
+{
+  "page_id": 298,
+  "image": "p_0298.png",
+  "chapter": 8,
+  "section": "08-01",
+  "page_number": 282,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "ンの接客などは思い浮かべずに、情報システムが生み出すサービス（ITサービス）を思い浮かべてください。",
+      "vi": "đừng nghĩ đến tiếp khách, hãy nghĩ đến dịch vụ (IT Service) mà hệ thống thông tin tạo ra.",
+      "en": "don't think of customer service, think of service (IT Service) that information systems produce.",
+      "terms": [
+        {
+          "kanji": "接客",
+          "reading": "せっきゃく"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "浮",
+          "reading": "ふ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ITILとは、ITサービスマネジメントのベストプラクティス集である",
+          "vi": "ITIL là tập hợp Best Practice của IT Service Management",
+          "en": "ITIL is a collection of IT Service Management Best Practices"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "「ベストプラクティス」がキーワード",
+        "vi": "\"Best Practice\" là từ khóa",
+        "en": "'Best Practice' is the keyword",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ITパスポート試験において「ベストプラクティス」ときたら、ほぼ間違いなくITILに関する問題です。ベストプラクティスとは「最良の事例」という意味です。",
+        "vi": "Trong kỳ thi IT Passport, khi thấy \"Best Practice\" thì gần như chắc chắn là câu hỏi về ITIL. Best Practice có nghĩa là \"ví dụ tốt nhất\".",
+        "en": "In IT Passport exam, when you see 'Best Practice,' it's almost certainly a question about ITIL. Best Practice means 'best example.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "プロジェクトマネジメントとサービスマネジメントの違い",
+      "reading": "ぷろじぇくとまねじめんととさーびすまねじめんとのちがい",
+      "vi": "Sự khác biệt giữa Project Management và Service Management",
+      "en": "Difference Between Project Management and Service Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここで、前章で解説した「プロジェクトマネジメント」（p.259）と、ここで解説した「サービスマネジメント」の違いをまとめておきます。ITパスポート試験においては両方ともとても重要な用語なので、しっかりと整理しておいてください。関連書籍や成果物の有無、期間などが試験によく出題されます。",
+      "vi": "Ở đây, tổng hợp sự khác biệt giữa \"Project Management\" (trang 259) đã giải thích ở chương trước và \"Service Management\" giải thích ở đây. Cả hai đều là thuật ngữ rất quan trọng trong kỳ thi IT Passport, hãy chắc chắn sắp xếp rõ ràng. Sách liên quan, có hay không thành quả, thời gian thường ra đề.",
+      "en": "Here, we summarize differences between 'Project Management' (p.259) explained in previous chapter and 'Service Management' explained here. Both are very important terms in IT Passport exam, so organize clearly. Related books, presence of deliverables, duration are often tested.",
+      "terms": [
+        {
+          "kanji": "前章",
+          "reading": "ぜんしょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "整理",
+          "reading": "せいり"
+        },
+        {
+          "kanji": "関連書籍",
+          "reading": "かんれんしょせき"
+        },
+        {
+          "kanji": "成果物",
+          "reading": "せいかぶつ"
+        },
+        {
+          "kanji": "有無",
+          "reading": "うむ"
+        },
+        {
+          "kanji": "期間",
+          "reading": "きかん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "プロジェクトマネジメントとサービスマネジメントの違い",
+        "vi": "Sự khác biệt giữa Project Management và Service Management",
+        "en": "Difference Between Project Management and Service Management"
+      },
+      "headers": {
+        "ja": [
+          "",
+          "プロジェクトマネジメント",
+          "サービスマネジメント"
+        ],
+        "vi": [
+          "",
+          "Project Management",
+          "Service Management"
+        ],
+        "en": [
+          "",
+          "Project Management",
+          "Service Management"
+        ]
+      },
+      "rows": [
+        {
+          "item": {
+            "ja": "対象",
+            "vi": "Đối tượng",
+            "en": "Target"
+          },
+          "pm": {
+            "ja": "プロジェクト（主にシステム）",
+            "vi": "Project (chủ yếu là hệ thống)",
+            "en": "Project (mainly systems)"
+          },
+          "sm": {
+            "ja": "サービス（主にITサービス）",
+            "vi": "Service (chủ yếu là IT Service)",
+            "en": "Service (mainly IT Service)"
+          }
+        },
+        {
+          "item": {
+            "ja": "工程",
+            "vi": "Công đoạn",
+            "en": "Process"
+          },
+          "pm": {
+            "ja": "開発プロセス",
+            "vi": "Development Process",
+            "en": "Development Process"
+          },
+          "sm": {
+            "ja": "運用・保守プロセス",
+            "vi": "Operation/Maintenance Process",
+            "en": "Operation/Maintenance Process"
+          }
+        },
+        {
+          "item": {
+            "ja": "期間",
+            "vi": "Thời gian",
+            "en": "Duration"
+          },
+          "pm": {
+            "ja": "一回限り",
+            "vi": "Một lần",
+            "en": "One-time"
+          },
+          "sm": {
+            "ja": "定期的に何度も",
+            "vi": "Định kỳ nhiều lần",
+            "en": "Regular, multiple times"
+          }
+        },
+        {
+          "item": {
+            "ja": "成果物",
+            "vi": "Thành quả",
+            "en": "Deliverable"
+          },
+          "pm": {
+            "ja": "あり",
+            "vi": "Có",
+            "en": "Yes"
+          },
+          "sm": {
+            "ja": "ほぼなし",
+            "vi": "Hầu như không",
+            "en": "Almost none"
+          }
+        },
+        {
+          "item": {
+            "ja": "関連書籍",
+            "vi": "Sách liên quan",
+            "en": "Related Books"
+          },
+          "pm": {
+            "ja": "PMBOKガイド",
+            "vi": "PMBOK Guide",
+            "en": "PMBOK Guide"
+          },
+          "sm": {
+            "ja": "ITIL",
+            "vi": "ITIL",
+            "en": "ITIL"
+          }
+        }
+      ],
+      "note": {
+        "ja": "プロジェクトマネジメントとサービスマネジメントは似ているので間違えないように要注意！",
+        "vi": "Project Management và Service Management giống nhau nên hãy cẩn thận không nhầm lẫn!",
+        "en": "Project Management and Service Management are similar, so be careful not to confuse them!"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ベストプラクティス",
+      "reading": "べすとぷらくてぃす",
+      "romaji": "Best Practice",
+      "vi": "Thực tiễn tốt nhất",
+      "en": "Best Practice",
+      "my": "အကောင်းဆုံး အလေ့အကျင့်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true
+  }
+}

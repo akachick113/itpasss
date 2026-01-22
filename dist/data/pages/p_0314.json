@@ -1,0 +1,218 @@
+{
+  "page_id": 314,
+  "image": "p_0314.png",
+  "chapter": 8,
+  "section": "08-04",
+  "page_number": 298,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "自家発電装置",
+      "reading": "じかはつでんそうち",
+      "vi": "Máy phát điện dự phòng",
+      "en": "Backup Power Generator",
+      "note": "よく出る！UPSとの違いを確認！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "自家発電装置とは、長時間の停電が発生した際に、システムに電力を供給するための装置です。UPSよりも長時間、電力を供給する必要がある場合は自家発電装置も併用します。ただし、自家発電装置が電力の供給を開始するまでには一定の時間がかかるため、UPSとの併用が必須です。",
+      "vi": "Máy phát điện dự phòng là thiết bị cung cấp điện cho hệ thống khi mất điện dài hạn. Nếu cần cung cấp điện lâu hơn UPS, sử dụng kết hợp máy phát điện dự phòng. Tuy nhiên, vì máy phát điện dự phòng cần thời gian nhất định để bắt đầu cung cấp điện, nên phải kết hợp với UPS.",
+      "en": "Backup Power Generator is device that supplies power to system during long-term power outage. If power supply is needed longer than UPS can provide, backup generator is also used. However, since backup generator takes certain time to start supplying power, combination with UPS is essential.",
+      "terms": [
+        {
+          "kanji": "自家発電装置",
+          "reading": "じかはつでんそうち"
+        },
+        {
+          "kanji": "長時間",
+          "reading": "ちょうじかん"
+        },
+        {
+          "kanji": "停電",
+          "reading": "ていでん"
+        },
+        {
+          "kanji": "発生",
+          "reading": "はっせい"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "電力",
+          "reading": "でんりょく"
+        },
+        {
+          "kanji": "供給",
+          "reading": "きょうきゅう"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "併用",
+          "reading": "へいよう"
+        },
+        {
+          "kanji": "開始",
+          "reading": "かいし"
+        },
+        {
+          "kanji": "一定",
+          "reading": "いってい"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "必須",
+          "reading": "ひっす"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "UPSと自家発電装置の関係",
+        "vi": "Mối quan hệ giữa UPS và Máy phát điện dự phòng",
+        "en": "Relationship Between UPS and Backup Power Generator"
+      },
+      "description": {
+        "ja": "商用電源 → 電源ボックス → スイッチ → UPS → 自家発電装置 → サーバ → パソコン",
+        "vi": "Nguồn điện thương mại → Hộp nguồn → Switch → UPS → Máy phát điện dự phòng → Server → PC",
+        "en": "Commercial power → Power box → Switch → UPS → Backup generator → Server → PC"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "つまり、停電などによって商用電源からの電力供給が停止した場合は、最初にUPSが起動して一時的に必要な電力を供給します（数分間）。自家発電装置も用意している環境においては、その数分間のうちに自家発電装置が利用可能な状態になり、その後、長時間にわたって安定した電力を確保できます。",
+      "vi": "Nghĩa là, khi cung cấp điện từ nguồn thương mại dừng do mất điện, đầu tiên UPS khởi động và cung cấp điện tạm thời cần thiết (vài phút). Trong môi trường có chuẩn bị máy phát điện dự phòng, trong vài phút đó máy phát điện dự phòng sẽ sẵn sàng, sau đó có thể đảm bảo điện ổn định trong thời gian dài.",
+      "en": "That is, when power supply from commercial source stops due to outage, first UPS starts and supplies necessary power temporarily (several minutes). In environment with backup generator prepared, during those minutes backup generator becomes available, then stable power can be secured for long time.",
+      "terms": [
+        {
+          "kanji": "停電",
+          "reading": "ていでん"
+        },
+        {
+          "kanji": "商用電源",
+          "reading": "しょうようでんげん"
+        },
+        {
+          "kanji": "電力供給",
+          "reading": "でんりょくきょうきゅう"
+        },
+        {
+          "kanji": "停止",
+          "reading": "ていし"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "起動",
+          "reading": "きどう"
+        },
+        {
+          "kanji": "一時的",
+          "reading": "いちじてき"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "電力",
+          "reading": "でんりょく"
+        },
+        {
+          "kanji": "供給",
+          "reading": "きょうきゅう"
+        },
+        {
+          "kanji": "数分間",
+          "reading": "すうふんかん"
+        },
+        {
+          "kanji": "自家発電装置",
+          "reading": "じかはつでんそうち"
+        },
+        {
+          "kanji": "用意",
+          "reading": "ようい"
+        },
+        {
+          "kanji": "環境",
+          "reading": "かんきょう"
+        },
+        {
+          "kanji": "利用可能",
+          "reading": "りようかのう"
+        },
+        {
+          "kanji": "状態",
+          "reading": "じょうたい"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "長時間",
+          "reading": "ちょうじかん"
+        },
+        {
+          "kanji": "安定",
+          "reading": "あんてい"
+        },
+        {
+          "kanji": "確保",
+          "reading": "かくほ"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "UPSと自家発電装置",
+        "vi": "UPS và Máy phát điện dự phòng",
+        "en": "UPS and Backup Power Generator",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ITパスポート試験では、UPS（無停電電源装置）と自家発電装置の違いが出題されます。どちらの装置も「停電時に電力を供給する」という同じ役割を持っているため混同しがちなので、きちんと区別できるよう、それぞれの特徴を把握しておいてください。UPSは、停電するとすぐに電力を短時間供給します。一方で、自家発電装置は、停電の一定時間後に電力を長時間供給します。",
+        "vi": "Trong kỳ thi IT Passport, sự khác biệt giữa UPS (Nguồn điện liên tục) và máy phát điện dự phòng được ra đề. Cả hai thiết bị đều có vai trò giống nhau \"cung cấp điện khi mất điện\" nên dễ nhầm lẫn, hãy nắm đặc điểm từng loại để phân biệt đúng. UPS cung cấp điện ngay lập tức trong thời gian ngắn khi mất điện. Mặt khác, máy phát điện dự phòng cung cấp điện trong thời gian dài sau một khoảng thời gian nhất định từ khi mất điện.",
+        "en": "In IT Passport exam, difference between UPS (Uninterruptible Power Supply) and backup generator is tested. Both devices have same role of 'supplying power during outage' so easy to confuse; understand each characteristic to distinguish properly. UPS supplies power immediately for short time when outage occurs. On other hand, backup generator supplies power for long time after certain interval from outage."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "自家発電装置",
+      "reading": "じかはつでんそうち",
+      "romaji": "Jika Hatsuden Souchi",
+      "vi": "Máy phát điện dự phòng",
+      "en": "Backup Power Generator",
+      "my": "အရန် လျှပ်စစ် ထုတ်စက်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true
+  }
+}

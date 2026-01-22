@@ -1,0 +1,151 @@
+{
+  "page_id": 517,
+  "image": "p_0517.png",
+  "chapter": 14,
+  "section": "14-04",
+  "page_number": 501,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "URL",
+      "vi": "URL",
+      "en": "URL"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "URL",
+        "vi": "URL",
+        "en": "URL"
+      },
+      "definition": {
+        "ja": "URL（Uniform Resource Locator）とは、ドメイン名（またはIPアドレス）によって特定されたコンピュータのさらに内部のデータ（フォルダやファイル）までを直接指定するための記法です。ドメイン名の後に「/」（スラッシュ）を使って記入します。ドメイン名とURLの関係は下図のとおりです。",
+        "vi": "URL (Uniform Resource Locator) là ký pháp để chỉ định trực tiếp đến dữ liệu bên trong (thư mục, tệp) của máy tính được xác định bởi tên miền (hoặc địa chỉ IP). Ghi bằng cách sử dụng \"/\" (dấu gạch chéo) sau tên miền. Quan hệ giữa tên miền và URL như hình bên dưới.",
+        "en": "URL (Uniform Resource Locator) is notation for directly specifying data inside (folders, files) of computer identified by Domain Name (or IP Address). Write using '/' (slash) after Domain Name. Relationship between Domain Name and URL is as diagram below."
+      }
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ドメイン名とURLの関係",
+        "vi": "Quan hệ giữa Tên miền và URL",
+        "en": "Relationship Between Domain Name and URL"
+      },
+      "description": {
+        "ja": "https://www.example.co.jp/abc.html。www.example.co.jpの部分がドメイン名、全体がURL",
+        "vi": "https://www.example.co.jp/abc.html. Phần www.example.co.jp là tên miền, toàn bộ là URL",
+        "en": "https://www.example.co.jp/abc.html. Part www.example.co.jp is Domain Name, entire thing is URL"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ドメイン名はネットワーク上のコンピュータを特定するが、URLはそのコンピュータに保存されているフォルダやファイルまで特定する",
+          "vi": "Tên miền xác định máy tính trên mạng, nhưng URL xác định đến thư mục và tệp được lưu trên máy tính đó",
+          "en": "Domain Name identifies computer on network, but URL identifies folders and files stored on that computer"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "IPv6",
+      "vi": "IPv6",
+      "en": "IPv6"
+    },
+    {
+      "type": "paragraph",
+      "ja": "現在私たちが使っているIPアドレスは、「IPv4」と呼ばれるIPアドレスです。このIPアドレスは32桁の2進数（32ビット）で構成されているので、アドレスの総数は約43億個（2の32乗）になります。",
+      "vi": "Địa chỉ IP mà chúng ta đang sử dụng hiện tại được gọi là \"IPv4\". Địa chỉ IP này được cấu thành từ số nhị phân 32 chữ số (32 bit), nên tổng số địa chỉ là khoảng 4,3 tỷ (2 mũ 32).",
+      "en": "IP Address we currently use is called 'IPv4.' This IP Address is composed of 32-digit binary (32 bits), so total number of addresses is about 4.3 billion (2 to 32nd power).",
+      "terms": [
+        {
+          "kanji": "現在私",
+          "reading": "げんざいわたし"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "桁",
+          "reading": "けた"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "総数",
+          "reading": "そうすう"
+        },
+        {
+          "kanji": "約",
+          "reading": "やく"
+        },
+        {
+          "kanji": "億個",
+          "reading": "おくこ"
+        },
+        {
+          "kanji": "乗",
+          "reading": "じょう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "IPv4",
+        "vi": "IPv4",
+        "en": "IPv4"
+      },
+      "description": {
+        "ja": "10進数表記: 13.112.248.159。2進数表記: 00001101.01110000.11111000.10011111。各8ビット×4 = 全部で32ビット",
+        "vi": "Ký pháp thập phân: 13.112.248.159. Ký pháp nhị phân: 00001101.01110000.11111000.10011111. Mỗi 8 bit × 4 = Tổng cộng 32 bit",
+        "en": "Decimal notation: 13.112.248.159. Binary notation: 00001101.01110000.11111000.10011111. Each 8 bits × 4 = Total 32 bits"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "URL",
+      "full": "Uniform Resource Locator",
+      "vi": "URL (Bộ định vị tài nguyên thống nhất)",
+      "en": "URL (Uniform Resource Locator)",
+      "my": "URL (အချိုးကျား အရင်းမြစ်တည်နေရာ)"
+    },
+    {
+      "term": "IPv4",
+      "vi": "IPv4 (Phiên bản 4)",
+      "en": "IPv4 (Version 4)",
+      "my": "IPv4 (ဗားရှင်း ၄)"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

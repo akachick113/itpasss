@@ -1,0 +1,217 @@
+{
+  "page_id": 500,
+  "image": "p_0500.png",
+  "chapter": 14,
+  "section": "14-01",
+  "page_number": 484,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "14-01",
+      "title": {
+        "ja": "LANとWAN",
+        "vi": "LAN và WAN",
+        "en": "LAN and WAN"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "LANは廊下、WANは道路",
+        "vi": "LAN là hành lang, WAN là đường",
+        "en": "LAN is Hallway, WAN is Road"
+      },
+      "content": {
+        "ja": "ネットワークは大きくLANとWANの2つに分けられます。ネットワークを道路に例えるなら、LANは家の中の廊下、WANは家の外の道路です。",
+        "vi": "Mạng được chia lớn thành 2 loại: LAN và WAN. Nếu ví mạng như đường, LAN là hành lang trong nhà, WAN là đường bên ngoài nhà.",
+        "en": "Network is broadly divided into 2: LAN and WAN. If comparing network to road, LAN is hallway inside house, WAN is road outside house."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ネットワークとは、複数のコンピュータを通信回線でつないだシステムです。ネットワークの構成要素にはコンピュータ、通信回線、通信回線上のネットワーク機器（ルーターなど）、および、各機器を制御するソフトウェアなどがあります。",
+      "vi": "Mạng là hệ thống kết nối nhiều máy tính bằng đường truyền thông. Các thành phần cấu thành mạng bao gồm máy tính, đường truyền thông, thiết bị mạng trên đường truyền (router,...), và phần mềm điều khiển các thiết bị.",
+      "en": "Network is system connecting multiple computers with communication lines. Network components include computers, communication lines, network devices on lines (routers, etc.), and software controlling each device.",
+      "terms": [
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "通信回線",
+          "reading": "つうしんかいせん"
+        },
+        {
+          "kanji": "構成要素",
+          "reading": "こうせいようそ"
+        },
+        {
+          "kanji": "通信回線上",
+          "reading": "つうしんかいせんうえ"
+        },
+        {
+          "kanji": "機器",
+          "reading": "きき"
+        },
+        {
+          "kanji": "各機器",
+          "reading": "かくきき"
+        },
+        {
+          "kanji": "制御",
+          "reading": "せいぎょ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では「LAN」「WAN」「ルーター」「デフォルトゲートウェイ」「ESSID」の5つの用語の出題頻度が高いので、これらの用語は確実に習得してください。",
+      "vi": "Trong kỳ thi IT Passport, 5 thuật ngữ \"LAN\", \"WAN\", \"Router\", \"Default Gateway\", \"ESSID\" có tần suất ra đề cao, nên hãy chắc chắn nắm vững các thuật ngữ này.",
+      "en": "In IT Passport exam, 5 terms 'LAN,' 'WAN,' 'Router,' 'Default Gateway,' 'ESSID' appear frequently, so definitely master these terms.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "確実",
+          "reading": "かくじつ"
+        },
+        {
+          "kanji": "習得",
+          "reading": "しゅうとく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "それでは、ネットワークの基本的な構成の話からはじめていきます。",
+      "vi": "Bây giờ, hãy bắt đầu từ câu chuyện về cấu hình cơ bản của mạng.",
+      "en": "Now, let's start from discussion of basic network configuration.",
+      "terms": [
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "話",
+          "reading": "はなし"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ネットワークの種類",
+      "vi": "Loại mạng",
+      "en": "Types of Network"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ネットワークは、大きく次の2種類に分類できます。",
+      "vi": "Mạng có thể được phân loại lớn thành 2 loại sau.",
+      "en": "Network can be broadly classified into following 2 types.",
+      "terms": [
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "LAN",
+          "vi": "LAN",
+          "en": "LAN"
+        },
+        {
+          "ja": "WAN",
+          "vi": "WAN",
+          "en": "WAN"
+        }
+      ]
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "LAN",
+        "vi": "LAN",
+        "en": "LAN"
+      },
+      "definition": {
+        "ja": "LAN（Local Area Network）とは、その名前のとおり、社内や学校内といった、狭い範囲のコンピュータで構成される小規模なネットワークのことです。",
+        "vi": "LAN (Local Area Network) như tên gọi, là mạng quy mô nhỏ được cấu thành từ các máy tính trong phạm vi hẹp như trong công ty hoặc trong trường học.",
+        "en": "LAN (Local Area Network), as its name suggests, is small-scale network composed of computers in narrow range like within company or within school."
+      }
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "WAN",
+        "vi": "WAN",
+        "en": "WAN"
+      },
+      "definition": {
+        "ja": "一方、WAN（Wide Area Network）とは、大規模な（広範囲の）ネットワークの",
+        "vi": "Mặt khác, WAN (Wide Area Network) là mạng quy mô lớn (phạm vi rộng)",
+        "en": "On other hand, WAN (Wide Area Network) is large-scale (wide-range) network"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "LAN",
+      "full": "Local Area Network",
+      "vi": "LAN (Mạng cục bộ)",
+      "en": "LAN (Local Area Network)",
+      "my": "အဲလ်အေအန်"
+    },
+    {
+      "term": "WAN",
+      "full": "Wide Area Network",
+      "vi": "WAN (Mạng diện rộng)",
+      "en": "WAN (Wide Area Network)",
+      "my": "ဒဗလ်ယူအေအန်"
+    },
+    {
+      "term": "ネットワーク",
+      "vi": "Mạng",
+      "en": "Network",
+      "my": "နက်ဝက်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

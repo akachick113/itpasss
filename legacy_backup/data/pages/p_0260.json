@@ -1,0 +1,310 @@
+{
+  "page_id": 260,
+  "image": "p_0260.png",
+  "chapter": 6,
+  "section": "06-06",
+  "page_number": 244,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "保守プロセス",
+      "reading": "ほしゅぷろせす",
+      "vi": "Quy trình bảo trì",
+      "en": "Maintenance Process",
+      "note": {
+        "ja": "ITパスポート試験での赤い本にも注目！",
+        "vi": "Chú ý sách đỏ trong kỳ thi IT Passport!",
+        "en": "Pay attention to red book in IT Passport exam too!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "保守プロセスとは、稼働中に見つかったバグを修正したり、ソフトウェアに新機能を追加したりする工程です。このプロセスがシステム開発の最後の工程です。このプロセスのポイントは、テスト環境や稼働前の本番環境ではなく、稼働中の本番環境に対して何らかの作業を行う工程であるという点です。なお、ITパスポート試験では「ソフトウェア保守」という用語でよく出題されます。",
+      "vi": "Quy trình bảo trì là công đoạn sửa bug tìm thấy khi đang hoạt động hoặc thêm tính năng mới vào phần mềm. Đây là công đoạn cuối cùng của phát triển hệ thống. Điểm quan trọng của quy trình này là công đoạn thực hiện một số công việc đối với môi trường thực tế đang hoạt động, không phải môi trường test hay môi trường thực tế trước khi hoạt động. Trong kỳ thi IT Passport thường ra đề với thuật ngữ \"Bảo trì phần mềm\".",
+      "en": "Maintenance Process is the phase to fix bugs found during operation or add new features to software. This is the last phase of system development. The key point is this phase performs work on the running production environment, not test environment or pre-operation production environment. In IT Passport exam, it often appears as 'Software Maintenance.'",
+      "terms": [
+        {
+          "kanji": "保守",
+          "reading": "ほしゅ"
+        },
+        {
+          "kanji": "稼働中",
+          "reading": "かどうちゅう"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "修正",
+          "reading": "しゅうせい"
+        },
+        {
+          "kanji": "新機能",
+          "reading": "しんきのう"
+        },
+        {
+          "kanji": "追加",
+          "reading": "ついか"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "最後",
+          "reading": "さいご"
+        },
+        {
+          "kanji": "環境",
+          "reading": "かんきょう"
+        },
+        {
+          "kanji": "稼働前",
+          "reading": "かどうまえ"
+        },
+        {
+          "kanji": "本番環境",
+          "reading": "ほんばんかんきょう"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "見積法も大切",
+      "reading": "みつもりほうもたいせつ",
+      "vi": "Phương pháp ước tính cũng quan trọng",
+      "en": "Estimation Methods are Also Important"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システム開発はビジネスなので、行った仕事に対する対価を支払ってもらう必要があります。システムの値段はどのようにして決まるのでしょうか。ITパスポート試験では開発費を見積もる方法として「ファンクションポイント法」がよく出題されます。",
+      "vi": "Phát triển hệ thống là kinh doanh nên cần được thanh toán cho công việc đã thực hiện. Giá của hệ thống được quyết định như thế nào? Trong kỳ thi IT Passport thường ra đề về \"Function Point Method\" như phương pháp ước tính chi phí phát triển.",
+      "en": "System development is business, so payment for work done is necessary. How is the price of a system determined? In IT Passport exam, 'Function Point Method' often appears as a method to estimate development costs.",
+      "terms": [
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "対価",
+          "reading": "たいか"
+        },
+        {
+          "kanji": "支払",
+          "reading": "しはらい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "値段",
+          "reading": "ねだん"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "開発費",
+          "reading": "かいはつひ"
+        },
+        {
+          "kanji": "見積",
+          "reading": "みつもり"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "法",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ファンクションポイント法",
+      "reading": "ふぁんくしょんぽいんとほう",
+      "vi": "Function Point Method",
+      "en": "Function Point Method"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ファンクションポイント法とは、システムが提供する機能に点数をつけて開発費用を見積もる方法です。「機能（ファンクション）」に「点数（ポイント）」をつけることからこの名称がついています。ISOでも規格化されており、現在最も普及している見積法です。",
+      "vi": "Function Point Method là phương pháp ước tính chi phí phát triển bằng cách cho điểm các chức năng mà hệ thống cung cấp. Tên này được đặt vì cho \"điểm (point)\" vào \"chức năng (function)\". Đã được tiêu chuẩn hóa bởi ISO và là phương pháp ước tính phổ biến nhất hiện nay.",
+      "en": "Function Point Method is a method to estimate development costs by assigning points to functions the system provides. This name comes from assigning 'points' to 'functions.' It's standardized by ISO and is currently the most widely used estimation method.",
+      "terms": [
+        {
+          "kanji": "法",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "点数",
+          "reading": "てんすう"
+        },
+        {
+          "kanji": "開発費用",
+          "reading": "かいはつひよう"
+        },
+        {
+          "kanji": "見積",
+          "reading": "みつもり"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "名称",
+          "reading": "めいしょう"
+        },
+        {
+          "kanji": "規格化",
+          "reading": "きかくか"
+        },
+        {
+          "kanji": "現在最",
+          "reading": "げんざいさい"
+        },
+        {
+          "kanji": "普及",
+          "reading": "ふきゅう"
+        },
+        {
+          "kanji": "見積法",
+          "reading": "みつもりほう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ソフトウェアライフサイクルプロセスの5つのプロセスは、企画→要件定義→開発→運用→保守",
+          "vi": "5 quy trình của Vòng đời phần mềm là: Lập kế hoạch → Định nghĩa yêu cầu → Phát triển → Vận hành → Bảo trì",
+          "en": "5 processes of Software Lifecycle Process are: Planning → Requirements Definition → Development → Operation → Maintenance"
+        },
+        {
+          "ja": "ソフトウェア保守とは、本番稼働中のソフトウェアを修正・改良すること",
+          "vi": "Bảo trì phần mềm là sửa đổi/cải tiến phần mềm đang hoạt động thực tế",
+          "en": "Software Maintenance is modifying/improving software in production operation"
+        },
+        {
+          "ja": "ファンクションポイント法とは、システムの機能に点数をつけて、開発費用を見積もる方法",
+          "vi": "Function Point Method là phương pháp ước tính chi phí phát triển bằng cách cho điểm chức năng hệ thống",
+          "en": "Function Point Method is a method to estimate development costs by assigning points to system functions"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ソフトウェア保守",
+      "reading": "そふとうぇあほしゅ",
+      "romaji": "Software Hoshu",
+      "vi": "Bảo trì phần mềm",
+      "en": "Software Maintenance",
+      "my": "ဆော့ဖ်ဝဲ ပြုပြင်ထိန်းသိမ်းမှု"
+    },
+    {
+      "kanji": "ファンクションポイント法",
+      "reading": "ふぁんくしょんぽいんとほう",
+      "romaji": "Function Point Hou",
+      "vi": "Phương pháp điểm chức năng",
+      "en": "Function Point Method",
+      "my": "ဖန်ရှင် ပွိုင့် နည်းလမ်း"
+    },
+    {
+      "kanji": "見積法",
+      "reading": "みつもりほう",
+      "romaji": "Mitsumori Hou",
+      "vi": "Phương pháp ước tính",
+      "en": "Estimation Method",
+      "my": "ခန့်မှန်းချက် နည်းလမ်း"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true
+  }
+}

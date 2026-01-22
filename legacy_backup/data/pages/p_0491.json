@@ -1,0 +1,177 @@
+{
+  "page_id": 491,
+  "image": "p_0491.png",
+  "chapter": 13,
+  "section": "13-04",
+  "page_number": 475,
+  "content": [
+    {
+      "type": "list",
+      "numbered": true,
+      "items": [
+        {
+          "ja": "太郎くんがりんごを1個売ります。",
+          "vi": "Taro bán 1 quả táo.",
+          "en": "Taro sells 1 apple."
+        },
+        {
+          "ja": "太郎くんがりんごの在庫数をデータベースに反映させようとします。太郎くんはデータベースからりんごの在庫数（3個）を読み出します。",
+          "vi": "Taro cố gắng phản ánh số lượng táo tồn kho vào cơ sở dữ liệu. Taro đọc số lượng táo tồn kho (3 quả) từ cơ sở dữ liệu.",
+          "en": "Taro tries to reflect apple inventory to database. Taro reads apple inventory (3) from database."
+        },
+        {
+          "ja": "太郎くんが処理をしている間に、花子さんもりんごを1個売りました。",
+          "vi": "Trong khi Taro đang xử lý, Hanako cũng bán 1 quả táo.",
+          "en": "While Taro is processing, Hanako also sold 1 apple."
+        },
+        {
+          "ja": "花子さんは太郎くんがデータベースを処理しているとは気づかずにりんごの在庫数（3個）を読み出してしまいます。",
+          "vi": "Hanako không nhận ra Taro đang xử lý cơ sở dữ liệu và đọc số lượng táo tồn kho (3 quả).",
+          "en": "Hanako doesn't realize Taro is processing database and reads apple inventory (3)."
+        },
+        {
+          "ja": "花子さんはりんごの在庫数を「2個」として書き込みます（3個−1個）。",
+          "vi": "Hanako ghi số lượng táo tồn kho là \"2 quả\" (3 quả - 1 quả).",
+          "en": "Hanako writes apple inventory as '2' (3-1)."
+        },
+        {
+          "ja": "太郎くんは、花子さんが在庫数を変更したことを知らないまま、りんごの在庫数を「2個」として書き込みます。",
+          "vi": "Taro không biết Hanako đã thay đổi số lượng tồn kho và ghi số lượng táo tồn kho là \"2 quả\".",
+          "en": "Taro, not knowing Hanako changed inventory, writes apple inventory as '2.'"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "結果、りんごは2個売れたので、在庫数は1個になるはずですが、データベースの在庫数は2個になっており、矛盾が起こっています。",
+      "vi": "Kết quả, vì đã bán 2 quả táo, tồn kho lẽ ra phải là 1 quả, nhưng tồn kho trong cơ sở dữ liệu là 2 quả, xảy ra mâu thuẫn.",
+      "en": "Result, since 2 apples sold, inventory should be 1, but database inventory is 2, causing inconsistency.",
+      "terms": [
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "個売",
+          "reading": "こばい"
+        },
+        {
+          "kanji": "在庫数",
+          "reading": "ざいこかず"
+        },
+        {
+          "kanji": "個",
+          "reading": "こ"
+        },
+        {
+          "kanji": "矛盾",
+          "reading": "むじゅん"
+        },
+        {
+          "kanji": "起",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このような矛盾を防ぐために、排他制御が考えられました。排他制御では「ロック」という機能を使います。",
+      "vi": "Để ngăn chặn mâu thuẫn như vậy, điều khiển loại trừ được nghĩ ra. Trong điều khiển loại trừ, sử dụng chức năng \"Lock\".",
+      "en": "To prevent such inconsistency, exclusive control was conceived. In exclusive control, 'Lock' function is used.",
+      "terms": [
+        {
+          "kanji": "矛盾",
+          "reading": "むじゅん"
+        },
+        {
+          "kanji": "防",
+          "reading": "ぼう"
+        },
+        {
+          "kanji": "排他制御",
+          "reading": "はいたせいぎょ"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ロック",
+      "vi": "Lock",
+      "en": "Lock"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ロック",
+        "vi": "Lock",
+        "en": "Lock"
+      },
+      "definition": {
+        "ja": "ロックとは、データベースに対するデータの読み書きを一時的に制限する機能です。上図と同じ処理を、今度はロック機能を使って行ってみます。",
+        "vi": "Lock là chức năng tạm thời hạn chế đọc ghi dữ liệu đối với cơ sở dữ liệu. Hãy thử thực hiện cùng xử lý như hình trên, lần này sử dụng chức năng Lock.",
+        "en": "Lock is function temporarily restricting data read/write to database. Let's try same process as above diagram, this time using Lock function."
+      }
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "りんごの販売（ロックあり）",
+        "vi": "Bán táo (Có Lock)",
+        "en": "Apple Sales (With Lock)"
+      },
+      "description": {
+        "ja": "太郎：①1個売る→②ロック→③3個だと知る→⑤1個減らして2個にする→⑥ロックをはずす。花子：①1個売る→④ロックしていて読み書きできない（×）→⑦1個売る→⑧3個だと知る→⑨1個減らして1個にする。結果：在庫が正しく1個になる",
+        "vi": "Taro: ①Bán 1 → ②Lock → ③Biết có 3 → ⑤Giảm 1 thành 2 → ⑥Mở khóa. Hanako: ①Bán 1 → ④Đang lock nên không thể đọc ghi (×) → ⑦Bán 1 → ⑧Biết có 2 → ⑨Giảm 1 thành 1. Kết quả: Tồn kho đúng là 1 quả",
+        "en": "Taro: ①Sell 1 → ②Lock → ③Know there are 3 → ⑤Reduce by 1 to 2 → ⑥Unlock. Hanako: ①Sell 1 → ④Locked so can't read/write (×) → ⑦Sell 1 → ⑧Know there are 2 → ⑨Reduce by 1 to 1. Result: Inventory correctly becomes 1"
+      }
+    },
+    {
+      "type": "list",
+      "numbered": true,
+      "items": [
+        {
+          "ja": "太郎くんがりんごを1個売ります。",
+          "vi": "Taro bán 1 quả táo.",
+          "en": "Taro sells 1 apple."
+        },
+        {
+          "ja": "太郎くんは、自分がデータを読む前にまず、他の人がデータを読み書きできないように、データベースにロックをかけます。",
+          "vi": "Taro, trước khi đọc dữ liệu, đầu tiên khóa cơ sở dữ liệu để người khác không thể đọc ghi dữ liệu.",
+          "en": "Taro, before reading data, first locks database so others cannot read/write data."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ロック",
+      "vi": "Lock (Khóa)",
+      "en": "Lock",
+      "my": "လော့ခ်"
+    },
+    {
+      "term": "矛盾",
+      "reading": "むじゅん",
+      "vi": "Mâu thuẫn",
+      "en": "Inconsistency",
+      "my": "ရှုပ်လှဲမှု"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

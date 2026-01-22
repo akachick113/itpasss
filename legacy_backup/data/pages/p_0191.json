@@ -1,0 +1,357 @@
+{
+  "page_id": 191,
+  "image": "p_0191.png",
+  "chapter": 5,
+  "section": "intro",
+  "page_number": 175,
+  "content": [
+    {
+      "type": "chapter_header",
+      "number": 5,
+      "ja": "システム戦略",
+      "reading": "しすてむせんりゃく",
+      "vi": "Chiến lược hệ thống",
+      "en": "System Strategy",
+      "my": "System Strategy"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "この章のポイント！",
+        "vi": "Điểm chính của chương này!",
+        "en": "Key Points of This Chapter!",
+        "my": "ဤအခန်း၏ အဓိက အချက်များ!",
+        "terms": [
+          {
+            "kanji": "章",
+            "reading": "しょう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "本章では、情報システムを開発する前にやらなければならないことを解説します。経営戦略と情報システム開発の関係性に注目しながら読み進めてください。",
+        "vi": "Chương này giải thích những việc phải làm trước khi phát triển hệ thống thông tin. Hãy đọc và chú ý đến mối quan hệ giữa chiến lược kinh doanh và phát triển hệ thống thông tin.",
+        "en": "This chapter explains what must be done before developing information systems. Read while paying attention to the relationship between business strategy and information system development.",
+        "my": "ဤအခန်းတွင် သတင်းအချက်အလက်စနစ်များ ဖွံ့ဖြိုးမတိုင်မီ လုပ်ဆောင်ရမည့်အရာများကို ရှင်းပြသည်။",
+        "terms": [
+          {
+            "kanji": "本章",
+            "reading": "ほんしょう"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "開発",
+            "reading": "かいはつ"
+          },
+          {
+            "kanji": "前",
+            "reading": "まえ"
+          },
+          {
+            "kanji": "解説",
+            "reading": "かいせつ"
+          },
+          {
+            "kanji": "経営戦略",
+            "reading": "けいえいせんりゃく"
+          },
+          {
+            "kanji": "関係性",
+            "reading": "かんけいせい"
+          },
+          {
+            "kanji": "注目",
+            "reading": "ちゅうもく"
+          },
+          {
+            "kanji": "読",
+            "reading": "どく"
+          },
+          {
+            "kanji": "進",
+            "reading": "すすむ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ここに注目して読もう！",
+      "vi": "Hãy chú ý khi đọc!",
+      "en": "Pay Attention to These!"
+    },
+    {
+      "type": "paragraph",
+      "ja": "・情報システム戦略の意義と目的、戦略目標、業務改善、問題解決など\n・コンピュータ及びネットワークを利用した業務の効率化の目的\n・クラウドコンピューティングなど代表的なサービスを通じた、ソリューションビジネスの考え方\n・ITの技術動向（IoT、ビッグデータなどを含む）に関する知識\n\n公式：https://www.ipa.go.jp/shiken/syllabus/nI10bi0000007xy-att/syllabus_ip_ver6_4.pdf\n公式のシラバス（出題範囲）に記載されている内容（一部抜粋）",
+      "vi": "・Ý nghĩa và mục đích của chiến lược hệ thống thông tin, mục tiêu chiến lược, cải tiến nghiệp vụ, giải quyết vấn đề\n・Mục đích hiệu quả hóa công việc sử dụng máy tính và mạng\n・Cách suy nghĩ về kinh doanh giải pháp thông qua các dịch vụ tiêu biểu như điện toán đám mây\n・Kiến thức về xu hướng công nghệ IT (bao gồm IoT, Big Data)\n\nChính thức: https://www.ipa.go.jp/shiken/syllabus/nI10bi0000007xy-att/syllabus_ip_ver6_4.pdf\nNội dung được ghi trong syllabus chính thức (phạm vi đề thi) - trích một phần",
+      "en": "・Significance and purpose of information system strategy, strategic goals, business improvement, problem solving\n・Purpose of work efficiency using computers and networks\n・Solution business thinking through representative services like cloud computing\n・Knowledge of IT technology trends (including IoT, Big Data)\n\nOfficial: https://www.ipa.go.jp/shiken/syllabus/nI10bi0000007xy-att/syllabus_ip_ver6_4.pdf\nContent from official syllabus (exam scope) - partial excerpt",
+      "my": "・ သတင်းအချက်အလက်စနစ် မဟာဗျူဟာ၏ အရေးပါမှုနှင့် ရည်ရွယ်ချက်",
+      "terms": [
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "戦略",
+          "reading": "せんりゃく"
+        },
+        {
+          "kanji": "意義",
+          "reading": "いぎ"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "戦略目標",
+          "reading": "せんりゃくもくひょう"
+        },
+        {
+          "kanji": "業務改善",
+          "reading": "ぎょうむかいぜん"
+        },
+        {
+          "kanji": "問題解決",
+          "reading": "もんだいかいけつ"
+        },
+        {
+          "kanji": "及",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "効率化",
+          "reading": "こうりつか"
+        },
+        {
+          "kanji": "代表的",
+          "reading": "だいひょうてき"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "方",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "技術動向",
+          "reading": "ぎじゅつどうこう"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "公式",
+          "reading": "こうしき"
+        },
+        {
+          "kanji": "出題範囲",
+          "reading": "しゅつだいはんい"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "一部抜粋",
+          "reading": "いちぶばっすい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "試験範囲全体における本章の位置づけ",
+        "vi": "Vị trí của chương này trong toàn bộ phạm vi thi",
+        "en": "Position of This Chapter in Entire Exam Scope"
+      },
+      "headers": {
+        "ja": [
+          "分野",
+          "大分類"
+        ],
+        "vi": [
+          "Lĩnh vực",
+          "Phân loại lớn"
+        ],
+        "en": [
+          "Field",
+          "Major Category"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "ストラテジ系",
+            "企業と法務"
+          ],
+          "vi": [
+            "Chiến lược",
+            "Doanh nghiệp và pháp luật"
+          ],
+          "en": [
+            "Strategy",
+            "Corporate and Legal"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "経営戦略"
+          ],
+          "vi": [
+            "",
+            "Chiến lược kinh doanh"
+          ],
+          "en": [
+            "",
+            "Business Strategy"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "システム戦略 ← 本章はココ！"
+          ],
+          "vi": [
+            "",
+            "Chiến lược hệ thống ← Chương này!"
+          ],
+          "en": [
+            "",
+            "System Strategy ← This Chapter!"
+          ]
+        },
+        {
+          "ja": [
+            "マネジメント系",
+            "開発技術"
+          ],
+          "vi": [
+            "Quản lý",
+            "Công nghệ phát triển"
+          ],
+          "en": [
+            "Management",
+            "Development Technology"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "プロジェクトマネジメント"
+          ],
+          "vi": [
+            "",
+            "Quản lý dự án"
+          ],
+          "en": [
+            "",
+            "Project Management"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "サービスマネジメント"
+          ],
+          "vi": [
+            "",
+            "Quản lý dịch vụ"
+          ],
+          "en": [
+            "",
+            "Service Management"
+          ]
+        },
+        {
+          "ja": [
+            "テクノロジ系",
+            "基礎理論"
+          ],
+          "vi": [
+            "Công nghệ",
+            "Lý thuyết cơ bản"
+          ],
+          "en": [
+            "Technology",
+            "Basic Theory"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "コンピュータシステム"
+          ],
+          "vi": [
+            "",
+            "Hệ thống máy tính"
+          ],
+          "en": [
+            "",
+            "Computer System"
+          ]
+        },
+        {
+          "ja": [
+            "",
+            "技術要素"
+          ],
+          "vi": [
+            "",
+            "Yếu tố công nghệ"
+          ],
+          "en": [
+            "",
+            "Technology Elements"
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "システム戦略",
+      "reading": "しすてむせんりゃく",
+      "romaji": "System Senryaku",
+      "vi": "Chiến lược hệ thống",
+      "en": "System Strategy",
+      "my": "စနစ် မဟာဗျူဟာ"
+    }
+  ],
+  "meta": {
+    "is_chapter_intro": true,
+    "has_table": true
+  }
+}

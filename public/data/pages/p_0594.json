@@ -1,0 +1,229 @@
+{
+    "page_id": 594,
+    "image": "p_0594.png",
+    "chapter": "review",
+    "section": "exam_review",
+    "page_number": 578,
+    "content": [
+        {
+            "type": "review_terms_continued",
+            "chapter_num": 2,
+            "terms": [
+                {
+                    "ja": "また、具体的な活動には次の3つがある：業務マニュアルを作る、内部通報の仕組みを作る、社員を教育する",
+                    "vi": "Ngoài ra, có 3 hoạt động cụ thể: tạo sổ tay nghiệp vụ, tạo cơ chế báo cáo nội bộ, đào tạo nhân viên",
+                    "en": "Also, there are 3 specific activities: create business manual, create internal reporting mechanism, educate employees"
+                },
+                {
+                    "ja": "ソーシャルメディアポリシーとは、組織がソーシャルメディアを使用する際のルール",
+                    "vi": "Social Media Policy là quy tắc khi tổ chức sử dụng mạng xã hội",
+                    "en": "Social Media Policy is rules for organization using social media"
+                },
+                {
+                    "ja": "個人情報とは、個人を特定できる情報のこと",
+                    "vi": "Thông tin cá nhân là thông tin có thể xác định cá nhân",
+                    "en": "Personal information is information that can identify individual"
+                },
+                {
+                    "ja": "個人情報の具体例は、氏名と住所、社員IDと従業員名",
+                    "vi": "Ví dụ cụ thể về thông tin cá nhân: tên và địa chỉ, ID nhân viên và tên nhân viên",
+                    "en": "Specific examples of personal information: name and address, employee ID and employee name"
+                },
+                {
+                    "ja": "個人が特定できない人間、本人、国電、発光などは個人情報ではない",
+                    "vi": "Con người không thể xác định cá nhân, bản thân, điện thoại công cộng, phát sáng không phải là thông tin cá nhân",
+                    "en": "Human that cannot be identified, self, public phone, light emission are not personal information"
+                },
+                {
+                    "ja": "生命の維持に必要の場合は、第三者に提供していい",
+                    "vi": "Trong trường hợp cần thiết để duy trì sự sống, có thể cung cấp cho bên thứ ba",
+                    "en": "If necessary for life preservation, may provide to third parties"
+                },
+                {
+                    "ja": "さらに、目的達成のためや業務委託先に第三者提供していい",
+                    "vi": "Hơn nữa, có thể cung cấp cho bên thứ ba để đạt mục tiêu hoặc cho đơn vị ủy thác nghiệp vụ",
+                    "en": "Furthermore, may provide to third parties for achieving objectives or to outsourcees"
+                },
+                {
+                    "ja": "ただし、個人情報取扱事業者は業務委託先の監督が必要",
+                    "vi": "Tuy nhiên, doanh nghiệp xử lý thông tin cá nhân cần giám sát đơn vị ủy thác",
+                    "en": "However, personal information handling business must supervise outsourcee"
+                },
+                {
+                    "ja": "GDPRの適用範囲は、EU内に居住するすべての者を対象",
+                    "vi": "Phạm vi áp dụng GDPR: đối tượng là tất cả người cư trú trong EU",
+                    "en": "GDPR scope: applies to all persons residing in EU"
+                },
+                {
+                    "ja": "GDPRとは、EU内の個人データを取り扱う事業者",
+                    "vi": "GDPR là dành cho doanh nghiệp xử lý dữ liệu cá nhân trong EU",
+                    "en": "GDPR is for businesses handling personal data in EU"
+                },
+                {
+                    "ja": "情報公開法とは、国でも情報の公開が義務付ける仕組み",
+                    "vi": "Luật công khai thông tin là cơ chế bắt buộc công khai thông tin ngay cả với quốc gia",
+                    "en": "Information Disclosure Law is mechanism requiring information disclosure even for nation"
+                },
+                {
+                    "ja": "情報公開対策法とは、開示請求できるのは行政文書のみ",
+                    "vi": "Luật đối sách công khai thông tin: chỉ có thể yêu cầu công khai tài liệu hành chính",
+                    "en": "Information Disclosure Countermeasure Law: only administrative documents can be requested for disclosure"
+                },
+                {
+                    "ja": "資金決済法が規定するのは、前払式支払手段（仮想通貨）などである",
+                    "vi": "Luật thanh toán vốn quy định về phương tiện thanh toán trả trước (tiền ảo)",
+                    "en": "Payment Services Law regulates prepaid payment means (virtual currency) etc."
+                },
+                {
+                    "ja": "JANコードとは、商品を区別するためのコード",
+                    "vi": "Mã JAN là mã để phân biệt sản phẩm",
+                    "en": "JAN code is code to distinguish products"
+                },
+                {
+                    "ja": "JANコードは、メーカーコードと商品アイテムコード、チェックデジットから構成されている",
+                    "vi": "Mã JAN được cấu thành từ mã nhà sản xuất, mã mặt hàng và chữ số kiểm tra",
+                    "en": "JAN code consists of maker code, product item code, and check digit"
+                },
+                {
+                    "ja": "QRコードの情報は2次元（横と縦）で構成できる",
+                    "vi": "Thông tin mã QR có thể cấu thành theo 2 chiều (ngang và dọc)",
+                    "en": "QR code information can be structured in 2 dimensions (horizontal and vertical)"
+                },
+                {
+                    "ja": "RFIDの読み取り技術：電磁波を記録",
+                    "vi": "Công nghệ đọc RFID: ghi sóng điện từ",
+                    "en": "RFID reading technology: records electromagnetic waves"
+                },
+                {
+                    "ja": "ISO 9000シリーズ：品質マネジメントシステム",
+                    "vi": "Bộ tiêu chuẩn ISO 9000: Hệ thống quản lý chất lượng",
+                    "en": "ISO 9000 series: Quality Management System"
+                },
+                {
+                    "ja": "ISO 14000シリーズ：環境マネジメントシステム",
+                    "vi": "Bộ tiêu chuẩn ISO 14000: Hệ thống quản lý môi trường",
+                    "en": "ISO 14000 series: Environmental Management System"
+                },
+                {
+                    "ja": "ISO/IEC 27000シリーズ：情報セキュリティマネジメントシステム",
+                    "vi": "Bộ tiêu chuẩn ISO/IEC 27000: Hệ thống quản lý bảo mật thông tin",
+                    "en": "ISO/IEC 27000 series: Information Security Management System"
+                },
+                {
+                    "ja": "デジュレスタンダードとは、公的機関が法律的に定めた標準",
+                    "vi": "De jure Standard là tiêu chuẩn được quy định pháp lý bởi cơ quan công",
+                    "en": "De jure Standard is standard legally established by public organization"
+                },
+                {
+                    "ja": "フォーラム標準は、業界団体が定めた標準規格",
+                    "vi": "Forum Standard là tiêu chuẩn do hiệp hội ngành công nghiệp quy định",
+                    "en": "Forum Standard is standard established by industry association"
+                },
+                {
+                    "ja": "デファクトスタンダードは、事業上の標準",
+                    "vi": "De facto Standard là tiêu chuẩn trên thực tế kinh doanh",
+                    "en": "De facto Standard is standard in business practice"
+                }
+            ]
+        },
+        {
+            "type": "review_chapter",
+            "chapter_num": 3,
+            "title": {
+                "ja": "3章",
+                "vi": "Chương 3",
+                "en": "Chapter 3"
+            },
+            "terms": [
+                {
+                    "ja": "SWOT分析を行うと自社を取り巻く経営環境を把握できる",
+                    "vi": "Khi thực hiện phân tích SWOT có thể nắm bắt môi trường kinh doanh xung quanh công ty",
+                    "en": "Conducting SWOT analysis allows understanding business environment surrounding company"
+                },
+                {
+                    "ja": "SWOT分析における内部環境とは、自社の努力で変えられる項目",
+                    "vi": "Môi trường nội bộ trong phân tích SWOT là các mục có thể thay đổi bằng nỗ lực của công ty",
+                    "en": "Internal environment in SWOT analysis is items that can be changed by company's effort"
+                },
+                {
+                    "ja": "SWOT分析における外部環境とは、自社ではコントロールできないの自社以外でPMBができるようになるもの",
+                    "vi": "Môi trường bên ngoài trong phân tích SWOT là những thứ mà công ty không thể kiểm soát, bên ngoài công ty có thể thực hiện PMB",
+                    "en": "External environment in SWOT analysis is things company cannot control, allowing PMB by entities other than company"
+                },
+                {
+                    "ja": "PPMの縦軸は市場成長率、横軸は市場占有率",
+                    "vi": "Trục dọc của PPM là tốc độ tăng trưởng thị trường, trục ngang là thị phần",
+                    "en": "PPM vertical axis is market growth rate, horizontal axis is market share"
+                },
+                {
+                    "ja": "花形と問題児には投資を続け、金のなる木と負け犬には投資を控える",
+                    "vi": "Tiếp tục đầu tư vào Star và Question Mark, hạn chế đầu tư vào Cash Cow và Dog",
+                    "en": "Continue investing in Star and Question Mark, restrain investment in Cash Cow and Dog"
+                },
+                {
+                    "ja": "チャレンジャー：リーダーの商品やサービスと差別化",
+                    "vi": "Challenger: Khác biệt hóa so với sản phẩm và dịch vụ của Leader",
+                    "en": "Challenger: Differentiate from Leader's products and services"
+                },
+                {
+                    "ja": "フォロワーは、リーダーの成功事例を貫く",
+                    "vi": "Follower theo đuổi các ví dụ thành công của Leader",
+                    "en": "Follower follows Leader's success examples"
+                },
+                {
+                    "ja": "ニッチャー：リーダーが無視するようなセグメントに特化",
+                    "vi": "Nicher: Chuyên về phân khúc mà Leader bỏ qua",
+                    "en": "Nicher: Specialize in segments Leader ignores"
+                },
+                {
+                    "ja": "M&Aとは、合併・買収・合併すること",
+                    "vi": "M&A là sáp nhập, mua lại, hợp nhất",
+                    "en": "M&A is merger, acquisition, consolidation"
+                },
+                {
+                    "ja": "アライアンスとは、企業間における連携のこと",
+                    "vi": "Alliance là liên kết giữa các doanh nghiệp",
+                    "en": "Alliance is partnership between companies"
+                },
+                {
+                    "ja": "ジョイントベンチャーとは、複数の企業が出資",
+                    "vi": "Joint Venture là nhiều doanh nghiệp góp vốn",
+                    "en": "Joint Venture is multiple companies investing"
+                },
+                {
+                    "ja": "MBOとは、自社の株式を株式市場から撤退して公開から非公開への転換",
+                    "vi": "MBO là chuyển đổi từ công khai sang không công khai bằng cách rút cổ phiếu công ty khỏi thị trường chứng khoán",
+                    "en": "MBO is converting from public to private by withdrawing company shares from stock market"
+                },
+                {
+                    "ja": "マーケティングミックスの4Pとは「Product」「Price」「Place」「Promotion」",
+                    "vi": "4P của Marketing Mix là \"Product\", \"Price\", \"Place\", \"Promotion\"",
+                    "en": "4P of Marketing Mix are 'Product,' 'Price,' 'Place,' 'Promotion'"
+                },
+                {
+                    "ja": "RFM分析とは、優良顧客を見つけるためのもの",
+                    "vi": "Phân tích RFM là để tìm khách hàng ưu tú",
+                    "en": "RFM analysis is for finding excellent customers"
+                },
+                {
+                    "ja": "オピニオンリーダーとは、新しく出した商品を早く購入し、その商品を友達やSNSなどで広める消費者。イノベーター理論のアーリーアダプタに該当",
+                    "vi": "Opinion Leader là người tiêu dùng mua sớm sản phẩm mới ra và lan truyền sản phẩm đó qua bạn bè hoặc SNS. Tương ứng với Early Adopter trong lý thuyết đổi mới",
+                    "en": "Opinion Leader is consumer who quickly purchases newly released products and spreads them through friends or SNS. Corresponds to Early Adopter in innovation theory"
+                },
+                {
+                    "ja": "UXとは、商品やサービスなどを実際に利用する",
+                    "vi": "UX là thực sự sử dụng sản phẩm và dịch vụ",
+                    "en": "UX is actually using products and services"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "is_review": true,
+        "chapters_covered": [
+            2,
+            3
+        ]
+    }
+}

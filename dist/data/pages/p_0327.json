@@ -1,0 +1,130 @@
+{
+    "page_id": 327,
+    "image": "p_0327.png",
+    "chapter": 8,
+    "section": "practice",
+    "page_number": 311,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "8-15",
+            "year": "令和6年度",
+            "question": {
+                "ja": "システム監査の目的に関する記述として、適切なものはどれか。",
+                "vi": "Mô tả nào thích hợp về mục đích của System Audit?",
+                "en": "Which description is appropriate about System Audit purpose?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. 開発すべきシステムの具体的な用途を分析し、システム要件を明らかにすること",
+                    "vi": "ア. Phân tích mục đích sử dụng cụ thể của hệ thống cần phát triển và làm rõ yêu cầu hệ thống",
+                    "en": "ア. Analyze specific use of system to be developed and clarify system requirements"
+                },
+                {
+                    "ja": "イ. 情報システムが設置されている施設とその環境を総合的に企画、管理、活用すること",
+                    "vi": "イ. Lập kế hoạch, quản lý, sử dụng tổng hợp cơ sở và môi trường nơi hệ thống thông tin được đặt",
+                    "en": "イ. Comprehensively plan, manage, utilize facilities and environment where information systems are installed"
+                },
+                {
+                    "ja": "ウ. 情報システムに係るリスクに適切に対応しているかどうかを評価することによって、組織体の目標達成に寄与すること",
+                    "vi": "ウ. Đóng góp vào việc đạt mục tiêu tổ chức bằng cách đánh giá xem có ứng phó thích hợp với Risk liên quan đến hệ thống thông tin không",
+                    "en": "ウ. Contribute to achieving organizational goals by evaluating whether appropriately responding to Risks related to information systems"
+                },
+                {
+                    "ja": "エ. 知識、スキル、ツール及び技法をプロジェクト活動に適用することによって、プロジェクトの要求事項を満足させること",
+                    "vi": "エ. Thỏa mãn yêu cầu dự án bằng cách áp dụng kiến thức, kỹ năng, công cụ và kỹ thuật vào hoạt động dự án",
+                    "en": "エ. Satisfy project requirements by applying knowledge, skills, tools and techniques to project activities"
+                }
+            ],
+            "correct_answer": "ウ"
+        },
+        {
+            "type": "exam_question",
+            "number": "8-16",
+            "year": "令和7年度",
+            "question": {
+                "ja": "社内で開発及び運用を行っている経理システムの内部監査を実施するとき、システム監査人として、最も適切なものはどれか。",
+                "vi": "Khi thực hiện Internal Audit của hệ thống kế toán được phát triển và vận hành trong công ty, System Auditor nào thích hợp nhất?",
+                "en": "When conducting Internal Audit of accounting system developed and operated in-house, which is most appropriate as System Auditor?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. 経理システムの運用担当者",
+                    "vi": "ア. Người phụ trách vận hành hệ thống kế toán",
+                    "en": "ア. Person in charge of accounting system operation"
+                },
+                {
+                    "ja": "イ. 経理システムの開発を担当した委託会社の従業員",
+                    "vi": "イ. Nhân viên công ty ủy thác đã phụ trách phát triển hệ thống kế toán",
+                    "en": "イ. Employee of outsourcing company that developed accounting system"
+                },
+                {
+                    "ja": "ウ. 経理システムの利用者である経理担当者",
+                    "vi": "ウ. Người phụ trách kế toán là người sử dụng hệ thống kế toán",
+                    "en": "ウ. Accounting staff who uses accounting system"
+                },
+                {
+                    "ja": "エ. 経理とITの知識を有する経営者直轄組織の従業員",
+                    "vi": "エ. Nhân viên tổ chức trực thuộc ban lãnh đạo có kiến thức kế toán và IT",
+                    "en": "エ. Employee of organization directly under management with accounting and IT knowledge"
+                }
+            ],
+            "correct_answer": "エ"
+        },
+        {
+            "type": "exam_question",
+            "number": "8-17",
+            "year": "平成21年度",
+            "question": {
+                "ja": "ITガバナンスについて説明したものはどれか。",
+                "vi": "Cái nào giải thích về IT Governance?",
+                "en": "Which explains IT Governance?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. ITサービスの管理・運用規則に関するベストプラクティス（優れた事例）を、包括的にまとめたフレームワーク",
+                    "vi": "ア. Framework tổng hợp Best Practice (ví dụ xuất sắc) về quy tắc quản lý và vận hành IT Service",
+                    "en": "ア. Framework comprehensively summarizing Best Practices about IT Service management and operation rules"
+                },
+                {
+                    "ja": "イ. 企業が競争優位性を構築するために、IT戦略の策定・実行をガイドし、あるべき方向へ導く組織能力",
+                    "vi": "イ. Năng lực tổ chức hướng dẫn lập và thực hiện chiến lược IT, dẫn dắt doanh nghiệp đến hướng đi đúng để xây dựng lợi thế cạnh tranh",
+                    "en": "イ. Organizational capability guiding IT strategy formulation/execution, leading to proper direction for competitive advantage"
+                },
+                {
+                    "ja": "ウ. 企業が情報システムやITサービスなどを調達する際、発注先となるITベンダに具体的なシステム提案を要求した仕様書",
+                    "vi": "ウ. Tài liệu đặc tả yêu cầu đề xuất hệ thống cụ thể từ IT vendor khi doanh nghiệp mua sắm hệ thống thông tin hoặc IT Service",
+                    "en": "ウ. Specification document requesting specific system proposals from IT vendor when company procures information systems or IT services"
+                },
+                {
+                    "ja": "エ. サービスを提供するプロバイダが、品質を保証するため、提供するサービスの水準を明確に定義した合意書",
+                    "vi": "エ. Thỏa thuận do provider cung cấp dịch vụ định nghĩa rõ ràng mức dịch vụ cung cấp để đảm bảo chất lượng",
+                    "en": "エ. Agreement clearly defining service level provided by provider to guarantee quality"
+                }
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "8-18",
+            "year": "平成22年度",
+            "question": {
+                "ja": "基本方針に基づいて内部統制を整備及び運用する役割と最終責任を有する者はだれか。",
+                "vi": "Ai là người có vai trò và trách nhiệm cuối cùng trong việc thiết lập và vận hành Internal Control dựa trên chính sách cơ bản?",
+                "en": "Who has role and final responsibility for establishing and operating Internal Control based on basic policy?"
+            },
+            "choices": [
+                "ア. 株主",
+                "イ. 監査役",
+                "ウ. 経営者",
+                "エ. 内部監査人"
+            ],
+            "correct_answer": "ウ"
+        }
+    ],
+    "answers_summary": "問題8-15 ウ　問題8-16 エ　問題8-17 イ　問題8-18 ウ",
+    "meta": {
+        "has_questions": true,
+        "question_count": 4
+    }
+}

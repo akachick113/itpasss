@@ -1,0 +1,226 @@
+{
+  "page_id": 576,
+  "image": "p_0576.png",
+  "chapter": 15,
+  "section": "15-06",
+  "page_number": 560,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "HTTPS",
+      "vi": "HTTPS",
+      "en": "HTTPS"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "HTTPS",
+        "vi": "HTTPS",
+        "en": "HTTPS"
+      },
+      "full_name": "HTTP over SSL/TLS",
+      "definition": {
+        "ja": "HTTPS（HTTP over SSL/TLS）とは、SSL/TLSを用いて「HTTPによる通信」を暗号化するためのプロトコルです。従来のHTTPは通信の暗号化はしません。そのため通信が盗聴されてしまう恐れがあります。",
+        "vi": "HTTPS (HTTP over SSL/TLS) là giao thức mã hóa \"truyền thông bằng HTTP\" sử dụng SSL/TLS. HTTP truyền thống không mã hóa truyền thông. Vì vậy có nguy cơ truyền thông bị nghe lén.",
+        "en": "HTTPS (HTTP over SSL/TLS) is protocol encrypting 'HTTP communication' using SSL/TLS. Traditional HTTP doesn't encrypt communication. Therefore there's risk of communication being eavesdropped."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方、HTTPSではSSL/TLSを用いて安全な方法で共通鍵を共有し、その鍵を使用して双方向の暗号化通信を行います。なお、HTTPSが暗号化する範囲はWebブラウザからWebサーバの間です。",
+      "vi": "Mặt khác, HTTPS chia sẻ khóa chung bằng phương pháp an toàn sử dụng SSL/TLS và thực hiện truyền thông mã hóa hai chiều bằng khóa đó. Ngoài ra, phạm vi HTTPS mã hóa là từ trình duyệt Web đến Web server.",
+      "en": "On other hand, HTTPS shares common key safely using SSL/TLS and performs two-way encrypted communication using that key. Also, range HTTPS encrypts is from Web browser to Web server.",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "共通鍵",
+          "reading": "きょうつうかぎ"
+        },
+        {
+          "kanji": "共有",
+          "reading": "きょうゆう"
+        },
+        {
+          "kanji": "鍵",
+          "reading": "かぎ"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "双方向",
+          "reading": "そうほうこう"
+        },
+        {
+          "kanji": "暗号化通信",
+          "reading": "あんごうかつうしん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "暗号化",
+          "reading": "あんごうか"
+        },
+        {
+          "kanji": "範囲",
+          "reading": "はんい"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "WPA2",
+      "vi": "WPA2",
+      "en": "WPA2"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "WPA2",
+        "vi": "WPA2",
+        "en": "WPA2"
+      },
+      "full_name": "Wi-Fi Protected Access 2",
+      "definition": {
+        "ja": "WPA2（Wi-Fi Protected Access 2）とは、無線LAN上の通信を暗号化する規格です。ITパスポート試験では「WPA2とWEPの関係」および「WPA2が暗号化する範囲」が出題されます。",
+        "vi": "WPA2 (Wi-Fi Protected Access 2) là tiêu chuẩn mã hóa truyền thông trên mạng LAN không dây. Trong kỳ thi IT Passport, \"mối quan hệ giữa WPA2 và WEP\" và \"phạm vi WPA2 mã hóa\" được ra đề.",
+        "en": "WPA2 (Wi-Fi Protected Access 2) is standard encrypting communication on wireless LAN. In IT Passport exam, 'relationship between WPA2 and WEP' and 'range WPA2 encrypts' appear."
+      }
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "WPA2に関する重要事項",
+        "vi": "Các vấn đề quan trọng về WPA2",
+        "en": "Important Items About WPA2"
+      },
+      "headers": {
+        "ja": [
+          "試験に頻出",
+          "解説"
+        ],
+        "vi": [
+          "Thường ra trong thi",
+          "Giải thích"
+        ],
+        "en": [
+          "Frequent on Exam",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "topic": {
+            "ja": "WPA2とWEPの関係",
+            "vi": "Mối quan hệ WPA2 và WEP",
+            "en": "WPA2 and WEP Relationship"
+          },
+          "explanation": {
+            "ja": "WPA2の登場以前に広く使われていた「WEP」には、短い時間で暗号が解読されてしまうという問題があったため、より強固な暗号化を行うためにWPA2が策定された。",
+            "vi": "\"WEP\" được sử dụng rộng rãi trước khi WPA2 ra đời có vấn đề mã hóa bị giải trong thời gian ngắn, nên WPA2 được xây dựng để mã hóa mạnh hơn.",
+            "en": "\"WEP\" widely used before WPA2 had problem of encryption being cracked in short time, so WPA2 was established for stronger encryption."
+          }
+        },
+        {
+          "topic": {
+            "ja": "WPA2が暗号化する範囲",
+            "vi": "Phạm vi WPA2 mã hóa",
+            "en": "WPA2 Encryption Scope"
+          },
+          "explanation": {
+            "ja": "WPA2はPCからアクセスポイントまでの通信を暗号化する。",
+            "vi": "WPA2 mã hóa truyền thông từ PC đến access point.",
+            "en": "WPA2 encrypts communication from PC to access point."
+          }
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "WPA2が暗号化する範囲、HTTPSが暗号化する範囲",
+        "vi": "Phạm vi WPA2 mã hóa, Phạm vi HTTPS mã hóa",
+        "en": "WPA2 Encryption Scope, HTTPS Encryption Scope"
+      },
+      "description": {
+        "ja": "ユーザー→[WPA2暗号化]→Webブラウザ→PC→アクセスポイント→[HTTPS暗号化]→Webサーバ",
+        "vi": "Người dùng→[Mã hóa WPA2]→Trình duyệt Web→PC→Access Point→[Mã hóa HTTPS]→Web Server",
+        "en": "User→[WPA2 Encryption]→Web Browser→PC→Access Point→[HTTPS Encryption]→Web Server"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ITパスポート試験では、WPA2とHTTPSの2つの規格に関して、「暗号化する範囲」がよく出題される。2つの規格の違いと、それぞれが暗号化する範囲を必ず覚えておこう。",
+          "vi": "Trong kỳ thi IT Passport, \"phạm vi mã hóa\" về 2 tiêu chuẩn WPA2 và HTTPS thường được ra đề. Hãy chắc chắn nhớ sự khác biệt của 2 tiêu chuẩn và phạm vi mỗi cái mã hóa.",
+          "en": "In IT Passport exam, 'encryption scope' for 2 standards WPA2 and HTTPS frequently appears. Make sure to remember difference between 2 standards and scope each encrypts."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "HTTPS",
+      "full": "HTTP over SSL/TLS",
+      "vi": "HTTPS",
+      "en": "HTTPS (HTTP over SSL/TLS)",
+      "my": "HTTPS (SSL/TLS ဖြင့် HTTP)"
+    },
+    {
+      "term": "WPA2",
+      "full": "Wi-Fi Protected Access 2",
+      "vi": "WPA2",
+      "en": "Wi-Fi Protected Access 2",
+      "my": "Wi-Fi ကာကွယ်လုံခြုံရေး 2"
+    },
+    {
+      "term": "WEP",
+      "full": "Wired Equivalent Privacy",
+      "vi": "WEP",
+      "en": "Wired Equivalent Privacy",
+      "my": "ကြိုးနှင့်တူညီ ကိုယ်ယေးစည်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

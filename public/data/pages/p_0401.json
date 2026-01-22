@@ -1,0 +1,217 @@
+{
+  "page_id": 401,
+  "image": "p_0401.png",
+  "chapter": 10,
+  "section": "10-05",
+  "page_number": 385,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "稼働率",
+        "vi": "Tỉ lệ khả dụng",
+        "en": "Availability Rate"
+      },
+      "description": {
+        "ja": "MTBF = (100 + 150 + 140) ÷ 3回 = 130時間、MTTR = (50 + 70 + 60) ÷ 3回 = 60時間。稼働率 = 130 ÷ (130 + 60) ≒ 0.68",
+        "vi": "MTBF = (100 + 150 + 140) ÷ 3 lần = 130 giờ, MTTR = (50 + 70 + 60) ÷ 3 lần = 60 giờ. Tỉ lệ khả dụng = 130 ÷ (130 + 60) ≒ 0.68",
+        "en": "MTBF = (100 + 150 + 140) ÷ 3 times = 130 hours, MTTR = (50 + 70 + 60) ÷ 3 times = 60 hours. Availability = 130 ÷ (130 + 60) ≒ 0.68"
+      },
+      "calculation": "稼働率 = 130 ÷ (130 + 60) ≒ 0.68"
+    },
+    {
+      "type": "paragraph",
+      "ja": "稼働率が高いシステムほど可用性が高く、稼働率が低いシステムほど可用性が低いといえます。稼働率が「1」のシステムは一度も故障せずに、ずっと仕事をしているシステムです。",
+      "vi": "Có thể nói hệ thống có tỉ lệ khả dụng cao thì tính khả dụng cao, hệ thống có tỉ lệ khả dụng thấp thì tính khả dụng thấp. Hệ thống có tỉ lệ khả dụng \"1\" là hệ thống không bao giờ gặp sự cố và luôn làm việc.",
+      "en": "Can say system with high availability rate has high availability, system with low availability rate has low availability. System with availability rate of '1' is system that never fails and always works.",
+      "terms": [
+        {
+          "kanji": "稼働率",
+          "reading": "かどうりつ"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "可用性",
+          "reading": "かようせい"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "一度",
+          "reading": "いちど"
+        },
+        {
+          "kanji": "故障",
+          "reading": "こしょう"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "MTBFとは、システムが故障せずに正しく動いていた時間の平均値。システムの信頼性を表す指標の1つ",
+          "vi": "MTBF là giá trị trung bình của thời gian hệ thống hoạt động đúng mà không gặp sự cố. Là một trong các chỉ số biểu thị độ tin cậy của hệ thống",
+          "en": "MTBF is average time system operated correctly without failure. One metric representing system reliability"
+        },
+        {
+          "ja": "MTBF = 稼働時間の合計 ÷ 故障の回数",
+          "vi": "MTBF = Tổng thời gian hoạt động ÷ Số lần sự cố",
+          "en": "MTBF = Total Operating Time ÷ Number of Failures"
+        },
+        {
+          "ja": "MTTRとは、システムが稼働していなかった時間の平均値。システムの保守性を表す指標の1つ",
+          "vi": "MTTR là giá trị trung bình của thời gian hệ thống không hoạt động. Là một trong các chỉ số biểu thị tính bảo trì của hệ thống",
+          "en": "MTTR is average time system was not operating. One metric representing system maintainability"
+        },
+        {
+          "ja": "MTTR = 故障時間の合計 ÷ 故障の回数",
+          "vi": "MTTR = Tổng thời gian sự cố ÷ Số lần sự cố",
+          "en": "MTTR = Total Failure Time ÷ Number of Failures"
+        },
+        {
+          "ja": "稼働率とは、システムが故障せずに動いていた時間の割合。可用性を表す指標の1つ",
+          "vi": "Tỉ lệ khả dụng là tỉ lệ thời gian hệ thống hoạt động mà không gặp sự cố. Là một trong các chỉ số biểu thị tính khả dụng",
+          "en": "Availability is ratio of time system operated without failure. One metric representing availability"
+        },
+        {
+          "ja": "稼働率 = MTBF ÷ (MTBF + MTTR)",
+          "vi": "Tỉ lệ khả dụng = MTBF ÷ (MTBF + MTTR)",
+          "en": "Availability = MTBF ÷ (MTBF + MTTR)"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "システムを止めない工夫",
+      "vi": "Cách không dừng hệ thống",
+      "en": "Ways to Keep System Running"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ユーザーが求めているのは、システムそのものではなく、システムが提供するサービスです。そのため、システム障害などによってサービスが停止すると、ユーザーに迷惑がかかります。",
+      "vi": "Điều người dùng yêu cầu không phải là bản thân hệ thống mà là dịch vụ mà hệ thống cung cấp. Do đó, nếu dịch vụ dừng do sự cố hệ thống, v.v., sẽ gây phiền hà cho người dùng.",
+      "en": "What users want is not system itself but service system provides. Therefore, if service stops due to system failure, etc., it inconveniences users.",
+      "terms": [
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "障害",
+          "reading": "しょうがい"
+        },
+        {
+          "kanji": "停止",
+          "reading": "ていし"
+        },
+        {
+          "kanji": "迷惑",
+          "reading": "めいわく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "したがって、万が一障害が発生した場合でも可能な限りシステムが止まらないように設計することが重要です。このような観点からシステムを設計することを「フォールトトレラント」といいます。ITパスポート試験では、具体的な設計方法が出題されます。",
+      "vi": "Do đó, quan trọng là thiết kế sao cho hệ thống không dừng nhiều nhất có thể ngay cả khi xảy ra sự cố. Việc thiết kế hệ thống từ quan điểm như vậy được gọi là \"Fault Tolerant\". Trong kỳ thi IT Passport, các phương pháp thiết kế cụ thể sẽ được hỏi.",
+      "en": "Therefore, important to design so system doesn't stop as much as possible even when failure occurs. Designing system from this viewpoint is called 'Fault Tolerant.' In IT Passport exam, specific design methods are tested.",
+      "terms": [
+        {
+          "kanji": "万",
+          "reading": "まん"
+        },
+        {
+          "kanji": "一障害",
+          "reading": "いちしょうがい"
+        },
+        {
+          "kanji": "発生",
+          "reading": "はっせい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "限",
+          "reading": "げん"
+        },
+        {
+          "kanji": "止",
+          "reading": "し"
+        },
+        {
+          "kanji": "設計",
+          "reading": "せっけい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "観点",
+          "reading": "かんてん"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "設計方法",
+          "reading": "せっけいほうほう"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "フォールトトレラント",
+      "vi": "Chịu lỗi (Fault Tolerant)",
+      "en": "Fault Tolerant",
+      "my": "ချွတ်ယွင်းမှုခံနိုင်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

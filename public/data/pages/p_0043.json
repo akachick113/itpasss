@@ -1,0 +1,96 @@
+{
+    "page_id": 43,
+    "image": "p_0043.png",
+    "chapter": 1,
+    "section": "practice_answers",
+    "page_number": 27,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "1-9",
+            "year": "令和2年度",
+            "question": {
+                "ja": "国連が中心となり、持続可能な世界を実現するために設定した17のゴールから成る国際的な開発目標はどれか。",
+                "vi": "Mục tiêu phát triển quốc tế nào gồm 17 mục tiêu được Liên Hợp Quốc đặt ra để thực hiện một thế giới bền vững?",
+                "en": "Which international development goal consists of 17 goals set by the United Nations to achieve a sustainable world?"
+            },
+            "options": {
+                "ja": [
+                    "ア. COP21",
+                    "イ. SDGs",
+                    "ウ. UNESCO",
+                    "エ. WHO"
+                ],
+                "vi": [
+                    "ア. COP21",
+                    "イ. SDGs",
+                    "ウ. UNESCO",
+                    "エ. WHO"
+                ],
+                "en": [
+                    "A. COP21",
+                    "B. SDGs",
+                    "C. UNESCO",
+                    "D. WHO"
+                ]
+            },
+            "answer": "イ"
+        },
+        {
+            "type": "heading",
+            "level": 1,
+            "ja": "解答・解説",
+            "reading": "かいとう・かいせつ",
+            "vi": "Đáp án và Giải thích",
+            "en": "Answers and Explanations",
+            "my": "အဖြေများနှင့် ရှင်းလင်းချက်များ"
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-1",
+            "answer": "ア",
+            "explanation": {
+                "ja": "経営理念に関する問題では、選択肢中から「存在意義」というキーワードを探すことがポイントです。\n\nイ. 「人・物・金・情報」というキーワードから経営資源の説明であると判断します。\nウ. 経営計画の説明です。\nエ. 企業文化の説明です。",
+                "vi": "Với câu hỏi về triết lý kinh doanh, điểm quan trọng là tìm từ khóa \"lý do tồn tại\" trong các lựa chọn.\n\nイ. Từ từ khóa \"người, vật, tiền, thông tin\" có thể đánh giá là giải thích về nguồn lực kinh doanh.\nウ. Là giải thích về kế hoạch kinh doanh.\nエ. Là giải thích về văn hóa doanh nghiệp.",
+                "en": "For questions about business philosophy, the key is to find the keyword \"reason for existence\" in the options.\n\nB. From keywords \"people, things, money, information,\" we judge it explains management resources.\nC. Explains business planning.\nD. Explains corporate culture."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-2",
+            "answer": "イ",
+            "explanation": {
+                "ja": "CSRに限らず、英語の略語を見たら、最初に「それが何の略語か」を考えましょう。CSRは「Corporate Social Responsibility」の略語です。Responsibilityを「責任」と和訳できれば、「責任」というキーワードが含まれている選択肢が正解だとわかります。\n\nア. ベンチマーキングの説明です。\nウ. コーポレートガバナンスの説明です。\nエ. コアコンピタンスの説明です。",
+                "vi": "Không chỉ CSR, khi thấy viết tắt tiếng Anh, hãy nghĩ \"đây là viết tắt của gì\" trước. CSR là viết tắt của \"Corporate Social Responsibility\". Nếu dịch Responsibility là \"trách nhiệm\", sẽ biết đáp án là lựa chọn có từ khóa \"trách nhiệm\".\n\nア. Là giải thích về Benchmarking.\nウ. Là giải thích về Corporate Governance.\nエ. Là giải thích về Core Competence.",
+                "en": "Not just CSR, when you see English abbreviations, first think \"what is this abbreviation for?\" CSR stands for \"Corporate Social Responsibility.\" If you translate Responsibility as \"responsibility,\" you'll know the answer contains the keyword \"responsibility.\"\n\nA. Explains Benchmarking.\nC. Explains Corporate Governance.\nD. Explains Core Competence."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-3",
+            "answer": "イ",
+            "explanation": {
+                "ja": "人種、性別、年齢、国籍などの「多様性」を受け入れて、さまざまな人材を活用することで生産性を高めようとする考え方をダイバーシティといいます。\n\nア. グラスシーリングとは、昇進をはばむ「見えない天井」を比喩する言葉です。\nウ. ホワイトカラーエグゼンプションとは、事務労働者（ホワイトカラー）への報酬を、働いた時間ではなく、成果で決める制度です。\nエ. ワークライフバランスとは、仕事の時間と私生活の時間の調和に取り組むことです。",
+                "vi": "Suy nghĩ về việc nâng cao năng suất bằng cách chấp nhận \"đa dạng\" về chủng tộc, giới tính, tuổi tác, quốc tịch và sử dụng nhiều loại nhân tài được gọi là Diversity.\n\nア. Glass ceiling là từ ẩn dụ cho \"trần kính vô hình\" cản trở thăng tiến.\nウ. White collar exemption là chế độ trả lương cho nhân viên văn phòng dựa trên thành quả, không phải thời gian làm việc.\nエ. Work-life balance là việc cân bằng giữa thời gian làm việc và cuộc sống riêng.",
+                "en": "The idea of improving productivity by accepting \"diversity\" in race, gender, age, nationality and utilizing various talents is called Diversity.\n\nA. Glass ceiling is a metaphor for the \"invisible ceiling\" that hinders promotion.\nC. White collar exemption is a system where office workers are paid based on performance, not hours worked.\nD. Work-life balance is about harmonizing work time and personal life."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-4",
+            "answer": "エ",
+            "explanation": {
+                "ja": "OJTは「On the Job Training」（業務上でのトレーニング）の略です。つまり「業務の実践を通じた訓練」だとわかります。\n\nア. CDP（Career Development Program：経歴開発プログラム）は、企業が従業員のキャリアを伸ばすために、その従業員の適性や希望に合わせて、研修や配属先を決め、長期的な視野で人材を育成する方法です。\nイ. e-ラーニングは、PCやインターネットなどのITを使った学習です。\nウ. Off-JTは、実際の業務から離れて行われる研修やセミナーなどによる訓練です。OJTとOff-JTはいつもセットで登場するので、区別できるようにしておいてください。",
+                "vi": "OJT là viết tắt của \"On the Job Training\" (đào tạo tại chỗ làm việc). Nghĩa là \"đào tạo thông qua thực hành công việc\".\n\nア. CDP (Career Development Program: Chương trình phát triển nghề nghiệp) là phương pháp doanh nghiệp nuôi dưỡng nhân tài dài hạn bằng cách quyết định đào tạo và phân công phù hợp với năng lực và mong muốn của nhân viên.\nイ. e-Learning là học tập sử dụng IT như PC và Internet.\nウ. Off-JT là đào tạo thông qua khóa học và hội thảo tách biệt khỏi công việc thực tế. OJT và Off-JT luôn xuất hiện cùng nhau, nên hãy phân biệt được.",
+                "en": "OJT stands for \"On the Job Training.\" This means \"training through work practice.\"\n\nA. CDP (Career Development Program) is a method where companies develop talent long-term by deciding training and assignments based on employee aptitude and wishes.\nB. e-Learning is learning using IT like PCs and Internet.\nC. Off-JT is training through seminars separate from actual work. OJT and Off-JT always appear together, so learn to distinguish them."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "1-1, 1-2, 1-3, 1-4"
+    }
+}

@@ -1,0 +1,343 @@
+{
+  "page_id": 379,
+  "image": "p_0379.png",
+  "chapter": 9,
+  "section": "09-09",
+  "page_number": 363,
+  "content": [
+    {
+      "type": "code_format_explanation",
+      "items": [
+        {
+          "ja": "・関数の定義の()の中に「型名:引数名」を書く",
+          "vi": "・Viết \"tên kiểu: tên đối số\" trong () của định nghĩa hàm",
+          "en": "・Write 'type name: argument name' in () of function definition"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "指定した引数名は、関数の処理の中では変数として扱われます。以下は、関数helloが引数を受け取るプログラム例です。",
+      "vi": "Tên đối số đã chỉ định được xử lý như biến trong xử lý của hàm. Sau đây là ví dụ chương trình hàm hello nhận đối số.",
+      "en": "Specified argument name is treated as variable in function processing. Following is example program where hello function receives argument.",
+      "terms": [
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "引数名",
+          "reading": "ひきすうめい"
+        },
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "引数",
+          "reading": "ひきすう"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】関数の定義（引数あり）",
+        "vi": "【Ví dụ chương trình】Định nghĩa hàm (có đối số)",
+        "en": "[Program Example] Function Definition (with arguments)"
+      },
+      "code": "○hello(文字列型: name)\n    nameを出力する\n    \"こんにちは\"を出力する"
+    },
+    {
+      "type": "paragraph",
+      "ja": "関数を定義する際に、引数の型（文字列型）と関数内で使用する変数（name）を書きます。こうすることで、関数helloの中で、文字列型の変数nameを使用できるようになります。変数nameの中身は、関数の呼び出し時に指定します。",
+      "vi": "Khi định nghĩa hàm, viết kiểu của đối số (kiểu chuỗi) và biến sử dụng trong hàm (name). Làm vậy, có thể sử dụng biến name kiểu chuỗi trong hàm hello. Nội dung của biến name được chỉ định khi gọi hàm.",
+      "en": "When defining function, write argument type (string type) and variable used in function (name). By doing so, can use string type variable name in hello function. Variable name contents are specified when calling function.",
+      "terms": [
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "引数",
+          "reading": "ひきすう"
+        },
+        {
+          "kanji": "型",
+          "reading": "かた"
+        },
+        {
+          "kanji": "文字列型",
+          "reading": "もじれつがた"
+        },
+        {
+          "kanji": "関数内",
+          "reading": "かんすうない"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "中身",
+          "reading": "なかみ"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "時",
+          "reading": "とき"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "引数のある関数の呼び出し",
+      "reading": "ひきすうのあるかんすうのよびだし",
+      "vi": "Gọi hàm có đối số",
+      "en": "Calling Function with Arguments"
+    },
+    {
+      "type": "paragraph",
+      "ja": "関数の呼び出しでは( )の中に引数を書きます。以下は、引数のある関数の呼び出しです。",
+      "vi": "Khi gọi hàm, viết đối số trong ( ). Sau đây là gọi hàm có đối số.",
+      "en": "When calling function, write argument in ( ). Following is calling function with arguments.",
+      "terms": [
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "引数",
+          "reading": "ひきすう"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【書式】関数の呼び出し（引数あり）",
+        "vi": "【Định dạng】Gọi hàm (có đối số)",
+        "en": "[Format] Function Call (with arguments)"
+      },
+      "code": "関数名 (引数)"
+    },
+    {
+      "type": "paragraph",
+      "ja": "関数の呼び出し時に引数を指定すると、その引数が関数に渡されます。以下のプログラムを実行すると、引数nameに「山田さん」が代入されたうえで、2つの命令が実行されます。",
+      "vi": "Khi chỉ định đối số khi gọi hàm, đối số đó được truyền cho hàm. Khi thực hiện chương trình sau, \"Yamada-san\" được gán vào đối số name, và 2 lệnh được thực hiện.",
+      "en": "When specifying argument when calling function, that argument is passed to function. When executing following program, 'Yamada-san' is assigned to argument name, and 2 commands are executed.",
+      "terms": [
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "時",
+          "reading": "とき"
+        },
+        {
+          "kanji": "引数",
+          "reading": "ひきすう"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "山田",
+          "reading": "やまだ"
+        },
+        {
+          "kanji": "代入",
+          "reading": "だいにゅう"
+        },
+        {
+          "kanji": "命令",
+          "reading": "めいれい"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】関数の呼び出し（引数あり）",
+        "vi": "【Ví dụ chương trình】Gọi hàm (có đối số)",
+        "en": "[Program Example] Function Call (with arguments)"
+      },
+      "code": "○hello(文字列型: name)\n    nameを出力する\n    \"こんにちは\"を出力する\nhello(\"山田さん\")"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記の関数helloを定義して呼び出すと、以下のように出力されます。変数nameに引数「山田さん」が代入されていることが確認できます。",
+      "vi": "Khi định nghĩa và gọi hàm hello trên, xuất ra như sau. Có thể xác nhận đối số \"Yamada-san\" được gán vào biến name.",
+      "en": "When defining and calling above hello function, outputs as follows. Can confirm argument 'Yamada-san' is assigned to variable name.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "引数",
+          "reading": "ひきすう"
+        },
+        {
+          "kanji": "山田",
+          "reading": "やまだ"
+        },
+        {
+          "kanji": "代入",
+          "reading": "だいにゅう"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        }
+      ]
+    },
+    {
+      "type": "output_example",
+      "title": {
+        "ja": "【出力例】",
+        "vi": "【Ví dụ xuất】",
+        "en": "[Output Example]"
+      },
+      "output": "山田さんこんにちは"
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "is_key_content": true
+  }
+}

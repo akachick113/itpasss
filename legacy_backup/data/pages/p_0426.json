@@ -1,0 +1,282 @@
+{
+  "page_id": 426,
+  "image": "p_0426.png",
+  "chapter": 11,
+  "section": "11-05",
+  "page_number": 410,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "出力装置",
+      "vi": "Thiết bị xuất",
+      "en": "Output Devices"
+    },
+    {
+      "type": "paragraph",
+      "ja": "出力装置とは、コンピュータの処理結果を表示するための装置です。ITパスポート試験では「ディスプレイ」と「プリンター」がよく出題されます。",
+      "vi": "Thiết bị xuất là thiết bị để hiển thị kết quả xử lý của máy tính. Trong kỳ thi IT Passport, \"màn hình\" và \"máy in\" thường được ra đề.",
+      "en": "Output device is device for displaying computer processing results. In IT Passport exam, 'display' and 'printer' often appear.",
+      "terms": [
+        {
+          "kanji": "出力装置",
+          "reading": "しゅつりょくそうち"
+        },
+        {
+          "kanji": "処理結果",
+          "reading": "しょりけっか"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ディスプレイ",
+      "vi": "Màn hình",
+      "en": "Display"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ディスプレイとは、コンピュータが処理した結果（画像や動画なども含む）などを表示する装置です。ディスプレイは人間の目では識別できないほど細かいマスで区切られており、そのマスを赤（Red）、緑（Green）、青（Blue）のいずれかの色で塗りつぶすことで、文字や画像などを表現します。「たった3色だけですべての色を表現できるのか？」と思う人もいると思いますが、ディスプレイにはこの3色だけで人間が識別できるあらゆる色を表現しています。",
+      "vi": "Màn hình là thiết bị hiển thị kết quả xử lý của máy tính (bao gồm hình ảnh và video). Màn hình được chia thành các ô nhỏ đến mức mắt người không thể phân biệt, và bằng cách tô màu các ô đó bằng màu đỏ (Red), xanh lá (Green), hoặc xanh dương (Blue), biểu diễn chữ và hình ảnh. Có người nghĩ \"Chỉ 3 màu có thể biểu diễn tất cả màu sắc sao?\", nhưng màn hình biểu diễn tất cả các màu mà con người có thể phân biệt chỉ với 3 màu này.",
+      "en": "Display is device showing computer processing results (including images and videos). Display is divided into cells so fine human eyes can't distinguish, and by filling those cells with red, green, or blue, expresses characters and images. Some may think 'Can just 3 colors express all colors?' but display expresses all colors humans can distinguish with just these 3 colors.",
+      "terms": [
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "画像",
+          "reading": "がぞう"
+        },
+        {
+          "kanji": "動画",
+          "reading": "どうが"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "目",
+          "reading": "め"
+        },
+        {
+          "kanji": "識別",
+          "reading": "しきべつ"
+        },
+        {
+          "kanji": "細",
+          "reading": "さい"
+        },
+        {
+          "kanji": "区切",
+          "reading": "くぎり"
+        },
+        {
+          "kanji": "赤",
+          "reading": "あか"
+        },
+        {
+          "kanji": "緑",
+          "reading": "みどり"
+        },
+        {
+          "kanji": "青",
+          "reading": "あお"
+        },
+        {
+          "kanji": "色",
+          "reading": "いろ"
+        },
+        {
+          "kanji": "塗",
+          "reading": "ぬり"
+        },
+        {
+          "kanji": "文字",
+          "reading": "もじ"
+        },
+        {
+          "kanji": "表現",
+          "reading": "ひょうげん"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、コンピュータのディスプレイで使われているこの3つの色（赤、緑、青）を「光の三原色」といいます。また、それぞれの色の頭文字をとって「RGB」ということもあります。",
+      "vi": "Ngoài ra, 3 màu này (đỏ, xanh lá, xanh dương) được sử dụng trong màn hình máy tính được gọi là \"ba màu cơ bản của ánh sáng\". Ngoài ra, cũng được gọi là \"RGB\" lấy chữ cái đầu của mỗi màu.",
+      "en": "Also, these 3 colors (red, green, blue) used in computer displays are called 'three primary colors of light.' Also called 'RGB' taking first letter of each color.",
+      "terms": [
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "色",
+          "reading": "いろ"
+        },
+        {
+          "kanji": "赤",
+          "reading": "あか"
+        },
+        {
+          "kanji": "緑",
+          "reading": "みどり"
+        },
+        {
+          "kanji": "青",
+          "reading": "あお"
+        },
+        {
+          "kanji": "光",
+          "reading": "ひかり"
+        },
+        {
+          "kanji": "三原色",
+          "reading": "さんげんしょく"
+        },
+        {
+          "kanji": "頭文字",
+          "reading": "かしらもじ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ディスプレイの仕組み",
+        "vi": "Cấu trúc của màn hình",
+        "en": "Display Mechanism"
+      },
+      "description": {
+        "ja": "画面を拡大すると、RGB（赤・緑・青）の小さなマスで構成されていることがわかる。A旧E表示など",
+        "vi": "Khi phóng to màn hình, có thể thấy được cấu tạo từ các ô nhỏ RGB (đỏ, xanh lá, xanh dương). Hiển thị như A旧E, v.v.",
+        "en": "When magnifying screen, can see it's composed of small RGB (red, green, blue) cells. Display like A旧E, etc."
+      }
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！4Kと8K",
+        "vi": "Chi tiết hơn! 4K và 8K",
+        "en": "More Details! 4K and 8K"
+      },
+      "content": {
+        "ja": "昨今、家電量販店などでも目にする機会が増えている用語に「4K」や「8K」があります。4K・8Kとは、超高画質の放送映像やその映像を表示するためのディスプレイの性能を指す用語です。4Kはフルハイビジョンの4倍の画素数、8Kは16倍の画素数になります。",
+        "vi": "Gần đây, các thuật ngữ \"4K\" và \"8K\" ngày càng được nhìn thấy nhiều trong các cửa hàng điện máy, v.v. 4K, 8K là thuật ngữ chỉ hiệu suất của hình ảnh phát sóng chất lượng siêu cao và màn hình hiển thị hình ảnh đó. 4K có số pixel gấp 4 lần Full HD, 8K có số pixel gấp 16 lần.",
+        "en": "Recently, terms '4K' and '8K' are increasingly seen in electronics stores, etc. 4K, 8K are terms referring to ultra-high-quality broadcast video and display performance for showing such video. 4K has 4 times Full HD pixels, 8K has 16 times pixels."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "プリンター",
+      "vi": "Máy in",
+      "en": "Printer"
+    },
+    {
+      "type": "paragraph",
+      "ja": "プリンターには印刷方法の違いから、次のような種類があります。",
+      "vi": "Máy in có các loại sau tùy theo sự khác biệt trong phương pháp in.",
+      "en": "Printers have following types depending on printing method differences.",
+      "terms": [
+        {
+          "kanji": "印刷方法",
+          "reading": "いんさつほうほう"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        }
+      ]
+    },
+    {
+      "type": "note",
+      "ja": "← たまに出題されるが確出ではないので、余裕がある人だけ覚えよう！",
+      "vi": "← Thỉnh thoảng ra đề nhưng không chắc chắn, chỉ những người có thời gian hãy nhớ!",
+      "en": "← Sometimes tested but not guaranteed, only remember if you have time!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "出力装置",
+      "reading": "しゅつりょくそうち",
+      "vi": "Thiết bị xuất",
+      "en": "Output Device",
+      "my": "အထွက် ကိရိယာ"
+    },
+    {
+      "term": "ディスプレイ",
+      "vi": "Màn hình",
+      "en": "Display",
+      "my": "ဒစ်ပလေ"
+    },
+    {
+      "term": "光の三原色",
+      "reading": "ひかりのさんげんしょく",
+      "vi": "Ba màu cơ bản của ánh sáng",
+      "en": "Three Primary Colors of Light",
+      "my": "အလင်း အစိ အရောင် သုံး"
+    },
+    {
+      "term": "RGB",
+      "vi": "RGB",
+      "en": "RGB",
+      "my": "အားဂျီးဘီး"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

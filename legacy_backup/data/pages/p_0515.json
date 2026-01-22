@@ -1,0 +1,270 @@
+{
+  "page_id": 515,
+  "image": "p_0515.png",
+  "chapter": 14,
+  "section": "14-04",
+  "page_number": 499,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "ワーク機器を識別するための番号がMACアドレスです。仮にネットワークを1つの路線と考えるならば、MACアドレスは乗り換え駅の名前、IPアドレスは最終目的地の駅の名前です。",
+      "vi": "Số để nhận dạng thiết bị mạng là địa chỉ MAC. Nếu ví mạng như 1 tuyến đường, địa chỉ MAC là tên ga trung chuyển, địa chỉ IP là tên ga đích cuối cùng.",
+      "en": "Number to identify network device is MAC Address. If comparing network to 1 route, MAC Address is name of transfer station, IP Address is name of final destination station.",
+      "terms": [
+        {
+          "kanji": "機器",
+          "reading": "きき"
+        },
+        {
+          "kanji": "識別",
+          "reading": "しきべつ"
+        },
+        {
+          "kanji": "番号",
+          "reading": "ばんごう"
+        },
+        {
+          "kanji": "仮",
+          "reading": "かり"
+        },
+        {
+          "kanji": "路線",
+          "reading": "ろせん"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "乗",
+          "reading": "じょう"
+        },
+        {
+          "kanji": "換",
+          "reading": "かん"
+        },
+        {
+          "kanji": "駅",
+          "reading": "えき"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "最終目的地",
+          "reading": "さいしゅうもくてきち"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "IPアドレスとは、コンピュータを識別するための番号",
+          "vi": "Địa chỉ IP là số để nhận dạng máy tính",
+          "en": "IP Address is number to identify computer"
+        },
+        {
+          "ja": "ポート番号とは、アプリケーションソフトウェアごとに割り当てられる情報の出入口を示す値",
+          "vi": "Số cổng là giá trị chỉ cổng vào ra thông tin được gán cho mỗi phần mềm ứng dụng",
+          "en": "Port Number is value indicating information gateway assigned to each application software"
+        },
+        {
+          "ja": "MACアドレスとは、ネットワーク機器ごとに割り当てられる固有の宛先",
+          "vi": "Địa chỉ MAC là địa chỉ đích cố định được gán cho mỗi thiết bị mạng",
+          "en": "MAC Address is unique destination assigned to each network device"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ドメイン名とDNS",
+      "vi": "Tên miền và DNS",
+      "en": "Domain Name and DNS"
+    },
+    {
+      "type": "paragraph",
+      "ja": "先述したように、IPアドレスは「13.112.248.159」や「192.168.1.1」のように、規則性のない数字の羅列であるため、人間にとっては覚えにくく、扱いづらいという難点があります。",
+      "vi": "Như đã nói trước, vì địa chỉ IP là chuỗi số không có quy tắc như \"13.112.248.159\" hay \"192.168.1.1\", nên có nhược điểm là khó nhớ và khó xử lý đối với con người.",
+      "en": "As mentioned earlier, since IP Address is sequence of numbers without pattern like '13.112.248.159' or '192.168.1.1,' it has drawback of being hard to remember and handle for humans.",
+      "terms": [
+        {
+          "kanji": "先述",
+          "reading": "せんじゅつ"
+        },
+        {
+          "kanji": "規則性",
+          "reading": "きそくせい"
+        },
+        {
+          "kanji": "数字",
+          "reading": "すうじ"
+        },
+        {
+          "kanji": "羅列",
+          "reading": "られつ"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "難点",
+          "reading": "なんてん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "この難点を解決するのが「ドメイン名」です。ドメイン名とは、コンピュータやネットワークなどを識別するための名前です。IPアドレスをドメイン名に置き換えれば、人間は覚えやすく、扱いやすくなります。",
+      "vi": "Điều giải quyết nhược điểm này là \"Tên miền\". Tên miền là tên để nhận dạng máy tính, mạng,... Nếu thay thế địa chỉ IP bằng tên miền, con người sẽ dễ nhớ và dễ xử lý hơn.",
+      "en": "What solves this drawback is 'Domain Name.' Domain Name is name to identify computers, networks, etc. If replacing IP Address with Domain Name, becomes easier for humans to remember and handle.",
+      "terms": [
+        {
+          "kanji": "難点",
+          "reading": "なんてん"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "名",
+          "reading": "めい"
+        },
+        {
+          "kanji": "識別",
+          "reading": "しきべつ"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "換",
+          "reading": "かん"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "IPアドレスとドメイン名",
+        "vi": "Địa chỉ IP và Tên miền",
+        "en": "IP Address and Domain Name"
+      },
+      "description": {
+        "ja": "13.112.248.159（IPアドレス）⇔ 対応付ける ⇔ example.co.jp（ドメイン名）",
+        "vi": "13.112.248.159 (Địa chỉ IP) ⇔ Liên kết ⇔ example.co.jp (Tên miền)",
+        "en": "13.112.248.159 (IP Address) ⇔ Correspond ⇔ example.co.jp (Domain Name)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "IPアドレスと同様に、ドメイン名も世界中で重複しない文字列にする必要があります。このため、ドメイン名もICANN（p.497）が管理しています。",
+      "vi": "Tương tự như địa chỉ IP, tên miền cũng cần là chuỗi ký tự không trùng lặp trên toàn thế giới. Vì vậy, tên miền cũng được ICANN (trang 497) quản lý.",
+      "en": "Like IP Address, Domain Name also needs to be string that doesn't duplicate worldwide. Therefore, Domain Name is also managed by ICANN (p.497).",
+      "terms": [
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        },
+        {
+          "kanji": "名",
+          "reading": "めい"
+        },
+        {
+          "kanji": "世界中",
+          "reading": "せかいじゅう"
+        },
+        {
+          "kanji": "重複",
+          "reading": "ちょうふく"
+        },
+        {
+          "kanji": "文字列",
+          "reading": "もじれつ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ドメイン名とは、コンピュータやネットワークなどを識別するための名前",
+          "vi": "Tên miền là tên để nhận dạng máy tính, mạng,...",
+          "en": "Domain Name is name to identify computers, networks, etc."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ドメイン名",
+      "vi": "Tên miền",
+      "en": "Domain Name",
+      "my": "ဒိုမိန်းအမည်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

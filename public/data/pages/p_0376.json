@@ -1,0 +1,215 @@
+{
+  "page_id": 376,
+  "image": "p_0376.png",
+  "chapter": 9,
+  "section": "09-09",
+  "page_number": 360,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "09-09",
+      "title": {
+        "ja": "プログラミング③ 関数",
+        "vi": "Lập trình ③ Hàm",
+        "en": "Programming ③ Functions"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "まとめることで扱いやすくする",
+        "vi": "Gộp lại để dễ xử lý hơn",
+        "en": "Easier to Handle by Grouping"
+      },
+      "content": {
+        "ja": "雑誌やダンボールを捨てるときは、紐でまとめます。そうすることで、扱いが楽になります。これと同じように、たくさんの命令も1つにまとめることで、扱いやすくなります。",
+        "vi": "Khi vứt tạp chí hoặc thùng carton, gói bằng dây. Làm vậy, xử lý dễ hơn. Tương tự, gộp nhiều lệnh thành một cũng dễ xử lý hơn.",
+        "en": "When throwing away magazines or cardboard, tie with string. By doing so, handling becomes easier. Similarly, grouping many commands into one makes handling easier."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "プログラミング分野の最後に「関数」を解説します。関数とは、複数の命令を1つにまとめる機能です。",
+      "vi": "Cuối lĩnh vực lập trình giải thích \"hàm\". Hàm là chức năng gộp nhiều lệnh thành một.",
+      "en": "At end of programming field, explains 'function.' Function is feature grouping multiple commands into one.",
+      "terms": [
+        {
+          "kanji": "分野",
+          "reading": "ぶんや"
+        },
+        {
+          "kanji": "最後",
+          "reading": "さいご"
+        },
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "命令",
+          "reading": "めいれい"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "関数のイメージ",
+        "vi": "Hình ảnh hàm",
+        "en": "Function Image"
+      },
+      "description": {
+        "ja": "複数の命令を1つにまとめて関数にするイメージ図",
+        "vi": "Hình ảnh gộp nhiều lệnh thành một tạo thành hàm",
+        "en": "Image of grouping multiple commands into one to create function"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "関数を使うには、関数の定義と関数の呼び出しの2つのステップを踏みます。",
+      "vi": "Để sử dụng hàm, cần 2 bước: định nghĩa hàm và gọi hàm.",
+      "en": "To use function, takes 2 steps: function definition and function call.",
+      "terms": [
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "踏",
+          "reading": "ふ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ステップ1 関数の定義",
+      "vi": "Bước 1 Định nghĩa hàm",
+      "en": "Step 1 Function Definition"
+    },
+    {
+      "type": "paragraph",
+      "ja": "関数の定義とは、関数を作るステップであり、実行したい複数の命令を1つにまとめることです。変数を使うには最初に「変数の宣言」を行いました（p.347）。これと似たステップです。書式は以下の通りです。",
+      "vi": "Định nghĩa hàm là bước tạo hàm, gộp nhiều lệnh muốn thực hiện thành một. Để dùng biến trước tiên đã \"khai báo biến\" (trang 347). Đây là bước tương tự. Định dạng như sau.",
+      "en": "Function definition is step creating function, grouping multiple commands to execute into one. To use variable first did 'variable declaration' (p.347). This is similar step. Format is as follows.",
+      "terms": [
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "命令",
+          "reading": "めいれい"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "宣言",
+          "reading": "せんげん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "似",
+          "reading": "じ"
+        },
+        {
+          "kanji": "書式",
+          "reading": "しょしき"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【書式】関数の定義",
+        "vi": "【Định dạng】Định nghĩa hàm",
+        "en": "[Format] Function Definition"
+      },
+      "code": "○関数名( )\n    処理"
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "関数",
+      "reading": "かんすう",
+      "vi": "Hàm",
+      "en": "Function",
+      "my": "လုပ်ဆောင်ချက်"
+    },
+    {
+      "term": "関数の定義",
+      "vi": "Định nghĩa hàm",
+      "en": "Function Definition",
+      "my": "လုပ်ဆောင်ချက် စိတ်ပုံ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

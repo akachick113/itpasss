@@ -1,0 +1,221 @@
+{
+  "page_id": 510,
+  "image": "p_0510.png",
+  "chapter": 14,
+  "section": "14-03",
+  "page_number": 494,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "POP",
+      "vi": "POP",
+      "en": "POP"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "POP",
+        "vi": "POP",
+        "en": "POP"
+      },
+      "definition": {
+        "ja": "POP（Post Office Protocol）とは、電子メールをメールサーバから受信するためのプロトコルです。",
+        "vi": "POP (Post Office Protocol) là giao thức để nhận email từ máy chủ thư.",
+        "en": "POP (Post Office Protocol) is protocol for receiving email from mail server."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、みなさんが自分宛の電子メールを受け取るには、POPを使ってメールサーバから電子メールを受信する必要があります。最寄りの郵便局へ自分宛の手紙を取りに行くことに似ています。",
+      "vi": "Ví dụ, để mọi người nhận email gửi cho mình, cần nhận email từ máy chủ thư bằng POP. Giống như đến bưu điện gần nhất để lấy thư gửi cho mình.",
+      "en": "For example, to receive email addressed to you, need to receive email from mail server using POP. Similar to going to nearest post office to pick up letter addressed to you.",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "自分宛",
+          "reading": "じぶんあて"
+        },
+        {
+          "kanji": "電子",
+          "reading": "でんし"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "受信",
+          "reading": "じゅしん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "最寄",
+          "reading": "もより"
+        },
+        {
+          "kanji": "郵便局",
+          "reading": "ゆうびんきょく"
+        },
+        {
+          "kanji": "手紙",
+          "reading": "てがみ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "似",
+          "reading": "じ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "POPの概念図",
+        "vi": "Sơ đồ khái niệm POP",
+        "en": "POP Concept Diagram"
+      },
+      "description": {
+        "ja": "電子メールをメールサーバから受け取る（メールサーバ → POP → クライアント）",
+        "vi": "Nhận email từ máy chủ thư (Máy chủ thư → POP → Client)",
+        "en": "Receive email from mail server (Mail Server → POP → Client)"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "IMAP",
+      "vi": "IMAP",
+      "en": "IMAP"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "IMAP",
+        "vi": "IMAP",
+        "en": "IMAP"
+      },
+      "definition": {
+        "ja": "IMAP（Internet Message Access Protocol）とは、電子メールをダウンロードせずに、メールサーバ上で閲覧するためのプロトコルです。ITパスポート試験では「メールサーバ上で管理されている電子メールを閲覧するためのプロトコル」という文章で出題されることもあります。",
+        "vi": "IMAP (Internet Message Access Protocol) là giao thức để xem email trên máy chủ thư mà không cần tải xuống. Trong kỳ thi IT Passport, cũng có thể ra đề bằng câu \"Giao thức để xem email được quản lý trên máy chủ thư\".",
+        "en": "IMAP (Internet Message Access Protocol) is protocol for viewing email on mail server without downloading. In IT Passport exam, may also appear as 'protocol for viewing email managed on mail server.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "郵便局の例で考えるなら、あなたが郵便局まで行き、そこで電子メールの内容を読み、その後、電子メールをそこに置いたまま家に帰るようなイメージです。",
+      "vi": "Nếu nghĩ theo ví dụ bưu điện, giống như bạn đến bưu điện, đọc nội dung email ở đó, sau đó về nhà để email ở đó.",
+      "en": "Thinking with post office example, it's like going to post office, reading email content there, then going home leaving email there.",
+      "terms": [
+        {
+          "kanji": "郵便局",
+          "reading": "ゆうびんきょく"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "電子",
+          "reading": "でんし"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "家",
+          "reading": "いえ"
+        },
+        {
+          "kanji": "帰",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "IMAPの概念図",
+        "vi": "Sơ đồ khái niệm IMAP",
+        "en": "IMAP Concept Diagram"
+      },
+      "description": {
+        "ja": "メールサーバにある電子メールを閲覧する（スマートフォン⇔IMAP⇔メールサーバ、PC⇔IMAP⇔メールサーバ）。電子メールはサーバに保存されたまま",
+        "vi": "Xem email trên máy chủ thư (Smartphone ⇔ IMAP ⇔ Máy chủ thư, PC ⇔ IMAP ⇔ Máy chủ thư). Email vẫn được lưu trên máy chủ",
+        "en": "View email on mail server (Smartphone ⇔ IMAP ⇔ Mail Server, PC ⇔ IMAP ⇔ Mail Server). Email remains saved on server"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "POP",
+      "full": "Post Office Protocol",
+      "vi": "POP (Giao thức bưu điện)",
+      "en": "POP (Post Office Protocol)",
+      "my": "POP (စာတိုက် ပရိုတိုကော)"
+    },
+    {
+      "term": "IMAP",
+      "full": "Internet Message Access Protocol",
+      "vi": "IMAP (Giao thức truy cập tin nhắn Internet)",
+      "en": "IMAP (Internet Message Access Protocol)",
+      "my": "IMAP (အင်တာနက် မက်ဆေ့ချ် ဝင်ရောက်ခွင့် ပရိုတိုကော)"
+    },
+    {
+      "term": "受信",
+      "reading": "じゅしん",
+      "vi": "Nhận",
+      "en": "Receive",
+      "my": "လက်ခံရန်"
+    },
+    {
+      "term": "閲覧",
+      "reading": "えつらん",
+      "vi": "Xem/Duyệt",
+      "en": "View/Browse",
+      "my": "ကြည့်ရှုရန် / ရှာဖွေကြည့်ရန်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

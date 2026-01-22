@@ -1,0 +1,132 @@
+{
+    "page_id": 356,
+    "image": "p_0356.png",
+    "chapter": 9,
+    "section": "practice",
+    "page_number": 340,
+    "content": [
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "出る順！過去問＆完全解説",
+                "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích hoàn chỉnh",
+                "en": "By Frequency! Past Questions & Complete Explanations"
+            },
+            "note": {
+                "ja": "解答・解説はp.341参照",
+                "vi": "Xem đáp án và giải thích ở trang 341",
+                "en": "See p.341 for answers and explanations"
+            }
+        },
+        {
+            "type": "exam_question",
+            "number": "9-4",
+            "year": "平成30年度",
+            "question": {
+                "ja": "複数のデータが格納されているスタックからのデータの取出し方として、適切なものはどれか。",
+                "vi": "Cách lấy dữ liệu từ Stack lưu trữ nhiều dữ liệu, cách nào thích hợp?",
+                "en": "Which is appropriate way to retrieve data from Stack storing multiple data?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. 格納された順序に関係なく指定された任意の場所のデータを取り出す。",
+                    "vi": "ア. Lấy dữ liệu ở vị trí bất kỳ được chỉ định không liên quan đến thứ tự lưu.",
+                    "en": "ア. Retrieve data from any specified location regardless of storage order."
+                },
+                {
+                    "ja": "イ. 最後に格納されたデータを最初に取り出す。",
+                    "vi": "イ. Lấy dữ liệu lưu cuối cùng ra trước.",
+                    "en": "イ. Retrieve last stored data first."
+                },
+                {
+                    "ja": "ウ. 最初に格納されたデータを最初に取り出す。",
+                    "vi": "ウ. Lấy dữ liệu lưu đầu tiên ra trước.",
+                    "en": "ウ. Retrieve first stored data first."
+                },
+                {
+                    "ja": "エ. データがキーを持っており、キーの優先度でデータを取り出す。",
+                    "vi": "エ. Dữ liệu có key, lấy dữ liệu theo độ ưu tiên của key.",
+                    "en": "エ. Data has keys, retrieve data by key priority."
+                }
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "9-5",
+            "year": "平成22年度",
+            "question": {
+                "ja": "二つの変数xとyに対して、次の手続を①から順に実行する。処理が終了したとき、xの値は幾らになるか。",
+                "vi": "Với hai biến x và y, thực hiện thủ tục sau theo thứ tự từ ①. Khi xử lý kết thúc, giá trị x là bao nhiêu?",
+                "en": "For two variables x and y, execute following procedure in order from ①. When processing ends, what is x's value?"
+            },
+            "procedure": [
+                {
+                    "ja": "① xに2を代入し、yに3を代入する。",
+                    "vi": "① Gán 2 vào x, gán 3 vào y.",
+                    "en": "① Assign 2 to x, assign 3 to y."
+                },
+                {
+                    "ja": "② yの値から1を引いたものをyに代入する。",
+                    "vi": "② Gán giá trị y trừ 1 vào y.",
+                    "en": "② Assign y-1 to y."
+                },
+                {
+                    "ja": "③ xの値とyの値を加えたものをxに代入する。",
+                    "vi": "③ Gán x cộng y vào x.",
+                    "en": "③ Assign x+y to x."
+                },
+                {
+                    "ja": "④ y≠1なら手続②に戻り、y=1なら処理を終了する。",
+                    "vi": "④ Nếu y≠1 quay lại thủ tục ②, nếu y=1 kết thúc xử lý.",
+                    "en": "④ If y≠1 return to ②, if y=1 end processing."
+                }
+            ],
+            "choices": [
+                "ア. 4",
+                "イ. 5",
+                "ウ. 7",
+                "エ. 8"
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "9-6",
+            "year": "平成21年度",
+            "question": {
+                "ja": "HTMLに関する記述のうち、適切なものはどれか。",
+                "vi": "Trong các mô tả về HTML, cái nào thích hợp?",
+                "en": "Among descriptions about HTML, which is appropriate?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. HTMLで記述されたテキストをブラウザに転送するためにFTPが使われる。",
+                    "vi": "ア. FTP được sử dụng để chuyển văn bản viết bằng HTML đến trình duyệt.",
+                    "en": "ア. FTP is used to transfer HTML text to browser."
+                },
+                {
+                    "ja": "イ. SGMLの文法の基になった。",
+                    "vi": "イ. Đã trở thành cơ sở cho văn phạm SGML.",
+                    "en": "イ. Became basis for SGML grammar."
+                },
+                {
+                    "ja": "ウ. Webページを記述するための言語であり、タグによって文書の論理構造などを表現する。",
+                    "vi": "ウ. Là ngôn ngữ để mô tả trang web, biểu diễn cấu trúc logic của tài liệu bằng tag.",
+                    "en": "ウ. Language for describing web pages, expressing document logical structure with tags."
+                },
+                {
+                    "ja": "エ. XMLの機能を縮小して開発された。",
+                    "vi": "エ. Được phát triển bằng cách thu nhỏ chức năng của XML.",
+                    "en": "エ. Developed by reducing XML functionality."
+                }
+            ],
+            "correct_answer": "ウ"
+        }
+    ],
+    "answers_summary": "問題9-4 イ　問題9-5 イ　問題9-6 ウ",
+    "meta": {
+        "has_questions": true,
+        "question_count": 3
+    }
+}

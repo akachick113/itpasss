@@ -1,0 +1,309 @@
+{
+  "page_id": 218,
+  "image": "p_0218.png",
+  "chapter": 5,
+  "section": "05-06",
+  "page_number": 202,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "05-06",
+      "ja": "システム企画",
+      "reading": "しすてむきかく",
+      "vi": "Lập kế hoạch hệ thống",
+      "en": "System Planning",
+      "my": "System Planning"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "システム開発の5つのステップ",
+        "vi": "5 bước phát triển hệ thống",
+        "en": "5 Steps of System Development",
+        "my": "System Development ၏ အဆင့် ၅ ဆင့်",
+        "terms": [
+          {
+            "kanji": "システム開発",
+            "reading": "しすてむかいはつ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "いよいよ本項からシステムの作り方を学びます。システムを作る手順は大きく5つあります。良いシステムを作るために、これらの手順は細かく標準化されています。",
+        "vi": "Cuối cùng từ phần này sẽ học cách tạo hệ thống. Có 5 bước lớn để tạo hệ thống. Để tạo hệ thống tốt, các bước này được tiêu chuẩn hóa chi tiết.",
+        "en": "Finally, from this section we'll learn how to build systems. There are 5 major steps to building a system. To build good systems, these steps are finely standardized.",
+        "my": "နောက်ဆုံးတွင် ဤအပိုင်းမှစ၍ စနစ်များကို မည်သို့တည်ဆောက်ရမည်ကို လေ့လာမည်။",
+        "terms": [
+          {
+            "kanji": "本項",
+            "reading": "ほんこう"
+          },
+          {
+            "kanji": "作",
+            "reading": "つく"
+          },
+          {
+            "kanji": "方",
+            "reading": "かた"
+          },
+          {
+            "kanji": "学",
+            "reading": "がく"
+          },
+          {
+            "kanji": "手順",
+            "reading": "てじゅん"
+          },
+          {
+            "kanji": "大",
+            "reading": "おお"
+          },
+          {
+            "kanji": "良",
+            "reading": "りょう"
+          },
+          {
+            "kanji": "細",
+            "reading": "さい"
+          },
+          {
+            "kanji": "標準化",
+            "reading": "ひょうじゅんか"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここでは、業務を実際にシステム化していく際の最初の第一歩である「システム企画」について解説します。本項の内容のうち、ITパスポート試験では「ソフトウェアライフサイクル」がよく出題されます。",
+      "vi": "Ở đây sẽ giải thích về System Planning, bước đầu tiên khi thực sự hệ thống hóa nghiệp vụ. Trong nội dung phần này, IT Passport thường ra Software Lifecycle.",
+      "en": "Here we'll explain 'System Planning', the first step when actually systematizing work. In this section's content, IT Passport frequently tests 'Software Lifecycle'.",
+      "my": "ဤနေရာတွင် အမှန်တကယ် အလုပ်ကို စနစ်တကျပြုလုပ်သောအခါ ပထမအဆင့်ဖြစ်သော 'System Planning' ကို ရှင်းပြမည်။",
+      "terms": [
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "化",
+          "reading": "か"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "第一歩",
+          "reading": "だいいっぽ"
+        },
+        {
+          "kanji": "企画",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "全体の中の現在地の確認",
+      "vi": "Xác nhận vị trí hiện tại trong tổng thể",
+      "en": "Confirming Current Position in the Whole"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここまでにたくさんの経営用語や技術用語を解説してきました。ここでいったん、現在地を確認するために、全体を整理しておきます。下図を見てください。下図は「経営環境」を表した樹形図です。これまでに読み進めてきた内容を思い出しながら、全体像を再確認してください。",
+      "vi": "Ở trên đã giải thích nhiều thuật ngữ kinh doanh và kỹ thuật. Ở đây sẽ tạm dừng để xác nhận vị trí hiện tại bằng cách chỉnh lý tổng thể. Hãy xem hình dưới. Hình dưới là sơ đồ cây biểu diễn môi trường kinh doanh. Hãy xác nhận lại toàn cảnh trong khi nhớ lại nội dung đã đọc.",
+      "en": "We've explained many business and technical terms so far. Here, let's pause to confirm our current position by organizing the whole. See the figure below. The figure is a tree diagram showing 'business environment'. Reconfirm the whole picture while recalling what you've read.",
+      "my": "ယခုအထိ စီးပွားရေးနှင့် နည်းပညာ ဝေါဟာရ အများအပြားကို ရှင်းပြခဲ့သည်။",
+      "terms": [
+        {
+          "kanji": "経営用語",
+          "reading": "けいえいようご"
+        },
+        {
+          "kanji": "技術用語",
+          "reading": "ぎじゅつようご"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "現在地",
+          "reading": "げんざいち"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "整理",
+          "reading": "せいり"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "経営環境",
+          "reading": "けいえいかんきょう"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "樹形図",
+          "reading": "じゅけいず"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "全体像",
+          "reading": "ぜんたいぞう"
+        },
+        {
+          "kanji": "再確認",
+          "reading": "さいかくにん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "経営環境",
+      "vi": "Môi trường kinh doanh",
+      "en": "Business Environment"
+    },
+    {
+      "type": "paragraph",
+      "ja": "本書では最初に「経営環境」について解説しました。SWOT分析で経営環境を外部環境と内部環境に分類しました（p.100）。また、3C分析でも外部環境（Competitor：競合、Customer：顧客）と内部環境（Company：自社）に分類します（p.109）。",
+      "vi": "Sách này đầu tiên đã giải thích về môi trường kinh doanh. Phân tích SWOT phân loại môi trường kinh doanh thành môi trường bên ngoài và bên trong (trang 100). Phân tích 3C cũng phân thành môi trường bên ngoài (Competitor: đối thủ, Customer: khách hàng) và bên trong (Company: công ty mình) (trang 109).",
+      "en": "This book first explained 'business environment'. SWOT analysis classified business environment into external and internal environments (p.100). 3C analysis also classifies into external environment (Competitor, Customer) and internal environment (Company) (p.109).",
+      "my": "ဤစာအုပ်သည် ပထမဦးစွာ 'စီးပွားရေးပတ်ဝန်းကျင်' ကို ရှင်းပြခဲ့သည်။",
+      "terms": [
+        {
+          "kanji": "本書",
+          "reading": "ほんしょ"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "経営環境",
+          "reading": "けいえいかんきょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "外部環境",
+          "reading": "がいぶかんきょう"
+        },
+        {
+          "kanji": "内部環境",
+          "reading": "ないぶかんきょう"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "競合",
+          "reading": "きょうごう"
+        },
+        {
+          "kanji": "顧客",
+          "reading": "こきゃく"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "システム企画",
+      "reading": "しすてむきかく",
+      "romaji": "System Kikaku",
+      "vi": "Lập kế hoạch hệ thống",
+      "en": "System Planning",
+      "my": "စနစ် စီမံကိန်း"
+    },
+    {
+      "kanji": "経営環境",
+      "reading": "けいえいかんきょう",
+      "romaji": "Keiei Kankyou",
+      "vi": "Môi trường kinh doanh",
+      "en": "Business Environment",
+      "my": "စီးပွားရေး ပတ်ဝန်းကျင်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

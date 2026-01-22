@@ -1,0 +1,246 @@
+{
+  "page_id": 487,
+  "image": "p_0487.png",
+  "chapter": 13,
+  "section": "13-04",
+  "page_number": 471,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "SQLとは、関係データベースを操作するための言語である",
+          "vi": "SQL là ngôn ngữ để thao tác cơ sở dữ liệu quan hệ",
+          "en": "SQL is language for operating relational database"
+        },
+        {
+          "ja": "選択とは、表からある特定の行のみを取り出す操作",
+          "vi": "Chọn là thao tác lấy ra chỉ hàng cụ thể từ bảng",
+          "en": "Select is operation extracting only specific rows from table"
+        },
+        {
+          "ja": "射影とは、表からある特定の列のみを取り出す操作",
+          "vi": "Chiếu là thao tác lấy ra chỉ cột cụ thể từ bảng",
+          "en": "Project is operation extracting only specific columns from table"
+        },
+        {
+          "ja": "結合とは、複数の表を1つにする操作",
+          "vi": "Kết hợp là thao tác gộp nhiều bảng thành 1",
+          "en": "Join is operation combining multiple tables into one"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "データ操作と論理演算",
+        "vi": "Thao tác dữ liệu và Phép toán logic",
+        "en": "Data Operations and Logical Operations",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ITパスポート試験では、データ操作に関する問題は論理演算（p.323）と一緒に出題されることが多いです。本章の章末問題を見て、どのような形式で出題されるのか、試験前に確認しておいてください。",
+        "vi": "Trong kỳ thi IT Passport, các câu hỏi về thao tác dữ liệu thường được ra đề cùng với phép toán logic (trang 323). Hãy xem câu hỏi cuối chương này và xác nhận trước kỳ thi xem đề thi được ra như thế nào.",
+        "en": "In IT Passport exam, questions about data operations often appear together with logical operations (p.323). Look at end-of-chapter questions and confirm before exam what format questions take."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（2）トランザクション管理",
+      "vi": "(2) Quản lý giao dịch",
+      "en": "(2) Transaction Management"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "トランザクション管理",
+        "vi": "Quản lý giao dịch",
+        "en": "Transaction Management"
+      },
+      "definition": {
+        "ja": "トランザクション管理とは、ユーザーがDBMSに対して行う一連の命令（トランザクション）を管理する機能です。",
+        "vi": "Quản lý giao dịch là chức năng quản lý một loạt các lệnh (giao dịch) mà người dùng thực hiện với DBMS.",
+        "en": "Transaction management is function managing series of commands (transaction) user performs to DBMS."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "トランザクションとは「関連する複数の処理のまとまり」です。例えば、太郎くんが自分の銀行口座にある1万円を、花子さんの口座へ振り込む処理を考えてみます。ここで必要な処理は次の2つです。",
+      "vi": "Giao dịch là \"tập hợp các xử lý liên quan\". Ví dụ, hãy nghĩ về xử lý Taro chuyển 1 vạn yên từ tài khoản ngân hàng của mình sang tài khoản của Hanako. Các xử lý cần thiết ở đây là 2 xử lý sau.",
+      "en": "Transaction is 'collection of related processes.' For example, consider process where Taro transfers 10,000 yen from his bank account to Hanako's account. Required processes here are following 2.",
+      "terms": [
+        {
+          "kanji": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "太郎",
+          "reading": "たろう"
+        },
+        {
+          "kanji": "自分",
+          "reading": "じぶん"
+        },
+        {
+          "kanji": "銀行口座",
+          "reading": "ぎんこうこうざ"
+        },
+        {
+          "kanji": "万円",
+          "reading": "まんえん"
+        },
+        {
+          "kanji": "花子",
+          "reading": "はなこ"
+        },
+        {
+          "kanji": "口座",
+          "reading": "こうざ"
+        },
+        {
+          "kanji": "振",
+          "reading": "しん"
+        },
+        {
+          "kanji": "込",
+          "reading": "こみ"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "太郎くんの口座から1万円を出金する（出金処理）",
+          "vi": "Rút 1 vạn yên từ tài khoản của Taro (Xử lý rút tiền)",
+          "en": "Withdraw 10,000 yen from Taro's account (Withdrawal process)"
+        },
+        {
+          "ja": "花子さんの口座へ1万円を入金する（入金処理）",
+          "vi": "Nạp 1 vạn yên vào tài khoản của Hanako (Xử lý nạp tiền)",
+          "en": "Deposit 10,000 yen to Hanako's account (Deposit process)"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "トランザクション",
+        "vi": "Giao dịch",
+        "en": "Transaction"
+      },
+      "description": {
+        "ja": "太郎→出金処理→トランザクション→入金処理→花子。「トランザクションは複数の処理のまとまり」",
+        "vi": "Taro → Xử lý rút tiền → Giao dịch → Xử lý nạp tiền → Hanako. \"Giao dịch là tập hợp các xử lý\"",
+        "en": "Taro → Withdrawal process → Transaction → Deposit process → Hanako. 'Transaction is collection of processes'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、預金の振り込み処理は、システムの開発者から見ると上記の2つの処理に分かれますが、ユーザーから見れば、2つの処理の両方が完了してこそ、目",
+      "vi": "Như vậy, xử lý chuyển tiền gửi từ góc nhìn của nhà phát triển hệ thống được chia thành 2 xử lý trên, nhưng từ góc nhìn của người dùng, mục",
+      "en": "Thus, deposit transfer process from system developer's view is divided into above 2 processes, but from user's view, only when both processes complete, goal",
+      "terms": [
+        {
+          "kanji": "預金",
+          "reading": "よきん"
+        },
+        {
+          "kanji": "振",
+          "reading": "しん"
+        },
+        {
+          "kanji": "込",
+          "reading": "こみ"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "開発者",
+          "reading": "かいはつしゃ"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "完了",
+          "reading": "かんりょう"
+        },
+        {
+          "kanji": "目",
+          "reading": "め"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "トランザクション",
+      "vi": "Giao dịch",
+      "en": "Transaction",
+      "my": "ထရန်ဇက်ရှင်း"
+    },
+    {
+      "term": "トランザクション管理",
+      "vi": "Quản lý giao dịch",
+      "en": "Transaction Management",
+      "my": "ထရန်ဇက်ရှင်း မန်နေးဂျမန်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

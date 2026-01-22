@@ -1,0 +1,223 @@
+{
+    "page_id": 531,
+    "image": "p_0531.png",
+    "chapter": 14,
+    "section": "Practice",
+    "page_number": 515,
+    "content": [
+        {
+            "type": "practice_question",
+            "number": "14-9",
+            "year": "令和7年度",
+            "question": {
+                "ja": "WebサイトなどでRSSの表記を見かけることがある。このRSSの説明として、適切なものはどれか。",
+                "vi": "Đôi khi thấy ký hiệu RSS trên trang web. Giải thích nào về RSS là phù hợp?",
+                "en": "Sometimes RSS notation is seen on websites. Which is appropriate explanation of RSS?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "Webページの統一的なデザインやレイアウトを定義するための規格",
+                        "vi": "Quy cách để định nghĩa thiết kế và bố cục thống nhất của trang web",
+                        "en": "Standard for defining unified design and layout of web pages"
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "Webページの見出しやリンク、要約などを記述するフォーマット",
+                        "vi": "Định dạng để mô tả tiêu đề, liên kết, tóm tắt của trang web",
+                        "en": "Format for describing web page headings, links, summaries"
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "ネットワーク上にブックマークを登録することによって、利用価値の高いWebサイト情報を他の利用者と共有するサービス",
+                        "vi": "Dịch vụ chia sẻ thông tin trang web có giá trị sử dụng cao với người dùng khác bằng cách đăng ký bookmark trên mạng",
+                        "en": "Service sharing valuable website information with other users by registering bookmarks on network"
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "ブラウザとWebサーバ間で、データを暗号化して安全に送受信するためのプロトコル",
+                        "vi": "Giao thức để gửi nhận dữ liệu an toàn bằng cách mã hóa giữa trình duyệt và máy chủ Web",
+                        "en": "Protocol for safely sending/receiving data by encryption between browser and Web server"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "14-10",
+            "year": "平成24年度",
+            "question": {
+                "ja": "インターネットのドメイン名とIPアドレスを対応付ける仕組みはどれか。",
+                "vi": "Cơ chế nào liên kết tên miền Internet với địa chỉ IP?",
+                "en": "Which is mechanism matching Internet domain name and IP address?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": "DNS"
+                },
+                {
+                    "label": "イ",
+                    "text": "FTP"
+                },
+                {
+                    "label": "ウ",
+                    "text": "SMTP"
+                },
+                {
+                    "label": "エ",
+                    "text": "Web"
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "14-11",
+            "year": "平成25年度",
+            "question": {
+                "ja": "IPv6に関する記述として、適切なものはどれか。",
+                "vi": "Mô tả nào về IPv6 là phù hợp?",
+                "en": "Which is appropriate description about IPv6?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "アドレス空間が128ビットの大きさをもつので、IPv4に比べて多くのアドレスを割り当てることができる。",
+                        "vi": "Vì không gian địa chỉ có kích thước 128 bit, có thể gán nhiều địa chỉ hơn so với IPv4.",
+                        "en": "Since address space has 128-bit size, can assign more addresses compared to IPv4."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "1つのLAN内でIPv6とIPv4を共存させることはできない。",
+                        "vi": "Không thể cho IPv6 và IPv4 cùng tồn tại trong 1 LAN.",
+                        "en": "Cannot coexist IPv6 and IPv4 within 1 LAN."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "有線LAN専用のプロトコルなので、無線LANで利用することはできない。",
+                        "vi": "Vì là giao thức chuyên dụng cho LAN có dây, không thể sử dụng trong LAN không dây.",
+                        "en": "Since wired LAN-only protocol, cannot use in wireless LAN."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "利用には通常のツイストペアケーブルではなく、光ファイバケーブルが必要である。",
+                        "vi": "Để sử dụng cần cáp quang chứ không phải cáp xoắn đôi thông thường.",
+                        "en": "For use, needs fiber optic cable instead of normal twisted pair cable."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "14-12",
+            "year": "平成26年度",
+            "question": {
+                "ja": "電子メールの宛先入力欄におけるBccに関する記述として、適切なものはどれか。",
+                "vi": "Mô tả nào về Bcc trong ô nhập địa chỉ email là phù hợp?",
+                "en": "Which is appropriate description about Bcc in email recipient field?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "Bccに指定した宛先には、自動的に暗号化された電子メールが送信される。",
+                        "vi": "Email được mã hóa tự động sẽ được gửi đến địa chỉ được chỉ định trong Bcc.",
+                        "en": "Automatically encrypted email is sent to addresses specified in Bcc."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "Bccに指定した宛先には、本文を削除した件名だけの電子メールが送信される。",
+                        "vi": "Email chỉ có tiêu đề đã xóa nội dung sẽ được gửi đến địa chỉ trong Bcc.",
+                        "en": "Email with only subject line with body deleted is sent to Bcc addresses."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "Bccに指定した宛先のメールアドレスは、他の宛先には通知されない。",
+                        "vi": "Địa chỉ email của người nhận trong Bcc sẽ không được thông báo cho người nhận khác.",
+                        "en": "Email addresses of recipients in Bcc are not notified to other recipients."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "Bccに指定した宛先は、配信エラーが発生したときの通知先になる。",
+                        "vi": "Địa chỉ trong Bcc sẽ là nơi thông báo khi có lỗi gửi.",
+                        "en": "Bcc addresses become notification destination when delivery error occurs."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "practice_question",
+            "number": "14-13",
+            "year": "平成24年度",
+            "question": {
+                "ja": "Webで使用されるCookieに関する記述として、適切なものはどれか。",
+                "vi": "Mô tả nào về Cookie sử dụng trên Web là phù hợp?",
+                "en": "Which is appropriate description about Cookie used on Web?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "HTMLによる文章のレイアウトを、細かく指定できるフォーマット規格である。",
+                        "vi": "Là quy cách định dạng có thể chỉ định chi tiết bố cục văn bản bằng HTML.",
+                        "en": "Is format standard enabling detailed specification of document layout with HTML."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "HTTPに暗号化の機能を追加したプロトコルである。",
+                        "vi": "Là giao thức đã thêm chức năng mã hóa vào HTTP.",
+                        "en": "Is protocol that added encryption function to HTTP."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "Webサーバと外部プログラムが連携し、動的にWebページを生成する仕組みである。",
+                        "vi": "Là cơ chế máy chủ Web và chương trình bên ngoài liên kết, tạo trang Web động.",
+                        "en": "Is mechanism where Web server and external program cooperate to dynamically generate Web pages."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "アクセスしてきたブラウザに、Webサーバからの情報を一時的に保存する仕組みである。",
+                        "vi": "Là cơ chế lưu trữ tạm thời thông tin từ máy chủ Web vào trình duyệt đã truy cập.",
+                        "en": "Is mechanism temporarily storing information from Web server in accessing browser."
+                    }
+                }
+            ]
+        }
+    ],
+    "answer_key": {
+        "14-9": "イ",
+        "14-10": "ア",
+        "14-11": "ア",
+        "14-12": "ウ",
+        "14-13": "エ"
+    },
+    "meta": {
+        "is_practice": true
+    }
+}

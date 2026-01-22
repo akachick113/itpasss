@@ -1,0 +1,125 @@
+{
+  "page_id": 337,
+  "image": "p_0337.png",
+  "chapter": 9,
+  "section": "09-01",
+  "page_number": 321,
+  "content": [
+    {
+      "type": "calculation_example",
+      "title": {
+        "ja": "16進数「2BD」→10進数",
+        "vi": "Thập lục phân \"2BD\" → Thập phân",
+        "en": "Hexadecimal '2BD' → Decimal"
+      },
+      "steps": [
+        "各桁の16進数を10進数に置き換える: 2 → (2)₁₀, B → (11)₁₀, D → (13)₁₀",
+        "各桁に16進数の重みをかける: 2×16² + 11×16¹ + 13×16⁰",
+        "= 512 + 176 + 13 = 701"
+      ],
+      "result": {
+        "ja": "16進数の「2BD」は10進数では「701」",
+        "vi": "\"2BD\" thập lục phân là \"701\" thập phân",
+        "en": "Hexadecimal '2BD' is '701' in decimal"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "2進数↔16進数への変換",
+      "reading": "にしんすうとじゅうろくしんすうへのへんかん",
+      "vi": "Chuyển đổi Nhị phân ↔ Thập lục phân",
+      "en": "Binary ↔ Hexadecimal Conversion",
+      "note": "学習のポイント"
+    },
+    {
+      "type": "paragraph",
+      "ja": "2進数→16進数の基数変換や、16進数→2進数の基数変換は、10進数を経由せずに直接行うことも可能ですが、ITパスポート試験に合格することを目的にするならば、それぞれの表記法をいったん10進数に変換したうえで、2進数、または16進数へ変換する方法をお勧めします。なぜなら、2進数→16進数の基数変換は計算が面倒なうえに、ITパスポート試験では出題頻度も高くありません。",
+      "vi": "Chuyển đổi cơ số từ nhị phân → thập lục phân hoặc thập lục phân → nhị phân có thể thực hiện trực tiếp không qua thập phân, nhưng nếu mục đích là đậu kỳ thi IT Passport, khuyên bạn nên chuyển đổi mỗi ký pháp sang thập phân trước, sau đó sang nhị phân hoặc thập lục phân. Vì chuyển đổi nhị phân → thập lục phân tính toán phức tạp, và tần suất ra đề trong kỳ thi IT Passport không cao.",
+      "en": "Binary → hexadecimal or hexadecimal → binary radix conversion can be done directly without going through decimal, but if goal is passing IT Passport exam, recommend converting each notation to decimal first, then to binary or hexadecimal. Because binary → hexadecimal calculation is troublesome and doesn't appear frequently in IT Passport exam.",
+      "terms": [
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "基数変換",
+          "reading": "きすうへんかん"
+        },
+        {
+          "kanji": "経由",
+          "reading": "けいゆ"
+        },
+        {
+          "kanji": "直接行",
+          "reading": "ちょくせつぎょう"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "合格",
+          "reading": "ごうかく"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "表記法",
+          "reading": "ひょうきほう"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "勧",
+          "reading": "かん"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "面倒",
+          "reading": "めんどう"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "基数変換のおすすめ方法",
+        "vi": "Phương pháp chuyển đổi cơ số đề xuất",
+        "en": "Recommended Radix Conversion Method"
+      },
+      "content": {
+        "ja": "2進数 ↔ 10進数 ↔ 16進数（10進数を経由する）",
+        "vi": "Nhị phân ↔ Thập phân ↔ Thập lục phân (Qua thập phân)",
+        "en": "Binary ↔ Decimal ↔ Hexadecimal (Via Decimal)"
+      }
+    }
+  ],
+  "meta": {
+    "has_calculation": true,
+    "has_diagram": true
+  }
+}

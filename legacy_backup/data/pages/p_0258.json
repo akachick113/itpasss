@@ -1,0 +1,297 @@
+{
+  "page_id": 258,
+  "image": "p_0258.png",
+  "chapter": 6,
+  "section": "06-05",
+  "page_number": 242,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ソフトウェア受入れ支援",
+      "reading": "そふとうぇあうけいれしえん",
+      "vi": "Hỗ trợ nghiệm thu phần mềm",
+      "en": "Software Acceptance Support"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ソフトウェア受入れ支援では、発注者が「ソフトウェア受入れテスト」を行い、開発者がそのテストの手助けをします。",
+      "vi": "Trong Hỗ trợ nghiệm thu phần mềm, bên đặt hàng thực hiện \"Software Acceptance Test\" và nhà phát triển hỗ trợ kiểm thử đó.",
+      "en": "In Software Acceptance Support, the ordering party performs 'Software Acceptance Test' and developers assist with that testing.",
+      "terms": [
+        {
+          "kanji": "受入",
+          "reading": "うけいれ"
+        },
+        {
+          "kanji": "支援",
+          "reading": "しえん"
+        },
+        {
+          "kanji": "発注者",
+          "reading": "はっちゅうもの"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "開発者",
+          "reading": "かいはつしゃ"
+        },
+        {
+          "kanji": "手助",
+          "reading": "てじょ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ソフトウェア受入れテストとは、開発者が発注者にシステムを引き渡す際に行われるテストです。システムが契約内容どおり完成しているかどうか確認します。このテストは発注者が行います。このため、この工程はテストというよりは検収の意味合いが強いです。この工程で問題がなければ、納品となります。",
+      "vi": "Software Acceptance Test là kiểm thử được thực hiện khi nhà phát triển bàn giao hệ thống cho bên đặt hàng. Xác nhận hệ thống có hoàn thành đúng theo nội dung hợp đồng không. Kiểm thử này do bên đặt hàng thực hiện. Do đó, công đoạn này mang ý nghĩa nghiệm thu hơn là kiểm thử. Nếu không có vấn đề ở công đoạn này, sẽ giao hàng.",
+      "en": "Software Acceptance Test is testing performed when developers hand over the system to the ordering party. It confirms if the system is completed according to contract content. This test is performed by the ordering party. Therefore, this phase has more meaning of acceptance than testing. If there are no problems in this phase, delivery is made.",
+      "terms": [
+        {
+          "kanji": "受入",
+          "reading": "うけいれ"
+        },
+        {
+          "kanji": "開発者",
+          "reading": "かいはつしゃ"
+        },
+        {
+          "kanji": "発注者",
+          "reading": "はっちゅうもの"
+        },
+        {
+          "kanji": "引",
+          "reading": "ひき"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "契約内容",
+          "reading": "けいやくないよう"
+        },
+        {
+          "kanji": "完成",
+          "reading": "かんせい"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "検収",
+          "reading": "けんしゅう"
+        },
+        {
+          "kanji": "意味合",
+          "reading": "いみあい"
+        },
+        {
+          "kanji": "強",
+          "reading": "きょう"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "納品",
+          "reading": "のうひん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "利用者マニュアル",
+      "reading": "りようしゃまにゅある",
+      "vi": "Hướng dẫn sử dụng",
+      "en": "User's Manual"
+    },
+    {
+      "type": "paragraph",
+      "ja": "利用者マニュアル（User's Manual）とは、システムを利用するユーザー向けに書かれたシステムの操作方法や障害時対応が掲載されている説明書です。ソフトウェア受入れ工程では、利用者マニュアルを使って、利用者の教育を行います。",
+      "vi": "User's Manual là tài liệu hướng dẫn ghi phương pháp thao tác hệ thống và đối ứng khi có sự cố, được viết cho người dùng sử dụng hệ thống. Trong công đoạn nghiệm thu phần mềm, sử dụng User's Manual để đào tạo người dùng.",
+      "en": "User's Manual is a manual written for users who use the system, containing system operation methods and failure response procedures. In the software acceptance phase, User's Manual is used for user training.",
+      "terms": [
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "向",
+          "reading": "こう"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "操作方法",
+          "reading": "そうさほうほう"
+        },
+        {
+          "kanji": "障害時対応",
+          "reading": "しょうがいじたいおう"
+        },
+        {
+          "kanji": "掲載",
+          "reading": "けいさい"
+        },
+        {
+          "kanji": "説明書",
+          "reading": "せつめいしょ"
+        },
+        {
+          "kanji": "受入",
+          "reading": "うけいれ"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "教育",
+          "reading": "きょういく"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ソフトウェア導入とは、本番環境にソフトウェアをインストールすること",
+          "vi": "Triển khai phần mềm là cài đặt phần mềm vào môi trường thực tế",
+          "en": "Software Deployment is installing software in production environment"
+        },
+        {
+          "ja": "ソフトウェア受入れテストとは、システムが正常に稼働することを利用者側が確認するテストである",
+          "vi": "Software Acceptance Test là kiểm thử mà phía người dùng xác nhận hệ thống hoạt động bình thường",
+          "en": "Software Acceptance Test is testing where user side confirms system operates normally"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "この「ソフトウェア受入れ」をもって開発プロセスの全工程は完了です。開発プロセスが終わったら、続いては「運用プロセス」と「保守プロセス」になります。",
+      "vi": "Với \"Nghiệm thu phần mềm\" này, toàn bộ công đoạn của quy trình phát triển hoàn thành. Khi quy trình phát triển kết thúc, tiếp theo là \"Quy trình vận hành\" và \"Quy trình bảo trì\".",
+      "en": "With this 'Software Acceptance,' all phases of the development process are complete. When development process ends, next are 'Operation Process' and 'Maintenance Process.'",
+      "terms": [
+        {
+          "kanji": "受入",
+          "reading": "うけいれ"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "全工程",
+          "reading": "ぜんこうてい"
+        },
+        {
+          "kanji": "完了",
+          "reading": "かんりょう"
+        },
+        {
+          "kanji": "終",
+          "reading": "おわり"
+        },
+        {
+          "kanji": "続",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        },
+        {
+          "kanji": "保守",
+          "reading": "ほしゅ"
+        }
+      ]
+    },
+    {
+      "type": "study_tip",
+      "title": {
+        "ja": "効果的な「朝学習」",
+        "vi": "\"Học buổi sáng\" hiệu quả",
+        "en": "Effective 'Morning Study'"
+      },
+      "content": {
+        "ja": "本書の巻頭（xiv）で「用語の暗記は寝る前が効果的」と解説しましたが、理解力や論理的思考力が必要な項目の学習や、計算問題の学習は、断然、夜よりも朝のほうが適しています。なぜなら、しっかりと睡眠をとった後の朝の時間は、脳がすっかり回復して元気な状態になっており、集中力も一日のなかで最も高い時間だからです。ぜひこの「勉強に最適な時間」を活用してください。可能であれば、起床後に軽くストレッチをしてから体を起こしてください。朝食をとるのも良いでしょう。30分でもよいので、勉強する時間を作ってください。朝が苦手な人も、体が慣れるまでは大変だと思いますが、一度やってみると「驚くはど頭が冴えている自分」に会えると思います。",
+        "vi": "Ở đầu sách (xiv) đã giải thích rằng \"nhớ thuật ngữ hiệu quả trước khi ngủ\", nhưng việc học các mục cần khả năng hiểu và tư duy logic, cũng như bài toán tính toán, buổi sáng phù hợp hơn buổi tối. Vì sau giấc ngủ đầy đủ, thời gian buổi sáng não đã hồi phục hoàn toàn và ở trạng thái tỉnh táo, sự tập trung cũng cao nhất trong ngày. Hãy tận dụng \"thời gian tối ưu cho học tập\" này. Nếu có thể, sau khi thức dậy hãy stretching nhẹ rồi mới dậy. Ăn sáng cũng tốt. Dù chỉ 30 phút, hãy dành thời gian học. Với người không quen buổi sáng, có thể khó khăn cho đến khi cơ thể quen, nhưng thử một lần sẽ gặp được \"bản thân đầu óc tỉnh táo đáng ngạc nhiên\".",
+        "en": "At the beginning of this book (xiv), we explained that 'memorizing terms is effective before sleep,' but for learning items requiring comprehension and logical thinking, and calculation problems, mornings are definitely more suitable than nights. Because the morning time after good sleep, the brain has fully recovered and is in an energetic state, and concentration is highest during the day. Please utilize this 'optimal study time.' If possible, do light stretching after waking up. Eating breakfast is also good. Even 30 minutes, create time to study. For those not good with mornings, it may be hard until the body gets used to it, but try once and you'll meet 'yourself with surprisingly clear head.'"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ソフトウェア受入れテスト",
+      "reading": "そふとうぇあうけいれてすと",
+      "romaji": "Software Ukeire Test",
+      "vi": "Kiểm thử nghiệm thu phần mềm",
+      "en": "Software Acceptance Test",
+      "my": "ဆော့ဖ်ဝဲ လက်ခံ စမ်းသပ်ချက်"
+    },
+    {
+      "kanji": "利用者マニュアル",
+      "reading": "りようしゃまにゅある",
+      "romaji": "Riyousha Manual",
+      "vi": "Hướng dẫn sử dụng",
+      "en": "User's Manual",
+      "my": "အသုံးပြုသူ လမ်းညွန်"
+    },
+    {
+      "kanji": "検収",
+      "reading": "けんしゅう",
+      "romaji": "Kenshuu",
+      "vi": "Nghiệm thu",
+      "en": "Acceptance",
+      "my": "လက်ခံခြင်း"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true
+  }
+}

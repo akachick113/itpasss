@@ -1,0 +1,175 @@
+{
+    "page_id": 406,
+    "image": "p_0406.png",
+    "chapter": 10,
+    "section": "practice",
+    "page_number": 390,
+    "content": [
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "出る順！過去問＆完全解説",
+                "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích hoàn chỉnh",
+                "en": "By Frequency! Past Questions & Complete Explanations"
+            },
+            "note": {
+                "ja": "解答・解説はp.391参照",
+                "vi": "Xem đáp án và giải thích ở trang 391",
+                "en": "See p.391 for answers and explanations"
+            }
+        },
+        {
+            "type": "exam_question",
+            "number": "10-1",
+            "year": "平成24年度",
+            "question": {
+                "ja": "複数のハードディスクに同じ内容を書き込み、信頼性を向上させる方法はどれか。",
+                "vi": "Phương pháp nào sau đây ghi cùng nội dung lên nhiều ổ đĩa cứng để tăng độ tin cậy?",
+                "en": "Which method writes same content to multiple hard disks to improve reliability?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": "ストライピング"
+                },
+                {
+                    "choice": "イ",
+                    "text": "フラグメンテーション"
+                },
+                {
+                    "choice": "ウ",
+                    "text": "マルチコア"
+                },
+                {
+                    "choice": "エ",
+                    "text": "ミラーリング"
+                }
+            ],
+            "correct_answer": "エ"
+        },
+        {
+            "type": "exam_question",
+            "number": "10-2",
+            "year": "平成28年度",
+            "question": {
+                "ja": "デュアルシステムの特徴を説明したものはどれか。",
+                "vi": "Cái nào sau đây giải thích đặc điểm của hệ thống dual?",
+                "en": "Which explains characteristics of dual system?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": {
+                        "ja": "同じ処理を行うシステムを二重に用意し、処理結果を照合することで処理の正しさを確認する方式である。一方で故障が発生したら、故障したシステムを切り離して処理を続行する。",
+                        "vi": "Chuẩn bị kép hệ thống thực hiện cùng xử lý, xác nhận tính đúng đắn của xử lý bằng cách so sánh kết quả. Mặt khác, nếu xảy ra sự cố, tách hệ thống hỏng và tiếp tục xử lý.",
+                        "en": "Prepare duplicate systems doing same processing, confirm processing correctness by comparing results. If failure occurs, disconnect failed system and continue processing."
+                    }
+                },
+                {
+                    "choice": "イ",
+                    "text": {
+                        "ja": "同じ装置を2台使用することで、シンプレックスシステムに対し、処理能力を2倍に向上させることができる。",
+                        "vi": "Bằng cách sử dụng 2 thiết bị giống nhau, có thể tăng gấp đôi khả năng xử lý so với hệ thống simplex.",
+                        "en": "By using 2 same devices, can double processing power compared to simplex system."
+                    }
+                },
+                {
+                    "choice": "ウ",
+                    "text": {
+                        "ja": "オンライン処理を行う現用系システムと、バッチ処理などを行いながら待機させる待機系のシステムを用意し、現用系に障害が発生した場合は待機系に切り替え、オンライン処理を起動してサービスを続行する。",
+                        "vi": "Chuẩn bị hệ thống hiện hành thực hiện xử lý online và hệ thống chờ thực hiện xử lý batch, v.v. trong khi chờ, nếu xảy ra sự cố ở hệ thống hiện hành thì chuyển sang hệ thống chờ, khởi động xử lý online và tiếp tục dịch vụ.",
+                        "en": "Prepare active system doing online processing and standby system doing batch processing while waiting, if failure in active system, switch to standby and start online processing to continue service."
+                    }
+                },
+                {
+                    "choice": "エ",
+                    "text": {
+                        "ja": "複数の装置を直列に接続し、それらの間で機能ごとに負荷を分散するよう構成しているので、処理能力は高いが、各機能を担当する装置のうちどれか一つでも故障するとサービスが提供できなくなる。",
+                        "vi": "Kết nối nhiều thiết bị nối tiếp, phân tán tải theo chức năng giữa chúng nên khả năng xử lý cao, nhưng nếu một trong các thiết bị đảm nhận từng chức năng hỏng thì không thể cung cấp dịch vụ.",
+                        "en": "Connect multiple devices in series, distributing load by function between them so processing power is high, but if any one device handling each function fails, cannot provide service."
+                    }
+                }
+            ],
+            "correct_answer": "ア"
+        },
+        {
+            "type": "exam_question",
+            "number": "10-3",
+            "year": "平成22年度",
+            "question": {
+                "ja": "シンクライアントの特徴として、適切なものはどれか。",
+                "vi": "Cái nào sau đây là đặc điểm thích hợp của thin client?",
+                "en": "Which is appropriate characteristic of thin client?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": {
+                        "ja": "端末内にデータが残らないので、情報漏えいに対策として注目されている。",
+                        "vi": "Vì dữ liệu không còn lại trong thiết bị đầu cuối nên được chú ý như biện pháp chống rò rỉ thông tin.",
+                        "en": "Data doesn't remain in terminal, so noted as countermeasure against information leakage."
+                    }
+                },
+                {
+                    "choice": "イ",
+                    "text": {
+                        "ja": "データが複数のディスクに分散配置されるので、可用性が高い。",
+                        "vi": "Vì dữ liệu được phân tán trên nhiều đĩa nên tính khả dụng cao.",
+                        "en": "Data distributed across multiple disks, so availability is high."
+                    }
+                },
+                {
+                    "choice": "ウ",
+                    "text": {
+                        "ja": "ネットワーク上、複数のサービスを利用する際、最初に1回だけ認証を受ければすべてのサービスを利用できるので、利便性が高い。",
+                        "vi": "Trên mạng, khi sử dụng nhiều dịch vụ, chỉ cần xác thực một lần đầu tiên là có thể sử dụng tất cả dịch vụ nên tính tiện lợi cao.",
+                        "en": "On network, when using multiple services, only need authentication once at first to use all services, so convenience is high."
+                    }
+                },
+                {
+                    "choice": "エ",
+                    "text": {
+                        "ja": "パスワードに加えて指紋や虹彩による認証を行うので安全性が高い。",
+                        "vi": "Vì thực hiện xác thực bằng vân tay hoặc mống mắt ngoài mật khẩu nên tính an toàn cao.",
+                        "en": "Performs authentication by fingerprint or iris in addition to password, so safety is high."
+                    }
+                }
+            ],
+            "correct_answer": "ア"
+        },
+        {
+            "type": "exam_question",
+            "number": "10-4",
+            "year": "平成24年度",
+            "question": {
+                "ja": "MTBFが600時間、MTTRが12時間である場合、稼働率はおおよそ幾らか。",
+                "vi": "Khi MTBF là 600 giờ, MTTR là 12 giờ, tỉ lệ khả dụng xấp xỉ bao nhiêu?",
+                "en": "If MTBF is 600 hours, MTTR is 12 hours, what is approximate availability?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": "0.02"
+                },
+                {
+                    "choice": "イ",
+                    "text": "0.20"
+                },
+                {
+                    "choice": "ウ",
+                    "text": "0.88"
+                },
+                {
+                    "choice": "エ",
+                    "text": "0.98"
+                }
+            ],
+            "correct_answer": "エ"
+        }
+    ],
+    "answers_summary": "問題10-1 エ、問題10-2 ア、問題10-3 ア、問題10-4 エ",
+    "meta": {
+        "has_questions": true,
+        "question_count": 4
+    }
+}

@@ -1,0 +1,118 @@
+{
+  "page_id": 492,
+  "image": "p_0492.png",
+  "chapter": 13,
+  "section": "13-04",
+  "page_number": 476,
+  "content": [
+    {
+      "type": "list",
+      "numbered": true,
+      "start": 3,
+      "items": [
+        {
+          "ja": "太郎くんは、ロックしたうえで、りんごの在庫数（3個）を読み出します。花子さんはロックがかかっているので、りんごの在庫数を調べられません。",
+          "vi": "Taro, sau khi khóa, đọc số lượng táo tồn kho (3 quả). Hanako không thể kiểm tra số lượng táo tồn kho vì đang bị khóa.",
+          "en": "Taro, after locking, reads apple inventory (3). Hanako cannot check apple inventory because it's locked."
+        },
+        {
+          "ja": "太郎くんが処理をしている間に、花子さんもりんごを1個売りました。",
+          "vi": "Trong khi Taro đang xử lý, Hanako cũng bán 1 quả táo.",
+          "en": "While Taro is processing, Hanako also sold 1 apple."
+        },
+        {
+          "ja": "しかし、データベースはロックされているので、花子さんはりんごの在庫数を読み出すことはできません。",
+          "vi": "Tuy nhiên, vì cơ sở dữ liệu đang bị khóa, Hanako không thể đọc số lượng táo tồn kho.",
+          "en": "However, since database is locked, Hanako cannot read apple inventory."
+        },
+        {
+          "ja": "同様に、花子さんは在庫数を書き込むこともできません。",
+          "vi": "Tương tự, Hanako cũng không thể ghi số lượng tồn kho.",
+          "en": "Similarly, Hanako cannot write inventory either."
+        },
+        {
+          "ja": "太郎くんは、在庫数を「2個」として書き込みます。",
+          "vi": "Taro ghi số lượng tồn kho là \"2 quả\".",
+          "en": "Taro writes inventory as '2.'"
+        },
+        {
+          "ja": "太郎くんはロックを外して（アンロック）、他の人がデータを読み書きできるようにします。",
+          "vi": "Taro mở khóa (Unlock), cho phép người khác đọc ghi dữ liệu.",
+          "en": "Taro unlocks, allowing others to read/write data."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、ロックを使うことで複数の人が同時にデータベースにアクセスしても、矛盾なくデータを更新できるようになります。",
+      "vi": "Như vậy, bằng cách sử dụng Lock, ngay cả khi nhiều người truy cập cơ sở dữ liệu đồng thời, có thể cập nhật dữ liệu mà không có mâu thuẫn.",
+      "en": "Thus, by using Lock, even when multiple people access database simultaneously, can update data without inconsistency.",
+      "terms": [
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "同時",
+          "reading": "どうじ"
+        },
+        {
+          "kanji": "矛盾",
+          "reading": "むじゅん"
+        },
+        {
+          "kanji": "更新",
+          "reading": "こうしん"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "排他制御とは、複数の人が同じデータを同時に更新しようとした場合に、データに矛盾が生じないようにする機能（データの一貫性を保つ機能）",
+          "vi": "Điều khiển loại trừ là chức năng đảm bảo dữ liệu không bị mâu thuẫn khi nhiều người cố gắng cập nhật cùng dữ liệu đồng thời (chức năng giữ tính nhất quán của dữ liệu)",
+          "en": "Exclusive control is function ensuring data doesn't become inconsistent when multiple people try to update same data simultaneously (function maintaining data consistency)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "アンロック",
+      "vi": "Unlock (Mở khóa)",
+      "en": "Unlock",
+      "my": "အန်လော့ခ်"
+    },
+    {
+      "term": "一貫性",
+      "reading": "いっかんせい",
+      "vi": "Tính nhất quán",
+      "en": "Consistency",
+      "my": "ကန်ဆစ်တင်စီ"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

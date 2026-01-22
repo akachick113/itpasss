@@ -1,0 +1,339 @@
+{
+  "page_id": 361,
+  "image": "p_0361.png",
+  "chapter": 9,
+  "section": "09-07",
+  "page_number": 345,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "プログラミングの基本用語",
+      "reading": "ぷろぐらみんぐのきほんようご",
+      "vi": "Thuật ngữ cơ bản của Lập trình",
+      "en": "Basic Programming Terminology"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ではさっそく、プログラミングに必要となる、以下の4つの基本的な用語から解説していきます。",
+      "vi": "Vậy hãy bắt đầu giải thích 4 thuật ngữ cơ bản cần thiết cho lập trình sau.",
+      "en": "Now let's begin explaining following 4 basic terms needed for programming.",
+      "terms": [
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        {
+          "ja": "文",
+          "vi": "Lệnh",
+          "en": "Statement"
+        },
+        {
+          "ja": "式",
+          "vi": "Biểu thức",
+          "en": "Expression"
+        },
+        {
+          "ja": "条件式",
+          "vi": "Biểu thức điều kiện",
+          "en": "Conditional Expression"
+        },
+        {
+          "ja": "注釈",
+          "vi": "Chú thích",
+          "en": "Comment"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "文",
+      "reading": "ぶん",
+      "vi": "Lệnh",
+      "en": "Statement"
+    },
+    {
+      "type": "paragraph",
+      "ja": "文とは、プログラムの中の1つの命令です。通常、プログラムは複数の文から成り立ちます。コンピュータはプログラムに書かれた文を上から順番に実行していきます。",
+      "vi": "Lệnh là 1 mệnh lệnh trong chương trình. Thường, chương trình gồm nhiều lệnh. Máy tính thực hiện các lệnh viết trong chương trình theo thứ tự từ trên xuống.",
+      "en": "Statement is 1 command in program. Usually, program consists of multiple statements. Computer executes statements written in program from top in order.",
+      "terms": [
+        {
+          "kanji": "文",
+          "reading": "ぶん"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "命令",
+          "reading": "めいれい"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "成",
+          "reading": "せい"
+        },
+        {
+          "kanji": "立",
+          "reading": "りつ"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "順番",
+          "reading": "じゅんばん"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "以下は1つの文を持つプログラムの例です。これは「ディスプレイやプリンターなどの出力装置に\"3\"を出力して」という命令です。",
+      "vi": "Sau đây là ví dụ chương trình có 1 lệnh. Đây là mệnh lệnh \"xuất \\\"3\\\" ra thiết bị xuất như màn hình hoặc máy in\".",
+      "en": "Following is example of program with 1 statement. This is command 'output \"3\" to output device like display or printer.'",
+      "terms": [
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "文",
+          "reading": "ぶん"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "出力装置",
+          "reading": "しゅつりょくそうち"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "命令",
+          "reading": "めいれい"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】1つの文を持つプログラム",
+        "vi": "【Ví dụ chương trình】Chương trình có 1 lệnh",
+        "en": "[Program Example] Program with 1 statement"
+      },
+      "code": "\"3\"を出力する"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "式",
+      "reading": "しき",
+      "vi": "Biểu thức",
+      "en": "Expression"
+    },
+    {
+      "type": "paragraph",
+      "ja": "式とは、コンピュータに計算の命令を出す文です。以下は「1＋1」の計算を行う式です。",
+      "vi": "Biểu thức là lệnh ra mệnh lệnh tính toán cho máy tính. Sau đây là biểu thức tính \"1+1\".",
+      "en": "Expression is statement giving calculation command to computer. Following is expression calculating '1+1.'",
+      "terms": [
+        {
+          "kanji": "式",
+          "reading": "しき"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "命令",
+          "reading": "めいれい"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "文",
+          "reading": "ぶん"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】「1＋1」の計算を行う式",
+        "vi": "【Ví dụ chương trình】Biểu thức tính \"1+1\"",
+        "en": "[Program Example] Expression calculating '1+1'"
+      },
+      "code": "1 + 1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "条件式",
+      "reading": "じょうけんしき",
+      "vi": "Biểu thức điều kiện",
+      "en": "Conditional Expression"
+    },
+    {
+      "type": "paragraph",
+      "ja": "条件式とは、式の一種で、計算結果が「真（正しい）」、または「偽（正しくない）」になる式です。以下は、numと1が等しいかを判定する条件式です。",
+      "vi": "Biểu thức điều kiện là loại biểu thức có kết quả tính là \"đúng (chính xác)\" hoặc \"sai (không đúng)\". Sau đây là biểu thức điều kiện phán đoán xem num có bằng 1 không.",
+      "en": "Conditional expression is type of expression where calculation result is 'true (correct)' or 'false (incorrect).' Following is conditional expression judging if num equals 1.",
+      "terms": [
+        {
+          "kanji": "条件式",
+          "reading": "じょうけんしき"
+        },
+        {
+          "kanji": "式",
+          "reading": "しき"
+        },
+        {
+          "kanji": "一種",
+          "reading": "いっしゅ"
+        },
+        {
+          "kanji": "計算結果",
+          "reading": "けいさんけっか"
+        },
+        {
+          "kanji": "真",
+          "reading": "まこと"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "偽",
+          "reading": "にせ"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "等",
+          "reading": "など"
+        },
+        {
+          "kanji": "判定",
+          "reading": "はんてい"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】numと1が等しいかを判定する条件式",
+        "vi": "【Ví dụ chương trình】Biểu thức điều kiện phán đoán num có bằng 1 không",
+        "en": "[Program Example] Conditional expression judging if num equals 1"
+      },
+      "code": "numと1が等しい"
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、条件式の用途や、「num」については後述します（p.347）。",
+      "vi": "Tham khảo, về mục đích sử dụng biểu thức điều kiện và \"num\" sẽ mô tả sau (trang 347).",
+      "en": "Note that conditional expression usage and 'num' are described later (p.347).",
+      "terms": [
+        {
+          "kanji": "条件式",
+          "reading": "じょうけんしき"
+        },
+        {
+          "kanji": "用途",
+          "reading": "ようと"
+        },
+        {
+          "kanji": "後述",
+          "reading": "こうじゅつ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "文",
+      "reading": "ぶん",
+      "vi": "Lệnh",
+      "en": "Statement",
+      "my": "စကားလုံး"
+    },
+    {
+      "kanji": "式",
+      "reading": "しき",
+      "vi": "Biểu thức",
+      "en": "Expression",
+      "my": "ဖော်ပြချက်"
+    },
+    {
+      "kanji": "条件式",
+      "reading": "じょうけんしき",
+      "vi": "Biểu thức điều kiện",
+      "en": "Conditional Expression",
+      "my": "အခြေအနေ ဖော်ပြချက်"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

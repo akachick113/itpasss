@@ -1,0 +1,394 @@
+{
+  "page_id": 282,
+  "image": "p_0282.png",
+  "chapter": 7,
+  "section": "07-03",
+  "page_number": 266,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（1）ガントチャート",
+      "reading": "がんとちゃーと",
+      "vi": "Gantt Chart",
+      "en": "Gantt Chart"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ガントチャートとは、プロジェクトの進捗状況を視覚的に表す図です。横軸に時間、縦軸にタスクを取り、タスクの所要期間を長さで表します。タスクごとに「予定」と「実績」を記入します。",
+      "vi": "Gantt Chart là sơ đồ biểu diễn trực quan tình trạng tiến độ dự án. Trục ngang là thời gian, trục dọc là task, biểu diễn thời gian cần thiết của task bằng độ dài. Ghi \"Kế hoạch\" và \"Thực tế\" cho mỗi task.",
+      "en": "Gantt Chart is a diagram visually showing project progress status. Horizontal axis is time, vertical axis is tasks, and task duration is shown by length. 'Planned' and 'Actual' are entered for each task.",
+      "terms": [
+        {
+          "kanji": "進捗状況",
+          "reading": "しんちょくじょうきょう"
+        },
+        {
+          "kanji": "視覚的",
+          "reading": "しかくてき"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "横軸",
+          "reading": "よこじく"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "縦軸",
+          "reading": "たてじく"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "所要期間",
+          "reading": "しょようきかん"
+        },
+        {
+          "kanji": "長",
+          "reading": "なが"
+        },
+        {
+          "kanji": "予定",
+          "reading": "よてい"
+        },
+        {
+          "kanji": "実績",
+          "reading": "じっせき"
+        },
+        {
+          "kanji": "記入",
+          "reading": "きにゅう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ガントチャートの例",
+        "vi": "Ví dụ Gantt Chart",
+        "en": "Gantt Chart Example"
+      },
+      "headers": {
+        "ja": [
+          "タスク",
+          "10/1～10/5",
+          "10/8～10/12",
+          "10/15～10/19",
+          "10/22～10/26"
+        ],
+        "vi": [
+          "Task",
+          "10/1～10/5",
+          "10/8～10/12",
+          "10/15～10/19",
+          "10/22～10/26"
+        ],
+        "en": [
+          "Task",
+          "10/1～10/5",
+          "10/8～10/12",
+          "10/15～10/19",
+          "10/22～10/26"
+        ]
+      },
+      "tasks": [
+        {
+          "ja": "システム要件定義",
+          "vi": "Định nghĩa yêu cầu hệ thống",
+          "en": "System Requirements Definition"
+        },
+        {
+          "ja": "システム設計",
+          "vi": "Thiết kế hệ thống",
+          "en": "System Design"
+        },
+        {
+          "ja": "プログラミング",
+          "vi": "Lập trình",
+          "en": "Programming"
+        },
+        {
+          "ja": "テスト",
+          "vi": "Kiểm thử",
+          "en": "Test"
+        },
+        {
+          "ja": "ソフトウェア受入れ",
+          "vi": "Tiếp nhận phần mềm",
+          "en": "Software Acceptance"
+        }
+      ],
+      "legend": {
+        "ja": [
+          "予定",
+          "実績"
+        ],
+        "vi": [
+          "Kế hoạch",
+          "Thực tế"
+        ],
+        "en": [
+          "Planned",
+          "Actual"
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（2）アローダイアグラム",
+      "reading": "あろーだいあぐらむ",
+      "vi": "Arrow Diagram",
+      "en": "Arrow Diagram"
+    },
+    {
+      "type": "paragraph",
+      "ja": "先述したガントチャートは、スケジュールを立てる際には便利ですが、前の作業が複数ある場合には不向きです。前後の作業の依存関係を考慮に入れる場合は「アローダイアグラム」を用います。",
+      "vi": "Gantt Chart đã đề cập ở trên tiện lợi khi lập lịch trình, nhưng không phù hợp khi có nhiều công việc trước đó. Khi xem xét mối quan hệ phụ thuộc giữa các công việc trước sau, sử dụng \"Arrow Diagram\".",
+      "en": "Gantt Chart mentioned earlier is convenient when creating schedules, but not suitable when there are multiple preceding tasks. When considering dependency relationships between preceding and following tasks, 'Arrow Diagram' is used.",
+      "terms": [
+        {
+          "kanji": "先述",
+          "reading": "せんじゅつ"
+        },
+        {
+          "kanji": "立",
+          "reading": "た"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "便利",
+          "reading": "べんり"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "不向",
+          "reading": "ふこう"
+        },
+        {
+          "kanji": "前後",
+          "reading": "ぜんご"
+        },
+        {
+          "kanji": "依存関係",
+          "reading": "いぞんかんけい"
+        },
+        {
+          "kanji": "考慮",
+          "reading": "こうりょ"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "アローダイアグラムとは、作業の流れを矢印で表した図です。アローダイアグラムを使うと、作業項目の順序関係や依存関係を表すことができるため、プロジェクトの完了までに最も時間のかかる経路を発見できます。",
+      "vi": "Arrow Diagram là sơ đồ biểu diễn luồng công việc bằng mũi tên. Sử dụng Arrow Diagram có thể biểu diễn quan hệ thứ tự và phụ thuộc của các hạng mục công việc, do đó có thể phát hiện đường đi mất nhiều thời gian nhất để hoàn thành dự án.",
+      "en": "Arrow Diagram is a diagram showing work flow with arrows. Using Arrow Diagram, you can show order and dependency relationships of work items, so you can discover the path that takes most time to project completion.",
+      "terms": [
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "矢印",
+          "reading": "やじるし"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "作業項目",
+          "reading": "さぎょうこうもく"
+        },
+        {
+          "kanji": "順序関係",
+          "reading": "じゅんじょかんけい"
+        },
+        {
+          "kanji": "依存関係",
+          "reading": "いぞんかんけい"
+        },
+        {
+          "kanji": "完了",
+          "reading": "かんりょう"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "経路",
+          "reading": "けいろ"
+        },
+        {
+          "kanji": "発見",
+          "reading": "はっけん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、アローダイアグラムを使ったプロジェクトの分析手法を「PERT（Program Evaluation and Review Technique）」と呼びます。",
+      "vi": "Ngoài ra, phương pháp phân tích dự án sử dụng Arrow Diagram gọi là \"PERT (Program Evaluation and Review Technique)\".",
+      "en": "Also, the project analysis method using Arrow Diagram is called 'PERT (Program Evaluation and Review Technique).'",
+      "terms": [
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "分析手法",
+          "reading": "ぶんせきしゅほう"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "アローダイアグラムの書き方",
+      "reading": "あろーだいあぐらむのかきかた",
+      "vi": "Cách vẽ Arrow Diagram",
+      "en": "How to Draw Arrow Diagram"
+    },
+    {
+      "type": "paragraph",
+      "ja": "アローダイアグラムでは、矢印の上部に作業名を記述し、下部に所要日数を記述します。",
+      "vi": "Trong Arrow Diagram, ghi tên công việc ở trên mũi tên và số ngày cần thiết ở dưới.",
+      "en": "In Arrow Diagram, write work name above arrow and required days below.",
+      "terms": [
+        {
+          "kanji": "矢印",
+          "reading": "やじるし"
+        },
+        {
+          "kanji": "上部",
+          "reading": "じょうぶ"
+        },
+        {
+          "kanji": "作業名",
+          "reading": "さぎょうめい"
+        },
+        {
+          "kanji": "記述",
+          "reading": "きじゅつ"
+        },
+        {
+          "kanji": "下部",
+          "reading": "かぶ"
+        },
+        {
+          "kanji": "所要日数",
+          "reading": "しょようにっすう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "アローダイアグラムの書き方",
+        "vi": "Cách vẽ Arrow Diagram",
+        "en": "How to Draw Arrow Diagram"
+      },
+      "format": {
+        "top": {
+          "ja": "作業名",
+          "vi": "Tên công việc",
+          "en": "Work Name"
+        },
+        "bottom": {
+          "ja": "所要日数",
+          "vi": "Số ngày cần thiết",
+          "en": "Required Days"
+        }
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ガントチャート",
+      "reading": "がんとちゃーと",
+      "romaji": "Gantt Chart",
+      "vi": "Biểu đồ Gantt",
+      "en": "Gantt Chart",
+      "my": "ဂန့် ဇယာ"
+    },
+    {
+      "kanji": "アローダイアグラム",
+      "reading": "あろーだいあぐらむ",
+      "romaji": "Arrow Diagram",
+      "vi": "Sơ đồ mũi tên",
+      "en": "Arrow Diagram",
+      "my": "မြား ပုံစံ "
+    },
+    {
+      "kanji": "PERT",
+      "reading": "ぱーと",
+      "romaji": "PERT",
+      "vi": "PERT",
+      "en": "Program Evaluation and Review Technique",
+      "my": "ပီအီအာတီ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true
+  }
+}

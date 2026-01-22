@@ -1,0 +1,131 @@
+{
+  "page_id": 549,
+  "image": "p_0549.png",
+  "chapter": 15,
+  "section": "15-03",
+  "page_number": 533,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "15-03",
+      "title": {
+        "ja": "情報セキュリティマネジメント",
+        "vi": "Quản lý bảo mật thông tin",
+        "en": "Information Security Management"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "情報は大切に守られているか",
+        "vi": "Thông tin có được bảo vệ cẩn thận không",
+        "en": "Is Information Properly Protected"
+      },
+      "content": {
+        "ja": "情報はお金と同じように価値のある経営資源の1つです。お金を金庫にしまうように、情報も適切に守られる必要があります。",
+        "vi": "Thông tin là một trong những nguồn lực kinh doanh có giá trị như tiền. Giống như cất tiền vào két sắt, thông tin cũng cần được bảo vệ phù hợp.",
+        "en": "Information is one of valuable management resources like money. Like storing money in safe, information also needs to be properly protected."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは「情報セキュリティマネジメント」について解説します。情報セキュリティマネジメントとは、情報セキュリティの確保に組織的、体系的に取り組むことです。簡単にいえば「情報セキュリティを管理すること」です。",
+      "vi": "Từ đây sẽ giải thích về \"Quản lý bảo mật thông tin\". Quản lý bảo mật thông tin là việc tiếp cận có tổ chức, hệ thống để đảm bảo bảo mật thông tin. Nói đơn giản là \"quản lý bảo mật thông tin\".",
+      "en": "From here will explain 'Information Security Management.' Information Security Management is systematically and organizationally ensuring information security. Simply put, it's 'managing information security.'",
+      "terms": [
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "確保",
+          "reading": "かくほ"
+        },
+        {
+          "kanji": "組織的",
+          "reading": "そしきてき"
+        },
+        {
+          "kanji": "体系的",
+          "reading": "たいけいてき"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "リスクマネジメントと情報セキュリティマネジメント",
+        "vi": "Quản lý rủi ro và Quản lý bảo mật thông tin",
+        "en": "Risk Management and Information Security Management",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "情報セキュリティマネジメントはリスクマネジメントの要素の1つです。つまり、情報セキュリティマネジメントとは「リスクマネジメントのうちの、経営資源の1つである情報に対するリスクを対象としたマネジメントである」といえます。リスクマネジメントが上位概念であり、情報セキュリティマネジメントは、リスクマネジメントに含まれる要素となります。ちなみに情報セキュリティマネジメントに含まれる「ISMS」については次ページで解説します。",
+        "vi": "Quản lý bảo mật thông tin là một trong các yếu tố của Quản lý rủi ro. Tức là, Quản lý bảo mật thông tin có thể nói là \"quản lý đối tượng là rủi ro đối với thông tin - một trong những nguồn lực kinh doanh trong Quản lý rủi ro\". Quản lý rủi ro là khái niệm cấp trên, và Quản lý bảo mật thông tin là yếu tố được bao gồm trong Quản lý rủi ro. Nhân tiện, \"ISMS\" được bao gồm trong Quản lý bảo mật thông tin sẽ được giải thích ở trang tiếp theo.",
+        "en": "Information Security Management is one element of Risk Management. In other words, Information Security Management is 'management targeting risks to information as one of management resources within Risk Management.' Risk Management is the higher concept, and Information Security Management is element included in Risk Management. By the way, 'ISMS' included in Information Security Management is explained on next page."
+      },
+      "diagram": {
+        "ja": "リスクマネジメント → 情報セキュリティマネジメント → ISMS",
+        "vi": "Quản lý rủi ro → Quản lý bảo mật thông tin → ISMS",
+        "en": "Risk Management → Information Security Management → ISMS"
+      }
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！シャドーIT",
+        "vi": "Chi tiết hơn! Shadow IT",
+        "en": "More Details! Shadow IT"
+      },
+      "content": {
+        "ja": "シャドーITとは、私物のパソコンやスマートフォンなど、会社の許可を得ずに業務に利用することです。会社の監視が届かないところでデバイスが使われるため、情報漏洩などのリスクが高まります。なお、類似用語の「BYOD」では会社の許可を得たうえで私物を仕事に使用します。",
+        "vi": "Shadow IT là việc sử dụng máy tính cá nhân hoặc smartphone,v.v. cho công việc mà không có sự cho phép của công ty. Vì thiết bị được sử dụng ở nơi giám sát của công ty không đến được, nên rủi ro rò rỉ thông tin tăng cao. Ngoài ra, trong thuật ngữ tương tự \"BYOD\", sử dụng đồ cá nhân cho công việc sau khi có sự cho phép của công ty.",
+        "en": "Shadow IT is using personal computers or smartphones for work without company permission. Since devices are used where company monitoring cannot reach, risks like information leakage increase. Also, similar term 'BYOD' uses personal items for work after obtaining company permission."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "情報セキュリティマネジメント",
+      "vi": "Quản lý bảo mật thông tin",
+      "en": "Information Security Management",
+      "my": "သတင်းအချက်အလက် လုံခြုံရေး စီမံခန်း"
+    },
+    {
+      "term": "シャドーIT",
+      "vi": "Shadow IT",
+      "en": "Shadow IT",
+      "my": "အရိပ်အောက်အိုင်တီ"
+    },
+    {
+      "term": "BYOD",
+      "full": "Bring Your Own Device",
+      "vi": "BYOD (Mang thiết bị cá nhân)",
+      "en": "BYOD (Bring Your Own Device)",
+      "my": "BYOD (ကိုယ်ပိုင်ပစ္စည်းယူလာ)"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

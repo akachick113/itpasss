@@ -1,0 +1,93 @@
+{
+  "page_id": 524,
+  "image": "p_0524.png",
+  "chapter": 14,
+  "section": "14-05",
+  "page_number": 508,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "なお、RSSで記述された更新情報を取得するソフトウェアを「RSSリーダー」といいます。",
+      "vi": "Ngoài ra, phần mềm lấy thông tin cập nhật được mô tả bằng RSS được gọi là \"RSS Reader\".",
+      "en": "Also, software that retrieves update information described in RSS is called 'RSS Reader.'",
+      "terms": [
+        {
+          "kanji": "記述",
+          "reading": "きじゅつ"
+        },
+        {
+          "kanji": "更新情報",
+          "reading": "こうしんじょうほう"
+        },
+        {
+          "kanji": "取得",
+          "reading": "しゅとく"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "RSSの使い方",
+        "vi": "Cách sử dụng RSS",
+        "en": "How to Use RSS"
+      },
+      "description": {
+        "ja": "複数のWebサイトを1つ1つ開くのは大変 → RSS → 1つのページに更新情報を一覧表示",
+        "vi": "Mở từng trang web một rất vất vả → RSS → Hiển thị danh sách thông tin cập nhật trên 1 trang",
+        "en": "Opening multiple websites one by one is difficult → RSS → Display update information list on 1 page"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "cookie",
+      "vi": "cookie",
+      "en": "cookie"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "cookie",
+        "vi": "cookie",
+        "en": "cookie"
+      },
+      "definition": {
+        "ja": "cookieとは、ユーザーのブラウザに、Webサーバからの情報を一時的に保存する仕組みです。このように説明すると何やら難しい仕組みのように聞こえますが、簡単にいうと「Webサイトへの来歴情報を記録する仕組み」といえます。",
+        "vi": "cookie là cơ chế lưu trữ tạm thời thông tin từ máy chủ Web vào trình duyệt của người dùng. Khi giải thích như vậy nghe có vẻ là cơ chế khó, nhưng nói đơn giản là \"cơ chế ghi lại thông tin lịch sử truy cập trang web\".",
+        "en": "cookie is mechanism temporarily storing information from Web server in user's browser. Explained like this sounds like difficult mechanism, but simply put it's 'mechanism recording visit history information to website.'"
+      }
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "cookieの仕組み",
+        "vi": "Cơ chế cookie",
+        "en": "Cookie Mechanism"
+      },
+      "description": {
+        "ja": "1回目のアクセス：①IDとパスワードでログイン → ②クッキーを発行。2回目のアクセス：①クッキーを送信して自動ログイン",
+        "vi": "Lần truy cập 1: ①Đăng nhập bằng ID và mật khẩu → ②Phát hành cookie. Lần truy cập 2: ①Gửi cookie và đăng nhập tự động",
+        "en": "1st access: ①Login with ID and password → ②Issue cookie. 2nd access: ①Send cookie and auto-login"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "RSSリーダー",
+      "vi": "RSS Reader",
+      "en": "RSS Reader",
+      "my": "RSS ဖတ်စာစက်"
+    },
+    {
+      "term": "cookie",
+      "vi": "cookie",
+      "en": "cookie",
+      "my": "ကွက်ကီ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,255 @@
+{
+    "page_id": 602,
+    "image": "p_0602.png",
+    "chapter": "index",
+    "section": "index",
+    "page_number": 586,
+    "content": [
+        {
+            "type": "index_header",
+            "title": {
+                "ja": "索引",
+                "vi": "Mục lục tra cứu",
+                "en": "Index"
+            }
+        },
+        {
+            "type": "index_section",
+            "section_title": "数字 / Số / Numbers",
+            "entries": [
+                {
+                    "term": "2要素認証／2段階認証",
+                    "page": 567
+                },
+                {
+                    "term": "2進数／10進数／16進数",
+                    "page": 316
+                },
+                {
+                    "term": "3Dプリンター",
+                    "page": 411
+                },
+                {
+                    "term": "5G",
+                    "page": 490
+                }
+            ]
+        },
+        {
+            "type": "index_section",
+            "section_title": "A・B・C",
+            "entries": [
+                {
+                    "term": "ABC分析",
+                    "page": 29
+                },
+                {
+                    "term": "AI (Artificial Intelligence)",
+                    "page": 134
+                },
+                {
+                    "term": "Android",
+                    "page": 444
+                },
+                {
+                    "term": "APIエコノミー",
+                    "page": 127
+                },
+                {
+                    "term": "AR (Augmented Reality)",
+                    "page": 168
+                },
+                {
+                    "term": "BCM (事業継続管理)",
+                    "page": 296
+                },
+                {
+                    "term": "BCP (事業継続計画)",
+                    "page": 296
+                },
+                {
+                    "term": "BI (Business Intelligence)",
+                    "page": 198
+                },
+                {
+                    "term": "BIOS (Basic Input Output System)",
+                    "page": 426
+                },
+                {
+                    "term": "BLE (Bluetooth Low Energy)",
+                    "page": 510
+                },
+                {
+                    "term": "Bluetooth",
+                    "page": 415
+                },
+                {
+                    "term": "BPM (Business Process Management)",
+                    "page": 183
+                },
+                {
+                    "term": "BPMN (Business Process Model and Notation)",
+                    "page": 182
+                },
+                {
+                    "term": "BPR (Business Process Reengineering)",
+                    "page": 183
+                },
+                {
+                    "term": "BSC (Balance Scorecard)",
+                    "page": 116
+                },
+                {
+                    "term": "CA (Certification Authority)",
+                    "page": 552
+                },
+                {
+                    "term": "CAD (Computer Aided Design)",
+                    "page": 152
+                },
+                {
+                    "term": "CAM (Computer Aided Manufacturing)",
+                    "page": 152
+                },
+                {
+                    "term": "CEO (最高経営責任者)",
+                    "page": 24
+                },
+                {
+                    "term": "CGM (Consumer Generated Media)",
+                    "page": 161
+                },
+                {
+                    "term": "CIO (最高情報責任者)",
+                    "page": 24
+                },
+                {
+                    "term": "cookie",
+                    "page": 508
+                },
+                {
+                    "term": "CRL (Certificate Revocation List)",
+                    "page": 553
+                },
+                {
+                    "term": "CRM (Customer Relationship Management)",
+                    "page": 120
+                },
+                {
+                    "term": "CSF (Critical Success Factors)",
+                    "page": 117
+                },
+                {
+                    "term": "CSIRT (Computer Security Incident Response Team)",
+                    "page": 66
+                },
+                {
+                    "term": "CSR (Corporate Social Responsibility)",
+                    "page": 15
+                },
+                {
+                    "term": "CSS",
+                    "page": 339
+                },
+                {
+                    "term": "CTO (最高技術責任者)",
+                    "page": 24
+                }
+            ]
+        },
+        {
+            "type": "index_section",
+            "section_title": "D・E・F",
+            "entries": [
+                {
+                    "term": "DaaS (Desktop as a Service)",
+                    "page": 191
+                },
+                {
+                    "term": "DBMS (DataBase Management System)",
+                    "page": 467
+                },
+                {
+                    "term": "DDoS攻撃",
+                    "page": 528
+                },
+                {
+                    "term": "DE＆I",
+                    "page": 16
+                },
+                {
+                    "term": "DevOps",
+                    "page": 248
+                },
+                {
+                    "term": "DFD (Data Flow Diagram)",
+                    "page": 181
+                },
+                {
+                    "term": "DHCP (Dynamic Host Configuration Protocol)",
+                    "page": 504
+                },
+                {
+                    "term": "DMZ (DeMilitarized Zone)",
+                    "page": 558
+                },
+                {
+                    "term": "DNS",
+                    "page": 500
+                },
+                {
+                    "term": "DNSキャッシュポイズニング",
+                    "page": 528
+                },
+                {
+                    "term": "DoS攻撃",
+                    "page": 526
+                },
+                {
+                    "term": "EA (Enterprise Architecture)",
+                    "page": 177
+                },
+                {
+                    "term": "EC (Electronic Commerce)",
+                    "page": 159
+                },
+                {
+                    "term": "ERP (Enterprise Resource Planning)",
+                    "page": 118
+                },
+                {
+                    "term": "E-R図",
+                    "page": "182, 464"
+                },
+                {
+                    "term": "ESSID",
+                    "page": 489
+                },
+                {
+                    "term": "EUC (End User Computing)",
+                    "page": 249
+                },
+                {
+                    "term": "FAQ",
+                    "page": 290
+                },
+                {
+                    "term": "FreeBSD",
+                    "page": 444
+                },
+                {
+                    "term": "FTP (File Transfer Protocol)",
+                    "page": 495
+                },
+                {
+                    "term": "FTTH",
+                    "page": 509
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "is_index": true
+    }
+}

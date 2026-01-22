@@ -1,0 +1,285 @@
+{
+  "page_id": 115,
+  "image": "p_0115.png",
+  "chapter": 3,
+  "section": "03-01",
+  "page_number": 99,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "3つの経営戦略",
+      "vi": "3 loại chiến lược kinh doanh",
+      "en": "3 Types of Business Strategy"
+    },
+    {
+      "type": "paragraph",
+      "ja": "経営戦略は大きく次の3つに分類されます。\n\n・企業戦略（Corporate Strategy）\n・事業戦略（Business Strategy）\n・機能別戦略（Functional Strategy）\n\n下図は事業A、事業B、事業Cの3つの事業を持つ事業部制組織（p.21）の経営戦略の概念図です。頂点に経営理念、次いでビジョンがあり、その下に経営戦略があります。このことから、本節の内容が第1章の内容から一段階、具体的な実務レベルへ下りてきていることがわかると思います。",
+      "vi": "Chiến lược kinh doanh được phân thành 3 loại lớn:\n\n・Chiến lược doanh nghiệp (Corporate Strategy)\n・Chiến lược sự nghiệp (Business Strategy)\n・Chiến lược theo chức năng (Functional Strategy)\n\nHình dưới là sơ đồ khái niệm chiến lược kinh doanh của tổ chức theo bộ phận sự nghiệp (trang 21) có 3 sự nghiệp A, B, C. Đỉnh là Triết lý kinh doanh, tiếp theo là Tầm nhìn, bên dưới là Chiến lược kinh doanh. Từ đây có thể thấy nội dung phần này đã đi xuống một cấp từ nội dung Chương 1 đến mức thực tế cụ thể hơn.",
+      "en": "Business strategy is broadly classified into 3 types:\n\n・Corporate Strategy\n・Business Strategy\n・Functional Strategy\n\nThe figure below shows the business strategy concept for a divisional organization (p.21) with 3 businesses A, B, C. At the top is Business Philosophy, then Vision, with Business Strategy below. This shows the content of this section has descended one level from Chapter 1 to more concrete practical level.",
+      "my": "Business strategy ကို အမျိုးအစား ၃ ခုအဖြစ် ကျယ်ကျယ်ပြန့်ပြန့် ခွဲခြားထားသည်။",
+      "terms": [
+        {
+          "kanji": "経営戦略",
+          "reading": "けいえいせんりゃく"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "企業戦略",
+          "reading": "きぎょうせんりゃく"
+        },
+        {
+          "kanji": "事業戦略",
+          "reading": "じぎょうせんりゃく"
+        },
+        {
+          "kanji": "機能別戦略",
+          "reading": "きのうべつせんりゃく"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "事業",
+          "reading": "じぎょう"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "事業部制組織",
+          "reading": "じぎょうぶせいそしき"
+        },
+        {
+          "kanji": "概念図",
+          "reading": "がいねんず"
+        },
+        {
+          "kanji": "頂点",
+          "reading": "ちょうてん"
+        },
+        {
+          "kanji": "経営理念",
+          "reading": "けいえいりねん"
+        },
+        {
+          "kanji": "下",
+          "reading": "した"
+        },
+        {
+          "kanji": "本節",
+          "reading": "ほんせつ"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "第",
+          "reading": "だい"
+        },
+        {
+          "kanji": "章",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "一段階",
+          "reading": "いちだんかい"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "実務",
+          "reading": "じつむ"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "SWOT分析",
+      "reading": "すうぉっとぶんせき",
+      "vi": "Phân tích SWOT",
+      "en": "SWOT Analysis",
+      "my": "SWOT ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    },
+    {
+      "type": "paragraph",
+      "ja": "では、企業戦略から説明します。ITパスポート試験では企業戦略で使う分析手法として、「SWOT分析」と「PPM」の2つが出題されます。どちらの用語も最重要用語です。\n\nSWOT分析（SWOT Analysis）とは、企業戦略を立てるために、企業が置かれている経営環境を「Strengths（強み）」「Weaknesses（弱み）」「Opportunities（機会）」「Threats（脅威）」の4つに分類する手法です。各用語の頭文字をつなげると「SWOT」になります。SWOT分析を行うと自社を取り巻く経営環境を把握できます。\n\nSWOT分析では最初に、各項目を内部環境によるものなのか、外部環境によるものなのかに分類します。",
+      "vi": "Vậy, sẽ giải thích từ chiến lược doanh nghiệp. Trong IT Passport, 2 phương pháp phân tích được ra đề cho chiến lược doanh nghiệp là SWOT Analysis và PPM. Cả hai đều là thuật ngữ quan trọng nhất.\n\nSWOT Analysis là phương pháp phân loại môi trường kinh doanh mà doanh nghiệp đang ở thành 4 loại: Strengths (Điểm mạnh), Weaknesses (Điểm yếu), Opportunities (Cơ hội), Threats (Mối đe dọa) để lập chiến lược doanh nghiệp. Ghép chữ cái đầu của mỗi từ thành SWOT. Thực hiện SWOT Analysis giúp nắm bắt môi trường kinh doanh xung quanh công ty.\n\nTrong SWOT Analysis, đầu tiên phân loại mỗi mục thuộc môi trường nội bộ hay môi trường bên ngoài.",
+      "en": "Let's explain starting from corporate strategy. In IT Passport, 2 analysis methods for corporate strategy are tested: SWOT Analysis and PPM. Both are most important terms.\n\nSWOT Analysis is a method to classify the business environment where a company is positioned into 4 categories: Strengths, Weaknesses, Opportunities, Threats for developing corporate strategy. The first letters form SWOT. Conducting SWOT Analysis helps understand the business environment surrounding the company.\n\nIn SWOT Analysis, first classify each item as internal environment or external environment.",
+      "my": "Corporate strategy ကိုစတင်ရှင်းပြပါမည်။ IT Passport တွင် corporate strategy အတွက် ခွဲခြမ်းစိတ်ဖြာမှုနည်းလမ်း ၂ ခု ဖြစ်သည့် SWOT Analysis နှင့် PPM ကို စမ်းသပ်သည်။",
+      "terms": [
+        {
+          "kanji": "企業戦略",
+          "reading": "きぎょうせんりゃく"
+        },
+        {
+          "kanji": "説明",
+          "reading": "せつめい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "分析手法",
+          "reading": "ぶんせきしゅほう"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "最重要用語",
+          "reading": "さいじゅうようようご"
+        },
+        {
+          "kanji": "立",
+          "reading": "りつ"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "経営環境",
+          "reading": "けいえいかんきょう"
+        },
+        {
+          "kanji": "強",
+          "reading": "きょう"
+        },
+        {
+          "kanji": "弱",
+          "reading": "じゃく"
+        },
+        {
+          "kanji": "機会",
+          "reading": "きかい"
+        },
+        {
+          "kanji": "脅威",
+          "reading": "きょうい"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "各用語",
+          "reading": "かくようご"
+        },
+        {
+          "kanji": "頭文字",
+          "reading": "かしらもじ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "巻",
+          "reading": "かん"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "各項目",
+          "reading": "かくこうもく"
+        },
+        {
+          "kanji": "内部環境",
+          "reading": "ないぶかんきょう"
+        },
+        {
+          "kanji": "外部環境",
+          "reading": "がいぶかんきょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "企業戦略",
+      "reading": "きぎょうせんりゃく",
+      "romaji": "Kigyou Senryaku",
+      "vi": "Chiến lược doanh nghiệp",
+      "en": "Corporate Strategy",
+      "my": "ကော်ပိုရိတ်ဗျူဟာ"
+    },
+    {
+      "kanji": "事業戦略",
+      "reading": "じぎょうせんりゃく",
+      "romaji": "Jigyou Senryaku",
+      "vi": "Chiến lược sự nghiệp",
+      "en": "Business Strategy",
+      "my": "စီးပွားရေးဗျူဟာ"
+    },
+    {
+      "kanji": "機能別戦略",
+      "reading": "きのうべつせんりゃく",
+      "romaji": "Kinou Betsu Senryaku",
+      "vi": "Chiến lược theo chức năng",
+      "en": "Functional Strategy",
+      "my": "လုပ်ငန်းလက္ခဏာဗျူဟာ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true
+  }
+}

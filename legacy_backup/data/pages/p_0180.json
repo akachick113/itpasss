@@ -1,0 +1,307 @@
+{
+  "page_id": 180,
+  "image": "p_0180.png",
+  "chapter": 4,
+  "section": "04-05",
+  "page_number": 164,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・CGMとは、一般消費者（個人）がインターネットを通じて、自らの情報を不特定多数に向けて発信するメディアのこと。ブログや口コミサイト、SNSなど\n・レコメンデーションとは、購入履歴などの顧客のデータを分析して、各個人に最適な商品やサービスの情報を提供する技術\n・エスクローサービスを使うと、「代金を支払ったのに商品が配送されない」トラブルを未然に防ぐことができる",
+        "vi": "・CGM là media mà người tiêu dùng thông thường (cá nhân) phát thông tin của mình đến số đông không xác định qua internet. Blog, trang đánh giá, SNS, v.v.\n・Recommendation là công nghệ phân tích dữ liệu khách hàng như lịch sử mua hàng và cung cấp thông tin sản phẩm/dịch vụ tối ưu cho từng cá nhân\n・Sử dụng Escrow Service có thể ngăn chặn trước vấn đề đã trả tiền mà hàng không được giao",
+        "en": "・CGM is media where regular consumers (individuals) share information to unspecified masses via internet. Blogs, review sites, SNS, etc.\n・Recommendation is technology analyzing customer data like purchase history to provide optimal product/service info to individuals\n・Using Escrow Service can prevent problems like 'paid but product wasn't delivered'",
+        "my": "・ CGM သည် သာမန်စားသုံးသူများ (တစ်ဦးချင်း) အင်တာနက်မှတဆင့် မသတ်မှတ်ထားသော လူထုသို့ အချက်အလက် မျှဝေသော media ဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "一般消費者",
+            "reading": "いっぱんしょうひしゃ"
+          },
+          {
+            "kanji": "個人",
+            "reading": "こじん"
+          },
+          {
+            "kanji": "通",
+            "reading": "とおり"
+          },
+          {
+            "kanji": "自",
+            "reading": "じ"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "不特定多数",
+            "reading": "ふとくていたすう"
+          },
+          {
+            "kanji": "向",
+            "reading": "こう"
+          },
+          {
+            "kanji": "発信",
+            "reading": "はっしん"
+          },
+          {
+            "kanji": "口",
+            "reading": "くち"
+          },
+          {
+            "kanji": "購入履歴",
+            "reading": "こうにゅうりれき"
+          },
+          {
+            "kanji": "顧客",
+            "reading": "こきゃく"
+          },
+          {
+            "kanji": "分析",
+            "reading": "ぶんせき"
+          },
+          {
+            "kanji": "各個人",
+            "reading": "かくこじん"
+          },
+          {
+            "kanji": "最適",
+            "reading": "さいてき"
+          },
+          {
+            "kanji": "商品",
+            "reading": "しょうひん"
+          },
+          {
+            "kanji": "提供",
+            "reading": "ていきょう"
+          },
+          {
+            "kanji": "技術",
+            "reading": "ぎじゅつ"
+          },
+          {
+            "kanji": "使",
+            "reading": "し"
+          },
+          {
+            "kanji": "代金",
+            "reading": "だいきん"
+          },
+          {
+            "kanji": "支払",
+            "reading": "しはらい"
+          },
+          {
+            "kanji": "配送",
+            "reading": "はいそう"
+          },
+          {
+            "kanji": "未然",
+            "reading": "みぜん"
+          },
+          {
+            "kanji": "防",
+            "reading": "ぼう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "気分転換も勉強のうち",
+        "vi": "Thay đổi tâm trạng cũng là một phần của học tập",
+        "en": "Changing Mood is Part of Studying",
+        "my": "စိတ်ခံစားမှု ပြောင်းလဲခြင်းသည် စာသင်ခြင်း၏ အစိတ်အပိုင်းဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "勉強",
+            "reading": "べんきょう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "人間の集中力については諸説ありますが、おおよそ20分〜30分、長くても45分程度が、人間の集中力が続く時間であるといわれています。このため「私には集中力がなくて…」と悲観することはまったくありません。集中力が続かないのは皆同じです。大切なのは、途切れた集中力を回復させること、つまり「気分転換」や「リフレッシュ」することです。疲れた脳を休ませることも勉強のうちと考えてください。気持ちをリフレッシュさせる方法はたくさんありますが、筆者がおすすめのものをいくつか紹介します。\n\n・背伸びや、軽いストレッチをして、目を閉じて深呼吸する（瞑想もよい）\n・自宅以外で勉強する（カフェや図書館、学校など）。歩きながら勉強もおすすめ\n・ハーブティやスポーツドリンクなど、カフェインの入っていないものを飲む\n・少し眠る（10分〜30分程度）",
+        "vi": "Về khả năng tập trung của con người có nhiều thuyết, nhưng khoảng 20-30 phút, tối đa 45 phút là thời gian tập trung của con người. Do đó không cần bi quan tôi không có khả năng tập trung. Ai cũng không tập trung được lâu. Điều quan trọng là phục hồi sự tập trung bị gián đoạn, tức là thay đổi tâm trạng hay làm mới. Nghỉ ngơi não mệt mỏi cũng là học. Có nhiều cách làm mới tâm trạng, tác giả giới thiệu vài cách:\n\n・Vươn vai, kéo giãn nhẹ, nhắm mắt hít thở sâu (thiền cũng tốt)\n・Học ở nơi khác ngoài nhà (quán cà phê, thư viện, trường). Học đi bộ cũng tốt\n・Uống đồ không caffeine như trà thảo mộc, đồ uống thể thao\n・Ngủ một chút (khoảng 10-30 phút)",
+        "en": "There are various theories about human concentration, but about 20-30 minutes, max 45 minutes is how long humans can concentrate. So don't be pessimistic thinking 'I can't concentrate...'. Everyone has limited concentration. What's important is recovering interrupted concentration - 'changing mood' or 'refreshing'. Resting a tired brain is also part of studying. There are many ways to refresh; the author recommends:\n\n・Stretch lightly, close eyes and breathe deeply (meditation is also good)\n・Study outside home (cafes, libraries, schools). Studying while walking is also recommended\n・Drink caffeine-free drinks like herbal tea or sports drinks\n・Sleep a little (about 10-30 minutes)",
+        "my": "လူသား အာရုံစိုက်မှုအကြောင်း သီအိုရီ အမျိုးမျိုးရှိသည်။",
+        "terms": [
+          {
+            "kanji": "人間",
+            "reading": "にんげん"
+          },
+          {
+            "kanji": "集中力",
+            "reading": "しゅうちゅうりょく"
+          },
+          {
+            "kanji": "諸説",
+            "reading": "しょせつ"
+          },
+          {
+            "kanji": "分",
+            "reading": "ふん"
+          },
+          {
+            "kanji": "長",
+            "reading": "ちょう"
+          },
+          {
+            "kanji": "分程度",
+            "reading": "ふんていど"
+          },
+          {
+            "kanji": "続",
+            "reading": "ぞく"
+          },
+          {
+            "kanji": "時間",
+            "reading": "じかん"
+          },
+          {
+            "kanji": "私",
+            "reading": "わたし"
+          },
+          {
+            "kanji": "悲観",
+            "reading": "ひかん"
+          },
+          {
+            "kanji": "皆同",
+            "reading": "みなどう"
+          },
+          {
+            "kanji": "大切",
+            "reading": "たいせつ"
+          },
+          {
+            "kanji": "途切",
+            "reading": "とせつ"
+          },
+          {
+            "kanji": "回復",
+            "reading": "かいふく"
+          },
+          {
+            "kanji": "気分転換",
+            "reading": "きぶんてんかん"
+          },
+          {
+            "kanji": "疲",
+            "reading": "ひ"
+          },
+          {
+            "kanji": "脳",
+            "reading": "のう"
+          },
+          {
+            "kanji": "休",
+            "reading": "きゅう"
+          },
+          {
+            "kanji": "勉強",
+            "reading": "べんきょう"
+          },
+          {
+            "kanji": "考",
+            "reading": "こう"
+          },
+          {
+            "kanji": "気持",
+            "reading": "きもち"
+          },
+          {
+            "kanji": "方法",
+            "reading": "ほうほう"
+          },
+          {
+            "kanji": "筆者",
+            "reading": "ひっしゃ"
+          },
+          {
+            "kanji": "紹介",
+            "reading": "しょうかい"
+          },
+          {
+            "kanji": "背伸",
+            "reading": "せのび"
+          },
+          {
+            "kanji": "軽",
+            "reading": "けい"
+          },
+          {
+            "kanji": "目",
+            "reading": "め"
+          },
+          {
+            "kanji": "閉",
+            "reading": "へい"
+          },
+          {
+            "kanji": "深呼吸",
+            "reading": "しんこきゅう"
+          },
+          {
+            "kanji": "瞑想",
+            "reading": "めいそう"
+          },
+          {
+            "kanji": "自宅以外",
+            "reading": "じたくいがい"
+          },
+          {
+            "kanji": "図書館",
+            "reading": "としょかん"
+          },
+          {
+            "kanji": "学校",
+            "reading": "がっこう"
+          },
+          {
+            "kanji": "歩",
+            "reading": "ほ"
+          },
+          {
+            "kanji": "入",
+            "reading": "にゅう"
+          },
+          {
+            "kanji": "飲",
+            "reading": "いん"
+          },
+          {
+            "kanji": "少",
+            "reading": "しょう"
+          },
+          {
+            "kanji": "眠",
+            "reading": "みん"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_info_box": true,
+    "has_study_tip": true
+  }
+}

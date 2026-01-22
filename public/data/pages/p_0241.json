@@ -1,0 +1,401 @@
+{
+  "page_id": 241,
+  "image": "p_0241.png",
+  "chapter": 6,
+  "section": "06-01",
+  "page_number": 225,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "下図はシステムの概念図です。ここで、システムとソフトウェアの関係性をきちんと把握しておいてください。今後はこの関係性を前提に「システム」や「ソフトウェア」といった用語を使います。また、ITパスポート試験でもこのように定義されています。",
+      "vi": "Hình dưới là sơ đồ khái niệm về Hệ thống. Tại đây, hãy nắm chắc mối quan hệ giữa Hệ thống và Phần mềm. Từ nay về sau, các thuật ngữ \"Hệ thống\" và \"Phần mềm\" sẽ được sử dụng dựa trên mối quan hệ này. Ngoài ra, trong kỳ thi IT Passport cũng được định nghĩa như vậy.",
+      "en": "The figure below is a conceptual diagram of a System. Here, please properly understand the relationship between System and Software. From now on, terms like 'System' and 'Software' will be used based on this relationship. Also, this is how it's defined in the IT Passport exam.",
+      "terms": [
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "概念図",
+          "reading": "がいねんず"
+        },
+        {
+          "kanji": "関係性",
+          "reading": "かんけいせい"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        },
+        {
+          "kanji": "今後",
+          "reading": "こんご"
+        },
+        {
+          "kanji": "前提",
+          "reading": "ぜんてい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "システムの概念図",
+        "vi": "Sơ đồ khái niệm về Hệ thống",
+        "en": "Conceptual Diagram of System"
+      },
+      "elements": [
+        {
+          "ja": "システム",
+          "vi": "Hệ thống",
+          "en": "System"
+        },
+        {
+          "ja": "ハードウェア",
+          "vi": "Phần cứng",
+          "en": "Hardware"
+        },
+        {
+          "ja": "ソフトウェア",
+          "vi": "Phần mềm",
+          "en": "Software"
+        }
+      ],
+      "description": {
+        "ja": "システムはハードウェアとソフトウェアで構成される",
+        "vi": "Hệ thống được cấu thành từ Phần cứng và Phần mềm",
+        "en": "System consists of Hardware and Software"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "システム開発",
+      "reading": "しすてむかいはつ",
+      "vi": "Phát triển hệ thống",
+      "en": "System Development"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記の「システム」という用語の定義からもわかるとおり、システム開発とは、必要なハードウェアを調達し、必要な機能を持ったソフトウェアを新たに作ることです。現在、手作業で行っている業務をシステムに置き換えることができれば、業務を大幅に改善できます。",
+      "vi": "Như có thể thấy từ định nghĩa thuật ngữ \"Hệ thống\" ở trên, Phát triển hệ thống là mua sắm phần cứng cần thiết và tạo mới phần mềm có chức năng cần thiết. Nếu có thể thay thế nghiệp vụ đang làm thủ công bằng hệ thống, nghiệp vụ có thể được cải thiện đáng kể.",
+      "en": "As can be understood from the definition of 'System' above, System Development is procuring necessary hardware and newly creating software with necessary functions. If you can replace manual work with systems, business can be greatly improved.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "調達",
+          "reading": "ちょうたつ"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "新",
+          "reading": "あたら"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "手作業",
+          "reading": "てさぎょう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "換",
+          "reading": "かん"
+        },
+        {
+          "kanji": "大幅",
+          "reading": "おおはば"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、業務を改善するためには、単にハードウェアやソフトウェアなどのテクノロジに詳しいだけでは不十分です。経営や法律、会計など、ストラテジ系分野（本書第1章～第5章）で学んだ知識も必要です。ストラテジの知識がなければ部分最適（p.177）のシステムになってしまうかもです。",
+      "vi": "Ngoài ra, để cải thiện nghiệp vụ, chỉ am hiểu về công nghệ như phần cứng và phần mềm thôi là không đủ. Cần có kiến thức đã học trong lĩnh vực Chiến lược (Chương 1-5 của sách này) như quản lý, pháp luật, kế toán. Nếu không có kiến thức về Chiến lược, có thể sẽ trở thành hệ thống tối ưu cục bộ (trang 177).",
+      "en": "Also, to improve business, just being knowledgeable about technology like hardware and software is insufficient. Knowledge learned in the Strategy field (Chapters 1-5 of this book) such as management, law, and accounting is also necessary. Without Strategy knowledge, you might end up with a locally optimized system (p.177).",
+      "terms": [
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "単",
+          "reading": "たん"
+        },
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "不十分",
+          "reading": "ふじゅうぶん"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "法律",
+          "reading": "ほうりつ"
+        },
+        {
+          "kanji": "会計",
+          "reading": "かいけい"
+        },
+        {
+          "kanji": "系分野",
+          "reading": "けいぶんや"
+        },
+        {
+          "kanji": "本書第",
+          "reading": "ほんしょだい"
+        },
+        {
+          "kanji": "章",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "第",
+          "reading": "だい"
+        },
+        {
+          "kanji": "学",
+          "reading": "がく"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "部分最適",
+          "reading": "ぶぶんさいてき"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、これまでに学んできた知識を下敷きにして、より具体的に、システム開発の手法や技術について解説していきます。ITパスポート試験では「システム要件定義」「ソフトウェア保守」「システムテスト」「システム方式設計」の4の用語の出題難易度が高いです。これらの用語を念頭に読み進めてください。",
+      "vi": "Từ đây, dựa trên kiến thức đã học, sẽ giải thích cụ thể hơn về phương pháp và kỹ thuật phát triển hệ thống. Trong kỳ thi IT Passport, độ khó của 4 thuật ngữ \"Định nghĩa yêu cầu hệ thống\", \"Bảo trì phần mềm\", \"Kiểm thử hệ thống\", \"Thiết kế phương thức hệ thống\" khá cao. Hãy đọc với những thuật ngữ này trong đầu.",
+      "en": "From here, based on the knowledge learned so far, we'll explain system development methods and techniques more specifically. In the IT Passport exam, the 4 terms 'System Requirements Definition,' 'Software Maintenance,' 'System Test,' and 'System Architecture Design' have high difficulty. Please read keeping these terms in mind.",
+      "terms": [
+        {
+          "kanji": "学",
+          "reading": "がく"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "下敷",
+          "reading": "したじき"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "保守",
+          "reading": "ほしゅ"
+        },
+        {
+          "kanji": "方式設計",
+          "reading": "ほうしきせっけい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題難易度",
+          "reading": "しゅつだいなんいど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "念頭",
+          "reading": "ねんとう"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "業務とは",
+      "reading": "ぎょうむとは",
+      "vi": "Nghiệp vụ là gì",
+      "en": "What is Business/Work",
+      "note": {
+        "ja": "学習のポイント",
+        "vi": "Điểm học tập",
+        "en": "Learning Point"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験に出てくる「業務」とは、システムと手作業（人による活動）を併せたものです（p.21）。すべての業務はシステムと手作業の2つで構成されます。",
+      "vi": "\"Nghiệp vụ\" xuất hiện trong kỳ thi IT Passport là sự kết hợp giữa hệ thống và công việc thủ công (hoạt động của con người) (trang 21). Tất cả nghiệp vụ được cấu thành từ 2 phần: hệ thống và công việc thủ công.",
+      "en": "'Business/Work' appearing in the IT Passport exam refers to the combination of systems and manual work (human activities) (p.21). All business consists of two parts: systems and manual work.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "手作業",
+          "reading": "てさぎょう"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "活動",
+          "reading": "かつどう"
+        },
+        {
+          "kanji": "併",
+          "reading": "へい"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "業務",
+      "reading": "ぎょうむ",
+      "romaji": "Gyoumu",
+      "vi": "Nghiệp vụ",
+      "en": "Business/Work",
+      "my": "လုပ်ငန်း"
+    },
+    {
+      "kanji": "部分最適",
+      "reading": "ぶぶんさいてき",
+      "romaji": "Bubun Saiteki",
+      "vi": "Tối ưu cục bộ",
+      "en": "Local Optimization",
+      "my": "တစ်စိတ်ချင်း အကောင်းဆုံးပြုလုပ်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "page_id": 429,
+  "image": "p_0429.png",
+  "chapter": 11,
+  "section": "11-06",
+  "page_number": 413,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "11-06",
+      "title": {
+        "ja": "入出力インタフェース",
+        "vi": "Giao diện nhập xuất",
+        "en": "I/O Interface"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "挿したら祈れ！",
+        "vi": "Cắm vào rồi cầu nguyện!",
+        "en": "Plug In and Pray!"
+      },
+      "content": {
+        "ja": "周辺機器をPCとつなぐとすぐ使えるようになるのは「Plug and Play」と呼ばれる機能のおかげです。一昔前は、ケーブルを挿しても周辺機器が動作しないことがあったので「Plug and Pray」（挿したら祈れ）と揶揄されていました。",
+        "vi": "Việc có thể sử dụng ngay khi kết nối thiết bị ngoại vi với PC là nhờ tính năng gọi là \"Plug and Play\". Trước đây, vì đôi khi thiết bị ngoại vi không hoạt động dù đã cắm cáp, nên bị châm biếm là \"Plug and Pray\" (cắm vào rồi cầu nguyện).",
+        "en": "Being able to use peripherals immediately when connecting to PC is thanks to feature called 'Plug and Play.' In past, since peripherals sometimes didn't work even when cable was plugged in, it was mocked as 'Plug and Pray.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "前項までは、コンピュータの5つの役割と、それぞれの役割で使われる機器や装置について解説してきました。ここからは、機器間、装置間でデータをやり取りする際に必要となる「入出力インタフェース」について解説します。",
+      "vi": "Đến phần trước, đã giải thích về 5 vai trò của máy tính và các thiết bị, máy móc được sử dụng trong mỗi vai trò. Từ đây, sẽ giải thích về \"giao diện nhập xuất\" cần thiết khi trao đổi dữ liệu giữa các thiết bị, máy móc.",
+      "en": "Until previous section, explained 5 computer roles and devices, equipment used in each role. From here, explains 'I/O interface' needed when exchanging data between devices, equipment.",
+      "terms": [
+        {
+          "kanji": "前項",
+          "reading": "ぜんこう"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "機器",
+          "reading": "きき"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "機器間",
+          "reading": "ききかん"
+        },
+        {
+          "kanji": "装置間",
+          "reading": "そうちかん"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "入出力",
+          "reading": "にゅうしゅつりょく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "入出力インタフェースとは",
+      "vi": "Giao diện nhập xuất là gì",
+      "en": "What is I/O Interface"
+    },
+    {
+      "type": "paragraph",
+      "ja": "入出力インタフェースとは、簡単にいうと、ある機器と機器をつなぐ際に使用するケーブルの接続口の形状や、データをやり取りする方式のことです。例えば、PC本体とディスプレイをつなぐケーブルの種類（現在はHDMIが一般的）や、PC本体とマウスをつなぐケーブルの種類（現在ではUSBが一般的）のことです。",
+      "vi": "Giao diện nhập xuất, nói đơn giản, là hình dạng cổng kết nối cáp được sử dụng khi kết nối thiết bị với thiết bị khác, và phương thức trao đổi dữ liệu. Ví dụ, loại cáp kết nối PC với màn hình (hiện tại HDMI phổ biến), loại cáp kết nối PC với chuột (hiện tại USB phổ biến).",
+      "en": "I/O interface, simply put, is cable connector shape used when connecting device to device, and method of exchanging data. For example, type of cable connecting PC to display (currently HDMI is common), type of cable connecting PC to mouse (currently USB is common).",
+      "terms": [
+        {
+          "kanji": "入出力",
+          "reading": "にゅうしゅつりょく"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "機器",
+          "reading": "きき"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "接続口",
+          "reading": "せつぞくくち"
+        },
+        {
+          "kanji": "形状",
+          "reading": "けいじょう"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "方式",
+          "reading": "ほうしき"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "本体",
+          "reading": "ほんたい"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "一般的",
+          "reading": "いっぱんてき"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "「USB」は入出力インタフェースの規格の1つ",
+        "vi": "\"USB\" là một trong các tiêu chuẩn giao diện nhập xuất",
+        "en": "'USB' is One of I/O Interface Standards",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "「USB」と聞くと、USBメモリや、USBケーブルなどを思い浮かべる人も多いと思いますが、USBは機器の種類や記憶方式ではなく、入出力インタフェースの規格の1つです。非常に優れた規格であるため、多くの機器や装置がUSBに対応しています。",
+        "vi": "Khi nghe \"USB\", nhiều người nghĩ đến USB memory hoặc cáp USB, nhưng USB không phải là loại thiết bị hay phương thức ghi nhớ, mà là một trong các tiêu chuẩn giao diện nhập xuất. Vì là tiêu chuẩn rất ưu việt nên nhiều thiết bị và máy móc tương thích với USB.",
+        "en": "When hearing 'USB,' many think of USB memory or USB cable, but USB is not device type or storage method, but one of I/O interface standards. Because it's excellent standard, many devices and equipment support USB."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "入出力インタフェース",
+      "reading": "にゅうしゅつりょくインタフェース",
+      "vi": "Giao diện nhập xuất",
+      "en": "I/O Interface",
+      "my": "အိုင်းအို အင်တာဖေ့"
+    },
+    {
+      "term": "Plug and Play",
+      "vi": "Cắm và chạy",
+      "en": "Plug and Play",
+      "my": "ပလက် အန်ဒ် ပလေး"
+    }
+  ],
+  "meta": {
+    "has_note_box": true,
+    "is_key_content": true
+  }
+}

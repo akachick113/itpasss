@@ -1,0 +1,251 @@
+{
+  "page_id": 254,
+  "image": "p_0254.png",
+  "chapter": 6,
+  "section": "06-05",
+  "page_number": 238,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "テストの種類",
+        "vi": "Các loại kiểm thử",
+        "en": "Types of Testing"
+      },
+      "headers": {
+        "ja": [
+          "種類",
+          "説明",
+          "担当"
+        ],
+        "vi": [
+          "Loại",
+          "Giải thích",
+          "Phụ trách"
+        ],
+        "en": [
+          "Type",
+          "Explanation",
+          "Responsibility"
+        ]
+      },
+      "rows": [
+        {
+          "type": {
+            "ja": "単体テスト",
+            "vi": "Kiểm thử đơn vị",
+            "en": "Unit Test"
+          },
+          "explanation": {
+            "ja": "プログラムに誤りがないことを検証する。通常は「ホワイトボックステスト」と呼ばれるテスト手法で行う（後述）。",
+            "vi": "Xác minh chương trình không có lỗi. Thường thực hiện bằng phương pháp kiểm thử gọi là \"White Box Test\" (sẽ đề cập sau).",
+            "en": "Verifies programs have no errors. Usually done with test method called 'White Box Test' (described later)."
+          },
+          "responsibility": {
+            "ja": "開発者",
+            "vi": "Nhà phát triển",
+            "en": "Developer"
+          }
+        },
+        {
+          "type": {
+            "ja": "結合テスト",
+            "vi": "Kiểm thử tích hợp",
+            "en": "Integration Test"
+          },
+          "explanation": {
+            "ja": "単体テストが完了したプログラム同士を組み合わせて、データの受け渡しや、連携がうまくいくかを検証する。つまり、結合テストではプログラム同士のインタフェースが合うか（きちんと接続できるか）を確認する。通常は「ブラックボックステスト」と呼ばれるテスト手法で行う（後述）。",
+            "vi": "Kết hợp các chương trình đã hoàn thành kiểm thử đơn vị để xác minh việc truyền dữ liệu và liên kết có hoạt động tốt không. Nghĩa là, kiểm thử tích hợp xác nhận interface giữa các chương trình có khớp không (có thể kết nối đúng không). Thường thực hiện bằng \"Black Box Test\" (sẽ đề cập sau).",
+            "en": "Combines programs that completed unit testing to verify data transfer and cooperation work properly. Integration test confirms if interfaces between programs match (can connect properly). Usually done with 'Black Box Test' (described later)."
+          },
+          "responsibility": {
+            "ja": "開発者",
+            "vi": "Nhà phát triển",
+            "en": "Developer"
+          }
+        },
+        {
+          "type": {
+            "ja": "システムテスト",
+            "vi": "Kiểm thử hệ thống",
+            "en": "System Test"
+          },
+          "explanation": {
+            "ja": "システム要件（機能と性能）が仕様どおりに動作するかを検証する。",
+            "vi": "Xác minh yêu cầu hệ thống (chức năng và hiệu suất) có hoạt động đúng theo thông số không.",
+            "en": "Verifies system requirements (functions and performance) work according to specifications."
+          },
+          "responsibility": {
+            "ja": "開発者",
+            "vi": "Nhà phát triển",
+            "en": "Developer"
+          }
+        },
+        {
+          "type": {
+            "ja": "運用テスト",
+            "vi": "Kiểm thử vận hành",
+            "en": "Operational Test"
+          },
+          "explanation": {
+            "ja": "本番環境と同じ条件下で、システムを運用し、業務要件どおりにシステムが動作するかを検証する。共通フレーム（p.205）では、運用テストは、ユーザーが主体となって行うので、運用プロセスで規定されている。",
+            "vi": "Vận hành hệ thống trong điều kiện giống môi trường thực tế để xác minh hệ thống hoạt động đúng theo yêu cầu nghiệp vụ. Trong Common Frame (trang 205), kiểm thử vận hành do người dùng chủ trì nên được quy định trong quy trình vận hành.",
+            "en": "Operates system under same conditions as production environment to verify system works according to business requirements. In Common Frame (p.205), operational test is defined in operation process as users take the lead."
+          },
+          "responsibility": {
+            "ja": "ユーザー",
+            "vi": "Người dùng",
+            "en": "User"
+          }
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "インタフェースとは",
+      "reading": "いんたふぇーすとは",
+      "vi": "Interface là gì",
+      "en": "What is Interface"
+    },
+    {
+      "type": "paragraph",
+      "ja": "インタフェース（Interface）とは、あるモノとあるモノをつなぐ部分のことです。最もイメージしやすいのはハードウェアインタフェースです。ハードウェアインタフェースとはその名のとおり、あるハードウェアと別のハードウェアをつなぐ（接続する）部品のことを指します。",
+      "vi": "Interface là phần kết nối một thứ với thứ khác. Dễ hình dung nhất là Hardware Interface. Hardware Interface đúng như tên gọi, chỉ linh kiện kết nối phần cứng này với phần cứng khác.",
+      "en": "Interface refers to the part that connects one thing to another. The easiest to imagine is Hardware Interface. Hardware Interface, as the name suggests, refers to components that connect one hardware to another.",
+      "terms": [
+        {
+          "kanji": "部分",
+          "reading": "ぶぶん"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "名",
+          "reading": "めい"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "部品",
+          "reading": "ぶひん"
+        },
+        {
+          "kanji": "指",
+          "reading": "ゆび"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、パソコンと周辺機器（プリンターなど）をつなぐ部分です。他にも、コンピュータと人間をつなぐ部分（操作画面など）を、ユーザーインタフェースといいます。",
+      "vi": "Ví dụ, phần kết nối máy tính với thiết bị ngoại vi (máy in, v.v.). Ngoài ra, phần kết nối máy tính với con người (màn hình thao tác, v.v.) gọi là User Interface.",
+      "en": "For example, the part connecting computers to peripherals (printers, etc.). Also, the part connecting computers to humans (operation screens, etc.) is called User Interface.",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "周辺機器",
+          "reading": "しゅうへんきき"
+        },
+        {
+          "kanji": "部分",
+          "reading": "ぶぶん"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "操作画面",
+          "reading": "そうさがめん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "これらと同様に、プログラムとプログラムをつなぐインタフェースもあります。それが「ソフトウェアインタフェース」です。結合テストでは、単体テストが完了したプログラム間のインタフェースをテストします。",
+      "vi": "Tương tự, cũng có interface kết nối chương trình với chương trình. Đó là \"Software Interface\". Trong kiểm thử tích hợp, kiểm thử interface giữa các chương trình đã hoàn thành kiểm thử đơn vị.",
+      "en": "Similarly, there are also interfaces connecting programs to programs. That is 'Software Interface.' In integration testing, interfaces between programs that completed unit testing are tested.",
+      "terms": [
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        },
+        {
+          "kanji": "結合",
+          "reading": "けつごう"
+        },
+        {
+          "kanji": "単体",
+          "reading": "たんたい"
+        },
+        {
+          "kanji": "完了",
+          "reading": "かんりょう"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "インタフェース",
+        "vi": "Interface",
+        "en": "Interface"
+      },
+      "description": {
+        "ja": "2つのプログラムがインタフェースでつながっている図。パズルのピースのような形で表現。",
+        "vi": "Sơ đồ 2 chương trình được kết nối bằng interface. Biểu diễn dưới dạng giống mảnh ghép puzzle.",
+        "en": "Diagram showing 2 programs connected by interface. Represented like puzzle pieces."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "単体テスト",
+      "reading": "たんたいてすと",
+      "romaji": "Tantai Test",
+      "vi": "Kiểm thử đơn vị",
+      "en": "Unit Test",
+      "my": "ယူနစ် စမ်းသပ်ချက်"
+    },
+    {
+      "kanji": "結合テスト",
+      "reading": "けつごうてすと",
+      "romaji": "Ketsugou Test",
+      "vi": "Kiểm thử tích hợp",
+      "en": "Integration Test",
+      "my": "ပေါင်းစပ် စမ်းသပ်ချက်"
+    },
+    {
+      "kanji": "インタフェース",
+      "reading": "いんたふぇーす",
+      "romaji": "Interface",
+      "vi": "Giao diện",
+      "en": "Interface",
+      "my": "အင်တာဖေ့စ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true
+  }
+}

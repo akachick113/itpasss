@@ -1,0 +1,383 @@
+{
+  "page_id": 428,
+  "image": "p_0428.png",
+  "chapter": 11,
+  "section": "11-05",
+  "page_number": 412,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "一方、ppm（Pages Per Minute）とは、プリンターが1分間に印刷できるページ数を表す単位です。例えば、あるプリンターの機能性能表に「25ppm」と記載されていたら、そのプリンターは1分間に25ページを印刷できるということです。",
+      "vi": "Mặt khác, ppm (Pages Per Minute) là đơn vị biểu thị số trang mà máy in có thể in trong 1 phút. Ví dụ, nếu bảng thông số của máy in ghi \"25ppm\", nghĩa là máy in đó có thể in 25 trang trong 1 phút.",
+      "en": "On other hand, ppm (Pages Per Minute) is unit representing number of pages printer can print per minute. For example, if printer's specification table says '25ppm,' that printer can print 25 pages per minute.",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "分間",
+          "reading": "ふんかん"
+        },
+        {
+          "kanji": "印刷",
+          "reading": "いんさつ"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "単位",
+          "reading": "たんい"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "機能性能表",
+          "reading": "きのうせいのうおもて"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "2種類の「解像度」",
+      "vi": "2 loại \"Độ phân giải\"",
+      "en": "2 Types of 'Resolution'"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のとおり、通常「解像度」は画素の密度を表しますが、慣用的に「ディスプレイの画素数」のことを「解像度」ということもあります。非常にややこしいのですが「プリンターやスキャナーにおける解像度」と「ディスプレイの解像度」は異なるので注意してください。",
+      "vi": "Như trên, thông thường \"độ phân giải\" biểu thị mật độ pixel, nhưng theo thông lệ, \"số pixel của màn hình\" cũng được gọi là \"độ phân giải\". Rất khó hiểu, nhưng hãy chú ý rằng \"độ phân giải trong máy in và máy quét\" khác với \"độ phân giải của màn hình\".",
+      "en": "As above, normally 'resolution' represents pixel density, but conventionally 'display pixel count' is also called 'resolution.' Very confusing, but note that 'resolution in printers and scanners' differs from 'display resolution.'",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "解像度",
+          "reading": "かいぞうど"
+        },
+        {
+          "kanji": "画素",
+          "reading": "がそ"
+        },
+        {
+          "kanji": "密度",
+          "reading": "みつど"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "慣用的",
+          "reading": "かんようてき"
+        },
+        {
+          "kanji": "画素数",
+          "reading": "がそすう"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ディスプレイの解像度を表す場合は、横方向と縦方向の画素数をかけ算したような形式で表記します。例えば「1920×1080」のように表します。また、広く普及している画素数には下表のような呼び名もあります。",
+      "vi": "Khi biểu thị độ phân giải màn hình, được ghi dưới dạng nhân số pixel theo chiều ngang và chiều dọc. Ví dụ biểu thị như \"1920×1080\". Ngoài ra, số pixel phổ biến rộng rãi cũng có tên gọi như bảng dưới.",
+      "en": "When expressing display resolution, written in format like multiplying horizontal and vertical pixel counts. For example, expressed as '1920×1080.' Also, widely used pixel counts have names as in table below.",
+      "terms": [
+        {
+          "kanji": "解像度",
+          "reading": "かいぞうど"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "横方向",
+          "reading": "よこほうこう"
+        },
+        {
+          "kanji": "縦方向",
+          "reading": "たてほうこう"
+        },
+        {
+          "kanji": "画素数",
+          "reading": "がそすう"
+        },
+        {
+          "kanji": "算",
+          "reading": "さん"
+        },
+        {
+          "kanji": "形式",
+          "reading": "けいしき"
+        },
+        {
+          "kanji": "表記",
+          "reading": "ひょうき"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "広",
+          "reading": "こう"
+        },
+        {
+          "kanji": "普及",
+          "reading": "ふきゅう"
+        },
+        {
+          "kanji": "下表",
+          "reading": "かひょう"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "名",
+          "reading": "めい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "ディスプレイの解像度",
+        "vi": "Độ phân giải màn hình",
+        "en": "Display Resolution"
+      },
+      "headers": {
+        "ja": [
+          "画素数の表記",
+          "呼び名"
+        ],
+        "vi": [
+          "Ký hiệu số pixel",
+          "Tên gọi"
+        ],
+        "en": [
+          "Pixel Count Notation",
+          "Name"
+        ]
+      },
+      "rows": [
+        {
+          "notation": "640×480",
+          "name": "VGA"
+        },
+        {
+          "notation": "800×600",
+          "name": "SVGA"
+        },
+        {
+          "notation": "1024×768",
+          "name": "XGA"
+        },
+        {
+          "notation": "1280×960",
+          "name": "QVGA"
+        },
+        {
+          "notation": "1280×1024",
+          "name": "SXGA"
+        },
+        {
+          "notation": "1366×768",
+          "name": "FWXGA"
+        },
+        {
+          "notation": "1600×1200",
+          "name": "UXGA"
+        },
+        {
+          "notation": "1920×1080",
+          "name": "FHD"
+        },
+        {
+          "notation": "3840×2160",
+          "name": "4K"
+        },
+        {
+          "notation": "7680×4320",
+          "name": "8K"
+        }
+      ],
+      "note": {
+        "ja": "← 画素数の表記にはそれぞれに呼び名がある（ただし、覚える必要はない！）",
+        "vi": "← Mỗi ký hiệu số pixel có tên gọi riêng (nhưng không cần nhớ!)",
+        "en": "← Each pixel notation has its name (but no need to memorize!)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ただし、ITパスポート試験において、上記の画素数や呼び名を覚える必要はありません。ITパスポート試験では、これらの呼び名が何を意味するのかが問われます。例えば「4K」が表すのは「ディスプレイ全体の縦横の画素数」（3840×2160）であって、「1インチあたりのドット数」や「総画素数」ではありません。この点を覚えておくことが大切です。",
+      "vi": "Tuy nhiên, trong kỳ thi IT Passport, không cần nhớ các số pixel và tên gọi trên. Trong kỳ thi IT Passport, được hỏi các tên gọi này có nghĩa gì. Ví dụ \"4K\" biểu thị \"số pixel ngang dọc của toàn bộ màn hình\" (3840×2160), không phải \"số chấm trên mỗi inch\" hay \"tổng số pixel\". Quan trọng là nhớ điểm này.",
+      "en": "However, in IT Passport exam, no need to memorize above pixel counts and names. In IT Passport exam, what these names mean is asked. For example '4K' represents 'horizontal and vertical pixel count of entire display' (3840×2160), not 'dots per inch' or 'total pixel count.' Important to remember this point.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "画素数",
+          "reading": "がそすう"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "名",
+          "reading": "めい"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "縦横",
+          "reading": "たてよこ"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "総画素数",
+          "reading": "そうがそすう"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ディスプレイの解像度を表す画素数や呼び名が何を意味するのかが問われる。",
+          "vi": "Được hỏi số pixel và tên gọi biểu thị độ phân giải màn hình có nghĩa gì.",
+          "en": "Asked what pixel counts and names representing display resolution mean."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ppm",
+      "full": "Pages Per Minute",
+      "vi": "Trang trên mỗi phút",
+      "en": "Pages Per Minute",
+      "my": "ပီပီအမ်"
+    },
+    {
+      "term": "画素数",
+      "reading": "がそすう",
+      "vi": "Số pixel",
+      "en": "Pixel Count",
+      "my": "ပစ်ဆဲ အရေအတွက်"
+    },
+    {
+      "term": "4K",
+      "vi": "4K",
+      "en": "4K",
+      "my": "ငဲ ကဲး"
+    },
+    {
+      "term": "8K",
+      "vi": "8K",
+      "en": "8K",
+      "my": "ရှစ် ကဲး"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "page_id": 215,
+  "image": "p_0215.png",
+  "chapter": 5,
+  "section": "05-05",
+  "page_number": 199,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "通常、ERPシステムやCRMシステムに蓄積されているデータは、データ量の肥大化や処理パフォーマンスの低下を防ぐために、不要になったデータから順次削除するなどして最適化しています。\n\n一方、データウェアハウスに蓄積されたデータは、基本的に更新したり、削除したりしません。なぜなら、古いデータから有益な情報が得られる可能性があるからです。データウェアハウスではあらゆるデータが時系列で格納されています。この点が、ERPシステムやCRMシステムに蓄積されているデータと、データウェアハウスに蓄積されているデータの最大の違いです。",
+      "vi": "Thông thường, dữ liệu tích lũy trong hệ thống ERP hoặc CRM được tối ưu hóa bằng cách xóa dần dữ liệu không cần thiết để tránh dữ liệu phình to hoặc giảm hiệu suất xử lý.\n\nMặt khác, dữ liệu tích lũy trong Data Warehouse về cơ bản không được cập nhật hoặc xóa. Vì có khả năng thu được thông tin hữu ích từ dữ liệu cũ. Data Warehouse lưu trữ tất cả dữ liệu theo thứ tự thời gian. Đây là sự khác biệt lớn nhất giữa dữ liệu trong hệ thống ERP/CRM và dữ liệu trong Data Warehouse.",
+      "en": "Normally, data in ERP and CRM systems is optimized by sequentially deleting unnecessary data to prevent data bloat and processing performance degradation.\n\nMeanwhile, data in Data Warehouse is basically neither updated nor deleted. Because valuable information may be obtained from old data. Data Warehouse stores all data chronologically. This is the biggest difference between data in ERP/CRM systems and Data Warehouse.",
+      "my": "ပုံမှန်အားဖြင့် ERP နှင့် CRM စနစ်များရှိ ဒေတာကို ဒေတာ ပုဂံ့ခြင်းနှင့် လုပ်ဆောင်မှု စွမ်းဆောင်ရည် ကျဆင်းခြင်းကို ကာကွယ်ရန် မလိုအပ်သော ဒေတာကို ဆက်တိုက် ဖျက်ပစ်ခြင်းဖြင့် optimize ပြုလုပ်သည်။",
+      "terms": [
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "蓄積",
+          "reading": "ちくせき"
+        },
+        {
+          "kanji": "量",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "肥大化",
+          "reading": "ひだいか"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "低下",
+          "reading": "ていか"
+        },
+        {
+          "kanji": "防",
+          "reading": "ぼう"
+        },
+        {
+          "kanji": "不要",
+          "reading": "ふよう"
+        },
+        {
+          "kanji": "順次削除",
+          "reading": "じゅんじさくじょ"
+        },
+        {
+          "kanji": "最適化",
+          "reading": "さいてきか"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "更新",
+          "reading": "こうしん"
+        },
+        {
+          "kanji": "削除",
+          "reading": "さくじょ"
+        },
+        {
+          "kanji": "古",
+          "reading": "ふる"
+        },
+        {
+          "kanji": "有益",
+          "reading": "ゆうえき"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "時系列",
+          "reading": "じけいれつ"
+        },
+        {
+          "kanji": "格納",
+          "reading": "かくのう"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "最大",
+          "reading": "さいだい"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ビッグデータとデータマイニング",
+      "vi": "Big Data và Data Mining",
+      "en": "Big Data and Data Mining"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ビッグデータとは、従来のデータベース管理システムでは取り扱いが困難なほど大きく、そして複雑なデータの集まりです。一般的にビッグデータには次の3つの特徴があります（3つの特徴の頭文字をとって、これらのことを「3V」といいます）。\n\n・データの量が大きい（Volume）\n・データの更新頻度が高い（Velocity）\n・データの種類が多様（Variety）。テキスト、静止画、動画、センサーからのデータ、決済データなど\n\nこのように、膨大で、更新頻度が高く、多様なデータを分析することで、従来の分析方法では見つけることのできなかったデータの傾向や関連性を見つけられるようになります。\n\nただし、その分析は容易ではなく、技術的にも、データの収集や保管、解析処理などにおいて、さまざまな課題が残っているのが現状です。",
+      "vi": "Big Data là tập hợp dữ liệu lớn và phức tạp đến mức khó xử lý bằng hệ thống quản lý database truyền thống. Big Data thường có 3 đặc điểm sau (lấy chữ cái đầu của 3 đặc điểm gọi là 3V):\n\n・Khối lượng dữ liệu lớn (Volume)\n・Tần suất cập nhật dữ liệu cao (Velocity)\n・Loại dữ liệu đa dạng (Variety). Văn bản, hình ảnh tĩnh, video, dữ liệu từ sensor, dữ liệu thanh toán...\n\nNhư vậy, bằng cách phân tích dữ liệu khổng lồ, tần suất cập nhật cao, đa dạng, có thể tìm ra xu hướng và mối liên hệ của dữ liệu mà phương pháp phân tích truyền thống không thể tìm được.\n\nTuy nhiên, phân tích đó không dễ dàng, và về mặt kỹ thuật, vẫn còn nhiều vấn đề trong thu thập, lưu trữ, xử lý phân tích dữ liệu.",
+      "en": "Big Data is a collection of data so large and complex that traditional database management systems can't handle it. Big Data typically has 3 characteristics (taking initials of these 3, called '3V'):\n\n・Volume - large data quantity\n・Velocity - high update frequency\n・Variety - diverse data types. Text, images, video, sensor data, payment data, etc.\n\nBy analyzing such massive, frequently updated, diverse data, trends and correlations that couldn't be found with traditional analysis methods can be discovered.\n\nHowever, such analysis isn't easy, and technically, various challenges remain in data collection, storage, and analysis processing.",
+      "my": "Big Data သည် ရိုးရာ database စီမံခန့်ခွဲမှုစနစ်များ ကိုင်တွယ်ရန် မလွယ်ကူသည့် အထိ ကြီးမားပြီး ရှုပ်ထွေးသော ဒေတာစုစည်းမှုဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "従来",
+          "reading": "じゅうらい"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "困難",
+          "reading": "こんなん"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "複雑",
+          "reading": "ふくざつ"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "一般的",
+          "reading": "いっぱんてき"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "頭文字",
+          "reading": "かしらもじ"
+        },
+        {
+          "kanji": "量",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "更新頻度",
+          "reading": "こうしんひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "多様",
+          "reading": "たよう"
+        },
+        {
+          "kanji": "静止画",
+          "reading": "せいしが"
+        },
+        {
+          "kanji": "動画",
+          "reading": "どうが"
+        },
+        {
+          "kanji": "決済",
+          "reading": "けっさい"
+        },
+        {
+          "kanji": "膨大",
+          "reading": "ぼうだい"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "分析方法",
+          "reading": "ぶんせきほうほう"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "傾向",
+          "reading": "けいこう"
+        },
+        {
+          "kanji": "関連性",
+          "reading": "かんれんせい"
+        },
+        {
+          "kanji": "容易",
+          "reading": "ようい"
+        },
+        {
+          "kanji": "技術的",
+          "reading": "ぎじゅつてき"
+        },
+        {
+          "kanji": "収集",
+          "reading": "しゅうしゅう"
+        },
+        {
+          "kanji": "保管",
+          "reading": "ほかん"
+        },
+        {
+          "kanji": "解析処理",
+          "reading": "かいせきしょり"
+        },
+        {
+          "kanji": "課題",
+          "reading": "かだい"
+        },
+        {
+          "kanji": "残",
+          "reading": "ざん"
+        },
+        {
+          "kanji": "現状",
+          "reading": "げんじょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ビッグデータ",
+      "reading": "びっぐでーた",
+      "romaji": "Big Data",
+      "vi": "Dữ liệu lớn",
+      "en": "Big Data",
+      "my": "ဒေတာကြီး"
+    },
+    {
+      "kanji": "3V",
+      "reading": "すりーぶい",
+      "romaji": "3V",
+      "vi": "3V (Volume, Velocity, Variety)",
+      "en": "3V (Volume, Velocity, Variety)",
+      "my": "3V (ပမာဏ၊ အလျင်၊ မျိုးစုံ)"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true
+  }
+}

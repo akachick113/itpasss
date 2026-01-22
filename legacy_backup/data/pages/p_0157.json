@@ -1,0 +1,410 @@
+{
+  "page_id": 157,
+  "image": "p_0157.png",
+  "chapter": 4,
+  "section": "04-02",
+  "page_number": 141,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "また、意図的でなくても、生成AIがウソをつくことがあります。これを示す現象として「ハルシネーション」があります。\n\nハルシネーション（Hallucination：幻覚）とは、生成AIが誤った情報をもっともらしい情報として生成する現象です。例えば、「ITパスポート試験の試験時間は？」というプロンプトを入力して、「100分です。」などのように誤った出力を生成することです（正しくは120分）。\n\nこのような現象は、モデルの学習データが不足していたり、学習データが誤っていたりすることによって引き起こされます。",
+      "vi": "Ngoài ra, ngay cả khi không cố ý, Generative AI cũng có thể nói dối. Hiện tượng thể hiện điều này là Hallucination.\n\nHallucination (ảo giác) là hiện tượng Generative AI tạo ra thông tin sai như thể là thông tin đáng tin. Ví dụ, nhập prompt Thời gian thi IT Passport? và tạo ra output sai như 100 phút (đúng là 120 phút).\n\nHiện tượng này xảy ra do dữ liệu học của model không đủ hoặc dữ liệu học bị sai.",
+      "en": "Also, even unintentionally, generative AI can tell lies. The phenomenon showing this is 'Hallucination'.\n\nHallucination means generative AI generates incorrect information as if it were plausible. For example, inputting prompt 'What's IT Passport exam time?' and generating wrong output like '100 minutes' (correct is 120 minutes).\n\nThis phenomenon is caused by insufficient or incorrect model training data.",
+      "my": "ထို့အပြင် ရည်ရွယ်ချက်မရှိဘဲပင် generative AI သည် လိမ်ညာနိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "意図的",
+          "reading": "いとてき"
+        },
+        {
+          "kanji": "生成",
+          "reading": "せいせい"
+        },
+        {
+          "kanji": "示",
+          "reading": "じ"
+        },
+        {
+          "kanji": "現象",
+          "reading": "げんしょう"
+        },
+        {
+          "kanji": "幻覚",
+          "reading": "げんかく"
+        },
+        {
+          "kanji": "誤",
+          "reading": "ご"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "試験時間",
+          "reading": "しけんじかん"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "不足",
+          "reading": "ふそく"
+        },
+        {
+          "kanji": "引",
+          "reading": "ひき"
+        },
+        {
+          "kanji": "起",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "基盤モデル",
+        "vi": "Foundation Model",
+        "en": "Foundation Model",
+        "my": "Foundation Model",
+        "terms": [
+          {
+            "kanji": "基盤モデル",
+            "reading": "きばんもでる"
+          },
+          {
+            "kanji": "モデル",
+            "reading": "もでる"
+          }
+        ]
+      },
+      "content": {
+        "ja": "生成AIは、「基盤モデル」と呼ばれることもあります。基盤モデルは、膨大なデータで訓練した汎用的なモデルを土台に作られます。すなわち、基盤モデルは、あらかじめ膨大なデータで学習を行い、微調整（ファインチューニング）するだけで文章生成AIや画像生成AIなど様々なAIに仕上がるようになっています。そのため、AIの応用性があり多目的に利用できます。これによって、一からAIを作るよりも効率よく開発ができます。ChatGPTもその一例です。",
+        "vi": "Generative AI đôi khi còn được gọi là Foundation Model. Foundation Model được xây dựng trên nền tảng model đa năng được huấn luyện với lượng dữ liệu khổng lồ. Tức là Foundation Model đã học trước với lượng dữ liệu khổng lồ và chỉ cần fine-tuning là có thể hoàn thành thành các AI khác nhau như AI tạo văn bản, AI tạo hình ảnh. Do đó, có tính ứng dụng AI và có thể sử dụng đa mục đích. Nhờ vậy, phát triển hiệu quả hơn so với tạo AI từ đầu. ChatGPT là một ví dụ.",
+        "en": "Generative AI is sometimes called Foundation Model. Foundation models are built on universal models trained with massive data. Foundation models are pre-trained with massive data and can become various AIs like text generation AI or image generation AI with just fine-tuning. Therefore, AI is applicable and multi-purpose. This enables more efficient development than building AI from scratch. ChatGPT is one example.",
+        "my": "Generative AI ကို တခါတရံ Foundation Model ဟု ခေါ်သည်။",
+        "terms": [
+          {
+            "kanji": "生成",
+            "reading": "せいせい"
+          },
+          {
+            "kanji": "基盤",
+            "reading": "きばん"
+          },
+          {
+            "kanji": "呼",
+            "reading": "こ"
+          },
+          {
+            "kanji": "膨大",
+            "reading": "ぼうだい"
+          },
+          {
+            "kanji": "訓練",
+            "reading": "くんれん"
+          },
+          {
+            "kanji": "汎用的",
+            "reading": "はんようてき"
+          },
+          {
+            "kanji": "土台",
+            "reading": "どだい"
+          },
+          {
+            "kanji": "作",
+            "reading": "さく"
+          },
+          {
+            "kanji": "学習",
+            "reading": "がくしゅう"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "微調整",
+            "reading": "びちょうせい"
+          },
+          {
+            "kanji": "文章生成",
+            "reading": "ぶんしょうせいせい"
+          },
+          {
+            "kanji": "画像生成",
+            "reading": "がぞうせいせい"
+          },
+          {
+            "kanji": "様",
+            "reading": "さま"
+          },
+          {
+            "kanji": "仕上",
+            "reading": "しあげ"
+          },
+          {
+            "kanji": "応用性",
+            "reading": "おうようせい"
+          },
+          {
+            "kanji": "多目的",
+            "reading": "たもくてき"
+          },
+          {
+            "kanji": "利用",
+            "reading": "りよう"
+          },
+          {
+            "kanji": "一",
+            "reading": "いち"
+          },
+          {
+            "kanji": "効率",
+            "reading": "こうりつ"
+          },
+          {
+            "kanji": "開発",
+            "reading": "かいはつ"
+          },
+          {
+            "kanji": "一例",
+            "reading": "いちれい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・生成AIは、テキスト、音声、静止画、動画などのオリジナルコンテンツを自動的に生成するAI\n・プロンプトエンジニアリングとは、生成AIに与える指示（プロンプト）を最適化すること\n・ディープフェイクは、本物と見分けがつかないような偽物の音声や動画などを作成する手法\n・ハルシネーションは、誤った情報をもっともらしい情報として生成する現象",
+        "vi": "・Generative AI là AI tự động tạo nội dung gốc như văn bản, giọng nói, ảnh tĩnh, video\n・Prompt Engineering là tối ưu hóa chỉ thị (prompt) cho Generative AI\n・Deepfake là phương pháp tạo giọng nói hoặc video giả không phân biệt được với thật\n・Hallucination là hiện tượng tạo thông tin sai như thông tin đáng tin",
+        "en": "・Generative AI automatically generates original content like text, audio, images, videos\n・Prompt Engineering optimizes instructions (prompts) given to generative AI\n・Deepfake creates fake audio or videos indistinguishable from real ones\n・Hallucination generates incorrect information as if plausible",
+        "my": "・ Generative AI သည် စာသား၊ အသံ၊ ရုပ်ပုံများ၊ ဗီဒီယိုများ ကဲ့သို့သော မူရင်းအကြောင်းအရာကို အလိုအလျောက် ဖန်တီးသည်",
+        "terms": [
+          {
+            "kanji": "生成",
+            "reading": "せいせい"
+          },
+          {
+            "kanji": "音声",
+            "reading": "おんせい"
+          },
+          {
+            "kanji": "静止画",
+            "reading": "せいしが"
+          },
+          {
+            "kanji": "動画",
+            "reading": "どうが"
+          },
+          {
+            "kanji": "自動的",
+            "reading": "じどうてき"
+          },
+          {
+            "kanji": "与",
+            "reading": "よ"
+          },
+          {
+            "kanji": "指示",
+            "reading": "しじ"
+          },
+          {
+            "kanji": "最適化",
+            "reading": "さいてきか"
+          },
+          {
+            "kanji": "本物",
+            "reading": "ほんもの"
+          },
+          {
+            "kanji": "見分",
+            "reading": "みわけ"
+          },
+          {
+            "kanji": "偽物",
+            "reading": "にせもの"
+          },
+          {
+            "kanji": "作成",
+            "reading": "さくせい"
+          },
+          {
+            "kanji": "手法",
+            "reading": "しゅほう"
+          },
+          {
+            "kanji": "誤",
+            "reading": "ご"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "現象",
+            "reading": "げんしょう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "人間中心のAI社会原則",
+      "reading": "にんげんちゅうしんのえーあいしゃかいげんそく",
+      "vi": "Nguyên tắc xã hội AI lấy con người làm trung tâm",
+      "en": "Human-Centered AI Social Principles",
+      "my": "လူသားဗဟိုပြု AI လူမှုရေးမူများ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ディープフェイクやハルシネーションのような事例からもわかるように、AIの利用は良いことばかりではありません。\n\nそこで、ITパスポート試験では、AIを利用する際の注意点が出題されます。政府がまとめたAIを利用する際のガイドラインを「人間中心のAI社会原則」といいます。\n\n人間中心のAI社会原則は、社会全体がAI（人工知能）を有効かつ安全に利用することを目的として、政府によってまとめられた文書です。次のこの文書には3つの基本理念が掲載されています。",
+      "vi": "Như có thể thấy từ các ví dụ như Deepfake hay Hallucination, việc sử dụng AI không phải lúc nào cũng tốt.\n\nDo đó, IT Passport sẽ ra đề về lưu ý khi sử dụng AI. Hướng dẫn sử dụng AI do chính phủ tổng hợp gọi là Nguyên tắc xã hội AI lấy con người làm trung tâm.\n\nNguyên tắc xã hội AI lấy con người làm trung tâm là tài liệu do chính phủ tổng hợp với mục đích toàn xã hội sử dụng AI hiệu quả và an toàn. Tài liệu này có 3 lý tưởng cơ bản.",
+      "en": "As seen from examples like deepfakes and hallucination, AI use isn't always good.\n\nTherefore, IT Passport tests precautions when using AI. Government guidelines for AI use are called 'Human-Centered AI Social Principles'.\n\nHuman-Centered AI Social Principles is a document compiled by the government for society to use AI effectively and safely. This document contains 3 basic principles.",
+      "my": "Deepfakes နှင့် hallucination ကဲ့သို့သော ဥပမာများမှ မြင်ရသည့်အတိုင်း AI အသုံးပြုခြင်းသည် အမြဲတမ်း ကောင်းမွန်သည်မဟုတ်ပါ။",
+      "terms": [
+        {
+          "kanji": "事例",
+          "reading": "じれい"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "注意点",
+          "reading": "ちゅういてん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "政府",
+          "reading": "せいふ"
+        },
+        {
+          "kanji": "人間中心",
+          "reading": "にんげんちゅうしん"
+        },
+        {
+          "kanji": "社会原則",
+          "reading": "しゃかいげんそく"
+        },
+        {
+          "kanji": "社会全体",
+          "reading": "しゃかいぜんたい"
+        },
+        {
+          "kanji": "人工知能",
+          "reading": "じんこうちのう"
+        },
+        {
+          "kanji": "有効",
+          "reading": "ゆうこう"
+        },
+        {
+          "kanji": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "基本理念",
+          "reading": "きほんりねん"
+        },
+        {
+          "kanji": "掲載",
+          "reading": "けいさい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ハルシネーション",
+      "reading": "はるしねーしょん",
+      "romaji": "Hallucination",
+      "vi": "Ảo giác",
+      "en": "Hallucination",
+      "my": "Hallucination"
+    },
+    {
+      "kanji": "基盤モデル",
+      "reading": "きばんもでる",
+      "romaji": "Kiban Model",
+      "vi": "Mô hình nền tảng",
+      "en": "Foundation Model",
+      "my": "Foundation Model"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

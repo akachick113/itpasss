@@ -1,0 +1,348 @@
+{
+  "page_id": 105,
+  "image": "p_0105.png",
+  "chapter": 2,
+  "section": "02-06",
+  "page_number": 89,
+  "content": [
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "もう少し詳しく！ IEC",
+        "vi": "Chi tiết hơn! IEC",
+        "en": "More Details! IEC",
+        "my": "အသေးစိတ် ပိုကြည့်ရန်! IEC",
+        "terms": [
+          {
+            "kanji": "EC",
+            "reading": "いーしー"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ここまでに解説したISOの規格のうち、ISO/IEC 27001の名前の中に「IEC」が含まれています。この「IEC」が付いている規格は、その規格が国際電気標準会議（International Electrotechnical Commission）と共同で策定されていることを意味しています。ただし、略称ではIECが付かないものもあるので注意してください。ITパスポート試験では、IECの有無を気にする必要はありません。",
+        "vi": "Trong các tiêu chuẩn ISO đã giải thích, ISO/IEC 27001 có chứa IEC trong tên. Tiêu chuẩn có IEC nghĩa là tiêu chuẩn đó được xây dựng chung với Ủy ban Kỹ thuật Điện Quốc tế (International Electrotechnical Commission). Tuy nhiên, lưu ý rằng một số tên viết tắt không có IEC. Trong IT Passport, không cần lo lắng về việc có IEC hay không.",
+        "en": "Among ISO standards explained, ISO/IEC 27001 contains IEC in its name. Standards with IEC mean they were jointly developed with International Electrotechnical Commission. However, note that some abbreviations don't include IEC. In IT Passport, you don't need to worry about IEC presence.",
+        "my": "ရှင်းပြခဲ့သော ISO စံနှုန်းများအနက် ISO/IEC 27001 တွင် IEC ပါဝင်သည်။",
+        "terms": [
+          {
+            "kanji": "解説",
+            "reading": "かいせつ"
+          },
+          {
+            "kanji": "規格",
+            "reading": "きかく"
+          },
+          {
+            "kanji": "名前",
+            "reading": "なまえ"
+          },
+          {
+            "kanji": "中",
+            "reading": "なか"
+          },
+          {
+            "kanji": "含",
+            "reading": "がん"
+          },
+          {
+            "kanji": "付",
+            "reading": "つき"
+          },
+          {
+            "kanji": "国際電気標準会議",
+            "reading": "こくさいでんきひょうじゅんかいぎ"
+          },
+          {
+            "kanji": "共同",
+            "reading": "きょうどう"
+          },
+          {
+            "kanji": "策定",
+            "reading": "さくてい"
+          },
+          {
+            "kanji": "意味",
+            "reading": "いみ"
+          },
+          {
+            "kanji": "略称",
+            "reading": "りゃくしょう"
+          },
+          {
+            "kanji": "注意",
+            "reading": "ちゅうい"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "有無",
+            "reading": "うむ"
+          },
+          {
+            "kanji": "気",
+            "reading": "き"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "標準の分類",
+      "reading": "ひょうじゅんのぶんるい",
+      "vi": "Phân loại tiêu chuẩn",
+      "en": "Standard Classification",
+      "my": "စံနှုန်း အမျိုးအစားခွဲခြားခြင်း"
+    },
+    {
+      "type": "paragraph",
+      "ja": "これまで見てきた標識、QRコード、品質のように、世の中にはたくさんの物事に対して「標準」が存在します。\n\n標準は、以下の3つに分類できます。",
+      "vi": "Như biển báo, QR Code, chất lượng đã thấy, có tiêu chuẩn cho nhiều thứ trên thế giới.\n\nTiêu chuẩn có thể phân thành 3 loại sau:",
+      "en": "As we've seen with signs, QR codes, and quality, standards exist for many things in the world.\n\nStandards can be classified into 3 types:",
+      "my": "ဆိုင်းဘုတ်များ၊ QR codes နှင့် အရည်အသွေးများတွင် တွေ့ခဲ့သည့်အတိုင်း ကမ္ဘာပေါ်ရှိ အရာများစွာအတွက် စံနှုန်းများ ရှိသည်။",
+      "terms": [
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "標識",
+          "reading": "ひょうしき"
+        },
+        {
+          "kanji": "品質",
+          "reading": "ひんしつ"
+        },
+        {
+          "kanji": "世",
+          "reading": "よ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "物事",
+          "reading": "ものごと"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "標準",
+          "reading": "ひょうじゅん"
+        },
+        {
+          "kanji": "存在",
+          "reading": "そんざい"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "標準の種類",
+        "vi": "Loại tiêu chuẩn",
+        "en": "Types of Standards"
+      },
+      "headers": {
+        "ja": [
+          "種類",
+          "説明"
+        ],
+        "vi": [
+          "Loại",
+          "Giải thích"
+        ],
+        "en": [
+          "Type",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "デジュレスタンダード（de jure standard）",
+            "公的機関が法的に定めた標準。例えばISO 9000など。de jure はラテン語で「法的に」という意味。"
+          ],
+          "vi": [
+            "De jure standard (Tiêu chuẩn pháp lý)",
+            "Tiêu chuẩn được cơ quan công quyền quy định pháp lý. Ví dụ ISO 9000. De jure là tiếng Latin nghĩa là theo pháp luật."
+          ],
+          "en": [
+            "De jure standard",
+            "Standards legally established by public bodies. Example: ISO 9000. De jure is Latin for by law."
+          ]
+        },
+        {
+          "ja": [
+            "フォーラム標準（forum standard）",
+            "特定の業界団体（フォーラム）が定めた標準。例えばBluetoothなど。"
+          ],
+          "vi": [
+            "Forum standard (Tiêu chuẩn diễn đàn)",
+            "Tiêu chuẩn do tổ chức ngành cụ thể (forum) quy định. Ví dụ Bluetooth."
+          ],
+          "en": [
+            "Forum standard",
+            "Standards set by specific industry groups (forums). Example: Bluetooth."
+          ]
+        },
+        {
+          "ja": [
+            "デファクトスタンダード（de facto standard）",
+            "特定の企業が開発した様式が、市場で広く受け入れられることによって事実上の標準となったもの。例えばMicrosoftのExcelなど。de factoはラテン語で「事実上の」という意味。"
+          ],
+          "vi": [
+            "De facto standard (Tiêu chuẩn thực tế)",
+            "Định dạng do doanh nghiệp cụ thể phát triển được thị trường chấp nhận rộng rãi trở thành tiêu chuẩn thực tế. Ví dụ Microsoft Excel. De facto là tiếng Latin nghĩa là trên thực tế."
+          ],
+          "en": [
+            "De facto standard",
+            "Formats developed by specific companies that became practical standards through wide market acceptance. Example: Microsoft Excel. De facto is Latin for in fact."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、上記の3つの分類の違いが問われます。それぞれのキーワードは、デジュレスタンダードが「公的機関」、フォーラム標準が「業界団体」、デファクトスタンダードは「事実上の」です。",
+      "vi": "Trong IT Passport, sẽ hỏi sự khác biệt của 3 phân loại trên. Từ khóa của mỗi loại: De jure standard là cơ quan công quyền, Forum standard là tổ chức ngành, De facto standard là trên thực tế.",
+      "en": "IT Passport tests the differences between these 3 classifications. Keywords for each: De jure standard is public bodies, Forum standard is industry groups, De facto standard is in fact.",
+      "my": "IT Passport သည် ဤ အမျိုးအစားခွဲခြားမှု ၃ ခု ကြားက ကွာခြားချက်များကို စမ်းသပ်သည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "公的機関",
+          "reading": "こうてききかん"
+        },
+        {
+          "kanji": "標準",
+          "reading": "ひょうじゅん"
+        },
+        {
+          "kanji": "業界団体",
+          "reading": "ぎょうかいだんたい"
+        },
+        {
+          "kanji": "事実上",
+          "reading": "じじつじょう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・デジュレスタンダードは、公的機関が法的に定めた標準\n・フォーラム標準は、業界団体が定めた標準\n・デファクトスタンダードは、事実上の標準",
+        "vi": "・De jure standard là tiêu chuẩn được cơ quan công quyền quy định pháp lý\n・Forum standard là tiêu chuẩn do tổ chức ngành quy định\n・De facto standard là tiêu chuẩn thực tế",
+        "en": "・De jure standard: legally established by public bodies\n・Forum standard: set by industry groups\n・De facto standard: practical standard",
+        "my": "・ De jure standard: အများပြည်သူ အဖွဲ့အစည်းများက တရားဝင် သတ်မှတ်\n・ Forum standard: လုပ်ငန်းအဖွဲ့များက သတ်မှတ်\n・ De facto standard: လက်တွေ့ စံနှုန်း",
+        "terms": [
+          {
+            "kanji": "公的機関",
+            "reading": "こうてききかん"
+          },
+          {
+            "kanji": "法的",
+            "reading": "ほうてき"
+          },
+          {
+            "kanji": "定",
+            "reading": "てい"
+          },
+          {
+            "kanji": "標準",
+            "reading": "ひょうじゅん"
+          },
+          {
+            "kanji": "業界団体",
+            "reading": "ぎょうかいだんたい"
+          },
+          {
+            "kanji": "事実上",
+            "reading": "じじつじょう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "デジュレスタンダード",
+      "reading": "でじゅれすたんだーど",
+      "romaji": "De jure standard",
+      "vi": "Tiêu chuẩn pháp lý",
+      "en": "De jure standard",
+      "my": "De jure standard"
+    },
+    {
+      "kanji": "フォーラム標準",
+      "reading": "ふぉーらむひょうじゅん",
+      "romaji": "Forum Hyoujun",
+      "vi": "Tiêu chuẩn diễn đàn",
+      "en": "Forum standard",
+      "my": "Forum standard"
+    },
+    {
+      "kanji": "デファクトスタンダード",
+      "reading": "でふぁくとすたんだーど",
+      "romaji": "De facto standard",
+      "vi": "Tiêu chuẩn thực tế",
+      "en": "De facto standard",
+      "my": "De facto standard"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

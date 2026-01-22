@@ -1,0 +1,306 @@
+{
+  "page_id": 176,
+  "image": "p_0176.png",
+  "chapter": 4,
+  "section": "04-05",
+  "page_number": 160,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ロングテール",
+      "reading": "ろんぐてーる",
+      "vi": "Long Tail",
+      "en": "Long Tail",
+      "my": "Long Tail"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ロングテールとは「たまにしか売れない商品でも、その種類が多くなると、大きな売上になる」という法則です。\n\n一般的な店舗には「お店の面積」という物理的な制約があるため、陳列できる（販売できる）商品の数に上限があります。一方、ECでは店舗に商品を陳列する必要がないため、実店舗よりも多くの商品を取り扱うことが可能となり、その結果、売れ筋商品だけでなく、あまり売れない商品も取り扱えるようになります。\n\nあまり売れない商品であっても、そのアイテム数が膨大になると大きな売上になります。このような法則、または販売手法のことをロングテールといいます。",
+      "vi": "Long Tail là quy luật sản phẩm ít khi bán được nhưng nếu có nhiều loại thì trở thành doanh số lớn.\n\nCửa hàng thông thường có hạn chế vật lý về diện tích nên số sản phẩm có thể trưng bày (bán) có giới hạn. Mặt khác, EC không cần trưng bày sản phẩm tại cửa hàng nên có thể xử lý nhiều sản phẩm hơn cửa hàng thực, kết quả là có thể xử lý cả sản phẩm ít bán chứ không chỉ sản phẩm bán chạy.\n\nNgay cả sản phẩm ít bán nhưng nếu số lượng chủng loại khổng lồ thì trở thành doanh số lớn. Quy luật hoặc phương pháp bán hàng như vậy gọi là Long Tail.",
+      "en": "Long Tail is the principle that 'products that rarely sell, when there are many types, become large sales'.\n\nRegular stores have physical constraints of 'store area' limiting displayable (sellable) products. However, EC doesn't need to display products in stores, so it can handle more products than physical stores, and can handle not just bestsellers but also slow-selling products.\n\nEven slow-selling products, when the number of items becomes huge, create large sales. This principle or sales method is called Long Tail.",
+      "my": "Long Tail သည် 'ရှားရှားပါးပါး ရောင်းရသော ထုတ်ကုန်များ အမျိုးအစားများများဖြစ်လာသောအခါ ရောင်းအားကြီးကြီး ဖြစ်လာသည်' ဟူသော နိယာမဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "売",
+          "reading": "う"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "売上",
+          "reading": "うりあげ"
+        },
+        {
+          "kanji": "法則",
+          "reading": "ほうそく"
+        },
+        {
+          "kanji": "一般的",
+          "reading": "いっぱんてき"
+        },
+        {
+          "kanji": "店舗",
+          "reading": "てんぽ"
+        },
+        {
+          "kanji": "店",
+          "reading": "みせ"
+        },
+        {
+          "kanji": "面積",
+          "reading": "めんせき"
+        },
+        {
+          "kanji": "物理的",
+          "reading": "ぶつりてき"
+        },
+        {
+          "kanji": "制約",
+          "reading": "せいやく"
+        },
+        {
+          "kanji": "陳列",
+          "reading": "ちんれつ"
+        },
+        {
+          "kanji": "販売",
+          "reading": "はんばい"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "上限",
+          "reading": "じょうげん"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "実店舗",
+          "reading": "みてんぽ"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "筋商品",
+          "reading": "すじしょうひん"
+        },
+        {
+          "kanji": "膨大",
+          "reading": "ぼうだい"
+        },
+        {
+          "kanji": "販売手法",
+          "reading": "はんばいしゅほう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "従来の実店舗による販売方法では「パレートの法則」（売上の80%は上位20%の商品から生まれるという法則）に従う傾向がありました。一方、ECの世界では「ロングテール」に従う傾向があります。Amazon社はロングテールを体現している会社の代表例です。膨大な量の商品を取り扱うことで、全体の売上を拡大しています。",
+      "vi": "Phương pháp bán hàng tại cửa hàng thực truyền thống có xu hướng tuân theo Pareto's Law (quy luật 80% doanh số đến từ 20% sản phẩm hàng đầu). Mặt khác, thế giới EC có xu hướng tuân theo Long Tail. Amazon là ví dụ điển hình của công ty thể hiện Long Tail. Bằng cách xử lý lượng sản phẩm khổng lồ, họ mở rộng tổng doanh số.",
+      "en": "Traditional physical store sales methods tended to follow 'Pareto's Law' (80% of sales come from top 20% of products). However, the EC world tends to follow 'Long Tail'. Amazon is a prime example of a company embodying Long Tail. By handling huge amounts of products, they expand overall sales.",
+      "my": "ရိုးရာ ရုပ်ပိုင်းဆိုင်ရာ စတိုးဆိုင် ရောင်းချနည်းများသည် Pareto ဥပဒေကို လိုက်နာတတ်သည်။",
+      "terms": [
+        {
+          "kanji": "従来",
+          "reading": "じゅうらい"
+        },
+        {
+          "kanji": "実店舗",
+          "reading": "みてんぽ"
+        },
+        {
+          "kanji": "販売方法",
+          "reading": "はんばいほうほう"
+        },
+        {
+          "kanji": "法則",
+          "reading": "ほうそく"
+        },
+        {
+          "kanji": "売上",
+          "reading": "うりあげ"
+        },
+        {
+          "kanji": "上位",
+          "reading": "じょうい"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "従",
+          "reading": "じゅう"
+        },
+        {
+          "kanji": "傾向",
+          "reading": "けいこう"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "世界",
+          "reading": "せかい"
+        },
+        {
+          "kanji": "社",
+          "reading": "しゃ"
+        },
+        {
+          "kanji": "体現",
+          "reading": "たいげん"
+        },
+        {
+          "kanji": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "kanji": "代表例",
+          "reading": "だいひょうれい"
+        },
+        {
+          "kanji": "膨大",
+          "reading": "ぼうだい"
+        },
+        {
+          "kanji": "量",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "拡大",
+          "reading": "かくだい"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "ロングテールとパレートの法則",
+        "vi": "Long Tail và Pareto's Law",
+        "en": "Long Tail and Pareto's Law",
+        "my": "Long Tail နှင့် Pareto ဥပဒေ",
+        "terms": [
+          {
+            "kanji": "パレートの法則",
+            "reading": "ぱれーとのほうそく"
+          },
+          {
+            "kanji": "ロングテール",
+            "reading": "ろんぐてーる"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ロングテールとパレートの法則、およびパレート図（p.29）、そしてABC分析（p.29）は関連性が高いのでセットで覚えることをおすすめします。",
+        "vi": "Long Tail và Pareto's Law, và biểu đồ Pareto (trang 29), cũng như ABC Analysis (trang 29) có liên quan cao nên khuyên nhớ theo bộ.",
+        "en": "Long Tail and Pareto's Law, plus Pareto Chart (p.29) and ABC Analysis (p.29) are highly related, so it's recommended to remember them as a set.",
+        "my": "Long Tail နှင့် Pareto ဥပဒေ၊ ထို့အပြင် Pareto Chart (p.29) နှင့် ABC Analysis (p.29) သည် အလွန်ဆက်စပ်နေသောကြောင့် အတူတကွ မှတ်သားရန် အကြံပြုသည်။",
+        "terms": [
+          {
+            "kanji": "法則",
+            "reading": "ほうそく"
+          },
+          {
+            "kanji": "図",
+            "reading": "ず"
+          },
+          {
+            "kanji": "分析",
+            "reading": "ぶんせき"
+          },
+          {
+            "kanji": "関連性",
+            "reading": "かんれんせい"
+          },
+          {
+            "kanji": "高",
+            "reading": "たか"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ロングテール",
+      "reading": "ろんぐてーる",
+      "romaji": "Long Tail",
+      "vi": "Đuôi dài",
+      "en": "Long Tail",
+      "my": "Long Tail"
+    },
+    {
+      "kanji": "パレートの法則",
+      "reading": "ぱれーとのほうそく",
+      "romaji": "Pareto no Housoku",
+      "vi": "Quy luật Pareto",
+      "en": "Pareto's Law",
+      "my": "Pareto ဥပဒေ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_learn_more": true
+  }
+}

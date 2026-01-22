@@ -1,0 +1,272 @@
+{
+  "page_id": 444,
+  "image": "p_0444.png",
+  "chapter": 12,
+  "section": "12-02",
+  "page_number": 428,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "先述したように、コンピュータは「0」と「1」の2つの数値しか扱うことができません（p.317）。このため、コンピュータに保存されているあらゆるデータは、突き詰めれば「0」と「1」の羅列になります。しかし、このような無機質な数値を人間が解読するのは不可能です。2進数の羅列を見て、それが画像なのか、音楽なのかを判別できる人はいないでしょう。",
+      "vi": "Như đã nêu trước đó, máy tính chỉ có thể xử lý 2 số \"0\" và \"1\" (trang 317). Vì vậy, tất cả dữ liệu được lưu trong máy tính, khi phân tích kỹ, sẽ trở thành chuỗi \"0\" và \"1\". Tuy nhiên, con người không thể giải mã các số vô cơ như vậy. Không ai có thể nhìn chuỗi nhị phân và phân biệt đó là hình ảnh hay nhạc.",
+      "en": "As stated earlier, computers can only handle 2 numbers '0' and '1' (p.317). Therefore, all data stored in computer, when analyzed, becomes sequence of '0' and '1.' However, humans cannot decode such inorganic numbers. No one can look at binary sequence and distinguish if it's image or music.",
+      "terms": [
+        {
+          "kanji": "先述",
+          "reading": "せんじゅつ"
+        },
+        {
+          "kanji": "数値",
+          "reading": "すうち"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "突",
+          "reading": "とつ"
+        },
+        {
+          "kanji": "詰",
+          "reading": "つめ"
+        },
+        {
+          "kanji": "羅列",
+          "reading": "られつ"
+        },
+        {
+          "kanji": "無機質",
+          "reading": "むきしつ"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "解読",
+          "reading": "かいどく"
+        },
+        {
+          "kanji": "不可能",
+          "reading": "ふかのう"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "画像",
+          "reading": "がぞう"
+        },
+        {
+          "kanji": "音楽",
+          "reading": "おんがく"
+        },
+        {
+          "kanji": "判別",
+          "reading": "はんべつ"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "そこで、ファイルシステムの登場です。ファイルシステムが、2進数の羅列であるデータを「ファイル」として視覚化し、人間に扱いやすい形に変換します。",
+      "vi": "Vì vậy, hệ thống tệp xuất hiện. Hệ thống tệp trực quan hóa dữ liệu là chuỗi nhị phân thành \"tệp\" và chuyển đổi thành dạng dễ xử lý cho con người.",
+      "en": "So file system appears. File system visualizes data which is binary sequence as 'file' and converts to form easy for humans to handle.",
+      "terms": [
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "羅列",
+          "reading": "られつ"
+        },
+        {
+          "kanji": "視覚化",
+          "reading": "しかくか"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "形",
+          "reading": "かたち"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ファイルシステムの役割",
+        "vi": "Vai trò của hệ thống tệp",
+        "en": "Role of File System"
+      },
+      "description": {
+        "ja": "あらゆるデータは「0」と「1」の羅列でできている → ファイルシステムが視覚化 → ひまわり.jpg（画像ファイル）として表示",
+        "vi": "Tất cả dữ liệu được tạo từ chuỗi \"0\" và \"1\" → Hệ thống tệp trực quan hóa → Hiển thị như himawari.jpg (tệp hình ảnh)",
+        "en": "All data made of '0' and '1' sequence → File system visualizes → Displayed as himawari.jpg (image file)"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ファイルとディレクトリ",
+      "vi": "Tệp và Thư mục",
+      "en": "Files and Directories"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ファイルとは、記憶装置に記録された情報の集まりであり、ファイルシステムの管理単位の1つです。ファイルには「書類」という意味があります。",
+      "vi": "Tệp là tập hợp thông tin được ghi trong thiết bị lưu trữ, là một trong các đơn vị quản lý của hệ thống tệp. Tệp có nghĩa \"tài liệu\".",
+      "en": "File is collection of information recorded on storage device, one of file system management units. File means 'document.'",
+      "terms": [
+        {
+          "kanji": "記憶装置",
+          "reading": "きおくそうち"
+        },
+        {
+          "kanji": "記録",
+          "reading": "きろく"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "管理単位",
+          "reading": "かんりたんい"
+        },
+        {
+          "kanji": "書類",
+          "reading": "しょるい"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ディレクトリとは、ファイルを格納する場所です。ディレクトリを活用することで、無数に存在するファイルを、種類ごとに分類して格納することが可能になります。例えば、音楽ファイルは音楽ディレクトリに、画像ファイルは画像ディレクトリに、人間がわかりやすい形でファイルを格納できます。",
+      "vi": "Thư mục là nơi lưu trữ tệp. Bằng cách sử dụng thư mục, có thể phân loại và lưu trữ vô số tệp theo từng loại. Ví dụ, tệp nhạc trong thư mục nhạc, tệp hình ảnh trong thư mục hình ảnh, có thể lưu trữ tệp theo cách dễ hiểu cho con người.",
+      "en": "Directory is place to store files. By using directories, can classify and store countless files by type. For example, music files in music directory, image files in image directory, can store files in way easy for humans to understand.",
+      "terms": [
+        {
+          "kanji": "格納",
+          "reading": "かくのう"
+        },
+        {
+          "kanji": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "kanji": "活用",
+          "reading": "かつよう"
+        },
+        {
+          "kanji": "無数",
+          "reading": "むすう"
+        },
+        {
+          "kanji": "存在",
+          "reading": "そんざい"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "音楽",
+          "reading": "おんがく"
+        },
+        {
+          "kanji": "画像",
+          "reading": "がぞう"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "形",
+          "reading": "かたち"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ファイルとディレクトリの概念図",
+        "vi": "Sơ đồ khái niệm tệp và thư mục",
+        "en": "File and Directory Concept Diagram"
+      },
+      "description": {
+        "ja": "ファイル（画像、文書、音声など）→ ディレクトリ（フォルダアイコン）に格納。ディレクトリはファイルを格納する場所",
+        "vi": "Tệp (hình ảnh, tài liệu, âm thanh, v.v.) → Lưu trữ trong thư mục (biểu tượng thư mục). Thư mục là nơi lưu trữ tệp",
+        "en": "Files (image, document, audio, etc.) → Stored in directory (folder icon). Directory is place to store files"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ファイル",
+      "vi": "Tệp",
+      "en": "File",
+      "my": "ဖိုင်"
+    },
+    {
+      "term": "ディレクトリ",
+      "vi": "Thư mục",
+      "en": "Directory",
+      "my": "ဒိုင်ရက်ထရီ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

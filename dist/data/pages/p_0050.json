@@ -1,0 +1,351 @@
+{
+  "page_id": 50,
+  "image": "p_0050.png",
+  "chapter": 1,
+  "section": "01-07",
+  "page_number": 34,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "01-07",
+      "ja": "損益分岐点",
+      "reading": "そんえきぶんきてん",
+      "vi": "Điểm hòa vốn",
+      "en": "Break-even Point",
+      "my": "Break-even Point"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "利益を出すことが最大の目的",
+        "vi": "Mục đích lớn nhất là tạo ra lợi nhuận",
+        "en": "The biggest purpose is to generate profit",
+        "my": "အကြီးမားဆုံး ရည်ရွယ်ချက်မှာ အမြတ်ရရန်ဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "目的",
+            "reading": "もくてき"
+          },
+          {
+            "kanji": "利益",
+            "reading": "りえき"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ここからは4大経営資源の1つである「カネ」について学習します（残り3つは、ヒト、モノ、情報）。企業の最大の目的は、何といっても「お金儲け」です。",
+        "vi": "Từ đây chúng ta sẽ học về \"Tiền\" - một trong 4 nguồn lực kinh doanh lớn (3 nguồn còn lại là Người, Vật, Thông tin). Mục đích lớn nhất của doanh nghiệp chính là \"kiếm tiền\".",
+        "en": "From here, we'll learn about \"Money\" - one of the 4 major management resources (the other 3 are People, Things, Information). The biggest purpose of a company is, above all, \"making money.\"",
+        "my": "ဒီကနေ ကျွန်ုပ်တို့ \"ငွေ\" - စီမံခန့်ခွဲမှု အရင်းအမြစ်ကြီး ၄ ခုထဲမှ တစ်ခုအကြောင်း လေ့လာပါမည် (ကျန် ၃ ခုမှာ လူ၊ ပစ္စည်း၊ သတင်းအချက်အလက်)။",
+        "terms": [
+          {
+            "kanji": "大経営資源",
+            "reading": "だいけいえいしげん"
+          },
+          {
+            "kanji": "学習",
+            "reading": "がくしゅう"
+          },
+          {
+            "kanji": "残",
+            "reading": "ざん"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "最大",
+            "reading": "さいだい"
+          },
+          {
+            "kanji": "目的",
+            "reading": "もくてき"
+          },
+          {
+            "kanji": "何",
+            "reading": "なに"
+          },
+          {
+            "kanji": "金儲",
+            "reading": "きんちょ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では「損益分岐点」に関する問題が必ずといっていいほど出題されるので、習得しておけばかなりの確率で得点することが可能です。\n\nしかし、損益分岐点に関する問題には大きな難点があります。それは、この問題が計算問題として出題されるという点にあります。\n\nITパスポート試験に出題される問題は、大きく「用語の意味を問う問題」と「計算問題」の2つに大別されます。そして残念ながら、損益分岐点に関する問題は計算問題として出題されます。\n\nこのため、「とにかく計算が苦手！」という人は、本項はいったん後回しにして、先に進むというのも、効率よく学習を進めるための1つの手段だと思います。",
+      "vi": "Trong kỳ thi IT Passport, câu hỏi về \"điểm hòa vốn\" gần như chắc chắn sẽ được ra đề, vì vậy nếu nắm vững có thể ghi điểm với xác suất cao.\n\nTuy nhiên, câu hỏi về điểm hòa vốn có một khó khăn lớn. Đó là vấn đề này được ra dưới dạng bài toán tính toán.\n\nCác câu hỏi trong IT Passport được chia thành 2 loại lớn: \"câu hỏi về ý nghĩa thuật ngữ\" và \"bài toán tính toán\". Và đáng tiếc, câu hỏi về điểm hòa vốn được ra dưới dạng bài toán tính toán.\n\nDo đó, nếu bạn \"rất ghét tính toán\", có thể tạm hoãn phần này và tiến lên trước, đây cũng là một cách học hiệu quả.",
+      "en": "In the IT Passport exam, questions about \"break-even point\" are almost always asked, so mastering this can help you score with high probability.\n\nHowever, break-even point questions have a major difficulty: they are calculation problems.\n\nIT Passport exam questions are broadly divided into \"terminology meaning questions\" and \"calculation problems.\" Unfortunately, break-even point questions are calculation problems.\n\nTherefore, if you \"really hate calculations,\" skipping this section for now and moving ahead is also an efficient way to study.",
+      "my": "IT Passport စာမေးပွဲတွင် \"break-even point\" အကြောင်း မေးခွန်းများ မကြာခဏ မေးလေ့ရှိသည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "損益分岐点",
+          "reading": "そんえきぶんきてん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "習得",
+          "reading": "しゅうとく"
+        },
+        {
+          "kanji": "確率",
+          "reading": "かくりつ"
+        },
+        {
+          "kanji": "得点",
+          "reading": "とくてん"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "難点",
+          "reading": "なんてん"
+        },
+        {
+          "kanji": "計算問題",
+          "reading": "けいさんもんだい"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "大別",
+          "reading": "たいべつ"
+        },
+        {
+          "kanji": "残念",
+          "reading": "ざんねん"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "苦手",
+          "reading": "にがて"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "後回",
+          "reading": "こうかい"
+        },
+        {
+          "kanji": "先",
+          "reading": "さき"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "効率",
+          "reading": "こうりつ"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "手段",
+          "reading": "しゅだん"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "計算が苦手な人は後回しにしても良い！",
+        "vi": "Người ghét tính toán có thể hoãn lại!",
+        "en": "Those who dislike calculations can postpone this!",
+        "my": "တွက်ချက်မှုကို မကြိုက်သူများ ဒါကို ရွှေ့ဆိုင်းနိုင်သည်!"
+      },
+      "content": {
+        "ja": "ITパスポート試験では、さまざまなジャンルから、いろいろな形式の問題が出題されます。そして、満点を取らなくても合格できます（p.3）。そのため、第1章から順番に読み進めて、すべてを理解していく必要はありません。「あ、この章の内容は苦手だな」と感じたら、とりあえず、斜め読みしつつ次の章へ歩みを進めることが大切です。そのほうが、途中で断念することよりもずっと良い判断です。",
+        "vi": "Trong IT Passport, các câu hỏi từ nhiều thể loại với nhiều hình thức khác nhau được ra đề. Và bạn có thể đậu mà không cần điểm tuyệt đối (trang 3). Do đó, không cần đọc tuần tự từ Chương 1 và hiểu tất cả. Nếu cảm thấy \"À, nội dung chương này mình không giỏi\", hãy đọc lướt rồi tiến sang chương tiếp theo. Điều này tốt hơn là bỏ cuộc giữa chừng.",
+        "en": "The IT Passport exam has various types of questions from various genres. And you can pass without a perfect score (p.3). Therefore, you don't need to read sequentially from Chapter 1 and understand everything. If you feel \"Ah, this chapter's content is not my strength,\" just skim through and move to the next chapter. This is better than giving up midway.",
+        "my": "IT Passport စာမေးပွဲတွင် အမျိုးအစားအမျိုးမျိုးမှ ပုံစံအမျိုးမျိုးသော မေးခွန်းများ ရှိသည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "形式",
+            "reading": "けいしき"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "満点",
+            "reading": "まんてん"
+          },
+          {
+            "kanji": "取",
+            "reading": "と"
+          },
+          {
+            "kanji": "合格",
+            "reading": "ごうかく"
+          },
+          {
+            "kanji": "第",
+            "reading": "だい"
+          },
+          {
+            "kanji": "章",
+            "reading": "しょう"
+          },
+          {
+            "kanji": "順番",
+            "reading": "じゅんばん"
+          },
+          {
+            "kanji": "読",
+            "reading": "よ"
+          },
+          {
+            "kanji": "進",
+            "reading": "すすむ"
+          },
+          {
+            "kanji": "理解",
+            "reading": "りかい"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          },
+          {
+            "kanji": "内容",
+            "reading": "ないよう"
+          },
+          {
+            "kanji": "苦手",
+            "reading": "にがて"
+          },
+          {
+            "kanji": "感",
+            "reading": "かん"
+          },
+          {
+            "kanji": "斜",
+            "reading": "しゃ"
+          },
+          {
+            "kanji": "次",
+            "reading": "つぎ"
+          },
+          {
+            "kanji": "歩",
+            "reading": "ある"
+          },
+          {
+            "kanji": "大切",
+            "reading": "たいせつ"
+          },
+          {
+            "kanji": "途中",
+            "reading": "とちゅう"
+          },
+          {
+            "kanji": "断念",
+            "reading": "だんねん"
+          },
+          {
+            "kanji": "良",
+            "reading": "りょう"
+          },
+          {
+            "kanji": "判断",
+            "reading": "はんだん"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "損益分岐点",
+      "reading": "そんえきぶんきてん",
+      "romaji": "Soneki Bunkiten",
+      "vi": "Điểm hòa vốn",
+      "en": "Break-even Point",
+      "my": "Break-even Point"
+    },
+    {
+      "kanji": "計算問題",
+      "reading": "けいさんもんだい",
+      "romaji": "Keisan Mondai",
+      "vi": "Bài toán tính toán",
+      "en": "Calculation Problem",
+      "my": "တွက်ချက်မှုပြဿနာ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": false,
+    "has_learn_more": true
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "page_id": 246,
+  "image": "p_0246.png",
+  "chapter": 6,
+  "section": "06-02",
+  "page_number": 230,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "システム要件定義とは、システムに必要な機能や性能を決める工程である",
+          "vi": "Định nghĩa yêu cầu hệ thống là công đoạn quyết định chức năng và hiệu suất cần thiết cho hệ thống",
+          "en": "System Requirements Definition is the phase to decide necessary functions and performance for the system"
+        },
+        {
+          "ja": "システム要件とは、業務要件のうち、システムで実現する役割のこと",
+          "vi": "Yêu cầu hệ thống là vai trò thực hiện bằng hệ thống trong yêu cầu nghiệp vụ",
+          "en": "System requirements are roles to be realized by the system among business requirements"
+        },
+        {
+          "ja": "システム要件には、機能要件と非機能要件の2種類がある",
+          "vi": "Yêu cầu hệ thống có 2 loại: yêu cầu chức năng và yêu cầu phi chức năng",
+          "en": "System requirements have 2 types: functional requirements and non-functional requirements"
+        },
+        {
+          "ja": "機能要件とは、ユーザーも把握している、システムに必要な機能",
+          "vi": "Yêu cầu chức năng là chức năng cần thiết cho hệ thống mà người dùng cũng nắm được",
+          "en": "Functional requirements are functions necessary for the system that users also understand"
+        },
+        {
+          "ja": "非機能要件とは、ユーザーは把握しきれていない、システムに必要な性能",
+          "vi": "Yêu cầu phi chức năng là hiệu suất cần thiết cho hệ thống mà người dùng không nắm hết",
+          "en": "Non-functional requirements are performance necessary for the system that users don't fully understand"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "品質特性",
+      "reading": "ひんしつとくせい",
+      "vi": "Đặc tính chất lượng",
+      "en": "Quality Characteristics"
+    },
+    {
+      "type": "paragraph",
+      "ja": "品質特性とは、ソフトウェアの品質を評価する基準です。家に耐震性能や防火性能といった客観的な品質基準があるのと同様に、ソフトウェアにもその品質を客観的に評価するための基準があります。それが品質特性です。",
+      "vi": "Đặc tính chất lượng là tiêu chuẩn đánh giá chất lượng phần mềm. Giống như nhà có tiêu chuẩn chất lượng khách quan như tính chống động đất và chống cháy, phần mềm cũng có tiêu chuẩn để đánh giá chất lượng khách quan. Đó là đặc tính chất lượng.",
+      "en": "Quality characteristics are standards for evaluating software quality. Just as houses have objective quality standards like earthquake resistance and fire resistance, software also has standards for objectively evaluating its quality. These are quality characteristics.",
+      "terms": [
+        {
+          "kanji": "品質特性",
+          "reading": "ひんしつとくせい"
+        },
+        {
+          "kanji": "品質",
+          "reading": "ひんしつ"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "基準",
+          "reading": "きじゅん"
+        },
+        {
+          "kanji": "家",
+          "reading": "いえ"
+        },
+        {
+          "kanji": "耐震性能",
+          "reading": "たいしんせいのう"
+        },
+        {
+          "kanji": "防火性能",
+          "reading": "ぼうかせいのう"
+        },
+        {
+          "kanji": "客観的",
+          "reading": "きゃっかんてき"
+        },
+        {
+          "kanji": "品質基準",
+          "reading": "ひんしつきじゅん"
+        },
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "品質特性には、以下の8つがあります。",
+      "vi": "Có 8 đặc tính chất lượng sau đây.",
+      "en": "There are the following 8 quality characteristics.",
+      "terms": [
+        {
+          "kanji": "品質特性",
+          "reading": "ひんしつとくせい"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "8つの品質特性",
+        "vi": "8 đặc tính chất lượng",
+        "en": "8 Quality Characteristics"
+      },
+      "headers": {
+        "ja": [
+          "品質特性",
+          "説明"
+        ],
+        "vi": [
+          "Đặc tính chất lượng",
+          "Giải thích"
+        ],
+        "en": [
+          "Quality Characteristic",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "characteristic": {
+            "ja": "機能適合性",
+            "vi": "Tính phù hợp chức năng",
+            "en": "Functional Suitability"
+          },
+          "explanation": {
+            "ja": "機能がユーザーのニーズを満たす度合い。",
+            "vi": "Mức độ chức năng đáp ứng nhu cầu người dùng.",
+            "en": "Degree to which functions meet user needs."
+          }
+        },
+        {
+          "characteristic": {
+            "ja": "性能効率性",
+            "vi": "Hiệu suất hiệu quả",
+            "en": "Performance Efficiency"
+          },
+          "explanation": {
+            "ja": "資源（CPU、メモリなど）の量に対する性能の度合い。",
+            "vi": "Mức độ hiệu suất so với lượng tài nguyên (CPU, bộ nhớ, v.v.).",
+            "en": "Degree of performance relative to resources (CPU, memory, etc.)."
+          }
+        },
+        {
+          "characteristic": {
+            "ja": "互換性",
+            "vi": "Tính tương thích",
+            "en": "Compatibility"
+          },
+          "explanation": {
+            "ja": "他のシステムと情報交換できる度合い。",
+            "vi": "Mức độ có thể trao đổi thông tin với hệ thống khác.",
+            "en": "Degree to which information can be exchanged with other systems."
+          }
+        },
+        {
+          "characteristic": {
+            "ja": "使用性",
+            "vi": "Tính khả dụng",
+            "en": "Usability"
+          },
+          "explanation": {
+            "ja": "使いやすさの度合い。",
+            "vi": "Mức độ dễ sử dụng.",
+            "en": "Degree of ease of use."
+          }
+        },
+        {
+          "characteristic": {
+            "ja": "信頼性",
+            "vi": "Độ tin cậy",
+            "en": "Reliability"
+          },
+          "explanation": {
+            "ja": "機能が正常に動作し続ける度合い。",
+            "vi": "Mức độ chức năng tiếp tục hoạt động bình thường.",
+            "en": "Degree to which functions continue to operate normally."
+          }
+        },
+        {
+          "characteristic": {
+            "ja": "セキュリティ",
+            "vi": "Bảo mật",
+            "en": "Security"
+          },
+          "explanation": {
+            "ja": "データが保護される度合い。",
+            "vi": "Mức độ dữ liệu được bảo vệ.",
+            "en": "Degree to which data is protected."
+          }
+        },
+        {
+          "characteristic": {
+            "ja": "保守性",
+            "vi": "Tính bảo trì",
+            "en": "Maintainability"
+          },
+          "explanation": {
+            "ja": "保守作業のしやすさの度合い。",
+            "vi": "Mức độ dễ thực hiện công việc bảo trì.",
+            "en": "Degree of ease of maintenance work."
+          }
+        },
+        {
+          "characteristic": {
+            "ja": "移植性",
+            "vi": "Tính di động",
+            "en": "Portability"
+          },
+          "explanation": {
+            "ja": "別の環境へ移行して、そのままの状態で動作する度合い。",
+            "vi": "Mức độ có thể chuyển sang môi trường khác và hoạt động nguyên trạng.",
+            "en": "Degree to which it can be moved to another environment and operate as-is."
+          }
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "システム要件定義書の共同レビュー",
+      "reading": "しすてむようけんていぎしょのきょうどうれびゅー",
+      "vi": "Đánh giá chung Tài liệu định nghĩa yêu cầu hệ thống",
+      "en": "Joint Review of System Requirements Definition Document"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システム要件定義のプロセスで作成する文書を「システム要件定義書」といいます。システム要件定義書が完成したら、開発側と発注側の両者で内容を確認して、誤りや相違点がないかをチェックします。この作業を「共同レビュー」といいます。",
+      "vi": "Tài liệu được tạo trong quy trình định nghĩa yêu cầu hệ thống gọi là \"Tài liệu định nghĩa yêu cầu hệ thống\". Khi tài liệu hoàn thành, cả bên phát triển và bên đặt hàng xác nhận nội dung và kiểm tra xem có lỗi hoặc điểm khác biệt không. Công việc này gọi là \"Đánh giá chung\".",
+      "en": "The document created in the system requirements definition process is called 'System Requirements Definition Document.' When completed, both the development and ordering sides confirm the content and check for errors or discrepancies. This work is called 'Joint Review.'",
+      "terms": [
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "要件定義書",
+          "reading": "ようけんていぎかき"
+        },
+        {
+          "kanji": "完成",
+          "reading": "かんせい"
+        },
+        {
+          "kanji": "開発側",
+          "reading": "かいはつがわ"
+        },
+        {
+          "kanji": "発注側",
+          "reading": "はっちゅうがわ"
+        },
+        {
+          "kanji": "両者",
+          "reading": "りょうしゃ"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "誤",
+          "reading": "ご"
+        },
+        {
+          "kanji": "相違点",
+          "reading": "そういてん"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "共同",
+          "reading": "きょうどう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、システム要件定義のプロセスでは、事前に要件を文書にして共同レビューを行うことで、お互いの考えに相違がないことを確認します。",
+      "vi": "Như vậy, trong quy trình định nghĩa yêu cầu hệ thống, bằng cách viết yêu cầu thành tài liệu trước và thực hiện đánh giá chung, xác nhận rằng không có sự khác biệt trong suy nghĩ của nhau.",
+      "en": "Thus, in the system requirements definition process, by documenting requirements in advance and conducting joint reviews, we confirm there are no differences in each other's thinking.",
+      "terms": [
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "事前",
+          "reading": "じぜん"
+        },
+        {
+          "kanji": "要件",
+          "reading": "ようけん"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "共同",
+          "reading": "きょうどう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "互",
+          "reading": "ご"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "相違",
+          "reading": "そうい"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "品質特性",
+      "reading": "ひんしつとくせい",
+      "romaji": "Hinshitsu Tokusei",
+      "vi": "Đặc tính chất lượng",
+      "en": "Quality Characteristics",
+      "my": "အရည်အသွေး လက္ခဏာများ"
+    },
+    {
+      "kanji": "共同レビュー",
+      "reading": "きょうどうれびゅー",
+      "romaji": "Kyoudou Review",
+      "vi": "Đánh giá chung",
+      "en": "Joint Review",
+      "my": "ပူးပေါင်း သုံးသပ်ချက်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true
+  }
+}

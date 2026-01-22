@@ -1,0 +1,201 @@
+{
+  "page_id": 378,
+  "image": "p_0378.png",
+  "chapter": 9,
+  "section": "09-09",
+  "page_number": 362,
+  "content": [
+    {
+      "type": "output_example",
+      "title": {
+        "ja": "【出力例】",
+        "vi": "【Ví dụ xuất】",
+        "en": "[Output Example]"
+      },
+      "output": "みなさんこんにちは"
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "関数が実行される流れ",
+        "vi": "Luồng thực hiện hàm",
+        "en": "Function Execution Flow"
+      },
+      "description": {
+        "ja": "関数の定義で○hello()を書き、関数の呼び出しでhello()を書くと、「関数を呼び出す」と「関数の定義」が実行されるフローを示す図",
+        "vi": "Hình cho thấy khi viết ○hello() trong định nghĩa hàm và viết hello() trong gọi hàm, luồng thực hiện \"gọi hàm\" và \"định nghĩa hàm\"",
+        "en": "Diagram showing flow when writing ○hello() in function definition and hello() in function call, 'function call' and 'function definition' are executed"
+      }
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！宣言と定義の違い",
+        "vi": "Chi tiết hơn! Sự khác biệt giữa khai báo và định nghĩa",
+        "en": "More Details! Difference Between Declaration and Definition"
+      },
+      "content": {
+        "ja": "これまで、本書では「関数の定義」という言葉を使ってきました。しかし、p.344に掲載した擬似言語の記述形式に関する表では「関数を宣言」という表現が記載されています。「関数の宣言」は関数の名前のみをコンピュータに教えることです。一方、「関数の定義」は関数の名前と処理をコンピュータに教えることです。",
+        "vi": "Đến nay, sách này đã sử dụng thuật ngữ \"định nghĩa hàm\". Tuy nhiên, trong bảng về định dạng mô tả ngôn ngữ giả ở trang 344, có ghi \"khai báo hàm\". \"Khai báo hàm\" là chỉ thông báo tên hàm cho máy tính. Trong khi đó, \"định nghĩa hàm\" là thông báo tên hàm và xử lý cho máy tính.",
+        "en": "Until now, this book has used term 'function definition.' However, in table about pseudocode description format on p.344, expression 'declare function' is written. 'Function declaration' is only telling computer function name. On other hand, 'function definition' is telling computer function name and processing."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "引数のある関数",
+      "reading": "ひきすうのあるかんすう",
+      "vi": "Hàm có đối số",
+      "en": "Function with Arguments"
+    },
+    {
+      "type": "paragraph",
+      "ja": "引数とは、関数の呼び出し時に関数に渡す値です。引数という機能を使うと、関数はより便利になります。",
+      "vi": "Đối số là giá trị truyền cho hàm khi gọi hàm. Khi sử dụng chức năng đối số, hàm trở nên tiện lợi hơn.",
+      "en": "Argument is value passed to function when calling function. Using argument feature, function becomes more convenient.",
+      "terms": [
+        {
+          "kanji": "引数",
+          "reading": "ひきすう"
+        },
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "時",
+          "reading": "とき"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "便利",
+          "reading": "べんり"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "引数は難しい",
+        "vi": "Đối số khó",
+        "en": "Arguments are Difficult",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "引数は、初学者には難しい機能なので、一回読んだだけでは習得するのが難しいかもしれません。わかりにくいときは、何度か読み直してみたり、インターネットで「引数」を調べたりして、少しずつ理解を深めていくことをお勧めします。一度にすべてを理解する必要はありません。",
+        "vi": "Đối số là chức năng khó cho người mới học, có thể khó nắm được chỉ với một lần đọc. Khi khó hiểu, khuyên bạn nên đọc lại vài lần, hoặc tra \"đối số\" trên internet, để dần dần hiểu sâu hơn. Không cần hiểu tất cả cùng lúc.",
+        "en": "Arguments are difficult function for beginners, may be hard to master with just one reading. When hard to understand, recommend reading again several times, or researching 'arguments' on internet, to gradually deepen understanding. No need to understand everything at once."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "引数のある関数の定義",
+      "reading": "ひきすうのあるかんすうのていぎ",
+      "vi": "Định nghĩa hàm có đối số",
+      "en": "Function Definition with Arguments"
+    },
+    {
+      "type": "paragraph",
+      "ja": "引数を使うには、関数の定義の際に、( )（丸括弧）の中に「型名:引数名」を指定します。以下は、引数がある関数の定義の書式です。",
+      "vi": "Để sử dụng đối số, khi định nghĩa hàm, chỉ định \"tên kiểu: tên đối số\" trong ( ) (ngoặc tròn). Sau đây là định dạng định nghĩa hàm có đối số.",
+      "en": "To use arguments, when defining function, specify 'type name: argument name' in ( ) (parentheses). Following is function definition format with arguments.",
+      "terms": [
+        {
+          "kanji": "引数",
+          "reading": "ひきすう"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "丸括弧",
+          "reading": "まるかっこ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "型名",
+          "reading": "かためい"
+        },
+        {
+          "kanji": "引数名",
+          "reading": "ひきすうめい"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "書式",
+          "reading": "しょしき"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【書式】関数の定義（引数あり）",
+        "vi": "【Định dạng】Định nghĩa hàm (có đối số)",
+        "en": "[Format] Function Definition (with arguments)"
+      },
+      "code": "○関数名 (型名: 引数名)\n    処理"
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "引数",
+      "reading": "ひきすう",
+      "vi": "Đối số",
+      "en": "Argument",
+      "my": "ငြားချက်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_note_box": true,
+    "is_key_content": true
+  }
+}

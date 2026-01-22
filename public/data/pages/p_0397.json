@@ -1,0 +1,257 @@
+{
+  "page_id": 397,
+  "image": "p_0397.png",
+  "chapter": 10,
+  "section": "10-04",
+  "page_number": 381,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "10-04",
+      "title": {
+        "ja": "システムの評価指標",
+        "vi": "Chỉ số đánh giá hệ thống",
+        "en": "System Evaluation Metrics"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "見えるのは氷山の一角",
+        "vi": "Những gì thấy chỉ là phần nổi của tảng băng",
+        "en": "What You See is Tip of Iceberg"
+      },
+      "content": {
+        "ja": "システムを作るときは、開発にかかる初期コストに目が行きがちです。しかし、システムが完成した後の、運用にかかるコストも含めて考えないと、大きな損害を出してしまいます。",
+        "vi": "Khi tạo hệ thống, dễ chú ý đến chi phí ban đầu cho phát triển. Tuy nhiên, nếu không tính cả chi phí vận hành sau khi hoàn thành hệ thống, sẽ gây ra thiệt hại lớn.",
+        "en": "When creating systems, tend to focus on initial development costs. However, if not considering operation costs after system completion, will cause major damage."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "システムの性能や信頼性を評価する指標は3つあります。",
+      "vi": "Có 3 chỉ số đánh giá hiệu suất và độ tin cậy của hệ thống.",
+      "en": "There are 3 metrics evaluating system performance and reliability.",
+      "terms": [
+        {
+          "kanji": "性能",
+          "reading": "せいのう"
+        },
+        {
+          "kanji": "信頼性",
+          "reading": "しんらいせい"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "指標",
+          "reading": "しひょう"
+        }
+      ]
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        {
+          "number": "(1)",
+          "ja": "性能：処理が速いか",
+          "vi": "Hiệu suất: Xử lý có nhanh không",
+          "en": "Performance: Is processing fast"
+        },
+        {
+          "number": "(2)",
+          "ja": "経済性：安いか",
+          "vi": "Tính kinh tế: Có rẻ không",
+          "en": "Economy: Is it cheap"
+        },
+        {
+          "number": "(3)",
+          "ja": "信頼性：正常に動作するか",
+          "vi": "Độ tin cậy: Có hoạt động bình thường không",
+          "en": "Reliability: Does it operate normally"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "本項では先に「性能」と「経済性」について解説します。「信頼性」はITパスポート試験において非常に重要な項目なので次項で詳しく解説します。",
+      "vi": "Phần này trước tiên giải thích về \"hiệu suất\" và \"tính kinh tế\". \"Độ tin cậy\" là hạng mục rất quan trọng trong kỳ thi IT Passport nên sẽ giải thích chi tiết ở phần tiếp.",
+      "en": "This section first explains 'performance' and 'economy.' 'Reliability' is very important item in IT Passport exam so explained in detail in next section.",
+      "terms": [
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "先",
+          "reading": "さき"
+        },
+        {
+          "kanji": "性能",
+          "reading": "せいのう"
+        },
+        {
+          "kanji": "経済性",
+          "reading": "けいざいせい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "信頼性",
+          "reading": "しんらいせい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "次項",
+          "reading": "じこう"
+        },
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（1）性能：処理が速いか",
+      "vi": "(1) Hiệu suất: Xử lý có nhanh không",
+      "en": "(1) Performance: Is Processing Fast"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システムの性能を評価する指標には「応答時間」があります。応答時間とは、処理にかかる時間です。応答時間は「レスポンスタイム」とも呼ばれます。",
+      "vi": "Chỉ số đánh giá hiệu suất hệ thống có \"thời gian phản hồi\". Thời gian phản hồi là thời gian cần cho xử lý. Thời gian phản hồi cũng được gọi là \"response time\".",
+      "en": "Metric evaluating system performance is 'response time.' Response time is time needed for processing. Response time is also called 'response time.'",
+      "terms": [
+        {
+          "kanji": "性能",
+          "reading": "せいのう"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "指標",
+          "reading": "しひょう"
+        },
+        {
+          "kanji": "応答時間",
+          "reading": "おうとうじかん"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ベンチマークテスト",
+      "reading": "ベンチマークテスト",
+      "vi": "Benchmark Test",
+      "en": "Benchmark Test"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ベンチマークテストとは、システムの性能を比較するために行うテストです。標準的なプログラムやデータを使ってシステムの性能をテストします。上記の応答時間（レスポンスタイム）などの数値を他のシステムと比較し評価します。",
+      "vi": "Benchmark test là bài test thực hiện để so sánh hiệu suất hệ thống. Test hiệu suất hệ thống bằng chương trình và dữ liệu tiêu chuẩn. So sánh và đánh giá các số liệu như thời gian phản hồi (response time) ở trên với các hệ thống khác.",
+      "en": "Benchmark test is test performed to compare system performance. Tests system performance using standard programs and data. Compares and evaluates values like above response time with other systems.",
+      "terms": [
+        {
+          "kanji": "性能",
+          "reading": "せいのう"
+        },
+        {
+          "kanji": "比較",
+          "reading": "ひかく"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "標準的",
+          "reading": "ひょうじゅんてき"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "応答時間",
+          "reading": "おうとうじかん"
+        },
+        {
+          "kanji": "数値",
+          "reading": "すうち"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "応答時間",
+      "reading": "おうとうじかん",
+      "vi": "Thời gian phản hồi",
+      "en": "Response Time",
+      "my": "တုံ့ပြန်အချိန်"
+    },
+    {
+      "term": "レスポンスタイム",
+      "vi": "Response time",
+      "en": "Response Time",
+      "my": "ရစ်ပွန်းတိုင်း"
+    },
+    {
+      "term": "ベンチマークテスト",
+      "vi": "Benchmark test",
+      "en": "Benchmark Test",
+      "my": "ဘင်ချ်မတ်စမ်း"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

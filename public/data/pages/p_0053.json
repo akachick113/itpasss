@@ -1,0 +1,159 @@
+{
+  "page_id": 53,
+  "image": "p_0053.png",
+  "chapter": 1,
+  "section": "01-07",
+  "page_number": 37,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "費用の直線",
+      "reading": "ひようのちょくせん",
+      "vi": "Đường thẳng chi phí",
+      "en": "Cost Line",
+      "my": "Cost Line"
+    },
+    {
+      "type": "paragraph",
+      "ja": "続いて「費用の直線」の式を考えます。費用の直線の傾きは変動費（100円/個）です。なぜなら、ケーキを1個売るごとに100円の変動費がかかるからです。\nまた、切片は固定費（50万円）です。なぜなら、ケーキの販売個数が0個であっても固定費は必要だからです。この傾きと切片を上記の方程式に当てはめると「費用の直線」は次の式になります。\n\ny=100x+500,000\n\nこの費用の直線をグラフで表すと次のようになります。",
+      "vi": "Tiếp theo, xem xét phương trình \"đường thẳng chi phí\". Độ dốc của đường chi phí là chi phí biến đổi (100 yên/cái). Vì mỗi cái bánh bán ra tốn 100 yên chi phí biến đổi.\nHệ số chặn là chi phí cố định (500,000 yên). Vì dù số lượng bánh bán là 0 cái thì chi phí cố định vẫn cần thiết. Thay độ dốc và hệ số chặn vào phương trình, \"đường thẳng chi phí\" là:\n\ny=100x+500,000\n\nBiểu diễn đường chi phí này trên đồ thị như sau.",
+      "en": "Next, consider the \"cost line\" equation. The slope of the cost line is variable cost (100 yen/unit). Because selling each cake costs 100 yen in variable costs.\nThe y-intercept is fixed cost (500,000 yen). Because fixed costs are necessary even when 0 cakes are sold. Substituting slope and y-intercept into the equation, the \"cost line\" is:\n\ny=100x+500,000\n\nThis cost line on a graph looks like the following.",
+      "my": "ရှေ့ဆက်၍ \"cost line\" ညီမျှခြင်းကို စဉ်းစားပါ။",
+      "terms": [
+        {
+          "kanji": "続",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "費用",
+          "reading": "ひよう"
+        },
+        {
+          "kanji": "直線",
+          "reading": "ちょくせん"
+        },
+        {
+          "kanji": "式",
+          "reading": "しき"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "傾",
+          "reading": "けい"
+        },
+        {
+          "kanji": "変動費",
+          "reading": "へんどうひ"
+        },
+        {
+          "kanji": "円",
+          "reading": "えん"
+        },
+        {
+          "kanji": "個",
+          "reading": "こ"
+        },
+        {
+          "kanji": "個売",
+          "reading": "こばい"
+        },
+        {
+          "kanji": "切片",
+          "reading": "せっぺん"
+        },
+        {
+          "kanji": "固定費",
+          "reading": "こていひ"
+        },
+        {
+          "kanji": "万円",
+          "reading": "まんえん"
+        },
+        {
+          "kanji": "販売個数",
+          "reading": "はんばいこすう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "方程式",
+          "reading": "ほうていしき"
+        },
+        {
+          "kanji": "当",
+          "reading": "とう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "連立方程式の解き方",
+      "reading": "れんりつほうていしきのときかた",
+      "vi": "Cách giải hệ phương trình",
+      "en": "Solving Simultaneous Equations",
+      "my": "Simultaneous Equations ဖြေနည်း"
+    },
+    {
+      "type": "paragraph",
+      "ja": "最後に、これまでに求めた2つの式を連立方程式にしてx（販売個数）とy（売上高）を求めれば、損益分岐点を求めることができます。",
+      "vi": "Cuối cùng, bằng cách đặt 2 phương trình đã tìm được thành hệ phương trình và giải x (số lượng bán) và y (doanh thu), có thể tìm được điểm hòa vốn.",
+      "en": "Finally, by setting up the 2 equations we found as simultaneous equations and solving for x (number sold) and y (sales amount), we can find the break-even point.",
+      "my": "နောက်ဆုံး ရှာခဲ့တဲ့ ညီမျှခြင်း ၂ ခုကို simultaneous equations အဖြစ် ထားပြီး x (ရောင်းရတဲ့အရေအတွက်) နှင့် y (ရောင်းရငွေ) ကို ရှာရင် break-even point ကို ရှာနိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "最後",
+          "reading": "さいご"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "式",
+          "reading": "しき"
+        },
+        {
+          "kanji": "連立方程式",
+          "reading": "れんりつほうていしき"
+        },
+        {
+          "kanji": "販売個数",
+          "reading": "はんばいこすう"
+        },
+        {
+          "kanji": "売上高",
+          "reading": "うりあげだか"
+        },
+        {
+          "kanji": "損益分岐点",
+          "reading": "そんえきぶんきてん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_formula": true
+  }
+}

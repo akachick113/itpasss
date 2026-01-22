@@ -1,0 +1,229 @@
+{
+  "page_id": 572,
+  "image": "p_0572.png",
+  "chapter": 15,
+  "section": "15-06",
+  "page_number": 556,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "技術的セキュリティ対策",
+      "vi": "Biện pháp bảo mật kỹ thuật",
+      "en": "Technical Security Measures"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "技術的セキュリティ対策",
+        "vi": "Biện pháp bảo mật kỹ thuật",
+        "en": "Technical Security Measures"
+      },
+      "definition": {
+        "ja": "技術的セキュリティ対策とは、技術的な手段によって引き起こされる脅威への対策です。",
+        "vi": "Biện pháp bảo mật kỹ thuật là biện pháp đối phó với mối đe dọa do các phương tiện kỹ thuật gây ra.",
+        "en": "Technical Security Measures are countermeasures against threats caused by technical means."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ランサムウェア対策にはバックアップが有効",
+      "vi": "Backup có hiệu quả đối phó Ransomware",
+      "en": "Backup is Effective Against Ransomware"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ランサムウェア（p.525）への対応策は「データを外部記憶装置にバックアップすること」です。データをバックアップしておくことで、万が一、コンピュータ内のデータを人質に取られたとしても、バックアップからデータを復元できます。",
+      "vi": "Biện pháp đối phó Ransomware (trang 525) là \"sao lưu dữ liệu vào thiết bị lưu trữ ngoài\". Bằng việc sao lưu dữ liệu, ngay cả khi dữ liệu trong máy tính bị bắt làm con tin, có thể khôi phục dữ liệu từ bản sao lưu.",
+      "en": "Countermeasure for Ransomware (p.525) is 'backing up data to external storage device.' By backing up data, even if data in computer is held hostage, can restore data from backup.",
+      "terms": [
+        {
+          "kanji": "対応策",
+          "reading": "たいおうさく"
+        },
+        {
+          "kanji": "外部記憶装置",
+          "reading": "がいぶきおくそうち"
+        },
+        {
+          "kanji": "万",
+          "reading": "まん"
+        },
+        {
+          "kanji": "一",
+          "reading": "いち"
+        },
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "人質",
+          "reading": "ひとじち"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "復元",
+          "reading": "ふくげん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "3つの壁",
+      "vi": "3 bức tường",
+      "en": "Three Walls"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、攻撃者からサーバを守るための「3つの壁」がよく出題されます。3つの壁とは「ファイアウォール」「IDS/IPS」「WAF」です。それぞれの役割と違いを解説するのでしっかりと把握しておいてください。",
+      "vi": "Trong kỳ thi IT Passport, \"3 bức tường\" để bảo vệ server khỏi kẻ tấn công thường được ra đề. 3 bức tường là \"Firewall\", \"IDS/IPS\", \"WAF\". Sẽ giải thích vai trò và sự khác biệt của từng cái nên hãy nắm vững.",
+      "en": "In IT Passport exam, '3 walls' for protecting server from attackers frequently appear. 3 walls are 'Firewall,' 'IDS/IPS,' 'WAF.' Will explain each role and difference so understand them well.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "攻撃者",
+          "reading": "こうげきもの"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "壁",
+          "reading": "かべ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "3つの壁",
+        "vi": "3 bức tường",
+        "en": "Three Walls"
+      },
+      "description": {
+        "ja": "ファイアウォール→IDS/IPS→WAF→サーバの順に配置",
+        "vi": "Sắp xếp theo thứ tự Firewall→IDS/IPS→WAF→Server",
+        "en": "Arranged in order: Firewall→IDS/IPS→WAF→Server"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ファイアウォール",
+      "vi": "Firewall",
+      "en": "Firewall"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ファイアウォール",
+        "vi": "Firewall",
+        "en": "Firewall"
+      },
+      "definition": {
+        "ja": "ファイアウォールとは、インターネットを通じた不正アクセスから社内ネットワークを守るための仕組みです。ITパスポート試験では「ネットワークにおいて、外部からの不正アクセスを防ぐために、内部ネットワークと外部ネットワークの間に置かれるもの」という文章で出題されることがあります。",
+        "vi": "Firewall là cơ chế bảo vệ mạng nội bộ khỏi truy cập trái phép qua Internet. Trong kỳ thi IT Passport, có thể được ra đề với câu \"thứ được đặt giữa mạng nội bộ và mạng bên ngoài để ngăn truy cập trái phép từ bên ngoài trong mạng\".",
+        "en": "Firewall is mechanism to protect internal network from unauthorized access via Internet. In IT Passport exam, may appear as 'thing placed between internal network and external network to prevent unauthorized access from outside in network.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ファイアウォールは次の図のように、外部ネットワーク（インターネットなど）と内部ネットワーク（社内ネットワークなど）の間に設置されます。",
+      "vi": "Firewall được đặt giữa mạng bên ngoài (như Internet) và mạng nội bộ (như mạng công ty) như trong hình sau.",
+      "en": "Firewall is installed between external network (like Internet) and internal network (like company network) as shown in following figure.",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "外部",
+          "reading": "がいぶ"
+        },
+        {
+          "kanji": "内部",
+          "reading": "ないぶ"
+        },
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "設置",
+          "reading": "せっち"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ファイアウォール",
+      "vi": "Firewall (Tường lửa)",
+      "en": "Firewall",
+      "my": "ဖိုင်ယာဝေါလ် (မီးနံရံ)"
+    },
+    {
+      "term": "IDS",
+      "full": "Intrusion Detection System",
+      "vi": "Hệ thống phát hiện xâm nhập",
+      "en": "Intrusion Detection System",
+      "my": "ကျူးကျော်ရှာဖွေတွေ့ရှာစွမ်း"
+    },
+    {
+      "term": "IPS",
+      "full": "Intrusion Prevention System",
+      "vi": "Hệ thống ngăn chặn xâm nhập",
+      "en": "Intrusion Prevention System",
+      "my": "ကျူးကျော်တားဆီးစွမ်း"
+    },
+    {
+      "term": "WAF",
+      "full": "Web Application Firewall",
+      "vi": "Tường lửa ứng dụng Web",
+      "en": "Web Application Firewall",
+      "my": "ဝက်ဘ်အပြုအသုံး ဖိုင်ယာဝေါလ်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

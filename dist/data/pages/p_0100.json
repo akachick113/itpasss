@@ -1,0 +1,378 @@
+{
+  "page_id": 100,
+  "image": "p_0100.png",
+  "chapter": 2,
+  "section": "02-05",
+  "page_number": 84,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "GDPRの適用範囲は、EU内に拠点のある事業者、もしくはEU内の個人データを取り扱う事業者である",
+        "vi": "Phạm vi áp dụng GDPR là doanh nghiệp có trụ sở trong EU, hoặc doanh nghiệp xử lý dữ liệu cá nhân trong EU",
+        "en": "GDPR applies to businesses based in EU, or businesses handling EU personal data",
+        "my": "GDPR သည် EU တွင် အခြေစိုက်သော လုပ်ငန်းများ သို့မဟုတ် EU ကိုယ်ရေးအချက်အလက်ကို ကိုင်တွယ်သော လုပ်ငန်းများအတွက် သက်ဆိုင်သည်",
+        "terms": [
+          {
+            "kanji": "適用範囲",
+            "reading": "てきようはんい"
+          },
+          {
+            "kanji": "内",
+            "reading": "ない"
+          },
+          {
+            "kanji": "拠点",
+            "reading": "きょてん"
+          },
+          {
+            "kanji": "事業者",
+            "reading": "じぎょうしゃ"
+          },
+          {
+            "kanji": "個人",
+            "reading": "こじん"
+          },
+          {
+            "kanji": "取",
+            "reading": "と"
+          },
+          {
+            "kanji": "扱",
+            "reading": "きゅう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "情報公開法",
+      "reading": "じょうほうこうかいほう",
+      "vi": "Luật công khai thông tin",
+      "en": "Information Disclosure Law",
+      "my": "သတင်းအချက်အလက် ထုတ်ဖော်ခြင်း ဥပဒေ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "個人の情報は守られる一方で、政府の情報に関してはその公開を求めることができる「情報公開法」という法律があります。情報公開法とは、行政機関が持つ情報の公開を求めることができる法律です。この法律によって、誰でも（法人や外国人も）行政機関に対して情報の公開を求めることができます。ポイントは\"誰でも\"情報の公開を請求できる点です。\n\nなお、世の中には国会の「立法文書」や、企業の「社内文書」など、いろいろな文書がありますが、情報公開法で開示請求できるのは行政文書です。\n\nまた上記の他に、ITパスポート試験では以下の法律に関する問題が出題されることがあります。",
+      "vi": "Trong khi thông tin cá nhân được bảo vệ, có Luật công khai thông tin cho phép yêu cầu công khai thông tin của chính phủ. Luật công khai thông tin là luật cho phép yêu cầu công khai thông tin mà cơ quan hành chính nắm giữ. Theo luật này, bất kỳ ai (bao gồm pháp nhân và người nước ngoài) cũng có thể yêu cầu cơ quan hành chính công khai thông tin. Điểm quan trọng là bất kỳ ai cũng có thể yêu cầu công khai.\n\nLưu ý, có nhiều loại văn bản như Văn bản lập pháp của Quốc hội, Văn bản nội bộ của doanh nghiệp, nhưng Luật công khai thông tin chỉ yêu cầu công khai văn bản hành chính.\n\nNgoài ra, IT Passport có thể ra đề về các luật sau:",
+      "en": "While personal information is protected, there's the Information Disclosure Law allowing requests for government information disclosure. This law allows requesting disclosure of information held by administrative agencies. Under this law, anyone (including corporations and foreigners) can request disclosure from administrative agencies. The key point is anyone can request disclosure.\n\nNote that there are various documents like legislative documents from parliament and internal corporate documents, but Information Disclosure Law only covers administrative documents.\n\nAdditionally, IT Passport may test these laws:",
+      "my": "ကိုယ်ရေးအချက်အလက်ကို ကာကွယ်ထားချိန်တွင် အစိုးရ သတင်းအချက်အလက် ထုတ်ဖော်မှုကို တောင်းဆိုနိုင်သော Information Disclosure Law ရှိသည်။",
+      "terms": [
+        {
+          "kanji": "個人",
+          "reading": "こじん"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "政府",
+          "reading": "せいふ"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "公開",
+          "reading": "こうかい"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "情報公開法",
+          "reading": "じょうほうこうかいほう"
+        },
+        {
+          "kanji": "法律",
+          "reading": "ほうりつ"
+        },
+        {
+          "kanji": "行政機関",
+          "reading": "ぎょうせいきかん"
+        },
+        {
+          "kanji": "持",
+          "reading": "も"
+        },
+        {
+          "kanji": "誰",
+          "reading": "だれ"
+        },
+        {
+          "kanji": "法人",
+          "reading": "ほうじん"
+        },
+        {
+          "kanji": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "請求",
+          "reading": "せいきゅう"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "世",
+          "reading": "よ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "国会",
+          "reading": "こっかい"
+        },
+        {
+          "kanji": "立法文書",
+          "reading": "りっぽうぶんしょ"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "社内文書",
+          "reading": "しゃないぶんしょ"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "開示請求",
+          "reading": "かいじせいきゅう"
+        },
+        {
+          "kanji": "行政文書",
+          "reading": "ぎょうせいぶんしょ"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "その他の法律",
+        "vi": "Các luật khác",
+        "en": "Other Laws"
+      },
+      "headers": {
+        "ja": [
+          "項目",
+          "説明"
+        ],
+        "vi": [
+          "Mục",
+          "Giải thích"
+        ],
+        "en": [
+          "Item",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "官民データ活用推進基本法",
+            "官（行政機関）と民（民間事業者や教育・研究機関など）の双方のデータを活用して、社会的・経済的な前進をすることを目的とした法律。"
+          ],
+          "vi": [
+            "Luật cơ bản thúc đẩy sử dụng dữ liệu công tư",
+            "Luật nhằm mục đích tiến bộ xã hội và kinh tế bằng cách sử dụng dữ liệu của cả khu vực công (cơ quan hành chính) và khu vực tư (doanh nghiệp, cơ sở giáo dục/nghiên cứu)."
+          ],
+          "en": [
+            "Public-Private Data Utilization Promotion Act",
+            "Law aiming for social/economic progress by utilizing data from both public (administrative agencies) and private (businesses, educational/research institutions) sectors."
+          ]
+        },
+        {
+          "ja": [
+            "資金決済法",
+            "電子マネーの権利関係を明確にすることを目的とした法律。ITの発達により新しく生まれた取引形態である「プリペイドカードなど」や「暗号資産（仮想通貨）」などについて定めている。"
+          ],
+          "vi": [
+            "Luật thanh toán vốn",
+            "Luật nhằm làm rõ quan hệ quyền lợi của tiền điện tử. Quy định về các hình thức giao dịch mới sinh ra từ sự phát triển IT như thẻ trả trước và tài sản mã hóa (tiền ảo)."
+          ],
+          "en": [
+            "Fund Settlement Law",
+            "Law clarifying electronic money rights relationships. Defines new transaction forms from IT development like prepaid cards and crypto assets (virtual currency)."
+          ]
+        },
+        {
+          "ja": [
+            "金融商品取引法",
+            "投資家を保護するための法律。新しい金融商品など、複合の法律にまたがる金融商品の規制をすることに対応するため、従来の証券取引法を改正してできた法律。"
+          ],
+          "vi": [
+            "Luật giao dịch sản phẩm tài chính",
+            "Luật bảo vệ nhà đầu tư. Luật được sửa đổi từ Luật giao dịch chứng khoán trước đây để quy định các sản phẩm tài chính mới nằm dưới nhiều luật phức hợp."
+          ],
+          "en": [
+            "Financial Instruments and Exchange Law",
+            "Law protecting investors. Revised from previous Securities Exchange Law to regulate new financial products spanning multiple laws."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・情報公開法では、誰でも情報の公開を申請できる\n・情報公開法では、開示請求できるのは行政文書である\n・資金決済法が規定するのは、前払式支払手段や暗号資産（仮想通貨）などである",
+        "vi": "・Theo Luật công khai thông tin, bất kỳ ai cũng có thể yêu cầu công khai\n・Theo Luật công khai thông tin, chỉ yêu cầu công khai văn bản hành chính\n・Luật thanh toán vốn quy định phương thức thanh toán trả trước và tài sản mã hóa (tiền ảo)",
+        "en": "・Under Information Disclosure Law, anyone can request disclosure\n・Under Information Disclosure Law, only administrative documents can be requested\n・Fund Settlement Law regulates prepaid payment methods and crypto assets (virtual currency)",
+        "my": "・ Information Disclosure Law အရ မည်သူမဆို ထုတ်ဖော်မှု တောင်းဆိုနိုင်သည်",
+        "terms": [
+          {
+            "kanji": "情報公開法",
+            "reading": "じょうほうこうかいほう"
+          },
+          {
+            "kanji": "誰",
+            "reading": "だれ"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "公開",
+            "reading": "こうかい"
+          },
+          {
+            "kanji": "申請",
+            "reading": "しんせい"
+          },
+          {
+            "kanji": "開示請求",
+            "reading": "かいじせいきゅう"
+          },
+          {
+            "kanji": "行政文書",
+            "reading": "ぎょうせいぶんしょ"
+          },
+          {
+            "kanji": "資金決済法",
+            "reading": "しきんけっさいほう"
+          },
+          {
+            "kanji": "規定",
+            "reading": "きてい"
+          },
+          {
+            "kanji": "前払式支払手段",
+            "reading": "まえばらいしきしはらいしゅだん"
+          },
+          {
+            "kanji": "暗号資産",
+            "reading": "あんごうしさん"
+          },
+          {
+            "kanji": "仮想通貨",
+            "reading": "かそうつうか"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "情報公開法",
+      "reading": "じょうほうこうかいほう",
+      "romaji": "Jouhou Koukai Hou",
+      "vi": "Luật công khai thông tin",
+      "en": "Information Disclosure Law",
+      "my": "သတင်းအချက်အလက် ထုတ်ဖော်ခြင်းဥပဒေ"
+    },
+    {
+      "kanji": "行政文書",
+      "reading": "ぎょうせいぶんしょ",
+      "romaji": "Gyousei Bunsho",
+      "vi": "Văn bản hành chính",
+      "en": "Administrative Documents",
+      "my": "အုပ်ချုပ်ရေးစာရွက်များ"
+    },
+    {
+      "kanji": "暗号資産",
+      "reading": "あんごうしさん",
+      "romaji": "Angou Shisan",
+      "vi": "Tài sản mã hóa",
+      "en": "Crypto Assets",
+      "my": "Crypto Assets"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

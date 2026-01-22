@@ -1,0 +1,124 @@
+{
+    "page_id": 465,
+    "image": "p_0465.png",
+    "chapter": 12,
+    "section": "practice",
+    "page_number": 449,
+    "content": [
+        {
+            "type": "practice_question",
+            "id": "12-4",
+            "question": {
+                "ja": "図に示すような階層構造をもつファイルシステムにおいて、＊印のディレクトリ（カレントディレクトリ）から\"..¥..¥DIR8¥Fn.txt\"で指定したときに参照されるファイルはどれか。ここで、図中の□はディレクトリを表し、ファイルの指定方法は次のとおりである。",
+                "vi": "Trong hệ thống tệp có cấu trúc phân cấp như hình, tệp nào được tham chiếu khi chỉ định \"..\\\\..\\\\DIR8\\\\Fn.txt\" từ thư mục có dấu * (thư mục hiện tại). Ở đây, □ trong hình biểu thị thư mục, và phương pháp chỉ định tệp như sau.",
+                "en": "In file system with hierarchical structure as shown, which file is referenced when specifying '..\\\\..\\\\DIR8\\\\Fn.txt' from directory with * (current directory). Here, □ in diagram represents directory, and file specification method is as follows."
+            },
+            "specification": {
+                "ja": [
+                    "（1）ファイルは"ディレクトリ名¥…¥ディレクトリ名¥ファイル名"のように、経路上のディレクトリを順に"¥"で区切って並べた後に"¥"とファイル名を指定する。",
+                    "（2）カレントディレクトリは"."で表す。",
+                    "（3）1階層上のディレクトリは".."で表す。",
+                    "（4）始まりが"¥"のときは、左端のルートディレクトリが省略されているものとする。"
+                ],
+                "vi": [
+                    "(1) Tệp được chỉ định như \"Tên thư mục\\\\...\\\\Tên thư mục\\\\Tên tệp\", xếp các thư mục trên đường dẫn theo thứ tự phân cách bằng \"\\\\\" rồi chỉ định \"\\\\\" và tên tệp.",
+                    "(2) Thư mục hiện tại được biểu thị bằng \".\".",
+                    "(3) Thư mục trên 1 cấp được biểu thị bằng \"..\".",
+                    "(4) Khi bắt đầu bằng \"\\\\\", thư mục gốc bên trái được lược bỏ."
+                ],
+                "en": [
+                    "(1) File specified as 'DirName\\\\...\\\\DirName\\\\FileName', listing directories on path in order separated by '\\\\' then specifying '\\\\' and filename.",
+                    "(2) Current directory represented by '.'.",
+                    "(3) Directory 1 level up represented by '..'.",
+                    "(4) When starting with '\\\\', root directory on left is omitted."
+                ]
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "text": {
+                        "ja": "①のFn.txt",
+                        "vi": "Fn.txt của ①",
+                        "en": "① Fn.txt"
+                    }
+                },
+                {
+                    "id": "イ",
+                    "text": {
+                        "ja": "②のFn.txt",
+                        "vi": "Fn.txt của ②",
+                        "en": "② Fn.txt"
+                    }
+                },
+                {
+                    "id": "ウ",
+                    "text": {
+                        "ja": "③のFn.txt",
+                        "vi": "Fn.txt của ③",
+                        "en": "③ Fn.txt"
+                    }
+                },
+                {
+                    "id": "エ",
+                    "text": {
+                        "ja": "④のFn.txt",
+                        "vi": "Fn.txt của ④",
+                        "en": "④ Fn.txt"
+                    }
+                }
+            ],
+            "source": "平成28年春"
+        },
+        {
+            "type": "practice_question",
+            "id": "12-5",
+            "question": {
+                "ja": "毎週日曜日の業務終了後にフルバックアップファイルを取得し、月曜日〜土曜日の業務終了後には増分バックアップファイルを取得しているシステムがある。水曜日の業務中に故障が発生したので、バックアップファイルを使って火曜日の業務終了時点の状態にデータを復元することにした。データ復元に必要なバックアップファイルを全て挙げたものはどれか。ここで、増分バックアップファイルとは、前回のバックアップファイル（フルバックアップファイル又は増分バックアップファイル）の取得以降に変更されたデータだけのバックアップファイルを意味する。",
+                "vi": "Có hệ thống lấy tệp sao lưu đầy đủ sau khi kết thúc công việc mỗi Chủ nhật, và lấy tệp sao lưu tăng dần sau khi kết thúc công việc từ thứ Hai đến thứ Bảy. Sự cố xảy ra trong công việc thứ Tư, nên quyết định khôi phục dữ liệu về trạng thái thời điểm kết thúc công việc thứ Ba bằng tệp sao lưu. Tất cả các tệp sao lưu cần cho khôi phục dữ liệu là gì. Ở đây, tệp sao lưu tăng dần có nghĩa là tệp sao lưu chỉ có dữ liệu đã thay đổi từ sau khi lấy tệp sao lưu lần trước (tệp sao lưu đầy đủ hoặc tệp sao lưu tăng dần).",
+                "en": "System takes full backup file after work ends every Sunday, and takes incremental backup files after work ends Monday-Saturday. Failure occurred during Wednesday work, so decided to restore data to state at Tuesday work end using backup files. What are all backup files needed for data restoration. Here, incremental backup file means backup file of only data changed since previous backup file (full backup or incremental backup) was taken."
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "text": {
+                        "ja": "日曜日のフルバックアップファイル、月曜日と火曜日の増分バックアップファイル",
+                        "vi": "Tệp sao lưu đầy đủ Chủ nhật, tệp sao lưu tăng dần thứ Hai và thứ Ba",
+                        "en": "Sunday full backup file, Monday and Tuesday incremental backup files"
+                    }
+                },
+                {
+                    "id": "イ",
+                    "text": {
+                        "ja": "日曜日のフルバックアップファイル、火曜日の増分バックアップファイル",
+                        "vi": "Tệp sao lưu đầy đủ Chủ nhật, tệp sao lưu tăng dần thứ Ba",
+                        "en": "Sunday full backup file, Tuesday incremental backup file"
+                    }
+                },
+                {
+                    "id": "ウ",
+                    "text": {
+                        "ja": "月曜日と火曜日の増分バックアップファイル",
+                        "vi": "Tệp sao lưu tăng dần thứ Hai và thứ Ba",
+                        "en": "Monday and Tuesday incremental backup files"
+                    }
+                },
+                {
+                    "id": "エ",
+                    "text": {
+                        "ja": "火曜日の増分バックアップファイル",
+                        "vi": "Tệp sao lưu tăng dần thứ Ba",
+                        "en": "Tuesday incremental backup file"
+                    }
+                }
+            ],
+            "source": "平成28年秋"
+        }
+    ],
+    "meta": {
+        "is_practice_page": true,
+        "answers": {
+            "12-4": "エ",
+            "12-5": "ア"
+        }
+    }
+}

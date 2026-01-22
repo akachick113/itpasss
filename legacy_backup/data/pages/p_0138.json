@@ -1,0 +1,208 @@
+{
+    "page_id": 138,
+    "image": "p_0138.png",
+    "chapter": 3,
+    "section": "questions",
+    "page_number": 122,
+    "content": [
+        {
+            "type": "section_header",
+            "ja": "出る順！過去問＆完全解説",
+            "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích đầy đủ",
+            "en": "By Frequency! Past Questions & Full Explanations"
+        },
+        {
+            "type": "exam_question",
+            "number": "3-10",
+            "year": "平成27年度",
+            "question": {
+                "ja": "企業の経営を、財務的な業績からだけでなく顧客、業務プロセス、学習と成長という側面から分析評価し、戦略の策定に結び付けようとする手法はどれか。",
+                "vi": "Phương pháp phân tích đánh giá kinh doanh doanh nghiệp không chỉ từ hiệu suất tài chính mà còn từ góc độ khách hàng, quy trình nghiệp vụ, học tập và phát triển để liên kết với việc xây dựng chiến lược là gì?",
+                "en": "Which method analyzes and evaluates company management not only from financial performance but also from customer, business process, learning and growth perspectives to link with strategy formulation?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "BSC",
+                    "vi": "BSC",
+                    "en": "BSC",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "CSF",
+                    "vi": "CSF",
+                    "en": "CSF"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "PPM",
+                    "vi": "PPM",
+                    "en": "PPM"
+                },
+                {
+                    "label": "エ",
+                    "ja": "SWOT分析",
+                    "vi": "Phân tích SWOT",
+                    "en": "SWOT Analysis"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "3-11",
+            "year": "平成22年度",
+            "question": {
+                "ja": "経営戦略の目標や目的を達成する上で、重要な要因を表すものはどれか。",
+                "vi": "Cái nào thể hiện yếu tố quan trọng trong việc đạt được mục tiêu chiến lược kinh doanh?",
+                "en": "Which represents important factors in achieving business strategy goals and objectives?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "CSF",
+                    "vi": "CSF",
+                    "en": "CSF",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "ERP",
+                    "vi": "ERP",
+                    "en": "ERP"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "MRP",
+                    "vi": "MRP",
+                    "en": "MRP"
+                },
+                {
+                    "label": "エ",
+                    "ja": "SCM",
+                    "vi": "SCM",
+                    "en": "SCM"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "3-12",
+            "year": "平成27年度",
+            "question": {
+                "ja": "KPIの説明として、適切なものはどれか。",
+                "vi": "Đâu là giải thích phù hợp về KPI?",
+                "en": "Which is the appropriate explanation of KPI?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "企業目標の達成に向けて行われる活動の実行状況を計るために設定する重要な指標",
+                    "vi": "Chỉ số quan trọng được thiết lập để đo tình trạng thực hiện hoạt động hướng đến đạt mục tiêu doanh nghiệp",
+                    "en": "Important indicator set to measure execution status of activities toward achieving corporate goals",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "経営計画で設定した目標を達成するための最も重要な要因",
+                    "vi": "Yếu tố quan trọng nhất để đạt mục tiêu đặt ra trong kế hoạch kinh doanh",
+                    "en": "Most important factor to achieve goals set in business plan"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "経営計画や業務改革が目標に沿って遂行され、想定した成果を挙げていることを確認する行為",
+                    "vi": "Hành vi xác nhận rằng kế hoạch kinh doanh hoặc cải cách nghiệp vụ được thực hiện theo mục tiêu và đạt kết quả dự kiến",
+                    "en": "Act of confirming business plans or reforms are executed per goals and achieving expected results"
+                },
+                {
+                    "label": "エ",
+                    "ja": "商品やサービスの価値を機能とコストの関係で分析し、価値を向上させる手法",
+                    "vi": "Phương pháp phân tích giá trị sản phẩm/dịch vụ qua mối quan hệ chức năng và chi phí để nâng cao giá trị",
+                    "en": "Method analyzing product/service value through function-cost relationship to improve value"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "3-13",
+            "year": "平成25年度",
+            "question": {
+                "ja": "サプライチェーンマネジメントの目的はどれか。",
+                "vi": "Mục đích của Supply Chain Management là gì?",
+                "en": "What is the purpose of Supply Chain Management?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "生産、販売、物流など個々のプロセスの不要な在庫の削減やリードタイムの短縮によって、プロセス全体の最適化を図る。",
+                    "vi": "Tối ưu hóa toàn bộ quy trình bằng cách giảm tồn kho không cần thiết và rút ngắn thời gian dẫn trong các quy trình riêng lẻ như sản xuất, bán hàng, vận chuyển.",
+                    "en": "Optimize entire process by reducing unnecessary inventory and shortening lead time in individual processes like production, sales, logistics.",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "生産、販売、物流などの業務全体の効率や生産性を改善するために、業務内容や手続を根本的に見直して再構築を行う。",
+                    "vi": "Xem xét lại và tái cấu trúc cơ bản nội dung và thủ tục nghiệp vụ để cải thiện hiệu quả và năng suất toàn bộ nghiệp vụ như sản xuất, bán hàng, vận chuyển.",
+                    "en": "Fundamentally review and restructure work content and procedures to improve efficiency and productivity of entire operations."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "生産、販売、物流などの業務全体をアウトソーシングすることによって、効率改善とコストダウンを図る。",
+                    "vi": "Cải thiện hiệu quả và giảm chi phí bằng cách thuê ngoài toàn bộ nghiệp vụ như sản xuất, bán hàng, vận chuyển.",
+                    "en": "Improve efficiency and reduce costs by outsourcing entire operations like production, sales, logistics."
+                },
+                {
+                    "label": "エ",
+                    "ja": "生産、販売、物流などの個々のプロセスに加え、財務や経理なども含めた経営資源を一元的に管理する。",
+                    "vi": "Quản lý tập trung nguồn lực kinh doanh bao gồm tài chính và kế toán, ngoài các quy trình riêng lẻ như sản xuất, bán hàng, vận chuyển.",
+                    "en": "Centrally manage business resources including finance and accounting, in addition to individual processes like production, sales, logistics."
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "3-14",
+            "year": "平成24年度",
+            "question": {
+                "ja": "情報技術を利用して顧客に関する情報を収集、分析し、長期的な視点から顧客と良好な関係を築いて自社の顧客として囲い込み、収益の拡大を図る手法はどれか。",
+                "vi": "Phương pháp thu thập và phân tích thông tin về khách hàng bằng công nghệ thông tin, xây dựng quan hệ tốt với khách hàng từ góc nhìn dài hạn và giữ họ làm khách hàng của mình để mở rộng lợi nhuận là gì?",
+                "en": "Which method uses IT to collect and analyze customer information, build good long-term relationships with customers, lock them in as own customers, and expand profits?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "BSC",
+                    "vi": "BSC",
+                    "en": "BSC"
+                },
+                {
+                    "label": "イ",
+                    "ja": "CRM",
+                    "vi": "CRM",
+                    "en": "CRM",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ERP",
+                    "vi": "ERP",
+                    "en": "ERP"
+                },
+                {
+                    "label": "エ",
+                    "ja": "PPM",
+                    "vi": "PPM",
+                    "en": "PPM"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "questions_covered": "3-10, 3-11, 3-12, 3-13, 3-14",
+        "answers": "3-10: ア, 3-11: ア, 3-12: ア, 3-13: ア, 3-14: イ"
+    }
+}

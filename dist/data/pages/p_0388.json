@@ -1,0 +1,111 @@
+{
+  "page_id": 388,
+  "image": "p_0388.png",
+  "chapter": 10,
+  "section": "10-01",
+  "page_number": 372,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "10-01",
+      "title": {
+        "ja": "処理形態によるシステムの分類",
+        "vi": "Phân loại hệ thống theo hình thức xử lý",
+        "en": "System Classification by Processing Type"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "薄くて、安全なパソコン",
+        "vi": "Máy tính mỏng và an toàn",
+        "en": "Thin and Safe Computer"
+      },
+      "content": {
+        "ja": "機能の多さが求められる時代は終わりました。今は「必要な機能のみを搭載したパソコン」が主力です。パソコンの機能を減らすと、セキュリティの面で大きなメリットがあります。",
+        "vi": "Thời đại yêu cầu nhiều chức năng đã kết thúc. Hiện nay \"máy tính chỉ trang bị các chức năng cần thiết\" là xu hướng chính. Giảm chức năng máy tính có lợi ích lớn về mặt bảo mật.",
+        "en": "Era demanding many functions has ended. Now 'computers with only necessary functions' are mainstream. Reducing computer functions has major security benefits."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "本章から12章までの全3章にわたって「システム」の全容について解説していきます。第6章で「システムはハードウェアとソフトウェアに分けることができる」と解説しました（p.224）。ここからはそれぞれについてさらに細かく説明します。",
+      "vi": "Từ chương này đến chương 12, tổng cộng 3 chương, sẽ giải thích toàn bộ về \"hệ thống\". Chương 6 đã giải thích \"hệ thống có thể chia thành phần cứng và phần mềm\" (trang 224). Từ đây sẽ giải thích chi tiết hơn về từng phần.",
+      "en": "From this chapter through chapter 12, total 3 chapters, will explain entirety of 'systems.' Chapter 6 explained 'systems can be divided into hardware and software' (p.224). From here will explain each in more detail.",
+      "terms": [
+        {
+          "kanji": "本章",
+          "reading": "ほんしょう"
+        },
+        {
+          "kanji": "章",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "全",
+          "reading": "ぜん"
+        },
+        {
+          "kanji": "全容",
+          "reading": "ぜんよう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "第",
+          "reading": "だい"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "細",
+          "reading": "さい"
+        },
+        {
+          "kanji": "説明",
+          "reading": "せつめい"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "10章～12章の全体像",
+        "vi": "Tổng quan chương 10~12",
+        "en": "Overview of Chapters 10-12"
+      },
+      "description": {
+        "ja": "システムがハードウェア（10章、11章）とソフトウェア（12章）に分かれる図。ハードウェアにはコンピュータ、ディスプレイ、プリンター、入出力インタフェースが含まれ、ソフトウェアにはOSとアプリケーションソフトウェアが含まれる",
+        "vi": "Hình hệ thống chia thành phần cứng (chương 10, 11) và phần mềm (chương 12). Phần cứng bao gồm máy tính, màn hình, máy in, giao diện I/O. Phần mềm bao gồm OS và phần mềm ứng dụng",
+        "en": "Diagram showing system divided into hardware (ch.10, 11) and software (ch.12). Hardware includes computer, display, printer, I/O interface. Software includes OS and application software"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "システム",
+      "vi": "Hệ thống",
+      "en": "System",
+      "my": "စနစ်"
+    },
+    {
+      "term": "ハードウェア",
+      "vi": "Phần cứng",
+      "en": "Hardware",
+      "my": "ဟာဒ်ဝဲ"
+    },
+    {
+      "term": "ソフトウェア",
+      "vi": "Phần mềm",
+      "en": "Software",
+      "my": "ဆောဖ်ဝဲ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true
+  }
+}

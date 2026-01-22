@@ -1,0 +1,209 @@
+{
+  "page_id": 181,
+  "image": "p_0181.png",
+  "chapter": 4,
+  "section": "04-06",
+  "page_number": 165,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "04-06",
+      "ja": "IoTシステム・組込みシステム",
+      "reading": "あいおーてぃーしすてむ・くみこみしすてむ",
+      "vi": "Hệ thống IoT và Hệ thống nhúng",
+      "en": "IoT System and Embedded System",
+      "my": "IoT System နှင့် Embedded System"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "特定の機能を実行するシステム",
+        "vi": "Hệ thống thực hiện chức năng cụ thể",
+        "en": "Systems that Execute Specific Functions",
+        "my": "တိကျသော လုပ်ဆောင်ချက်များ လုပ်ဆောင်သော စနစ်များ",
+        "terms": [
+          {
+            "kanji": "機能",
+            "reading": "きのう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "現在では、一般家庭で使われている電化製品や、企業で使われている産業用ロボットなどもシステム化されています。これらのシステムの特徴は「特定の機能のみを実行する」ように作られている点です。",
+        "vi": "Ngày nay, thiết bị điện gia dụng và robot công nghiệp trong doanh nghiệp cũng được hệ thống hóa. Đặc điểm của các hệ thống này là được tạo để chỉ thực hiện chức năng cụ thể.",
+        "en": "Today, home appliances and industrial robots in businesses are also systematized. These systems are characterized by being designed to 'execute only specific functions'.",
+        "my": "ယနေ့ခေတ်တွင် အိမ်သုံး ပစ္စည်းကိရိယာများနှင့် လုပ်ငန်းသုံး စက်ရုပ်များလည်း စနစ်တကျ ဖြစ်လာသည်။",
+        "terms": [
+          {
+            "kanji": "現在",
+            "reading": "げんざい"
+          },
+          {
+            "kanji": "一般家庭",
+            "reading": "いっぱんかてい"
+          },
+          {
+            "kanji": "使",
+            "reading": "し"
+          },
+          {
+            "kanji": "電化製品",
+            "reading": "でんかせいひん"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "産業用",
+            "reading": "さんぎょうよう"
+          },
+          {
+            "kanji": "化",
+            "reading": "か"
+          },
+          {
+            "kanji": "特徴",
+            "reading": "とくちょう"
+          },
+          {
+            "kanji": "特定",
+            "reading": "とくてい"
+          },
+          {
+            "kanji": "機能",
+            "reading": "きのう"
+          },
+          {
+            "kanji": "実行",
+            "reading": "じっこう"
+          },
+          {
+            "kanji": "作",
+            "reading": "さく"
+          },
+          {
+            "kanji": "点",
+            "reading": "てん"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "IoT（Internet of Things：モノのインターネット）とは、自動車や家電などの「モノ」が直接インターネットにつながって、お互いに情報のやりとりをすることです。\n\nここでいう「モノ」に何が含まれるのかについての明確な定義はないのですが、代表的なものに家電、自動車、センサーなどが挙げられます。\n\nITパスポート試験では、IoTシステムの具体例が問われます。例えば「外出先からスマートフォンを操作して、自宅のエアコンの電源を入れることができるシステム」などがIoTシステムの例です。\n\nIoTシステムは、IoTサーバとIoTデバイスから構成されます。",
+      "vi": "IoT (Internet of Things: Internet vạn vật) là việc các vật như ô tô và thiết bị gia dụng kết nối trực tiếp internet và trao đổi thông tin với nhau.\n\nKhông có định nghĩa rõ ràng về vật ở đây bao gồm gì, nhưng đại diện là thiết bị gia dụng, ô tô, cảm biến, v.v.\n\nIT Passport hỏi về ví dụ cụ thể của hệ thống IoT. Ví dụ hệ thống có thể bật điều hòa ở nhà bằng cách thao tác smartphone từ bên ngoài là ví dụ IoT.\n\nHệ thống IoT bao gồm IoT Server và IoT Device.",
+      "en": "IoT (Internet of Things) is where 'things' like cars and appliances connect directly to the internet and exchange information.\n\nThere's no clear definition of what 'things' includes, but representative examples are home appliances, cars, sensors, etc.\n\nIT Passport tests specific IoT system examples. For example, 'a system that can turn on home AC by operating smartphone from outside' is an IoT example.\n\nIoT systems consist of IoT servers and IoT devices.",
+      "my": "IoT (Internet of Things) သည် ကားများနှင့် အိမ်သုံးပစ္စည်းများ ကဲ့သို့သော 'အရာများ' သည် အင်တာနက်သို့ တိုက်ရိုက်ချိတ်ဆက်ပြီး အချက်အလက် ဖလှယ်ခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "自動車",
+          "reading": "じどうしゃ"
+        },
+        {
+          "kanji": "家電",
+          "reading": "かでん"
+        },
+        {
+          "kanji": "直接",
+          "reading": "ちょくせつ"
+        },
+        {
+          "kanji": "互",
+          "reading": "ご"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "代表的",
+          "reading": "だいひょうてき"
+        },
+        {
+          "kanji": "挙",
+          "reading": "きょ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "外出先",
+          "reading": "がいしゅつさき"
+        },
+        {
+          "kanji": "操作",
+          "reading": "そうさ"
+        },
+        {
+          "kanji": "自宅",
+          "reading": "じたく"
+        },
+        {
+          "kanji": "電源",
+          "reading": "でんげん"
+        },
+        {
+          "kanji": "入",
+          "reading": "にゅう"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "IoT",
+      "reading": "あいおーてぃー",
+      "romaji": "Internet of Things",
+      "vi": "Internet vạn vật",
+      "en": "Internet of Things",
+      "my": "IoT"
+    },
+    {
+      "kanji": "組込みシステム",
+      "reading": "くみこみしすてむ",
+      "romaji": "Kumikomi System",
+      "vi": "Hệ thống nhúng",
+      "en": "Embedded System",
+      "my": "Embedded System"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

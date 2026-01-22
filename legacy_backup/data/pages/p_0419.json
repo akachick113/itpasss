@@ -1,0 +1,244 @@
+{
+  "page_id": 419,
+  "image": "p_0419.png",
+  "chapter": 11,
+  "section": "11-04",
+  "page_number": 403,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（2）補助記憶装置",
+      "reading": "ほじょきおくそうち",
+      "vi": "(2) Bộ nhớ phụ",
+      "en": "(2) Auxiliary Storage"
+    },
+    {
+      "type": "paragraph",
+      "ja": "補助記憶装置とは、主記憶装置を補助するための記憶装置です。補助記憶の役割は、データを長期的に保存することです。主記憶装置に保存されているデータは、コンピュータの電源が切れると消えてしまうため、必要なデータは電源を切る前に別の場所に保存しておく必要があります。その際に利用されるのが補助記憶装置です。",
+      "vi": "Bộ nhớ phụ là thiết bị ghi nhớ để hỗ trợ bộ nhớ chính. Vai trò của bộ nhớ phụ là lưu trữ dữ liệu lâu dài. Vì dữ liệu được lưu trong bộ nhớ chính sẽ biến mất khi tắt nguồn máy tính, nên dữ liệu cần thiết phải được lưu ở nơi khác trước khi tắt nguồn. Bộ nhớ phụ được sử dụng trong trường hợp đó.",
+      "en": "Auxiliary storage is memory device to assist main memory. Role of auxiliary storage is storing data long-term. Since data stored in main memory disappears when computer power is off, necessary data must be saved elsewhere before turning off power. Auxiliary storage is used for that.",
+      "terms": [
+        {
+          "kanji": "補助記憶装置",
+          "reading": "ほじょきおくそうち"
+        },
+        {
+          "kanji": "主記憶装置",
+          "reading": "しゅきおくそうち"
+        },
+        {
+          "kanji": "補助",
+          "reading": "ほじょ"
+        },
+        {
+          "kanji": "記憶装置",
+          "reading": "きおくそうち"
+        },
+        {
+          "kanji": "補助記憶",
+          "reading": "ほじょきおく"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "長期的",
+          "reading": "ちょうきてき"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "電源",
+          "reading": "でんげん"
+        },
+        {
+          "kanji": "切",
+          "reading": "せつ"
+        },
+        {
+          "kanji": "消",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "補助記憶装置には、OSやアプリケーションソフトウェア、各種データなどが保存されています。代表的な補助記憶装置にはハードディスクやSSDなどがあります。",
+      "vi": "Trong bộ nhớ phụ, OS và phần mềm ứng dụng, các loại dữ liệu, v.v. được lưu trữ. Bộ nhớ phụ điển hình bao gồm ổ đĩa cứng và SSD.",
+      "en": "Auxiliary storage stores OS, application software, various data, etc. Representative auxiliary storage includes hard disk and SSD.",
+      "terms": [
+        {
+          "kanji": "補助記憶装置",
+          "reading": "ほじょきおくそうち"
+        },
+        {
+          "kanji": "各種",
+          "reading": "かくしゅ"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "代表的",
+          "reading": "だいひょうてき"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "主な補助記憶装置",
+        "vi": "Bộ nhớ phụ chính",
+        "en": "Main Auxiliary Storage"
+      },
+      "headers": {
+        "ja": [
+          "装置名",
+          "説明"
+        ],
+        "vi": [
+          "Tên thiết bị",
+          "Giải thích"
+        ],
+        "en": [
+          "Device Name",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "name": {
+            "ja": "ハードディスク",
+            "vi": "Ổ đĩa cứng",
+            "en": "Hard Disk"
+          },
+          "description": {
+            "ja": "円盤型の磁気ディスクを高速回転させてデータを保存する記憶装置。",
+            "vi": "Thiết bị ghi nhớ lưu dữ liệu bằng cách quay đĩa từ hình tròn với tốc độ cao.",
+            "en": "Memory device storing data by rotating circular magnetic disk at high speed."
+          }
+        },
+        {
+          "name": {
+            "ja": "SSD",
+            "vi": "SSD",
+            "en": "SSD"
+          },
+          "description": {
+            "ja": "半導体メモリを使った記憶装置。",
+            "vi": "Thiết bị ghi nhớ sử dụng bộ nhớ bán dẫn.",
+            "en": "Memory device using semiconductor memory."
+          }
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ハードディスクとSSD",
+        "vi": "Ổ đĩa cứng và SSD",
+        "en": "Hard Disk and SSD"
+      },
+      "description": {
+        "ja": "ハードディスクは内部に回転する磁気ディスクがある。SSDは形状が大きく異なり、可動部品がない",
+        "vi": "Ổ đĩa cứng có đĩa từ quay bên trong. SSD có hình dạng khác biệt lớn và không có bộ phận chuyển động",
+        "en": "Hard disk has rotating magnetic disk inside. SSD has significantly different shape and no moving parts"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "SSDには次の特徴があることから、ハードディスクに代替するものとして期待されています。",
+      "vi": "Vì SSD có các đặc điểm sau nên được kỳ vọng như thay thế cho ổ đĩa cứng.",
+      "en": "Because SSD has following characteristics, it's expected as replacement for hard disk.",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "代替",
+          "reading": "だいたい"
+        },
+        {
+          "kanji": "期待",
+          "reading": "きたい"
+        }
+      ]
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        {
+          "ja": "ハードディスクには高速で回転する磁気ディスクが搭載されているため、振動や衝撃に弱いが、SSDには機械的に動く可動部品がないため、振動や衝撃に強い",
+          "vi": "Vì ổ đĩa cứng có đĩa từ quay tốc độ cao nên yếu với rung động và va chạm, nhưng vì SSD không có bộ phận chuyển động cơ học nên mạnh với rung động và va chạm",
+          "en": "Hard disk has high-speed rotating magnetic disk so weak to vibration and shock, but SSD has no mechanically moving parts so strong against vibration and shock"
+        },
+        {
+          "ja": "ハードディスクよりも消費電力が少ない",
+          "vi": "Tiêu thụ điện ít hơn ổ đĩa cứng",
+          "en": "Lower power consumption than hard disk"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "補助記憶装置",
+      "reading": "ほじょきおくそうち",
+      "vi": "Bộ nhớ phụ",
+      "en": "Auxiliary Storage",
+      "my": "အထောက်အကူ သိုလှိုင်"
+    },
+    {
+      "term": "ハードディスク",
+      "vi": "Ổ đĩa cứng (Hard Disk)",
+      "en": "Hard Disk",
+      "my": "ဟားဒ်ဒစ်"
+    },
+    {
+      "term": "SSD",
+      "full": "Solid State Drive",
+      "vi": "SSD",
+      "en": "Solid State Drive",
+      "my": "အက်စ်အက်ဒီ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

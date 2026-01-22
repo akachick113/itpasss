@@ -1,0 +1,307 @@
+{
+  "page_id": 508,
+  "image": "p_0508.png",
+  "chapter": 14,
+  "section": "14-03",
+  "page_number": 492,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "14-03",
+      "title": {
+        "ja": "通信プロトコル",
+        "vi": "Giao thức truyền thông",
+        "en": "Communication Protocol"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "共通言語があれば意思疎通ができる",
+        "vi": "Nếu có ngôn ngữ chung thì có thể giao tiếp được",
+        "en": "Can Communicate with Common Language"
+      },
+      "content": {
+        "ja": "母国語がちがう人同士でも、英語などの共通言語を知っていれば、コミュニケーションを取ることができます。",
+        "vi": "Ngay cả giữa những người có ngôn ngữ mẹ đẻ khác nhau, nếu biết ngôn ngữ chung như tiếng Anh, có thể giao tiếp được.",
+        "en": "Even between people with different native languages, if they know common language like English, can communicate."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは「通信プロトコル」について説明します。通信プロトコルはITパスポート試験でもよく出題される重要な項目の1つです。なかでも「IPアドレス」「ポート番号」「POP」「SMTP」の4つの用語は頻出です。これらの用語を念頭に置いて読み進めてください。",
+      "vi": "Từ đây sẽ giải thích về \"Giao thức truyền thông\". Giao thức truyền thông là một trong những mục quan trọng hay được ra đề trong kỳ thi IT Passport. Trong đó, 4 thuật ngữ \"Địa chỉ IP\", \"Số cổng\", \"POP\", \"SMTP\" thường xuyên xuất hiện. Hãy đọc với các thuật ngữ này trong đầu.",
+      "en": "From here will explain 'Communication Protocol.' Communication protocol is one of important items often appearing in IT Passport exam. Among them, 4 terms 'IP Address,' 'Port Number,' 'POP,' 'SMTP' appear frequently. Read with these terms in mind.",
+      "terms": [
+        {
+          "kanji": "通信",
+          "reading": "つうしん"
+        },
+        {
+          "kanji": "説明",
+          "reading": "せつめい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "番号",
+          "reading": "ばんごう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "頻出",
+          "reading": "ひんしゅつ"
+        },
+        {
+          "kanji": "念頭",
+          "reading": "ねんとう"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "通信プロトコルとは",
+      "vi": "Giao thức truyền thông là gì",
+      "en": "What is Communication Protocol"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "通信プロトコル",
+        "vi": "Giao thức truyền thông",
+        "en": "Communication Protocol"
+      },
+      "definition": {
+        "ja": "通信プロトコルとは、コンピュータとコンピュータが通信をする際に、両方のコンピュータが守るべき約束事です。簡単にいえば「ルール」です。ITパスポート試験では「メーカーやOSが異なる機器同士でも、お互いに通信できるようにするための約束事」という文章で出題されることもあります。",
+        "vi": "Giao thức truyền thông là quy ước mà cả hai máy tính phải tuân theo khi máy tính và máy tính truyền thông với nhau. Nói đơn giản là \"Quy tắc\". Trong kỳ thi IT Passport, cũng có thể ra đề bằng câu \"Quy ước để các thiết bị khác nhà sản xuất hoặc OS có thể truyền thông với nhau\".",
+        "en": "Communication protocol is promise both computers must follow when computers communicate with each other. Simply put, it's 'rules.' In IT Passport exam, may also appear as 'promise enabling devices with different manufacturers or OS to communicate with each other.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "以前は、各メーカーが独自の規格でネットワーク機器を作っていたため、他社の製品との互換性がありませんでした。そのため、ネットワーク内の機器を同じメーカーの製品で揃える必要がありました。",
+      "vi": "Trước đây, vì mỗi nhà sản xuất làm thiết bị mạng theo tiêu chuẩn riêng, nên không có tính tương thích với sản phẩm của công ty khác. Vì vậy, cần phải đồng bộ các thiết bị trong mạng với sản phẩm của cùng nhà sản xuất.",
+      "en": "Previously, since each manufacturer made network devices with their own standards, there was no compatibility with other companies' products. Therefore, needed to match devices in network with products from same manufacturer.",
+      "terms": [
+        {
+          "kanji": "以前",
+          "reading": "いぜん"
+        },
+        {
+          "kanji": "各",
+          "reading": "かく"
+        },
+        {
+          "kanji": "独自",
+          "reading": "どくじ"
+        },
+        {
+          "kanji": "規格",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "機器",
+          "reading": "きき"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "他社",
+          "reading": "たしゃ"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "互換性",
+          "reading": "ごかんせい"
+        },
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "揃",
+          "reading": "ゆ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このような状況はとても不便なので、どのメーカーの製品であっても相互に通信できるように統一されたルールが考え出されました。それが通信プロトコルです。",
+      "vi": "Tình huống như vậy rất bất tiện, nên quy tắc thống nhất đã được nghĩ ra để các sản phẩm của bất kỳ nhà sản xuất nào cũng có thể truyền thông với nhau. Đó là giao thức truyền thông.",
+      "en": "Such situation was very inconvenient, so unified rules were devised so products from any manufacturer can communicate with each other. That is communication protocol.",
+      "terms": [
+        {
+          "kanji": "状況",
+          "reading": "じょうきょう"
+        },
+        {
+          "kanji": "不便",
+          "reading": "ふべん"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "相互",
+          "reading": "そうご"
+        },
+        {
+          "kanji": "通信",
+          "reading": "つうしん"
+        },
+        {
+          "kanji": "統一",
+          "reading": "とういつ"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "通信プロトコルは言語と似ています。日本人とイタリア人がそれぞれの母国語（日本語とイタリア語）で話していてもコミュニケーションは成立しません。一方、英語などの共通の言語を使えば、意思疎通ができます。コンピュータの世界において、この「共通の言語」に相当するのが、通信プロトコルなのです。",
+      "vi": "Giao thức truyền thông giống như ngôn ngữ. Nếu người Nhật và người Ý nói bằng ngôn ngữ mẹ đẻ riêng (tiếng Nhật và tiếng Ý), giao tiếp không thành lập. Mặt khác, nếu sử dụng ngôn ngữ chung như tiếng Anh, có thể giao tiếp được. Trong thế giới máy tính, cái tương đương với \"ngôn ngữ chung\" này là giao thức truyền thông.",
+      "en": "Communication protocol is similar to language. If Japanese person and Italian person speak in their respective native languages (Japanese and Italian), communication doesn't work. On other hand, if using common language like English, can communicate. In computer world, what corresponds to this 'common language' is communication protocol.",
+      "terms": [
+        {
+          "kanji": "通信",
+          "reading": "つうしん"
+        },
+        {
+          "kanji": "言語",
+          "reading": "げんご"
+        },
+        {
+          "kanji": "似",
+          "reading": "じ"
+        },
+        {
+          "kanji": "日本人",
+          "reading": "にほんじん"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "母国語",
+          "reading": "ぼこくご"
+        },
+        {
+          "kanji": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "kanji": "語",
+          "reading": "ご"
+        },
+        {
+          "kanji": "話",
+          "reading": "はなし"
+        },
+        {
+          "kanji": "成立",
+          "reading": "せいりつ"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "英語",
+          "reading": "えいご"
+        },
+        {
+          "kanji": "共通",
+          "reading": "きょうつう"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "意思疎通",
+          "reading": "いしそつう"
+        },
+        {
+          "kanji": "世界",
+          "reading": "せかい"
+        },
+        {
+          "kanji": "相当",
+          "reading": "そうとう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "通信プロトコル",
+      "reading": "つうしんプロトコル",
+      "vi": "Giao thức truyền thông",
+      "en": "Communication Protocol",
+      "my": "ဆက်သွယ်ရေး ပရိုတိုကော (Communication Protocol)"
+    },
+    {
+      "term": "約束事",
+      "reading": "やくそくごと",
+      "vi": "Quy ước",
+      "en": "Promise/Convention",
+      "my": "သဘောတူညီချက်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

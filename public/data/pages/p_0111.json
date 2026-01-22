@@ -1,0 +1,56 @@
+{
+    "page_id": 111,
+    "image": "p_0111.png",
+    "chapter": 2,
+    "section": "answers",
+    "page_number": 95,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "2-17",
+            "answer": "ア",
+            "explanation": {
+                "ja": "業務委託先には個人情報を渡すことができますが、だからといって、いい加減に扱われては困ります。そのため、個人情報取扱事業者には業務委託先を監督する義務があります。\n\nイ. システム監査は義務ではありません。なお、プライバシーマークの取得にはシステム監査が必要です。\n\nウ. 届出は必要ありません。1つでも個人情報を扱えば個人情報取扱事業者になります。\n\nエ. プライバシーマークは取得したほうがいいですが、義務ではありません。",
+                "vi": "Có thể chuyển thông tin cá nhân cho bên ủy thác, nhưng không được xử lý cẩu thả. Do đó, nhà xử lý thông tin cá nhân có nghĩa vụ giám sát bên ủy thác.\n\nイ Kiểm toán hệ thống không bắt buộc. Lưu ý, lấy Privacy Mark cần kiểm toán hệ thống.\n\nウ Không cần đăng ký. Xử lý dù 1 thông tin cá nhân cũng thành nhà xử lý.\n\nエ Nên lấy Privacy Mark nhưng không bắt buộc.",
+                "en": "Can provide personal information to outsourcing partners, but careless handling isn't acceptable. Thus, personal information handlers must supervise outsourcing partners.\n\nB. System audit isn't mandatory. Note Privacy Mark acquisition requires system audit.\n\nC. No registration needed. Handling even 1 piece makes you a handler.\n\nD. Privacy Mark acquisition is recommended but not mandatory."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-18",
+            "answer": "エ",
+            "explanation": {
+                "ja": "要配慮個人情報とは、個人情報の中でも、より取り扱いに注意が必要な個人情報です。具体的には、人種、信条、社会的身分、病歴、犯罪の経歴、犯罪により害を被った事実などが含まれます。",
+                "vi": "Thông tin cá nhân cần lưu ý là thông tin cá nhân cần xử lý cẩn thận hơn. Cụ thể bao gồm chủng tộc, tín ngưỡng, địa vị xã hội, tiền sử bệnh, tiền án, sự thật bị hại bởi tội phạm.",
+                "en": "Sensitive personal information is personal information requiring more careful handling. Specifically includes race, beliefs, social status, medical history, criminal record, facts of being victimized by crime."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-19",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "GDPR（General Data Protection Regulation：一般データ保護規則）は、EU内の個人データの保護に関する規則です。GDPRは、EU内に拠点がある事業者に対して適用されるだけでなく、EU外に拠点がなくても、EU内に製品やサービスを提供する場合、EU域内の個人データを取り扱う場合も適用されます。したがって、GDPRに関する記述はaとcです。\n\na. 正しい。EU域内に拠点がある事業者には、一般データ保護規則が適用されます。\n\nb. 誤り。EU域内に拠点がある事業者には、一般データ保護規則が適用されます。\n\nc. 正しい。EU域内に拠点がなく、EU域内の個人データを取り扱わないなら、一般データ保護規則は適用されません。\n\nd. 誤り。EU域内に拠点がなくても、EU域内の個人データを取り扱う事業者には、一般データ保護規則が適用されます。",
+                "vi": "GDPR (Quy định chung về bảo vệ dữ liệu) là quy định bảo vệ dữ liệu cá nhân trong EU. GDPR không chỉ áp dụng cho doanh nghiệp có trụ sở trong EU mà còn áp dụng khi cung cấp sản phẩm/dịch vụ trong EU hoặc xử lý dữ liệu cá nhân EU ngay cả khi không có trụ sở trong EU. Do đó, mô tả đúng về GDPR là a và c.\n\na. Đúng. Doanh nghiệp có trụ sở trong EU phải tuân thủ GDPR.\n\nb. Sai. Doanh nghiệp có trụ sở trong EU phải tuân thủ GDPR.\n\nc. Đúng. Nếu không có trụ sở trong EU và không xử lý dữ liệu cá nhân EU thì không áp dụng GDPR.\n\nd. Sai. Ngay cả không có trụ sở trong EU, doanh nghiệp xử lý dữ liệu cá nhân EU phải tuân thủ GDPR.",
+                "en": "GDPR (General Data Protection Regulation) protects personal data within EU. GDPR applies not only to businesses based in EU but also when providing products/services in EU or handling EU personal data even without EU base. Thus, correct GDPR descriptions are a and c.\n\na. Correct. Businesses based in EU must comply with GDPR.\n\nb. Wrong. Businesses based in EU must comply with GDPR.\n\nc. Correct. If no EU base and not handling EU personal data, GDPR doesn't apply.\n\nd. Wrong. Even without EU base, businesses handling EU personal data must comply with GDPR."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-20",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "情報公開法とは、行政機関が保持する情報の公開を求めることができる法律です。今回の設問では「開示請求できるのは誰か」についてはほのめかされませんでしたが、ITパスポート試験では問われる可能性があるので、覚えておいてください。この法律は誰でも（法人や外国人でも）開示請求ができます。\n\nア. 公益通報者保護法とは、内部告発者を保護する法律です。\n\nイ. 個人情報保護法は、氏名、住所、電話番号など、個人が特定できる情報を、正しく取り扱うための法律です。\n\nエ. 不正アクセス禁止法は、他人のIDとパスワードを使って不正にログインするなどの不正なアクセスを禁止する法律です。",
+                "vi": "Luật công khai thông tin là luật cho phép yêu cầu công khai thông tin cơ quan hành chính nắm giữ. Câu hỏi này không đề cập ai có thể yêu cầu công khai, nhưng có thể được hỏi trong IT Passport nên hãy nhớ. Luật này cho phép bất kỳ ai (bao gồm pháp nhân và người nước ngoài) yêu cầu công khai.\n\nア Luật bảo vệ người tố cáo bảo vệ người tố giác nội bộ.\n\nイ Luật bảo vệ thông tin cá nhân xử lý đúng thông tin như họ tên, địa chỉ, số điện thoại.\n\nエ Luật cấm truy cập trái phép cấm đăng nhập bất hợp pháp bằng ID và mật khẩu người khác.",
+                "en": "Information Disclosure Law allows requesting disclosure of information held by administrative agencies. This question didn't mention who can request, but IT Passport may ask, so remember. This law allows anyone (including corporations and foreigners) to request disclosure.\n\nA. Whistleblower Protection Law protects internal whistleblowers.\n\nB. Personal Information Protection Law handles name, address, phone number correctly.\n\nD. Unauthorized Access Prohibition Law prohibits illegal login using others' IDs and passwords."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "2-17, 2-18, 2-19, 2-20"
+    }
+}

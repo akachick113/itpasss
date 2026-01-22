@@ -1,0 +1,335 @@
+{
+  "page_id": 249,
+  "image": "p_0249.png",
+  "chapter": 6,
+  "section": "06-03",
+  "page_number": 233,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（1）システム方式設計",
+      "reading": "しすてむほうしきせっけい",
+      "vi": "(1) Thiết kế phương thức hệ thống",
+      "en": "(1) System Architecture Design"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システム方式設計とは、システム要件定義プロセスで洗い出したシステム要件を「ハードウェア」「ソフトウェア」「手作業」のいずれかに振り分けるプロセスです。これらのうち、ハードウェアとソフトウェアに振り分けられたシステム要件のみをシステムで実現します。手作業に振り分けられたシステム要件は手作業で実現します（システムには未実装しない）。システム方式設計を行うと、システムに「何が」「いくつ」必要なのかが明確になります。",
+      "vi": "Thiết kế phương thức hệ thống là quy trình phân bổ yêu cầu hệ thống đã phát hiện trong quy trình định nghĩa yêu cầu hệ thống vào \"Phần cứng\", \"Phần mềm\" hoặc \"Thủ công\". Trong số này, chỉ yêu cầu hệ thống được phân bổ vào phần cứng và phần mềm mới được thực hiện bằng hệ thống. Yêu cầu được phân bổ vào thủ công sẽ được thực hiện thủ công (không triển khai vào hệ thống). Khi thực hiện thiết kế phương thức hệ thống, sẽ làm rõ hệ thống cần \"cái gì\" và \"bao nhiêu\".",
+      "en": "System Architecture Design is the process of allocating system requirements identified in the system requirements definition process to 'Hardware,' 'Software,' or 'Manual work.' Of these, only system requirements allocated to hardware and software are realized by the system. Requirements allocated to manual work are realized manually (not implemented in the system). When performing system architecture design, it becomes clear 'what' and 'how many' are needed for the system.",
+      "terms": [
+        {
+          "kanji": "方式設計",
+          "reading": "ほうしきせっけい"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "洗",
+          "reading": "せん"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "要件",
+          "reading": "ようけん"
+        },
+        {
+          "kanji": "手作業",
+          "reading": "てさぎょう"
+        },
+        {
+          "kanji": "振",
+          "reading": "しん"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "未実装",
+          "reading": "みじっそう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "あるシステムのシステム方式設計での振り分け例です。",
+      "vi": "Đây là ví dụ phân bổ trong thiết kế phương thức hệ thống của một hệ thống.",
+      "en": "Here's an allocation example in system architecture design for a system.",
+      "terms": [
+        {
+          "kanji": "方式設計",
+          "reading": "ほうしきせっけい"
+        },
+        {
+          "kanji": "振",
+          "reading": "しん"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "システム方式設計での振り分け例",
+        "vi": "Ví dụ phân bổ trong Thiết kế phương thức hệ thống",
+        "en": "Allocation Example in System Architecture Design"
+      },
+      "headers": {
+        "ja": [
+          "種別",
+          "内容"
+        ],
+        "vi": [
+          "Loại",
+          "Nội dung"
+        ],
+        "en": [
+          "Type",
+          "Content"
+        ]
+      },
+      "rows": [
+        {
+          "type": {
+            "ja": "ハードウェア",
+            "vi": "Phần cứng",
+            "en": "Hardware"
+          },
+          "content": {
+            "ja": "サーバ、HDD、プリンターなど。",
+            "vi": "Máy chủ, HDD, máy in, v.v.",
+            "en": "Servers, HDD, printers, etc."
+          }
+        },
+        {
+          "type": {
+            "ja": "ソフトウェア",
+            "vi": "Phần mềm",
+            "en": "Software"
+          },
+          "content": {
+            "ja": "ソフトウェア、バージョンなど。",
+            "vi": "Phần mềm, phiên bản, v.v.",
+            "en": "Software, versions, etc."
+          }
+        },
+        {
+          "type": {
+            "ja": "手作業",
+            "vi": "Thủ công",
+            "en": "Manual Work"
+          },
+          "content": {
+            "ja": "受注、在庫確認、出荷指示など。",
+            "vi": "Nhận đơn, kiểm tra tồn kho, chỉ thị xuất hàng, v.v.",
+            "en": "Order receiving, inventory check, shipping instructions, etc."
+          }
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "システム方式設計で振り分けるもの",
+        "vi": "Những gì được phân bổ trong Thiết kế phương thức hệ thống",
+        "en": "What is Allocated in System Architecture Design",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "システム方式設計は、ITパスポート試験に頻出する用語です。必ず覚えておいてください。なお、ハードウェアとソフトウェアの振り分けができれば、残ったものが必然的に手作業になるため、ITパスポート試験では、システム方式設計の振り分け対象が「ハードウェアとソフトウェアの2つ」と表記されることもあります。この点はぜひ覚えておいてください。",
+        "vi": "Thiết kế phương thức hệ thống là thuật ngữ thường xuất hiện trong kỳ thi IT Passport. Nhất định phải nhớ. Ngoài ra, nếu có thể phân bổ phần cứng và phần mềm, phần còn lại tự nhiên sẽ là thủ công, nên trong kỳ thi IT Passport, đối tượng phân bổ của thiết kế phương thức hệ thống đôi khi được ghi là \"2 loại: Phần cứng và Phần mềm\". Hãy nhớ điểm này.",
+        "en": "System Architecture Design is a frequently appearing term in IT Passport exams. Be sure to remember it. Also, if hardware and software can be allocated, what remains naturally becomes manual work, so in IT Passport exams, the allocation targets of system architecture design are sometimes written as 'two: Hardware and Software.' Please remember this point."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（2）ソフトウェア要件定義",
+      "reading": "そふとうぇあようけんていぎ",
+      "vi": "(2) Định nghĩa yêu cầu phần mềm",
+      "en": "(2) Software Requirements Definition"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ソフトウェア要件定義とは、ソフトウェアの要件（機能や性能）を決める工程です。上記の（1）システム方式設計で「ソフトウェア」に割り振られたシステム要件（つまり、ソフトウェアで実現しなければならない要件）を、この工程ではより具体化していきます。代表的なソフトウェア要件には次のものがあります。",
+      "vi": "Định nghĩa yêu cầu phần mềm là công đoạn quyết định yêu cầu (chức năng và hiệu suất) của phần mềm. Trong công đoạn này, yêu cầu hệ thống được phân bổ vào \"Phần mềm\" ở (1) Thiết kế phương thức hệ thống (tức yêu cầu phải thực hiện bằng phần mềm) sẽ được cụ thể hóa hơn. Yêu cầu phần mềm tiêu biểu bao gồm:",
+      "en": "Software Requirements Definition is the phase to decide software requirements (functions and performance). In this phase, system requirements allocated to 'Software' in (1) System Architecture Design (i.e., requirements that must be realized by software) are made more specific. Representative software requirements include:",
+      "terms": [
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "要件",
+          "reading": "ようけん"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "性能",
+          "reading": "せいのう"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "方式設計",
+          "reading": "ほうしきせっけい"
+        },
+        {
+          "kanji": "割",
+          "reading": "わり"
+        },
+        {
+          "kanji": "振",
+          "reading": "しん"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "具体化",
+          "reading": "ぐたいか"
+        },
+        {
+          "kanji": "代表的",
+          "reading": "だいひょうてき"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "・インタフェースの要件（画面、帳票、ファイルなど）",
+          "vi": "・Yêu cầu giao diện (màn hình, biểu mẫu, file, v.v.)",
+          "en": "・Interface requirements (screens, forms, files, etc.)"
+        },
+        {
+          "ja": "・データの要件（データの種類、データベースの要件など）",
+          "vi": "・Yêu cầu dữ liệu (loại dữ liệu, yêu cầu database, v.v.)",
+          "en": "・Data requirements (data types, database requirements, etc.)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、実際のシステム開発の現場では、ソフトウェア以外（ハードウェアや手作業）の要件定義も考慮する必要があるのですが、ITパスポート試験ではソフトウェアに関することだけが対象として扱われます。",
+      "vi": "Ngoài ra, trong thực tế phát triển hệ thống, cần xem xét cả định nghĩa yêu cầu ngoài phần mềm (phần cứng và thủ công), nhưng trong kỳ thi IT Passport chỉ xử lý những gì liên quan đến phần mềm.",
+      "en": "Also, in actual system development, requirements definition other than software (hardware and manual work) needs to be considered, but in IT Passport exams, only software-related matters are covered.",
+      "terms": [
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "現場",
+          "reading": "げんば"
+        },
+        {
+          "kanji": "以外",
+          "reading": "いがい"
+        },
+        {
+          "kanji": "手作業",
+          "reading": "てさぎょう"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "考慮",
+          "reading": "こうりょ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "対象",
+          "reading": "たいしょう"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "振り分け",
+      "reading": "ふりわけ",
+      "romaji": "Furiwake",
+      "vi": "Phân bổ",
+      "en": "Allocation",
+      "my": "ခွဲဝေခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true
+  }
+}

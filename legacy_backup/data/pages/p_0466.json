@@ -1,0 +1,266 @@
+{
+    "page_id": 466,
+    "image": "p_0466.png",
+    "chapter": 12,
+    "section": "practice",
+    "page_number": 450,
+    "content": [
+        {
+            "type": "practice_question",
+            "id": "12-6",
+            "question": {
+                "ja": "あるコンピュータのデータベースの内容を他のコンピュータのデータベースに複製し、両者の内容が一致するように同期させるDBMSの機能はどれか。",
+                "vi": "Chức năng của DBMS sao chép nội dung cơ sở dữ liệu của một máy tính sang cơ sở dữ liệu của máy tính khác và đồng bộ để nội dung của cả hai khớp nhau là gì.",
+                "en": "Which DBMS function copies database content from one computer to another computer's database and synchronizes so both contents match."
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "text": {
+                        "ja": "アーカイブ",
+                        "vi": "Archive (Lưu trữ)",
+                        "en": "Archive"
+                    }
+                },
+                {
+                    "id": "イ",
+                    "text": {
+                        "ja": "バックアップ",
+                        "vi": "Backup (Sao lưu)",
+                        "en": "Backup"
+                    }
+                },
+                {
+                    "id": "ウ",
+                    "text": {
+                        "ja": "レプリケーション",
+                        "vi": "Replication (Sao chép)",
+                        "en": "Replication"
+                    }
+                },
+                {
+                    "id": "エ",
+                    "text": {
+                        "ja": "ロールバック",
+                        "vi": "Rollback",
+                        "en": "Rollback"
+                    }
+                }
+            ],
+            "source": "令和7年"
+        },
+        {
+            "type": "practice_question",
+            "id": "12-7",
+            "question": {
+                "ja": "セルB2〜C8に学生の成績が科目ごとに入力されている。セルD2に計算式"IF(B2≧50, '合格', IF(C2≧50, '合格', '不合格'))"を入力し、それをセルD3〜D8に複写した。セルD2〜D8において"合格"と表示されたセルの数は幾つか。",
+                "vi": "Điểm số của sinh viên được nhập theo từng môn vào ô B2~C8. Nhập công thức \"IF(B2≧50, 'Đậu', IF(C2≧50, 'Đậu', 'Rớt'))\" vào ô D2, và sao chép sang ô D3~D8. Số ô hiển thị \"Đậu\" trong ô D2~D8 là bao nhiêu.",
+                "en": "Student grades entered by subject in cells B2~C8. Enter formula 'IF(B2≧50, 'Pass', IF(C2≧50, 'Pass', 'Fail'))' in cell D2, and copy to cells D3~D8. How many cells display 'Pass' in cells D2~D8."
+            },
+            "table_data": {
+                "headers": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "rows": [
+                    [
+                        "1",
+                        "氏名",
+                        "数学",
+                        "英語",
+                        "評価"
+                    ],
+                    [
+                        "2",
+                        "山田太郎",
+                        "50",
+                        "80",
+                        ""
+                    ],
+                    [
+                        "3",
+                        "鈴木花子",
+                        "45",
+                        "30",
+                        ""
+                    ],
+                    [
+                        "4",
+                        "佐藤次郎",
+                        "35",
+                        "85",
+                        ""
+                    ],
+                    [
+                        "5",
+                        "田中梅子",
+                        "55",
+                        "70",
+                        ""
+                    ],
+                    [
+                        "6",
+                        "山本友也",
+                        "60",
+                        "45",
+                        ""
+                    ],
+                    [
+                        "7",
+                        "伊藤春子",
+                        "30",
+                        "45",
+                        ""
+                    ],
+                    [
+                        "8",
+                        "小林潤也",
+                        "70",
+                        "35",
+                        ""
+                    ]
+                ]
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "text": {
+                        "ja": "2",
+                        "vi": "2",
+                        "en": "2"
+                    }
+                },
+                {
+                    "id": "イ",
+                    "text": {
+                        "ja": "3",
+                        "vi": "3",
+                        "en": "3"
+                    }
+                },
+                {
+                    "id": "ウ",
+                    "text": {
+                        "ja": "4",
+                        "vi": "4",
+                        "en": "4"
+                    }
+                },
+                {
+                    "id": "エ",
+                    "text": {
+                        "ja": "5",
+                        "vi": "5",
+                        "en": "5"
+                    }
+                }
+            ],
+            "source": "平成28年春"
+        },
+        {
+            "type": "practice_question",
+            "id": "12-8",
+            "question": {
+                "ja": "セルD2とE2に設定した2種類の仮の消費税率でセルA4とA5の商品の税込み価格を計算するために、セルD4に入れるべき計算式はどれか。ここで、セルD4に入力する計算式は、セルD5、E4及びE5に複写して使うものとする。",
+                "vi": "Để tính giá bao gồm thuế của sản phẩm ở ô A4 và A5 với 2 loại thuế suất tiêu thụ giả định được đặt ở ô D2 và E2, công thức cần nhập vào ô D4 là gì. Ở đây, công thức nhập vào ô D4 sẽ được sao chép và sử dụng cho ô D5, E4 và E5.",
+                "en": "To calculate tax-inclusive price of products in cells A4 and A5 with 2 types of hypothetical consumption tax rates set in cells D2 and E2, what formula should be entered in cell D4. Here, formula entered in D4 will be copied and used for cells D5, E4, and E5."
+            },
+            "table_data": {
+                "headers": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "rows": [
+                    [
+                        "1",
+                        "",
+                        "",
+                        "",
+                        "消費税率1",
+                        "消費税率2"
+                    ],
+                    [
+                        "2",
+                        "税率",
+                        "",
+                        "",
+                        "0.1",
+                        "0.2"
+                    ],
+                    [
+                        "3",
+                        "商品名",
+                        "税抜き価格",
+                        "",
+                        "税込み価格1",
+                        "税込み価格2"
+                    ],
+                    [
+                        "4",
+                        "商品A",
+                        "500",
+                        "",
+                        "",
+                        ""
+                    ],
+                    [
+                        "5",
+                        "商品B",
+                        "600",
+                        "",
+                        "",
+                        ""
+                    ]
+                ]
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "text": {
+                        "ja": "B4×(1.0＋D2)",
+                        "vi": "B4×(1.0＋D2)",
+                        "en": "B4×(1.0＋D2)"
+                    }
+                },
+                {
+                    "id": "イ",
+                    "text": {
+                        "ja": "B$4×(1.0＋D$2)",
+                        "vi": "B$4×(1.0+D$2)",
+                        "en": "B$4×(1.0＋D$2)"
+                    }
+                },
+                {
+                    "id": "ウ",
+                    "text": {
+                        "ja": "$B4×(1.0＋D$2)",
+                        "vi": "$B4×(1.0+D$2)",
+                        "en": "$B4×(1.0＋D$2)"
+                    }
+                },
+                {
+                    "id": "エ",
+                    "text": {
+                        "ja": "$B$4×(1.0＋$D2)",
+                        "vi": "$B$4×(1.0+$D2)",
+                        "en": "$B$4×(1.0＋$D2)"
+                    }
+                }
+            ],
+            "source": "平成22年秋"
+        }
+    ],
+    "meta": {
+        "is_practice_page": true,
+        "answers": {
+            "12-6": "ウ",
+            "12-7": "エ",
+            "12-8": "ウ"
+        }
+    }
+}

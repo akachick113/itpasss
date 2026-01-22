@@ -1,0 +1,332 @@
+{
+  "page_id": 250,
+  "image": "p_0250.png",
+  "chapter": 6,
+  "section": "06-03",
+  "page_number": 234,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（3）ソフトウェア方式設計",
+      "reading": "そふとうぇあほうしきせっけい",
+      "vi": "(3) Thiết kế phương thức phần mềm",
+      "en": "(3) Software Architecture Design"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ソフトウェア方式設計とは、（2）ソフトウェア要件定義で決めたソフトウェア要件（機能や性能）をプログラムの単位まで分割する工程です。ソフトウェア要件をどのように実現するかを決めます。",
+      "vi": "Thiết kế phương thức phần mềm là công đoạn chia yêu cầu phần mềm (chức năng và hiệu suất) đã quyết định trong (2) Định nghĩa yêu cầu phần mềm thành đơn vị chương trình. Quyết định cách thực hiện yêu cầu phần mềm.",
+      "en": "Software Architecture Design is the phase to divide software requirements (functions and performance) decided in (2) Software Requirements Definition into program units. It decides how to realize software requirements.",
+      "terms": [
+        {
+          "kanji": "方式設計",
+          "reading": "ほうしきせっけい"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "要件",
+          "reading": "ようけん"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "性能",
+          "reading": "せいのう"
+        },
+        {
+          "kanji": "単位",
+          "reading": "たんい"
+        },
+        {
+          "kanji": "分割",
+          "reading": "ぶんかつ"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（4）ソフトウェア詳細設計",
+      "reading": "そふとうぇあしょうさいせっけい",
+      "vi": "(4) Thiết kế chi tiết phần mềm",
+      "en": "(4) Detailed Software Design"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ソフトウェア詳細設計とは、（3）ソフトウェア方式設計で「プログラムの単位まで分割された要件」をさらに「コーディングができる単位」まで分割する工程です。",
+      "vi": "Thiết kế chi tiết phần mềm là công đoạn chia \"yêu cầu đã được chia thành đơn vị chương trình\" ở (3) Thiết kế phương thức phần mềm thành \"đơn vị có thể coding\".",
+      "en": "Detailed Software Design is the phase to further divide 'requirements divided into program units' from (3) Software Architecture Design into 'units that can be coded.'",
+      "terms": [
+        {
+          "kanji": "詳細設計",
+          "reading": "しょうさいせっけい"
+        },
+        {
+          "kanji": "方式設計",
+          "reading": "ほうしきせっけい"
+        },
+        {
+          "kanji": "単位",
+          "reading": "たんい"
+        },
+        {
+          "kanji": "分割",
+          "reading": "ぶんかつ"
+        },
+        {
+          "kanji": "要件",
+          "reading": "ようけん"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "具体的には、動作ロジックを検討し、その結果をフローチャート（流れ図）にして表します。",
+      "vi": "Cụ thể, xem xét logic hoạt động và biểu diễn kết quả bằng flowchart (lưu đồ).",
+      "en": "Specifically, operation logic is examined and the results are represented in flowcharts.",
+      "terms": [
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "動作",
+          "reading": "どうさ"
+        },
+        {
+          "kanji": "検討",
+          "reading": "けんとう"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、この工程で分割されたプログラムをソフトウェアユニット（ソフトウェア単体）といいます。",
+      "vi": "Ngoài ra, chương trình được chia trong công đoạn này gọi là Software Unit (đơn vị phần mềm).",
+      "en": "Also, programs divided in this phase are called Software Units.",
+      "terms": [
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "分割",
+          "reading": "ぶんかつ"
+        },
+        {
+          "kanji": "単体",
+          "reading": "たんたい"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "フローチャート",
+        "vi": "Flowchart",
+        "en": "Flowchart"
+      },
+      "elements": [
+        {
+          "ja": "開始",
+          "vi": "Bắt đầu",
+          "en": "Start"
+        },
+        {
+          "ja": "雨の予報？",
+          "vi": "Dự báo mưa?",
+          "en": "Rain forecast?"
+        },
+        {
+          "ja": "傘を持っていく",
+          "vi": "Mang ô theo",
+          "en": "Bring umbrella"
+        },
+        {
+          "ja": "終了",
+          "vi": "Kết thúc",
+          "en": "End"
+        }
+      ],
+      "flow": {
+        "ja": "開始 → 雨の予報？ → Yes: 傘を持っていく / No: 終了",
+        "vi": "Bắt đầu → Dự báo mưa? → Yes: Mang ô theo / No: Kết thúc",
+        "en": "Start → Rain forecast? → Yes: Bring umbrella / No: End"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験ではシステム設計の各プロセスの定義が出題される",
+        "vi": "Trong kỳ thi IT Passport sẽ ra định nghĩa của từng quy trình trong Thiết kế hệ thống",
+        "en": "IT Passport exam tests definitions of each process in System Design",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "設計",
+            "reading": "せっけい"
+          },
+          {
+            "kanji": "各",
+            "reading": "かく"
+          },
+          {
+            "kanji": "定義",
+            "reading": "ていぎ"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "システム設計の各プロセスの定義",
+        "vi": "Định nghĩa các quy trình trong Thiết kế hệ thống",
+        "en": "Definitions of System Design Processes"
+      },
+      "headers": {
+        "ja": [
+          "プロセス名",
+          "定義"
+        ],
+        "vi": [
+          "Tên quy trình",
+          "Định nghĩa"
+        ],
+        "en": [
+          "Process Name",
+          "Definition"
+        ]
+      },
+      "rows": [
+        {
+          "process": {
+            "ja": "システム方式設計",
+            "vi": "Thiết kế phương thức hệ thống",
+            "en": "System Architecture Design"
+          },
+          "definition": {
+            "ja": "システム要件を「ハードウェア」「ソフトウェア」「手作業」に振り分ける。",
+            "vi": "Phân bổ yêu cầu hệ thống vào \"Phần cứng\", \"Phần mềm\", \"Thủ công\".",
+            "en": "Allocates system requirements to 'Hardware,' 'Software,' 'Manual work.'"
+          }
+        },
+        {
+          "process": {
+            "ja": "ソフトウェア要件定義",
+            "vi": "Định nghĩa yêu cầu phần mềm",
+            "en": "Software Requirements Definition"
+          },
+          "definition": {
+            "ja": "ソフトウェアの要件（機能や性能）を決める。主にインタフェースとデータ。",
+            "vi": "Quyết định yêu cầu (chức năng và hiệu suất) phần mềm. Chủ yếu là giao diện và dữ liệu.",
+            "en": "Decides software requirements (functions and performance). Mainly interfaces and data."
+          }
+        },
+        {
+          "process": {
+            "ja": "ソフトウェア方式設計",
+            "vi": "Thiết kế phương thức phần mềm",
+            "en": "Software Architecture Design"
+          },
+          "definition": {
+            "ja": "ソフトウェア要件（機能や性能）をプログラムの単位まで分割する。",
+            "vi": "Chia yêu cầu phần mềm (chức năng và hiệu suất) thành đơn vị chương trình.",
+            "en": "Divides software requirements (functions and performance) into program units."
+          }
+        },
+        {
+          "process": {
+            "ja": "ソフトウェア詳細設計",
+            "vi": "Thiết kế chi tiết phần mềm",
+            "en": "Detailed Software Design"
+          },
+          "definition": {
+            "ja": "「プログラムの単位まで分割された要件」をさらに「コーディングができる単位」まで分割する。",
+            "vi": "Chia \"yêu cầu đã chia thành đơn vị chương trình\" thành \"đơn vị có thể coding\".",
+            "en": "Further divides 'requirements divided into program units' into 'units that can be coded.'"
+          }
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ソフトウェアユニット",
+      "reading": "そふとうぇあゆにっと",
+      "romaji": "Software Unit",
+      "vi": "Đơn vị phần mềm",
+      "en": "Software Unit",
+      "my": "ဆော့ဖ်ဝဲ ယူနစ်"
+    },
+    {
+      "kanji": "フローチャート",
+      "reading": "ふろーちゃーと",
+      "romaji": "Flowchart",
+      "vi": "Lưu đồ",
+      "en": "Flowchart",
+      "my": "လည်းပြပုံ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

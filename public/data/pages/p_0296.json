@@ -1,0 +1,272 @@
+{
+  "page_id": 296,
+  "image": "p_0296.png",
+  "chapter": 8,
+  "section": "08-01",
+  "page_number": 280,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "08-01",
+      "title": {
+        "ja": "サービスマネジメントとITIL",
+        "vi": "Service Management và ITIL",
+        "en": "Service Management and ITIL"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "サービスは無形の商品",
+        "vi": "Dịch vụ là sản phẩm vô hình",
+        "en": "Service is Intangible Product"
+      },
+      "content": {
+        "ja": "サービスとは、顧客を満足させるための無形の商品です。レストランなどで気持ちの良いサービスを受けると「あのお店はサービスが良い」などといったりします。システムにもサービスの良い悪しがあります。",
+        "vi": "Dịch vụ là sản phẩm vô hình để làm khách hàng hài lòng. Khi nhận được dịch vụ thoải mái ở nhà hàng, người ta nói \"cửa hàng đó dịch vụ tốt\". Hệ thống cũng có dịch vụ tốt xấu.",
+        "en": "Service is intangible product to satisfy customers. When receiving pleasant service at restaurants, people say 'that shop has good service.' Systems also have good or bad service."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、サービスマネジメント、およびサービスサポートの意義や目的、考え方を解説します。",
+      "vi": "Từ đây, sẽ giải thích ý nghĩa, mục đích và cách suy nghĩ của Service Management và Service Support.",
+      "en": "From here, we'll explain the meaning, purpose, and thinking of Service Management and Service Support.",
+      "terms": [
+        {
+          "kanji": "意義",
+          "reading": "いぎ"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "方",
+          "reading": "かた"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験ではこれらに関する用語として「ITIL」「PDCA」「インシデント管理」の3つの用語がよく出題されます。これらの用語については必ず理解しておいてください。",
+      "vi": "Trong kỳ thi IT Passport, 3 thuật ngữ \"ITIL\", \"PDCA\", \"Incident Management\" thường ra đề. Hãy chắc chắn hiểu những thuật ngữ này.",
+      "en": "In IT Passport exam, 3 terms 'ITIL,' 'PDCA,' 'Incident Management' are frequently tested. Make sure to understand these terms.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "また、他にも「SLA」「可用性管理」「チャットボット」も重要な用語です。",
+      "vi": "Ngoài ra, \"SLA\", \"Availability Management\", \"Chatbot\" cũng là các thuật ngữ quan trọng.",
+      "en": "Also, 'SLA,' 'Availability Management,' 'Chatbot' are also important terms.",
+      "terms": [
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "可用性管理",
+          "reading": "かようせいかんり"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "サービスマネジメント",
+      "reading": "さーびすまねじめんと",
+      "vi": "Service Management",
+      "en": "Service Management"
+    },
+    {
+      "type": "paragraph",
+      "ja": "サービスマネジメントとは、利用者に対するサービスを改善・維持する活動です。前章で解説した「プロジェクトマネジメント」は一回限りの期間限定の活動ですが（p.259）、サービスマネジメントは定期的な活動です。",
+      "vi": "Service Management là hoạt động cải thiện và duy trì dịch vụ cho người dùng. \"Project Management\" đã giải thích ở chương trước là hoạt động một lần trong thời gian giới hạn (trang 259), nhưng Service Management là hoạt động định kỳ.",
+      "en": "Service Management is activity to improve and maintain services for users. 'Project Management' explained in previous chapter is one-time, time-limited activity (p.259), but Service Management is regular activity.",
+      "terms": [
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "維持",
+          "reading": "いじ"
+        },
+        {
+          "kanji": "活動",
+          "reading": "かつどう"
+        },
+        {
+          "kanji": "前章",
+          "reading": "ぜんしょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "一回限",
+          "reading": "いっかいげん"
+        },
+        {
+          "kanji": "期間限定",
+          "reading": "きかんげんてい"
+        },
+        {
+          "kanji": "定期的",
+          "reading": "ていきてき"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "そして、その活動の内容は、サービスの品質を維持・改善することです。プロジェクトマネジメントの対象であるシステム開発のように「有形のモノ」を生み出すものではありません。",
+      "vi": "Và nội dung của hoạt động đó là duy trì và cải thiện chất lượng dịch vụ. Không phải tạo ra \"vật hữu hình\" như phát triển hệ thống là đối tượng của Project Management.",
+      "en": "And the content of that activity is maintaining and improving service quality. Unlike system development which is Project Management's target, it doesn't produce 'tangible things.'",
+      "terms": [
+        {
+          "kanji": "活動",
+          "reading": "かつどう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "品質",
+          "reading": "ひんしつ"
+        },
+        {
+          "kanji": "維持",
+          "reading": "いじ"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "対象",
+          "reading": "たいしょう"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "有形",
+          "reading": "ゆうけい"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "多くの場合において、システム開発は「システムを納品して終わり」にはなりま",
+      "vi": "Trong nhiều trường hợp, phát triển hệ thống không kết thúc với \"giao hệ thống\"",
+      "en": "In many cases, system development doesn't end with 'delivering the system'",
+      "terms": [
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "納品",
+          "reading": "のうひん"
+        },
+        {
+          "kanji": "終",
+          "reading": "おわり"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "サービスマネジメント",
+      "reading": "さーびすまねじめんと",
+      "romaji": "Service Management",
+      "vi": "Quản lý dịch vụ",
+      "en": "Service Management",
+      "my": "ဆားဗစ် မန်နေ့ဂျမန့်"
+    },
+    {
+      "kanji": "ITIL",
+      "reading": "あいてぃる",
+      "romaji": "ITIL",
+      "vi": "ITIL",
+      "en": "Information Technology Infrastructure Library",
+      "my": "အိုင်တီအိုင်အဲလ်"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

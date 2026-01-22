@@ -1,0 +1,429 @@
+{
+  "page_id": 57,
+  "image": "p_0057.png",
+  "chapter": 1,
+  "section": "01-08",
+  "page_number": 41,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "自己資本比率",
+      "reading": "じこしほんひりつ",
+      "vi": "Tỷ lệ vốn tự có",
+      "en": "Equity Ratio",
+      "my": "Equity Ratio"
+    },
+    {
+      "type": "paragraph",
+      "ja": "自己資本比率とは、総資本に対する自己資本の割合です。簡単にいうと「企業にあるお金のうち、自分のお金の割合」です。自己資本比率が高ければ借金が少なく、自己資本比率が低ければ借金が多いといえます。\n\n自己資本比率は、以下の式で計算します。\n\n自己資本比率（%）= 自己資本/総資本 × 100 ← 総資本に対する自己資本の割合\n\n自己資本とは「純資産の部」の金額です。また、総資本とは「負債の部（他人資本）」と「純資産の部（自己資本）」の金額の合計です。そのため、左図の場合は、自己資本は70百万円（40+30）、総資本は100百万円なので、自己資本比率は70%になります。",
+      "vi": "Tỷ lệ vốn tự có là tỷ lệ vốn tự có trong tổng vốn. Nói đơn giản là \"tỷ lệ tiền của mình trong tổng số tiền của doanh nghiệp\". Nếu tỷ lệ vốn tự có cao thì ít nợ, nếu thấp thì nhiều nợ.\n\nTỷ lệ vốn tự có được tính theo công thức:\n\nTỷ lệ vốn tự có (%) = Vốn tự có/Tổng vốn × 100 ← Tỷ lệ vốn tự có trong tổng vốn\n\nVốn tự có là số tiền ở \"phần vốn chủ sở hữu\". Tổng vốn là tổng số tiền của \"phần nợ phải trả (vốn vay)\" và \"phần vốn chủ sở hữu (vốn tự có)\". Trong hình bên trái, vốn tự có là 70 triệu yên (40+30), tổng vốn là 100 triệu yên, nên tỷ lệ vốn tự có là 70%.",
+      "en": "Equity ratio is the proportion of equity to total capital. Simply put, it's \"the ratio of your own money out of all the money in the company.\" If equity ratio is high, there's less debt; if low, there's more debt.\n\nEquity ratio is calculated as:\n\nEquity Ratio (%) = Equity/Total Capital × 100 ← Ratio of equity to total capital\n\nEquity is the amount in \"net assets section.\" Total capital is the sum of \"liabilities section (borrowed capital)\" and \"net assets section (equity).\" In the left figure, equity is 70 million yen (40+30), total capital is 100 million yen, so equity ratio is 70%.",
+      "my": "Equity ratio သည် total capital တွင် equity ၏ အချိုးဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "自己資本比率",
+          "reading": "じこしほんひりつ"
+        },
+        {
+          "kanji": "総資本",
+          "reading": "そうしほん"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "自己資本",
+          "reading": "じこしほん"
+        },
+        {
+          "kanji": "割合",
+          "reading": "わりあい"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "金",
+          "reading": "きん"
+        },
+        {
+          "kanji": "自分",
+          "reading": "じぶん"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "借金",
+          "reading": "しゃっきん"
+        },
+        {
+          "kanji": "少",
+          "reading": "すく"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "式",
+          "reading": "しき"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "純資産",
+          "reading": "じゅんしさん"
+        },
+        {
+          "kanji": "部",
+          "reading": "ぶ"
+        },
+        {
+          "kanji": "金額",
+          "reading": "きんがく"
+        },
+        {
+          "kanji": "負債",
+          "reading": "ふさい"
+        },
+        {
+          "kanji": "他人資本",
+          "reading": "たにんしほん"
+        },
+        {
+          "kanji": "合計",
+          "reading": "ごうけい"
+        },
+        {
+          "kanji": "左図",
+          "reading": "ひだりず"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "百万円",
+          "reading": "ひゃくまんえん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "総資本回転率",
+      "reading": "そうしほんかいてんりつ",
+      "vi": "Tỷ suất vòng quay tổng vốn",
+      "en": "Total Capital Turnover Rate",
+      "my": "Total Capital Turnover Rate"
+    },
+    {
+      "type": "paragraph",
+      "ja": "総資本回転率とは、総資本に対する売上高の割合です。総資本回転率は、企業が資本を使ってどれだけ効率よく売上を得ることができたかを示します。総資本回転率が高いほど、少ない総資本で大きな売上を得ていることになります。\n\n総資本回転率は、以下の式で計算します。\n\n総資本回転率 = 売上/総資本 ← 総資本に対する売上高の割合\n\n例えば、売上高が200百万円、総資本が100百万円の場合、総資本回転率は2回転になります。",
+      "vi": "Tỷ suất vòng quay tổng vốn là tỷ lệ doanh thu trên tổng vốn. Tỷ suất này cho thấy doanh nghiệp có thể tạo ra doanh thu hiệu quả như thế nào từ vốn. Tỷ suất vòng quay tổng vốn càng cao thì càng tạo được doanh thu lớn với tổng vốn ít.\n\nTỷ suất vòng quay tổng vốn được tính:\n\nTỷ suất vòng quay tổng vốn = Doanh thu/Tổng vốn ← Tỷ lệ doanh thu trên tổng vốn\n\nVí dụ, nếu doanh thu là 200 triệu yên, tổng vốn là 100 triệu yên, thì tỷ suất vòng quay tổng vốn là 2 vòng.",
+      "en": "Total capital turnover rate is the ratio of sales to total capital. This shows how efficiently a company can generate sales using its capital. The higher the turnover rate, the more sales generated with less total capital.\n\nTotal capital turnover rate is calculated as:\n\nTotal Capital Turnover Rate = Sales/Total Capital ← Ratio of sales to total capital\n\nFor example, if sales are 200 million yen and total capital is 100 million yen, the total capital turnover rate is 2 times.",
+      "my": "Total capital turnover rate သည် total capital နှင့် sales ၏ အချိုးဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "総資本回転率",
+          "reading": "そうしほんかいてんりつ"
+        },
+        {
+          "kanji": "総資本",
+          "reading": "そうしほん"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "売上高",
+          "reading": "うりあげだか"
+        },
+        {
+          "kanji": "割合",
+          "reading": "わりあい"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "資本",
+          "reading": "しほん"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "効率",
+          "reading": "こうりつ"
+        },
+        {
+          "kanji": "売上",
+          "reading": "うりあげ"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "示",
+          "reading": "じ"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "少",
+          "reading": "すく"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "式",
+          "reading": "しき"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "百万円",
+          "reading": "ひゃくまんえん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "回転",
+          "reading": "かいてん"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・資本金は、貸借対照表の純資産の部に分類される\n・自己資本比率とは、自己資本÷総資本×100\n・総資本回転率とは、売上高÷総資本",
+        "vi": "・Vốn điều lệ được phân loại vào phần vốn chủ sở hữu trong bảng cân đối kế toán\n・Tỷ lệ vốn tự có = Vốn tự có ÷ Tổng vốn × 100\n・Tỷ suất vòng quay tổng vốn = Doanh thu ÷ Tổng vốn",
+        "en": "・Capital is classified in the net assets section of the balance sheet\n・Equity ratio = Equity ÷ Total Capital × 100\n・Total capital turnover rate = Sales ÷ Total Capital",
+        "my": "・Capital သည် balance sheet ၏ net assets section တွင် ခွဲခြား",
+        "terms": [
+          {
+            "kanji": "資本金",
+            "reading": "しほんきん"
+          },
+          {
+            "kanji": "貸借対照表",
+            "reading": "たいしゃくたいしょうひょう"
+          },
+          {
+            "kanji": "純資産",
+            "reading": "じゅんしさん"
+          },
+          {
+            "kanji": "部",
+            "reading": "ぶ"
+          },
+          {
+            "kanji": "分類",
+            "reading": "ぶんるい"
+          },
+          {
+            "kanji": "自己資本比率",
+            "reading": "じこしほんひりつ"
+          },
+          {
+            "kanji": "自己資本",
+            "reading": "じこしほん"
+          },
+          {
+            "kanji": "総資本",
+            "reading": "そうしほん"
+          },
+          {
+            "kanji": "総資本回転率",
+            "reading": "そうしほんかいてんりつ"
+          },
+          {
+            "kanji": "売上高",
+            "reading": "うりあげだか"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "損益計算書",
+      "reading": "そんえきけいさんしょ",
+      "vi": "Báo cáo kết quả kinh doanh",
+      "en": "Income Statement",
+      "my": "Income Statement"
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "よく出題される！",
+        "vi": "Thường được ra đề!",
+        "en": "Frequently tested!",
+        "my": "မကြာခဏ မေးလေ့ရှိသည်!",
+        "terms": [
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          }
+        ]
+      },
+      "content": {
+        "ja": "損益計算書は試験によく出題されます。",
+        "vi": "Báo cáo kết quả kinh doanh thường được ra đề trong thi.",
+        "en": "Income statement is frequently tested on exams.",
+        "my": "Income statement ကို စာမေးပွဲတွင် မကြာခဏ မေးသည်။",
+        "terms": [
+          {
+            "kanji": "損益計算書",
+            "reading": "そんえきけいさんしょ"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "損益計算書とは、企業の利益が書かれた書類です。損益計算書の目的は「企業がどんな方法でお金を稼いだかを明らかにすること」です。つまり、損益計算書を見",
+      "vi": "Báo cáo kết quả kinh doanh là tài liệu ghi lợi nhuận của doanh nghiệp. Mục đích của báo cáo kết quả kinh doanh là \"làm rõ doanh nghiệp kiếm tiền bằng cách nào\". Nghĩa là, nhìn vào báo cáo kết quả kinh doanh",
+      "en": "An income statement is a document showing a company's profit. The purpose of an income statement is \"to clarify how the company made money.\" In other words, looking at the income statement",
+      "my": "Income statement သည် ကုမ္ပဏီ၏ အမြတ်ကို ပြသသော စာရွက်စာတမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "損益計算書",
+          "reading": "そんえきけいさんしょ"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "書類",
+          "reading": "しょるい"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "金",
+          "reading": "きん"
+        },
+        {
+          "kanji": "稼",
+          "reading": "か"
+        },
+        {
+          "kanji": "明",
+          "reading": "めい"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "自己資本比率",
+      "reading": "じこしほんひりつ",
+      "romaji": "Jiko Shihon Hiritsu",
+      "vi": "Tỷ lệ vốn tự có",
+      "en": "Equity Ratio",
+      "my": "Equity Ratio"
+    },
+    {
+      "kanji": "総資本回転率",
+      "reading": "そうしほんかいてんりつ",
+      "romaji": "Sou Shihon Kaitenritsu",
+      "vi": "Tỷ suất vòng quay tổng vốn",
+      "en": "Total Capital Turnover Rate",
+      "my": "Total Capital Turnover Rate"
+    },
+    {
+      "kanji": "損益計算書",
+      "reading": "そんえきけいさんしょ",
+      "romaji": "Soneki Keisansho",
+      "vi": "Báo cáo kết quả kinh doanh",
+      "en": "Income Statement",
+      "my": "Income Statement"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_formula": true
+  }
+}

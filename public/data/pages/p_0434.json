@@ -1,0 +1,233 @@
+{
+    "page_id": 434,
+    "image": "p_0434.png",
+    "chapter": 11,
+    "section": "practice",
+    "page_number": 418,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "11-5",
+            "year": "平成27年度",
+            "question": {
+                "ja": "PCの処理効率を高めるために、CPUが主記憶にアクセスする時間を見かけ上短縮することを目的としたものはどれか。",
+                "vi": "Để nâng cao hiệu quả xử lý của PC, cái nào nhằm mục đích rút ngắn thời gian CPU truy cập bộ nhớ chính một cách biểu kiến?",
+                "en": "To improve PC processing efficiency, which aims to apparently shorten time CPU accesses main memory?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": "SSD"
+                },
+                {
+                    "choice": "イ",
+                    "text": {
+                        "ja": "仮想記憶",
+                        "vi": "Bộ nhớ ảo",
+                        "en": "Virtual Memory"
+                    }
+                },
+                {
+                    "choice": "ウ",
+                    "text": {
+                        "ja": "キャッシュメモリ",
+                        "vi": "Bộ nhớ cache",
+                        "en": "Cache Memory"
+                    }
+                },
+                {
+                    "choice": "エ",
+                    "text": {
+                        "ja": "デフラグ",
+                        "vi": "Defrag",
+                        "en": "Defrag"
+                    }
+                }
+            ],
+            "correct_answer": "ウ"
+        },
+        {
+            "type": "exam_question",
+            "number": "11-6",
+            "year": "令和6年度",
+            "question": {
+                "ja": "PCにおいて、電力供給を断つと記憶内容が失われるメモリ又は記憶媒体はどれか。",
+                "vi": "Trong PC, bộ nhớ hoặc phương tiện lưu trữ nào mất nội dung ghi nhớ khi ngắt nguồn điện?",
+                "en": "In PC, which memory or storage medium loses stored content when power supply is cut?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": "DVD-RAM"
+                },
+                {
+                    "choice": "イ",
+                    "text": "DRAM"
+                },
+                {
+                    "choice": "ウ",
+                    "text": "ROM"
+                },
+                {
+                    "choice": "エ",
+                    "text": {
+                        "ja": "フラッシュメモリ",
+                        "vi": "Flash memory",
+                        "en": "Flash Memory"
+                    }
+                }
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "11-7",
+            "year": "令和7年度",
+            "question": {
+                "ja": "次の記憶媒体のうち、記憶素子として半導体メモリを用いているものだけを全て挙げたものはどれか。",
+                "vi": "Trong các phương tiện lưu trữ sau, cái nào chỉ liệt kê những phương tiện sử dụng bộ nhớ bán dẫn làm phần tử ghi nhớ?",
+                "en": "Among following storage media, which lists only those using semiconductor memory as storage element?"
+            },
+            "options": [
+                {
+                    "id": "a",
+                    "text": "CD-ROM"
+                },
+                {
+                    "id": "b",
+                    "text": "DVD-RAM"
+                },
+                {
+                    "id": "c",
+                    "text": "RAM"
+                },
+                {
+                    "id": "d",
+                    "text": "SSD"
+                },
+                {
+                    "id": "e",
+                    "text": {
+                        "ja": "USBメモリ",
+                        "vi": "USB memory",
+                        "en": "USB Memory"
+                    }
+                }
+            ],
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": "a, b, c"
+                },
+                {
+                    "choice": "イ",
+                    "text": "a, b, e"
+                },
+                {
+                    "choice": "ウ",
+                    "text": "c, d, e"
+                },
+                {
+                    "choice": "エ",
+                    "text": "c, e"
+                }
+            ],
+            "correct_answer": "ウ"
+        },
+        {
+            "type": "exam_question",
+            "number": "11-8",
+            "year": "平成28年度",
+            "question": {
+                "ja": "機械的な可動部分が無く、電力消費も少ないという特徴をもつ補助記憶装置はどれか。",
+                "vi": "Thiết bị lưu trữ phụ nào có đặc điểm không có bộ phận chuyển động cơ học và tiêu thụ điện ít?",
+                "en": "Which auxiliary storage device has characteristic of no mechanical moving parts and low power consumption?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": {
+                        "ja": "CD-RWドライブ",
+                        "vi": "Ổ đĩa CD-RW",
+                        "en": "CD-RW Drive"
+                    }
+                },
+                {
+                    "choice": "イ",
+                    "text": {
+                        "ja": "DVDドライブ",
+                        "vi": "Ổ đĩa DVD",
+                        "en": "DVD Drive"
+                    }
+                },
+                {
+                    "choice": "ウ",
+                    "text": "HDD"
+                },
+                {
+                    "choice": "エ",
+                    "text": "SSD"
+                }
+            ],
+            "correct_answer": "エ"
+        },
+        {
+            "type": "exam_question",
+            "number": "11-9",
+            "year": "平成24年度",
+            "question": {
+                "ja": "スキャナーやプリンターの性能の一つである解像度を表す単位はどれか。",
+                "vi": "Đơn vị nào biểu thị độ phân giải - một trong các hiệu suất của máy quét và máy in?",
+                "en": "Which unit represents resolution - one of scanner and printer performances?"
+            },
+            "choices": [
+                {
+                    "choice": "ア",
+                    "text": "bps"
+                },
+                {
+                    "choice": "イ",
+                    "text": "dpi"
+                },
+                {
+                    "choice": "ウ",
+                    "text": "fps"
+                },
+                {
+                    "choice": "エ",
+                    "text": "Hz"
+                }
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "answers_footer",
+            "answers": [
+                {
+                    "number": "11-5",
+                    "answer": "ウ"
+                },
+                {
+                    "number": "11-6",
+                    "answer": "イ"
+                },
+                {
+                    "number": "11-7",
+                    "answer": "ウ"
+                },
+                {
+                    "number": "11-8",
+                    "answer": "エ"
+                },
+                {
+                    "number": "11-9",
+                    "answer": "イ"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 5
+    }
+}

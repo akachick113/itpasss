@@ -1,0 +1,179 @@
+{
+  "page_id": 391,
+  "image": "p_0391.png",
+  "chapter": 10,
+  "section": "10-02",
+  "page_number": 375,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "10-02",
+      "title": {
+        "ja": "利用形態やシステム構成による分類",
+        "vi": "Phân loại theo hình thức sử dụng và cấu trúc hệ thống",
+        "en": "Classification by Usage Type and System Configuration"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "ダブルチェック",
+        "vi": "Kiểm tra kép",
+        "en": "Double Check"
+      },
+      "content": {
+        "ja": "服や食材などの品質検査では、1つの商品を2人でチェックすることがあります。システムにも、処理の結果が正しいかを2つのコンピュータでチェックする構成があります。",
+        "vi": "Trong kiểm tra chất lượng quần áo và thực phẩm, đôi khi 2 người kiểm tra một sản phẩm. Hệ thống cũng có cấu trúc 2 máy tính kiểm tra xem kết quả xử lý có đúng không.",
+        "en": "In quality inspection of clothes and food, sometimes 2 people check one product. Systems also have configuration where 2 computers check if processing result is correct."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "前項ではシステムを「処理形態」で分類しました。ここからは「利用形態」「システム構成」によるシステムの分類を解説します。",
+      "vi": "Phần trước đã phân loại hệ thống theo \"hình thức xử lý\". Từ đây sẽ giải thích phân loại hệ thống theo \"hình thức sử dụng\" và \"cấu trúc hệ thống\".",
+      "en": "Previous section classified systems by 'processing type.' From here explains system classification by 'usage type' and 'system configuration.'",
+      "terms": [
+        {
+          "kanji": "前項",
+          "reading": "ぜんこう"
+        },
+        {
+          "kanji": "処理形態",
+          "reading": "しょりけいたい"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "利用形態",
+          "reading": "りようけいたい"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "利用形態による分類",
+      "reading": "りようけいたいによるぶんるい",
+      "vi": "Phân loại theo hình thức sử dụng",
+      "en": "Classification by Usage Type"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システムの利用形態の1つに、サーバの仮想化があります。サーバの仮想化とは、1つのコンピュータ上で、複数のサーバを仮想的に動作させる技術です。",
+      "vi": "Một trong các hình thức sử dụng hệ thống là ảo hóa server. Ảo hóa server là công nghệ vận hành ảo nhiều server trên một máy tính.",
+      "en": "One system usage type is server virtualization. Server virtualization is technology virtually operating multiple servers on one computer.",
+      "terms": [
+        {
+          "kanji": "利用形態",
+          "reading": "りようけいたい"
+        },
+        {
+          "kanji": "仮想化",
+          "reading": "かそうか"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "仮想的",
+          "reading": "かそうてき"
+        },
+        {
+          "kanji": "動作",
+          "reading": "どうさ"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "通常、OSは1つのサーバに1つですが、サーバを仮想化すると、1つのサーバ上に複数のOSをインストールすることができます。例えば下図では、サーバに3つのOSをインストールしています。このようにすることで、実際には1つしかないサーバを「あたかも3つあるかのように」見せかけることができます。",
+      "vi": "Thông thường, mỗi server có một OS, nhưng khi ảo hóa server, có thể cài đặt nhiều OS trên một server. Ví dụ trong hình dưới, cài đặt 3 OS trên server. Bằng cách này, server thực tế chỉ có một nhưng có thể \"trông như có 3\".",
+      "en": "Usually one OS per server, but with server virtualization, can install multiple OSs on one server. For example in diagram below, 3 OSs installed on server. By doing this, can make server that actually only has one 'appear as if there are 3.'",
+      "terms": [
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "仮想化",
+          "reading": "かそうか"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "サーバの仮想化",
+        "vi": "Ảo hóa server",
+        "en": "Server Virtualization"
+      },
+      "description": {
+        "ja": "3台の物理サーバがそれぞれアプリとOSを持つ構成から、1台のサーバに仮想化ソフトを入れて3つのOS/アプリを動かす構成への変化を示す図",
+        "vi": "Hình cho thấy sự thay đổi từ cấu trúc 3 server vật lý mỗi cái có app và OS riêng, sang cấu trúc 1 server có phần mềm ảo hóa chạy 3 OS/app",
+        "en": "Diagram showing change from 3 physical servers each with app and OS, to 1 server with virtualization software running 3 OSs/apps"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "サーバの仮想化",
+      "vi": "Ảo hóa server",
+      "en": "Server Virtualization",
+      "my": "ဆာဗာ အဌိတ်ပြုချင်း"
+    },
+    {
+      "kanji": "仮想化",
+      "reading": "かそうか",
+      "vi": "Ảo hóa",
+      "en": "Virtualization",
+      "my": "အဌိတ်ပြုချင်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

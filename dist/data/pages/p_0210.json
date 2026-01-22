@@ -1,0 +1,161 @@
+{
+    "page_id": 210,
+    "image": "p_0210.png",
+    "chapter": 5,
+    "section": "practice",
+    "page_number": 194,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "5-5",
+            "year": "平成28年度",
+            "question": {
+                "ja": "電子メール、電子掲示板を介したコミュニケーション、情報共有、電子会議などの各種機能を有し、共同作業環境を提供するソフトウェアを何と呼ぶか。",
+                "vi": "Phần mềm có các chức năng như giao tiếp qua email, bảng tin điện tử, chia sẻ thông tin, hội nghị điện tử và cung cấp môi trường làm việc cộng tác gọi là gì?",
+                "en": "What is software called that has functions like email, electronic bulletin board communication, information sharing, electronic conferencing and provides a collaborative work environment?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "グループウェア",
+                    "vi": "Groupware",
+                    "en": "Groupware",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "シェアウェア",
+                    "vi": "Shareware",
+                    "en": "Shareware"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ファームウェア",
+                    "vi": "Firmware",
+                    "en": "Firmware"
+                },
+                {
+                    "label": "エ",
+                    "ja": "フリーウェア",
+                    "vi": "Freeware",
+                    "en": "Freeware"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-6",
+            "year": "平成21年度",
+            "question": {
+                "ja": "SaaSを説明したものはどれか。",
+                "vi": "Giải thích về SaaS là gì?",
+                "en": "Which explains SaaS?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "コンピュータ設備の利用をサービスとして提供し、使用料を課金する。",
+                    "vi": "Cung cấp việc sử dụng thiết bị máy tính như dịch vụ và tính phí sử dụng.",
+                    "en": "Providing computer facility usage as a service and charging usage fees."
+                },
+                {
+                    "label": "イ",
+                    "ja": "情報システム部門の機能の一部を受託し、業務委託料を課金する。",
+                    "vi": "Nhận ủy thác một phần chức năng bộ phận hệ thống thông tin và tính phí ủy thác.",
+                    "en": "Undertaking part of information system department functions and charging outsourcing fees."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ソフトウェアの機能を複数の企業にインターネット経由でサービスとして提供し、使用料を課金する。",
+                    "vi": "Cung cấp chức năng phần mềm cho nhiều công ty như dịch vụ qua internet và tính phí sử dụng.",
+                    "en": "Providing software functions to multiple companies as a service via internet and charging usage fees.",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "ソフトウェアをダウンロードさせる対価としてライセンス料を課金する。",
+                    "vi": "Tính phí license như đối giá cho việc tải phần mềm.",
+                    "en": "Charging license fees as compensation for downloading software."
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-7",
+            "year": "平成28年度",
+            "question": {
+                "ja": "自然災害などによるシステム障害に備えるため、自社のコンピュータセンターとは別の地域に自社のバックアップサーバを設置したい。このとき利用する外部事業者のサービスとして、適切なものはどれか。",
+                "vi": "Để chuẩn bị cho sự cố hệ thống do thiên tai, muốn đặt backup server của công ty ở khu vực khác với computer center của công ty. Dịch vụ của nhà cung cấp bên ngoài sử dụng trong trường hợp này là gì?",
+                "en": "To prepare for system failures from natural disasters, you want to install your company's backup server in a different region from your computer center. Which external provider service is appropriate for this?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "ASP",
+                    "vi": "ASP",
+                    "en": "ASP"
+                },
+                {
+                    "label": "イ",
+                    "ja": "BPO",
+                    "vi": "BPO",
+                    "en": "BPO"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "SaaS",
+                    "vi": "SaaS",
+                    "en": "SaaS"
+                },
+                {
+                    "label": "エ",
+                    "ja": "ハウジング",
+                    "vi": "Housing",
+                    "en": "Housing",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-8",
+            "year": "令和7年度",
+            "question": {
+                "ja": "RPAに関する記述として、最も適切なものはどれか。",
+                "vi": "Mô tả phù hợp nhất về RPA là gì?",
+                "en": "Which is the most appropriate description of RPA?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "企業の一部の業務を外部の組織に委託することによって、自社のリソースを重要な領域に集中したり、コストの最適化や業務の高効率化などを実現したりする。",
+                    "vi": "Bằng cách ủy thác một phần nghiệp vụ của doanh nghiệp cho tổ chức bên ngoài, tập trung nguồn lực vào lĩnh vực quan trọng, thực hiện tối ưu hóa chi phí và hiệu quả hóa nghiệp vụ.",
+                    "en": "By outsourcing part of company's work to external organizations, concentrate resources on important areas, achieve cost optimization and work efficiency."
+                },
+                {
+                    "label": "イ",
+                    "ja": "組立てや搬送などにハードウェアのロボットを用いることによって、工場の生産活動の自動化を実現する。",
+                    "vi": "Bằng cách sử dụng robot hardware trong lắp ráp và vận chuyển, thực hiện tự động hóa hoạt động sản xuất nhà máy.",
+                    "en": "By using hardware robots for assembly and transport, automate factory production activities."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "システムの利用者が、主体的にシステム管理や運用を行うことによって、利用者のITリテラシーの向上や、システムベンダーへの依存の軽減などを実現する。",
+                    "vi": "Bằng cách người dùng hệ thống chủ động quản lý và vận hành hệ thống, nâng cao kỹ năng IT của người dùng và giảm phụ thuộc vào vendor hệ thống.",
+                    "en": "By users proactively managing and operating systems, improve user IT literacy and reduce dependence on system vendors."
+                },
+                {
+                    "label": "エ",
+                    "ja": "ホワイトカラーの定型的な事務作業を、ソフトウェアのロボットに代替させることによって、自動化や効率化を図る。",
+                    "vi": "Bằng cách thay thế công việc văn phòng định hình của white-collar bằng robot phần mềm, hướng tới tự động hóa và hiệu quả hóa.",
+                    "en": "By replacing white-collar routine office work with software robots, aim for automation and efficiency.",
+                    "correct": true
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 4
+    }
+}

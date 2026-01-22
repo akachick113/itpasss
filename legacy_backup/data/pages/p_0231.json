@@ -1,0 +1,343 @@
+{
+  "page_id": 231,
+  "image": "p_0231.png",
+  "chapter": 5,
+  "section": "05-08",
+  "page_number": 215,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "提案依頼書と提案書",
+      "vi": "Yêu cầu đề xuất và Đề xuất",
+      "en": "Request for Proposal and Proposal"
+    },
+    {
+      "type": "paragraph",
+      "ja": "「提案依頼書」と「提案書」は名称が似ているので混同しないように注意してください。提案依頼書は発注側の企業が作成してベンダーに渡す文書です。一方、提案書はベンダーが提案依頼書に応える形で作成する文書です。",
+      "vi": "'Yêu cầu đề xuất' và 'Đề xuất' có tên giống nhau nên hãy chú ý không nhầm lẫn. Yêu cầu đề xuất là tài liệu doanh nghiệp bên đặt hàng tạo và đưa cho Vendor. Mặt khác, Đề xuất là tài liệu Vendor tạo để đáp ứng Yêu cầu đề xuất.",
+      "en": "'Request for Proposal' and 'Proposal' have similar names, so be careful not to confuse them. Request for Proposal is a document created by the ordering company and given to vendors. Meanwhile, Proposal is a document vendors create in response to the Request for Proposal.",
+      "my": "'Request for Proposal' နှင့် 'Proposal' တို့သည် အမည်တူသောကြောင့် မရှုပ်ထွေးရန် သတိထားပါ။",
+      "terms": [
+        {
+          "kanji": "提案依頼書",
+          "reading": "ていあんいらいしょ"
+        },
+        {
+          "kanji": "提案書",
+          "reading": "ていあんしょ"
+        },
+        {
+          "kanji": "名称",
+          "reading": "めいしょう"
+        },
+        {
+          "kanji": "似",
+          "reading": "じ"
+        },
+        {
+          "kanji": "混同",
+          "reading": "こんどう"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        },
+        {
+          "kanji": "発注側",
+          "reading": "はっちゅうがわ"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "応",
+          "reading": "おう"
+        },
+        {
+          "kanji": "形",
+          "reading": "かたち"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・RFIとRFPを区別する問題が出題される。\n　RFIは情報提供依頼書、RFPは提案依頼書\n・RFIとRFPを誰が書くのかが問われる。\n　RFPとRFIはともに発注元が作成する\n・RFIの目的は「ベンダーの一次審査」と「技術情報集め」",
+        "vi": "・Câu hỏi phân biệt RFI và RFP được ra đề.\n　RFI là Yêu cầu cung cấp thông tin, RFP là Yêu cầu đề xuất\n・Câu hỏi ai viết RFI và RFP được đưa ra.\n　Cả RFP và RFI đều do bên đặt hàng tạo\n・Mục đích RFI là 'Sàng lọc sơ bộ Vendor' và 'Thu thập thông tin kỹ thuật'",
+        "en": "・Questions distinguishing RFI and RFP are tested.\n　RFI is Request for Information, RFP is Request for Proposal\n・Questions about who writes RFI and RFP are asked.\n　Both RFP and RFI are created by the ordering party\n・RFI purposes are 'Vendor primary screening' and 'Technical information collection'",
+        "my": "・ RFI နှင့် RFP ကို ခွဲခြားသော မေးခွန်းများ စစ်ဆေးသည်",
+        "terms": [
+          {
+            "kanji": "区別",
+            "reading": "くべつ"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "情報提供依頼書",
+            "reading": "じょうほうていきょういらいしょ"
+          },
+          {
+            "kanji": "提案依頼書",
+            "reading": "ていあんいらいしょ"
+          },
+          {
+            "kanji": "誰",
+            "reading": "だれ"
+          },
+          {
+            "kanji": "書",
+            "reading": "かき"
+          },
+          {
+            "kanji": "問",
+            "reading": "とん"
+          },
+          {
+            "kanji": "発注元",
+            "reading": "はっちゅうもと"
+          },
+          {
+            "kanji": "作成",
+            "reading": "さくせい"
+          },
+          {
+            "kanji": "目的",
+            "reading": "もくてき"
+          },
+          {
+            "kanji": "一次審査",
+            "reading": "いちじしんさ"
+          },
+          {
+            "kanji": "技術情報集",
+            "reading": "ぎじゅつじょうほうしゅう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "最後の作業",
+        "vi": "Công việc cuối cùng",
+        "en": "Final Task"
+      },
+      "content": {
+        "ja": "すべてのシステム開発が完了したら、その内容を確認します。これを「検収」といいます。検収が終われば、調達が完了となります。",
+        "vi": "Khi tất cả phát triển hệ thống hoàn thành, sẽ xác nhận nội dung. Điều này gọi là 'Nghiệm thu'. Khi nghiệm thu xong, mua sắm hoàn tất.",
+        "en": "When all system development is complete, the content is confirmed. This is called 'Acceptance'. When acceptance is done, procurement is complete.",
+        "terms": [
+          {
+            "kanji": "開発",
+            "reading": "かいはつ"
+          },
+          {
+            "kanji": "完了",
+            "reading": "かんりょう"
+          },
+          {
+            "kanji": "内容",
+            "reading": "ないよう"
+          },
+          {
+            "kanji": "確認",
+            "reading": "かくにん"
+          },
+          {
+            "kanji": "検収",
+            "reading": "けんしゅう"
+          },
+          {
+            "kanji": "終",
+            "reading": "おわり"
+          },
+          {
+            "kanji": "調達",
+            "reading": "ちょうたつ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "グリーン調達",
+        "vi": "Green Procurement",
+        "en": "Green Procurement",
+        "terms": [
+          {
+            "kanji": "グリーン調達",
+            "reading": "ぐりーんちょうたつ"
+          },
+          {
+            "kanji": "調達",
+            "reading": "ちょうたつ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "グリーン調達とは、調達先から製品を買うときに、単に安さや品質で選ぶのではなく、環境にやさしい製品を優先して購入することです。グリーン調達は「グリーン購入法」（環境にやさしい製品を優先して調達すること）に対応しています。\n\nこれから調達先を決める企業は、環境にやさしい製品を作っているかどうかわかりづらいこともあります。このような場合は、ISO14001を取得するなど、自社がグリーン調達に適した企業であるということを外部に知らせることができます。",
+        "vi": "Green Procurement là khi mua sản phẩm từ nhà cung cấp, không chỉ chọn vì rẻ hay chất lượng mà ưu tiên mua sản phẩm thân thiện môi trường. Green Procurement đáp ứng 'Luật Mua sắm xanh' (ưu tiên mua sắm sản phẩm thân thiện môi trường).\n\nDoanh nghiệp sắp quyết định nhà cung cấp có thể khó biết có sản xuất sản phẩm thân thiện môi trường không. Trong trường hợp này, có thể lấy ISO14001 để cho bên ngoài biết công ty phù hợp với Green Procurement.",
+        "en": "Green Procurement means when buying products from suppliers, not just choosing based on cheapness or quality, but prioritizing eco-friendly products. Green Procurement corresponds to the 'Green Purchasing Law' (prioritizing procurement of eco-friendly products).\n\nCompanies deciding on suppliers may find it hard to tell if they make eco-friendly products. In such cases, they can inform outsiders that their company suits Green Procurement by obtaining ISO14001, etc.",
+        "terms": [
+          {
+            "kanji": "調達",
+            "reading": "ちょうたつ"
+          },
+          {
+            "kanji": "調達先",
+            "reading": "ちょうたつさき"
+          },
+          {
+            "kanji": "製品",
+            "reading": "せいひん"
+          },
+          {
+            "kanji": "買",
+            "reading": "ばい"
+          },
+          {
+            "kanji": "単",
+            "reading": "たん"
+          },
+          {
+            "kanji": "安",
+            "reading": "あん"
+          },
+          {
+            "kanji": "品質",
+            "reading": "ひんしつ"
+          },
+          {
+            "kanji": "選",
+            "reading": "せん"
+          },
+          {
+            "kanji": "環境",
+            "reading": "かんきょう"
+          },
+          {
+            "kanji": "優先",
+            "reading": "ゆうせん"
+          },
+          {
+            "kanji": "購入",
+            "reading": "こうにゅう"
+          },
+          {
+            "kanji": "購入法",
+            "reading": "こうにゅうほう"
+          },
+          {
+            "kanji": "対応",
+            "reading": "たいおう"
+          },
+          {
+            "kanji": "決",
+            "reading": "けつ"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "作",
+            "reading": "さく"
+          },
+          {
+            "kanji": "場合",
+            "reading": "ばあい"
+          },
+          {
+            "kanji": "取得",
+            "reading": "しゅとく"
+          },
+          {
+            "kanji": "自社",
+            "reading": "じしゃ"
+          },
+          {
+            "kanji": "適",
+            "reading": "てき"
+          },
+          {
+            "kanji": "外部",
+            "reading": "がいぶ"
+          },
+          {
+            "kanji": "知",
+            "reading": "ち"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "提案書",
+      "reading": "ていあんしょ",
+      "romaji": "Teiansho",
+      "vi": "Đề xuất",
+      "en": "Proposal",
+      "my": "အဆိုပြုချက်"
+    },
+    {
+      "kanji": "検収",
+      "reading": "けんしゅう",
+      "romaji": "Kenshuu",
+      "vi": "Nghiệm thu",
+      "en": "Acceptance",
+      "my": "လက်ခံခြင်း"
+    },
+    {
+      "kanji": "グリーン調達",
+      "reading": "ぐりーんちょうたつ",
+      "romaji": "Green Choutatsu",
+      "vi": "Mua sắm xanh",
+      "en": "Green Procurement",
+      "my": "စိမ်း ဝယ်ယူမှု"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

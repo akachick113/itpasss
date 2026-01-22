@@ -1,0 +1,251 @@
+{
+  "page_id": 316,
+  "image": "p_0316.png",
+  "chapter": 8,
+  "section": "08-04",
+  "page_number": 300,
+  "content": [
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！セキュリティワイヤとサージ防護",
+        "vi": "Chi tiết hơn! Security Wire và Surge Protection",
+        "en": "More Details! Security Wire and Surge Protection"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "「セキュリティワイヤ」や「サージ防護」も重要な用語です。",
+      "vi": "\"Security Wire\" và \"Surge Protection\" cũng là thuật ngữ quan trọng.",
+      "en": "'Security Wire' and 'Surge Protection' are also important terms.",
+      "terms": [
+        {
+          "kanji": "防護",
+          "reading": "ぼうご"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "セキュリティワイヤとは、ノートPCを机や柱などの固定物に固定するためのワイヤ器具です。盗難を防止するために利用します。",
+      "vi": "Security Wire là dụng cụ dây để cố định laptop vào vật cố định như bàn hoặc cột. Được sử dụng để ngăn chặn trộm cắp.",
+      "en": "Security Wire is wire device to fix laptop to fixed objects like desks or pillars. Used to prevent theft.",
+      "terms": [
+        {
+          "kanji": "机",
+          "reading": "つくえ"
+        },
+        {
+          "kanji": "柱",
+          "reading": "はしら"
+        },
+        {
+          "kanji": "固定物",
+          "reading": "こていぶつ"
+        },
+        {
+          "kanji": "固定",
+          "reading": "こてい"
+        },
+        {
+          "kanji": "器具",
+          "reading": "きぐ"
+        },
+        {
+          "kanji": "盗難",
+          "reading": "とうなん"
+        },
+        {
+          "kanji": "防止",
+          "reading": "ぼうし"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "サージ防護とは、落雷などによる瞬間的に発生する高い電圧からシステムを守ることです。落雷によって起きる過電圧のことを「雷サージ」といいます。サージ防護を行っていない環境で雷サージが発生すると、電源ケーブルやLANケーブルに大きな電圧が流れ込み、コンピュータなどの電子機器が壊れてしまいます。",
+      "vi": "Surge Protection là bảo vệ hệ thống khỏi điện áp cao phát sinh tức thời do sét đánh. Quá áp do sét được gọi là \"lightning surge\". Nếu lightning surge xảy ra trong môi trường không có Surge Protection, điện áp lớn chảy vào cáp nguồn hoặc cáp LAN, làm hỏng thiết bị điện tử như máy tính.",
+      "en": "Surge Protection is protecting system from high voltage occurring instantaneously due to lightning. Overvoltage from lightning is called 'lightning surge.' If lightning surge occurs in environment without Surge Protection, large voltage flows into power cables or LAN cables, damaging electronic devices like computers.",
+      "terms": [
+        {
+          "kanji": "防護",
+          "reading": "ぼうご"
+        },
+        {
+          "kanji": "落雷",
+          "reading": "らくらい"
+        },
+        {
+          "kanji": "瞬間的",
+          "reading": "しゅんかんてき"
+        },
+        {
+          "kanji": "発生",
+          "reading": "はっせい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "電圧",
+          "reading": "でんあつ"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "起",
+          "reading": "お"
+        },
+        {
+          "kanji": "過電圧",
+          "reading": "かでんあつ"
+        },
+        {
+          "kanji": "雷",
+          "reading": "かみなり"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "環境",
+          "reading": "かんきょう"
+        },
+        {
+          "kanji": "電源",
+          "reading": "でんげん"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "込",
+          "reading": "こみ"
+        },
+        {
+          "kanji": "電子機器",
+          "reading": "でんしきき"
+        },
+        {
+          "kanji": "壊",
+          "reading": "かい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このような事態に備えるために、ファシリティマネジメントでは「サージ保護デバイス」の導入を討します。サージ保護デバイスとは、瞬間的に発生する高い電圧からシステムを守るための機器です。",
+      "vi": "Để chuẩn bị cho tình huống như vậy, trong Facility Management thảo luận về triển khai \"Surge Protection Device\". Surge Protection Device là thiết bị bảo vệ hệ thống khỏi điện áp cao phát sinh tức thời.",
+      "en": "To prepare for such situations, Facility Management discusses introducing 'Surge Protection Device.' Surge Protection Device is equipment protecting system from high voltage occurring instantaneously.",
+      "terms": [
+        {
+          "kanji": "事態",
+          "reading": "じたい"
+        },
+        {
+          "kanji": "備",
+          "reading": "そな"
+        },
+        {
+          "kanji": "保護",
+          "reading": "ほご"
+        },
+        {
+          "kanji": "導入",
+          "reading": "どうにゅう"
+        },
+        {
+          "kanji": "討",
+          "reading": "とう"
+        },
+        {
+          "kanji": "瞬間的",
+          "reading": "しゅんかんてき"
+        },
+        {
+          "kanji": "発生",
+          "reading": "はっせい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "電圧",
+          "reading": "でんあつ"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "機器",
+          "reading": "きき"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "セキュリティワイヤとサージ保護デバイス",
+        "vi": "Security Wire và Surge Protection Device",
+        "en": "Security Wire and Surge Protection Device"
+      },
+      "items": [
+        {
+          "ja": "セキュリティワイヤ：ノートPCを固定するワイヤ",
+          "vi": "Security Wire: Dây cố định laptop",
+          "en": "Security Wire: Wire to fix laptop"
+        },
+        {
+          "ja": "サージ保護デバイス：電源タップ型の保護装置",
+          "vi": "Surge Protection Device: Thiết bị bảo vệ dạng ổ cắm điện",
+          "en": "Surge Protection Device: Protection device in power strip form"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "セキュリティワイヤ",
+      "reading": "せきゅりてぃわいや",
+      "romaji": "Security Wire",
+      "vi": "Dây khóa bảo mật",
+      "en": "Security Wire",
+      "my": "လုံခြုံရေး ကြိုး"
+    },
+    {
+      "kanji": "サージ防護",
+      "reading": "さーじぼうご",
+      "romaji": "Surge Bougo",
+      "vi": "Bảo vệ quá áp",
+      "en": "Surge Protection",
+      "my": "ဆာ့ဂျ် ကာကွယ်မှု"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_supplementary": true
+  }
+}

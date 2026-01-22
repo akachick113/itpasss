@@ -1,0 +1,200 @@
+{
+  "page_id": 421,
+  "image": "p_0421.png",
+  "chapter": 11,
+  "section": "11-04",
+  "page_number": 405,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "キャッシュメモリの役割",
+        "vi": "Vai trò của bộ nhớ cache",
+        "en": "Role of Cache Memory"
+      },
+      "description": {
+        "ja": "CPU（速い）↔ キャッシュメモリ ↔ 主記憶（遅い）。キャッシュメモリがCPUと主記憶の間に位置し、速度差を埋める役割を果たす",
+        "vi": "CPU (nhanh) ↔ Bộ nhớ cache ↔ Bộ nhớ chính (chậm). Bộ nhớ cache nằm giữa CPU và bộ nhớ chính, đóng vai trò lấp đầy sự khác biệt về tốc độ",
+        "en": "CPU (fast) ↔ Cache memory ↔ Main memory (slow). Cache memory positioned between CPU and main memory, playing role of filling speed difference"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "CPUは主記憶からデータを取り出して演算を行いますが、CPUの処理速度に比べ、主記憶の処理速度は非常に遅いため、同じデータを何度も主記憶に取りに行くと、コンピュータ全体の処理速度が遅くなってしまいます。そこで、頻繁に使うデータは主記憶ではなく、キャッシュメモリに保存します。そうすることで、コンピュータ全体の処理速度を向上できます。",
+      "vi": "CPU lấy dữ liệu từ bộ nhớ chính và thực hiện tính toán, nhưng vì tốc độ xử lý của bộ nhớ chính rất chậm so với tốc độ xử lý của CPU, nếu đi lấy cùng dữ liệu nhiều lần từ bộ nhớ chính, tốc độ xử lý của toàn bộ máy tính sẽ chậm đi. Vì vậy, dữ liệu sử dụng thường xuyên được lưu trong bộ nhớ cache thay vì bộ nhớ chính. Bằng cách đó, có thể cải thiện tốc độ xử lý của toàn bộ máy tính.",
+      "en": "CPU retrieves data from main memory and performs arithmetic, but since main memory processing speed is very slow compared to CPU processing speed, if going to main memory repeatedly for same data, entire computer processing speed slows down. So frequently used data is saved in cache memory instead of main memory. By doing so, can improve entire computer processing speed.",
+      "terms": [
+        {
+          "kanji": "主記憶",
+          "reading": "しゅきおく"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "演算",
+          "reading": "えんざん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "処理速度",
+          "reading": "しょりそくど"
+        },
+        {
+          "kanji": "比",
+          "reading": "ひ"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "遅",
+          "reading": "ち"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "何度",
+          "reading": "なんど"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "頻繁",
+          "reading": "ひんぱん"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "向上",
+          "reading": "こうじょう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "キャッシュメモリとは、CPUの内部に搭載されている超高速の記憶装置",
+          "vi": "Bộ nhớ cache là thiết bị ghi nhớ siêu tốc được trang bị bên trong CPU",
+          "en": "Cache memory is ultra-high-speed memory device equipped inside CPU"
+        },
+        {
+          "ja": "キャッシュメモリはCPUと主記憶装置の処理速度の差を埋めるために使われる",
+          "vi": "Bộ nhớ cache được sử dụng để lấp đầy sự khác biệt về tốc độ xử lý giữa CPU và bộ nhớ chính",
+          "en": "Cache memory is used to fill processing speed difference between CPU and main memory"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "下図を見てください。コンピュータが使用している記憶装置の一覧です。左にいくほど「処理速度が速く、小容量」、右にいくほど「処理速度が遅く、大容量」の記憶装置になります。",
+      "vi": "Xem hình dưới. Đây là danh sách các thiết bị ghi nhớ mà máy tính sử dụng. Càng đi sang trái thì \"tốc độ xử lý nhanh, dung lượng nhỏ\", càng đi sang phải thì \"tốc độ xử lý chậm, dung lượng lớn\".",
+      "en": "See diagram below. This is list of memory devices computer uses. Going left means 'fast processing speed, small capacity,' going right means 'slow processing speed, large capacity.'",
+      "terms": [
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "記憶装置",
+          "reading": "きおくそうち"
+        },
+        {
+          "kanji": "一覧",
+          "reading": "いちらん"
+        },
+        {
+          "kanji": "左",
+          "reading": "ひだり"
+        },
+        {
+          "kanji": "処理速度",
+          "reading": "しょりそくど"
+        },
+        {
+          "kanji": "速",
+          "reading": "そく"
+        },
+        {
+          "kanji": "小容量",
+          "reading": "しょうようりょう"
+        },
+        {
+          "kanji": "右",
+          "reading": "みぎ"
+        },
+        {
+          "kanji": "遅",
+          "reading": "ち"
+        },
+        {
+          "kanji": "大容量",
+          "reading": "だいようりょう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "コンピュータで使われている記憶装置",
+        "vi": "Các thiết bị ghi nhớ được sử dụng trong máy tính",
+        "en": "Memory Devices Used in Computers"
+      },
+      "description": {
+        "ja": "左から右へ：CPU → キャッシュメモリ → 主記憶装置 → 補助記憶装置。下段：高速小容量 ↔ 低速大容量",
+        "vi": "Từ trái sang phải: CPU → Bộ nhớ cache → Bộ nhớ chính → Bộ nhớ phụ. Dưới: Tốc độ cao dung lượng nhỏ ↔ Tốc độ thấp dung lượng lớn",
+        "en": "Left to right: CPU → Cache memory → Main memory → Auxiliary storage. Below: High speed small capacity ↔ Low speed large capacity"
+      },
+      "note": {
+        "ja": "← それぞれの特徴を把握しよう！",
+        "vi": "← Hãy nắm bắt đặc điểm của từng cái!",
+        "en": "← Understand characteristics of each!"
+      }
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

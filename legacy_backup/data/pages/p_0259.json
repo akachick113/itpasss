@@ -1,0 +1,204 @@
+{
+  "page_id": 259,
+  "image": "p_0259.png",
+  "chapter": 6,
+  "section": "06-06",
+  "page_number": 243,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "06-06",
+      "title": {
+        "ja": "運用プロセスと保守プロセス",
+        "vi": "Quy trình vận hành và Quy trình bảo trì",
+        "en": "Operation Process and Maintenance Process"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "システムが稼働し続ける限り",
+        "vi": "Miễn là hệ thống tiếp tục hoạt động",
+        "en": "As Long as System Continues Operating"
+      },
+      "content": {
+        "ja": "システム開発は「納品したら終わり」ではありません。システムが稼働し続けている限り、利用者が安全かつ快適にシステムを利用できるよう、サポートしていくことが必要です。",
+        "vi": "Phát triển hệ thống không phải \"giao hàng là kết thúc\". Miễn là hệ thống tiếp tục hoạt động, cần tiếp tục hỗ trợ để người dùng có thể sử dụng hệ thống an toàn và thoải mái.",
+        "en": "System development is not 'done when delivered.' As long as the system continues operating, support must continue so users can use the system safely and comfortably."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "開発プロセスが完了し、発注者側がソフトウェアを受入れたら、開発者としては一段落ですが、システム開発の場合は「納品したら終わり」というわけにはいきません。利用者が継続してシステムを利用し続けられるよう、サポートすることが必要です。それが運用プロセスと保守プロセスです。これらは、ソフトウェアライフサイクルプロセスの主なプロセスとなっていますが、それほど覚えることは多くありません。出題頻度が高いのは「ソフトウェア保守」のみです。",
+      "vi": "Khi quy trình phát triển hoàn thành và bên đặt hàng nghiệm thu phần mềm, đối với nhà phát triển là một giai đoạn kết thúc, nhưng với phát triển hệ thống không thể \"giao hàng là kết thúc\". Cần hỗ trợ để người dùng có thể tiếp tục sử dụng hệ thống. Đó là Quy trình vận hành và Quy trình bảo trì. Đây là các quy trình chính của Vòng đời phần mềm, nhưng không có nhiều thứ để nhớ. Chỉ \"Bảo trì phần mềm\" có tần suất ra đề cao.",
+      "en": "When development process is complete and ordering side accepts software, for developers it's a milestone, but system development can't end at 'delivery complete.' Support is needed so users can continue using the system. These are Operation Process and Maintenance Process. These are main processes of Software Lifecycle Process, but there isn't much to remember. Only 'Software Maintenance' has high exam frequency.",
+      "terms": [
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "完了",
+          "reading": "かんりょう"
+        },
+        {
+          "kanji": "発注者側",
+          "reading": "はっちゅうものがわ"
+        },
+        {
+          "kanji": "受入",
+          "reading": "うけいれ"
+        },
+        {
+          "kanji": "開発者",
+          "reading": "かいはつしゃ"
+        },
+        {
+          "kanji": "一段落",
+          "reading": "ひとだんらく"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "納品",
+          "reading": "のうひん"
+        },
+        {
+          "kanji": "終",
+          "reading": "おわり"
+        },
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "kanji": "継続",
+          "reading": "けいぞく"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "続",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        },
+        {
+          "kanji": "保守",
+          "reading": "ほしゅ"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "運用プロセス",
+      "reading": "うんようぷろせす",
+      "vi": "Quy trình vận hành",
+      "en": "Operation Process"
+    },
+    {
+      "type": "paragraph",
+      "ja": "運用プロセスとは、完成したシステムを本番環境で動かす工程です。また、運用プロセスでは、利用者マニュアルを使ってシステム導入後も継続して利用者への教育を行います。",
+      "vi": "Quy trình vận hành là công đoạn chạy hệ thống hoàn thành trong môi trường thực tế. Ngoài ra, trong quy trình vận hành, sử dụng hướng dẫn sử dụng để tiếp tục đào tạo người dùng sau khi triển khai hệ thống.",
+      "en": "Operation Process is the phase to run completed system in production environment. Also, in operation process, user training continues after system deployment using the user manual.",
+      "terms": [
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        },
+        {
+          "kanji": "完成",
+          "reading": "かんせい"
+        },
+        {
+          "kanji": "本番環境",
+          "reading": "ほんばんかんきょう"
+        },
+        {
+          "kanji": "動",
+          "reading": "どう"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "導入後",
+          "reading": "どうにゅうのち"
+        },
+        {
+          "kanji": "継続",
+          "reading": "けいぞく"
+        },
+        {
+          "kanji": "教育",
+          "reading": "きょういく"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "運用プロセス",
+      "reading": "うんようぷろせす",
+      "romaji": "Unyou Process",
+      "vi": "Quy trình vận hành",
+      "en": "Operation Process",
+      "my": "လည်ပတ်မှု လုပ်ငန်းစဥ်"
+    },
+    {
+      "kanji": "保守プロセス",
+      "reading": "ほしゅぷろせす",
+      "romaji": "Hoshu Process",
+      "vi": "Quy trình bảo trì",
+      "en": "Maintenance Process",
+      "my": "ပြုပြင်ထိန်းသိမ်းမှု လုပ်ငန်းစဥ်"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

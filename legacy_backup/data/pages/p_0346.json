@@ -1,0 +1,135 @@
+{
+    "page_id": 346,
+    "image": "p_0346.png",
+    "chapter": 9,
+    "section": "practice",
+    "page_number": 330,
+    "content": [
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "出る順！過去問＆完全解説",
+                "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích hoàn chỉnh",
+                "en": "By Frequency! Past Questions & Complete Explanations"
+            },
+            "note": {
+                "ja": "解答・解説はp.330 参照",
+                "vi": "Xem đáp án và giải thích ở trang 330",
+                "en": "See p.330 for answers and explanations"
+            }
+        },
+        {
+            "type": "exam_question",
+            "number": "9-1",
+            "year": "平成25年度",
+            "question": {
+                "ja": "\"男性のうち、20歳未満の人と65歳以上の人\"に関する情報を検索するための検索式として、適切なものはどれか。",
+                "vi": "Công thức tìm kiếm nào thích hợp để tìm thông tin về \"trong số nam giới, người dưới 20 tuổi và người từ 65 tuổi trở lên\"?",
+                "en": "Which search formula is appropriate for searching information about 'among males, people under 20 and 65 or older'?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. 男性 AND（20歳未満 AND 65歳以上）",
+                    "vi": "ア. Nam AND (Dưới 20 tuổi AND Trên 65 tuổi)",
+                    "en": "ア. Male AND (Under 20 AND 65+)"
+                },
+                {
+                    "ja": "イ. 男性 AND（20歳未満 OR 65歳以上）",
+                    "vi": "イ. Nam AND (Dưới 20 tuổi OR Trên 65 tuổi)",
+                    "en": "イ. Male AND (Under 20 OR 65+)"
+                },
+                {
+                    "ja": "ウ. 男性 OR（20歳未満 AND 65歳以上）",
+                    "vi": "ウ. Nam OR (Dưới 20 tuổi AND Trên 65 tuổi)",
+                    "en": "ウ. Male OR (Under 20 AND 65+)"
+                },
+                {
+                    "ja": "エ. 男性 OR（20歳未満 OR 65歳以上）",
+                    "vi": "エ. Nam OR (Dưới 20 tuổi OR Trên 65 tuổi)",
+                    "en": "エ. Male OR (Under 20 OR 65+)"
+                }
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "9-2",
+            "year": "平成22年度",
+            "question": {
+                "ja": "二つの集合AとBについて、常に成立する関係を記述したものはどれか。ここで、（X ∩ Y）は、XとYの共通部分（積集合）、（X∪Y）は、X又はYの少なくとも一方に属する部分（和集合）を表す。",
+                "vi": "Đối với hai tập A và B, mô tả nào về mối quan hệ luôn thành lập? Ở đây, (X ∩ Y) là phần chung của X và Y (giao), (X∪Y) là phần thuộc ít nhất một trong X hoặc Y (hợp).",
+                "en": "For two sets A and B, which describes relationship that always holds? Here, (X ∩ Y) is common part of X and Y (intersection), (X∪Y) is part belonging to at least one of X or Y (union)."
+            },
+            "choices": [
+                {
+                    "ja": "ア.（A∩B）は、Aでない集合の部分集合である。",
+                    "vi": "ア. (A∩B) là tập con của tập không phải A.",
+                    "en": "ア. (A∩B) is subset of set that is not A."
+                },
+                {
+                    "ja": "イ.（A∩B）は、Aの部分集合である。",
+                    "vi": "イ. (A∩B) là tập con của A.",
+                    "en": "イ. (A∩B) is subset of A."
+                },
+                {
+                    "ja": "ウ.（A∪B）は、（A∩B）の部分集合である。",
+                    "vi": "ウ. (A∪B) là tập con của (A∩B).",
+                    "en": "ウ. (A∪B) is subset of (A∩B)."
+                },
+                {
+                    "ja": "エ.（A∪B）は、Aの部分集合である。",
+                    "vi": "エ. (A∪B) là tập con của A.",
+                    "en": "エ. (A∪B) is subset of A."
+                }
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "9-3",
+            "year": "平成24年度",
+            "question": {
+                "ja": "16進数のA3は10進数で幾らか。",
+                "vi": "Số thập lục phân A3 là bao nhiêu trong thập phân?",
+                "en": "What is hexadecimal A3 in decimal?"
+            },
+            "choices": [
+                "ア. 103",
+                "イ. 153",
+                "ウ. 163",
+                "エ. 179"
+            ],
+            "correct_answer": "ウ"
+        },
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "解答・解説",
+                "vi": "Đáp án và Giải thích",
+                "en": "Answers and Explanations"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "9-1",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "「男性のうち、20歳未満の人と65歳以上の人」という文章を論理演算の式に変換する問題です。論理演算の問題が出題されたらベン図を描きながら考えます。",
+                "vi": "Đây là bài toán chuyển đổi câu \"trong số nam giới, người dưới 20 tuổi và người từ 65 tuổi trở lên\" thành công thức phép toán logic. Khi có bài toán logic, hãy suy nghĩ bằng cách vẽ biểu đồ Venn.",
+                "en": "This is problem converting sentence 'among males, people under 20 and 65+' to logical operation formula. When logical operation problems appear, think while drawing Venn diagrams."
+            },
+            "detail": {
+                "ja": "まず括弧内の「20歳未満の人と65歳以上の人」は論理演算の式にすると「20歳未満 OR 65歳以上」となります。また、「男性のうち」は「男性かつ（AND）」と言い換えられるので、論理演算の式としては「男性 AND（20歳未満 OR 65歳以上）」が正解になります。",
+                "vi": "Trước tiên, \"người dưới 20 tuổi và người từ 65 tuổi trở lên\" trong ngoặc khi đổi sang công thức logic là \"Dưới 20 tuổi OR Trên 65 tuổi\". Ngoài ra, \"trong số nam giới\" có thể diễn đạt lại là \"nam đồng thời (AND)\", nên công thức logic đúng là \"Nam AND (Dưới 20 tuổi OR Trên 65 tuổi)\".",
+                "en": "First, 'people under 20 and 65+' in parentheses becomes 'Under 20 OR 65+' in logical formula. Also, 'among males' can be rephrased as 'male and (AND),' so correct logical formula is 'Male AND (Under 20 OR 65+).'"
+            }
+        }
+    ],
+    "answers_summary": "問題9-1 イ　問題9-2 イ　問題9-3 ウ",
+    "meta": {
+        "has_questions": true,
+        "has_answers": true,
+        "question_count": 3,
+        "answer_count": 1
+    }
+}

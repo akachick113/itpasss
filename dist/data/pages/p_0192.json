@@ -1,0 +1,278 @@
+{
+  "page_id": 192,
+  "image": "p_0192.png",
+  "chapter": 5,
+  "section": "05-01",
+  "page_number": 176,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "05-01",
+      "ja": "情報システム戦略",
+      "reading": "じょうほうしすてむせんりゃく",
+      "vi": "Chiến lược hệ thống thông tin",
+      "en": "Information System Strategy",
+      "my": "Information System Strategy"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "まずは情報システム戦略を立てる",
+        "vi": "Trước tiên lập chiến lược hệ thống thông tin",
+        "en": "First, Establish Information System Strategy",
+        "my": "ပထမဦးစွာ သတင်းအချက်အလက်စနစ် မဟာဗျူဟာ ချမှတ်ပါ",
+        "terms": [
+          {
+            "kanji": "情報システム戦略",
+            "reading": "じょうほうしすてむせんりゃく"
+          },
+          {
+            "kanji": "情報システム",
+            "reading": "じょうほうしすてむ"
+          },
+          {
+            "kanji": "システム戦略",
+            "reading": "しすてむせんりゃく"
+          },
+          {
+            "kanji": "戦略",
+            "reading": "せんりゃく"
+          }
+        ]
+      },
+      "content": {
+        "ja": "新たに情報システムを開発する際に、最初に行うのは「情報システム戦略の立案」です。情報システム戦略は機能別戦略（p.99）の1つです。",
+        "vi": "Khi phát triển hệ thống thông tin mới, việc đầu tiên là lập chiến lược hệ thống thông tin. Chiến lược hệ thống thông tin là một trong các chiến lược chức năng (trang 99).",
+        "en": "When developing new information systems, the first thing to do is 'formulate information system strategy'. Information system strategy is one of the functional strategies (p.99).",
+        "my": "သတင်းအချက်အလက်စနစ်အသစ်များ ဖွံ့ဖြိုးတိုးတက်စေသောအခါ ပထမဆုံး လုပ်ဆောင်ရမည်မှာ 'သတင်းအချက်အလက်စနစ် မဟာဗျူဟာ ရေးဆွဲခြင်း' ဖြစ်သည်။",
+        "terms": [
+          {
+            "kanji": "新",
+            "reading": "あたら"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "開発",
+            "reading": "かいはつ"
+          },
+          {
+            "kanji": "際",
+            "reading": "きわ"
+          },
+          {
+            "kanji": "最初",
+            "reading": "さいしょ"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "戦略",
+            "reading": "せんりゃく"
+          },
+          {
+            "kanji": "立案",
+            "reading": "りつあん"
+          },
+          {
+            "kanji": "機能別戦略",
+            "reading": "きのうべつせんりゃく"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、情報システム戦略を解説します。情報システム戦略とは、情報システムを活用した機能別戦略です。この戦略は上位にある企業戦略、もしくは事業戦略を実現するための戦略です。なお、ITパスポート試験では単に「情報戦略」と表記されることもあります。",
+      "vi": "Từ đây sẽ giải thích chiến lược hệ thống thông tin. Chiến lược hệ thống thông tin là chiến lược chức năng sử dụng hệ thống thông tin. Đây là chiến lược để thực hiện chiến lược doanh nghiệp hoặc chiến lược kinh doanh cấp cao hơn. Trong IT Passport đôi khi chỉ được ghi là chiến lược thông tin.",
+      "en": "From here, we'll explain information system strategy. Information system strategy is a functional strategy utilizing information systems. This strategy is for realizing higher-level corporate strategy or business strategy. In IT Passport, it's sometimes written simply as 'information strategy'.",
+      "my": "ယခုမှစ၍ သတင်းအချက်အလက်စနစ် မဟာဗျူဟာကို ရှင်းပြမည်။",
+      "terms": [
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "戦略",
+          "reading": "せんりゃく"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "活用",
+          "reading": "かつよう"
+        },
+        {
+          "kanji": "機能別戦略",
+          "reading": "きのうべつせんりゃく"
+        },
+        {
+          "kanji": "上位",
+          "reading": "じょうい"
+        },
+        {
+          "kanji": "企業戦略",
+          "reading": "きぎょうせんりゃく"
+        },
+        {
+          "kanji": "事業戦略",
+          "reading": "じぎょうせんりゃく"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "単",
+          "reading": "たん"
+        },
+        {
+          "kanji": "情報戦略",
+          "reading": "じょうほうせんりゃく"
+        },
+        {
+          "kanji": "表記",
+          "reading": "ひょうき"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "情報システム戦略の立案時の注意点",
+      "reading": "じょうほうしすてむせんりゃくのりつあんじのちゅういてん",
+      "vi": "Lưu ý khi lập chiến lược hệ thống thông tin",
+      "en": "Points to Note When Formulating Information System Strategy"
+    },
+    {
+      "type": "paragraph",
+      "ja": "情報システム戦略を立案する際は、次の3点を考慮して検討することが大切です。\n\n（1）情報システムのあるべき姿を明確にする\n（2）情報システム全体を最適化する\n（3）経営戦略に基づいて情報システム戦略を設定する\n\nまず（1）の「あるべき姿」というのは目標や理想形です。情報システムが将来的にどのようになれば理想なのかをはっきりさせることが重要です。理想を明確にすれば現状とのギャップもはっきりします。",
+      "vi": "Khi lập chiến lược hệ thống thông tin, quan trọng là xem xét 3 điểm sau:\n\n(1) Làm rõ hình ảnh lý tưởng của hệ thống thông tin\n(2) Tối ưu hóa toàn bộ hệ thống thông tin\n(3) Thiết lập chiến lược hệ thống thông tin dựa trên chiến lược kinh doanh\n\nĐầu tiên, hình ảnh lý tưởng trong (1) là mục tiêu và hình thái lý tưởng. Quan trọng là làm rõ hệ thống thông tin sẽ trở nên lý tưởng như thế nào trong tương lai. Nếu làm rõ lý tưởng thì khoảng cách với hiện trạng cũng rõ ràng.",
+      "en": "When formulating information system strategy, it's important to consider these 3 points:\n\n(1) Clarify the ideal state of information systems\n(2) Optimize the entire information system\n(3) Set information system strategy based on business strategy\n\nFirst, 'ideal state' in (1) means goals and ideal form. It's important to clarify what the ideal future information system should look like. Clarifying the ideal also clarifies the gap with current state.",
+      "my": "သတင်းအချက်အလက်စနစ် မဟာဗျူဟာ ရေးဆွဲသောအခါ ဤအချက် ၃ ချက်ကို ထည့်သွင်းစဉ်းစားရန် အရေးကြီးသည်။",
+      "terms": [
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "戦略",
+          "reading": "せんりゃく"
+        },
+        {
+          "kanji": "立案",
+          "reading": "りつあん"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "考慮",
+          "reading": "こうりょ"
+        },
+        {
+          "kanji": "検討",
+          "reading": "けんとう"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "kanji": "姿",
+          "reading": "すがた"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "最適化",
+          "reading": "さいてきか"
+        },
+        {
+          "kanji": "経営戦略",
+          "reading": "けいえいせんりゃく"
+        },
+        {
+          "kanji": "基",
+          "reading": "もと"
+        },
+        {
+          "kanji": "設定",
+          "reading": "せってい"
+        },
+        {
+          "kanji": "目標",
+          "reading": "もくひょう"
+        },
+        {
+          "kanji": "理想形",
+          "reading": "りそうけい"
+        },
+        {
+          "kanji": "将来的",
+          "reading": "しょうらいてき"
+        },
+        {
+          "kanji": "理想",
+          "reading": "りそう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "現状",
+          "reading": "げんじょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "情報システム戦略",
+      "reading": "じょうほうしすてむせんりゃく",
+      "romaji": "Jouhou System Senryaku",
+      "vi": "Chiến lược hệ thống thông tin",
+      "en": "Information System Strategy",
+      "my": "သတင်းအချက်အလက်စနစ် မဟာဗျူဟာ"
+    },
+    {
+      "kanji": "機能別戦略",
+      "reading": "きのうべつせんりゃく",
+      "romaji": "Kinou Betsu Senryaku",
+      "vi": "Chiến lược chức năng",
+      "en": "Functional Strategy",
+      "my": "လုပ်ဆောင်မှုဆိုင်ရာ မဟာဗျူဟာ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

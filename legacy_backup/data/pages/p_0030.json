@@ -1,0 +1,603 @@
+{
+  "page_id": 30,
+  "image": "p_0030.png",
+  "chapter": 1,
+  "section": "01-01",
+  "page_number": 14,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "多くの企業は経営理念を持っており、そしてそれを公表しています。例えば、通信販売大手アマゾン社の経営理念は「地球上で最もお客様を大切にする企業であること」です。",
+      "vi": "Nhiều doanh nghiệp có triết lý kinh doanh và công bố nó. Ví dụ, triết lý kinh doanh của Amazon - tập đoàn bán hàng trực tuyến hàng đầu là \"Trở thành công ty coi trọng khách hàng nhất trên thế giới\".",
+      "en": "Many companies have a business philosophy and publicize it. For example, Amazon, a major e-commerce company, has the business philosophy of \"being the most customer-centric company on Earth.\"",
+      "my": "ကုမ္ပဏီများစွာတွင် စီးပွားရေးအတွေးအခေါ်ရှိပြီး ၎င်းကို ထုတ်ပြန်ကြေညာသည်။ ဥပမာ Amazon ၏ စီးပွားရေးအတွေးအခေါ်မှာ \"ကမ္ဘာပေါ်တွင် ဖောက်သည်ကို အလေးထားဆုံး ကုမ္ပဏီဖြစ်ခြင်း\" ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "経営理念",
+          "reading": "けいえいりねん"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "公表",
+          "reading": "こうひょう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "通信販売大手",
+          "reading": "つうしんはんばいおおて"
+        },
+        {
+          "kanji": "社",
+          "reading": "しゃ"
+        },
+        {
+          "kanji": "地球上",
+          "reading": "ちきゅうじょう"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "客様",
+          "reading": "きゃくさま"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ビジョンと経営戦略",
+      "reading": "びじょんとけいえいせんりゃく",
+      "vi": "Tầm nhìn và Chiến lược kinh doanh",
+      "en": "Vision and Business Strategy",
+      "my": "ရူပါရုံနှင့် စီးပွားရေးဗျူဟာ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のように経営理念はとても大切ですが、それだけでは企業は運営できません。経営理念を指針としたビジョンと経営戦略が必要です。",
+      "vi": "Như đã nói ở trên, triết lý kinh doanh rất quan trọng, nhưng chỉ với nó thì doanh nghiệp không thể hoạt động được. Cần có tầm nhìn và chiến lược kinh doanh dựa trên triết lý kinh doanh.",
+      "en": "As mentioned above, business philosophy is very important, but a company cannot operate with just that. Vision and business strategy based on the business philosophy are necessary.",
+      "my": "အထက်တွင် ဖော်ပြထားသည့်အတိုင်း စီးပွားရေးအတွေးအခေါ်သည် အလွန်အရေးကြီးသော်လည်း ထိုတစ်ခုတည်းဖြင့် ကုမ္ပဏီ လည်ပတ်၍မရပါ။",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "経営理念",
+          "reading": "けいえいりねん"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "運営",
+          "reading": "うんえい"
+        },
+        {
+          "kanji": "指針",
+          "reading": "ししん"
+        },
+        {
+          "kanji": "経営戦略",
+          "reading": "けいえいせんりゃく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ビジョンとは、企業が目指す将来の姿です。そして経営戦略とは、ビジョンを実現するための具体的な行動計画です。実務の多くは、経営戦略に従って行われます。",
+      "vi": "Tầm nhìn (Vision) là hình ảnh tương lai mà doanh nghiệp hướng tới. Và chiến lược kinh doanh là kế hoạch hành động cụ thể để thực hiện tầm nhìn. Phần lớn công việc thực tế được thực hiện theo chiến lược kinh doanh.",
+      "en": "Vision is the future image that the company aims for. And business strategy is the specific action plan to realize that vision. Most practical work is done according to the business strategy.",
+      "my": "ရူပါရုံ (Vision) သည် ကုမ္ပဏီ ရည်မှန်းသော အနာဂတ်ပုံရိပ်ဖြစ်သည်။ စီးပွားရေးဗျူဟာသည် ထိုရူပါရုံကို အကောင်အထည်ဖော်ရန် တိကျသော လုပ်ဆောင်မှုအစီအစဉ်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "目指",
+          "reading": "もくし"
+        },
+        {
+          "kanji": "将来",
+          "reading": "しょうらい"
+        },
+        {
+          "kanji": "姿",
+          "reading": "すがた"
+        },
+        {
+          "kanji": "経営戦略",
+          "reading": "けいえいせんりゃく"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "行動計画",
+          "reading": "こうどうけいかく"
+        },
+        {
+          "kanji": "実務",
+          "reading": "じつむ"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "従",
+          "reading": "じゅう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・経営理念とは、企業の存在意義\n・ビジョンとは、企業が目指す将来の姿\n・経営戦略とは、ビジョンを実現するための具体的な行動計画",
+        "vi": "・Triết lý kinh doanh là lý do tồn tại của doanh nghiệp\n・Tầm nhìn là hình ảnh tương lai mà doanh nghiệp hướng tới\n・Chiến lược kinh doanh là kế hoạch hành động cụ thể để thực hiện tầm nhìn",
+        "en": "・Business philosophy is the company's reason for existence\n・Vision is the future image the company aims for\n・Business strategy is the specific action plan to realize the vision",
+        "my": "・စီးပွားရေးအတွေးအခေါ်သည် ကုမ္ပဏီ၏ တည်ရှိရခြင်းအကြောင်းရင်းဖြစ်သည်\n・ရူပါရုံသည် ကုမ္ပဏီရည်မှန်းသော အနာဂတ်ပုံရိပ်ဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "経営理念",
+            "reading": "けいえいりねん"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "存在意義",
+            "reading": "そんざいいぎ"
+          },
+          {
+            "kanji": "目指",
+            "reading": "もくし"
+          },
+          {
+            "kanji": "将来",
+            "reading": "しょうらい"
+          },
+          {
+            "kanji": "姿",
+            "reading": "すがた"
+          },
+          {
+            "kanji": "経営戦略",
+            "reading": "けいえいせんりゃく"
+          },
+          {
+            "kanji": "実現",
+            "reading": "じつげん"
+          },
+          {
+            "kanji": "具体的",
+            "reading": "ぐたいてき"
+          },
+          {
+            "kanji": "行動計画",
+            "reading": "こうどうけいかく"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "もう少し詳しく！ MVV",
+        "vi": "Tìm hiểu thêm! MVV",
+        "en": "More details! MVV",
+        "my": "ပိုမိုအသေးစိတ်! MVV",
+        "terms": [
+          {
+            "kanji": "MVV",
+            "reading": "えむぶいぶい"
+          }
+        ]
+      },
+      "content": {
+        "ja": "MVVとは、Mission（使命）、Vision（将来像）、Value（価値観）の頭文字をとった言葉であり、企業経営の中核となる考え方です。先ほど説明した、経営理念、ビジョン、経営戦略の3つが経営の論理的な指標を示すのに対して、MVVは主に組織文化や価値観共有に重点を置いています。両者は目的や視点が異なるものの、企業の方向性を定めるために用いられる点では共通しています。",
+        "vi": "MVV là viết tắt của Mission (Sứ mệnh), Vision (Tầm nhìn), Value (Giá trị), là khái niệm cốt lõi trong quản lý doanh nghiệp. Trong khi triết lý kinh doanh, tầm nhìn và chiến lược kinh doanh đã giải thích ở trên cho thấy các chỉ số logic của quản lý, MVV chủ yếu tập trung vào văn hóa tổ chức và chia sẻ giá trị. Mặc dù mục đích và góc nhìn khác nhau, cả hai đều được sử dụng để xác định hướng đi của doanh nghiệp.",
+        "en": "MVV stands for Mission, Vision, and Value, and represents the core concept of corporate management. While the business philosophy, vision, and business strategy explained earlier show logical indicators of management, MVV mainly focuses on organizational culture and value sharing. Although the purposes and perspectives differ, both are used to determine the company's direction.",
+        "my": "MVV သည် Mission (တာဝန်)၊ Vision (ရူပါရုံ)၊ Value (တန်ဖိုးထားမှု) တို့၏ အတိုကောက်ဖြစ်ပြီး ကုမ္ပဏီစီမံခန့်ခွဲမှု၏ အဓိကသဘောတရားဖြစ်သည်။",
+        "terms": [
+          {
+            "kanji": "使命",
+            "reading": "しめい"
+          },
+          {
+            "kanji": "将来像",
+            "reading": "しょうらいぞう"
+          },
+          {
+            "kanji": "価値観",
+            "reading": "かちかん"
+          },
+          {
+            "kanji": "頭文字",
+            "reading": "かしらもじ"
+          },
+          {
+            "kanji": "言葉",
+            "reading": "ことば"
+          },
+          {
+            "kanji": "企業経営",
+            "reading": "きぎょうけいえい"
+          },
+          {
+            "kanji": "中核",
+            "reading": "ちゅうかく"
+          },
+          {
+            "kanji": "考",
+            "reading": "こう"
+          },
+          {
+            "kanji": "方",
+            "reading": "ほう"
+          },
+          {
+            "kanji": "先",
+            "reading": "さき"
+          },
+          {
+            "kanji": "説明",
+            "reading": "せつめい"
+          },
+          {
+            "kanji": "経営理念",
+            "reading": "けいえいりねん"
+          },
+          {
+            "kanji": "経営戦略",
+            "reading": "けいえいせんりゃく"
+          },
+          {
+            "kanji": "経営",
+            "reading": "けいえい"
+          },
+          {
+            "kanji": "論理的",
+            "reading": "ろんりてき"
+          },
+          {
+            "kanji": "指標",
+            "reading": "しひょう"
+          },
+          {
+            "kanji": "示",
+            "reading": "じ"
+          },
+          {
+            "kanji": "対",
+            "reading": "つい"
+          },
+          {
+            "kanji": "主",
+            "reading": "しゅ"
+          },
+          {
+            "kanji": "組織文化",
+            "reading": "そしきぶんか"
+          },
+          {
+            "kanji": "価値観共有",
+            "reading": "かちかんきょうゆう"
+          },
+          {
+            "kanji": "重点",
+            "reading": "じゅうてん"
+          },
+          {
+            "kanji": "置",
+            "reading": "ち"
+          },
+          {
+            "kanji": "両者",
+            "reading": "りょうしゃ"
+          },
+          {
+            "kanji": "目的",
+            "reading": "もくてき"
+          },
+          {
+            "kanji": "視点",
+            "reading": "してん"
+          },
+          {
+            "kanji": "異",
+            "reading": "い"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "方向性",
+            "reading": "ほうこうせい"
+          },
+          {
+            "kanji": "定",
+            "reading": "てい"
+          },
+          {
+            "kanji": "用",
+            "reading": "よう"
+          },
+          {
+            "kanji": "点",
+            "reading": "てん"
+          },
+          {
+            "kanji": "共通",
+            "reading": "きょうつう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "ITパスポート試験では経営戦略が重要！？",
+        "vi": "Chiến lược kinh doanh quan trọng trong thi IT Passport!?",
+        "en": "Business Strategy is Important in the IT Passport Exam!?",
+        "my": "IT Passport စာမေးပွဲတွင် စီးပွားရေးဗျူဟာ အရေးကြီးသည်!?",
+        "terms": [
+          {
+            "kanji": "経営戦略",
+            "reading": "けいえいせんりゃく"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "戦略",
+            "reading": "せんりゃく"
+          },
+          {
+            "kanji": "経営",
+            "reading": "けいえい"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験の試験概要でも解説しましたが、ITパスポート試験の出題範囲は大きく「ストラテジ系」「マネジメント系」「テクノロジ系」の3分野に分かれています（p.6）。そのうちの1つである「ストラテジ系」とは、まさに経営戦略（ストラテジ）に関する分野のことです。そして、本章から第5章までのストラテジ系分野の解説章では「経営戦略」のことを中心に学んでいきます。この点はぜひ覚えておいてください。",
+        "vi": "Như đã giải thích trong phần tổng quan kỳ thi IT Passport, phạm vi đề thi được chia thành 3 lĩnh vực lớn: \"Strategy\", \"Management\" và \"Technology\" (trang 6). Một trong số đó là \"Strategy\", chính là lĩnh vực về chiến lược kinh doanh. Và trong các chương giải thích lĩnh vực Strategy từ chương này đến chương 5, chúng ta sẽ tập trung học về \"chiến lược kinh doanh\". Hãy ghi nhớ điều này.",
+        "en": "As explained in the IT Passport exam overview, the exam scope is divided into three major fields: \"Strategy,\" \"Management,\" and \"Technology\" (p.6). One of them, \"Strategy,\" is precisely the field related to business strategy. From this chapter to Chapter 5, the Strategy field explanation chapters will focus on learning about \"business strategy.\" Please remember this.",
+        "my": "IT Passport စာမေးပွဲခြုံငုံသုံးသပ်ချက်တွင် ရှင်းပြထားသည့်အတိုင်း စာမေးပွဲနယ်ပယ်ကို \"Strategy\"၊ \"Management\" နှင့် \"Technology\" ဟူ၍ အဓိကနယ်ပယ် ၃ ခုအဖြစ် ခွဲခြားထားသည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "試験概要",
+            "reading": "しけんがいよう"
+          },
+          {
+            "kanji": "解説",
+            "reading": "かいせつ"
+          },
+          {
+            "kanji": "出題範囲",
+            "reading": "しゅつだいはんい"
+          },
+          {
+            "kanji": "大",
+            "reading": "だい"
+          },
+          {
+            "kanji": "系",
+            "reading": "けい"
+          },
+          {
+            "kanji": "分野",
+            "reading": "ぶんや"
+          },
+          {
+            "kanji": "分",
+            "reading": "ふん"
+          },
+          {
+            "kanji": "経営戦略",
+            "reading": "けいえいせんりゃく"
+          },
+          {
+            "kanji": "関",
+            "reading": "かん"
+          },
+          {
+            "kanji": "本章",
+            "reading": "ほんしょう"
+          },
+          {
+            "kanji": "第",
+            "reading": "だい"
+          },
+          {
+            "kanji": "章",
+            "reading": "しょう"
+          },
+          {
+            "kanji": "系分野",
+            "reading": "けいぶんや"
+          },
+          {
+            "kanji": "解説章",
+            "reading": "かいせつしょう"
+          },
+          {
+            "kanji": "中心",
+            "reading": "ちゅうしん"
+          },
+          {
+            "kanji": "学",
+            "reading": "がく"
+          },
+          {
+            "kanji": "点",
+            "reading": "てん"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、「今学んでいることは、試験全体の中においてどのような位置づけのものなのか」や「あの用語とこの用語はどのような関係にあるのか」といった視点を持ちながら学習を進めると、いち早く全体像を把握することができます。",
+      "vi": "Như vậy, nếu bạn học với góc nhìn \"Điều mình đang học có vị trí như thế nào trong toàn bộ kỳ thi\" và \"Thuật ngữ kia và thuật ngữ này có mối quan hệ gì\", bạn sẽ nhanh chóng nắm bắt được bức tranh tổng thể.",
+      "en": "In this way, if you study while keeping in mind perspectives like \"What position does what I'm learning now have in the overall exam?\" and \"What relationship does that term have with this term?\", you can quickly grasp the big picture.",
+      "my": "ဤနည်းဖြင့် \"ယခုလေ့လာနေသည့်အရာသည် စာမေးပွဲတစ်ခုလုံးတွင် မည်သည့်နေရာ၌ ရှိသနည်း\" နှင့် \"ထိုဝေါဟာရနှင့် ဤဝေါဟာရ မည်သို့ဆက်စပ်နေသနည်း\" ဟူသော ရှုထောင့်များဖြင့် လေ့လာပါက ပုံရိပ်ကြီးကို အမြန်ဆုံး နားလည်နိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "今学",
+          "reading": "いまがく"
+        },
+        {
+          "kanji": "試験全体",
+          "reading": "しけんぜんたい"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "位置",
+          "reading": "いち"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "視点",
+          "reading": "してん"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "早",
+          "reading": "そう"
+        },
+        {
+          "kanji": "全体像",
+          "reading": "ぜんたいぞう"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ビジョン",
+      "reading": "びじょん",
+      "romaji": "Bijon",
+      "vi": "Tầm nhìn",
+      "en": "Vision",
+      "my": "ရူပါရုံ"
+    },
+    {
+      "kanji": "経営戦略",
+      "reading": "けいえいせんりゃく",
+      "romaji": "Keiei Senryaku",
+      "vi": "Chiến lược kinh doanh",
+      "en": "Business Strategy",
+      "my": "စီးပွားရေးဗျူဟာ"
+    },
+    {
+      "kanji": "行動計画",
+      "reading": "こうどうけいかく",
+      "romaji": "Koudou Keikaku",
+      "vi": "Kế hoạch hành động",
+      "en": "Action Plan",
+      "my": "လုပ်ဆောင်မှုအစီအစဉ်"
+    },
+    {
+      "kanji": "MVV",
+      "reading": "えむぶいぶい",
+      "romaji": "MVV",
+      "vi": "Mission Vision Value",
+      "en": "Mission Vision Value",
+      "my": "တာဝန် ရူပါရုံ တန်ဖိုးထားမှု"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

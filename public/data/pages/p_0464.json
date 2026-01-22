@@ -1,0 +1,162 @@
+{
+    "page_id": 464,
+    "image": "p_0464.png",
+    "chapter": 12,
+    "section": "practice",
+    "page_number": 448,
+    "content": [
+        {
+            "type": "practice_header",
+            "title": {
+                "ja": "出る順！過去問＆完全解説",
+                "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích hoàn chỉnh",
+                "en": "In Order of Appearance! Past Questions & Complete Explanations"
+            },
+            "note": {
+                "ja": "解答・解説はp.451参照",
+                "vi": "Xem đáp án và giải thích ở trang 451",
+                "en": "See answers and explanations on p.451"
+            }
+        },
+        {
+            "type": "practice_question",
+            "id": "12-1",
+            "question": {
+                "ja": "Webサイトからファイルをダウンロードしながら、その間に表計算ソフトでデータ処理を行うというように、1台のPCで、複数のアプリケーションプログラムを少しずつ互いに並行して実行するOSの機能を何と呼ぶか。",
+                "vi": "Trong khi tải tệp từ trang web, đồng thời xử lý dữ liệu bằng phần mềm bảng tính, chức năng của OS thực hiện nhiều chương trình ứng dụng song song từng chút một trên 1 PC được gọi là gì.",
+                "en": "While downloading files from website, simultaneously processing data with spreadsheet software, what is OS function called that executes multiple application programs bit by bit in parallel on 1 PC."
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "text": {
+                        "ja": "仮想現実",
+                        "vi": "Thực tế ảo",
+                        "en": "Virtual Reality"
+                    }
+                },
+                {
+                    "id": "イ",
+                    "text": {
+                        "ja": "デュアルコア",
+                        "vi": "Dual Core",
+                        "en": "Dual Core"
+                    }
+                },
+                {
+                    "id": "ウ",
+                    "text": {
+                        "ja": "デュアルシステム",
+                        "vi": "Dual System",
+                        "en": "Dual System"
+                    }
+                },
+                {
+                    "id": "エ",
+                    "text": {
+                        "ja": "マルチタスク",
+                        "vi": "Đa nhiệm",
+                        "en": "Multitask"
+                    }
+                }
+            ],
+            "source": "平成29年春"
+        },
+        {
+            "type": "practice_question",
+            "id": "12-2",
+            "question": {
+                "ja": "文化、言語及び性別の違いや、障害の有無や能力の違いなどに関わらず、できる限り多くの人が快適に利用できることを目指した設計を何というか。",
+                "vi": "Thiết kế hướng đến việc càng nhiều người có thể sử dụng thoải mái càng tốt, bất kể sự khác biệt về văn hóa, ngôn ngữ, giới tính, có khuyết tật hay không, khả năng khác nhau được gọi là gì.",
+                "en": "What is design called that aims for as many people as possible to use comfortably, regardless of cultural, language, gender differences, disability presence, or ability differences."
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "text": {
+                        "ja": "バリアフリーデザイン",
+                        "vi": "Barrier-Free Design",
+                        "en": "Barrier-Free Design"
+                    }
+                },
+                {
+                    "id": "イ",
+                    "text": {
+                        "ja": "フェールセーフ",
+                        "vi": "Fail-Safe",
+                        "en": "Fail-Safe"
+                    }
+                },
+                {
+                    "id": "ウ",
+                    "text": {
+                        "ja": "フールプルーフ",
+                        "vi": "Fool-Proof",
+                        "en": "Fool-Proof"
+                    }
+                },
+                {
+                    "id": "エ",
+                    "text": {
+                        "ja": "ユニバーサルデザイン",
+                        "vi": "Universal Design",
+                        "en": "Universal Design"
+                    }
+                }
+            ],
+            "source": "平成27年秋"
+        },
+        {
+            "type": "practice_question",
+            "id": "12-3",
+            "question": {
+                "ja": "ITにおけるアクセシビリティに関する記述として、最も適切なものはどれか。",
+                "vi": "Mô tả nào là phù hợp nhất về khả năng tiếp cận trong IT.",
+                "en": "Which is most appropriate description about accessibility in IT."
+            },
+            "choices": [
+                {
+                    "id": "ア",
+                    "text": {
+                        "ja": "高齢者や障害者などを含め、様々な能力や特性をもつ幅広い層の人々が等しく利用できるように配慮したソフトウェア製品の設計",
+                        "vi": "Thiết kế sản phẩm phần mềm cân nhắc để nhiều tầng lớp người có khả năng và đặc điểm khác nhau bao gồm người cao tuổi và người khuyết tật có thể sử dụng bình đẳng",
+                        "en": "Software product design considerate for wide range of people with various abilities and characteristics including elderly and disabled to use equally"
+                    }
+                },
+                {
+                    "id": "イ",
+                    "text": {
+                        "ja": "顧客データを基に顧客を識別し、コールセンターやインターネットなど様々なチャネルを用いて顧客の関係を深める手法",
+                        "vi": "Phương pháp nhận dạng khách hàng dựa trên dữ liệu khách hàng và làm sâu sắc mối quan hệ khách hàng bằng các kênh khác nhau như call center và internet",
+                        "en": "Method identifying customers based on customer data and deepening customer relationships using various channels like call center and internet"
+                    }
+                },
+                {
+                    "id": "ウ",
+                    "text": {
+                        "ja": "製品、システム、サービスなどにおいて、それらを使用する場面をイメージした上で実際に利用したりすることで得られる人の感じ方や反応",
+                        "vi": "Cảm nhận và phản ứng của con người có được từ việc tưởng tượng cảnh sử dụng và thực sự sử dụng sản phẩm, hệ thống, dịch vụ, v.v.",
+                        "en": "Human feelings and reactions obtained from imagining usage scenes and actually using products, systems, services, etc."
+                    }
+                },
+                {
+                    "id": "エ",
+                    "text": {
+                        "ja": "特定のファイルやデータベースなどの情報資産に対し、参照や更新などの権限認可や制限を確実にする手続",
+                        "vi": "Thủ tục đảm bảo ủy quyền hoặc hạn chế quyền như tham chiếu hoặc cập nhật đối với tài sản thông tin như tệp hoặc cơ sở dữ liệu cụ thể",
+                        "en": "Procedures ensuring authorization or restriction of rights like reference or update for specific files or database information assets"
+                    }
+                }
+            ],
+            "source": "令和7年"
+        }
+    ],
+    "meta": {
+        "is_practice_page": true,
+        "answers": {
+            "12-1": "エ",
+            "12-2": "エ",
+            "12-3": "ア"
+        }
+    }
+}

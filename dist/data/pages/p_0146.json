@@ -1,0 +1,344 @@
+{
+  "page_id": 146,
+  "image": "p_0146.png",
+  "chapter": 4,
+  "section": "04-01",
+  "page_number": 130,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ロードマップ",
+      "reading": "ろーどまっぷ",
+      "vi": "Roadmap",
+      "en": "Roadmap",
+      "my": "Roadmap"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ロードマップ（Technology Roadmap：技術ロードマップ）とは、技術予測手法の1つであり、いつどのような技術が実現しそうであるのかを時間軸で表した表です。\n\n下図のように横軸に時間、縦軸に技術を配置するのが一般的です。なお、ロードマップは市場動向や技術動向によって大きく変化します。そのため、定期的（1年ごとなど）に更新する必要があります。",
+      "vi": "Roadmap (Technology Roadmap: Lộ trình công nghệ) là một trong các phương pháp dự đoán công nghệ, là bảng biểu thị khi nào công nghệ nào có khả năng thực hiện trên trục thời gian.\n\nNhư hình dưới, trục ngang là thời gian, trục dọc là công nghệ. Lưu ý, roadmap thay đổi lớn theo xu hướng thị trường và công nghệ. Do đó, cần cập nhật định kỳ (hàng năm).",
+      "en": "Roadmap (Technology Roadmap) is a technology forecasting method, a table showing when and what technologies are likely to be realized on a time axis.\n\nAs shown below, time is on the horizontal axis and technology on the vertical axis. Note that roadmaps change significantly based on market and technology trends. Therefore, periodic updates (yearly etc.) are necessary.",
+      "my": "Roadmap (Technology Roadmap) သည် နည်းပညာ ခန့်မှန်းခြင်းနည်းလမ်းတစ်ခုဖြစ်ပြီး မည်သည့်အချိန်တွင် မည်သည့်နည်းပညာများ ဖြစ်နိုင်ခြေရှိကြောင်း အချိန်ဝင်ရိုးပေါ်တွင် ပြသသည့် ဇယားဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "技術予測手法",
+          "reading": "ぎじゅつよそくしゅほう"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "時間軸",
+          "reading": "じかんじく"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "横軸",
+          "reading": "よこじく"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "縦軸",
+          "reading": "たてじく"
+        },
+        {
+          "kanji": "配置",
+          "reading": "はいち"
+        },
+        {
+          "kanji": "一般的",
+          "reading": "いっぱんてき"
+        },
+        {
+          "kanji": "市場動向",
+          "reading": "しじょうどうこう"
+        },
+        {
+          "kanji": "技術動向",
+          "reading": "ぎじゅつどうこう"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "変化",
+          "reading": "へんか"
+        },
+        {
+          "kanji": "定期的",
+          "reading": "ていきてき"
+        },
+        {
+          "kanji": "年",
+          "reading": "ねん"
+        },
+        {
+          "kanji": "更新",
+          "reading": "こうしん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "ロードマップの例（5G関連技術のロードマップ）",
+        "vi": "Ví dụ Roadmap (Roadmap công nghệ liên quan 5G)",
+        "en": "Roadmap Example (5G Related Technology Roadmap)"
+      },
+      "headers": {
+        "ja": [
+          "全体",
+          "~2018年度",
+          "2019年度",
+          "2020年度",
+          "2021年度",
+          "2022年度",
+          "2023年度"
+        ],
+        "vi": [
+          "Tổng thể",
+          "~2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023"
+        ],
+        "en": [
+          "Overall",
+          "~2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "関連ビジネス",
+            "",
+            "",
+            "IoT関連サービス、5G専用端末・サービス",
+            "スマートシティ、モビリティサービス",
+            "",
+            ""
+          ],
+          "vi": [
+            "Business liên quan",
+            "",
+            "",
+            "Dịch vụ IoT, thiết bị/dịch vụ 5G chuyên dụng",
+            "Smart City, dịch vụ di động",
+            "",
+            ""
+          ],
+          "en": [
+            "Related Business",
+            "",
+            "",
+            "IoT services, 5G dedicated devices/services",
+            "Smart City, Mobility services",
+            "",
+            ""
+          ]
+        },
+        {
+          "ja": [
+            "5G",
+            "5Gの展開 NTT/ドコモ、ソフトバンク、KDDIなど",
+            "5GPoC",
+            "5G開始",
+            "5G拡大",
+            "5G拡大期",
+            ""
+          ],
+          "vi": [
+            "5G",
+            "Triển khai 5G: NTT/Docomo, Softbank, KDDI",
+            "5G PoC",
+            "5G bắt đầu",
+            "5G mở rộng",
+            "Thời kỳ mở rộng 5G",
+            ""
+          ],
+          "en": [
+            "5G",
+            "5G deployment: NTT/Docomo, Softbank, KDDI",
+            "5G PoC",
+            "5G starts",
+            "5G expansion",
+            "5G expansion period",
+            ""
+          ]
+        },
+        {
+          "ja": [
+            "LPWA",
+            "LPWA PoC",
+            "LPWAサービス提供",
+            "一部LPWA全国展開",
+            "",
+            "",
+            ""
+          ],
+          "vi": [
+            "LPWA",
+            "LPWA PoC",
+            "Cung cấp dịch vụ LPWA",
+            "Triển khai LPWA toàn quốc một phần",
+            "",
+            "",
+            ""
+          ],
+          "en": [
+            "LPWA",
+            "LPWA PoC",
+            "LPWA service provision",
+            "Partial nationwide LPWA deployment",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "ja": [
+            "ワイヤレスIoTプラットフォーム",
+            "一部機能の提供 Sigfox,LoRaサービス開始",
+            "",
+            "",
+            "ワイヤレスIoTインターワーキング",
+            "ハイブリッド・ワイヤレスの実現",
+            ""
+          ],
+          "vi": [
+            "Nền tảng IoT không dây",
+            "Cung cấp một phần chức năng, bắt đầu dịch vụ Sigfox, LoRa",
+            "",
+            "",
+            "Interworking IoT không dây",
+            "Thực hiện không dây hybrid",
+            ""
+          ],
+          "en": [
+            "Wireless IoT Platform",
+            "Partial function provision, Sigfox/LoRa service start",
+            "",
+            "",
+            "Wireless IoT interworking",
+            "Hybrid wireless realization",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ロードマップは、技術開発戦略のために作成する（経営者も理解する必要がある）。横軸に時間、縦軸に技術を配置する",
+        "vi": "Roadmap được tạo ra cho chiến lược phát triển công nghệ (người quản lý cũng cần hiểu). Trục ngang là thời gian, trục dọc là công nghệ",
+        "en": "Roadmap is created for technology development strategy (managers also need to understand). Time is on horizontal axis, technology on vertical axis",
+        "my": "Roadmap ကို နည်းပညာဖွံ့ဖြိုးတိုးတက်မှုဗျူဟာအတွက် ဖန်တီးသည်။ အလျားလိုက်ဝင်ရိုးတွင် အချိန်၊ ဒေါင်လိုက်ဝင်ရိုးတွင် နည်းပညာ",
+        "terms": [
+          {
+            "kanji": "技術開発戦略",
+            "reading": "ぎじゅつかいはつせんりゃく"
+          },
+          {
+            "kanji": "作成",
+            "reading": "さくせい"
+          },
+          {
+            "kanji": "経営者",
+            "reading": "けいえいしゃ"
+          },
+          {
+            "kanji": "理解",
+            "reading": "りかい"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          },
+          {
+            "kanji": "横軸",
+            "reading": "よこじく"
+          },
+          {
+            "kanji": "時間",
+            "reading": "じかん"
+          },
+          {
+            "kanji": "縦軸",
+            "reading": "たてじく"
+          },
+          {
+            "kanji": "技術",
+            "reading": "ぎじゅつ"
+          },
+          {
+            "kanji": "配置",
+            "reading": "はいち"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ロードマップ",
+      "reading": "ろーどまっぷ",
+      "romaji": "Roadmap",
+      "vi": "Lộ trình",
+      "en": "Roadmap",
+      "my": "Roadmap"
+    },
+    {
+      "kanji": "LPWA",
+      "reading": "えるぴーだぶりゅーえー",
+      "romaji": "LPWA",
+      "vi": "Low Power Wide Area",
+      "en": "Low Power Wide Area",
+      "my": "LPWA"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

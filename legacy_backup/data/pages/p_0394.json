@@ -1,0 +1,247 @@
+{
+  "page_id": 394,
+  "image": "p_0394.png",
+  "chapter": 10,
+  "section": "10-03",
+  "page_number": 378,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "10-03",
+      "title": {
+        "ja": "ハードディスクの多重化（RAID）",
+        "vi": "Đa bản hóa ổ đĩa cứng (RAID)",
+        "en": "Hard Disk Redundancy (RAID)"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "鏡で同じ物を増やす",
+        "vi": "Tăng vật giống nhau bằng gương",
+        "en": "Increase Same Things with Mirror"
+      },
+      "content": {
+        "ja": "鏡を使うと、あたかも同じものが2つあるように見えます。ハードディスクも同じものを2つ用意すれば障害に強くなります。",
+        "vi": "Dùng gương thì thấy như có 2 vật giống nhau. Ổ đĩa cứng cũng vậy, nếu chuẩn bị 2 cái giống nhau thì mạnh hơn với sự cố.",
+        "en": "Using mirror, appears as if there are 2 of same thing. Hard disk too, if prepare 2 same ones, becomes stronger against failures."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "前項では「コンピュータ」を複数台用意することで、障害に強いシステムを構築する方法を解説しました。ここでは、コンピュータではなく、ハードディスクの構成を変更することで、障害に強いシステムを構築する方法を解説します。この技術のことを「RAID」といいます。",
+      "vi": "Phần trước đã giải thích phương pháp xây dựng hệ thống mạnh với sự cố bằng cách chuẩn bị nhiều \"máy tính\". Ở đây giải thích phương pháp xây dựng hệ thống mạnh với sự cố bằng cách thay đổi cấu trúc ổ đĩa cứng thay vì máy tính. Công nghệ này gọi là \"RAID\".",
+      "en": "Previous section explained method building failure-resistant system by preparing multiple 'computers.' Here explains method building failure-resistant system by changing hard disk configuration instead of computers. This technology is called 'RAID.'",
+      "terms": [
+        {
+          "kanji": "前項",
+          "reading": "ぜんこう"
+        },
+        {
+          "kanji": "複数台用意",
+          "reading": "ふくすうだいようい"
+        },
+        {
+          "kanji": "障害",
+          "reading": "しょうがい"
+        },
+        {
+          "kanji": "強",
+          "reading": "きょう"
+        },
+        {
+          "kanji": "構築",
+          "reading": "こうちく"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "変更",
+          "reading": "へんこう"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "RAID",
+      "reading": "レイド",
+      "vi": "RAID",
+      "en": "RAID"
+    },
+    {
+      "type": "paragraph",
+      "ja": "RAID（Redundant Arrays of Inexpensive Disks）とは、複数のハードディスクを、あたかも1つのハードディスクであるかのように扱う技術の総称です。「データを複数台のハードディスク上に保存する技術」という換えることもできます。",
+      "vi": "RAID (Redundant Arrays of Inexpensive Disks) là tên gọi chung của công nghệ xử lý nhiều ổ đĩa cứng như thể là một ổ đĩa cứng. Cũng có thể nói là \"công nghệ lưu dữ liệu trên nhiều ổ đĩa cứng\".",
+      "en": "RAID (Redundant Arrays of Inexpensive Disks) is general term for technology treating multiple hard disks as if they were one hard disk. Can also say 'technology saving data on multiple hard disks.'",
+      "terms": [
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "総称",
+          "reading": "そうしょう"
+        },
+        {
+          "kanji": "複数台",
+          "reading": "ふくすうだい"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "換",
+          "reading": "かん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "RAIDには、RAID 0～RAID 6までの7つのレベルがあります。レベルは性能の高さではありません。記録方式の違いを表します。高レベルだから信頼性が高いわけではありません。現在よく使われているのはRAID 0、1、5です。",
+      "vi": "RAID có 7 cấp độ từ RAID 0 đến RAID 6. Cấp độ không phải là mức hiệu suất. Nó biểu thị sự khác biệt về phương thức ghi. Cấp độ cao không có nghĩa là độ tin cậy cao. Hiện nay thường dùng RAID 0, 1, 5.",
+      "en": "RAID has 7 levels from RAID 0 to RAID 6. Level is not performance height. It represents recording method difference. High level doesn't mean high reliability. Currently commonly used are RAID 0, 1, 5.",
+      "terms": [
+        {
+          "kanji": "性能",
+          "reading": "せいのう"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "記録方式",
+          "reading": "きろくほうしき"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "信頼性",
+          "reading": "しんらいせい"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、一般的な家庭用のパソコンではRAIDは採用されておらず、データを1つのハードディスク上に保存することが多いです。",
+      "vi": "Tham khảo, RAID không được áp dụng trong máy tính gia đình thông thường, thường lưu dữ liệu trên một ổ đĩa cứng.",
+      "en": "Note that general home computers don't adopt RAID, often save data on one hard disk.",
+      "terms": [
+        {
+          "kanji": "一般的",
+          "reading": "いっぱんてき"
+        },
+        {
+          "kanji": "家庭用",
+          "reading": "かていよう"
+        },
+        {
+          "kanji": "採用",
+          "reading": "さいよう"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "RAID 0とRAID 1が重要",
+      "vi": "RAID 0 và RAID 1 quan trọng",
+      "en": "RAID 0 and RAID 1 are Important",
+      "note": "学習のポイント"
+    },
+    {
+      "type": "paragraph",
+      "ja": "RAIDには7つのレベルがありますが、ITパスポート試験によく出題されるのは「ストライピング」と「ミラーリング」の2つです。",
+      "vi": "RAID có 7 cấp độ, nhưng thường xuất hiện trong kỳ thi IT Passport là 2 loại \"striping\" và \"mirroring\".",
+      "en": "RAID has 7 levels, but commonly appearing in IT Passport exam are 2 types: 'striping' and 'mirroring.'",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "RAID",
+      "full": "Redundant Arrays of Inexpensive Disks",
+      "vi": "RAID (Mảng đĩa dự phòng giá rẻ)",
+      "en": "RAID (Redundant Arrays of Inexpensive Disks)",
+      "my": "ရေဒ် (ပိုလျံထုပ် ဒစ် အလိုက်များ)"
+    },
+    {
+      "term": "ストライピング",
+      "vi": "Striping (phân tán)",
+      "en": "Striping",
+      "my": "စထရိုက်ပင်း"
+    },
+    {
+      "term": "ミラーリング",
+      "vi": "Mirroring (sao chép)",
+      "en": "Mirroring",
+      "my": "မင်းရိုင်"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

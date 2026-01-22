@@ -1,0 +1,338 @@
+{
+  "page_id": 75,
+  "image": "p_0075.png",
+  "chapter": 2,
+  "section": "02-02",
+  "page_number": 59,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "02-02",
+      "ja": "産業財産権とその他の権利",
+      "reading": "さんぎょうざいさんけんとそのたのけんり",
+      "vi": "Quyền sở hữu công nghiệp và các quyền khác",
+      "en": "Industrial Property Rights and Other Rights",
+      "my": "စက်မှုပိုင်ဆိုင်ခွင့်နှင့် အခြားအခွင့်အရေးများ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "知的財産権のなかで最も有名なのは「著作権」ですが、それ以外にも、さまざまな権利があります。ここでは、著作権以外の知的財産権を紹介します。",
+      "vi": "Trong quyền sở hữu trí tuệ, nổi tiếng nhất là \"Quyền tác giả\", nhưng ngoài ra còn có nhiều quyền khác. Ở đây sẽ giới thiệu các quyền sở hữu trí tuệ ngoài quyền tác giả.",
+      "en": "Among intellectual property rights, \"Copyright\" is most famous, but there are various other rights. Here we'll introduce intellectual property rights other than copyright.",
+      "my": "ဉာဏပိုင်ဆိုင်ခွင့်များတွင် \"မူပိုင်ခွင့်\" အထင်ရှားဆုံးဖြစ်သော်လည်း အခြားအခွင့်အရေးများလည်း ရှိသည်။",
+      "terms": [
+        {
+          "kanji": "知的財産権",
+          "reading": "ちてきざいさんけん"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "有名",
+          "reading": "ゆうめい"
+        },
+        {
+          "kanji": "著作権",
+          "reading": "ちょさくけん"
+        },
+        {
+          "kanji": "以外",
+          "reading": "いがい"
+        },
+        {
+          "kanji": "権利",
+          "reading": "けんり"
+        },
+        {
+          "kanji": "著作権以外",
+          "reading": "ちょさくけんいがい"
+        },
+        {
+          "kanji": "紹介",
+          "reading": "しょうかい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "産業財産権",
+      "reading": "さんぎょうざいさんけん",
+      "vi": "Quyền sở hữu công nghiệp",
+      "en": "Industrial Property Rights",
+      "my": "စက်မှုပိုင်ဆိုင်ခွင့်"
+    },
+    {
+      "type": "paragraph",
+      "ja": "前節で、知的財産権には大きく「著作権」「産業財産権」「その他の権利」の3つがあることを解説しました（p.56）。ここからは、産業財産権について解説します。\n\n産業財産権とは、産業分野に対する権利です。「産業」というと少し堅い印象がありますが、要は主に（個人ではなく）企業が開発した発明やブランドに対する権利です。産業の発展を目的とする権利として特許庁が管轄しています。\n\n前節で解説した著作権との大きな違いは、申請の必要性と主な対象者の2つです。",
+      "vi": "Trong phần trước đã giải thích quyền sở hữu trí tuệ chia lớn thành 3 loại: \"Quyền tác giả\", \"Quyền sở hữu công nghiệp\", \"Quyền khác\" (trang 56). Từ đây sẽ giải thích về quyền sở hữu công nghiệp.\n\nQuyền sở hữu công nghiệp là quyền đối với lĩnh vực công nghiệp. \"Công nghiệp\" nghe có vẻ cứng nhắc, nhưng về cơ bản là quyền đối với phát minh và thương hiệu do doanh nghiệp (không phải cá nhân) phát triển. Được Cục Sáng chế quản lý với mục đích phát triển công nghiệp.\n\nSự khác biệt lớn với quyền tác giả đã giải thích ở phần trước là: tính cần thiết của đăng ký và đối tượng chính.",
+      "en": "In the previous section, we explained IP rights are broadly 3 types: \"Copyright\", \"Industrial Property Rights\", \"Other Rights\" (p.56). From here, we'll explain industrial property rights.\n\nIndustrial property rights are rights to industrial fields. \"Industry\" sounds formal, but basically it's rights to inventions and brands developed by companies (not individuals). Managed by the Patent Office for industrial development.\n\nThe big differences from copyright explained earlier are: need for application and main target.",
+      "my": "ယခင်အပိုင်းတွင် IP အခွင့်အရေးများသည် \"မူပိုင်ခွင့်\"၊ \"စက်မှုပိုင်ဆိုင်ခွင့်\"၊ \"အခြားအခွင့်အရေးများ\" ဟူ၍ အမျိုးအစား ၃ ခု ရှိကြောင်း ရှင်းပြခဲ့သည်။",
+      "terms": [
+        {
+          "kanji": "前節",
+          "reading": "ぜんせつ"
+        },
+        {
+          "kanji": "知的財産権",
+          "reading": "ちてきざいさんけん"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "著作権",
+          "reading": "ちょさくけん"
+        },
+        {
+          "kanji": "産業財産権",
+          "reading": "さんぎょうざいさんけん"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "権利",
+          "reading": "けんり"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "産業分野",
+          "reading": "さんぎょうぶんや"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "産業",
+          "reading": "さんぎょう"
+        },
+        {
+          "kanji": "少",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "堅",
+          "reading": "けん"
+        },
+        {
+          "kanji": "印象",
+          "reading": "いんしょう"
+        },
+        {
+          "kanji": "要",
+          "reading": "よう"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "個人",
+          "reading": "こじん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "発明",
+          "reading": "はつめい"
+        },
+        {
+          "kanji": "発展",
+          "reading": "はってん"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "特許庁",
+          "reading": "とっきょちょう"
+        },
+        {
+          "kanji": "管轄",
+          "reading": "かんかつ"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "申請",
+          "reading": "しんせい"
+        },
+        {
+          "kanji": "必要性",
+          "reading": "ひつようせい"
+        },
+        {
+          "kanji": "対象者",
+          "reading": "たいしょうしゃ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "著作権と産業財産権の違い",
+        "vi": "Sự khác biệt giữa Quyền tác giả và Quyền sở hữu công nghiệp",
+        "en": "Difference between Copyright and Industrial Property Rights"
+      },
+      "headers": {
+        "ja": [
+          "権利",
+          "申請の必要性",
+          "主な対象者"
+        ],
+        "vi": [
+          "Quyền",
+          "Cần đăng ký?",
+          "Đối tượng chính"
+        ],
+        "en": [
+          "Right",
+          "Application Needed?",
+          "Main Target"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "著作権",
+            "不要",
+            "個人"
+          ],
+          "vi": [
+            "Quyền tác giả",
+            "Không cần",
+            "Cá nhân"
+          ],
+          "en": [
+            "Copyright",
+            "Not needed",
+            "Individual"
+          ]
+        },
+        {
+          "ja": [
+            "産業財産権",
+            "必要",
+            "企業"
+          ],
+          "vi": [
+            "Quyền sở hữu công nghiệp",
+            "Cần",
+            "Doanh nghiệp"
+          ],
+          "en": [
+            "Industrial Property Rights",
+            "Needed",
+            "Company"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "もう少し詳しく！ 管轄の違い",
+        "vi": "Chi tiết hơn! Sự khác biệt về quản lý",
+        "en": "More Details! Jurisdiction Difference",
+        "my": "အသေးစိတ် ပိုကြည့်ရန်"
+      },
+      "content": {
+        "ja": "・著作権は、文化の発展を目的とする権利として、文化庁が管轄しています。\n・産業財産権は、産業の発展を目的とする権利として、特許庁が管轄しています。",
+        "vi": "・Quyền tác giả được Cục Văn hóa quản lý với mục đích phát triển văn hóa.\n・Quyền sở hữu công nghiệp được Cục Sáng chế quản lý với mục đích phát triển công nghiệp.",
+        "en": "・Copyright is managed by Agency for Cultural Affairs for cultural development.\n・Industrial property rights are managed by Patent Office for industrial development.",
+        "my": "・ မူပိုင်ခွင့်ကို ယဉ်ကျေးမှုဖွံ့ဖြိုးရေးအတွက် ယဉ်ကျေးမှုရေးရာဌာနက စီမံသည်။\n・ စက်မှုပိုင်ဆိုင်ခွင့်ကို စက်မှုဖွံ့ဖြိုးရေးအတွက် မူပိုင်ခွင့်ရုံးက စီမံသည်။",
+        "terms": [
+          {
+            "kanji": "著作権",
+            "reading": "ちょさくけん"
+          },
+          {
+            "kanji": "文化",
+            "reading": "ぶんか"
+          },
+          {
+            "kanji": "発展",
+            "reading": "はってん"
+          },
+          {
+            "kanji": "目的",
+            "reading": "もくてき"
+          },
+          {
+            "kanji": "権利",
+            "reading": "けんり"
+          },
+          {
+            "kanji": "文化庁",
+            "reading": "ぶんかちょう"
+          },
+          {
+            "kanji": "管轄",
+            "reading": "かんかつ"
+          },
+          {
+            "kanji": "産業財産権",
+            "reading": "さんぎょうざいさんけん"
+          },
+          {
+            "kanji": "産業",
+            "reading": "さんぎょう"
+          },
+          {
+            "kanji": "特許庁",
+            "reading": "とっきょちょう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "産業財産権",
+      "reading": "さんぎょうざいさんけん",
+      "romaji": "Sangyou Zaisan Ken",
+      "vi": "Quyền sở hữu công nghiệp",
+      "en": "Industrial Property Rights",
+      "my": "စက်မှုပိုင်ဆိုင်ခွင့်"
+    },
+    {
+      "kanji": "特許庁",
+      "reading": "とっきょちょう",
+      "romaji": "Tokkyochou",
+      "vi": "Cục Sáng chế",
+      "en": "Patent Office",
+      "my": "မူပိုင်ခွင့်ရုံး"
+    },
+    {
+      "kanji": "文化庁",
+      "reading": "ぶんかちょう",
+      "romaji": "Bunkachou",
+      "vi": "Cục Văn hóa",
+      "en": "Agency for Cultural Affairs",
+      "my": "ယဥ်ကျေးမှုရေးရာအချုပ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "has_learn_more": true
+  }
+}

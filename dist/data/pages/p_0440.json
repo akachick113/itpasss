@@ -1,0 +1,166 @@
+{
+  "page_id": 440,
+  "image": "p_0440.png",
+  "chapter": 12,
+  "section": "12-01",
+  "page_number": 424,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "12-01",
+      "title": {
+        "ja": "OSの機能",
+        "vi": "Chức năng của OS",
+        "en": "OS Functions"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "マルチタスク",
+        "vi": "Đa nhiệm",
+        "en": "Multitask"
+      },
+      "content": {
+        "ja": "複数の作業を同時に行うことをマルチタスクといいます。コンピュータはマルチタスクが得意です。",
+        "vi": "Thực hiện nhiều công việc đồng thời được gọi là đa nhiệm. Máy tính giỏi đa nhiệm.",
+        "en": "Doing multiple tasks simultaneously is called multitask. Computers are good at multitasking."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、システムの構成要素の1つである「ソフトウェア」について詳しく解説していきます。ソフトウェアは、大きく「OS」と「アプリケーションソフトウェア」の2つに分類できます。",
+      "vi": "Từ đây, sẽ giải thích chi tiết về \"Phần mềm\" - một trong các yếu tố cấu thành hệ thống. Phần mềm có thể chia thành 2 loại lớn: \"OS\" và \"Phần mềm ứng dụng\".",
+      "en": "From here, will explain 'Software' - one of system components - in detail. Software can be broadly classified into 2: 'OS' and 'Application Software.'",
+      "terms": [
+        {
+          "kanji": "構成要素",
+          "reading": "こうせいようそ"
+        },
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "OSとは",
+      "vi": "OS là gì",
+      "en": "What is OS"
+    },
+    {
+      "type": "paragraph",
+      "ja": "OS（Operating System）とは、アプリケーションソフトウェアとハードウェアの間で処理を仲介するソフトウェアです。世界で最も普及しているパソコン向けのOSはWindowsです。また、macOSも広く利用されています。他にも、iPhoneに搭載されているiOSや、さまざまなスマートフォンに搭載されているAndroidもOSの一種です。下図のように「アプリケーションソフトウェアとハードウェアをつなぐ架け橋」ということもできます。",
+      "vi": "OS (Operating System) là phần mềm làm trung gian xử lý giữa phần mềm ứng dụng và phần cứng. OS dành cho máy tính phổ biến nhất thế giới là Windows. macOS cũng được sử dụng rộng rãi. Ngoài ra, iOS được trang bị trên iPhone và Android được trang bị trên nhiều smartphone cũng là một loại OS. Như hình dưới, có thể nói là \"cầu nối giữa phần mềm ứng dụng và phần cứng\".",
+      "en": "OS (Operating System) is software mediating processing between application software and hardware. Most popular PC OS in world is Windows. macOS is also widely used. Also, iOS in iPhone and Android in various smartphones are types of OS. As in diagram below, can be called 'bridge connecting application software and hardware.'",
+      "terms": [
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "仲介",
+          "reading": "ちゅうかい"
+        },
+        {
+          "kanji": "世界",
+          "reading": "せかい"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "普及",
+          "reading": "ふきゅう"
+        },
+        {
+          "kanji": "向",
+          "reading": "こう"
+        },
+        {
+          "kanji": "広",
+          "reading": "ひろ"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "搭載",
+          "reading": "とうさい"
+        },
+        {
+          "kanji": "一種",
+          "reading": "いっしゅ"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "架",
+          "reading": "か"
+        },
+        {
+          "kanji": "橋",
+          "reading": "はし"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "OSとアプリケーションソフトウェア",
+        "vi": "OS và Phần mềm ứng dụng",
+        "en": "OS and Application Software"
+      },
+      "description": {
+        "ja": "ソフトウェア層：ユーザー → アプリケーションソフトウェア → OS → ハードウェア（CPU）。OSはアプリケーションとハードウェアの架け橋",
+        "vi": "Lớp phần mềm: Người dùng → Phần mềm ứng dụng → OS → Phần cứng (CPU). OS là cầu nối giữa ứng dụng và phần cứng",
+        "en": "Software layer: User → Application Software → OS → Hardware (CPU). OS is bridge between application and hardware"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "OS",
+      "full": "Operating System",
+      "vi": "Hệ điều hành",
+      "en": "Operating System",
+      "my": "အိုအက်စ်"
+    },
+    {
+      "term": "アプリケーションソフトウェア",
+      "vi": "Phần mềm ứng dụng",
+      "en": "Application Software",
+      "my": "အပ္ပလီကေးရှင်း ဆော့ဖ်ဝဲ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

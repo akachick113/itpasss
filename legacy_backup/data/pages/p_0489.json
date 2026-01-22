@@ -1,0 +1,136 @@
+{
+  "page_id": 489,
+  "image": "p_0489.png",
+  "chapter": 13,
+  "section": "13-04",
+  "page_number": 473,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "バックアップとログファイル",
+        "vi": "Sao lưu và Tệp nhật ký",
+        "en": "Backup and Log File"
+      },
+      "description": {
+        "ja": "時間軸：バックアップ→トランザクション開始（更新前ログファイル）→トランザクション→トランザクション完了（更新後ログファイル）",
+        "vi": "Trục thời gian: Sao lưu → Bắt đầu giao dịch (Tệp nhật ký trước cập nhật) → Giao dịch → Hoàn thành giao dịch (Tệp nhật ký sau cập nhật)",
+        "en": "Timeline: Backup → Transaction start (Before-update log file) → Transaction → Transaction complete (After-update log file)"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ログファイルとは、データベースの更新履歴を記録したファイル",
+          "vi": "Tệp nhật ký là tệp ghi lại lịch sử cập nhật cơ sở dữ liệu",
+          "en": "Log file is file recording database update history"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ロールバック",
+      "vi": "Rollback",
+      "en": "Rollback"
+    },
+    {
+      "type": "paragraph",
+      "ja": "バックアップファイルやログファイルを使った障害回復の方法には「ロールバック」と「ロールフォワード」の2種類があり、障害の内容に応じてこれらを使い分けます。",
+      "vi": "Có 2 loại phương pháp khôi phục sự cố sử dụng tệp sao lưu hoặc tệp nhật ký là \"Rollback\" và \"Rollforward\", và sử dụng chúng tùy theo nội dung sự cố.",
+      "en": "There are 2 types of failure recovery methods using backup or log files: 'Rollback' and 'Rollforward,' and use them according to failure content.",
+      "terms": [
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "障害回復",
+          "reading": "しょうがいかいふく"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "障害",
+          "reading": "しょうがい"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "応",
+          "reading": "おう"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        }
+      ]
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ロールバック",
+        "vi": "Rollback",
+        "en": "Rollback"
+      },
+      "definition": {
+        "ja": "ロールバックとは、トランザクションを実行中に障害が発生した際に、データベースをトランザクション開始直前の状態に戻す手法です。ロールバックでは「更新前ログファイル」を用いてデータベースを復旧します。",
+        "vi": "Rollback là phương pháp khôi phục cơ sở dữ liệu về trạng thái ngay trước khi bắt đầu giao dịch khi sự cố xảy ra trong quá trình thực hiện giao dịch. Trong Rollback, sử dụng \"Tệp nhật ký trước cập nhật\" để khôi phục cơ sở dữ liệu.",
+        "en": "Rollback is method restoring database to state just before transaction started when failure occurs during transaction execution. In Rollback, uses 'Before-update log file' to recover database."
+      }
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ロールバック",
+        "vi": "Rollback",
+        "en": "Rollback"
+      },
+      "description": {
+        "ja": "トランザクション開始→トランザクション実行中→障害発生（トランザクション完了前）→ロールバック（「更新前ログファイル」を使ってトランザクション開始直前の状態にデータベースを戻す）",
+        "vi": "Bắt đầu giao dịch → Đang thực hiện giao dịch → Sự cố xảy ra (trước khi hoàn thành giao dịch) → Rollback (Sử dụng \"Tệp nhật ký trước cập nhật\" để khôi phục cơ sở dữ liệu về trạng thái ngay trước khi bắt đầu giao dịch)",
+        "en": "Transaction start → Transaction executing → Failure occurs (before transaction complete) → Rollback (Use 'Before-update log file' to restore database to state just before transaction started)"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ロールバック",
+      "vi": "Rollback",
+      "en": "Rollback",
+      "my": "ရိုးဘက်"
+    },
+    {
+      "term": "更新前ログファイル",
+      "reading": "こうしんまえログファイル",
+      "vi": "Tệp nhật ký trước cập nhật",
+      "en": "Before-update Log File",
+      "my": "အပ်ဒိတ်မလုပ်မီ လော့ဖိုင်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+    "page_id": 44,
+    "image": "p_0044.png",
+    "chapter": 1,
+    "section": "practice_answers",
+    "page_number": 28,
+    "content": [
+        {
+            "type": "heading",
+            "level": 2,
+            "ja": "解答・解説",
+            "reading": "かいとう・かいせつ",
+            "vi": "Đáp án và Giải thích",
+            "en": "Answers and Explanations",
+            "my": "အဖြေများနှင့် ရှင်းလင်းချက်များ"
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-5",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "人事関連業務においてAIやIoTといったITを活用する手法のことを「HRTech」といいます。\n\nア. e-ラーニングとは、パソコンやインターネットなどのITを使った学習方法です。\nイ. FinTechとは、金融とITを融合したサービスのことです。\nエ. コンピテンシとは、仕事において高い成果を出す人に共通する行動特性です。",
+                "vi": "Phương pháp sử dụng IT như AI và IoT trong nghiệp vụ nhân sự được gọi là \"HRTech\".\n\nア. e-Learning là phương pháp học sử dụng IT như máy tính và Internet.\nイ. FinTech là dịch vụ kết hợp tài chính và IT.\nエ. Competency là đặc điểm hành vi chung của những người đạt thành tích cao trong công việc.",
+                "en": "The method of using IT like AI and IoT in HR operations is called \"HRTech\".\n\nA. e-Learning is a learning method using IT like computers and Internet.\nB. FinTech is a service combining finance and IT.\nD. Competency is behavioral characteristics common to high performers at work."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-6",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "グリーンITとは「地球環境に優しいIT」のことです。今回の問題ではひっかけの選択肢はありませんでしたが、グリーンIT関連の問題では「スマート農業」という不正解選択肢が登場することがあるので気をつけてください。スマート農業とは「農業にITを活用すること」を指します。\n\nア. エコファームとは、環境保全型農業のことです。\nイ. 環境アセスメントとは、環境影響評価のことです。\nエ. ゼロエミッションとは、廃棄物をゼロにすることを目的とする運動のことです。",
+                "vi": "Green IT là \"IT thân thiện với môi trường\". Trong câu hỏi này không có lựa chọn đánh lừa, nhưng trong các câu hỏi về Green IT, đáp án sai \"Smart Agriculture\" có thể xuất hiện nên hãy cẩn thận. Smart Agriculture nghĩa là \"áp dụng IT vào nông nghiệp\".\n\nア. Eco-farm là nông nghiệp bảo tồn môi trường.\nイ. Environmental assessment là đánh giá tác động môi trường.\nエ. Zero emission là phong trào nhằm giảm chất thải về 0.",
+                "en": "Green IT means \"environmentally-friendly IT\". This question had no trick options, but in Green IT questions, \"Smart Agriculture\" may appear as a wrong answer, so be careful. Smart Agriculture means \"applying IT to agriculture\".\n\nA. Eco-farm is environmentally-friendly agriculture.\nB. Environmental assessment evaluates environmental impact.\nD. Zero emission is a movement aiming for zero waste."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-7",
+            "answer": "ア",
+            "explanation": {
+                "ja": "4つの選択肢の中で、「事業領域ごとに独立した組織」を設置する組織形態は、カンパニー制組織のみです。\n\nイ. 機能別組織（職能別組織）は、業務を専門的な機能に分けて、各機能を単位として構成する組織です。\nウ. プロジェクト組織は、ある問題を解決するために各部門から専門家を集めて結成する一時的な組織です。\nエ. マトリックス組織は、社員が職能部門と事業部門の両方に所属する組織です。",
+                "vi": "Trong 4 lựa chọn, hình thức tổ chức đặt \"tổ chức độc lập theo từng lĩnh vực kinh doanh\" chỉ có Company organization.\n\nイ. Functional organization chia công việc thành các chức năng chuyên môn.\nウ. Project organization là tổ chức tạm thời tập hợp chuyên gia từ các bộ phận.\nエ. Matrix organization là tổ chức nhân viên thuộc cả bộ phận chức năng và kinh doanh.",
+                "en": "Among the 4 options, only Company organization establishes \"independent organizations for each business domain\".\n\nB. Functional organization divides work into specialized functions.\nC. Project organization is temporary, gathering experts from departments.\nD. Matrix organization has employees belonging to both functional and business departments."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-8",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "「情報システム」の「情報」を「Information」と英訳すれば正解がCIOであると判明できます。CEOは「Chief Executive Officer：最高経営責任者」、CFOは「Chief Financial Officer：最高財務責任者」、COOは「Chief Operating Officer：最高執行責任者」です。",
+                "vi": "Nếu dịch \"thông tin\" trong \"hệ thống thông tin\" sang tiếng Anh là \"Information\", có thể thấy đáp án là CIO. CEO là \"Chief Executive Officer: Giám đốc điều hành\", CFO là \"Chief Financial Officer: Giám đốc tài chính\", COO là \"Chief Operating Officer: Giám đốc hoạt động\".",
+                "en": "If you translate \"information\" in \"information system\" to English as \"Information\", you can see the answer is CIO. CEO is \"Chief Executive Officer\", CFO is \"Chief Financial Officer\", COO is \"Chief Operating Officer\"."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-9",
+            "answer": "イ",
+            "explanation": {
+                "ja": "持続可能な世界を実現するための17つの国際目標のことを、SDGsといいます。\n\nア. COP21とは、国連気候変動枠組条約第21回締約国会議（COP21）で採択された、地球温暖化対策のための国際ルールです。\nウ. UNESCOとは、教育、科学、文化の協力と交流を通じて、国際平和と人類の福祉の促進を目的とした国際連合の専門機関です。\nエ. WHOとは、すべての人々が可能な最高の健康水準に到達することを目的とした国際連合の専門機関です。",
+                "vi": "17 mục tiêu quốc tế để thực hiện thế giới bền vững được gọi là SDGs.\n\nア. COP21 là quy tắc quốc tế về chống biến đổi khí hậu được thông qua tại Hội nghị các bên lần thứ 21 (COP21).\nウ. UNESCO là cơ quan chuyên môn của Liên Hợp Quốc nhằm thúc đẩy hòa bình và phúc lợi nhân loại thông qua hợp tác giáo dục, khoa học, văn hóa.\nエ. WHO là cơ quan chuyên môn của Liên Hợp Quốc nhằm giúp mọi người đạt được mức sức khỏe cao nhất.",
+                "en": "The 17 international goals for achieving a sustainable world are called SDGs.\n\nA. COP21 is the international rule for climate change adopted at the 21st Conference of the Parties.\nC. UNESCO is a UN specialized agency promoting peace and welfare through education, science, and culture cooperation.\nD. WHO is a UN specialized agency aiming for all people to achieve the highest possible health level."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true
+    }
+}

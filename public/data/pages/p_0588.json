@@ -1,0 +1,134 @@
+{
+    "page_id": 588,
+    "image": "p_0588.png",
+    "chapter": 15,
+    "section": "practice_questions_2",
+    "page_number": 572,
+    "content": [
+        {
+            "type": "question",
+            "id": "15-25",
+            "year": "令和3年度",
+            "question": {
+                "ja": "複数のコンピュータが同じ内容のデータを保持し、各コンピュータがデータの正当性を検証して担保することによって、矛盾なくデータを改ざんすることが困難となる。暗号資産の基礎技術として利用されている分散型台帳を実現したものはどれか。",
+                "vi": "Nhiều máy tính giữ cùng nội dung dữ liệu, mỗi máy tính xác minh và đảm bảo tính hợp lệ của dữ liệu, khiến việc sửa đổi dữ liệu mà không mâu thuẫn trở nên khó khăn. Đâu là thứ thực hiện sổ cái phân tán được sử dụng làm công nghệ cơ bản cho tài sản mã hóa?",
+                "en": "Multiple computers hold same data content, each computer verifies and guarantees data validity, making it difficult to falsify data without contradiction. Which realizes distributed ledger used as basic technology for crypto assets?"
+            },
+            "options": [
+                {
+                    "id": "ア",
+                    "ja": "クラウドコンピューティング",
+                    "vi": "Cloud Computing",
+                    "en": "Cloud Computing"
+                },
+                {
+                    "id": "イ",
+                    "ja": "ディープラーニング",
+                    "vi": "Deep Learning",
+                    "en": "Deep Learning"
+                },
+                {
+                    "id": "ウ",
+                    "ja": "ブロックチェーン",
+                    "vi": "Blockchain",
+                    "en": "Blockchain"
+                },
+                {
+                    "id": "エ",
+                    "ja": "リレーショナルデータベース",
+                    "vi": "Cơ sở dữ liệu quan hệ",
+                    "en": "Relational Database"
+                }
+            ],
+            "answer": "ウ"
+        },
+        {
+            "type": "question",
+            "id": "15-26",
+            "year": "令和3年度",
+            "question": {
+                "ja": "バイオメトリクス認証における認証精度に関する次の記述中のa、bに入れる字句の適切な組み合わせはどれか。",
+                "vi": "Tổ hợp từ ngữ phù hợp điền vào a, b trong mô tả về độ chính xác xác thực trong xác thực sinh trắc học là gì?",
+                "en": "What is appropriate combination of terms for a, b in description about authentication accuracy in biometric authentication?"
+            },
+            "context": {
+                "ja": "バイオメトリクス認証において、誤って本人を拒否する確率を本人拒否率といい、誤って他人を受け入れる確率を他人受入率という。また、認証の装置又はアルゴリズムが生体情報を認識できない割合を未対応率という。認証精度の設定において、「a」が低くなるように設定すると利便性が高まり、「b」が低くなるように設定すると安全性が高まる。",
+                "vi": "Trong xác thực sinh trắc học, xác suất nhầm từ chối bản thân được gọi là tỷ lệ từ chối bản thân, xác suất nhầm chấp nhận người khác được gọi là tỷ lệ chấp nhận người khác. Ngoài ra, tỷ lệ thiết bị hoặc thuật toán xác thực không nhận dạng được thông tin sinh trắc được gọi là tỷ lệ không đối ứng. Khi cài đặt \"a\" thấp, tính tiện lợi tăng; khi cài đặt \"b\" thấp, tính an toàn tăng.",
+                "en": "In biometric authentication, probability of mistakenly rejecting actual person is called False Rejection Rate, probability of mistakenly accepting others is called False Acceptance Rate. Also, rate at which authentication device or algorithm cannot recognize biometric information is called non-response rate. Setting 'a' low increases convenience, setting 'b' low increases safety."
+            },
+            "options": [
+                {
+                    "id": "ア",
+                    "a": "他人受入率",
+                    "b": "本人拒否率",
+                    "a_vi": "Tỷ lệ chấp nhận người khác",
+                    "b_vi": "Tỷ lệ từ chối bản thân"
+                },
+                {
+                    "id": "イ",
+                    "a": "他人受入率",
+                    "b": "未対応率",
+                    "a_vi": "Tỷ lệ chấp nhận người khác",
+                    "b_vi": "Tỷ lệ không đối ứng"
+                },
+                {
+                    "id": "ウ",
+                    "a": "本人拒否率",
+                    "b": "他人受入率",
+                    "a_vi": "Tỷ lệ từ chối bản thân",
+                    "b_vi": "Tỷ lệ chấp nhận người khác"
+                },
+                {
+                    "id": "エ",
+                    "a": "未対応率",
+                    "b": "本人拒否率",
+                    "a_vi": "Tỷ lệ không đối ứng",
+                    "b_vi": "Tỷ lệ từ chối bản thân"
+                }
+            ],
+            "answer": "ウ"
+        },
+        {
+            "type": "question",
+            "id": "15-27",
+            "year": "令和5年度",
+            "question": {
+                "ja": "二要素認証の説明として、最も適切なものはどれか。",
+                "vi": "Giải thích nào phù hợp nhất về xác thực hai yếu tố?",
+                "en": "Which is most appropriate explanation of 2-factor authentication?"
+            },
+            "options": [
+                {
+                    "id": "ア",
+                    "ja": "所有物、記憶及び生体情報の3種類のうちの2種類を使用して認証する方式",
+                    "vi": "Phương thức xác thực sử dụng 2 trong 3 loại: vật sở hữu, trí nhớ và thông tin sinh trắc",
+                    "en": "Authentication method using 2 of 3 types: possession, memory, and biometric information"
+                },
+                {
+                    "id": "イ",
+                    "ja": "人間の生体器官や筆跡などを使った認証で、認証情報の2カ所以上の特徴点を使用して認証する方式",
+                    "vi": "Phương thức xác thực sử dụng 2 điểm đặc trưng trở lên của thông tin xác thực trong xác thực sử dụng cơ quan sinh học hoặc chữ viết tay của con người",
+                    "en": "Authentication method using 2+ feature points of authentication information in authentication using human biological organs or handwriting"
+                },
+                {
+                    "id": "ウ",
+                    "ja": "文字、数字及び記号のうち2種類以上を組み合わせたパスワードを用いて利用者を認証する方式",
+                    "vi": "Phương thức xác thực người dùng bằng mật khẩu kết hợp 2 loại trở lên trong chữ cái, số và ký hiệu",
+                    "en": "Authentication method using password combining 2+ types of letters, numbers, and symbols"
+                },
+                {
+                    "id": "エ",
+                    "ja": "利用者を一度認証することで二つ以上のシステムやサービスなどを利用できるようにする方式",
+                    "vi": "Phương thức cho phép sử dụng 2 hệ thống hoặc dịch vụ trở lên bằng một lần xác thực người dùng",
+                    "en": "Authentication method allowing use of 2+ systems or services by authenticating user once"
+                }
+            ],
+            "answer": "ア"
+        }
+    ],
+    "answer_key": {
+        "15-25": "ウ",
+        "15-26": "ウ",
+        "15-27": "ア"
+    }
+}

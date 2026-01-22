@@ -1,0 +1,370 @@
+{
+  "page_id": 95,
+  "image": "p_0095.png",
+  "chapter": 2,
+  "section": "02-05",
+  "page_number": 79,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "なお、ただ「守れ！守れ！」というだけでは不十分です。企業側は従業員がコンプライアンスを徹底するよう、業務マニュアルの作成や内部通報の仕組みの作成を行う必要があります。また、コンプライアンスについて社員を教育することも重要です。",
+      "vi": "Lưu ý, chỉ nói Tuân thủ! Tuân thủ! là không đủ. Phía doanh nghiệp cần tạo hướng dẫn nghiệp vụ và cơ chế báo cáo nội bộ để nhân viên thực hiện nghiêm túc compliance. Việc đào tạo nhân viên về compliance cũng quan trọng.",
+      "en": "Note that just saying Follow! Follow! isn't enough. Companies need to create operation manuals and internal reporting mechanisms for employees to thoroughly practice compliance. Training employees about compliance is also important.",
+      "my": "Follow! Follow! ဟု ပြောရုံဖြင့် မလုံလောက်ကြောင်း သတိပြုပါ။",
+      "terms": [
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "不十分",
+          "reading": "ふじゅうぶん"
+        },
+        {
+          "kanji": "企業側",
+          "reading": "きぎょうがわ"
+        },
+        {
+          "kanji": "従業員",
+          "reading": "じゅうぎょういん"
+        },
+        {
+          "kanji": "徹底",
+          "reading": "てってい"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "内部通報",
+          "reading": "ないぶつうほう"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "社員",
+          "reading": "しゃいん"
+        },
+        {
+          "kanji": "教育",
+          "reading": "きょういく"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ソーシャルメディアポリシー",
+      "reading": "そーしゃるめでぃあぽりしー",
+      "vi": "Chính sách mạng xã hội",
+      "en": "Social Media Policy",
+      "my": "ဆိုရှယ်မီဒီယာမူဝါဒ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "コンプライアンスに関連して企業が作成する社内ルールに「ソーシャルメディアポリシー」があります。ソーシャルメディアポリシーとは、組織がソーシャルメディアを使用する際のルールをまとめた文書です。",
+      "vi": "Liên quan đến compliance, có Chính sách mạng xã hội trong quy tắc nội bộ doanh nghiệp tạo ra. Chính sách mạng xã hội là văn bản tổng hợp quy tắc khi tổ chức sử dụng mạng xã hội.",
+      "en": "Related to compliance, companies create Social Media Policy as internal rules. Social Media Policy is a document summarizing rules when organizations use social media.",
+      "my": "Compliance နှင့်ဆိုင်၍ ကုမ္ပဏီများ Social Media Policy ကို အတွင်းစည်းကမ်းအဖြစ် ဖန်တီးသည်။",
+      "terms": [
+        {
+          "kanji": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ソーシャルメディアポリシーの目的",
+      "vi": "Mục đích của chính sách mạng xã hội",
+      "en": "Purpose of Social Media Policy"
+    },
+    {
+      "type": "paragraph",
+      "ja": "企業などによるソーシャルメディアの利用が増える中で、その発信方法などを組織内で統一することで、トラブルを減らすことができます。私用アカウントからの発信であっても所属する組織に影響を与える可能性があるため、ソーシャルメディアポリシーでは公私を区別せずにルールを取り決めます。\n\nまた、組織がソーシャルメディアに取り組む姿勢を外部に示すことも、ソーシャルメディアポリシーを作る目的の1つです。",
+      "vi": "Khi việc sử dụng mạng xã hội của doanh nghiệp tăng lên, có thể giảm rắc rối bằng cách thống nhất phương pháp phát tín hiệu trong tổ chức. Vì ngay cả phát tín hiệu từ tài khoản cá nhân cũng có thể ảnh hưởng đến tổ chức, chính sách mạng xã hội quy định không phân biệt công tư.\n\nNgoài ra, thể hiện thái độ của tổ chức đối với mạng xã hội ra bên ngoài cũng là một mục đích của việc tạo chính sách mạng xã hội.",
+      "en": "As companies' social media use increases, unifying posting methods within organizations reduces trouble. Since even personal account posts can affect organizations, social media policies establish rules without distinguishing public/private.\n\nAlso, showing organization's attitude toward social media externally is another purpose of creating social media policies.",
+      "my": "ကုမ္ပဏီများ၏ ဆိုရှယ်မီဒီယာ အသုံးပြုမှု တိုးလာသည်နှင့်အမျှ အဖွဲ့အစည်းအတွင်း ပို့စ်တင်နည်းများ ညီညွတ်ခြင်းဖြင့် ပြဿနာများ လျှော့ချနိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "増",
+          "reading": "ぞう"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "発信方法",
+          "reading": "はっしんほうほう"
+        },
+        {
+          "kanji": "組織内",
+          "reading": "そしきない"
+        },
+        {
+          "kanji": "統一",
+          "reading": "とういつ"
+        },
+        {
+          "kanji": "減",
+          "reading": "げん"
+        },
+        {
+          "kanji": "私用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "発信",
+          "reading": "はっしん"
+        },
+        {
+          "kanji": "所属",
+          "reading": "しょぞく"
+        },
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        },
+        {
+          "kanji": "影響",
+          "reading": "えいきょう"
+        },
+        {
+          "kanji": "与",
+          "reading": "よ"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "公私",
+          "reading": "こうし"
+        },
+        {
+          "kanji": "区別",
+          "reading": "くべつ"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "姿勢",
+          "reading": "しせい"
+        },
+        {
+          "kanji": "外部",
+          "reading": "がいぶ"
+        },
+        {
+          "kanji": "示",
+          "reading": "じ"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・コンプライアンスとは、次の3つを守ることである\n　・法令：法律や条例など\n　・社内ルール：業務マニュアルなど\n　・企業倫理：業務上守らなければいけない道徳や規範など\nまた、具体的な活動には次の3つがある。\n　・業務マニュアルを作る\n　・内部通報の仕組みを作る\n　・社員を教育する\n・ソーシャルメディアポリシーとは、組織がソーシャルメディアを使用する際のルール",
+        "vi": "・Compliance là tuân thủ 3 điều:\n　・Pháp luật: luật, điều lệ\n　・Quy tắc nội bộ: hướng dẫn nghiệp vụ\n　・Đạo đức doanh nghiệp: đạo đức và chuẩn mực trong công việc\nNgoài ra, có 3 hoạt động cụ thể:\n　・Tạo hướng dẫn nghiệp vụ\n　・Tạo cơ chế báo cáo nội bộ\n　・Đào tạo nhân viên\n・Chính sách mạng xã hội là quy tắc khi tổ chức sử dụng mạng xã hội",
+        "en": "・Compliance means following 3 things:\n　・Laws: legislation, ordinances\n　・Internal rules: operation manuals\n　・Corporate ethics: work-related morals and norms\nConcrete activities include:\n　・Create operation manuals\n　・Create internal reporting mechanisms\n　・Train employees\n・Social Media Policy: rules when organizations use social media",
+        "my": "・ Compliance ဆိုသည်မှာ ၃ ခု လိုက်နာခြင်းဖြစ်သည်:\n　・ ဥပဒေများ\n　・ အတွင်းစည်းကမ်းများ\n　・ ကော်ပိုရိတ်ကျင့်ဝတ်",
+        "terms": [
+          {
+            "kanji": "次",
+            "reading": "つぎ"
+          },
+          {
+            "kanji": "守",
+            "reading": "しゅ"
+          },
+          {
+            "kanji": "法令",
+            "reading": "ほうれい"
+          },
+          {
+            "kanji": "法律",
+            "reading": "ほうりつ"
+          },
+          {
+            "kanji": "条例",
+            "reading": "じょうれい"
+          },
+          {
+            "kanji": "社内",
+            "reading": "しゃない"
+          },
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "企業倫理",
+            "reading": "きぎょうりんり"
+          },
+          {
+            "kanji": "業務上守",
+            "reading": "ぎょうむじょうしゅ"
+          },
+          {
+            "kanji": "道徳",
+            "reading": "どうとく"
+          },
+          {
+            "kanji": "規範",
+            "reading": "きはん"
+          },
+          {
+            "kanji": "具体的",
+            "reading": "ぐたいてき"
+          },
+          {
+            "kanji": "活動",
+            "reading": "かつどう"
+          },
+          {
+            "kanji": "作",
+            "reading": "さく"
+          },
+          {
+            "kanji": "内部通報",
+            "reading": "ないぶつうほう"
+          },
+          {
+            "kanji": "仕組",
+            "reading": "しくみ"
+          },
+          {
+            "kanji": "社員",
+            "reading": "しゃいん"
+          },
+          {
+            "kanji": "教育",
+            "reading": "きょういく"
+          },
+          {
+            "kanji": "組織",
+            "reading": "そしき"
+          },
+          {
+            "kanji": "使用",
+            "reading": "しよう"
+          },
+          {
+            "kanji": "際",
+            "reading": "きわ"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ソーシャルメディアポリシー",
+      "reading": "そーしゃるめでぃあぽりしー",
+      "romaji": "Social Media Policy",
+      "vi": "Chính sách mạng xã hội",
+      "en": "Social Media Policy",
+      "my": "ဆိုရှယ်မီဒီယာမူဝါဒ"
+    },
+    {
+      "kanji": "内部通報",
+      "reading": "ないぶつうほう",
+      "romaji": "Naibu Tsuuhou",
+      "vi": "Báo cáo nội bộ",
+      "en": "Internal Reporting",
+      "my": "အတွင်းအစီရင်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

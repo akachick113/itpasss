@@ -1,0 +1,53 @@
+{
+    "page_id": 213,
+    "image": "p_0213.png",
+    "chapter": 5,
+    "section": "answers",
+    "page_number": 197,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "5-7",
+            "answer": "エ",
+            "explanation": {
+                "ja": "「自社のバックアップサーバを設置したい」とあるので、オンプレミスか、ハウジングが正解の候補となります。設問では「外部事業者のサービス」と書かれているので、すべて自前で用意するオンプレミスではなく、ハウジングが正解であると判断できます。\n\nア. ASPでは、サーバ、設置場所ともに外部事業者が所有するものを使用します。\nイ. BPOとは、業務プロセスを外部委託することです。サーバや設置場所の所有者は関係ありません。\nウ. SaaSとは、サーバも設置場所も外部事業者の所有するものを使って、ソフトウェアをサービスとして利用する形態です。",
+                "vi": "Vì có 'muốn đặt backup server của công ty' nên On-Premise hoặc Housing là ứng cử viên đáp án đúng. Đề bài ghi 'dịch vụ của nhà cung cấp bên ngoài' nên không phải On-Premise (tự chuẩn bị tất cả) mà Housing là đáp án đúng.\n\nA. ASP sử dụng server và địa điểm đặt đều thuộc sở hữu của nhà cung cấp bên ngoài.\nB. BPO là ủy thác quy trình nghiệp vụ ra bên ngoài. Không liên quan đến chủ sở hữu server hay địa điểm đặt.\nC. SaaS là hình thức sử dụng phần mềm như dịch vụ sử dụng server và địa điểm đặt thuộc sở hữu nhà cung cấp bên ngoài.",
+                "en": "'Want to install company's backup server' makes On-Premise or Housing correct answer candidates. Since the question says 'external provider service', not On-Premise (all self-prepared), Housing is correct.\n\nA. ASP uses server and location owned by external provider.\nB. BPO is outsourcing business processes. Server/location owner is irrelevant.\nC. SaaS is using software as service with server and location owned by external provider."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-8",
+            "answer": "エ",
+            "explanation": {
+                "ja": "RPA（Robotic Process Automation）とは、ソフトウェアロボットで事務作業を自動化することです。RPAの特徴は「工場のロボットではない」「定型的作業しかできない」の2つです。正解選択肢エでは「定型的な事務作業」を「ソフトウェアのロボット」に代替させています。\n\nア. BPO（Business Process Outsourcing）に関する記述です。\nイ. FA（Factory Automation）に関する記述です。\nウ. EUC（End User Computing）に関する記述です。",
+                "vi": "RPA (Robotic Process Automation) là tự động hóa công việc văn phòng bằng robot phần mềm. 2 đặc điểm của RPA là không phải robot nhà máy và chỉ làm được công việc định hình. Đáp án đúng E thay thế công việc văn phòng định hình bằng robot phần mềm.\n\nA. Mô tả về BPO (Business Process Outsourcing).\nB. Mô tả về FA (Factory Automation).\nC. Mô tả về EUC (End User Computing).",
+                "en": "RPA (Robotic Process Automation) is automating office work with software robots. RPA's 2 characteristics are: not factory robot, can only do routine work. Correct choice D replaces 'routine office work' with 'software robot'.\n\nA. Description of BPO (Business Process Outsourcing).\nB. Description of FA (Factory Automation).\nC. Description of EUC (End User Computing)."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-9",
+            "answer": "ア",
+            "explanation": {
+                "ja": "テレワークとは、パソコンやインターネットなどのITを使うことで、職場以外のところで働いたり、勤務時間を柔軟に決めたりすることができる仕組みです。よって「場所や時間にとらわれない柔軟な働き方」であるアが正解です。\n\nイ. ワークシェアリングに関する記述です。\nウ. BYODに関する記述です。\nエ. ワークライフバランスに関する記述です。",
+                "vi": "Telework là cơ chế sử dụng IT như PC hoặc internet để làm việc nơi khác ngoài văn phòng hoặc quyết định linh hoạt thời gian làm việc. Vì vậy A cách làm việc linh hoạt không bị ràng buộc bởi địa điểm hoặc thời gian là đáp án đúng.\n\nB. Mô tả về Work Sharing.\nC. Mô tả về BYOD.\nD. Mô tả về Work-Life Balance.",
+                "en": "Telework is a mechanism using IT like PCs and internet to work outside the office or flexibly decide work hours. So A 'flexible working not bound by location or time' is correct.\n\nB. Description of Work Sharing.\nC. Description of BYOD.\nD. Description of Work-Life Balance."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-10",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "「遊休資産の貸出しを仲介するサービスや仕組み」という文章からシェアリングエコノミーであると判断できます。\n\nア. シェアードサービスとは、グループ企業において、人事や経理などの間接部門の業務を一箇所に集約することで、効率化やコスト削減などを図る仕組みです。\nイ. シェアウェアとは、試用期間中は無料で、試用期間の後は有料になるソフトウェアです。\nエ. ワークシェアリングとは、1人あたりの仕事を減らして、より多くの人で仕事を分け合うことです。",
+                "vi": "Từ câu 'dịch vụ hoặc cơ chế môi giới cho thuê tài sản nhàn rỗi' có thể xác định là Sharing Economy.\n\nA. Shared Service là cơ chế tập trung nghiệp vụ bộ phận gián tiếp như nhân sự, kế toán trong tập đoàn vào một nơi để hiệu quả hóa và giảm chi phí.\nB. Shareware là phần mềm miễn phí trong thời gian dùng thử và có phí sau đó.\nD. Work Sharing là giảm công việc mỗi người và chia sẻ công việc cho nhiều người hơn.",
+                "en": "From 'service or mechanism mediating idle asset lending', we can determine it's Sharing Economy.\n\nA. Shared Service is a mechanism for concentrating indirect department work like HR and accounting within a group into one place for efficiency and cost reduction.\nB. Shareware is software free during trial and paid after.\nD. Work Sharing is reducing per-person work and sharing work among more people."
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 4
+    }
+}

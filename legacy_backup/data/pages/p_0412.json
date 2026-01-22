@@ -1,0 +1,317 @@
+{
+  "page_id": 412,
+  "image": "p_0412.png",
+  "chapter": 11,
+  "section": "11-02",
+  "page_number": 396,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "11-02",
+      "title": {
+        "ja": "コンピュータの5つの役割",
+        "vi": "5 vai trò của máy tính",
+        "en": "Five Roles of Computers"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "目から入力して、口で出力する",
+        "vi": "Nhập bằng mắt, xuất bằng miệng",
+        "en": "Input with Eyes, Output with Mouth"
+      },
+      "content": {
+        "ja": "視力検査では、円が欠けている方向を目で読み取り、頭で考えて、口で答えます。コンピュータの処理の流れも、基本的にはこれと同じです。",
+        "vi": "Trong kiểm tra thị lực, đọc hướng vòng tròn bị khuyết bằng mắt, suy nghĩ bằng đầu, và trả lời bằng miệng. Luồng xử lý của máy tính về cơ bản cũng giống như vậy.",
+        "en": "In vision test, read direction of broken circle with eyes, think with head, and answer with mouth. Computer processing flow is basically the same."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "コンピュータが情報を処理する順序と、人間が情報を処理する順序は、意外なほどよく似ています。人間は多くの情報を五感（目、耳、鼻、口、皮膚）から読み取り、脳で考えて、口などで処理結果を伝えます。この一連の流れは、入力→演算→出力と考えることができます。",
+      "vi": "Thứ tự máy tính xử lý thông tin và thứ tự con người xử lý thông tin giống nhau một cách đáng ngạc nhiên. Con người đọc nhiều thông tin từ năm giác quan (mắt, tai, mũi, miệng, da), suy nghĩ bằng não, và truyền đạt kết quả xử lý bằng miệng, v.v. Chuỗi luồng này có thể được nghĩ là nhập → tính toán → xuất.",
+      "en": "Order computers process information and order humans process information are surprisingly similar. Humans read much information from five senses (eyes, ears, nose, mouth, skin), think with brain, and convey processing results with mouth, etc. This sequence can be thought of as input → computation → output.",
+      "terms": [
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "順序",
+          "reading": "じゅんじょ"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "意外",
+          "reading": "いがい"
+        },
+        {
+          "kanji": "似",
+          "reading": "じ"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "五感",
+          "reading": "ごかん"
+        },
+        {
+          "kanji": "目",
+          "reading": "め"
+        },
+        {
+          "kanji": "耳",
+          "reading": "みみ"
+        },
+        {
+          "kanji": "鼻",
+          "reading": "はな"
+        },
+        {
+          "kanji": "口",
+          "reading": "くち"
+        },
+        {
+          "kanji": "皮膚",
+          "reading": "ひふ"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "脳",
+          "reading": "のう"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "処理結果",
+          "reading": "しょりけっか"
+        },
+        {
+          "kanji": "伝",
+          "reading": "でん"
+        },
+        {
+          "kanji": "一連",
+          "reading": "いちれん"
+        },
+        {
+          "kanji": "流",
+          "reading": "りゅう"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "演算",
+          "reading": "えんざん"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "コンピュータが情報を処理する順序も基本的には同じです。キーボードから入力された命令を処理し、ディスプレイやプリンターを使って処理結果を表示します。",
+      "vi": "Thứ tự máy tính xử lý thông tin về cơ bản cũng giống như vậy. Xử lý lệnh được nhập từ bàn phím và hiển thị kết quả xử lý bằng màn hình hoặc máy in.",
+      "en": "Order computers process information is basically the same. Processing commands input from keyboard and displaying processing results using display or printer.",
+      "terms": [
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "順序",
+          "reading": "じゅんじょ"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "命令",
+          "reading": "めいれい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "処理結果",
+          "reading": "しょりけっか"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "コンピュータの部品や機器には役割がある",
+      "vi": "Các bộ phận và thiết bị máy tính có vai trò",
+      "en": "Computer Parts and Devices Have Roles"
+    },
+    {
+      "type": "paragraph",
+      "ja": "コンピュータはさまざまな部品で構成され、また、いろいろな周辺機器が接続されますが、それらには必ず何らかの役割が割り当てられています。それらは大きく「演算」「制御」「記憶」「入力」「出力」の5つに分類できます。",
+      "vi": "Máy tính được cấu thành từ nhiều bộ phận khác nhau, và nhiều thiết bị ngoại vi được kết nối, nhưng chúng luôn được gán một vai trò nào đó. Chúng có thể được phân loại thành 5 nhóm lớn: \"tính toán\", \"điều khiển\", \"ghi nhớ\", \"nhập\" và \"xuất\".",
+      "en": "Computers consist of various parts, and various peripherals connect to them, but roles are always assigned to them. They can be broadly classified into 5 categories: 'arithmetic,' 'control,' 'memory,' 'input,' and 'output.'",
+      "terms": [
+        {
+          "kanji": "部品",
+          "reading": "ぶひん"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "周辺機器",
+          "reading": "しゅうへんきき"
+        },
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "割",
+          "reading": "わり"
+        },
+        {
+          "kanji": "当",
+          "reading": "とう"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "演算",
+          "reading": "えんざん"
+        },
+        {
+          "kanji": "制御",
+          "reading": "せいぎょ"
+        },
+        {
+          "kanji": "記憶",
+          "reading": "きおく"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "5つの役割",
+        "vi": "5 vai trò",
+        "en": "Five Roles",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "上記で解説した5つの役割そのものが、ITパスポート試験で直接問われることはほとんどありません。そのため、この5つの用語を暗記する必要はありません。ただし、問題文や解答選択肢の中にたびたび登場する用語なので、用語の意味は理解しておく必要があります。「演算」と「制御」は主に記憶して、しっかり理解して記憶しておくことが大切です。",
+        "vi": "5 vai trò giải thích ở trên hiếm khi được hỏi trực tiếp trong kỳ thi IT Passport. Vì vậy, không cần nhớ thuộc lòng 5 thuật ngữ này. Tuy nhiên, vì là thuật ngữ thường xuất hiện trong đề bài và các lựa chọn đáp án, cần hiểu ý nghĩa của thuật ngữ. Quan trọng là ghi nhớ và hiểu kỹ \"tính toán\" và \"điều khiển\".",
+        "en": "The 5 roles explained above are rarely directly tested on IT Passport exam. Therefore, no need to memorize these 5 terms. However, since they frequently appear in questions and answer choices, need to understand meaning of terms. Important to memorize and thoroughly understand 'arithmetic' and 'control.'"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "演算",
+      "reading": "えんざん",
+      "vi": "Tính toán",
+      "en": "Arithmetic",
+      "my": "တွက်ချက်"
+    },
+    {
+      "kanji": "制御",
+      "reading": "せいぎょ",
+      "vi": "Điều khiển",
+      "en": "Control",
+      "my": "ထိန်းချုပ်"
+    },
+    {
+      "kanji": "記憶",
+      "reading": "きおく",
+      "vi": "Ghi nhớ",
+      "en": "Memory",
+      "my": "မှတ်ဏာဢာ"
+    },
+    {
+      "kanji": "入力",
+      "reading": "にゅうりょく",
+      "vi": "Nhập",
+      "en": "Input",
+      "my": "အဝင်း"
+    },
+    {
+      "kanji": "出力",
+      "reading": "しゅつりょく",
+      "vi": "Xuất",
+      "en": "Output",
+      "my": "အထွက်"
+    }
+  ],
+  "meta": {
+    "has_note_box": true,
+    "is_key_content": true
+  }
+}

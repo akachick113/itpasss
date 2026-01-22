@@ -1,0 +1,278 @@
+{
+    "page_id": 385,
+    "image": "p_0385.png",
+    "chapter": 9,
+    "section": "answers",
+    "page_number": 369,
+    "content": [
+        {
+            "type": "trace_table",
+            "title": {
+                "ja": "トレース表",
+                "vi": "Bảng Trace",
+                "en": "Trace Table"
+            },
+            "question": "9-7",
+            "headers": {
+                "ja": [
+                    "行番号",
+                    "変数iの値",
+                    "配列の要素 arrayInput[i]の値",
+                    "変数stringOutputの値",
+                    "備考"
+                ],
+                "vi": [
+                    "Số dòng",
+                    "Giá trị biến i",
+                    "Giá trị phần tử mảng arrayInput[i]",
+                    "Giá trị biến stringOutput",
+                    "Ghi chú"
+                ],
+                "en": [
+                    "Line No.",
+                    "Variable i Value",
+                    "Array Element arrayInput[i] Value",
+                    "Variable stringOutput Value",
+                    "Notes"
+                ]
+            },
+            "rows": [
+                {
+                    "line": "2",
+                    "i": "",
+                    "arrayInput": "",
+                    "stringOutput": "\"\"",
+                    "notes": ""
+                },
+                {
+                    "line": "3",
+                    "i": "1",
+                    "arrayInput": "",
+                    "stringOutput": "",
+                    "notes": ""
+                },
+                {
+                    "line": "4",
+                    "i": "1",
+                    "arrayInput": "",
+                    "stringOutput": "",
+                    "notes": ""
+                },
+                {
+                    "line": "5",
+                    "i": "1",
+                    "arrayInput": "1",
+                    "stringOutput": "",
+                    "notes": ""
+                },
+                {
+                    "line": "6",
+                    "i": "1",
+                    "arrayInput": "1",
+                    "stringOutput": "\"A\"",
+                    "notes": {
+                        "ja": "9行目→4行目に戻る",
+                        "vi": "Quay lại dòng 9→4",
+                        "en": "Return to line 9→4"
+                    }
+                },
+                {
+                    "line": "4",
+                    "i": "2",
+                    "arrayInput": "",
+                    "stringOutput": "",
+                    "notes": ""
+                },
+                {
+                    "line": "5",
+                    "i": "2",
+                    "arrayInput": "1",
+                    "stringOutput": "",
+                    "notes": ""
+                },
+                {
+                    "line": "6",
+                    "i": "2",
+                    "arrayInput": "1",
+                    "stringOutput": "\"AA\"",
+                    "notes": {
+                        "ja": "9行目→4行目に戻る",
+                        "vi": "Quay lại dòng 9→4",
+                        "en": "Return to line 9→4"
+                    }
+                },
+                {
+                    "line": "5",
+                    "i": "3",
+                    "arrayInput": "2",
+                    "stringOutput": "",
+                    "notes": {
+                        "ja": "7行目→8行目に進む",
+                        "vi": "Tiến sang dòng 7→8",
+                        "en": "Proceed to line 7→8"
+                    }
+                },
+                {
+                    "line": "8",
+                    "i": "3",
+                    "arrayInput": "2",
+                    "stringOutput": "\"AAB\"",
+                    "notes": {
+                        "ja": "9行目→4行目に戻る",
+                        "vi": "Quay lại dòng 9→4",
+                        "en": "Return to line 9→4"
+                    }
+                },
+                {
+                    "line": "5",
+                    "i": "4",
+                    "arrayInput": "1",
+                    "stringOutput": "",
+                    "notes": ""
+                },
+                {
+                    "line": "6",
+                    "i": "4",
+                    "arrayInput": "1",
+                    "stringOutput": "\"AABA\"",
+                    "notes": {
+                        "ja": "9行目→4行目に戻る",
+                        "vi": "Quay lại dòng 9→4",
+                        "en": "Return to line 9→4"
+                    }
+                },
+                {
+                    "line": "5",
+                    "i": "5",
+                    "arrayInput": "0",
+                    "stringOutput": "",
+                    "notes": {
+                        "ja": "7行目→8行目に進む",
+                        "vi": "Tiến sang dòng 7→8",
+                        "en": "Proceed to line 7→8"
+                    }
+                },
+                {
+                    "line": "8",
+                    "i": "5",
+                    "arrayInput": "0",
+                    "stringOutput": "\"AABAB\"",
+                    "notes": {
+                        "ja": "9行目→10行目",
+                        "vi": "Dòng 9→10",
+                        "en": "Line 9→10"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "9-8",
+            "correct_answer": "エ",
+            "explanation": {
+                "ja": "プログラムの各行の命令は下表のような内容になります。",
+                "vi": "Lệnh của mỗi dòng trong chương trình có nội dung như bảng dưới.",
+                "en": "Each line's command in program has content as in table below."
+            },
+            "program_analysis": {
+                "title": {
+                    "ja": "【問題9-8】のプログラムの内容説明",
+                    "vi": "Giải thích nội dung chương trình【Bài 9-8】",
+                    "en": "[Question 9-8] Program Content Explanation"
+                },
+                "headers": [
+                    "行番号",
+                    "プログラムの内容",
+                    "説明"
+                ],
+                "rows": [
+                    {
+                        "line": "1",
+                        "content": "○整数型: binaryToInteger(文字列型: binaryStr)",
+                        "description": {
+                            "ja": "文字列型の変数binaryStrを持つ関数binaryToIntegerを宣言する。",
+                            "vi": "Khai báo hàm binaryToInteger có biến binaryStr kiểu chuỗi.",
+                            "en": "Declare function binaryToInteger with string type variable binaryStr."
+                        }
+                    },
+                    {
+                        "line": "2",
+                        "content": "整数型: integerNum, digitNum, exponent, i",
+                        "description": {
+                            "ja": "変数4つを宣言integerNum, digitNum, exponent, iを宣言する。",
+                            "vi": "Khai báo 4 biến integerNum, digitNum, exponent, i.",
+                            "en": "Declare 4 variables integerNum, digitNum, exponent, i."
+                        }
+                    },
+                    {
+                        "line": "3",
+                        "content": "integerNum ← 0",
+                        "description": {
+                            "ja": "変数integerNumに「0」を代入する。",
+                            "vi": "Gán \"0\" vào biến integerNum.",
+                            "en": "Assign '0' to variable integerNum."
+                        }
+                    },
+                    {
+                        "line": "4",
+                        "content": "for (iを1からbinaryStrの文字数まで1ずつ増やす)",
+                        "description": {
+                            "ja": "変数iに「1」を代入したうえで、変数iを1ずつ増やして、「引数binaryStrの文字数」になるまで、5～7行目の処理を繰り返し実行する。",
+                            "vi": "Gán \"1\" vào biến i, tăng i lên 1 và thực hiện lặp xử lý dòng 5-7 đến khi đạt \"số ký tự của đối số binaryStr\".",
+                            "en": "Assign '1' to variable i, increment i by 1, and repeatedly execute lines 5-7 until reaching 'binaryStr character count.'"
+                        }
+                    },
+                    {
+                        "line": "5",
+                        "content": "digitNum ← binaryStrの末尾からi番目の文字を整数型に変換した値",
+                        "description": {
+                            "ja": "変数digitNumに、引数binaryStrの末尾からi番目の文字を整数として代入する。",
+                            "vi": "Gán ký tự thứ i từ cuối của đối số binaryStr dưới dạng số nguyên vào biến digitNum.",
+                            "en": "Assign i-th character from end of argument binaryStr as integer to variable digitNum."
+                        }
+                    },
+                    {
+                        "line": "6",
+                        "content": "exponent ← [ a ]",
+                        "description": {
+                            "ja": "変数exponentに、[ a ]を代入する。",
+                            "vi": "Gán [ a ] vào biến exponent.",
+                            "en": "Assign [ a ] to variable exponent."
+                        }
+                    },
+                    {
+                        "line": "7",
+                        "content": "integerNum ← [ b ]",
+                        "description": {
+                            "ja": "変数integerNumに、[ b ]を代入する。",
+                            "vi": "Gán [ b ] vào biến integerNum.",
+                            "en": "Assign [ b ] to variable integerNum."
+                        }
+                    },
+                    {
+                        "line": "8",
+                        "content": "endfor",
+                        "description": {
+                            "ja": "4行目からの繰返し処理を終了する。",
+                            "vi": "Kết thúc xử lý lặp từ dòng 4.",
+                            "en": "End loop processing from line 4."
+                        }
+                    },
+                    {
+                        "line": "9",
+                        "content": "return integerNum",
+                        "description": {
+                            "ja": "変数integerNumを返す。",
+                            "vi": "Trả về biến integerNum.",
+                            "en": "Return variable integerNum."
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "has_trace_table": true
+    }
+}

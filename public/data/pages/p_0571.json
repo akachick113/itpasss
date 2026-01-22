@@ -1,0 +1,259 @@
+{
+  "page_id": 571,
+  "image": "p_0571.png",
+  "chapter": 15,
+  "section": "15-06",
+  "page_number": 555,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "データの完全消去",
+      "vi": "Xóa dữ liệu hoàn toàn",
+      "en": "Complete Data Erasure"
+    },
+    {
+      "type": "paragraph",
+      "ja": "パソコンの記憶装置（ハードディスクやSSDなど）に保存されているデータは、画面上の操作でファイルの削除をしても、割と簡単に復元できます。そのため、記憶装置を廃棄する際には、次のような方法で適切に処理することが必要です。",
+      "vi": "Dữ liệu được lưu trong thiết bị lưu trữ của máy tính (HDD hoặc SSD) có thể khôi phục khá dễ dàng ngay cả khi xóa file bằng thao tác trên màn hình. Vì vậy, khi bỏ thiết bị lưu trữ, cần xử lý phù hợp bằng các phương pháp sau.",
+      "en": "Data stored in computer storage devices (HDD or SSD) can be fairly easily recovered even when deleting files through screen operations. Therefore, when discarding storage devices, need to properly handle using following methods.",
+      "terms": [
+        {
+          "kanji": "記憶装置",
+          "reading": "きおくそうち"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "画面上",
+          "reading": "がめんじょう"
+        },
+        {
+          "kanji": "操作",
+          "reading": "そうさ"
+        },
+        {
+          "kanji": "削除",
+          "reading": "さくじょ"
+        },
+        {
+          "kanji": "割",
+          "reading": "わり"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "復元",
+          "reading": "ふくげん"
+        },
+        {
+          "kanji": "廃棄",
+          "reading": "はいき"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "適切",
+          "reading": "てきせつ"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "専用ソフトウェアを用いて、ハードディスク全体をランダムなデータで複数回の上書きをする",
+          "vi": "Sử dụng phần mềm chuyên dụng để ghi đè nhiều lần lên toàn bộ HDD bằng dữ liệu ngẫu nhiên",
+          "en": "Use specialized software to overwrite entire hard disk multiple times with random data"
+        },
+        {
+          "ja": "ハードディスクを物理的に破壊する",
+          "vi": "Phá hủy HDD về mặt vật lý",
+          "en": "Physically destroy hard disk"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このような処置をすることで、データを復元できない状態（完全消去）にすることが、セキュリティ上とても重要です。適切に処理せずに廃棄すると、廃棄したはずのパソコンから重要な機密情報が漏洩する危険性が高まります。",
+      "vi": "Việc thực hiện các biện pháp như vậy để đưa dữ liệu về trạng thái không thể khôi phục (xóa hoàn toàn) rất quan trọng về mặt bảo mật. Nếu bỏ mà không xử lý phù hợp, nguy cơ rò rỉ thông tin bí mật quan trọng từ máy tính đáng lẽ đã bỏ sẽ tăng cao.",
+      "en": "Making data unrecoverable (complete erasure) through such measures is very important for security. If discarded without proper handling, risk of important confidential information leaking from computer that should have been discarded increases.",
+      "terms": [
+        {
+          "kanji": "処置",
+          "reading": "しょち"
+        },
+        {
+          "kanji": "復元",
+          "reading": "ふくげん"
+        },
+        {
+          "kanji": "状態",
+          "reading": "じょうたい"
+        },
+        {
+          "kanji": "完全消去",
+          "reading": "かんぜんしょうきょ"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "適切",
+          "reading": "てきせつ"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "廃棄",
+          "reading": "はいき"
+        },
+        {
+          "kanji": "機密情報",
+          "reading": "きみつじょうほう"
+        },
+        {
+          "kanji": "漏洩",
+          "reading": "ろうえい"
+        },
+        {
+          "kanji": "危険性",
+          "reading": "きけんせい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！Secure Erase",
+        "vi": "Chi tiết hơn! Secure Erase",
+        "en": "More Details! Secure Erase"
+      },
+      "content": {
+        "ja": "Secure Eraseとは、SSDのデータを完全消去する機能です。SSDはハードディスクと異なり、ランダムなデータで上書きしても、書き込み位置が移動するためのデータが残っている場合があります。そこで、Secure Eraseと呼ばれる機能を使って、SSD内のデータを完全消去します。",
+        "vi": "Secure Erase là chức năng xóa hoàn toàn dữ liệu SSD. SSD khác với HDD, ngay cả khi ghi đè bằng dữ liệu ngẫu nhiên, có thể còn dữ liệu do vị trí ghi di chuyển. Vì vậy, sử dụng chức năng gọi là Secure Erase để xóa hoàn toàn dữ liệu trong SSD.",
+        "en": "Secure Erase is function to completely erase SSD data. Unlike hard disk, SSD may have remaining data due to write position movement even when overwritten with random data. Therefore, use function called Secure Erase to completely erase data in SSD."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "アクセス権",
+      "vi": "Quyền truy cập",
+      "en": "Access Rights"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "アクセス権",
+        "vi": "Quyền truy cập",
+        "en": "Access Rights"
+      },
+      "definition": {
+        "ja": "アクセス権とは、ファイルの読み書きに関する権限です。アクセス権には一般的に「読み取り（Readable）」「書き込み（Writable）」「実行（Executable）」の3種類があります。なお、アクセス権は通常、ユーザーごと、かつファイルごとに設定します。",
+        "vi": "Quyền truy cập là quyền liên quan đến đọc ghi file. Quyền truy cập thường có 3 loại: \"Đọc (Readable)\", \"Ghi (Writable)\", \"Thực thi (Executable)\". Ngoài ra, quyền truy cập thường được đặt theo từng người dùng và từng file.",
+        "en": "Access Rights are permissions related to file reading and writing. Access Rights generally have 3 types: 'Read (Readable),' 'Write (Writable),' 'Execute (Executable).' Also, access rights are usually set per user and per file."
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ショルダーハックの防止策は「のぞき見防止フィルムを貼る」こと",
+          "vi": "Biện pháp phòng ngừa Shoulder Hack là \"dán film chống nhìn trộm\"",
+          "en": "Countermeasure for Shoulder Hack is 'applying privacy filter'"
+        },
+        {
+          "ja": "データを完全消去するには、ランダムなデータで複数回の上書きをする",
+          "vi": "Để xóa hoàn toàn dữ liệu, ghi đè nhiều lần bằng dữ liệu ngẫu nhiên",
+          "en": "To completely erase data, overwrite multiple times with random data"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "完全消去",
+      "vi": "Xóa hoàn toàn",
+      "en": "Complete Erasure",
+      "my": "အပြည့်အဝဖျက်သိမ်းခြင်း"
+    },
+    {
+      "term": "Secure Erase",
+      "vi": "Secure Erase (Xóa an toàn)",
+      "en": "Secure Erase",
+      "my": "လုံခြုံစွာ ဖျက်သိမ်းခြင်း"
+    },
+    {
+      "term": "アクセス権",
+      "vi": "Quyền truy cập",
+      "en": "Access Rights",
+      "my": "ဝင်ရောက်ခွင့်"
+    },
+    {
+      "term": "読み取り",
+      "vi": "Đọc",
+      "en": "Read",
+      "my": "ဖတ်"
+    },
+    {
+      "term": "書き込み",
+      "vi": "Ghi",
+      "en": "Write",
+      "my": "ရေး"
+    },
+    {
+      "term": "実行",
+      "vi": "Thực thi",
+      "en": "Execute",
+      "my": "လုပ်ဆောင်"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true
+  }
+}

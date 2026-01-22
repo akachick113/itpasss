@@ -1,0 +1,526 @@
+{
+  "page_id": 87,
+  "image": "p_0087.png",
+  "chapter": 2,
+  "section": "02-04",
+  "page_number": 71,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "前述のように、現在の日本ではさまざまな労働契約のもとで事業が行われています。そして契約形態によって著作権の帰属先が変わるので注意が必要です。以下に、各労働契約において、完成責任や契約不適合責任、著作権がどこに生じるのかをまとめたので、確認してください。",
+      "vi": "Như đã nói ở trên, hiện nay ở Nhật Bản, kinh doanh được thực hiện dưới nhiều hợp đồng lao động khác nhau. Và vì nơi quyền tác giả thuộc về thay đổi theo hình thức hợp đồng nên cần chú ý. Dưới đây tổng hợp nơi phát sinh trách nhiệm hoàn thành, trách nhiệm không phù hợp hợp đồng, và quyền tác giả trong mỗi loại hợp đồng lao động.",
+      "en": "As mentioned above, business is conducted under various labor contracts in Japan today. And since copyright ownership changes by contract type, attention is needed. Below summarizes where completion responsibility, contract non-conformity liability, and copyright arise in each labor contract.",
+      "my": "အထက်တွင်ဖော်ပြခဲ့သည့်အတိုင်း ယနေ့ ဂျပန်တွင် အမျိုးမျိုးသော အလုပ်သမားစာချုပ်များအောက်တွင် လုပ်ငန်းများ ဆောင်ရွက်နေသည်။",
+      "terms": [
+        {
+          "kanji": "前述",
+          "reading": "ぜんじゅつ"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "kanji": "労働契約",
+          "reading": "ろうどうけいやく"
+        },
+        {
+          "kanji": "事業",
+          "reading": "じぎょう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "契約形態",
+          "reading": "けいやくけいたい"
+        },
+        {
+          "kanji": "著作権",
+          "reading": "ちょさくけん"
+        },
+        {
+          "kanji": "帰属先",
+          "reading": "きぞくさき"
+        },
+        {
+          "kanji": "変",
+          "reading": "へん"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "各労働契約",
+          "reading": "かくろうどうけいやく"
+        },
+        {
+          "kanji": "完成責任",
+          "reading": "かんせいせきにん"
+        },
+        {
+          "kanji": "契約不適合責任",
+          "reading": "けいやくふてきごうせきにん"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "完成責任、契約不適合責任、著作権が生じる場所",
+        "vi": "Nơi phát sinh trách nhiệm hoàn thành, trách nhiệm không phù hợp, quyền tác giả",
+        "en": "Where Completion Responsibility, Non-conformity Liability, Copyright Arise"
+      },
+      "headers": {
+        "ja": [
+          "労働契約の種類",
+          "指示（指揮命令）",
+          "完成責任",
+          "契約不適合責任",
+          "著作権"
+        ],
+        "vi": [
+          "Loại hợp đồng",
+          "Chỉ dẫn (Chỉ huy)",
+          "Trách nhiệm hoàn thành",
+          "Trách nhiệm không phù hợp",
+          "Quyền tác giả"
+        ],
+        "en": [
+          "Contract Type",
+          "Instructions (Command)",
+          "Completion Resp.",
+          "Non-conformity Liability",
+          "Copyright"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "個人的な趣味",
+            "自分自身",
+            "なし",
+            "なし",
+            "自分自身（個人）"
+          ],
+          "vi": [
+            "Sở thích cá nhân",
+            "Chính mình",
+            "Không",
+            "Không",
+            "Chính mình (cá nhân)"
+          ],
+          "en": [
+            "Personal Hobby",
+            "Self",
+            "None",
+            "None",
+            "Self (Individual)"
+          ]
+        },
+        {
+          "ja": [
+            "雇用契約",
+            "雇用主",
+            "なし",
+            "なし",
+            "自分自身（個人）"
+          ],
+          "vi": [
+            "Hợp đồng lao động",
+            "Người sử dụng lao động",
+            "Không",
+            "Không",
+            "Chính mình (cá nhân)"
+          ],
+          "en": [
+            "Employment",
+            "Employer",
+            "None",
+            "None",
+            "Self (Individual)"
+          ]
+        },
+        {
+          "ja": [
+            "労働者派遣契約",
+            "派遣先",
+            "なし",
+            "なし",
+            "派遣元",
+            "派遣先"
+          ],
+          "vi": [
+            "Hợp đồng phái cử",
+            "Công ty tiếp nhận",
+            "Không",
+            "Không",
+            "Công ty phái cử / Công ty tiếp nhận"
+          ],
+          "en": [
+            "Dispatch",
+            "Client Company",
+            "None",
+            "None",
+            "Dispatch / Client"
+          ]
+        },
+        {
+          "ja": [
+            "請負契約",
+            "請負会社",
+            "あり",
+            "あり",
+            "請負会社"
+          ],
+          "vi": [
+            "Hợp đồng thầu",
+            "Công ty thầu",
+            "Có",
+            "Có",
+            "Công ty thầu"
+          ],
+          "en": [
+            "Subcontract",
+            "Contractor",
+            "Yes",
+            "Yes",
+            "Contractor"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のように、個人的な趣味で、プライベートな時間にみなさんがプログラムを作成した場合、そのプログラムの著作権はみなさん自身に帰属しますが、業務でプログラムを作成した場合は、労働契約の種類によって、そのプログラムの著作権の帰属先が異なります。どこに著作権が帰属するのかを覚えておくようにしてください。",
+      "vi": "Như trên, nếu bạn tạo chương trình trong thời gian riêng tư như sở thích cá nhân, quyền tác giả của chương trình đó thuộc về bạn. Nhưng nếu tạo chương trình trong công việc, nơi quyền tác giả thuộc về khác nhau tùy theo loại hợp đồng lao động. Hãy nhớ quyền tác giả thuộc về đâu.",
+      "en": "As above, if you create a program in private time as a personal hobby, copyright belongs to you. But if you create a program for work, copyright ownership differs by labor contract type. Remember where copyright belongs.",
+      "my": "အထက်တွင်ဖော်ပြသည့်အတိုင်း ကိုယ်ပိုင်အချိန်တွင် ပရိုဂရမ်တစ်ခု ဖန်တီးလျှင် မူပိုင်ခွင့်သည် သင့်ထံ ပိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "個人的",
+          "reading": "こじんてき"
+        },
+        {
+          "kanji": "趣味",
+          "reading": "しゅみ"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "著作権",
+          "reading": "ちょさくけん"
+        },
+        {
+          "kanji": "自身",
+          "reading": "じしん"
+        },
+        {
+          "kanji": "帰属",
+          "reading": "きぞく"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "労働契約",
+          "reading": "ろうどうけいやく"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "帰属先",
+          "reading": "きぞくさき"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "労働関連法規に関するその他の用語",
+      "reading": "ろうどうかんれんほうきにかんするそのたのようご",
+      "vi": "Thuật ngữ khác liên quan đến Luật lao động",
+      "en": "Other Labor Law Terms",
+      "my": "အခြား အလုပ်သမားဥပဒေ ဝေါဟာရများ"
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "労働関連法規の用語",
+        "vi": "Thuật ngữ Luật lao động",
+        "en": "Labor Law Terms"
+      },
+      "headers": {
+        "ja": [
+          "名称",
+          "説明"
+        ],
+        "vi": [
+          "Tên",
+          "Giải thích"
+        ],
+        "en": [
+          "Name",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "準委任契約",
+            "法律以外の業務を依頼する契約。請負契約との違いは「完成責任と契約不適合責任がない」という点。また、労働者派遣契約との違いは「発注者に指揮命令権がない」という点。"
+          ],
+          "vi": [
+            "Hợp đồng ủy nhiệm bán phần",
+            "Hợp đồng ủy thác công việc ngoài pháp luật. Khác với hợp đồng thầu ở điểm không có trách nhiệm hoàn thành và trách nhiệm không phù hợp. Khác với hợp đồng phái cử ở điểm bên đặt thầu không có quyền chỉ huy."
+          ],
+          "en": [
+            "Quasi-mandate Contract",
+            "Contract delegating non-legal work. Differs from subcontract in having no completion or non-conformity responsibility. Differs from dispatch in client having no command authority."
+          ]
+        },
+        {
+          "ja": [
+            "フレックスタイム制",
+            "始業時間と終業時間を労働者が決められる制度。ただし、一日の内のコアタイム（必ず就業していなければならない時間帯）の設定がある場合は、コアタイム中はオフィスにいる必要があります。"
+          ],
+          "vi": [
+            "Chế độ giờ linh hoạt",
+            "Chế độ cho phép người lao động quyết định giờ bắt đầu và kết thúc. Tuy nhiên, nếu có Core Time (khung giờ bắt buộc phải làm việc) thì cần có mặt tại văn phòng trong Core Time."
+          ],
+          "en": [
+            "Flextime System",
+            "System where workers decide start and end times. However, if Core Time (mandatory work hours) is set, must be in office during Core Time."
+          ]
+        },
+        {
+          "ja": [
+            "裁量労働制",
+            "業務の遂行方法や勤務時間などを労働者の裁量に委ね、実際の労働時間に関わらず予め定賃金を支払う制度。"
+          ],
+          "vi": [
+            "Chế độ lao động tự quyết",
+            "Chế độ ủy thác phương pháp thực hiện công việc và thời gian làm việc cho quyền tự quyết của người lao động, trả lương cố định định trước bất kể thời gian làm việc thực tế."
+          ],
+          "en": [
+            "Discretionary Work System",
+            "System delegating work methods and hours to workers' discretion, paying predetermined wages regardless of actual work hours."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・労働者派遣契約では、派遣先の企業が労働者に指示を出せる\n・請負契約では、発注者は請負会社の社員（労働者）に指示は出せない\n・労働契約ごとに、著作権の帰属先を問う問題が頻繁に出題される\n・フレックスタイム制とは、始業時間と終業時間を労働者が決められる制度\n・裁量労働制では、業務の遂行方法や勤務時間などを労働者の裁量に任せる制度",
+        "vi": "・Trong hợp đồng phái cử, công ty tiếp nhận có thể ra chỉ dẫn cho người lao động\n・Trong hợp đồng thầu, bên đặt thầu KHÔNG thể ra chỉ dẫn cho nhân viên công ty thầu (người lao động)\n・Câu hỏi về nơi quyền tác giả thuộc về theo từng loại hợp đồng thường được ra đề\n・Chế độ giờ linh hoạt là chế độ cho người lao động quyết định giờ bắt đầu và kết thúc\n・Chế độ lao động tự quyết là chế độ ủy thác phương pháp và thời gian làm việc cho người lao động",
+        "en": "・In dispatch contracts, client company can instruct workers\n・In subcontracts, clients CANNOT instruct contractor's employees (workers)\n・Questions about copyright ownership by contract type are frequently tested\n・Flextime: workers decide start/end times\n・Discretionary work: work methods and hours delegated to workers",
+        "my": "・ Dispatch contracts တွင် client ကုမ္ပဏီက အလုပ်သမားများကို ညွှန်ကြားနိုင်သည်\n・ Subcontracts တွင် clients က contractor ၏ ဝန်ထမ်းများကို ညွှန်ကြားမရ",
+        "terms": [
+          {
+            "kanji": "労働者派遣契約",
+            "reading": "ろうどうしゃはけんけいやく"
+          },
+          {
+            "kanji": "派遣先",
+            "reading": "はけんさき"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "労働者",
+            "reading": "ろうどうしゃ"
+          },
+          {
+            "kanji": "指示",
+            "reading": "しじ"
+          },
+          {
+            "kanji": "出",
+            "reading": "で"
+          },
+          {
+            "kanji": "請負契約",
+            "reading": "うけおいけいやく"
+          },
+          {
+            "kanji": "発注者",
+            "reading": "はっちゅうもの"
+          },
+          {
+            "kanji": "請負会社",
+            "reading": "うけおいかいしゃ"
+          },
+          {
+            "kanji": "社員",
+            "reading": "しゃいん"
+          },
+          {
+            "kanji": "労働契約",
+            "reading": "ろうどうけいやく"
+          },
+          {
+            "kanji": "著作権",
+            "reading": "ちょさくけん"
+          },
+          {
+            "kanji": "帰属先",
+            "reading": "きぞくさき"
+          },
+          {
+            "kanji": "問",
+            "reading": "とん"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "頻繁",
+            "reading": "ひんぱん"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "制",
+            "reading": "せい"
+          },
+          {
+            "kanji": "始業時間",
+            "reading": "しぎょうじかん"
+          },
+          {
+            "kanji": "終業時間",
+            "reading": "しゅうぎょうじかん"
+          },
+          {
+            "kanji": "決",
+            "reading": "けつ"
+          },
+          {
+            "kanji": "制度",
+            "reading": "せいど"
+          },
+          {
+            "kanji": "裁量労働制",
+            "reading": "さいりょうろうどうせい"
+          },
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "遂行方法",
+            "reading": "すいこうほうほう"
+          },
+          {
+            "kanji": "勤務時間",
+            "reading": "きんむじかん"
+          },
+          {
+            "kanji": "裁量",
+            "reading": "さいりょう"
+          },
+          {
+            "kanji": "任",
+            "reading": "にん"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "準委任契約",
+      "reading": "じゅんいにんけいやく",
+      "romaji": "Jun'inin Keiyaku",
+      "vi": "Hợp đồng ủy nhiệm bán phần",
+      "en": "Quasi-mandate Contract",
+      "my": "အမှတ်ကိုယ်စာအပ်စာချုပ်"
+    },
+    {
+      "kanji": "フレックスタイム制",
+      "reading": "ふれっくすたいむせい",
+      "romaji": "Flex Time Sei",
+      "vi": "Chế độ giờ linh hoạt",
+      "en": "Flextime System",
+      "my": "ပြောင်းလုၿဍချိန်စနစ်"
+    },
+    {
+      "kanji": "裁量労働制",
+      "reading": "さいりょうろうどうせい",
+      "romaji": "Sairyou Roudou Sei",
+      "vi": "Chế độ lao động tự quyết",
+      "en": "Discretionary Work System",
+      "my": "ဆုံးဖြတ်ခွင့်အလုပ်စနစ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

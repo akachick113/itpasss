@@ -1,0 +1,165 @@
+{
+    "page_id": 89,
+    "image": "p_0089.png",
+    "chapter": 2,
+    "section": "questions",
+    "page_number": 73,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "2-5",
+            "year": "平成26年度",
+            "question": {
+                "ja": "外部技術の導入手法の一つとして、企業が互いに有する特許の実施権を相互に許諾するものはどれか。",
+                "vi": "Là một phương pháp đưa công nghệ bên ngoài vào, đâu là việc các doanh nghiệp cho phép lẫn nhau quyền thực hiện bằng sáng chế mà mỗi bên sở hữu?",
+                "en": "As a method of introducing external technology, which allows companies to mutually license each other's patent rights?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "アライアンス",
+                    "vi": "Liên minh",
+                    "en": "Alliance"
+                },
+                {
+                    "label": "イ",
+                    "ja": "クロスライセンス",
+                    "vi": "Cấp phép chéo",
+                    "en": "Cross-License",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ジョイントベンチャー",
+                    "vi": "Liên doanh",
+                    "en": "Joint Venture"
+                },
+                {
+                    "label": "エ",
+                    "ja": "ロイヤルティ",
+                    "vi": "Phí bản quyền",
+                    "en": "Royalty"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-6",
+            "year": "平成24年度",
+            "question": {
+                "ja": "不正アクセス行為の禁止等に関する法律で禁止されている行為はどれか。",
+                "vi": "Hành vi nào bị cấm theo Luật cấm truy cập trái phép?",
+                "en": "Which act is prohibited by the Unauthorized Access Prohibition Law?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "OSなどに存在するセキュリティ上の弱点を電気通信回線を通じて攻撃してコンピュータを不正利用する行為",
+                    "vi": "Hành vi tấn công điểm yếu bảo mật trong OS qua đường truyền thông điện để sử dụng máy tính trái phép",
+                    "en": "Attacking OS security weaknesses via telecommunication lines to illegally use computers",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "営業秘密や営業上のノウハウの盗用などの不正行為",
+                    "vi": "Hành vi bất chính như đánh cắp bí mật kinh doanh và bí quyết",
+                    "en": "Illegal acts like stealing trade secrets and know-how"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "他人を誹謗中傷する内容をホームページや掲示板などへ掲載する行為",
+                    "vi": "Hành vi đăng nội dung phỉ báng người khác lên trang web hoặc bảng tin",
+                    "en": "Posting defamatory content about others on websites or bulletin boards"
+                },
+                {
+                    "label": "エ",
+                    "ja": "本人に対して個人情報の利用目的を偽り、不正な手段で取得する行為",
+                    "vi": "Hành vi lừa dối mục đích sử dụng thông tin cá nhân và thu thập bằng phương tiện bất chính",
+                    "en": "Falsifying purpose of personal information use to obtain it illegally"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-7",
+            "year": "令和7年度",
+            "question": {
+                "ja": "他人の電子メールの利用者IDとパスワードの取扱いに関する記述のうち、不正アクセス禁止法で規制されている行為だけを全て挙げたものはどれか。\n\na. 正当な理由なく本人に無断で第三者に提供する。\nb. 他人の電子メールの利用者IDとパスワードを無効にするマルウェアを作成する。\nc. 本人に無断で使用して、メールサーバ上の電子メールを閲覧する。",
+                "vi": "Trong các mô tả về việc xử lý ID và mật khẩu email người khác, đâu là tất cả các hành vi bị kiểm soát bởi Luật cấm truy cập trái phép?\n\na. Cung cấp cho bên thứ ba mà không được phép và không có lý do chính đáng.\nb. Tạo malware vô hiệu hóa ID và mật khẩu email người khác.\nc. Sử dụng mà không được phép để xem email trên mail server.",
+                "en": "Which describes ALL acts regulated by Unauthorized Access Prohibition Law regarding others' email IDs and passwords?\n\na. Providing to third parties without permission or legitimate reason.\nb. Creating malware to invalidate others' email IDs and passwords.\nc. Using without permission to view emails on mail server."
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "a, b, c",
+                    "vi": "a, b, c",
+                    "en": "a, b, c",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "a, c",
+                    "vi": "a, c",
+                    "en": "a, c"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "a, c",
+                    "vi": "a, c",
+                    "en": "a, c"
+                },
+                {
+                    "label": "エ",
+                    "ja": "c",
+                    "vi": "c",
+                    "en": "c"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "2-8",
+            "year": "サンプル問題",
+            "question": {
+                "ja": "労働基準法を説明したものはどれか。",
+                "vi": "Đâu là giải thích về Luật tiêu chuẩn lao động?",
+                "en": "Which explains Labor Standards Law?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "生活の安定、労働力の質的向上のために最低の賃金を保障した法律",
+                    "vi": "Luật đảm bảo mức lương tối thiểu để ổn định cuộc sống và nâng cao chất lượng lao động",
+                    "en": "Law guaranteeing minimum wages for life stability and labor quality improvement"
+                },
+                {
+                    "label": "イ",
+                    "ja": "短時間労働者の福祉の増進を目的に定められた法律",
+                    "vi": "Luật được quy định nhằm mục đích thúc đẩy phúc lợi của người lao động ngắn hạn",
+                    "en": "Law for promoting welfare of part-time workers"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "必要な技能を持った労働者を企業に派遣する事業に関しての法律",
+                    "vi": "Luật về kinh doanh phái cử lao động có kỹ năng cần thiết cho doanh nghiệp",
+                    "en": "Law on dispatching skilled workers to companies"
+                },
+                {
+                    "label": "エ",
+                    "ja": "労働時間、休憩、休暇など労働条件の最低ラインを定めた法律",
+                    "vi": "Luật quy định mức tối thiểu về điều kiện lao động như thời gian làm việc, nghỉ ngơi, nghỉ phép",
+                    "en": "Law establishing minimum working conditions like hours, breaks, leave",
+                    "correct": true
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_question_page": true,
+        "questions_covered": "2-5, 2-6, 2-7, 2-8",
+        "answers": "2-5: イ, 2-6: ア, 2-7: ア, 2-8: エ"
+    }
+}

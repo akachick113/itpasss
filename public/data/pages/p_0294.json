@@ -1,0 +1,129 @@
+{
+    "page_id": 294,
+    "image": "p_0294.png",
+    "chapter": 7,
+    "section": "answers",
+    "page_number": 278,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "7-7",
+            "correct_answer": "ア",
+            "explanation": {
+                "ja": "制約条件は、スコープ（対象範囲）、スケジュール（期限）、コスト（費用）の3つです。リスクは制約に含まれません。",
+                "vi": "Điều kiện ràng buộc là 3 loại: Scope (phạm vi đối tượng), Schedule (thời hạn), Cost (chi phí). Rủi ro không thuộc ràng buộc.",
+                "en": "Constraints are 3: Scope (target scope), Schedule (deadline), Cost (expense). Risk is not included in constraints."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "7-8",
+            "correct_answer": "エ",
+            "explanation": {
+                "ja": "プロジェクトに参加するメンバーの適切な配置は、プロジェクト資源マネジメントで行います。プロジェクト資源マネジメントでは、メンバーの役割と責任を明確にします。",
+                "vi": "Bố trí phù hợp thành viên tham gia dự án được thực hiện trong Project Resource Management. Trong Project Resource Management, làm rõ vai trò và trách nhiệm của thành viên.",
+                "en": "Appropriate placement of project members is done in Project Resource Management. In Project Resource Management, member roles and responsibilities are clarified."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "プロジェクトコストマネジメントで明確にします。",
+                    "vi": "Làm rõ trong Project Cost Management.",
+                    "en": "Clarified in Project Cost Management."
+                },
+                "イ": {
+                    "ja": "プロジェクトコミュニケーションマネジメントで明確にします。",
+                    "vi": "Làm rõ trong Project Communication Management.",
+                    "en": "Clarified in Project Communication Management."
+                },
+                "ウ": {
+                    "ja": "プロジェクトスコープマネジメントで明確にします。",
+                    "vi": "Làm rõ trong Project Scope Management.",
+                    "en": "Clarified in Project Scope Management."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "7-9",
+            "correct_answer": "ウ",
+            "explanation": {
+                "ja": "必要な伝達経路の数は、プロジェクトメンバー6人の中から2人を選ぶ組み合わせの数と同じなので、次のように算出できます。",
+                "vi": "Số đường truyền đạt cần thiết giống số tổ hợp chọn 2 người từ 6 Project Member, nên có thể tính như sau.",
+                "en": "Number of needed communication paths is same as combinations of choosing 2 from 6 Project Members, so can be calculated as follows."
+            },
+            "formula": {
+                "ja": "₆C₂ = (6×5)/(2×1) = 15",
+                "vi": "₆C₂ = (6×5)/(2×1) = 15",
+                "en": "₆C₂ = (6×5)/(2×1) = 15"
+            },
+            "note": {
+                "ja": "計算が苦手な人は右図を書くことでも簡単に算出できます。人数分の○を描き（今回は6個）、その○のすべてを線で結び、線の数を数えます。",
+                "vi": "Người không giỏi tính toán cũng có thể tính dễ dàng bằng cách vẽ hình bên phải. Vẽ ○ bằng số người (lần này 6 cái), nối tất cả ○ bằng đường thẳng, đếm số đường.",
+                "en": "People not good at calculation can also easily calculate by drawing the right figure. Draw ○ for number of people (6 this time), connect all ○ with lines, count number of lines."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "7-10",
+            "correct_answer": "ア",
+            "explanation": {
+                "ja": "プロジェクトのステークホルダ（Stakeholder：利害関係者）とは、対象のプロジェクトにおいて、利益または損害を受ける可能性があるすべての人です。例えば、経営者、プロジェクトマネージャ、プロジェクトメンバー、顧客、取引先、スポンサ、株主、地域社会などがステークホルダです。",
+                "vi": "Stakeholder (bên liên quan) của dự án là tất cả những người có khả năng nhận lợi ích hoặc thiệt hại trong dự án đối tượng. Ví dụ, ban quản lý, Project Manager, Project Member, khách hàng, đối tác, nhà tài trợ, cổ đông, cộng đồng địa phương là Stakeholder.",
+                "en": "Project Stakeholder is all people who may receive benefits or damages in target project. For example, management, Project Manager, Project Members, customers, business partners, sponsors, shareholders, local community are Stakeholders."
+            },
+            "choices_explanation": {
+                "イ": {
+                    "ja": "「恩恵（利益）」だけなので誤りです。",
+                    "vi": "Sai vì chỉ nói \"lợi ích\".",
+                    "en": "Incorrect because only mentions 'benefits.'"
+                },
+                "ウ": {
+                    "ja": "「費用の負担（損害）」だけなので誤りです。",
+                    "vi": "Sai vì chỉ nói \"chịu chi phí (thiệt hại)\".",
+                    "en": "Incorrect because only mentions 'bearing costs (damages).'"
+                },
+                "エ": {
+                    "ja": "プロジェクトマネージャは、利害を受ける中心的人物なのでステークホルダに含まれます。",
+                    "vi": "Project Manager là nhân vật trung tâm nhận lợi ích và thiệt hại nên thuộc Stakeholder.",
+                    "en": "Project Manager is central figure receiving benefits and damages, so included in Stakeholders."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "7-11",
+            "correct_answer": "ア",
+            "explanation": {
+                "ja": "プロジェクトの特徴は以下の2つです。\n・期限がある（有期性）\n・成果物が唯一無二の商品やサービスである（独自性）",
+                "vi": "Đặc điểm của Project là 2 điều sau.\n・Có thời hạn (tính hữu hạn)\n・Thành quả là sản phẩm hoặc dịch vụ độc nhất vô nhị (tính độc đáo)",
+                "en": "Project characteristics are these 2.\n・Has deadline (temporariness)\n・Deliverable is unique product or service (uniqueness)"
+            },
+            "choices_explanation": {
+                "a": {
+                    "ja": "正しい。「新組織への移行」には期限があり、移行で作成される文章、システムなどは独自の成果物です。",
+                    "vi": "Đúng. \"Chuyển đổi sang tổ chức mới\" có thời hạn, và tài liệu, hệ thống tạo ra khi chuyển đổi là thành quả độc đáo.",
+                    "en": "Correct. 'Transition to new organization' has deadline, and documents, systems created during transition are unique deliverables."
+                },
+                "b": {
+                    "ja": "誤り。「サービスデスクの運用」は定常的な業務なので期限がなく（ずっと続く）、独自の成果物もありません。",
+                    "vi": "Sai. \"Vận hành Service Desk\" là nghiệp vụ thường xuyên nên không có thời hạn (tiếp tục mãi), cũng không có thành quả độc đáo.",
+                    "en": "Incorrect. 'Service Desk operation' is routine work so no deadline (continues forever), no unique deliverables."
+                },
+                "c": {
+                    "ja": "正しい。「プログラム開発」には期限があり、「プログラム」は独自の成果物です。",
+                    "vi": "Đúng. \"Phát triển chương trình\" có thời hạn, và \"chương trình\" là thành quả độc đáo.",
+                    "en": "Correct. 'Program development' has deadline, and 'program' is unique deliverable."
+                },
+                "d": {
+                    "ja": "誤り。「会計処理」は定常的な業務なので期限がなく（ずっと続く）、独自の成果物もありません。",
+                    "vi": "Sai. \"Xử lý kế toán\" là nghiệp vụ thường xuyên nên không có thời hạn (tiếp tục mãi), cũng không có thành quả độc đáo.",
+                    "en": "Incorrect. 'Accounting processing' is routine work so no deadline (continues forever), no unique deliverables."
+                }
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 5
+    }
+}

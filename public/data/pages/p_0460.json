@@ -1,0 +1,289 @@
+{
+  "page_id": 460,
+  "image": "p_0460.png",
+  "chapter": 12,
+  "section": "12-05",
+  "page_number": 444,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "12-05",
+      "title": {
+        "ja": "情報デザインとソフトウェアの権利",
+        "vi": "Thiết kế thông tin và Quyền phần mềm",
+        "en": "Information Design and Software Rights"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "わかりやすく伝える",
+        "vi": "Truyền đạt dễ hiểu",
+        "en": "Communicating Clearly"
+      },
+      "content": {
+        "ja": "私たちは一般的に、熱いものは赤色、冷たいものは青色で表されるという先入観があります。そのため、このルールに反したデザインを見ると混乱します。",
+        "vi": "Chúng ta thường có định kiến rằng vật nóng được biểu thị bằng màu đỏ, vật lạnh bằng màu xanh. Vì vậy, khi thấy thiết kế trái ngược quy tắc này sẽ bị nhầm lẫn.",
+        "en": "We generally have preconception that hot things shown in red, cold things in blue. So seeing design breaking this rule causes confusion."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "情報デザインに関する用語",
+      "vi": "Thuật ngữ liên quan đến thiết kế thông tin",
+      "en": "Terms Related to Information Design"
+    },
+    {
+      "type": "paragraph",
+      "ja": "情報デザインとは、生活の中に溢れる情報を整理して、相手にわかりやすく伝える手法です。情報デザインに関しては「ユニバーサルデザイン」「アクセシビリティ」「ユーザビリティ」の3つの用語が重要です。ぜひ覚えておいてください。",
+      "vi": "Thiết kế thông tin là phương pháp sắp xếp thông tin tràn ngập trong cuộc sống và truyền đạt dễ hiểu cho đối phương. Về thiết kế thông tin, 3 thuật ngữ \"thiết kế phổ quát\", \"khả năng tiếp cận\", \"khả năng sử dụng\" rất quan trọng. Hãy nhớ kỹ.",
+      "en": "Information design is method organizing information in life and communicating clearly to others. Regarding information design, 3 terms 'universal design,' 'accessibility,' 'usability' are important. Please remember.",
+      "terms": [
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "生活",
+          "reading": "せいかつ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "溢",
+          "reading": "いつ"
+        },
+        {
+          "kanji": "整理",
+          "reading": "せいり"
+        },
+        {
+          "kanji": "相手",
+          "reading": "あいて"
+        },
+        {
+          "kanji": "伝",
+          "reading": "でん"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ユニバーサルデザイン",
+      "vi": "Thiết kế phổ quát",
+      "en": "Universal Design"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ユニバーサルデザイン（Universal Design）とは、年齢、文化、言語、能力の違い、障害の有無などにかかわらず、できるだけ多くの人が利用できることを目指した設計です。ユニバーサルとは「万国共通の」という意味であり、ユニバーサルデザインとは「すべての人のためのデザイン」という意味です。",
+      "vi": "Thiết kế phổ quát (Universal Design) là thiết kế hướng đến việc càng nhiều người có thể sử dụng càng tốt, bất kể tuổi tác, văn hóa, ngôn ngữ, khả năng khác nhau, có khuyết tật hay không. Universal có nghĩa \"phổ thông toàn cầu\", và Universal Design có nghĩa \"thiết kế cho tất cả mọi người\".",
+      "en": "Universal Design is design aiming for as many people as possible to use, regardless of age, culture, language, ability differences, disability presence. Universal means 'common to all nations,' and Universal Design means 'design for everyone.'",
+      "terms": [
+        {
+          "kanji": "年齢",
+          "reading": "ねんれい"
+        },
+        {
+          "kanji": "文化",
+          "reading": "ぶんか"
+        },
+        {
+          "kanji": "言語",
+          "reading": "げんご"
+        },
+        {
+          "kanji": "能力",
+          "reading": "のうりょく"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "障害",
+          "reading": "しょうがい"
+        },
+        {
+          "kanji": "有無",
+          "reading": "うむ"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "目指",
+          "reading": "もくし"
+        },
+        {
+          "kanji": "設計",
+          "reading": "せっけい"
+        },
+        {
+          "kanji": "万国共通",
+          "reading": "ばんこくきょうつう"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ユニバーサルデザインのことを念頭に置いて情報デザインを行うことで、より多くの人にとって使いやすい商品を作ることができます。",
+      "vi": "Bằng cách thực hiện thiết kế thông tin với thiết kế phổ quát trong đầu, có thể tạo ra sản phẩm dễ sử dụng cho nhiều người hơn.",
+      "en": "By doing information design with universal design in mind, can create products easier to use for more people.",
+      "terms": [
+        {
+          "kanji": "念頭",
+          "reading": "ねんとう"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、「ユニバーサルデザイン」と「バリアフリー」は混同されがちなので注意してください。バリアフリーとは、高齢者や障害者が生活するうえでの障壁（バリア）を取り除く考え方です。ユニバーサルデザインのほうが対象範囲が広いです。",
+      "vi": "Ngoài ra, \"Thiết kế phổ quát\" và \"Không rào cản\" dễ bị nhầm lẫn nên hãy chú ý. Không rào cản là cách suy nghĩ loại bỏ rào cản (barrier) trong cuộc sống của người cao tuổi và người khuyết tật. Thiết kế phổ quát có phạm vi đối tượng rộng hơn.",
+      "en": "Also, 'Universal Design' and 'Barrier-Free' are often confused so be careful. Barrier-free is concept of removing barriers in life of elderly and disabled. Universal design has broader target range.",
+      "terms": [
+        {
+          "kanji": "混同",
+          "reading": "こんどう"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        },
+        {
+          "kanji": "高齢者",
+          "reading": "こうれいしゃ"
+        },
+        {
+          "kanji": "障害者",
+          "reading": "しょうがいしゃ"
+        },
+        {
+          "kanji": "生活",
+          "reading": "せいかつ"
+        },
+        {
+          "kanji": "障壁",
+          "reading": "しょうへき"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "除",
+          "reading": "じょ"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "方",
+          "reading": "かた"
+        },
+        {
+          "kanji": "対象範囲",
+          "reading": "たいしょうはんい"
+        },
+        {
+          "kanji": "広",
+          "reading": "ひろ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "情報デザイン",
+      "reading": "じょうほうデザイン",
+      "vi": "Thiết kế thông tin",
+      "en": "Information Design",
+      "my": "အင်ဖော်မေးရှင်း ဒီဇိုင်း"
+    },
+    {
+      "term": "ユニバーサルデザイン",
+      "vi": "Thiết kế phổ quát",
+      "en": "Universal Design",
+      "my": "ယူနီဗာစဲ ဒီဇိုင်း"
+    },
+    {
+      "term": "バリアフリー",
+      "vi": "Không rào cản",
+      "en": "Barrier-Free",
+      "my": "ဘရီယာ ဖရီး"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

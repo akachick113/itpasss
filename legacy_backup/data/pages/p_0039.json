@@ -1,0 +1,194 @@
+{
+  "page_id": 39,
+  "image": "p_0039.png",
+  "chapter": 1,
+  "section": "01-04",
+  "page_number": 23,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（5）カンパニー制組織",
+      "reading": "かんぱにーせいそしき",
+      "vi": "(5) Tổ chức theo công ty con",
+      "en": "(5) Company Organization",
+      "my": "(၅) Company Organization"
+    },
+    {
+      "type": "paragraph",
+      "ja": "カンパニー制組織とは、各事業部を独立した会社とみなして構成する組織です。この「独立した会社とみなす事業部」のことを「カンパニー」または「仮想企業」といいます。カンパニーには、事業部よりも大きな権限と責任が与えられます。",
+      "vi": "Tổ chức theo công ty con là tổ chức cấu thành bằng cách coi mỗi bộ phận kinh doanh như một công ty độc lập. \"Bộ phận kinh doanh được coi như công ty độc lập\" này được gọi là \"Company\" hoặc \"công ty ảo\". Company được trao quyền hạn và trách nhiệm lớn hơn bộ phận kinh doanh thông thường.",
+      "en": "Company organization is an organization structured by treating each business division as an independent company. This \"business division treated as an independent company\" is called a \"Company\" or \"virtual company.\" Companies are given greater authority and responsibility than regular business divisions.",
+      "my": "Company organization သည် စီးပွားရေးဌာနတစ်ခုစီကို လွတ်လပ်သောကုမ္ပဏီအဖြစ် သတ်မှတ်၍ ဖွဲ့စည်းသော အဖွဲ့အစည်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "制組織",
+          "reading": "せいそしき"
+        },
+        {
+          "kanji": "各事業部",
+          "reading": "かくじぎょうぶ"
+        },
+        {
+          "kanji": "独立",
+          "reading": "どくりつ"
+        },
+        {
+          "kanji": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        },
+        {
+          "kanji": "事業部",
+          "reading": "じぎょうぶ"
+        },
+        {
+          "kanji": "仮想企業",
+          "reading": "かそうきぎょう"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "権限",
+          "reading": "けんげん"
+        },
+        {
+          "kanji": "責任",
+          "reading": "せきにん"
+        },
+        {
+          "kanji": "与",
+          "reading": "よ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ただし、カンパニーはあくまでも社内組織の1つです。完全に独立した子会社ではありません。つまり、各カンパニーは事業部と子会社の中間的な組織であるといえます。",
+      "vi": "Tuy nhiên, Company chỉ là một trong các tổ chức nội bộ công ty. Nó không phải là công ty con hoàn toàn độc lập. Nói cách khác, mỗi Company là tổ chức trung gian giữa bộ phận kinh doanh và công ty con.",
+      "en": "However, a Company is still just one of the internal organizations. It's not a completely independent subsidiary. In other words, each Company is an intermediate organization between a business division and a subsidiary.",
+      "my": "သို့သော် Company သည် ပြည်တွင်းအဖွဲ့အစည်းများထဲမှ တစ်ခုသာဖြစ်သည်။ လုံးဝလွတ်လပ်သော subsidiary မဟုတ်ပါ။",
+      "terms": [
+        {
+          "kanji": "社内組織",
+          "reading": "しゃないそしき"
+        },
+        {
+          "kanji": "完全",
+          "reading": "かんぜん"
+        },
+        {
+          "kanji": "独立",
+          "reading": "どくりつ"
+        },
+        {
+          "kanji": "子会社",
+          "reading": "こがいしゃ"
+        },
+        {
+          "kanji": "各",
+          "reading": "かく"
+        },
+        {
+          "kanji": "事業部",
+          "reading": "じぎょうぶ"
+        },
+        {
+          "kanji": "中間的",
+          "reading": "ちゅうかんてき"
+        },
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（6）持株会社",
+      "reading": "もちかぶがいしゃ",
+      "vi": "(6) Công ty holdings",
+      "en": "(6) Holding Company",
+      "my": "(၆) Holding Company"
+    },
+    {
+      "type": "paragraph",
+      "ja": "持株会社とは、子会社の株式を保有する親会社のことです。",
+      "vi": "Công ty holdings là công ty mẹ sở hữu cổ phiếu của các công ty con.",
+      "en": "A holding company is a parent company that owns shares of subsidiary companies.",
+      "my": "Holding company သည် subsidiary companies များ၏ shares များကို ပိုင်ဆိုင်သော parent company ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "持株会社",
+          "reading": "もちかぶがいしゃ"
+        },
+        {
+          "kanji": "子会社",
+          "reading": "こがいしゃ"
+        },
+        {
+          "kanji": "株式",
+          "reading": "かぶしき"
+        },
+        {
+          "kanji": "保有",
+          "reading": "ほゆう"
+        },
+        {
+          "kanji": "親会社",
+          "reading": "おやがいしゃ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "カンパニー制組織",
+      "reading": "かんぱにーせいそしき",
+      "romaji": "Company Sei Soshiki",
+      "vi": "Tổ chức theo công ty con",
+      "en": "Company Organization",
+      "my": "ကုမ္ပဏီအဖွဲ့အစည်း"
+    },
+    {
+      "kanji": "仮想企業",
+      "reading": "かそうきぎょう",
+      "romaji": "Kasou Kigyou",
+      "vi": "Công ty ảo",
+      "en": "Virtual Company",
+      "my": "အကြာကုမ္ပဏီ"
+    },
+    {
+      "kanji": "持株会社",
+      "reading": "もちかぶがいしゃ",
+      "romaji": "Mochikabu Gaisha",
+      "vi": "Công ty holdings",
+      "en": "Holding Company",
+      "my": "Holding Company"
+    },
+    {
+      "kanji": "子会社",
+      "reading": "こがいしゃ",
+      "romaji": "Ko Gaisha",
+      "vi": "Công ty con",
+      "en": "Subsidiary",
+      "my": "လက်ခွဲကုမ္ပဏီ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": false,
+    "illustration": "company_org_chart"
+  }
+}

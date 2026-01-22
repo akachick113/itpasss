@@ -1,0 +1,424 @@
+{
+  "page_id": 132,
+  "image": "p_0132.png",
+  "chapter": 3,
+  "section": "03-04",
+  "page_number": 116,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "03-04",
+      "ja": "事業戦略と経営管理システム",
+      "reading": "じぎょうせんりゃくとけいえいかんりしすてむ",
+      "vi": "Chiến lược sự nghiệp và hệ thống quản lý kinh doanh",
+      "en": "Business Strategy and Management System",
+      "my": "လုပ်ငန်းဗျူဟာနှင့် စီမံခန့်ခွဲမှုစနစ်"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "経営者だって楽をしたい！",
+        "vi": "Người kinh doanh cũng muốn nhàn!",
+        "en": "Even Executives Want It Easy!",
+        "my": "စီမံခန့်ခွဲသူများလည်း လွယ်ကူချင်ကြသည်!",
+        "terms": [
+          {
+            "kanji": "経営者",
+            "reading": "けいえいしゃ"
+          },
+          {
+            "kanji": "経営",
+            "reading": "けいえい"
+          }
+        ]
+      },
+      "content": {
+        "ja": "企業活動を継続するためには、さまざまな情報を管理する必要があります。これらのすべてを手作業で行っていてはいくら時間があっても足りません。最適なシステムを活用することが大切です。",
+        "vi": "Để tiếp tục hoạt động doanh nghiệp, cần quản lý nhiều thông tin. Nếu làm tất cả bằng tay thì dù có bao nhiêu thời gian cũng không đủ. Điều quan trọng là sử dụng hệ thống tối ưu.",
+        "en": "To continue business activities, various information must be managed. Doing everything manually would never have enough time. Using optimal systems is important.",
+        "my": "စီးပွားရေးလုပ်ငန်းများ ဆက်လက်လုပ်ဆောင်ရန် အချက်အလက်အမျိုးမျိုးကို စီမံခန့်ခွဲရပါမည်။",
+        "terms": [
+          {
+            "kanji": "企業活動",
+            "reading": "きぎょうかつどう"
+          },
+          {
+            "kanji": "継続",
+            "reading": "けいぞく"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "管理",
+            "reading": "かんり"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          },
+          {
+            "kanji": "手作業",
+            "reading": "てさぎょう"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "時間",
+            "reading": "じかん"
+          },
+          {
+            "kanji": "足",
+            "reading": "あし"
+          },
+          {
+            "kanji": "最適",
+            "reading": "さいてき"
+          },
+          {
+            "kanji": "活用",
+            "reading": "かつよう"
+          },
+          {
+            "kanji": "大切",
+            "reading": "たいせつ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、事業戦略に関する用語を解説します。ITパスポート試験では「BSC」「CSF」「KPI」の3つの用語がよく出題されます。なお、これらの問題は「用語の定義」を覚えておくだけで正答できるものも多いので、ぜひ本項を確実に押さえておき、得点につなげてください。",
+      "vi": "Từ đây sẽ giải thích các thuật ngữ về chiến lược sự nghiệp. Trong IT Passport, 3 thuật ngữ BSC, CSF, KPI thường được ra đề. Nhiều câu hỏi có thể trả lời đúng chỉ bằng cách nhớ định nghĩa thuật ngữ, nên hãy nắm vững phần này để ghi điểm.",
+      "en": "From here, we'll explain business strategy terms. In IT Passport, BSC, CSF, KPI are frequently tested. Many questions can be answered correctly just by memorizing term definitions, so master this section to score points.",
+      "my": "ဤနေရာမှစ၍ business strategy ဝေါဟာရများကို ရှင်းပြပါမည်။",
+      "terms": [
+        {
+          "kanji": "事業戦略",
+          "reading": "じぎょうせんりゃく"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "正答",
+          "reading": "せいとう"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "確実",
+          "reading": "かくじつ"
+        },
+        {
+          "kanji": "押",
+          "reading": "おう"
+        },
+        {
+          "kanji": "得点",
+          "reading": "とくてん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "BSC",
+      "reading": "びーえすしー",
+      "vi": "BSC",
+      "en": "BSC",
+      "my": "BSC"
+    },
+    {
+      "type": "paragraph",
+      "ja": "BSC（Balanced Scorecard：バランススコアカード）とは、「財務」「顧客」「業務プロセス」「学習と成長」の4つの視点から業績評価を行う手法です。BSCの最大の特徴は、経営状況の評価基準に財務以外の視点を取り入れている点にあります。",
+      "vi": "BSC (Balanced Scorecard: Thẻ điểm cân bằng) là phương pháp đánh giá hiệu suất từ 4 góc nhìn: Tài chính, Khách hàng, Quy trình nghiệp vụ, Học tập và phát triển. Đặc điểm lớn nhất của BSC là đưa góc nhìn ngoài tài chính vào tiêu chí đánh giá tình trạng kinh doanh.",
+      "en": "BSC (Balanced Scorecard) evaluates performance from 4 perspectives: Financial, Customer, Business Process, Learning and Growth. BSC's biggest feature is incorporating non-financial perspectives into management evaluation criteria.",
+      "my": "BSC (Balanced Scorecard) သည် ရှုထောင့် ၄ ခုမှ စွမ်းဆောင်ရည်ကို အကဲဖြတ်သည်။",
+      "terms": [
+        {
+          "kanji": "財務",
+          "reading": "ざいむ"
+        },
+        {
+          "kanji": "顧客",
+          "reading": "こきゃく"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "成長",
+          "reading": "せいちょう"
+        },
+        {
+          "kanji": "視点",
+          "reading": "してん"
+        },
+        {
+          "kanji": "業績評価",
+          "reading": "ぎょうせきひょうか"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "最大",
+          "reading": "さいだい"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "経営状況",
+          "reading": "けいえいじょうきょう"
+        },
+        {
+          "kanji": "評価基準",
+          "reading": "ひょうかきじゅん"
+        },
+        {
+          "kanji": "財務以外",
+          "reading": "ざいむいがい"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "BSCの4つの視点",
+        "vi": "4 góc nhìn của BSC",
+        "en": "BSC's 4 Perspectives"
+      },
+      "headers": {
+        "ja": [
+          "視点",
+          "説明"
+        ],
+        "vi": [
+          "Góc nhìn",
+          "Giải thích"
+        ],
+        "en": [
+          "Perspective",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "財務",
+            "財務諸表などの視点から評価する"
+          ],
+          "vi": [
+            "Tài chính",
+            "Đánh giá từ góc nhìn báo cáo tài chính"
+          ],
+          "en": [
+            "Financial",
+            "Evaluate from financial statements perspective"
+          ]
+        },
+        {
+          "ja": [
+            "顧客",
+            "お客様の視点から評価する"
+          ],
+          "vi": [
+            "Khách hàng",
+            "Đánh giá từ góc nhìn khách hàng"
+          ],
+          "en": [
+            "Customer",
+            "Evaluate from customer perspective"
+          ]
+        },
+        {
+          "ja": [
+            "業務プロセス",
+            "製品の品質や業務内容を評価する"
+          ],
+          "vi": [
+            "Quy trình nghiệp vụ",
+            "Đánh giá chất lượng sản phẩm và nội dung nghiệp vụ"
+          ],
+          "en": [
+            "Business Process",
+            "Evaluate product quality and work content"
+          ]
+        },
+        {
+          "ja": [
+            "学習と成長",
+            "従業員と企業の能力から評価する"
+          ],
+          "vi": [
+            "Học tập và phát triển",
+            "Đánh giá từ năng lực nhân viên và doanh nghiệp"
+          ],
+          "en": [
+            "Learning and Growth",
+            "Evaluate from employee and company capabilities"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "企業の収支状況は財務諸表で確認できますが、永続的に経営を続けていくためには、財務だけではなく、その他の状態も重要です。例えば、社員のモチベーションです。社員のモチベーションは財務諸表には記載されていません。長期的に見れば、",
+      "vi": "Tình trạng thu chi của doanh nghiệp có thể xác nhận bằng báo cáo tài chính, nhưng để kinh doanh bền vững, không chỉ tài chính mà các trạng thái khác cũng quan trọng. Ví dụ, động lực của nhân viên. Động lực nhân viên không có trong báo cáo tài chính. Nhìn dài hạn,",
+      "en": "Company financial status can be confirmed from financial statements, but for sustainable management, not only finance but other conditions are important. For example, employee motivation. Employee motivation isn't in financial statements. In the long term,",
+      "my": "ကုမ္ပဏီ ငွေကြေးအခြေအနေကို ငွေကြေးရှင်းတမ်းများမှ အတည်ပြုနိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "収支状況",
+          "reading": "しゅうしじょうきょう"
+        },
+        {
+          "kanji": "財務諸表",
+          "reading": "ざいむしょひょう"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "永続的",
+          "reading": "えいぞくてき"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "続",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "財務",
+          "reading": "ざいむ"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "状態",
+          "reading": "じょうたい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "社員",
+          "reading": "しゃいん"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "長期的",
+          "reading": "ちょうきてき"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "BSC",
+      "reading": "びーえすしー",
+      "romaji": "BSC",
+      "vi": "Thẻ điểm cân bằng",
+      "en": "Balanced Scorecard",
+      "my": "BSC"
+    },
+    {
+      "kanji": "業績評価",
+      "reading": "ぎょうせきひょうか",
+      "romaji": "Gyouseki Hyouka",
+      "vi": "Đánh giá hiệu suất",
+      "en": "Performance Evaluation",
+      "my": "စွမ်းဆောင်ရည် အကဲဖြတ်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

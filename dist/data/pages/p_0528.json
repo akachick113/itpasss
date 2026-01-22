@@ -1,0 +1,76 @@
+{
+  "page_id": 528,
+  "image": "p_0528.png",
+  "chapter": 14,
+  "section": "14-05",
+  "page_number": 512,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "クラウドコンピューティングとエッジコンピューティング",
+        "vi": "Cloud Computing và Edge Computing",
+        "en": "Cloud Computing and Edge Computing"
+      },
+      "description": {
+        "ja": "クラウドコンピューティング：遠いので通信が遅い（クラウド↔工場のセンサー）。エッジコンピューティング：近いので通信が速い（エッジサーバ↔工場のセンサー）。エッジサーバが必要なデータのみクラウドと通信",
+        "vi": "Cloud Computing: Xa nên truyền thông chậm (Cloud ↔ Cảm biến nhà máy). Edge Computing: Gần nên truyền thông nhanh (Edge Server ↔ Cảm biến nhà máy). Edge Server chỉ truyền thông dữ liệu cần thiết với Cloud",
+        "en": "Cloud Computing: Far so communication slow (Cloud ↔ Factory sensor). Edge Computing: Near so communication fast (Edge Server ↔ Factory sensor). Edge Server only communicates necessary data with Cloud"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "BLEは、Bluetoothの仕様の1つで省電力",
+          "vi": "BLE là một trong những thông số kỹ thuật của Bluetooth và tiết kiệm năng lượng",
+          "en": "BLE is one of Bluetooth specifications and power-saving"
+        },
+        {
+          "ja": "LPWAとは、省電力で広範囲の無線通信",
+          "vi": "LPWA là truyền thông không dây phạm vi rộng với năng lượng thấp",
+          "en": "LPWA is low power wide range wireless communication"
+        },
+        {
+          "ja": "LPWAはBLEよりも通信距離が長く、LTEよりも消費電力が低い",
+          "vi": "LPWA có khoảng cách truyền thông xa hơn BLE và tiêu thụ điện thấp hơn LTE",
+          "en": "LPWA has longer communication distance than BLE and lower power consumption than LTE"
+        },
+        {
+          "ja": "マルチホップとは、中継（ホップ）を繰り返すことで広範囲の通信を実現する技術",
+          "vi": "Multi-hop là công nghệ thực hiện truyền thông phạm vi rộng bằng cách lặp lại chuyển tiếp (hop)",
+          "en": "Multi-hop is technology realizing wide-range communication by repeating relay (hop)"
+        },
+        {
+          "ja": "エッジコンピューティングとは、IoT機器の近くにサーバを配置することで応答速度を高める技術",
+          "vi": "Edge Computing là công nghệ nâng cao tốc độ phản hồi bằng cách đặt máy chủ gần thiết bị IoT",
+          "en": "Edge Computing is technology increasing response speed by placing servers near IoT devices"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "クラウドコンピューティング",
+      "vi": "Cloud Computing",
+      "en": "Cloud Computing",
+      "my": "Cloud ကွန်ပျူတင်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

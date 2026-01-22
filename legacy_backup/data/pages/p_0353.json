@@ -1,0 +1,196 @@
+{
+  "page_id": 353,
+  "image": "p_0353.png",
+  "chapter": 9,
+  "section": "09-06",
+  "page_number": 337,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "09-06",
+      "title": {
+        "ja": "コンピュータ言語",
+        "vi": "Ngôn ngữ Máy tính",
+        "en": "Computer Languages"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "本とプログラム",
+        "vi": "Sách và Chương trình",
+        "en": "Books and Programs"
+      },
+      "content": {
+        "ja": "小説家が原稿用紙に書いた文章は、編集、印刷、製本など、いろいろな人の手を経て本になります。これと同じように、プログラマが書いたソースコードも、何度か加工されてから、コンピュータで実行されます。",
+        "vi": "Văn bản mà tiểu thuyết gia viết trên giấy bản thảo trở thành sách qua tay nhiều người như biên tập, in ấn, đóng sách. Tương tự, source code mà lập trình viên viết cũng được xử lý nhiều lần trước khi thực thi trên máy tính.",
+        "en": "Text novelist writes on manuscript paper becomes book through many people's hands like editing, printing, binding. Similarly, source code programmer writes is processed several times before computer executes it."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからはコンピュータの言語を説明します。ITパスポート試験では「HTML」と「XML」という言語がよく出題されます。この2つの言語は元は「SGML」という言語から生まれた兄弟言語です。この2つの言語が現代のWebサイトを支えています。",
+      "vi": "Từ đây giải thích ngôn ngữ máy tính. Trong kỳ thi IT Passport, ngôn ngữ \"HTML\" và \"XML\" thường được ra đề. 2 ngôn ngữ này ban đầu là ngôn ngữ anh em sinh ra từ ngôn ngữ \"SGML\". 2 ngôn ngữ này hỗ trợ các website hiện đại.",
+      "en": "From here, we explain computer languages. In IT Passport exam, 'HTML' and 'XML' languages often appear. These 2 languages originally are sibling languages born from 'SGML.' These 2 languages support modern websites.",
+      "terms": [
+        {
+          "kanji": "言語",
+          "reading": "げんご"
+        },
+        {
+          "kanji": "説明",
+          "reading": "せつめい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "元",
+          "reading": "もと"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "兄弟言語",
+          "reading": "きょうだいげんご"
+        },
+        {
+          "kanji": "現代",
+          "reading": "げんだい"
+        },
+        {
+          "kanji": "支",
+          "reading": "し"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "HTML",
+      "reading": "えいちてぃーえむえる",
+      "vi": "HTML",
+      "en": "HTML",
+      "note": "重要！よく出る！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "HTML（HyperText Markup Language）とは、Webページを作成する際に利用されているマークアップ言語です。HTMLでは「タグ」と呼ばれる要素を使ってWebページの論理構造や文字要素を指定します。論理構造とは、そのWebページの構造です。どのような要素があり、またそれがどのような関係性を持っているのかを示すものです。具体例を見てみましょう。",
+      "vi": "HTML (HyperText Markup Language) là ngôn ngữ đánh dấu được sử dụng khi tạo trang web. Trong HTML, sử dụng phần tử gọi là \"tag\" để chỉ định cấu trúc logic và phần tử ký tự của trang web. Cấu trúc logic là cấu trúc của trang web đó. Nó cho biết có phần tử nào và chúng có mối quan hệ như thế nào. Hãy xem ví dụ cụ thể.",
+      "en": "HTML (HyperText Markup Language) is markup language used when creating web pages. In HTML, elements called 'tags' specify web page logical structure and text elements. Logical structure is that web page's structure. It shows what elements exist and what relationships they have. Let's see specific example.",
+      "terms": [
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "言語",
+          "reading": "げんご"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "要素",
+          "reading": "ようそ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "論理構造",
+          "reading": "ろんりこうぞう"
+        },
+        {
+          "kanji": "文字要素",
+          "reading": "もじようそ"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "構造",
+          "reading": "こうぞう"
+        },
+        {
+          "kanji": "関係性",
+          "reading": "かんけいせい"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "示",
+          "reading": "じ"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "HTMLの例",
+        "vi": "Ví dụ HTML",
+        "en": "HTML Example"
+      },
+      "code": "<html>\n  <title>ここはタイトルだよ。</title>\n  <body>ここは本文だよ。</body>\n</html>",
+      "explanation": {
+        "ja": "①<title>と</title>に囲まれている文字がブラウザのタイトル部分に表示されている\n②<body>と</body>に囲まれている文字がブラウザの本文に表示されている",
+        "vi": "① Ký tự trong <title> và </title> hiển thị ở phần tiêu đề trình duyệt\n② Ký tự trong <body> và </body> hiển thị trong phần thân trình duyệt",
+        "en": "① Text enclosed in <title> and </title> displays in browser title part\n② Text enclosed in <body> and </body> displays in browser body"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "HTML",
+      "fullname": "HyperText Markup Language",
+      "vi": "Ngôn ngữ đánh dấu siêu văn bản",
+      "en": "HyperText Markup Language",
+      "my": "အေချတီ အမ် အလ်"
+    },
+    {
+      "term": "マークアップ言語",
+      "reading": "まーくあっぷげんご",
+      "vi": "Ngôn ngữ đánh dấu",
+      "en": "Markup Language",
+      "my": "မာက်အပ် ဘာသာ"
+    },
+    {
+      "term": "タグ",
+      "romaji": "Tag",
+      "vi": "Thẻ",
+      "en": "Tag",
+      "my": "တက်"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

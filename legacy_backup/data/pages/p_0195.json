@@ -1,0 +1,358 @@
+{
+  "page_id": 195,
+  "image": "p_0195.png",
+  "chapter": 5,
+  "section": "05-02",
+  "page_number": 179,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "05-02",
+      "ja": "業務プロセス",
+      "reading": "ぎょうむぷろせす",
+      "vi": "Quy trình nghiệp vụ",
+      "en": "Business Process",
+      "my": "Business Process"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "仕事の手順とシステム開発",
+        "vi": "Thủ tục công việc và phát triển hệ thống",
+        "en": "Work Procedures and System Development",
+        "my": "အလုပ်လုပ်ထုံးလုပ်နည်းများနှင့် စနစ်ဖွံ့ဖြိုးမှု",
+        "terms": [
+          {
+            "kanji": "システム開発",
+            "reading": "しすてむかいはつ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "手作業をシステムに置き換えるためには、業務がどのような手順で行われているのかを明確にする必要があります。業務の手順を把握しておかないとシステムを作ることはできません。",
+        "vi": "Để thay thế công việc thủ công bằng hệ thống, cần làm rõ nghiệp vụ được thực hiện theo thủ tục nào. Không thể tạo hệ thống nếu không nắm bắt thủ tục nghiệp vụ.",
+        "en": "To replace manual work with systems, you need to clarify what procedures work is done by. You cannot create systems without grasping work procedures.",
+        "my": "ကိုယ်တိုင်လုပ်သော အလုပ်ကို စနစ်များဖြင့် အစားထိုးရန် အလုပ်လုပ်ထုံးလုပ်နည်းများကို ရှင်းလင်းရန် လိုအပ်သည်။",
+        "terms": [
+          {
+            "kanji": "手作業",
+            "reading": "てさぎょう"
+          },
+          {
+            "kanji": "置",
+            "reading": "ち"
+          },
+          {
+            "kanji": "換",
+            "reading": "かん"
+          },
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "手順",
+            "reading": "てじゅん"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "明確",
+            "reading": "めいかく"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          },
+          {
+            "kanji": "把握",
+            "reading": "はあく"
+          },
+          {
+            "kanji": "作",
+            "reading": "さく"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここでは、「システムを使って業務プロセスを改善する方法」を解説します。業務プロセスとは、生産部門や経理部門などの業務の手順です。業務プロセスの改善は、経営戦略の目標を達成するうえで非常に重要です。\n\nITパスポート試験では「DFD（データフロー図）」が圧倒的によく出題されます。この用語は確実に押さえておいてください。",
+      "vi": "Ở đây sẽ giải thích phương pháp cải thiện quy trình nghiệp vụ sử dụng hệ thống. Quy trình nghiệp vụ là thủ tục của nghiệp vụ như bộ phận sản xuất hoặc kế toán. Cải thiện quy trình nghiệp vụ rất quan trọng để đạt mục tiêu chiến lược kinh doanh.\n\nTrong IT Passport, DFD (Data Flow Diagram) được ra đề rất nhiều. Hãy nhớ kỹ thuật ngữ này.",
+      "en": "Here we explain 'how to improve business processes using systems'. Business processes are the procedures of work in production or accounting departments. Improving business processes is very important for achieving business strategy goals.\n\nIn IT Passport, 'DFD (Data Flow Diagram)' is overwhelmingly frequently tested. Make sure to remember this term.",
+      "my": "ဤနေရာတွင် 'စနစ်များအသုံးပြု၍ စီးပွားရေးလုပ်ငန်းစဉ်များ တိုးတက်အောင်ပြုလုပ်နည်း' ကို ရှင်းပြသည်။",
+      "terms": [
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "生産部門",
+          "reading": "せいさんぶもん"
+        },
+        {
+          "kanji": "経理部門",
+          "reading": "けいりぶもん"
+        },
+        {
+          "kanji": "手順",
+          "reading": "てじゅん"
+        },
+        {
+          "kanji": "経営戦略",
+          "reading": "けいえいせんりゃく"
+        },
+        {
+          "kanji": "目標",
+          "reading": "もくひょう"
+        },
+        {
+          "kanji": "達成",
+          "reading": "たっせい"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "圧倒的",
+          "reading": "あっとうてき"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "確実",
+          "reading": "かくじつ"
+        },
+        {
+          "kanji": "押",
+          "reading": "おう"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "バランススコアカード（BSC）",
+        "vi": "Balanced Scorecard (BSC)",
+        "en": "Balanced Scorecard (BSC)",
+        "terms": [
+          {
+            "kanji": "BSC",
+            "reading": "びーえすしー"
+          }
+        ]
+      },
+      "content": {
+        "ja": "「業務プロセス」は、前章で解説したバランススコアカード（BSC）の「4つの視点」にも含まれています（p.116）。このことからも、業務プロセスの改善が経営戦略の目標を達成するうえで重要であることがわかります。",
+        "vi": "Quy trình nghiệp vụ cũng được bao gồm trong 4 góc nhìn của Balanced Scorecard (BSC) đã giải thích ở chương trước (trang 116). Từ đây cũng thấy cải thiện quy trình nghiệp vụ quan trọng để đạt mục tiêu chiến lược kinh doanh.",
+        "en": "'Business Process' is also included in the '4 perspectives' of Balanced Scorecard (BSC) explained in the previous chapter (p.116). This shows that improving business processes is important for achieving business strategy goals.",
+        "terms": [
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "前章",
+            "reading": "ぜんしょう"
+          },
+          {
+            "kanji": "解説",
+            "reading": "かいせつ"
+          },
+          {
+            "kanji": "視点",
+            "reading": "してん"
+          },
+          {
+            "kanji": "含",
+            "reading": "がん"
+          },
+          {
+            "kanji": "改善",
+            "reading": "かいぜん"
+          },
+          {
+            "kanji": "経営戦略",
+            "reading": "けいえいせんりゃく"
+          },
+          {
+            "kanji": "目標",
+            "reading": "もくひょう"
+          },
+          {
+            "kanji": "達成",
+            "reading": "たっせい"
+          },
+          {
+            "kanji": "重要",
+            "reading": "じゅうよう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "業務プロセスとは",
+      "vi": "Quy trình nghiệp vụ là gì",
+      "en": "What is Business Process"
+    },
+    {
+      "type": "paragraph",
+      "ja": "業務プロセスとは、一言でいうと「仕事の手順」です。第1章で「業務は手作業とシステムから構成される」と解説しました（p.21）。そして同時に、「システムはハードウェアとソフトウェアから構成される」と解説しました。このことから、業務とは「手作業とハードウェア、ソフトウェアを合わせたもの」といえます。また、「プロセス」の意味は「物事を進める手順」です。よって、業務プロセスとは「仕事の手順」という意味になります。\n\nなお、「業務プロセス」という用語の定義がITパスポート試験で問われることはありませんが、この用語は問題文や選択肢の中によく登場します。そのため、「業務プ",
+      "vi": "Quy trình nghiệp vụ nói ngắn gọn là thủ tục công việc. Chương 1 đã giải thích nghiệp vụ bao gồm công việc thủ công và hệ thống (trang 21). Đồng thời giải thích hệ thống bao gồm hardware và software. Từ đây, nghiệp vụ là tổng hợp công việc thủ công, hardware và software. Process nghĩa là thủ tục tiến hành công việc. Vì vậy, Business Process nghĩa là thủ tục công việc.\n\nLưu ý, định nghĩa thuật ngữ quy trình nghiệp vụ không được hỏi trong IT Passport, nhưng thuật ngữ này thường xuất hiện trong đề bài và đáp án.",
+      "en": "Business process, in short, means 'work procedures'. Chapter 1 explained that 'work consists of manual work and systems' (p.21). Simultaneously, 'systems consist of hardware and software'. Therefore, work is 'a combination of manual work, hardware, and software'. Also, 'process' means 'procedures for advancing things'. Thus, business process means 'work procedures'.\n\nNote that the definition of 'business process' isn't tested in IT Passport, but this term often appears in questions and choices.",
+      "my": "Business process ဆိုသည်မှာ အတိုချုပ်ပြောရလျှင် 'အလုပ်လုပ်ထုံးလုပ်နည်းများ' ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "一言",
+          "reading": "ひとこと"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "手順",
+          "reading": "てじゅん"
+        },
+        {
+          "kanji": "第",
+          "reading": "だい"
+        },
+        {
+          "kanji": "章",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "手作業",
+          "reading": "てさぎょう"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "同時",
+          "reading": "どうじ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "物事",
+          "reading": "ものごと"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "問題文",
+          "reading": "もんだいぶん"
+        },
+        {
+          "kanji": "選択肢",
+          "reading": "せんたくし"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "業務プロセス",
+      "reading": "ぎょうむぷろせす",
+      "romaji": "Gyoumu Process",
+      "vi": "Quy trình nghiệp vụ",
+      "en": "Business Process",
+      "my": "စီးပွားရေး လုပ်ငန်းစဉ်"
+    },
+    {
+      "kanji": "DFD",
+      "reading": "でぃーえふでぃー",
+      "romaji": "Data Flow Diagram",
+      "vi": "Sơ đồ luồng dữ liệu",
+      "en": "Data Flow Diagram",
+      "my": "ဒေတာစီးဆင်းမှု ပုံကြမ်း"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

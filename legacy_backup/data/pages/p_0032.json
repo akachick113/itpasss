@@ -1,0 +1,380 @@
+{
+  "page_id": 32,
+  "image": "p_0032.png",
+  "chapter": 1,
+  "section": "01-02",
+  "page_number": 16,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験で頻繁に出題されるCSRの関連用語は以下の4つです。",
+      "vi": "Có 4 thuật ngữ liên quan đến CSR thường xuyên được ra đề trong kỳ thi IT Passport:",
+      "en": "There are 4 CSR-related terms frequently asked in the IT Passport exam:",
+      "my": "IT Passport စာမေးပွဲတွင် မကြာခဏမေးသော CSR ဆိုင်ရာ ဝေါဟာရ ၄ ခုရှိသည်:",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "頻繁",
+          "reading": "ひんぱん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "関連用語",
+          "reading": "かんれんようご"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "CSRの関連用語",
+        "vi": "Các thuật ngữ liên quan đến CSR",
+        "en": "CSR-related Terms"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "グリーンIT",
+            "CSRの1つ。地球環境に優しいITのこと。ITを使って社会の省エネを推進し、環境を保護していくという考え方。消費電力を抑えた省エネ型のサーバの開発や、資料をなるべく印刷せずに、ディスプレイで閲覧することもグリーンITの1つ"
+          ],
+          "vi": [
+            "Green IT",
+            "Một phần của CSR. IT thân thiện với môi trường. Quan điểm sử dụng IT để thúc đẩy tiết kiệm năng lượng xã hội và bảo vệ môi trường. Phát triển máy chủ tiết kiệm năng lượng với mức tiêu thụ điện thấp, xem tài liệu trên màn hình thay vì in ra cũng là một phần của Green IT"
+          ],
+          "en": [
+            "Green IT",
+            "Part of CSR. Environmentally-friendly IT. The concept of using IT to promote social energy conservation and environmental protection. Developing energy-saving servers with low power consumption, viewing documents on display instead of printing is also part of Green IT"
+          ]
+        },
+        {
+          "ja": [
+            "DE&I (ディー・イー・アンド・アイ)",
+            "CSRの1つ。多様性（Diversity）を尊重し、公平（Equity）な機会を提供し、すべての人が平等に参加できる包括的（Inclusion）な環境を作る取り組み"
+          ],
+          "vi": [
+            "DE&I",
+            "Một phần của CSR. Nỗ lực tôn trọng sự đa dạng (Diversity), cung cấp cơ hội công bằng (Equity), và tạo ra môi trường bao trùm (Inclusion) nơi mọi người có thể tham gia bình đẳng"
+          ],
+          "en": [
+            "DE&I",
+            "Part of CSR. Efforts to respect Diversity, provide Equity in opportunities, and create an Inclusive environment where everyone can participate equally"
+          ]
+        },
+        {
+          "ja": [
+            "ソーシャルビジネス",
+            "子育てや介護、環境問題といった社会的課題を、ビジネスの手法を活用して解決していく企業活動のこと"
+          ],
+          "vi": [
+            "Social Business",
+            "Hoạt động doanh nghiệp giải quyết các vấn đề xã hội như nuôi dạy con cái, chăm sóc người già, vấn đề môi trường bằng cách áp dụng phương pháp kinh doanh"
+          ],
+          "en": [
+            "Social Business",
+            "Corporate activities that solve social issues such as childcare, elderly care, and environmental problems using business methods"
+          ]
+        },
+        {
+          "ja": [
+            "SDGs (エスディージーズ)",
+            "持続可能な世界を実現するための17の国際目標。例えば「貧困をなくそう」「飢餓をゼロに」「住み続けられる街づくり」などがある。Sustainable Development Goals（持続可能な開発目標）の略称"
+          ],
+          "vi": [
+            "SDGs",
+            "17 mục tiêu quốc tế để thực hiện thế giới bền vững. Ví dụ: \"Xóa nghèo\", \"Không còn đói\", \"Xây dựng thành phố bền vững\", v.v. Viết tắt của Sustainable Development Goals (Mục tiêu Phát triển Bền vững)"
+          ],
+          "en": [
+            "SDGs",
+            "17 international goals to achieve a sustainable world. Examples: \"No Poverty\", \"Zero Hunger\", \"Sustainable Cities\", etc. Abbreviation of Sustainable Development Goals"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "グリーンITと農業",
+        "vi": "Green IT và Nông nghiệp",
+        "en": "Green IT and Agriculture",
+        "my": "Green IT နှင့် စိုက်ပျိုးရေး",
+        "terms": [
+          {
+            "kanji": "グリーンIT",
+            "reading": "ぐりーんあいてぃー"
+          }
+        ]
+      },
+      "content": {
+        "ja": "グリーンITの問題では「ITによる農業の効率化」のような内容の選択肢が含まれていることがありますが、この選択肢は誤答なので注意してください。ITによる農業の効率化は「スマート農業」と呼ばれる取り組みの1つです。これはグリーンITではありません。グリーンIT自体はくまでも「ITを使った環境保護」です。\n\nちなみに、ITパスポート試験は、経済産業省が認定する国家試験なので、経済産業省が「世に広めたい」と思っている用語が出題される傾向にあります。「グリーンIT」は経済産業省いち押しキーワードの1つなので、ここ数年はぜひ覚えておいてください。必ず覚えておいてください。",
+        "vi": "Trong câu hỏi về Green IT, có thể có lựa chọn như \"Hiệu quả hóa nông nghiệp bằng IT\", nhưng hãy chú ý đây là đáp án sai. Hiệu quả hóa nông nghiệp bằng IT là một phần của \"Smart Agriculture\". Đây không phải là Green IT. Green IT chỉ là \"Bảo vệ môi trường bằng IT\".\n\nNgoài ra, vì kỳ thi IT Passport là kỳ thi quốc gia được Bộ Kinh tế, Thương mại và Công nghiệp chứng nhận, nên có xu hướng ra đề các thuật ngữ mà Bộ muốn phổ biến. \"Green IT\" là một trong những từ khóa được Bộ đẩy mạnh, vì vậy hãy nhớ kỹ trong những năm gần đây.",
+        "en": "In Green IT questions, there may be options like \"IT-driven agricultural efficiency,\" but be careful as this is a wrong answer. IT-driven agricultural efficiency is part of \"Smart Agriculture.\" This is not Green IT. Green IT itself is only about \"environmental protection using IT.\"\n\nBy the way, since the IT Passport exam is a national exam certified by the Ministry of Economy, Trade and Industry, there's a tendency to test terms the Ministry wants to spread. \"Green IT\" is one of the Ministry's promoted keywords, so be sure to remember it in recent years.",
+        "my": "Green IT မေးခွန်းများတွင် \"IT ဖြင့် စိုက်ပျိုးရေးထိရောက်မှု\" ကဲ့သို့ ရွေးချယ်စရာများ ပါဝင်နိုင်သော်လည်း ဤသည်မှာ အဖြေမှားဖြစ်၍ သတိပြုပါ။",
+        "terms": [
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "農業",
+            "reading": "のうぎょう"
+          },
+          {
+            "kanji": "効率化",
+            "reading": "こうりつか"
+          },
+          {
+            "kanji": "内容",
+            "reading": "ないよう"
+          },
+          {
+            "kanji": "選択肢",
+            "reading": "せんたくし"
+          },
+          {
+            "kanji": "含",
+            "reading": "がん"
+          },
+          {
+            "kanji": "誤答",
+            "reading": "ごとう"
+          },
+          {
+            "kanji": "注意",
+            "reading": "ちゅうい"
+          },
+          {
+            "kanji": "呼",
+            "reading": "こ"
+          },
+          {
+            "kanji": "取",
+            "reading": "しゅ"
+          },
+          {
+            "kanji": "組",
+            "reading": "くみ"
+          },
+          {
+            "kanji": "自体",
+            "reading": "じたい"
+          },
+          {
+            "kanji": "使",
+            "reading": "し"
+          },
+          {
+            "kanji": "環境保護",
+            "reading": "かんきょうほご"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "経済産業省",
+            "reading": "けいざいさんぎょうしょう"
+          },
+          {
+            "kanji": "認定",
+            "reading": "にんてい"
+          },
+          {
+            "kanji": "国家試験",
+            "reading": "こっかしけん"
+          },
+          {
+            "kanji": "世",
+            "reading": "よ"
+          },
+          {
+            "kanji": "広",
+            "reading": "こう"
+          },
+          {
+            "kanji": "思",
+            "reading": "おもい"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "傾向",
+            "reading": "けいこう"
+          },
+          {
+            "kanji": "押",
+            "reading": "おう"
+          },
+          {
+            "kanji": "数年",
+            "reading": "すうねん"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          },
+          {
+            "kanji": "必",
+            "reading": "ひつ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・CSRとは、企業の社会的責任\n・グリーンITとは、ITを使った環境保護\n・ソーシャルビジネスとは、子育てや介護、環境問題などの社会的課題を、ビジネスの手法を活用して解決していく企業活動\n・SDGsとは、持続可能な世界を実現するための17の国際目標",
+        "vi": "・CSR là trách nhiệm xã hội của doanh nghiệp\n・Green IT là bảo vệ môi trường bằng IT\n・Social Business là hoạt động doanh nghiệp giải quyết vấn đề xã hội như nuôi con, chăm sóc người già, môi trường bằng phương pháp kinh doanh\n・SDGs là 17 mục tiêu quốc tế để thực hiện thế giới bền vững",
+        "en": "・CSR is corporate social responsibility\n・Green IT is environmental protection using IT\n・Social Business is corporate activities that solve social issues like childcare, elderly care, and environment using business methods\n・SDGs are 17 international goals to achieve a sustainable world",
+        "my": "・CSR သည် ကုမ္ပဏီ၏ လူမှုရေးတာဝန်ဖြစ်သည်\n・Green IT သည် IT သုံး၍ ပတ်ဝန်းကျင်ကာကွယ်ခြင်းဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "社会的責任",
+            "reading": "しゃかいてきせきにん"
+          },
+          {
+            "kanji": "使",
+            "reading": "し"
+          },
+          {
+            "kanji": "環境保護",
+            "reading": "かんきょうほご"
+          },
+          {
+            "kanji": "子育",
+            "reading": "こそだて"
+          },
+          {
+            "kanji": "介護",
+            "reading": "かいご"
+          },
+          {
+            "kanji": "環境問題",
+            "reading": "かんきょうもんだい"
+          },
+          {
+            "kanji": "社会的課題",
+            "reading": "しゃかいてきかだい"
+          },
+          {
+            "kanji": "手法",
+            "reading": "しゅほう"
+          },
+          {
+            "kanji": "活用",
+            "reading": "かつよう"
+          },
+          {
+            "kanji": "解決",
+            "reading": "かいけつ"
+          },
+          {
+            "kanji": "企業活動",
+            "reading": "きぎょうかつどう"
+          },
+          {
+            "kanji": "持続可能",
+            "reading": "じぞくかのう"
+          },
+          {
+            "kanji": "世界",
+            "reading": "せかい"
+          },
+          {
+            "kanji": "実現",
+            "reading": "じつげん"
+          },
+          {
+            "kanji": "国際目標",
+            "reading": "こくさいもくひょう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "グリーンIT",
+      "reading": "ぐりーんあいてぃー",
+      "romaji": "Green IT",
+      "vi": "IT xanh, IT thân thiện môi trường",
+      "en": "Green IT",
+      "my": "စိမ်း IT"
+    },
+    {
+      "kanji": "DE&I",
+      "reading": "でぃーいーあんどあい",
+      "romaji": "DE&I",
+      "vi": "Đa dạng, Công bằng và Bao trùm",
+      "en": "Diversity, Equity & Inclusion",
+      "my": "ကွဲပြားမှု တရားမျှမမှု ပါဝင်မှု"
+    },
+    {
+      "kanji": "ソーシャルビジネス",
+      "reading": "そーしゃるびじねす",
+      "romaji": "Soosharu Bijinesu",
+      "vi": "Kinh doanh xã hội",
+      "en": "Social Business",
+      "my": "လူမှုရေးစီးပွားရေး"
+    },
+    {
+      "kanji": "SDGs",
+      "reading": "えすでぃーじーず",
+      "romaji": "SDGs",
+      "vi": "Mục tiêu Phát triển Bền vững",
+      "en": "Sustainable Development Goals",
+      "my": "ရေရှည်ဖွံ့ဖြိုးတိုးတက်ရေးပန်းမှတ်များ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

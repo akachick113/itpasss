@@ -1,0 +1,352 @@
+{
+  "page_id": 400,
+  "image": "p_0400.png",
+  "chapter": 10,
+  "section": "10-05",
+  "page_number": 384,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "MTBFが大きいシステムほど信頼性が高く、MTBFが小さいシステムほど信頼性が低いといえます。MTBFを大きくするには、定期的にシステムをメンテナンスすることが必要です。古くなったハードウェアを交換することで、故障を未然に防げます。ITパスポート試験では、このMTBFを高めるメンテナンスのことを「予防保守」と表現します。",
+      "vi": "Có thể nói hệ thống có MTBF lớn thì độ tin cậy cao, hệ thống có MTBF nhỏ thì độ tin cậy thấp. Để tăng MTBF, cần bảo trì hệ thống định kỳ. Bằng cách thay thế phần cứng cũ, có thể ngăn ngừa sự cố từ trước. Trong kỳ thi IT Passport, việc bảo trì để tăng MTBF này được gọi là \"bảo trì phòng ngừa\".",
+      "en": "Can say system with large MTBF has high reliability, system with small MTBF has low reliability. To increase MTBF, need to maintain system regularly. By replacing old hardware, can prevent failures beforehand. In IT Passport exam, this maintenance to increase MTBF is called 'preventive maintenance.'",
+      "terms": [
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "信頼性",
+          "reading": "しんらいせい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "小",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "定期的",
+          "reading": "ていきてき"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "古",
+          "reading": "こ"
+        },
+        {
+          "kanji": "交換",
+          "reading": "こうかん"
+        },
+        {
+          "kanji": "故障",
+          "reading": "こしょう"
+        },
+        {
+          "kanji": "未然",
+          "reading": "みぜん"
+        },
+        {
+          "kanji": "防",
+          "reading": "ぼう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "予防保守",
+          "reading": "よぼうほしゅ"
+        },
+        {
+          "kanji": "表現",
+          "reading": "ひょうげん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "MTTR",
+      "reading": "エムティーティーアール",
+      "vi": "MTTR",
+      "en": "MTTR",
+      "exam_note": "★要チェック！MTBFとの違いに注目！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "MTTR（Mean Time To Repair：平均修理時間）とは、修理（Repair）にかかった時間、つまり、システムが稼働していなかった時間の平均値です。MTTRはシステムの保守性を表す指標の1つです。MTTRは、次の式で求めます。",
+      "vi": "MTTR (Mean Time To Repair: Thời gian sửa chữa trung bình) là thời gian cần cho sửa chữa (Repair), tức là giá trị trung bình của thời gian hệ thống không hoạt động. MTTR là một trong các chỉ số biểu thị tính bảo trì của hệ thống. MTTR được tính bằng công thức sau.",
+      "en": "MTTR (Mean Time To Repair) is time spent on repair, meaning average time system was not operating. MTTR is one metric representing system maintainability. MTTR is calculated by following formula.",
+      "terms": [
+        {
+          "kanji": "平均修理時間",
+          "reading": "へいきんしゅうりじかん"
+        },
+        {
+          "kanji": "修理",
+          "reading": "しゅうり"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "稼働",
+          "reading": "かどう"
+        },
+        {
+          "kanji": "平均値",
+          "reading": "へいきんち"
+        },
+        {
+          "kanji": "保守性",
+          "reading": "ほしゅせい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "指標",
+          "reading": "しひょう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "式",
+          "reading": "しき"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        }
+      ]
+    },
+    {
+      "type": "formula",
+      "content": {
+        "ja": "MTTR = 故障時間の合計 ÷ 故障の回数",
+        "vi": "MTTR = Tổng thời gian sự cố ÷ Số lần sự cố",
+        "en": "MTTR = Total Failure Time ÷ Number of Failures"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "次の図のような間隔で稼働しているシステムのMTTRは「60時間」となります。",
+      "vi": "MTTR của hệ thống hoạt động với khoảng cách như hình sau là \"60 giờ\".",
+      "en": "MTTR of system operating at intervals like following diagram is '60 hours.'",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "間隔",
+          "reading": "かんかく"
+        },
+        {
+          "kanji": "稼働",
+          "reading": "かどう"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "MTTR（平均修理時間）",
+        "vi": "MTTR (Thời gian sửa chữa trung bình)",
+        "en": "MTTR (Mean Time To Repair)"
+      },
+      "description": {
+        "ja": "故障期間：50時間→70時間→60時間。MTTR = (50 + 70 + 60) ÷ 3回 = 60時間",
+        "vi": "Thời gian sự cố: 50 giờ → 70 giờ → 60 giờ. MTTR = (50 + 70 + 60) ÷ 3 lần = 60 giờ",
+        "en": "Failure period: 50 hrs → 70 hrs → 60 hrs. MTTR = (50 + 70 + 60) ÷ 3 times = 60 hours"
+      },
+      "calculation": "MTTR = (50 + 70 + 60) ÷ 3回 = 60時間"
+    },
+    {
+      "type": "paragraph",
+      "ja": "MTTRが小さいシステムほど保守性が高く、MTTRが大きいシステムほど保守性が低いといえます。",
+      "vi": "Có thể nói hệ thống có MTTR nhỏ thì tính bảo trì cao, hệ thống có MTTR lớn thì tính bảo trì thấp.",
+      "en": "Can say system with small MTTR has high maintainability, system with large MTTR has low maintainability.",
+      "terms": [
+        {
+          "kanji": "小",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "保守性",
+          "reading": "ほしゅせい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "稼働率",
+      "reading": "かどうりつ",
+      "vi": "Tỉ lệ khả dụng",
+      "en": "Availability Rate",
+      "exam_note": "★要チェック！計算方法を覚えよう！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "稼働率とは、システムが故障せずに動いていた時間の割合です。稼働率は、次の式で求めます。稼働率は可用性（p.285）を表す指標の1つです。",
+      "vi": "Tỉ lệ khả dụng là tỉ lệ thời gian hệ thống hoạt động mà không gặp sự cố. Tỉ lệ khả dụng được tính bằng công thức sau. Tỉ lệ khả dụng là một trong các chỉ số biểu thị tính khả dụng (trang 285).",
+      "en": "Availability rate is ratio of time system operated without failure. Availability rate is calculated by following formula. Availability rate is one metric representing availability (p.285).",
+      "terms": [
+        {
+          "kanji": "稼働率",
+          "reading": "かどうりつ"
+        },
+        {
+          "kanji": "故障",
+          "reading": "こしょう"
+        },
+        {
+          "kanji": "動",
+          "reading": "どう"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "割合",
+          "reading": "わりあい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "式",
+          "reading": "しき"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "可用性",
+          "reading": "かようせい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "指標",
+          "reading": "しひょう"
+        }
+      ]
+    },
+    {
+      "type": "formula",
+      "content": {
+        "ja": "稼働率 = MTBF ÷ (MTBF + MTTR)",
+        "vi": "Tỉ lệ khả dụng = MTBF ÷ (MTBF + MTTR)",
+        "en": "Availability = MTBF ÷ (MTBF + MTTR)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "次の図のような間隔で稼働しているシステムの稼働率は約「0.68」となります。",
+      "vi": "Tỉ lệ khả dụng của hệ thống hoạt động với khoảng cách như hình sau là khoảng \"0.68\".",
+      "en": "Availability rate of system operating at intervals like following diagram is approximately '0.68.'",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "間隔",
+          "reading": "かんかく"
+        },
+        {
+          "kanji": "稼働",
+          "reading": "かどう"
+        },
+        {
+          "kanji": "稼働率",
+          "reading": "かどうりつ"
+        },
+        {
+          "kanji": "約",
+          "reading": "やく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "MTTR",
+      "full": "Mean Time To Repair",
+      "vi": "Thời gian sửa chữa trung bình",
+      "en": "Mean Time To Repair",
+      "my": "ပျမ်းမျှ ပြင်စိုအချိန်"
+    },
+    {
+      "kanji": "平均修理時間",
+      "reading": "へいきんしゅうりじかん",
+      "vi": "Thời gian sửa chữa trung bình",
+      "en": "Mean Time To Repair",
+      "my": "ပျမ်းမျှ ပြင်စိုအချိန်"
+    },
+    {
+      "kanji": "稼働率",
+      "reading": "かどうりつ",
+      "vi": "Tỉ lệ khả dụng",
+      "en": "Availability Rate",
+      "my": "လည်ပတ်နီ်နှုန်း"
+    },
+    {
+      "term": "予防保守",
+      "reading": "よぼうほしゅ",
+      "vi": "Bảo trì phòng ngừa",
+      "en": "Preventive Maintenance",
+      "my": "ကြိုတင်ပြင်ဆင် ပြုပြင်ထိန်းသိမ်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_formula": true,
+    "is_key_content": true
+  }
+}

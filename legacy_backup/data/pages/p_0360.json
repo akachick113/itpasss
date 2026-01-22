@@ -1,0 +1,334 @@
+{
+  "page_id": 360,
+  "image": "p_0360.png",
+  "chapter": 9,
+  "section": "09-07",
+  "page_number": 344,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "擬似言語の文法は「覚えなくてよい」",
+      "reading": "ぎじげんごのぶんぽうはおぼえなくてよい",
+      "vi": "Văn phạm ngôn ngữ giả \"không cần nhớ\"",
+      "en": "Pseudocode Grammar 'Doesn't Need Memorizing'"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験に出題される擬似言語の文法は、試験画面に記載されており、試験中も閲覧できるので、文法を暗記する必要はありません。この点、暗記が苦手な人にとっては朗報です。",
+      "vi": "Văn phạm ngôn ngữ giả ra trong kỳ thi IT Passport được ghi trên màn hình thi, có thể xem trong khi thi nên không cần nhớ văn phạm. Điểm này là tin vui cho người không giỏi nhớ.",
+      "en": "Pseudocode grammar appearing in IT Passport exam is displayed on exam screen and viewable during exam, so no need to memorize grammar. This is good news for those bad at memorization.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "擬似言語",
+          "reading": "ぎじげんご"
+        },
+        {
+          "kanji": "文法",
+          "reading": "ぶんぽう"
+        },
+        {
+          "kanji": "試験画面",
+          "reading": "しけんがめん"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        },
+        {
+          "kanji": "試験中",
+          "reading": "しけんちゅう"
+        },
+        {
+          "kanji": "閲覧",
+          "reading": "えつらん"
+        },
+        {
+          "kanji": "暗記",
+          "reading": "あんき"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "苦手",
+          "reading": "にがて"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "朗報",
+          "reading": "ろうほう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方で、記載内容を理解できるようになっておく必要はあるので注意してください。ITパスポート試験では以下のような形で、擬似言語の文法が記載されます。",
+      "vi": "Mặt khác, cần chú ý phải hiểu được nội dung ghi. Trong kỳ thi IT Passport, văn phạm ngôn ngữ giả được ghi như sau.",
+      "en": "On the other hand, need to understand written content, so be careful. In IT Passport exam, pseudocode grammar is written as follows.",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "記載内容",
+          "reading": "きさいないよう"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "形",
+          "reading": "かたち"
+        },
+        {
+          "kanji": "擬似言語",
+          "reading": "ぎじげんご"
+        },
+        {
+          "kanji": "文法",
+          "reading": "ぶんぽう"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "擬似言語の記述形式",
+        "vi": "Định dạng mô tả ngôn ngữ giả",
+        "en": "Pseudocode Description Format"
+      },
+      "headers": {
+        "ja": [
+          "記述形式",
+          "説明"
+        ],
+        "vi": [
+          "Định dạng",
+          "Giải thích"
+        ],
+        "en": [
+          "Format",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "format": "○ 手続名又は関数名",
+          "description": {
+            "ja": "手続又は関数を宣言する。",
+            "vi": "Khai báo thủ tục hoặc hàm.",
+            "en": "Declare procedure or function."
+          }
+        },
+        {
+          "format": "整数:変数名",
+          "description": {
+            "ja": "変数を宣言する。",
+            "vi": "Khai báo biến.",
+            "en": "Declare variable."
+          }
+        },
+        {
+          "format": "// 注釈 */",
+          "description": {
+            "ja": "注釈を記述する。",
+            "vi": "Mô tả chú thích.",
+            "en": "Describe comment."
+          }
+        },
+        {
+          "format": "変数名 ← 式",
+          "description": {
+            "ja": "変数に式の値を代入する。",
+            "vi": "Gán giá trị biểu thức vào biến.",
+            "en": "Assign expression value to variable."
+          }
+        },
+        {
+          "format": "手続名又は関数名(引数)",
+          "description": {
+            "ja": "手続又は関数を呼び出し、引数を受け渡す。",
+            "vi": "Gọi thủ tục hoặc hàm, truyền đối số.",
+            "en": "Call procedure or function, pass arguments."
+          }
+        },
+        {
+          "format": "if (条件式)",
+          "description": {
+            "ja": "条件判定をする。",
+            "vi": "Phán đoán điều kiện.",
+            "en": "Evaluate condition."
+          }
+        },
+        {
+          "format": "処理",
+          "description": {
+            "ja": "条件を上から評価し、最初に真になった条件式以下の処理を実行する。以降の条件式は評価せず、対応する処理も実行しない。",
+            "vi": "Đánh giá điều kiện từ trên, thực hiện xử lý dưới điều kiện đầu tiên thành đúng. Không đánh giá các điều kiện sau, không thực hiện xử lý tương ứng.",
+            "en": "Evaluate conditions from top, execute processing under first true condition. Don't evaluate subsequent conditions, don't execute corresponding processing."
+          }
+        },
+        {
+          "format": "elseif (条件式)",
+          "description": {
+            "ja": "elseif と同様に新たな条件分岐を行う。",
+            "vi": "Thực hiện phân nhánh điều kiện mới như elseif.",
+            "en": "Perform new conditional branching like elseif."
+          }
+        },
+        {
+          "format": "else",
+          "description": {
+            "ja": "どの条件も満たさない場合の処理を記述する。",
+            "vi": "Mô tả xử lý khi không thỏa điều kiện nào.",
+            "en": "Describe processing when no conditions are met."
+          }
+        },
+        {
+          "format": "endif",
+          "description": {
+            "ja": "条件判定の終了を示す。",
+            "vi": "Cho thấy kết thúc phán đoán điều kiện.",
+            "en": "Shows end of condition evaluation."
+          }
+        },
+        {
+          "format": "while (条件式)",
+          "description": {
+            "ja": "前判定繰返し処理。条件が真の間、処理を実行する。",
+            "vi": "Xử lý lặp phán đoán trước. Thực hiện xử lý trong khi điều kiện đúng.",
+            "en": "Pre-judgment loop. Execute processing while condition is true."
+          }
+        },
+        {
+          "format": "endwhile",
+          "description": {
+            "ja": "while文の終了を示す。",
+            "vi": "Cho thấy kết thúc lệnh while.",
+            "en": "Shows end of while statement."
+          }
+        },
+        {
+          "format": "do",
+          "description": {
+            "ja": "後判定繰返し処理を示す。",
+            "vi": "Cho thấy xử lý lặp phán đoán sau.",
+            "en": "Shows post-judgment loop processing."
+          }
+        },
+        {
+          "format": "while (条件式)",
+          "description": {
+            "ja": "条件式が真の間、処理を繰返し実行する。",
+            "vi": "Thực hiện lặp xử lý trong khi điều kiện đúng.",
+            "en": "Repeat processing while condition is true."
+          }
+        },
+        {
+          "format": "for (初期化式 to 終値式)",
+          "description": {
+            "ja": "初期化式の内容に基づいて、処理を繰返し実行する。",
+            "vi": "Thực hiện lặp xử lý dựa trên nội dung biểu thức khởi tạo.",
+            "en": "Repeat processing based on initialization expression content."
+          }
+        },
+        {
+          "format": "endfor",
+          "description": {
+            "ja": "for文の終了を示す。",
+            "vi": "Cho thấy kết thúc lệnh for.",
+            "en": "Shows end of for statement."
+          }
+        }
+      ],
+      "source": {
+        "ja": "出典：独立行政法人 情報処理推進機構「試験で使用する情報技術に関する用語・プログラム言語など Ver.5.1 p.2」等採「擬似言語の記述形式（ITパスポート試験用）」より一部抜粋",
+        "vi": "Nguồn: Trích từ IPA \"Định dạng mô tả ngôn ngữ giả (cho kỳ thi IT Passport)\" Ver.5.1 p.2",
+        "en": "Source: Excerpt from IPA 'Pseudocode Description Format (for IT Passport exam)' Ver.5.1 p.2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "記載内容が多いので、これを見てうんざりした人もいるかもしれませんが、1つずつ丁寧に解説していきますので、まずはざっと目を通しておいてください。",
+      "vi": "Vì nội dung ghi nhiều, có thể bạn chán khi thấy, nhưng sẽ giải thích từng cái một, trước tiên hãy đọc qua.",
+      "en": "Since there's much content, some may be overwhelmed seeing this, but will explain one by one, so first just skim through.",
+      "terms": [
+        {
+          "kanji": "記載内容",
+          "reading": "きさいないよう"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "丁寧",
+          "reading": "ていねい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "目",
+          "reading": "め"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "is_key_content": true
+  }
+}

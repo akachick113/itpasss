@@ -1,0 +1,300 @@
+{
+  "page_id": 229,
+  "image": "p_0229.png",
+  "chapter": 5,
+  "section": "05-08",
+  "page_number": 213,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "RFI",
+      "reading": "あーるえふあい",
+      "vi": "RFI",
+      "en": "RFI"
+    },
+    {
+      "type": "paragraph",
+      "ja": "RFI（Request For Information：情報提供依頼書）とは、ベンダーに対して、ベンダーの実績や技術、経験などの情報を送るように要求する文書です。RFIをベンダーに送付する目的は主に次の2つです。",
+      "vi": "RFI (Request For Information: Yêu cầu cung cấp thông tin) là tài liệu yêu cầu Vendor gửi thông tin về thành tích, công nghệ, kinh nghiệm của Vendor. Mục đích gửi RFI cho Vendor chủ yếu có 2 điểm sau.",
+      "en": "RFI (Request For Information) is a document requesting vendors to send information about their track record, technology, experience, etc. The purposes of sending RFI to vendors are mainly the following 2:",
+      "my": "RFI (Request For Information) သည် vendors များအား ၎င်းတို့၏ track record၊ technology၊ experience စသည်တို့အကြောင်း အချက်အလက်များ ပေးပို့ရန် တောင်းဆိုသော document ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "情報提供依頼書",
+          "reading": "じょうほうていきょういらいしょ"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "実績",
+          "reading": "じっせき"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "経験",
+          "reading": "けいけん"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "送",
+          "reading": "そう"
+        },
+        {
+          "kanji": "要求",
+          "reading": "ようきゅう"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "送付",
+          "reading": "そうふ"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（1）ベンダーの1次審査",
+      "vi": "(1) Sàng lọc sơ bộ Vendor",
+      "en": "(1) Vendor Primary Screening"
+    },
+    {
+      "type": "paragraph",
+      "ja": "RFIを送付する目的の1つめは、そのベンダーにシステム開発を発注しても良いかどうかを判断するためです。100社と見積もりのやり取りをしていたら、いつまで経ってもシステム開発に着手できません。\n\nそこで、まずはRFIを送付することで、相手の技術力や信頼度などを測ります。\n\nこのことから、RFIを送る目的はシステム開発の発注先を選定するための一次審査のため、ということもできます。",
+      "vi": "Mục đích thứ nhất của gửi RFI là để đánh giá có nên đặt hàng phát triển hệ thống cho Vendor đó không. Nếu trao đổi báo giá với 100 công ty, mãi không thể bắt đầu phát triển hệ thống.\n\nVì vậy, trước tiên gửi RFI để đo năng lực kỹ thuật và độ tin cậy của đối tác.\n\nTừ đây, có thể nói mục đích gửi RFI là để sàng lọc sơ bộ nhằm lựa chọn nhà phát triển hệ thống.",
+      "en": "The first purpose of sending RFI is to judge whether to order system development from that vendor. If exchanging quotes with 100 companies, system development can never begin.\n\nSo first, by sending RFI, you measure the partner's technical ability and reliability.\n\nFrom this, the purpose of sending RFI can be said to be for primary screening to select system development vendors.",
+      "my": "RFI ပေးပို့ခြင်း၏ ပထမ ရည်ရွယ်ချက်မှာ ထို vendor ထံမှ system development ကို order ပေးရန် ဆုံးဖြတ်ရန်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "送付",
+          "reading": "そうふ"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "発注",
+          "reading": "はっちゅう"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        },
+        {
+          "kanji": "社",
+          "reading": "しゃ"
+        },
+        {
+          "kanji": "見積",
+          "reading": "みつもり"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "経",
+          "reading": "けい"
+        },
+        {
+          "kanji": "着手",
+          "reading": "ちゃくしゅ"
+        },
+        {
+          "kanji": "相手",
+          "reading": "あいて"
+        },
+        {
+          "kanji": "技術力",
+          "reading": "ぎじゅつりょく"
+        },
+        {
+          "kanji": "信頼度",
+          "reading": "しんらいど"
+        },
+        {
+          "kanji": "測",
+          "reading": "そく"
+        },
+        {
+          "kanji": "送",
+          "reading": "そう"
+        },
+        {
+          "kanji": "発注先",
+          "reading": "はっちゅうさき"
+        },
+        {
+          "kanji": "選定",
+          "reading": "せんてい"
+        },
+        {
+          "kanji": "一次審査",
+          "reading": "いちじしんさ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（2）自社が知らない技術情報を得ること",
+      "vi": "(2) Thu thập thông tin kỹ thuật mà công ty mình không biết",
+      "en": "(2) Obtaining Technical Information Unknown to Your Company"
+    },
+    {
+      "type": "paragraph",
+      "ja": "RFIを送付する2つめの目的は、技術情報集めです。Webや書籍から得られる情報は、わざわざRFIを送付しなくても入手できます。しかし、企業が非公開にしている情報はRFIで取得する必要があります。RFIでない入手できないような非公開の情報の中には、自社が知らない最先端の技術が含まれていることもあります。\n\nRFIを受け取ったベンダーは、会社紹介のパンフレットや、製品のカタログ、技術動向などをまとめた資料を発注者側に返送します。",
+      "vi": "Mục đích thứ hai của gửi RFI là thu thập thông tin kỹ thuật. Thông tin từ Web hoặc sách có thể có được mà không cần gửi RFI. Tuy nhiên, thông tin mà doanh nghiệp không công khai cần lấy qua RFI. Trong thông tin không công khai chỉ có thể lấy qua RFI có thể có công nghệ tiên tiến nhất mà công ty mình không biết.\n\nVendor nhận RFI sẽ gửi lại tài liệu tổng hợp brochure giới thiệu công ty, catalog sản phẩm, xu hướng công nghệ cho bên đặt hàng.",
+      "en": "The second purpose of sending RFI is collecting technical information. Information from the web or books can be obtained without sending RFI. However, information companies keep private must be obtained through RFI. Non-public information obtainable only through RFI may contain cutting-edge technology your company doesn't know.\n\nVendors receiving RFI send back materials summarizing company introduction brochures, product catalogs, technology trends to the ordering party.",
+      "my": "RFI ပေးပို့ခြင်း၏ ဒုတိယ ရည်ရွယ်ချက်မှာ technical information စုဆောင်းခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "送付",
+          "reading": "そうふ"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "技術情報集",
+          "reading": "ぎじゅつじょうほうしゅう"
+        },
+        {
+          "kanji": "書籍",
+          "reading": "しょせき"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "入手",
+          "reading": "にゅうしゅ"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "非公開",
+          "reading": "ひこうかい"
+        },
+        {
+          "kanji": "取得",
+          "reading": "しゅとく"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "知",
+          "reading": "ち"
+        },
+        {
+          "kanji": "最先端",
+          "reading": "さいせんたん"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "会社紹介",
+          "reading": "かいしゃしょうかい"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "技術動向",
+          "reading": "ぎじゅつどうこう"
+        },
+        {
+          "kanji": "資料",
+          "reading": "しりょう"
+        },
+        {
+          "kanji": "発注者側",
+          "reading": "はっちゅうものがわ"
+        },
+        {
+          "kanji": "返送",
+          "reading": "へんそう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "情報提供依頼書",
+      "reading": "じょうほうていきょういらいしょ",
+      "romaji": "Jouhou Teikyou Iraisho",
+      "vi": "Thư yêu cầu cung cấp thông tin",
+      "en": "Request for Information",
+      "my": "အချက်အလက် တောင်းခံချက်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false
+  }
+}

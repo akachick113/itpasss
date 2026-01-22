@@ -1,0 +1,197 @@
+{
+  "page_id": 344,
+  "image": "p_0344.png",
+  "chapter": 9,
+  "section": "09-03",
+  "page_number": 328,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "09-03",
+      "title": {
+        "ja": "データの単位",
+        "vi": "Đơn vị Dữ liệu",
+        "en": "Data Units"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "コンピュータの世界の単位",
+        "vi": "Đơn vị trong thế giới máy tính",
+        "en": "Units in Computer World"
+      },
+      "content": {
+        "ja": "コンピュータの世界では、普段の生活であまり見慣れない「単位」を使います。",
+        "vi": "Trong thế giới máy tính, sử dụng \"đơn vị\" mà chúng ta không quen thấy trong cuộc sống hàng ngày.",
+        "en": "In computer world, 'units' not commonly seen in daily life are used."
+      },
+      "diagram": {
+        "ja": "並盛 → キロ盛 → メガ盛 → ギガ盛（ご飯の例え）",
+        "vi": "Bát thường → Kilo → Mega → Giga (ví dụ cơm)",
+        "en": "Regular → Kilo → Mega → Giga (rice bowl analogy)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここではビットやバイトといった「データの単位」を解説します。これらの用語の意味が直接ITパスポート試験で問われることはあまりありませんが、テクノロジ系分野全体の前提知識として、さまざまなところに登場するので、しっかり理解しておいてください。",
+      "vi": "Ở đây giải thích \"đơn vị dữ liệu\" như bit và byte. Ý nghĩa của những thuật ngữ này không thường được hỏi trực tiếp trong kỳ thi IT Passport, nhưng vì xuất hiện ở nhiều nơi như kiến thức nền tảng cho toàn bộ lĩnh vực Technology, hãy hiểu kỹ.",
+      "en": "Here, we explain 'data units' like bit and byte. Meaning of these terms isn't often directly asked in IT Passport exam, but understand them well as they appear in many places as foundational knowledge for entire Technology field.",
+      "terms": [
+        {
+          "kanji": "単位",
+          "reading": "たんい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "直接",
+          "reading": "ちょくせつ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "系分野全体",
+          "reading": "けいぶんやぜんたい"
+        },
+        {
+          "kanji": "前提知識",
+          "reading": "ぜんていちしき"
+        },
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ビットとバイト",
+      "reading": "びっととばいと",
+      "vi": "Bit và Byte",
+      "en": "Bit and Byte"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ビットとは、コンピュータが扱うデータの最小単位です。1ビットは「0」と「1」の2つの状態を表します。つまり、1ビットで表すことのできるデータ量は、2進数の1桁で表すことのできるデータ量と同じです。",
+      "vi": "Bit là đơn vị dữ liệu nhỏ nhất mà máy tính xử lý. 1 bit biểu diễn 2 trạng thái \"0\" và \"1\". Nghĩa là, lượng dữ liệu có thể biểu diễn bằng 1 bit bằng với lượng dữ liệu biểu diễn bằng 1 chữ số nhị phân.",
+      "en": "Bit is smallest data unit computer handles. 1 bit represents 2 states: '0' and '1.' That is, data amount representable by 1 bit equals data amount representable by 1 binary digit.",
+      "terms": [
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "最小単位",
+          "reading": "さいしょうたんい"
+        },
+        {
+          "kanji": "状態",
+          "reading": "じょうたい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "量",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "桁",
+          "reading": "けた"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "バイトは、8個のビットの集まりです。1ビットは2つの状態（0または1）を表せるので、1バイトでは256通りの状態を表すことができます（2の8乗）。",
+      "vi": "Byte là tập hợp 8 bit. 1 bit có thể biểu diễn 2 trạng thái (0 hoặc 1) nên 1 byte có thể biểu diễn 256 trạng thái (2 mũ 8).",
+      "en": "Byte is collection of 8 bits. 1 bit can represent 2 states (0 or 1), so 1 byte can represent 256 states (2 to power of 8).",
+      "terms": [
+        {
+          "kanji": "個",
+          "reading": "こ"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "状態",
+          "reading": "じょうたい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        },
+        {
+          "kanji": "乗",
+          "reading": "じょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ビット",
+      "romaji": "Bit",
+      "vi": "Bit",
+      "en": "Bit",
+      "definition": {
+        "ja": "コンピュータが扱うデータの最小単位",
+        "vi": "Đơn vị dữ liệu nhỏ nhất máy tính xử lý",
+        "en": "Smallest data unit computer handles"
+      },
+      "my": "ဘစ်"
+    },
+    {
+      "term": "バイト",
+      "romaji": "Byte",
+      "vi": "Byte",
+      "en": "Byte",
+      "definition": {
+        "ja": "8個のビットの集まり",
+        "vi": "Tập hợp 8 bit",
+        "en": "Collection of 8 bits"
+      },
+      "my": "ဘိုက်"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

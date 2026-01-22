@@ -1,0 +1,235 @@
+{
+  "page_id": 345,
+  "image": "p_0345.png",
+  "chapter": 9,
+  "section": "09-03",
+  "page_number": 329,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ビットとバイト",
+        "vi": "Bit và Byte",
+        "en": "Bit and Byte"
+      },
+      "content": {
+        "ja": "1ビット = 0か1が入る、8ビット = 1バイト",
+        "vi": "1 bit = chứa 0 hoặc 1, 8 bit = 1 byte",
+        "en": "1 bit = contains 0 or 1, 8 bits = 1 byte"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "さまざまなデータの単位",
+      "reading": "さまざまなでーたのたんい",
+      "vi": "Các đơn vị dữ liệu khác nhau",
+      "en": "Various Data Units"
+    },
+    {
+      "type": "paragraph",
+      "ja": "コンピュータの世界では、非常に大きな値や、小さな値を扱うことがあるため、それぞれのデータを簡潔に表すために、次の単位が用意されています。",
+      "vi": "Trong thế giới máy tính, vì xử lý giá trị rất lớn hoặc rất nhỏ, các đơn vị sau được chuẩn bị để biểu diễn mỗi dữ liệu ngắn gọn.",
+      "en": "In computer world, since very large or small values are handled, following units are prepared to express each data concisely.",
+      "terms": [
+        {
+          "kanji": "世界",
+          "reading": "せかい"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "小",
+          "reading": "ちい"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "簡潔",
+          "reading": "かんけつ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "単位",
+          "reading": "たんい"
+        },
+        {
+          "kanji": "用意",
+          "reading": "ようい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "データの単位",
+        "vi": "Đơn vị dữ liệu",
+        "en": "Data Units"
+      },
+      "headers": {
+        "ja": [
+          "単位",
+          "記号",
+          "10進数表記",
+          "累乗"
+        ],
+        "vi": [
+          "Đơn vị",
+          "Ký hiệu",
+          "Ký hiệu thập phân",
+          "Lũy thừa"
+        ],
+        "en": [
+          "Unit",
+          "Symbol",
+          "Decimal Notation",
+          "Power"
+        ]
+      },
+      "rows": [
+        {
+          "unit": "テラ (Tera)",
+          "symbol": "T",
+          "decimal": "1,000,000,000,000",
+          "power": "10¹²"
+        },
+        {
+          "unit": "ギガ (Giga)",
+          "symbol": "G",
+          "decimal": "1,000,000,000",
+          "power": "10⁹"
+        },
+        {
+          "unit": "メガ (Mega)",
+          "symbol": "M",
+          "decimal": "1,000,000",
+          "power": "10⁶"
+        },
+        {
+          "unit": "キロ (Kilo)",
+          "symbol": "k",
+          "decimal": "1,000",
+          "power": "10³"
+        },
+        {
+          "unit": "（基準）",
+          "symbol": "-",
+          "decimal": "1",
+          "power": "1"
+        },
+        {
+          "unit": "ミリ (Milli)",
+          "symbol": "m",
+          "decimal": "0.001",
+          "power": "10⁻³"
+        },
+        {
+          "unit": "マイクロ (Micro)",
+          "symbol": "μ",
+          "decimal": "0.000001",
+          "power": "10⁻⁶"
+        },
+        {
+          "unit": "ナノ (Nano)",
+          "symbol": "n",
+          "decimal": "0.000000001",
+          "power": "10⁻⁹"
+        },
+        {
+          "unit": "ピコ (Pico)",
+          "symbol": "p",
+          "decimal": "0.000000000001",
+          "power": "10⁻¹²"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、パソコンやスマートフォンの容量でおなじみの「1ギガバイト（1GB）」は、バイトに直すと「10億バイト」になり、ビットに直すと「80億ビット」になります。",
+      "vi": "Ví dụ, \"1 gigabyte (1GB)\" quen thuộc với dung lượng máy tính và smartphone, khi đổi sang byte là \"1 tỷ byte\", đổi sang bit là \"8 tỷ bit\".",
+      "en": "For example, '1 gigabyte (1GB)' familiar with PC and smartphone capacity, converts to '1 billion bytes' and '8 billion bits.'",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "容量",
+          "reading": "ようりょう"
+        },
+        {
+          "kanji": "直",
+          "reading": "ちょく"
+        },
+        {
+          "kanji": "億",
+          "reading": "おく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、慣習的に1キロバイトを「1,024バイト」と表すことがありますが、正しくは「1,000バイト」です。ITパスポート試験では、1キロバイトは1,000バイト、1メガバイトは1,000,000バイトとして扱われています。",
+      "vi": "Tham khảo, theo thói quen 1 kilobyte đôi khi được viết là \"1,024 byte\", nhưng chính xác là \"1,000 byte\". Trong kỳ thi IT Passport, 1 kilobyte là 1,000 byte, 1 megabyte là 1,000,000 byte.",
+      "en": "Note that conventionally 1 kilobyte is sometimes written as '1,024 bytes,' but correctly it's '1,000 bytes.' In IT Passport exam, 1 kilobyte is 1,000 bytes, 1 megabyte is 1,000,000 bytes.",
+      "terms": [
+        {
+          "kanji": "慣習的",
+          "reading": "かんしゅうてき"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！「k」だけ小文字",
+        "vi": "Chi tiết hơn! Chỉ \"k\" là chữ thường",
+        "en": "More Details! Only 'k' is Lowercase"
+      },
+      "content": {
+        "ja": "上記の一覧表を見ると、大きい数を表す記号のうち「k」だけが小文字です。これは、その他の記号が決まる前から「k(キロ)」は使われていて、小文字で定着していたからです。",
+        "vi": "Nhìn bảng trên, trong các ký hiệu biểu diễn số lớn chỉ có \"k\" là chữ thường. Đây là vì \"k (kilo)\" đã được sử dụng từ trước khi các ký hiệu khác được quyết định, và đã định hình với chữ thường.",
+        "en": "Looking at table above, only 'k' is lowercase among symbols representing large numbers. This is because 'k (kilo)' was used before other symbols were decided and became established as lowercase."
+      }
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_table": true
+  }
+}

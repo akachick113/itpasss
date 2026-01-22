@@ -1,0 +1,398 @@
+{
+  "page_id": 333,
+  "image": "p_0333.png",
+  "chapter": 9,
+  "section": "09-01",
+  "page_number": 317,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "2進数の例",
+        "vi": "Ví dụ số nhị phân",
+        "en": "Binary Example"
+      },
+      "content": {
+        "ja": "0 1 10 11 100 101 110 111 1000 1001 1010（2で桁が上がる＝2桁になる、3桁になる、4桁になる）",
+        "vi": "0 1 10 11 100 101 110 111 1000 1001 1010 (Tăng chữ số ở 2 = thành 2 chữ số, 3 chữ số, 4 chữ số)",
+        "en": "0 1 10 11 100 101 110 111 1000 1001 1010 (Digit increases at 2 = becomes 2, 3, 4 digits)"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "16進数",
+      "reading": "じゅうろくしんすう",
+      "vi": "Số thập lục phân",
+      "en": "Hexadecimal"
+    },
+    {
+      "type": "paragraph",
+      "ja": "16進数とは、値が16になるときに桁が1つ上がる表記法です。なお、私たちが普段使っているアラビア数字には0～9までの10種類しか数字記号が存在しません。そのため、16進数では、10～15までの値を、AからFまでのアルファベットを使って表します。例えば、10進数の「10」は、16進数では「A」となります。また、10進数の「15」は、16進数では「F」となります。",
+      "vi": "Số thập lục phân là ký pháp mà khi giá trị đạt 16 thì tăng lên 1 chữ số. Tuy nhiên, trong chữ số Ả Rập chúng ta sử dụng hàng ngày chỉ có 10 loại ký hiệu số từ 0-9. Do đó, trong số thập lục phân, giá trị từ 10-15 được biểu diễn bằng chữ cái từ A đến F. Ví dụ, \"10\" của số thập phân là \"A\" trong số thập lục phân. Ngoài ra, \"15\" của số thập phân là \"F\" trong số thập lục phân.",
+      "en": "Hexadecimal is notation where digit increases by 1 when value becomes 16. However, Arabic numerals we normally use only have 10 digit symbols from 0-9. Therefore, in hexadecimal, values 10-15 are represented using alphabets A to F. For example, decimal '10' becomes 'A' in hexadecimal. Also, decimal '15' becomes 'F' in hexadecimal.",
+      "terms": [
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "桁",
+          "reading": "けた"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "表記法",
+          "reading": "ひょうきほう"
+        },
+        {
+          "kanji": "私",
+          "reading": "わたし"
+        },
+        {
+          "kanji": "普段使",
+          "reading": "ふだんし"
+        },
+        {
+          "kanji": "数字",
+          "reading": "すうじ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "数字記号",
+          "reading": "すうじきごう"
+        },
+        {
+          "kanji": "存在",
+          "reading": "そんざい"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "16進数の例",
+        "vi": "Ví dụ số thập lục phân",
+        "en": "Hexadecimal Example"
+      },
+      "content": {
+        "ja": "0 1 2 3 4 5 6 7 8 9 A B C D E F 10 11 12 13 14 15（16で桁が上がる＝2桁になる）",
+        "vi": "0 1 2 3 4 5 6 7 8 9 A B C D E F 10 11 12 13 14 15 (Tăng chữ số ở 16 = thành 2 chữ số)",
+        "en": "0 1 2 3 4 5 6 7 8 9 A B C D E F 10 11 12 13 14 15 (Digit increases at 16 = becomes 2 digits)"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "なぜ複数の表記法が存在するのか",
+      "reading": "なぜふくすうのひょうきほうがそんざいするのか",
+      "vi": "Tại sao tồn tại nhiều ký pháp",
+      "en": "Why Multiple Notations Exist"
+    },
+    {
+      "type": "paragraph",
+      "ja": "16進数のように、多くの記号を使えば、1桁で大きな数を表すことが可能になります。例えば64進数であれば1桁で64個の値を表すことができるようになります。しかし、だからといって多くの記号を使うことが便利かというと、決してそのようなことはありません。例えば「リンゴがC個」といわれても直感的に理解できる人は少ないでしょう（もちろん「使い慣れていないから」という理由もあると思います）。",
+      "vi": "Giống như số thập lục phân, nếu sử dụng nhiều ký hiệu thì có thể biểu diễn số lớn với 1 chữ số. Ví dụ, với hệ 64 có thể biểu diễn 64 giá trị với 1 chữ số. Tuy nhiên, điều đó không có nghĩa là sử dụng nhiều ký hiệu là tiện lợi. Ví dụ, nói \"có C quả táo\" thì ít người hiểu được ngay (tất nhiên cũng vì \"chưa quen sử dụng\").",
+      "en": "Like hexadecimal, using many symbols allows representing large numbers in 1 digit. For example, base-64 can represent 64 values in 1 digit. However, using many symbols isn't necessarily convenient. For example, saying 'C apples' isn't intuitive for most people (of course 'not being familiar' is also a reason).",
+      "terms": [
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "記号",
+          "reading": "きごう"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "桁",
+          "reading": "けた"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "個",
+          "reading": "こ"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "便利",
+          "reading": "べんり"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "直感的",
+          "reading": "ちょっかんてき"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "少",
+          "reading": "すく"
+        },
+        {
+          "kanji": "慣",
+          "reading": "かん"
+        },
+        {
+          "kanji": "理由",
+          "reading": "りゆう"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方、コンピュータは違います。コンピュータの頭脳は集積回路（IC：Integrated Circuit）と呼ばれる電子部品で構成されているのですが、この集積回路は電圧が高いか、低いかの2通りしか判別できません。",
+      "vi": "Mặt khác, máy tính thì khác. Bộ não của máy tính được cấu thành từ linh kiện điện tử gọi là mạch tích hợp (IC: Integrated Circuit), và mạch tích hợp này chỉ có thể phân biệt 2 trạng thái: điện áp cao hoặc thấp.",
+      "en": "On other hand, computers are different. Computer brain is composed of electronic components called integrated circuits (IC), and these can only distinguish 2 states: high voltage or low voltage.",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "頭脳",
+          "reading": "ずのう"
+        },
+        {
+          "kanji": "集積回路",
+          "reading": "しゅうせきかいろ"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "電子部品",
+          "reading": "でんしぶひん"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "電圧",
+          "reading": "でんあつ"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        },
+        {
+          "kanji": "判別",
+          "reading": "はんべつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このため、コンピュータの世界では基本的に、電圧が低い状態を「0」、電圧が高い状態を「1」とする2進数ですべての処理が行われています。したがって、コンピュータの計算や処理をきちんと理解するには、2進数のことを理解しておくことが必要です。",
+      "vi": "Do đó, trong thế giới máy tính về cơ bản, mọi xử lý được thực hiện bằng số nhị phân với trạng thái điện áp thấp là \"0\" và trạng thái điện áp cao là \"1\". Vì vậy, để hiểu đúng phép tính và xử lý của máy tính, cần hiểu về số nhị phân.",
+      "en": "Therefore, in computer world basically, all processing is done in binary with low voltage as '0' and high voltage as '1.' So to properly understand computer calculations and processing, understanding binary is necessary.",
+      "terms": [
+        {
+          "kanji": "世界",
+          "reading": "せかい"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "電圧",
+          "reading": "でんあつ"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "状態",
+          "reading": "じょうたい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、次ページの例を見てもわかるとおり、2進数では桁数が膨大になるため、コンピュータは処理の内容や目的に合わせて、10進数や16進数に置き換えた値を表示することがあります。このため、10進数や16進数の基本的な理解も必要になります。",
+      "vi": "Ngoài ra, như có thể thấy trong ví dụ trang sau, vì số nhị phân có số chữ số khổng lồ nên máy tính đôi khi hiển thị giá trị được chuyển đổi sang số thập phân hoặc số thập lục phân tùy theo nội dung và mục đích xử lý. Do đó, cũng cần hiểu cơ bản về số thập phân và số thập lục phân.",
+      "en": "Also, as seen in next page example, since binary has huge number of digits, computers sometimes display values converted to decimal or hexadecimal depending on processing content and purpose. Therefore, basic understanding of decimal and hexadecimal is also needed.",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "桁数",
+          "reading": "けたすう"
+        },
+        {
+          "kanji": "膨大",
+          "reading": "ぼうだい"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "換",
+          "reading": "かん"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "has_diagram": true
+  }
+}

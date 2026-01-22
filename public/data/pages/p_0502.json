@@ -1,0 +1,135 @@
+{
+  "page_id": 502,
+  "image": "p_0502.png",
+  "chapter": 14,
+  "section": "14-02",
+  "page_number": 486,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "14-02",
+      "title": {
+        "ja": "ネットワーク機器",
+        "vi": "Thiết bị mạng",
+        "en": "Network Devices"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "インターネットへの出入口",
+        "vi": "Cổng vào ra Internet",
+        "en": "Gateway to Internet"
+      },
+      "content": {
+        "ja": "家の中から外へ出かけるときは、玄関を通ります。ネットワークでも、家の中のLANから、家の外のインターネットへ出るときには、出入口となる機器を通ります。",
+        "vi": "Khi ra ngoài từ trong nhà, phải đi qua cửa chính. Trong mạng cũng vậy, khi từ LAN trong nhà ra Internet bên ngoài, phải đi qua thiết bị làm cổng vào ra.",
+        "en": "When going outside from inside house, pass through entrance. In network too, when going from LAN inside house to Internet outside, pass through device serving as gateway."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "主なネットワーク機器",
+      "vi": "Thiết bị mạng chính",
+      "en": "Main Network Devices"
+    },
+    {
+      "type": "paragraph",
+      "ja": "コンピュータとコンピュータをネットワークでつなぐためには、さまざまな機器や仕組みが必要です。ITパスポート試験では、重要なネットワーク機器の役割や基本的な仕組みなどが問われます。",
+      "vi": "Để kết nối máy tính với máy tính bằng mạng, cần nhiều thiết bị và cơ chế khác nhau. Trong kỳ thi IT Passport, vai trò và cơ chế cơ bản của thiết bị mạng quan trọng được hỏi.",
+      "en": "To connect computers with network, various devices and mechanisms needed. In IT Passport exam, roles and basic mechanisms of important network devices are asked.",
+      "terms": [
+        {
+          "kanji": "機器",
+          "reading": "きき"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ハブ",
+      "vi": "Hub",
+      "en": "Hub"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ハブ",
+        "vi": "Hub",
+        "en": "Hub"
+      },
+      "definition": {
+        "ja": "ハブとは、複数のコンピュータをネットワークに接続するための機器です。ハブには複数のポート（ケーブルの接続口）が用意されており、その数だけコンピュータを接続できます。",
+        "vi": "Hub là thiết bị để kết nối nhiều máy tính vào mạng. Hub có nhiều cổng (đầu nối cáp), và có thể kết nối số lượng máy tính bằng số cổng đó.",
+        "en": "Hub is device for connecting multiple computers to network. Hub has multiple ports (cable connection points), and can connect that many computers."
+      }
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ハブ",
+        "vi": "Hub",
+        "en": "Hub"
+      },
+      "description": {
+        "ja": "ハブ機器（複数のポートあり）にケーブルを接続して、複数のノートパソコンをネットワークでつなぐ図",
+        "vi": "Hình minh họa kết nối cáp vào thiết bị Hub (có nhiều cổng) để kết nối nhiều laptop trong mạng",
+        "en": "Diagram showing cables connected to Hub device (with multiple ports) to connect multiple laptops in network"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ハブ",
+      "vi": "Hub",
+      "en": "Hub",
+      "my": "ဟန်"
+    },
+    {
+      "term": "ポート",
+      "vi": "Cổng (Port)",
+      "en": "Port",
+      "my": "ပေါ့"
+    },
+    {
+      "term": "ネットワーク機器",
+      "vi": "Thiết bị mạng",
+      "en": "Network Device",
+      "my": "နက်ဝက် စက်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

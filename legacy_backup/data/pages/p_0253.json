@@ -1,0 +1,244 @@
+{
+  "page_id": 253,
+  "image": "p_0253.png",
+  "chapter": 6,
+  "section": "06-05",
+  "page_number": 237,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "06-05",
+      "title": {
+        "ja": "テストとソフトウェア受入れ",
+        "vi": "Kiểm thử và Nghiệm thu phần mềm",
+        "en": "Testing and Software Acceptance"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "システム開発の仕上げ",
+        "vi": "Hoàn thiện phát triển hệ thống",
+        "en": "Finishing System Development"
+      },
+      "content": {
+        "ja": "プログラミングが終わったら、そのプログラムや、システム全体がきちんと動作するかを確認する工程に入っていきます。",
+        "vi": "Khi lập trình kết thúc, sẽ bước vào công đoạn kiểm tra xem chương trình đó và toàn bộ hệ thống có hoạt động đúng không.",
+        "en": "Once programming is finished, you enter the phase to verify if that program and the entire system work properly."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "プログラミングが完了したら、続いて、作成したプログラム単体やシステム全体が正しく動くかテストを行います。",
+      "vi": "Khi lập trình hoàn thành, tiếp theo sẽ thực hiện kiểm thử xem chương trình đơn lẻ đã tạo và toàn bộ hệ thống có hoạt động đúng không.",
+      "en": "Once programming is complete, next is testing whether the created individual programs and entire system work correctly.",
+      "terms": [
+        {
+          "kanji": "完了",
+          "reading": "かんりょう"
+        },
+        {
+          "kanji": "続",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "単体",
+          "reading": "たんたい"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "動",
+          "reading": "どう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、テストに関して、ITパスポート試験では「システムテスト」「結合テスト」「ブラックボックステスト」「ホワイトボックステスト」「ソフトウェア受入れ」の5つの用語がよく出題されます。この5つの用語を念頭に読み進めてください。",
+      "vi": "Ngoài ra, về kiểm thử, trong kỳ thi IT Passport thường ra 5 thuật ngữ: \"System Test\", \"Integration Test\", \"Black Box Test\", \"White Box Test\", \"Software Acceptance\". Hãy đọc tiếp với 5 thuật ngữ này trong đầu.",
+      "en": "Also, regarding testing, IT Passport exams often test 5 terms: 'System Test,' 'Integration Test,' 'Black Box Test,' 'White Box Test,' 'Software Acceptance.' Please read keeping these 5 terms in mind.",
+      "terms": [
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "結合",
+          "reading": "けつごう"
+        },
+        {
+          "kanji": "受入",
+          "reading": "うけいれ"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "念頭",
+          "reading": "ねんとう"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "テスト",
+      "reading": "てすと",
+      "vi": "Kiểm thử",
+      "en": "Testing"
+    },
+    {
+      "type": "paragraph",
+      "ja": "テストとは、システムが仕様どおりに動くかを確認する工程です。不具合が残ったままでは、システムは正しく動作しません。事前にテストを行い、不具合がないことを確認し、不具合があった場合は修正します。",
+      "vi": "Kiểm thử là công đoạn xác nhận hệ thống có hoạt động đúng theo thông số không. Nếu còn lỗi, hệ thống sẽ không hoạt động đúng. Thực hiện kiểm thử trước, xác nhận không có lỗi, nếu có lỗi thì sửa.",
+      "en": "Testing is the phase to confirm whether the system works according to specifications. If bugs remain, the system won't work correctly. Test in advance, confirm there are no bugs, and fix if there are any.",
+      "terms": [
+        {
+          "kanji": "仕様",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "動",
+          "reading": "どう"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "工程",
+          "reading": "こうてい"
+        },
+        {
+          "kanji": "不具合",
+          "reading": "ふぐあい"
+        },
+        {
+          "kanji": "残",
+          "reading": "ざん"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "動作",
+          "reading": "どうさ"
+        },
+        {
+          "kanji": "事前",
+          "reading": "じぜん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "修正",
+          "reading": "しゅうせい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "また、それと同時に、要件定義プロセス（p.210）で明確にした「業務に必要な条件（業務要件）」がきちんと実現されているかも確認します。",
+      "vi": "Đồng thời, cũng xác nhận \"điều kiện cần thiết cho nghiệp vụ (yêu cầu nghiệp vụ)\" đã làm rõ trong Quy trình định nghĩa yêu cầu (trang 210) có được thực hiện đúng không.",
+      "en": "At the same time, confirm whether 'conditions necessary for business (business requirements)' clarified in the Requirements Definition Process (p.210) are properly realized.",
+      "terms": [
+        {
+          "kanji": "同時",
+          "reading": "どうじ"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "業務要件",
+          "reading": "ぎょうむようけん"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "テスト",
+      "reading": "てすと",
+      "romaji": "Test",
+      "vi": "Kiểm thử",
+      "en": "Testing",
+      "my": "စမ်းသပ်ခြင်း"
+    },
+    {
+      "kanji": "不具合",
+      "reading": "ふぐあい",
+      "romaji": "Fuguai",
+      "vi": "Lỗi/Sự cố",
+      "en": "Bug/Defect",
+      "my": "အမှား/ချို့ယွင်း"
+    }
+  ],
+  "meta": {
+    "has_illustration": true
+  }
+}

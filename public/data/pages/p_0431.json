@@ -1,0 +1,347 @@
+{
+  "page_id": 431,
+  "image": "p_0431.png",
+  "chapter": 11,
+  "section": "11-06",
+  "page_number": 415,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "ケーブルを通して周辺装置に電力を送る方式です。バスパワー機能のない入出力インタフェースのことを「セルフパワー」といいますが、こちらの場合は、ACアダプターなどを使って電力を別途調達する必要があります。",
+      "vi": "Là phương thức gửi điện đến thiết bị ngoại vi thông qua cáp. Giao diện nhập xuất không có chức năng Bus Power được gọi là \"Self Power\", nhưng trong trường hợp này, cần cung cấp điện riêng bằng bộ chuyển đổi AC, v.v.",
+      "en": "Method of sending power to peripheral devices through cable. I/O interface without Bus Power function is called 'Self Power,' but in this case, need to separately supply power using AC adapter, etc.",
+      "terms": [
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        },
+        {
+          "kanji": "周辺装置",
+          "reading": "しゅうへんそうち"
+        },
+        {
+          "kanji": "電力",
+          "reading": "でんりょく"
+        },
+        {
+          "kanji": "送",
+          "reading": "おく"
+        },
+        {
+          "kanji": "方式",
+          "reading": "ほうしき"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "入出力",
+          "reading": "にゅうしゅつりょく"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "別途調達",
+          "reading": "べっとちょうたつ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "HDMI",
+      "vi": "HDMI",
+      "en": "HDMI"
+    },
+    {
+      "type": "paragraph",
+      "ja": "HDMI（High-Definition Multimedia Interface）とは、映像や音声をやり取りする規格です。HDMIの大きな特徴の1つは、1本のHDMIケーブルで映像と音声の両方を一度にやり取りできることです。HDMIが登場するまでは、映像と音声のデータを送るには別々のケーブルが必要でしたが、HDMIの登場により1本のケーブルで済むようになりました。",
+      "vi": "HDMI (High-Definition Multimedia Interface) là tiêu chuẩn trao đổi hình ảnh và âm thanh. Một trong những đặc điểm lớn của HDMI là có thể trao đổi cả hình ảnh và âm thanh cùng lúc bằng 1 cáp HDMI. Trước khi HDMI xuất hiện, cần cáp riêng để gửi dữ liệu hình ảnh và âm thanh, nhưng với sự xuất hiện của HDMI, chỉ cần 1 cáp.",
+      "en": "HDMI (High-Definition Multimedia Interface) is standard for exchanging video and audio. One major feature of HDMI is can exchange both video and audio at once with 1 HDMI cable. Before HDMI appeared, separate cables needed to send video and audio data, but with HDMI, only 1 cable needed.",
+      "terms": [
+        {
+          "kanji": "映像",
+          "reading": "えいぞう"
+        },
+        {
+          "kanji": "音声",
+          "reading": "おんせい"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "規格",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "本",
+          "reading": "ほん"
+        },
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "一度",
+          "reading": "いちど"
+        },
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        },
+        {
+          "kanji": "送",
+          "reading": "おく"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "済",
+          "reading": "すみ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このため、ITパスポート試験では「映像、音声及び制御信号を1本のケーブルで入出力するAV機器向けのインタフェース」という文章で出題されることがあります。",
+      "vi": "Vì vậy, trong kỳ thi IT Passport đôi khi ra đề với câu \"giao diện dành cho thiết bị AV nhập xuất tín hiệu hình ảnh, âm thanh và điều khiển bằng 1 cáp\".",
+      "en": "Therefore, in IT Passport exam, sometimes appears as 'interface for AV equipment inputting/outputting video, audio, and control signals with 1 cable.'",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "映像",
+          "reading": "えいぞう"
+        },
+        {
+          "kanji": "音声及",
+          "reading": "おんせいきゅう"
+        },
+        {
+          "kanji": "制御信号",
+          "reading": "せいぎょしんごう"
+        },
+        {
+          "kanji": "本",
+          "reading": "ほん"
+        },
+        {
+          "kanji": "入出力",
+          "reading": "にゅうしゅつりょく"
+        },
+        {
+          "kanji": "機器向",
+          "reading": "ききこう"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "USBとHDMIのインタフェース",
+        "vi": "Giao diện USB và HDMI",
+        "en": "USB and HDMI Interfaces"
+      },
+      "description": {
+        "ja": "USBコネクタの形状とHDMIコネクタの形状を比較表示",
+        "vi": "So sánh hình dạng đầu nối USB và đầu nối HDMI",
+        "en": "Comparing USB connector shape and HDMI connector shape"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "Bluetooth",
+      "vi": "Bluetooth",
+      "en": "Bluetooth"
+    },
+    {
+      "type": "paragraph",
+      "ja": "Bluetoothとは、近距離間（数m）でデータをやり取りする無線インタフェースの規格です。「Bluetooth」を直訳すると「青い歯」ですが、これはデンマークの王様のニックネームです。この王様が国を統一したように、たくさんある無線インタフェース規格をBluetoothに統一したいという思いから命名されました。",
+      "vi": "Bluetooth là tiêu chuẩn giao diện không dây trao đổi dữ liệu trong khoảng cách ngắn (vài mét). Dịch trực tiếp \"Bluetooth\" là \"răng xanh\", đây là biệt danh của vua Đan Mạch. Được đặt tên từ mong muốn thống nhất nhiều tiêu chuẩn giao diện không dây thành Bluetooth, giống như vị vua này đã thống nhất đất nước.",
+      "en": "Bluetooth is wireless interface standard for exchanging data over short distance (few meters). 'Bluetooth' directly translated means 'blue tooth,' which is nickname of Danish king. Named from wish to unify many wireless interface standards into Bluetooth, like this king unified country.",
+      "terms": [
+        {
+          "kanji": "近距離間",
+          "reading": "きんきょりかん"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "無線",
+          "reading": "むせん"
+        },
+        {
+          "kanji": "規格",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "直訳",
+          "reading": "ちょくやく"
+        },
+        {
+          "kanji": "青",
+          "reading": "あお"
+        },
+        {
+          "kanji": "歯",
+          "reading": "は"
+        },
+        {
+          "kanji": "王様",
+          "reading": "おうさま"
+        },
+        {
+          "kanji": "国",
+          "reading": "くに"
+        },
+        {
+          "kanji": "統一",
+          "reading": "とういつ"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "命名",
+          "reading": "めいめい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "RFID",
+      "vi": "RFID",
+      "en": "RFID"
+    },
+    {
+      "type": "paragraph",
+      "ja": "RFID（Radio Frequency Identification）とは、電波を用いることで、直接触れることなく情報をやり取りする技術です。詳細は第4章（p.131）の解説を参照してください。",
+      "vi": "RFID (Radio Frequency Identification) là công nghệ trao đổi thông tin mà không cần chạm trực tiếp bằng cách sử dụng sóng radio. Xin tham khảo giải thích ở Chương 4 (trang 131) để biết chi tiết.",
+      "en": "RFID (Radio Frequency Identification) is technology exchanging information without direct contact by using radio waves. See Chapter 4 (p.131) explanation for details.",
+      "terms": [
+        {
+          "kanji": "電波",
+          "reading": "でんぱ"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "直接触",
+          "reading": "ちょくせつしょく"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "詳細",
+          "reading": "しょうさい"
+        },
+        {
+          "kanji": "第",
+          "reading": "だい"
+        },
+        {
+          "kanji": "章",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "HDMI",
+      "full": "High-Definition Multimedia Interface",
+      "vi": "HDMI",
+      "en": "High-Definition Multimedia Interface",
+      "my": "အေ့ချ်ဒီအမ်အိုင်"
+    },
+    {
+      "term": "Bluetooth",
+      "vi": "Bluetooth",
+      "en": "Bluetooth",
+      "my": "ဘလူးတူး"
+    },
+    {
+      "term": "RFID",
+      "full": "Radio Frequency Identification",
+      "vi": "RFID",
+      "en": "Radio Frequency Identification",
+      "my": "အာအက်ဖ်အိုင်ဒီ"
+    },
+    {
+      "term": "セルフパワー",
+      "vi": "Self Power",
+      "en": "Self Power",
+      "my": "ဆဲစ် ပေါဝါ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

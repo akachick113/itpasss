@@ -1,0 +1,293 @@
+{
+  "page_id": 523,
+  "image": "p_0523.png",
+  "chapter": 14,
+  "section": "14-05",
+  "page_number": 507,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "電子メールの宛先を記入する欄",
+        "vi": "Ô nhập địa chỉ email",
+        "en": "Email Recipient Fields"
+      },
+      "headers": {
+        "ja": [
+          "名称",
+          "説明"
+        ],
+        "vi": [
+          "Tên",
+          "Giải thích"
+        ],
+        "en": [
+          "Name",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "name": "To（宛先）",
+          "description": {
+            "ja": "電子メールを送る相手を記入する欄。返信や処理を必要とする人を記入する。記入されている宛先は、メールを受け取った全員が確認できる。",
+            "vi": "Ô nhập người nhận email. Nhập người cần trả lời hoặc xử lý. Địa chỉ được nhập có thể được xác nhận bởi tất cả người nhận email.",
+            "en": "Field for recipient. Enter person needing reply or processing. All recipients can see entered addresses."
+          }
+        },
+        {
+          "name": "Cc",
+          "description": {
+            "ja": "電子メールを共有する相手を記入する欄。上司など、念のために確認してほしい人を記入する。記入されている宛先は、メールを受け取った全員が確認できる。",
+            "vi": "Ô nhập người chia sẻ email. Nhập người muốn họ xác nhận để đề phòng, như cấp trên. Địa chỉ được nhập có thể được xác nhận bởi tất cả người nhận email.",
+            "en": "Field for sharing email. Enter people like supervisors for confirmation. All recipients can see entered addresses."
+          }
+        },
+        {
+          "name": "Bcc",
+          "description": {
+            "ja": "他の受信者に知られずに、電子メールを共有する相手を記入する欄。一般的には顧客など、お互い面識のない複数の人を記入する。この欄に記入した宛先は、メールの送信者以外は確認できない。",
+            "vi": "Ô nhập người chia sẻ email mà người nhận khác không biết. Thường nhập nhiều người không quen biết nhau như khách hàng. Địa chỉ nhập vào ô này không thể được xác nhận bởi ai ngoài người gửi.",
+            "en": "Field for sharing email without other recipients knowing. Usually enter multiple people who don't know each other like customers. Addresses in this field can't be seen by anyone except sender."
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、取引先に見積もりを送信する場合、To（宛先）に取引先の担当者を記入し、Ccに自分の上司を記入します。",
+      "vi": "Ví dụ, khi gửi báo giá cho đối tác, nhập người phụ trách đối tác vào To (địa chỉ), và nhập cấp trên của mình vào Cc.",
+      "en": "For example, when sending quote to client, enter client's person in charge in To, and enter your supervisor in Cc.",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "取引先",
+          "reading": "とりひきさき"
+        },
+        {
+          "kanji": "見積",
+          "reading": "みつもり"
+        },
+        {
+          "kanji": "送信",
+          "reading": "そうしん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "宛先",
+          "reading": "あてさき"
+        },
+        {
+          "kanji": "担当者",
+          "reading": "たんとうしゃ"
+        },
+        {
+          "kanji": "記入",
+          "reading": "きにゅう"
+        },
+        {
+          "kanji": "自分",
+          "reading": "じぶん"
+        },
+        {
+          "kanji": "上司",
+          "reading": "じょうし"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "また、Bccの役割は、基本的にはCcと同じなのですが、Bccに記入された宛先は非公開になるため、メールの送信者以外は確認できません。ITパスポート試験では「指定した宛先のメールアドレスは、他の宛先には通知されない」という文章で表現されることがあります。",
+      "vi": "Ngoài ra, vai trò của Bcc về cơ bản giống Cc, nhưng vì địa chỉ nhập trong Bcc là ẩn, người khác ngoài người gửi không thể xác nhận. Trong kỳ thi IT Passport, có thể được diễn đạt bằng câu \"Địa chỉ email của người nhận được chỉ định sẽ không được thông báo cho người nhận khác\".",
+      "en": "Also, Bcc role is basically same as Cc, but since addresses entered in Bcc are private, cannot be confirmed by anyone except sender. In IT Passport exam, may be expressed as 'email address of specified recipient is not notified to other recipients.'",
+      "terms": [
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "記入",
+          "reading": "きにゅう"
+        },
+        {
+          "kanji": "宛先",
+          "reading": "あてさき"
+        },
+        {
+          "kanji": "非公開",
+          "reading": "ひこうかい"
+        },
+        {
+          "kanji": "送信者以外",
+          "reading": "そうしんしゃいがい"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "通知",
+          "reading": "つうち"
+        },
+        {
+          "kanji": "文章",
+          "reading": "ぶんしょう"
+        },
+        {
+          "kanji": "表現",
+          "reading": "ひょうげん"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！CcとBccの意味",
+        "vi": "Chi tiết hơn! Ý nghĩa của Cc và Bcc",
+        "en": "More Details! Meaning of Cc and Bcc"
+      },
+      "content": {
+        "ja": "Ccは「Carbon Copy」の略で、直訳すると複写された文章という意味になります。つまり「控え」や「確認用の用紙」という意味になります。Bccは「Blind Carbon Copy」の略で、和訳すると「隠されたCc」という意味になります。",
+        "vi": "Cc là viết tắt của \"Carbon Copy\", nghĩa đen là văn bản sao chép. Tức là có nghĩa \"bản sao\" hay \"giấy xác nhận\". Bcc là viết tắt của \"Blind Carbon Copy\", nghĩa là \"Cc ẩn\".",
+        "en": "Cc is abbreviation of 'Carbon Copy,' literally meaning copied document. Means 'copy' or 'confirmation paper.' Bcc is abbreviation of 'Blind Carbon Copy,' meaning 'hidden Cc.'"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "Bccに指定したメールアドレスは、他の受信者には通知されない",
+          "vi": "Địa chỉ email được chỉ định trong Bcc sẽ không được thông báo cho người nhận khác",
+          "en": "Email address specified in Bcc is not notified to other recipients"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "Web",
+      "vi": "Web",
+      "en": "Web"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここでは、ITパスポート試験で特に出題頻度の高い、重要な用語を解説します。",
+      "vi": "Ở đây, sẽ giải thích các thuật ngữ quan trọng có tần suất ra đề đặc biệt cao trong kỳ thi IT Passport.",
+      "en": "Here, will explain important terms with especially high frequency in IT Passport exam.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "特",
+          "reading": "とく"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "RSS",
+      "vi": "RSS",
+      "en": "RSS"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "RSS",
+        "vi": "RSS",
+        "en": "RSS"
+      },
+      "definition": {
+        "ja": "RSSとは、Webサイトの見出しやリンク、要約などを記述するフォーマット（書式）です。RSSを使用すると、1つのページで複数のWebサイトの更新情報を一覧表示できるようになるため、複数のWebサイトを見て回る必要がなくなります。その結果、ニュースの更新情報などを素早くチェックできるようになります。RSSはITパスポート試験に頻出の重要用語なので必ず覚えておいてください。",
+        "vi": "RSS là định dạng (format) để mô tả tiêu đề, liên kết, tóm tắt của trang web. Khi sử dụng RSS, có thể hiển thị danh sách thông tin cập nhật của nhiều trang web trên 1 trang, nên không cần phải xem qua nhiều trang web. Kết quả là có thể kiểm tra nhanh thông tin cập nhật tin tức. RSS là thuật ngữ quan trọng thường xuất hiện trong kỳ thi IT Passport nên hãy nhớ.",
+        "en": "RSS is format for describing website headings, links, summaries. Using RSS, can display list of update information from multiple websites on 1 page, so don't need to visit multiple websites. As result, can quickly check news updates. RSS is important term frequently appearing in IT Passport exam so definitely remember."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "Cc",
+      "full": "Carbon Copy",
+      "vi": "Cc (Bản sao carbon)",
+      "en": "Cc (Carbon Copy)",
+      "my": "Cc (ကာဘွန်မိတ္တူ)"
+    },
+    {
+      "term": "Bcc",
+      "full": "Blind Carbon Copy",
+      "vi": "Bcc (Bản sao carbon ẩn)",
+      "en": "Bcc (Blind Carbon Copy)",
+      "my": "Bcc (လျို့ဝှက် ကာဘွန်မိတ္တူ)"
+    },
+    {
+      "term": "RSS",
+      "vi": "RSS",
+      "en": "RSS",
+      "my": "RSS"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

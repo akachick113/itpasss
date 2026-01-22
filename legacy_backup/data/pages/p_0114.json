@@ -1,0 +1,341 @@
+{
+  "page_id": 114,
+  "image": "p_0114.png",
+  "chapter": 3,
+  "section": "03-01",
+  "page_number": 98,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "03-01",
+      "ja": "経営戦略とSWOT分析",
+      "reading": "けいえいせんりゃくとすうぉっとぶんせき",
+      "vi": "Chiến lược kinh doanh và phân tích SWOT",
+      "en": "Business Strategy and SWOT Analysis",
+      "my": "စီးပွားရေးဗျူဟာနှင့် SWOT ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "ビジネスは現代の戦である！",
+        "vi": "Kinh doanh là chiến tranh hiện đại!",
+        "en": "Business is Modern Warfare!",
+        "my": "စီးပွားရေးသည် ခေတ်သစ်စစ်ပွဲဖြစ်သည်!"
+      },
+      "content": {
+        "ja": "ここからは企業活動における経営戦略（ストラテジ）について学習します。群雄割拠の現代社会を勝ち抜くためには、効果的な戦略を練り、活用することが必要です。",
+        "vi": "Từ đây sẽ học về chiến lược kinh doanh (strategy) trong hoạt động doanh nghiệp. Để thắng trong xã hội hiện đại cạnh tranh khốc liệt, cần xây dựng và vận dụng chiến lược hiệu quả.",
+        "en": "From here we'll study business strategy in corporate activities. To win in today's competitive society, it's necessary to develop and utilize effective strategies.",
+        "my": "ဤနေရာမှစ၍ ကော်ပိုရိတ်လုပ်ငန်းများတွင် စီးပွားရေးဗျူဟာကို လေ့လာပါမည်။",
+        "terms": [
+          {
+            "kanji": "企業活動",
+            "reading": "きぎょうかつどう"
+          },
+          {
+            "kanji": "経営戦略",
+            "reading": "けいえいせんりゃく"
+          },
+          {
+            "kanji": "学習",
+            "reading": "がくしゅう"
+          },
+          {
+            "kanji": "群雄割拠",
+            "reading": "ぐんゆうかっきょ"
+          },
+          {
+            "kanji": "現代社会",
+            "reading": "げんだいしゃかい"
+          },
+          {
+            "kanji": "勝",
+            "reading": "かち"
+          },
+          {
+            "kanji": "抜",
+            "reading": "ばつ"
+          },
+          {
+            "kanji": "効果的",
+            "reading": "こうかてき"
+          },
+          {
+            "kanji": "戦略",
+            "reading": "せんりゃく"
+          },
+          {
+            "kanji": "練",
+            "reading": "れん"
+          },
+          {
+            "kanji": "活用",
+            "reading": "かつよう"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、さまざまな経営戦略の手法を解説していきます。ITパスポート試験では「SWOT分析」と「PPM」の出題頻度がダントツで高いです。まずはこの2つの用語をきちんと押さえてください。",
+      "vi": "Từ đây sẽ giải thích các phương pháp chiến lược kinh doanh khác nhau. Trong IT Passport, SWOT Analysis và PPM có tần suất ra đề cao nhất. Trước hết hãy nắm vững 2 thuật ngữ này.",
+      "en": "From here, we'll explain various business strategy methods. In IT Passport, SWOT Analysis and PPM are tested most frequently. First, make sure to understand these 2 terms well.",
+      "my": "ဤနေရာမှစ၍ စီးပွားရေးဗျူဟာ နည်းလမ်းအမျိုးမျိုးကို ရှင်းပြပါမည်။",
+      "terms": [
+        {
+          "kanji": "経営戦略",
+          "reading": "けいえいせんりゃく"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "押",
+          "reading": "おう"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "消去法にも使えるSWOT分析とPPM",
+        "vi": "SWOT Analysis và PPM cũng dùng được cho phương pháp loại trừ",
+        "en": "SWOT Analysis and PPM for Elimination Method",
+        "my": "SWOT Analysis နှင့် PPM ကို ဖယ်ထုတ်နည်းအတွက် အသုံးပြုနိုင်သည်",
+        "terms": [
+          {
+            "kanji": "SWOT分析",
+            "reading": "すうぉっとぶんせき"
+          },
+          {
+            "kanji": "消去法",
+            "reading": "しょうきょほう"
+          },
+          {
+            "kanji": "PPM",
+            "reading": "ぴーぴーえむ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "SWOT分析とPPMは正解の選択肢としてだけでなく、不正解の選択肢にもたびたび登場します。そのため、この2つの用語の意味をきちんと押さえておけば、消去法のときにも利用できます。",
+        "vi": "SWOT Analysis và PPM không chỉ xuất hiện trong lựa chọn đúng mà còn thường xuất hiện trong lựa chọn sai. Do đó, nếu nắm vững nghĩa của 2 thuật ngữ này, có thể sử dụng khi dùng phương pháp loại trừ.",
+        "en": "SWOT Analysis and PPM appear not only as correct answers but often as incorrect choices too. So if you understand these 2 terms well, you can use them for elimination method too.",
+        "my": "SWOT Analysis နှင့် PPM သည် မှန်ကန်သော အဖြေများအဖြစ်သာမက မမှန်ကန်သော ရွေးချယ်မှုများအဖြစ်လည်း မကြာခဏ ပေါ်လာသည်။",
+        "terms": [
+          {
+            "kanji": "分析",
+            "reading": "ぶんせき"
+          },
+          {
+            "kanji": "正解",
+            "reading": "せいかい"
+          },
+          {
+            "kanji": "選択肢",
+            "reading": "せんたくし"
+          },
+          {
+            "kanji": "不正解",
+            "reading": "ふせいかい"
+          },
+          {
+            "kanji": "登場",
+            "reading": "とうじょう"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          },
+          {
+            "kanji": "意味",
+            "reading": "いみ"
+          },
+          {
+            "kanji": "押",
+            "reading": "おう"
+          },
+          {
+            "kanji": "消去法",
+            "reading": "しょうきょほう"
+          },
+          {
+            "kanji": "利用",
+            "reading": "りよう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "経営戦略",
+      "reading": "けいえいせんりゃく",
+      "vi": "Chiến lược kinh doanh",
+      "en": "Business Strategy",
+      "my": "စီးပွားရေးဗျူဟာ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "経営戦略（Strategy）とは、ライバル企業に勝つための戦い方です。なお、ITパスポート試験では経営戦略のことを単に「戦略」と呼ぶこともあります。\n\n「戦略」という言葉はもともとは軍事用語の1つです。それを経営に持ち込んだのがはじまりといわれています。武将たちが戦国時代を生き抜くために軍事戦略を立てたように、現代の企業も激しい市場競争を生き抜くためにさまざまな経営戦略を立てています。",
+      "vi": "Chiến lược kinh doanh (Strategy) là cách chiến đấu để thắng đối thủ cạnh tranh. Trong IT Passport, chiến lược kinh doanh đôi khi được gọi đơn giản là Chiến lược.\n\nTừ Chiến lược ban đầu là thuật ngữ quân sự. Việc đưa nó vào kinh doanh được cho là khởi đầu. Giống như các võ tướng lập chiến lược quân sự để sống sót qua thời kỳ Chiến quốc, doanh nghiệp hiện đại cũng lập nhiều chiến lược kinh doanh để sống sót qua cạnh tranh thị trường khốc liệt.",
+      "en": "Business Strategy is how to fight to beat rival companies. In IT Passport, business strategy is sometimes simply called Strategy.\n\nThe word Strategy was originally a military term. Bringing it to business is said to be the beginning. Just as warlords developed military strategies to survive the Warring States period, modern companies develop various business strategies to survive fierce market competition.",
+      "my": "Business Strategy သည် ပြိုင်ဘက်ကုမ္ပဏီများကို အနိုင်ယူရန် တိုက်ပွဲဝင်နည်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "経営戦略",
+          "reading": "けいえいせんりゃく"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "勝",
+          "reading": "かち"
+        },
+        {
+          "kanji": "戦",
+          "reading": "せん"
+        },
+        {
+          "kanji": "方",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "単",
+          "reading": "たん"
+        },
+        {
+          "kanji": "戦略",
+          "reading": "せんりゃく"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "kanji": "軍事用語",
+          "reading": "ぐんじようご"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "込",
+          "reading": "こみ"
+        },
+        {
+          "kanji": "武将",
+          "reading": "ぶしょう"
+        },
+        {
+          "kanji": "戦国時代",
+          "reading": "せんごくじだい"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "抜",
+          "reading": "ばつ"
+        },
+        {
+          "kanji": "軍事戦略",
+          "reading": "ぐんじせんりゃく"
+        },
+        {
+          "kanji": "立",
+          "reading": "りつ"
+        },
+        {
+          "kanji": "現代",
+          "reading": "げんだい"
+        },
+        {
+          "kanji": "激",
+          "reading": "げき"
+        },
+        {
+          "kanji": "市場競争",
+          "reading": "しじょうきょうそう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "経営戦略",
+      "reading": "けいえいせんりゃく",
+      "romaji": "Keiei Senryaku",
+      "vi": "Chiến lược kinh doanh",
+      "en": "Business Strategy",
+      "my": "စီးပွားရေးဗျူဟာ"
+    },
+    {
+      "kanji": "戦略",
+      "reading": "せんりゃく",
+      "romaji": "Senryaku",
+      "vi": "Chiến lược",
+      "en": "Strategy",
+      "my": "ဗျူဟာ"
+    },
+    {
+      "kanji": "PPM",
+      "reading": "ぴーぴーえむ",
+      "romaji": "PPM",
+      "vi": "Quản lý danh mục sản phẩm",
+      "en": "Product Portfolio Management",
+      "my": "PPM"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true,
+    "has_learn_more": true
+  }
+}

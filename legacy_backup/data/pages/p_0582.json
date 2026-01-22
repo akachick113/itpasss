@@ -1,0 +1,377 @@
+{
+  "page_id": 582,
+  "image": "p_0582.png",
+  "chapter": 15,
+  "section": "15-06",
+  "page_number": 566,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "物理的セキュリティ対策",
+      "vi": "Biện pháp bảo mật vật lý",
+      "en": "Physical Security Measures"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "物理的セキュリティ対策",
+        "vi": "Biện pháp bảo mật vật lý",
+        "en": "Physical Security Measures"
+      },
+      "definition": {
+        "ja": "物理的セキュリティ対策とは、災害や、破壊、妨害行為への対策です。ITパスポート試験では、サーバ室などへの入退館管理のための「バイオメトリクス認証」がよく出題されています。",
+        "vi": "Biện pháp bảo mật vật lý là biện pháp đối phó với thiên tai, phá hoại, hành vi cản trở. Trong kỳ thi IT Passport, \"Xác thực sinh trắc học\" để quản lý ra vào phòng server thường được ra đề.",
+        "en": "Physical Security Measures are countermeasures against disasters, destruction, and sabotage. In IT Passport exam, 'Biometric Authentication' for server room entry/exit management frequently appears."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "バイオメトリクス認証",
+      "vi": "Xác thực sinh trắc học",
+      "en": "Biometric Authentication"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "バイオメトリクス認証",
+        "vi": "Xác thực sinh trắc học",
+        "en": "Biometric Authentication"
+      },
+      "definition": {
+        "ja": "バイオメトリクス認証とは、身体的特徴や行動的特徴による認証です。Bioは「生物」、Metricsは「測定」という意味です。",
+        "vi": "Xác thực sinh trắc học là xác thực bằng đặc điểm cơ thể hoặc đặc điểm hành vi. Bio có nghĩa là \"sinh vật\", Metrics có nghĩa là \"đo lường\".",
+        "en": "Biometric Authentication is authentication by physical or behavioral characteristics. Bio means 'living,' Metrics means 'measurement.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "身体的特徴の例としては、指紋や虹彩（目の瞳孔よりも外側の丸い部分）、網膜、静脈パターン、声紋、顔などがあります。また、行動的特徴の例としては、筆跡やキーストロークなどがあります。",
+      "vi": "Ví dụ về đặc điểm cơ thể gồm vân tay, mống mắt (phần tròn bên ngoài đồng tử), võng mạc, mẫu tĩnh mạch, vân giọng nói, khuôn mặt. Ngoài ra, ví dụ về đặc điểm hành vi gồm chữ viết tay, nhịp gõ phím.",
+      "en": "Examples of physical characteristics include fingerprint, iris (round part outside pupil), retina, vein pattern, voiceprint, face. Also, examples of behavioral characteristics include handwriting, keystroke.",
+      "terms": [
+        {
+          "kanji": "身体的特徴",
+          "reading": "しんたいてきとくちょう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "指紋",
+          "reading": "しもん"
+        },
+        {
+          "kanji": "虹彩",
+          "reading": "こうさい"
+        },
+        {
+          "kanji": "目",
+          "reading": "め"
+        },
+        {
+          "kanji": "瞳孔",
+          "reading": "どうこう"
+        },
+        {
+          "kanji": "外側",
+          "reading": "そとがわ"
+        },
+        {
+          "kanji": "丸",
+          "reading": "まる"
+        },
+        {
+          "kanji": "部分",
+          "reading": "ぶぶん"
+        },
+        {
+          "kanji": "網膜",
+          "reading": "もうまく"
+        },
+        {
+          "kanji": "静脈",
+          "reading": "じょうみゃく"
+        },
+        {
+          "kanji": "声紋",
+          "reading": "せいもん"
+        },
+        {
+          "kanji": "顔",
+          "reading": "かお"
+        },
+        {
+          "kanji": "行動的特徴",
+          "reading": "こうどうてきとくちょう"
+        },
+        {
+          "kanji": "筆跡",
+          "reading": "ひっせき"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "身近なバイオメトリクス認証の例としては、指紋や顔などの身体的特徴が多いですが、ITパスポート試験では「行動的特徴が含まれるかどうか」が出題されますので注意してください。バイオメトリクス認証には行動的特徴が含まれます。",
+      "vi": "Ví dụ xác thực sinh trắc học gần gũi có nhiều đặc điểm cơ thể như vân tay hoặc khuôn mặt, nhưng trong kỳ thi IT Passport, \"có bao gồm đặc điểm hành vi hay không\" được ra đề nên hãy chú ý. Xác thực sinh trắc học bao gồm cả đặc điểm hành vi.",
+      "en": "Familiar biometric authentication examples have many physical characteristics like fingerprint or face, but IT Passport exam asks 'whether behavioral characteristics are included' so be careful. Biometric Authentication includes behavioral characteristics.",
+      "terms": [
+        {
+          "kanji": "身近",
+          "reading": "みじか"
+        },
+        {
+          "kanji": "認証",
+          "reading": "にんしょう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "指紋",
+          "reading": "しもん"
+        },
+        {
+          "kanji": "顔",
+          "reading": "かお"
+        },
+        {
+          "kanji": "身体的特徴",
+          "reading": "しんたいてきとくちょう"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "行動的特徴",
+          "reading": "こうどうてきとくちょう"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "バイオメトリクス認証の例",
+        "vi": "Ví dụ xác thực sinh trắc học",
+        "en": "Biometric Authentication Examples"
+      },
+      "description": {
+        "ja": "虹彩と瞳孔を示す目の図",
+        "vi": "Hình mắt cho thấy mống mắt và đồng tử",
+        "en": "Eye diagram showing iris and pupil"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "本人拒否率と他人受入率",
+      "vi": "Tỷ lệ từ chối bản thân và Tỷ lệ chấp nhận người khác",
+      "en": "False Rejection Rate and False Acceptance Rate"
+    },
+    {
+      "type": "paragraph",
+      "ja": "バイオメトリクス認証において、システムが間違って本人を拒否する確率のことを「本人拒否率」といいます。本人拒否率が低いほど、本人が他人と間違われる確率が低いことになるので、便利なシステムであるといえます。",
+      "vi": "Trong xác thực sinh trắc học, xác suất hệ thống nhầm từ chối bản thân được gọi là \"tỷ lệ từ chối bản thân\". Tỷ lệ từ chối bản thân càng thấp, xác suất bản thân bị nhầm là người khác càng thấp, nên có thể nói là hệ thống tiện lợi.",
+      "en": "In Biometric Authentication, probability of system mistakenly rejecting actual person is called 'False Rejection Rate.' Lower False Rejection Rate means lower probability of actual person being mistaken for others, so it's a convenient system.",
+      "terms": [
+        {
+          "kanji": "認証",
+          "reading": "にんしょう"
+        },
+        {
+          "kanji": "間違",
+          "reading": "かんい"
+        },
+        {
+          "kanji": "本人",
+          "reading": "ほんにん"
+        },
+        {
+          "kanji": "拒否",
+          "reading": "きょひ"
+        },
+        {
+          "kanji": "確率",
+          "reading": "かくりつ"
+        },
+        {
+          "kanji": "本人拒否率",
+          "reading": "ほんにんきょひりつ"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "他人",
+          "reading": "たにん"
+        },
+        {
+          "kanji": "便利",
+          "reading": "べんり"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "反対に、システムが間違って他人を受け入れてしまう確率のことを「他人受入率」といいます。他人受入率が低いほど、他人を誤って認証してしまう確率が低いことになるので、安全なシステムであるといえます。",
+      "vi": "Ngược lại, xác suất hệ thống nhầm chấp nhận người khác được gọi là \"tỷ lệ chấp nhận người khác\". Tỷ lệ chấp nhận người khác càng thấp, xác suất nhầm xác thực người khác càng thấp, nên có thể nói là hệ thống an toàn.",
+      "en": "Conversely, probability of system mistakenly accepting others is called 'False Acceptance Rate.' Lower False Acceptance Rate means lower probability of wrongly authenticating others, so it's a safe system.",
+      "terms": [
+        {
+          "kanji": "反対",
+          "reading": "はんたい"
+        },
+        {
+          "kanji": "間違",
+          "reading": "かんい"
+        },
+        {
+          "kanji": "他人",
+          "reading": "たにん"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "入",
+          "reading": "にゅう"
+        },
+        {
+          "kanji": "確率",
+          "reading": "かくりつ"
+        },
+        {
+          "kanji": "他人受入率",
+          "reading": "たにんうけいれりつ"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "誤",
+          "reading": "ご"
+        },
+        {
+          "kanji": "認証",
+          "reading": "にんしょう"
+        },
+        {
+          "kanji": "安全",
+          "reading": "あんぜん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "これら2つの確率はトレードオフの関係にあります。便利なシステムを目指して本人拒否率を低く設定すると、他人受入率が高くなります。一方、安全なシステムを目指して他人受入率を低く設定すると、本人拒否率が高くなります。つまり、便利さと安全さのバランスを考えて設定を行うことが重要です。",
+      "vi": "2 xác suất này có quan hệ đánh đổi. Nếu đặt tỷ lệ từ chối bản thân thấp để hướng tới hệ thống tiện lợi, tỷ lệ chấp nhận người khác sẽ cao. Mặt khác, nếu đặt tỷ lệ chấp nhận người khác thấp để hướng tới hệ thống an toàn, tỷ lệ từ chối bản thân sẽ cao. Tức là, quan trọng là cài đặt cân nhắc cân bằng giữa tiện lợi và an toàn.",
+      "en": "These 2 probabilities are in tradeoff relationship. If setting False Rejection Rate low aiming for convenient system, False Acceptance Rate becomes high. On other hand, if setting False Acceptance Rate low aiming for safe system, False Rejection Rate becomes high. Meaning, important to make settings considering balance between convenience and safety.",
+      "terms": [
+        {
+          "kanji": "確率",
+          "reading": "かくりつ"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "便利",
+          "reading": "べんり"
+        },
+        {
+          "kanji": "目指",
+          "reading": "もくし"
+        },
+        {
+          "kanji": "本人拒否率",
+          "reading": "ほんにんきょひりつ"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "設定",
+          "reading": "せってい"
+        },
+        {
+          "kanji": "他人受入率",
+          "reading": "たにんうけいれりつ"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "バイオメトリクス認証",
+      "vi": "Xác thực sinh trắc học",
+      "en": "Biometric Authentication",
+      "my": "ဇီဝသာတ္တ အထောက်အထားပြု စစ်ဆေးခြင်း"
+    },
+    {
+      "term": "本人拒否率",
+      "vi": "Tỷ lệ từ chối bản thân",
+      "en": "False Rejection Rate (FRR)",
+      "my": "ပိုင်ရှင်ပယ်ကျင်းပယ် ပယ်ယ်နုန်း"
+    },
+    {
+      "term": "他人受入率",
+      "vi": "Tỷ lệ chấp nhận người khác",
+      "en": "False Acceptance Rate (FAR)",
+      "my": "သူစိမ်းကို လက်ခံမှားနုန်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "page_id": 220,
+  "image": "p_0220.png",
+  "chapter": 5,
+  "section": "05-06",
+  "page_number": 204,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "システム開発の登場人物は4人",
+      "vi": "4 nhân vật trong phát triển hệ thống",
+      "en": "4 Characters in System Development"
+    },
+    {
+      "type": "paragraph",
+      "ja": "まず、システム開発を行う際に登場する4人の登場人物について説明します。本章以降を読み進めるうえでは、この4人の役割をきちんと理解しておくことが非常に重要です。\n\n4人の登場人物とは「経営者」「情報システム部」「ユーザー」「ベンダー」の4人（4つの役割）です。\n\n通常、システム開発は、経営者の命令を受けて、情報システム部が中心となって開発業務を行います。情報システム部が自社開発することもありますが、多くの場合はベンダー（システムインテグレーター：p.187）と呼ばれるシステム開発会社に開発を委託します。また、完成したシステムを利用する部署（または人）のことをユーザーといいます。\n\nこれらの4人の登場人物のことがITパスポート試験で直接問われることは稀ですが、次項で解説する「ソフトウェアライフサイクル」のことを正しく理解するためには、それぞれの概要と関係性を把握しておくことが重要です。",
+      "vi": "Đầu tiên, sẽ giải thích về 4 nhân vật xuất hiện khi phát triển hệ thống. Để đọc tiếp từ chương này, việc hiểu đúng vai trò của 4 người này rất quan trọng.\n\n4 nhân vật là: Người điều hành, Bộ phận hệ thống thông tin, User, Vendor (4 vai trò).\n\nThông thường, phát triển hệ thống được thực hiện bởi Bộ phận hệ thống thông tin theo lệnh của Người điều hành. Bộ phận hệ thống thông tin có thể tự phát triển, nhưng nhiều trường hợp ủy thác cho công ty phát triển hệ thống gọi là Vendor (System Integrator: trang 187). Bộ phận (hoặc người) sử dụng hệ thống hoàn thành gọi là User.\n\nViệc hỏi trực tiếp về 4 nhân vật này trong IT Passport hiếm, nhưng để hiểu đúng Software Lifecycle sẽ giải thích ở phần sau, việc nắm tổng quan và mối quan hệ của mỗi người quan trọng.",
+      "en": "First, we'll explain the 4 characters that appear when developing systems. To read beyond this chapter, understanding these 4 roles properly is very important.\n\nThe 4 characters are: Manager, Information System Department, User, Vendor (4 roles).\n\nNormally, system development is done by the Information System Department under manager's orders. The IS Department may develop in-house, but often outsources to system development companies called Vendors (System Integrators: p.187). The department (or person) using the completed system is called the User.\n\nThese 4 characters are rarely directly tested in IT Passport, but to correctly understand 'Software Lifecycle' explained next, grasping each overview and relationships is important.",
+      "my": "ပထမဦးစွာ စနစ်များ ဖွံ့ဖြိုးတိုးတက်သောအခါ ပေါ်ပေါက်လာသော ဇာတ်ကောင် ၄ ဦးကို ရှင်းပြမည်။",
+      "terms": [
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "登場人物",
+          "reading": "とうじょうじんぶつ"
+        },
+        {
+          "kanji": "説明",
+          "reading": "せつめい"
+        },
+        {
+          "kanji": "本章以降",
+          "reading": "ほんしょういこう"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "経営者",
+          "reading": "けいえいしゃ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "部",
+          "reading": "ぶ"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "命令",
+          "reading": "めいれい"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "中心",
+          "reading": "ちゅうしん"
+        },
+        {
+          "kanji": "開発業務",
+          "reading": "かいはつぎょうむ"
+        },
+        {
+          "kanji": "自社開発",
+          "reading": "じしゃかいはつ"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "開発会社",
+          "reading": "かいはつがいしゃ"
+        },
+        {
+          "kanji": "委託",
+          "reading": "いたく"
+        },
+        {
+          "kanji": "完成",
+          "reading": "かんせい"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "部署",
+          "reading": "ぶしょ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "直接問",
+          "reading": "ちょくせつとん"
+        },
+        {
+          "kanji": "稀",
+          "reading": "まれ"
+        },
+        {
+          "kanji": "次項",
+          "reading": "じこう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "概要",
+          "reading": "がいよう"
+        },
+        {
+          "kanji": "関係性",
+          "reading": "かんけいせい"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ソフトウェアライフサイクルプロセス",
+      "reading": "そふとうぇあらいふさいくるぷろせす",
+      "vi": "Software Life Cycle Process",
+      "en": "Software Life Cycle Process"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ソフトウェアライフサイクルプロセス（Software Life Cycle Process：SLCP）とは、ソフトウェアの企画、要件定義、開発、運用、保守までの一連の活動であり、それらの活動内容を定義した国際規格です。ソフトウェアライフサイクルプロ",
+      "vi": "Software Life Cycle Process (SLCP) là các hoạt động liên tục từ lập kế hoạch, định nghĩa yêu cầu, phát triển, vận hành, bảo trì phần mềm, và là tiêu chuẩn quốc tế định nghĩa nội dung các hoạt động đó. Software Life Cycle Pro",
+      "en": "Software Life Cycle Process (SLCP) is a series of activities from software planning, requirements definition, development, operation, to maintenance, and is an international standard defining those activity contents. Software Life Cycle Pro",
+      "my": "Software Life Cycle Process (SLCP) သည် software planning မှ maintenance အထိ ဆက်တိုက် လုပ်ဆောင်မှုများဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "企画",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        },
+        {
+          "kanji": "保守",
+          "reading": "ほしゅ"
+        },
+        {
+          "kanji": "一連",
+          "reading": "いちれん"
+        },
+        {
+          "kanji": "活動",
+          "reading": "かつどう"
+        },
+        {
+          "kanji": "活動内容",
+          "reading": "かつどうないよう"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "国際規格",
+          "reading": "こくさいきかく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ベンダー",
+      "reading": "べんだー",
+      "romaji": "Vendor",
+      "vi": "Nhà cung cấp",
+      "en": "Vendor",
+      "my": "အရောင်းချုပြုသူ"
+    },
+    {
+      "kanji": "ユーザー",
+      "reading": "ゆーざー",
+      "romaji": "User",
+      "vi": "Người dùng",
+      "en": "User",
+      "my": "အသုံးပြုသူ"
+    },
+    {
+      "kanji": "ソフトウェアライフサイクルプロセス",
+      "reading": "そふとうぇあらいふさいくるぷろせす",
+      "romaji": "Software Life Cycle Process",
+      "vi": "Quy trình vòng đời phần mềm",
+      "en": "Software Life Cycle Process (SLCP)",
+      "my": "ဆော်ဝဲလ် ဘဝစက် လုပ်ငန်းစဉ်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true
+  }
+}

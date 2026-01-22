@@ -1,0 +1,131 @@
+{
+    "page_id": 310,
+    "image": "p_0310.png",
+    "chapter": 8,
+    "section": "answers",
+    "page_number": 294,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "8-3",
+            "correct_answer": "ウ",
+            "explanation": {
+                "ja": "サービスレベルの維持や向上を図る活動は、SLM（Service Level Management：サービスレベル管理）と呼ばれます。",
+                "vi": "Hoạt động duy trì và nâng cao Service Level được gọi là SLM (Service Level Management).",
+                "en": "Activity to maintain and improve Service Level is called SLM (Service Level Management)."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "CSR（Corporate Social Responsibility：企業の社会的責任）とは、企業が利益の追求だけでなく、社会貢献や環境保護などの社会的責任を果たすことです。",
+                    "vi": "CSR (Corporate Social Responsibility: Trách nhiệm xã hội của doanh nghiệp) là việc doanh nghiệp thực hiện trách nhiệm xã hội như đóng góp xã hội và bảo vệ môi trường, không chỉ theo đuổi lợi nhuận.",
+                    "en": "CSR (Corporate Social Responsibility) is companies fulfilling social responsibilities like social contribution and environmental protection, not just pursuing profit."
+                },
+                "イ": {
+                    "ja": "ERP（Enterprise Resource Planning：企業資源計画）とは、経営資源（ヒト、モノ、カネ、情報）を統合的に管理する手法です。",
+                    "vi": "ERP (Enterprise Resource Planning) là phương pháp quản lý tích hợp tài nguyên kinh doanh (Người, Vật, Tiền, Thông tin).",
+                    "en": "ERP (Enterprise Resource Planning) is method to integrally manage business resources (People, Things, Money, Information)."
+                },
+                "エ": {
+                    "ja": "SWOT（Strengths, Weaknesses, Opportunities, Threats）とは、企業が置かれている経営環境を「強み」「弱み」「機会」「脅威」の4つに分類する経営分析手法です。",
+                    "vi": "SWOT (Strengths, Weaknesses, Opportunities, Threats) là phương pháp phân tích kinh doanh phân loại môi trường kinh doanh mà doanh nghiệp đang gặp thành 4 loại \"Điểm mạnh\" \"Điểm yếu\" \"Cơ hội\" \"Nguy cơ\".",
+                    "en": "SWOT (Strengths, Weaknesses, Opportunities, Threats) is business analysis method classifying business environment company is in into 4 categories: 'Strengths' 'Weaknesses' 'Opportunities' 'Threats'."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-4",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "可用性とは「ITサービスを使いたいときに使えること」です。",
+                "vi": "Availability là \"có thể sử dụng IT Service khi muốn\".",
+                "en": "Availability is 'being able to use IT Service when wanting to.'"
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "応答性とは、システムの応答時間など、システムがユーザーに応答を返すまでにかかる時間です。",
+                    "vi": "Responsiveness là thời gian hệ thống phản hồi người dùng, như thời gian phản hồi của hệ thống.",
+                    "en": "Responsiveness is time for system to respond to user, like system response time."
+                },
+                "ウ": {
+                    "ja": "完全性とは「情報が正確で改ざんされていないこと」です。情報セキュリティの分野で出題されます。",
+                    "vi": "Integrity là \"thông tin chính xác và không bị giả mạo\". Được ra đề trong lĩnh vực Information Security.",
+                    "en": "Integrity is 'information is accurate and not tampered.' Tested in Information Security field."
+                },
+                "エ": {
+                    "ja": "機密性とは「アクセスを認められた人だけが情報にアクセスできること」です。情報セキュリティの分野で出題されます。",
+                    "vi": "Confidentiality là \"chỉ những người được phép truy cập mới có thể truy cập thông tin\". Được ra đề trong lĩnh vực Information Security.",
+                    "en": "Confidentiality is 'only authorized people can access information.' Tested in Information Security field."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-5",
+            "correct_answer": "ウ",
+            "explanation": {
+                "ja": "ITサービスマネジメントのベストプラクティスを集めた本、もしくは知識体系はITILです。設問では「知識体系」と呼ばずに「フレームワーク」と記載されていますが、ITILに関する問題ではこの「フレームワーク」という言葉が使われることがあります。",
+                "vi": "Cuốn sách hoặc hệ thống kiến thức tập hợp Best Practice của IT Service Management là ITIL. Trong đề bài, không gọi là \"hệ thống kiến thức\" mà ghi \"framework\", nhưng trong các câu hỏi về ITIL, từ \"framework\" này có thể được sử dụng.",
+                "en": "Book or knowledge system collecting IT Service Management Best Practices is ITIL. Question uses 'framework' instead of 'knowledge system,' but this word 'framework' is sometimes used in ITIL questions."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "ISO 14001は環境マネジメントシステムの国際規格です。",
+                    "vi": "ISO 14001 là tiêu chuẩn quốc tế về hệ thống quản lý môi trường.",
+                    "en": "ISO 14001 is international standard for environmental management system."
+                },
+                "イ": {
+                    "ja": "ISO 27001（正式名称：ISO/IEC 27001）は情報セキュリティマネジメントシステムの国際規格です。",
+                    "vi": "ISO 27001 (tên chính thức: ISO/IEC 27001) là tiêu chuẩn quốc tế về hệ thống quản lý bảo mật thông tin.",
+                    "en": "ISO 27001 (formal name: ISO/IEC 27001) is international standard for information security management system."
+                },
+                "エ": {
+                    "ja": "JIS Q 15001は個人情報保護マネジメントシステムの日本の規格です。",
+                    "vi": "JIS Q 15001 là tiêu chuẩn Nhật Bản về hệ thống quản lý bảo vệ thông tin cá nhân.",
+                    "en": "JIS Q 15001 is Japanese standard for personal information protection management system."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-6",
+            "correct_answer": "ウ",
+            "explanation": {
+                "ja": "この問題はサービスマネジメントの知識がなくても、PDCAを理解していれば解くことができます。「測定」「比較」というキーワードからCheck（評価）であると判断できます。",
+                "vi": "Bài này có thể giải được nếu hiểu PDCA dù không có kiến thức Service Management. Từ từ khóa \"đo lường\" \"so sánh\" có thể phán đoán là Check (Đánh giá).",
+                "en": "This can be solved by understanding PDCA without Service Management knowledge. From keywords 'measure' 'compare,' can determine it's Check (Evaluate)."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "「見直し」するのはAct（改善）です。",
+                    "vi": "\"Xem xét lại\" là Act (Cải thiện).",
+                    "en": "'Reviewing' is Act (Improve)."
+                },
+                "イ": {
+                    "ja": "「目標値を設定」するのはPlan（計画）です。",
+                    "vi": "\"Đặt giá trị mục tiêu\" là Plan (Kế hoạch).",
+                    "en": "'Setting target values' is Plan."
+                },
+                "エ": {
+                    "ja": "「実施」するのはDo（実行）です。",
+                    "vi": "\"Thực hiện\" là Do (Thực hiện).",
+                    "en": "'Implementing' is Do (Execute)."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-7",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "インシデント管理は、サービスを迅速に復旧させる活動です。インシデント管理では、問題の根本原因を解決することよりも、サービスの復旧に主眼を置きます。アとエは問題管理プロセスの説明です。ウはリリース及び展開管理プロセスの説明です。",
+                "vi": "Incident Management là hoạt động khôi phục dịch vụ nhanh chóng. Trong Incident Management, tập trung vào khôi phục dịch vụ hơn là giải quyết nguyên nhân gốc của vấn đề. ア và エ là giải thích về Problem Management Process. ウ là giải thích về Release and Deployment Management Process.",
+                "en": "Incident Management is activity to quickly restore service. In Incident Management, focus is on service recovery rather than solving root cause of problem. ア and エ are explanations of Problem Management Process. ウ is explanation of Release and Deployment Management Process."
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 5
+    }
+}

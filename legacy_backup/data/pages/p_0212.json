@@ -1,0 +1,63 @@
+{
+    "page_id": 212,
+    "image": "p_0212.png",
+    "chapter": 5,
+    "section": "answers",
+    "page_number": 196,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "5-2",
+            "answer": "ア",
+            "explanation": {
+                "ja": "エンタープライズサーチを和訳すると「企業内検索」という意味になります。選択肢アには「企業内」と「検索」の2つのキーワードが入っています。\n\nイ. コーパスの説明です。\nウ. スキャナーの説明です。\nエ. エンタープライズアーキテクチャ（EA）の説明です。",
+                "vi": "Enterprise Search dịch ra là tìm kiếm trong doanh nghiệp. Đáp án A có 2 từ khóa doanh nghiệp nội bộ và tìm kiếm.\n\nB. Là giải thích về Corpus.\nC. Là giải thích về Scanner.\nD. Là giải thích về Enterprise Architecture (EA).",
+                "en": "Enterprise Search translates to 'in-company search'. Choice A contains the two keywords 'within company' and 'search'.\n\nB. Explanation of Corpus.\nC. Explanation of Scanner.\nD. Explanation of Enterprise Architecture (EA)."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-3",
+            "answer": "イ",
+            "explanation": {
+                "ja": "DFDはData Flow Diagramの略です。Data Flowは「データの流れ」という意味ですから、DFDが正解であると判断できます。",
+                "vi": "DFD là viết tắt của Data Flow Diagram. Data Flow nghĩa là luồng dữ liệu nên có thể xác định DFD là đáp án đúng.",
+                "en": "DFD is short for Data Flow Diagram. Data Flow means 'data flow', so we can determine DFD is correct."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-4",
+            "answer": "ア",
+            "explanation": {
+                "ja": "BPRは、企業全体の業務プロセスを抜本的に再設計する考え方です。BPRの説明は「抜本的」という言葉が用いられることが多いです。\n\nイ. SLA（Service Level Agreement）に関する記述です。\nウ. 電子掲示板に関する記述です。\nエ. RFP（Request For Proposal）に関する記述です。",
+                "vi": "BPR là cách suy nghĩ tái thiết kế triệt để quy trình nghiệp vụ toàn doanh nghiệp. Giải thích BPR thường dùng từ triệt để.\n\nB. Là mô tả về SLA (Service Level Agreement).\nC. Là mô tả về bảng tin điện tử.\nD. Là mô tả về RFP (Request For Proposal).",
+                "en": "BPR is thinking about radically redesigning enterprise-wide business processes. BPR explanations often use the word 'radical'.\n\nB. Description of SLA (Service Level Agreement).\nC. Description of electronic bulletin board.\nD. Description of RFP (Request For Proposal)."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-5",
+            "answer": "ア",
+            "explanation": {
+                "ja": "「共同作業環境」というキーワードからグループウェアであると判断できます。\n\nイ. シェアウェアとは、試用期間中は無料で、試用期間の後は有料になるソフトウェアです。\nウ. ファームウェアとは、産業機器や民生機器などのハードウェアに組み込まれた「特定の機能を実現するためのソフトウェア」です。\nエ. フリーウェアとは、無料のソフトウェアです。",
+                "vi": "Từ khóa môi trường làm việc cộng tác cho thấy đây là Groupware.\n\nB. Shareware là phần mềm miễn phí trong thời gian dùng thử và có phí sau thời gian dùng thử.\nC. Firmware là phần mềm để thực hiện chức năng cụ thể được tích hợp trong hardware như thiết bị công nghiệp hoặc dân dụng.\nD. Freeware là phần mềm miễn phí.",
+                "en": "From the keyword 'collaborative work environment', we can determine it's Groupware.\n\nB. Shareware is software free during trial period and paid after.\nC. Firmware is 'software to realize specific functions' embedded in hardware like industrial or consumer devices.\nD. Freeware is free software."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-6",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "SaaS（Software as a Service）は、ソフトウェアの機能をサービスとして提供するシステムです。\n\nア. IaaSの説明です。\nイ. システムインテグレーションサービスの説明です。\nエ. ダウンロード販売の説明です。ダウンロード販売はデジタル配信とも呼ばれます。",
+                "vi": "SaaS (Software as a Service) là hệ thống cung cấp chức năng phần mềm như dịch vụ.\n\nA. Là giải thích về IaaS.\nB. Là giải thích về dịch vụ System Integration.\nD. Là giải thích về bán tải xuống. Bán tải xuống còn được gọi là phân phối số.",
+                "en": "SaaS (Software as a Service) is a system providing software functions as a service.\n\nA. IaaS explanation.\nB. System integration service explanation.\nD. Download sales explanation. Download sales is also called digital distribution."
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 5
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "page_id": 311,
+    "image": "p_0311.png",
+    "chapter": 8,
+    "section": "answers",
+    "page_number": 295,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "8-8",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "一般的に、サービスデスクの業務を行う社員は管理者や技術者ではないので、障害の原因を究明することは困難です。",
+                "vi": "Nói chung, nhân viên thực hiện nghiệp vụ Service Desk không phải quản lý hay kỹ thuật viên, nên việc tìm ra nguyên nhân sự cố là khó khăn.",
+                "en": "Generally, staff doing Service Desk work aren't managers or technicians, so investigating failure causes is difficult."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "サービスデスクの目的は迅速なサービスの復旧です。解決方法が正式に決まっていなくても、利用者に情報を伝え、インシデントの解消に努めます。",
+                    "vi": "Mục đích của Service Desk là khôi phục dịch vụ nhanh chóng. Dù phương pháp giải quyết chưa được quyết định chính thức, vẫn truyền thông tin cho người dùng và cố gắng giải quyết Incident.",
+                    "en": "Service Desk's purpose is quick service recovery. Even if solution isn't officially decided, provide information to users and work to resolve Incident."
+                },
+                "ウ": {
+                    "ja": "サービスデスクの受付方法は、1つに統一する必要はありません。サービスの復旧が目的なので、ユーザーに合わせて、電話、電子メール、チャットなど、いろいろな手段を用意できます。ただし、窓口は一本化します。つまり、問い合わせの内容により問い合わせ先の部門が異なっていけません。",
+                    "vi": "Phương pháp tiếp nhận của Service Desk không cần thống nhất thành một. Vì mục đích là khôi phục dịch vụ, có thể chuẩn bị nhiều phương tiện như điện thoại, email, chat phù hợp với người dùng. Tuy nhiên, cửa sổ tiếp nhận phải thống nhất. Nghĩa là, bộ phận liên hệ không được khác nhau tùy theo nội dung yêu cầu.",
+                    "en": "Service Desk reception methods don't need to be unified into one. Since goal is service recovery, various methods like phone, email, chat can be prepared for users. However, single point of contact must be unified. That is, contact department shouldn't differ by inquiry content."
+                },
+                "エ": {
+                    "ja": "問い合わせはすべて記録します。",
+                    "vi": "Ghi lại tất cả yêu cầu.",
+                    "en": "Record all inquiries."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-9",
+            "correct_answer": "ア",
+            "explanation": {
+                "ja": "チャットボットは、ユーザーからの質問に対して、ソフトウェアがリアルタイムで自動的に応答する仕組みです。",
+                "vi": "Chatbot là cơ chế mà phần mềm tự động phản hồi theo thời gian thực đối với câu hỏi từ người dùng.",
+                "en": "Chatbot is mechanism where software automatically responds in real-time to user questions."
+            },
+            "choices_explanation": {
+                "イ": {
+                    "ja": "IoT（Internet of Things）の説明です。",
+                    "vi": "Là giải thích về IoT (Internet of Things).",
+                    "en": "This is explanation of IoT (Internet of Things)."
+                },
+                "ウ": {
+                    "ja": "物流ロボットの説明です。",
+                    "vi": "Là giải thích về robot logistics.",
+                    "en": "This is explanation of logistics robot."
+                },
+                "エ": {
+                    "ja": "RPA（Robotic Process Automation）の説明です。",
+                    "vi": "Là giải thích về RPA (Robotic Process Automation).",
+                    "en": "This is explanation of RPA (Robotic Process Automation)."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-10",
+            "correct_answer": "エ",
+            "explanation": {
+                "ja": "KPI（Key Performance Indicator：重要業績評価指標）とは、戦略目標の達成状況を定量的に表す指標です（p.117）。",
+                "vi": "KPI (Key Performance Indicator: Chỉ số đánh giá hiệu suất quan trọng) là chỉ số biểu thị định lượng tình trạng đạt mục tiêu chiến lược (trang 117).",
+                "en": "KPI (Key Performance Indicator) is indicator quantitatively showing strategic goal achievement status (p.117)."
+            },
+            "choices_explanation": {
+                "a": {
+                    "ja": "値が大きいほうが良いKPIです。対応の時間は、長いよりも短いほうが、顧客満足度は高いです。よって、誤りです。",
+                    "vi": "KPI mà giá trị lớn hơn thì tốt hơn. Thời gian xử lý ngắn hơn dài thì sự hài lòng khách hàng cao hơn. Do đó, sai.",
+                    "en": "KPI where larger value is better. Response time shorter than longer means higher customer satisfaction. Therefore, incorrect."
+                },
+                "b": {
+                    "ja": "値が大きいほうが良いKPIです。何度も問合せするよりも1回で解決できたほうが、顧客満足度は高いです。よって、誤りです。",
+                    "vi": "KPI mà giá trị lớn hơn thì tốt hơn. Giải quyết trong 1 lần hơn là hỏi nhiều lần thì sự hài lòng khách hàng cao hơn. Do đó, sai.",
+                    "en": "KPI where larger value is better. Resolving in one inquiry than multiple means higher customer satisfaction. Therefore, incorrect."
+                },
+                "c": {
+                    "ja": "値が小さいほうが良いKPIです。別の担当に引き継がれるよりも最初の担当者で対応できたほうが、顧客満足度は高いです。よって、正しい記述です。",
+                    "vi": "KPI mà giá trị nhỏ hơn thì tốt hơn. Xử lý được bởi nhân viên đầu tiên hơn là chuyển giao cho nhân viên khác thì sự hài lòng khách hàng cao hơn. Do đó, đúng.",
+                    "en": "KPI where smaller value is better. Handling by first staff than handing over means higher customer satisfaction. Therefore, correct description."
+                },
+                "d": {
+                    "ja": "値が小さいほうが良いKPIです。担当者につながる時間が長いよりも短いほうが、顧客満足度は高いです。よって、正しい記述です。",
+                    "vi": "KPI mà giá trị nhỏ hơn thì tốt hơn. Thời gian kết nối với nhân viên ngắn hơn dài thì sự hài lòng khách hàng cao hơn. Do đó, đúng.",
+                    "en": "KPI where smaller value is better. Shorter connection time to staff than longer means higher customer satisfaction. Therefore, correct description."
+                }
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 3
+    }
+}

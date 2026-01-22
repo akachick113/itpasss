@@ -1,0 +1,332 @@
+{
+  "page_id": 52,
+  "image": "p_0052.png",
+  "chapter": 1,
+  "section": "01-07",
+  "page_number": 36,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "例えば、あるケーキ屋さんを例に考えると、ケーキが売れることに損失は小さくなり、ある点（販売個数）を境目にして、利益がプラスに転じます。この点が損益分岐点です。このため、別の言い方をすると「損益分岐点とは、利益が0円になる売上高（販売個数）」ともいえます。",
+      "vi": "Ví dụ, nếu lấy một tiệm bánh ngọt làm ví dụ, khi bánh được bán, thua lỗ giảm dần, và tại một điểm (số lượng bán) nhất định, lợi nhuận chuyển sang dương. Điểm này là điểm hòa vốn. Do đó, nói cách khác \"điểm hòa vốn là doanh thu (số lượng bán) mà tại đó lợi nhuận bằng 0 yên\".",
+      "en": "For example, taking a cake shop as an example, as cakes are sold, losses decrease, and at a certain point (number sold), profit turns positive. This point is the break-even point. In other words, \"break-even point is the sales amount (number sold) where profit becomes 0 yen.\"",
+      "my": "ဥပမာ ကိတ်မုန့်ဆိုင်တစ်ခုကို ဥပမာအဖြစ်ယူလျှင်...",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "屋",
+          "reading": "や"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "売",
+          "reading": "う"
+        },
+        {
+          "kanji": "損失",
+          "reading": "そんしつ"
+        },
+        {
+          "kanji": "小",
+          "reading": "ちい"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "販売個数",
+          "reading": "はんばいこすう"
+        },
+        {
+          "kanji": "境目",
+          "reading": "さかいめ"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "転",
+          "reading": "てん"
+        },
+        {
+          "kanji": "損益分岐点",
+          "reading": "そんえきぶんきてん"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "言",
+          "reading": "い"
+        },
+        {
+          "kanji": "方",
+          "reading": "かた"
+        },
+        {
+          "kanji": "円",
+          "reading": "えん"
+        },
+        {
+          "kanji": "売上高",
+          "reading": "うりあげだか"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験では「損益分岐点を求める問題」が必ずといっていいほど頻繁に出題される。",
+        "vi": "Trong IT Passport, \"câu hỏi tìm điểm hòa vốn\" gần như chắc chắn được ra đề thường xuyên.",
+        "en": "In the IT Passport exam, \"questions asking for break-even point\" are almost always asked frequently.",
+        "my": "IT Passport စာမေးပွဲတွင် \"break-even point ရှာသော မေးခွန်းများ\" ကို မကြာခဏ မေးလေ့ရှိသည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "損益分岐点",
+            "reading": "そんえきぶんきてん"
+          },
+          {
+            "kanji": "求",
+            "reading": "きゅう"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "必",
+            "reading": "ひつ"
+          },
+          {
+            "kanji": "頻繁",
+            "reading": "ひんぱん"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "損益分岐点の計算方法",
+      "reading": "そんえきぶんきてんのけいさんほうほう",
+      "vi": "Phương pháp tính điểm hòa vốn",
+      "en": "Break-even Point Calculation Method",
+      "my": "Break-even Point တွက်နည်း"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここでは、あるケーキ屋さんを例に、損益分岐点の計算方法を解説します。1つずつ丁寧に解説していくので、「計算は苦手…」という人も、安心して読み進めてみてください。ケーキ屋さんの前提条件は次のとおりです。\n\n・ケーキの値段：300円\n・変動費（1個あたり）：100円\n・固定費（ひと月あたり）：50万円",
+      "vi": "Ở đây, chúng ta sẽ giải thích phương pháp tính điểm hòa vốn với ví dụ tiệm bánh ngọt. Chúng tôi sẽ giải thích từng bước một, vì vậy người \"ghét tính toán\" cũng có thể đọc an tâm. Điều kiện tiền đề của tiệm bánh như sau:\n\n・Giá bánh: 300 yên\n・Chi phí biến đổi (mỗi cái): 100 yên\n・Chi phí cố định (mỗi tháng): 500,000 yên",
+      "en": "Here, we'll explain the break-even point calculation method using a cake shop example. We'll explain step by step, so even if you \"dislike calculations,\" please read with confidence. The cake shop's conditions are:\n\n・Cake price: 300 yen\n・Variable cost (per unit): 100 yen\n・Fixed cost (per month): 500,000 yen",
+      "my": "ဒီမှာ ကိတ်မုန့်ဆိုင် ဥပမာဖြင့် break-even point တွက်နည်းကို ရှင်းပြပါမည်။",
+      "terms": [
+        {
+          "kanji": "屋",
+          "reading": "や"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "損益分岐点",
+          "reading": "そんえきぶんきてん"
+        },
+        {
+          "kanji": "計算方法",
+          "reading": "けいさんほうほう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "丁寧",
+          "reading": "ていねい"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "苦手",
+          "reading": "にがて"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "安心",
+          "reading": "あんしん"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "前提条件",
+          "reading": "ぜんていじょうけん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "値段",
+          "reading": "ねだん"
+        },
+        {
+          "kanji": "円",
+          "reading": "えん"
+        },
+        {
+          "kanji": "変動費",
+          "reading": "へんどうひ"
+        },
+        {
+          "kanji": "個",
+          "reading": "こ"
+        },
+        {
+          "kanji": "固定費",
+          "reading": "こていひ"
+        },
+        {
+          "kanji": "月",
+          "reading": "がつ"
+        },
+        {
+          "kanji": "万円",
+          "reading": "まんえん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "売上の直線を求める",
+      "reading": "うりあげのちょくせんをもとめる",
+      "vi": "Tìm đường thẳng doanh thu",
+      "en": "Finding the Sales Line",
+      "my": "Sales Line ကို ရှာခြင်း"
+    },
+    {
+      "type": "paragraph",
+      "ja": "最初に「売上の直線」を表す方程式を求めます。直線の方程式は、\n\ny=ax+b\n\nで表されます（aは傾き、bは切片です）。売上の直線の傾きはケーキの値段（300円/個）です。なぜなら、ケーキが1個売れることに300円の売上になるからです。\nまた、切片は0円です。なぜなら、ケーキの販売個数が0個のときは売上も0円だからです。\nこの傾きと切片を上記の方程式に当てはめると「売上の直線」は次の式になります。\n\ny=300x+0\n\nこの売上の直線をグラフで表すと次のようになります。",
+      "vi": "Đầu tiên, tìm phương trình biểu diễn \"đường thẳng doanh thu\". Phương trình đường thẳng là:\n\ny=ax+b\n\n(a là độ dốc, b là hệ số chặn). Độ dốc của đường doanh thu là giá bánh (300 yên/cái). Vì mỗi cái bánh bán được tạo ra 300 yên doanh thu.\nHệ số chặn là 0 yên. Vì khi số lượng bánh bán là 0 cái thì doanh thu cũng là 0 yên.\nThay độ dốc và hệ số chặn vào phương trình trên, \"đường thẳng doanh thu\" là:\n\ny=300x+0\n\nBiểu diễn đường doanh thu này trên đồ thị như sau.",
+      "en": "First, find the equation representing the \"sales line.\" The line equation is:\n\ny=ax+b\n\n(a is slope, b is y-intercept). The slope of the sales line is the cake price (300 yen/unit). Because each cake sold generates 300 yen in sales.\nThe y-intercept is 0 yen. Because when 0 cakes are sold, sales are also 0 yen.\nSubstituting slope and y-intercept into the equation, the \"sales line\" is:\n\ny=300x+0\n\nThis sales line on a graph looks like the following.",
+      "my": "ပထမဦးစွာ \"sales line\" ကိုယ်စားပြုသော ညီမျှခြင်းကို ရှာပါ။",
+      "terms": [
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "売上",
+          "reading": "うりあげ"
+        },
+        {
+          "kanji": "直線",
+          "reading": "ちょくせん"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "方程式",
+          "reading": "ほうていしき"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "傾",
+          "reading": "けい"
+        },
+        {
+          "kanji": "切片",
+          "reading": "せっぺん"
+        },
+        {
+          "kanji": "値段",
+          "reading": "ねだん"
+        },
+        {
+          "kanji": "円",
+          "reading": "えん"
+        },
+        {
+          "kanji": "個",
+          "reading": "こ"
+        },
+        {
+          "kanji": "個売",
+          "reading": "こばい"
+        },
+        {
+          "kanji": "販売個数",
+          "reading": "はんばいこすう"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "当",
+          "reading": "とう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "式",
+          "reading": "しき"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_formula": true
+  }
+}

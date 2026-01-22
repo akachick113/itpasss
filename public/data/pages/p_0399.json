@@ -1,0 +1,215 @@
+{
+  "page_id": 399,
+  "image": "p_0399.png",
+  "chapter": 10,
+  "section": "10-05",
+  "page_number": 383,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "10-05",
+      "title": {
+        "ja": "システムの信頼性",
+        "vi": "Độ tin cậy của hệ thống",
+        "en": "System Reliability"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "使い方を間違っても安全",
+        "vi": "An toàn ngay cả khi dùng sai cách",
+        "en": "Safe Even When Used Incorrectly"
+      },
+      "content": {
+        "ja": "電子レンジはドアを開けた状態では動きません。身の回りにはこのような安全を確保する仕組みがたくさんあります。",
+        "vi": "Lò vi sóng không hoạt động khi cửa mở. Xung quanh chúng ta có rất nhiều cơ chế đảm bảo an toàn như vậy.",
+        "en": "Microwave doesn't work with door open. There are many such safety mechanisms around us."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、システムの性能や信頼性を評価する三大指標の1つである「信頼性」について解説します。その他の評価指標である「性能」と「経済性」については前項を参照してください。",
+      "vi": "Từ đây giải thích về \"độ tin cậy\" - một trong ba chỉ số lớn đánh giá hiệu suất và độ tin cậy của hệ thống. Về các chỉ số đánh giá khác \"hiệu suất\" và \"tính kinh tế\", xin xem phần trước.",
+      "en": "From here explains 'reliability' - one of 3 major metrics evaluating system performance and reliability. For other evaluation metrics 'performance' and 'economy,' please refer to previous section.",
+      "terms": [
+        {
+          "kanji": "性能",
+          "reading": "せいのう"
+        },
+        {
+          "kanji": "信頼性",
+          "reading": "しんらいせい"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "三大指標",
+          "reading": "さんだいしひょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "評価指標",
+          "reading": "ひょうかしひょう"
+        },
+        {
+          "kanji": "経済性",
+          "reading": "けいざいせい"
+        },
+        {
+          "kanji": "前項",
+          "reading": "ぜんこう"
+        },
+        {
+          "kanji": "参照",
+          "reading": "さんしょう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "MTBF",
+      "reading": "エムティービーエフ",
+      "vi": "MTBF",
+      "en": "MTBF",
+      "exam_note": "★要チェック！計算方法を覚えよう！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "MTBF（Mean Time Between Failures：平均故障間隔）とは、故障と故障の間、つまり、システムが故障せずに正しく動いていた時間の平均値です。MTBFはシステムの信頼性を表す指標の1つです。MTBFは、次の式で求めます。",
+      "vi": "MTBF (Mean Time Between Failures: Khoảng thời gian trung bình giữa các sự cố) là khoảng giữa các sự cố, tức là giá trị trung bình của thời gian hệ thống hoạt động đúng mà không gặp sự cố. MTBF là một trong các chỉ số biểu thị độ tin cậy của hệ thống. MTBF được tính bằng công thức sau.",
+      "en": "MTBF (Mean Time Between Failures) is time between failures, meaning average time system operated correctly without failure. MTBF is one metric representing system reliability. MTBF is calculated by following formula.",
+      "terms": [
+        {
+          "kanji": "平均故障間隔",
+          "reading": "へいきんこしょうかんかく"
+        },
+        {
+          "kanji": "故障",
+          "reading": "こしょう"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "動",
+          "reading": "どう"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "平均値",
+          "reading": "へいきんち"
+        },
+        {
+          "kanji": "信頼性",
+          "reading": "しんらいせい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "指標",
+          "reading": "しひょう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "式",
+          "reading": "しき"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        }
+      ]
+    },
+    {
+      "type": "formula",
+      "content": {
+        "ja": "MTBF = 稼働時間の合計 ÷ 故障の回数",
+        "vi": "MTBF = Tổng thời gian hoạt động ÷ Số lần sự cố",
+        "en": "MTBF = Total Operating Time ÷ Number of Failures"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、次の図のシステムのMTBFは「130時間」となります。",
+      "vi": "Ví dụ, MTBF của hệ thống trong hình sau là \"130 giờ\".",
+      "en": "For example, MTBF of system in following diagram is '130 hours.'",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "MTBF（平均故障間隔）",
+        "vi": "MTBF (Khoảng thời gian trung bình giữa các sự cố)",
+        "en": "MTBF (Mean Time Between Failures)"
+      },
+      "description": {
+        "ja": "稼働開始から故障までの時間：100時間（稼働期間50時間）→150時間（稼働期間70時間）→140時間（稼働期間60時間）。MTBF = (100 + 150 + 140) ÷ 3回 = 130時間",
+        "vi": "Thời gian từ khi bắt đầu hoạt động đến sự cố: 100 giờ (thời gian hoạt động 50 giờ) → 150 giờ (thời gian hoạt động 70 giờ) → 140 giờ (thời gian hoạt động 60 giờ). MTBF = (100 + 150 + 140) ÷ 3 lần = 130 giờ",
+        "en": "Time from start to failure: 100 hours (operating period 50 hrs) → 150 hours (operating period 70 hrs) → 140 hours (operating period 60 hrs). MTBF = (100 + 150 + 140) ÷ 3 times = 130 hours"
+      },
+      "calculation": "MTBF = (100 + 150 + 140) ÷ 3回 = 130時間"
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "MTBF",
+      "full": "Mean Time Between Failures",
+      "vi": "Khoảng thời gian trung bình giữa các sự cố",
+      "en": "Mean Time Between Failures",
+      "my": "ဟောင်ချက်များကြား ပျမ်းမျှ အချိန်"
+    },
+    {
+      "kanji": "平均故障間隔",
+      "reading": "へいきんこしょうかんかく",
+      "vi": "Khoảng thời gian trung bình giữa các sự cố",
+      "en": "Mean Time Between Failures",
+      "my": "ပျမ်းမျှ ဟောင်ချက် အကွာအရောက်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_formula": true,
+    "is_key_content": true
+  }
+}

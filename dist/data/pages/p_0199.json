@@ -1,0 +1,366 @@
+{
+  "page_id": 199,
+  "image": "p_0199.png",
+  "chapter": 5,
+  "section": "05-03",
+  "page_number": 183,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "05-03",
+      "ja": "業務プロセスを改善する方法",
+      "reading": "ぎょうむぷろせすをかいぜんするほうほう",
+      "vi": "Phương pháp cải thiện quy trình nghiệp vụ",
+      "en": "Methods for Improving Business Processes",
+      "my": "Business Process များကို တိုးတက်အောင်ပြုလုပ်ရန် နည်းလမ်းများ"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "業務プロセスの大掃除",
+        "vi": "Dọn dẹp lớn quy trình nghiệp vụ",
+        "en": "Major Cleanup of Business Processes",
+        "my": "Business Processes ၏ အကြီးအကျယ် သန့်ရှင်းရေး",
+        "terms": [
+          {
+            "kanji": "業務プロセス",
+            "reading": "ぎょうむぷろせす"
+          },
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "さまざまな分析ツールを用いて業務プロセスを分析したら、次は実際に改善をする段階に入ります。業務プロセスの改善は、いわば、業務プロセスの大掃除です。",
+        "vi": "Sau khi phân tích quy trình nghiệp vụ bằng các công cụ phân tích, tiếp theo là giai đoạn cải thiện thực tế. Cải thiện quy trình nghiệp vụ, nói cách khác, là dọn dẹp lớn quy trình nghiệp vụ.",
+        "en": "After analyzing business processes using various analysis tools, next is the stage of actual improvement. Improving business processes is, so to speak, a major cleanup of business processes.",
+        "my": "ခွဲခြမ်းစိတ်ဖြာခြင်း tools အမျိုးမျိုးကို အသုံးပြု၍ business processes ကို ခွဲခြမ်းစိတ်ဖြာပြီးနောက် အမှန်တကယ် တိုးတက်မှု အဆင့်ဖြစ်သည်။",
+        "terms": [
+          {
+            "kanji": "分析",
+            "reading": "ぶんせき"
+          },
+          {
+            "kanji": "用",
+            "reading": "よう"
+          },
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "次",
+            "reading": "つぎ"
+          },
+          {
+            "kanji": "実際",
+            "reading": "じっさい"
+          },
+          {
+            "kanji": "改善",
+            "reading": "かいぜん"
+          },
+          {
+            "kanji": "段階",
+            "reading": "だんかい"
+          },
+          {
+            "kanji": "入",
+            "reading": "はい"
+          },
+          {
+            "kanji": "大掃除",
+            "reading": "おおそうじ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "業務プロセスの改善方法に関係する用語としては「BPR（業務プロセスリエンジニアリング）」「BPM（業務プロセス管理）」「グループウェア」の3つの用語がよく出題されます。これらの用語を念頭において、読み進めてください。",
+      "vi": "Thuật ngữ liên quan đến phương pháp cải thiện quy trình nghiệp vụ thường được ra đề là BPR (Business Process Reengineering), BPM (Business Process Management), Groupware. Hãy đọc và ghi nhớ các thuật ngữ này.",
+      "en": "Terms related to business process improvement methods frequently tested are 'BPR (Business Process Reengineering)', 'BPM (Business Process Management)', and 'Groupware'. Keep these terms in mind as you read.",
+      "my": "Business process တိုးတက်မှု နည်းလမ်းများနှင့် သက်ဆိုင်သော ဝေါဟာရများဖြစ်သည့် BPR, BPM, Groupware တို့ကို မကြာခဏ စမ်းသပ်သည်။",
+      "terms": [
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "改善方法",
+          "reading": "かいぜんほうほう"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "念頭",
+          "reading": "ねんとう"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "BPRとBPM",
+      "vi": "BPR và BPM",
+      "en": "BPR and BPM"
+    },
+    {
+      "type": "paragraph",
+      "ja": "BPR（Business Process Reengineering：業務プロセスリエンジニアリング）とは、企業全体の業務プロセスを「抜本的」に再設計する手法です。BPRで最も重要なポイントは、情報システム戦略（p.176）と同様に、部分最適ではなく全体最適を考え方の根底においているところにあります。\n\nBPRは分業に対する反省から生まれた手法です。分業体制では、各部門が自分たちの生産性を上げることのみに注力します。その結果、部分最適が進み、企業全体の生産性が悪化することもしばしばありました。",
+      "vi": "BPR (Business Process Reengineering) là phương pháp tái thiết kế triệt để quy trình nghiệp vụ toàn doanh nghiệp. Điểm quan trọng nhất của BPR là, giống như chiến lược hệ thống thông tin (trang 176), đặt tối ưu hóa tổng thể thay vì bộ phận làm nền tảng tư duy.\n\nBPR là phương pháp sinh ra từ sự phản tỉnh về phân công lao động. Trong chế độ phân công, mỗi bộ phận chỉ tập trung nâng cao năng suất của mình. Kết quả là tối ưu hóa bộ phận tiến triển, năng suất toàn doanh nghiệp thường xuyên suy giảm.",
+      "en": "BPR (Business Process Reengineering) is a method for 'radically' redesigning enterprise-wide business processes. BPR's most important point, like information system strategy (p.176), has total optimization, not partial optimization, as its fundamental thinking.\n\nBPR was born from reflection on division of labor. In division systems, each department focuses only on raising their productivity. As a result, partial optimization progressed and company-wide productivity often worsened.",
+      "my": "BPR (Business Process Reengineering) သည် လုပ်ငန်းတစ်ခုလုံး၏ business processes ကို 'အကြမ်းဖျင်း' ပြန်လည်ဒီဇိုင်းဆွဲရန် နည်းလမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "企業全体",
+          "reading": "きぎょうぜんたい"
+        },
+        {
+          "kanji": "抜本的",
+          "reading": "ばっぽんてき"
+        },
+        {
+          "kanji": "再設計",
+          "reading": "さいせっけい"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "戦略",
+          "reading": "せんりゃく"
+        },
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        },
+        {
+          "kanji": "部分最適",
+          "reading": "ぶぶんさいてき"
+        },
+        {
+          "kanji": "全体最適",
+          "reading": "ぜんたいさいてき"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "方",
+          "reading": "かた"
+        },
+        {
+          "kanji": "根底",
+          "reading": "こんてい"
+        },
+        {
+          "kanji": "分業",
+          "reading": "ぶんぎょう"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "反省",
+          "reading": "はんせい"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "分業体制",
+          "reading": "ぶんぎょうたいせい"
+        },
+        {
+          "kanji": "各部門",
+          "reading": "かくぶもん"
+        },
+        {
+          "kanji": "自分",
+          "reading": "じぶん"
+        },
+        {
+          "kanji": "生産性",
+          "reading": "せいさんせい"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "注力",
+          "reading": "ちゅうりょく"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "悪化",
+          "reading": "あっか"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "BPRとリストラの違い",
+        "vi": "Sự khác nhau giữa BPR và Restructuring",
+        "en": "Difference Between BPR and Restructuring",
+        "terms": [
+          {
+            "kanji": "BPR",
+            "reading": "びーぴーあーる"
+          }
+        ]
+      },
+      "content": {
+        "ja": "組織を再構築する方法には、「リストラ（Restructuring）」という有名な方法もあります。リストラは、儲からない部門を切り捨てて、儲かる部門に経営資源を集中させることで、効率を上げる手法です。\n\nBPRは効率の悪い業務プロセスを全社規模で改善する手法です。",
+        "vi": "Có phương pháp nổi tiếng để tái cấu trúc tổ chức là Restructuring. Restructuring là phương pháp nâng cao hiệu quả bằng cách cắt bỏ bộ phận không có lãi và tập trung nguồn lực kinh doanh vào bộ phận có lãi.\n\nBPR là phương pháp cải thiện quy trình nghiệp vụ kém hiệu quả trên quy mô toàn công ty.",
+        "en": "There's also a famous method for restructuring organizations called 'Restructuring'. Restructuring improves efficiency by cutting unprofitable departments and concentrating business resources on profitable ones.\n\nBPR is a method for improving inefficient business processes company-wide.",
+        "terms": [
+          {
+            "kanji": "組織",
+            "reading": "そしき"
+          },
+          {
+            "kanji": "再構築",
+            "reading": "さいこうちく"
+          },
+          {
+            "kanji": "方法",
+            "reading": "ほうほう"
+          },
+          {
+            "kanji": "有名",
+            "reading": "ゆうめい"
+          },
+          {
+            "kanji": "儲",
+            "reading": "ちょ"
+          },
+          {
+            "kanji": "部門",
+            "reading": "ぶもん"
+          },
+          {
+            "kanji": "切",
+            "reading": "せつ"
+          },
+          {
+            "kanji": "捨",
+            "reading": "しゃ"
+          },
+          {
+            "kanji": "経営資源",
+            "reading": "けいえいしげん"
+          },
+          {
+            "kanji": "集中",
+            "reading": "しゅうちゅう"
+          },
+          {
+            "kanji": "効率",
+            "reading": "こうりつ"
+          },
+          {
+            "kanji": "上",
+            "reading": "うえ"
+          },
+          {
+            "kanji": "手法",
+            "reading": "しゅほう"
+          },
+          {
+            "kanji": "悪",
+            "reading": "あく"
+          },
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "全社規模",
+            "reading": "ぜんしゃきぼ"
+          },
+          {
+            "kanji": "改善",
+            "reading": "かいぜん"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "BPR",
+      "reading": "びーぴーあーる",
+      "romaji": "Business Process Reengineering",
+      "vi": "Tái thiết kế quy trình nghiệp vụ",
+      "en": "Business Process Reengineering",
+      "my": "စီးပွားရေး လုပ်ငန်းစဉ် ပြန်လည်ဒီဇိုင်းဆွဲခြင်း"
+    },
+    {
+      "kanji": "BPM",
+      "reading": "びーぴーえむ",
+      "romaji": "Business Process Management",
+      "vi": "Quản lý quy trình nghiệp vụ",
+      "en": "Business Process Management",
+      "my": "စီးပွားရေး လုပ်ငန်းစဉ် စီမံခန့်ခွဲခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

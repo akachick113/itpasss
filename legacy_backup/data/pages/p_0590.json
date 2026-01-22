@@ -1,0 +1,111 @@
+{
+    "page_id": 590,
+    "image": "p_0590.png",
+    "chapter": 15,
+    "section": "answer_explanations_2",
+    "page_number": 574,
+    "content": [
+        {
+            "type": "answer_section_header",
+            "title": {
+                "ja": "解答・解説",
+                "vi": "Đáp án và Giải thích",
+                "en": "Answers and Explanations"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "15-15",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "バイオメトリクス認証とは、人間の生体的特徴や行動的特徴を利用して個人を認証する技術です。よって、選択肢bとcがバイオメトリクス認証の例になります。選択肢aはCAPTCHA認証、dはパターン認証の説明です。",
+                "vi": "Xác thực sinh trắc học là công nghệ xác thực cá nhân sử dụng đặc điểm sinh học hoặc đặc điểm hành vi của con người. Vì vậy, lựa chọn b và c là ví dụ về xác thực sinh trắc học. Lựa chọn a là giải thích về xác thực CAPTCHA, d là giải thích về xác thực mẫu.",
+                "en": "Biometric authentication is technology authenticating individuals using human biological or behavioral characteristics. Therefore, options b and c are examples of biometric authentication. Option a is CAPTCHA authentication, d is pattern authentication explanation."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "15-16",
+            "answer": "イ",
+            "explanation": {
+                "ja": "「改ざんの検出」と「改ざんの防止」は似ていますが、異なります。デジタル署名はデータの改ざんを見つけることはできますが、改ざんを防ぐことはできません。",
+                "vi": "\"Phát hiện sửa đổi\" và \"ngăn chặn sửa đổi\" tương tự nhưng khác nhau. Chữ ký số có thể tìm ra sửa đổi dữ liệu, nhưng không thể ngăn chặn sửa đổi.",
+                "en": "\"Detection of falsification\" and \"prevention of falsification\" are similar but different. Digital signature can find data falsification, but cannot prevent falsification."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "15-17",
+            "answer": "エ",
+            "explanation": {
+                "ja": "PKI（Public Key Infrastructure：公開鍵基盤）とは、公開鍵暗号方式やデジタル署名で使用する「公開鍵」の持ち主を保証するためのインフラ（基盤）です。また、CA（Certificate Authority：認証局）とは、公開鍵の所有者を保証するデジタル証明書の発行や失効を行う第三者機関です。つまり、PKIという仕組みにおいて、公開鍵の正当性を保証する第三者機関がCAです。",
+                "vi": "PKI (Public Key Infrastructure: Hạ tầng khóa công khai) là hạ tầng (cơ sở) để đảm bảo chủ sở hữu \"khóa công khai\" được sử dụng trong phương thức mã hóa khóa công khai và chữ ký số. Ngoài ra, CA (Certificate Authority: Cơ quan chứng thực) là tổ chức bên thứ ba phát hành và thu hồi chứng chỉ số đảm bảo chủ sở hữu khóa công khai. Tức là, trong cơ chế PKI, tổ chức bên thứ ba đảm bảo tính hợp lệ của khóa công khai là CA.",
+                "en": "PKI (Public Key Infrastructure) is infrastructure to guarantee owner of 'public key' used in public key encryption and digital signature. Also, CA (Certificate Authority) is third-party organization issuing and revoking digital certificates guaranteeing public key owner. Meaning, in PKI mechanism, third-party organization guaranteeing public key validity is CA."
+            },
+            "wrong_options": {
+                "ア": {
+                    "ja": "プロキシサーバの役割です。",
+                    "vi": "Đây là vai trò của Proxy Server.",
+                    "en": "This is Proxy Server's role."
+                },
+                "イ": {
+                    "ja": "ファイアウォールの役割です。",
+                    "vi": "Đây là vai trò của Firewall.",
+                    "en": "This is Firewall's role."
+                },
+                "ウ": {
+                    "ja": "DNS（Domain Name System）の役割です。",
+                    "vi": "Đây là vai trò của DNS (Domain Name System).",
+                    "en": "This is DNS (Domain Name System)'s role."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "15-18",
+            "answer": "イ",
+            "explanation": {
+                "ja": "公開鍵暗号方式では共通鍵を使わないので、選択肢アとは誤りです。また、選択肢ウ、エは、一方の鍵（公開）で暗号化して、もう一方の鍵（秘密鍵）で復号します。つまり、この方式では暗号化鍵と復号鍵が異なるため、秘密鍵（復号できる鍵）は配布せず、公開鍵（暗号化できる鍵）のみを配布します。暗号文を読めるのは秘密鍵を持っている人だけなので、公開鍵は安全に配布できます。一方、公開鍵暗号方式は、計算が複雑なため処理速度が「遅く」なります。共通鍵暗号方式では、同じ鍵（共通鍵）を暗号化と復号に使用します。共通鍵暗号方式では、鍵を相手に渡さなければいけないので、鍵の安全な配布が「難しく」なります。一方、共通鍵暗号方式は、処理が単純なため処理速度が「速く」なります。",
+                "vi": "Phương thức mã hóa khóa công khai không sử dụng khóa chung, nên lựa chọn ア và エ là sai. Ngoài ra, lựa chọn Ư và Ⅱ mã hóa bằng một khóa (công khai) và giải mã bằng khóa kia (bí mật). Tức là, trong phương thức này khóa mã hóa và khóa giải mã khác nhau, nên không phân phối khóa bí mật (khóa có thể giải mã), chỉ phân phối khóa công khai (khóa có thể mã hóa). Chỉ người có khóa bí mật mới đọc được văn bản mã hóa, nên khóa công khai có thể phân phối an toàn. Mặt khác, phương thức mã hóa khóa công khai \"chậm\" do tính toán phức tạp. Phương thức mã hóa khóa chung sử dụng cùng khóa (khóa chung) để mã hóa và giải mã. Phương thức mã hóa khóa chung \"khó\" phân phối khóa an toàn vì phải gửi khóa cho đối phương. Mặt khác, phương thức mã hóa khóa chung \"nhanh\" do xử lý đơn giản.",
+                "en": "Public key encryption doesn't use common key, so options ア and エ are wrong. Also, options ウ and エ encrypt with one key (public) and decrypt with other key (private). Meaning, in this method encryption and decryption keys differ, so don't distribute private key (decryption key), only distribute public key (encryption key). Only person with private key can read ciphertext, so public key can be distributed safely. On other hand, public key encryption is 'slow' due to complex calculations. Common key encryption uses same key (common key) for encryption and decryption. Common key encryption makes safe key distribution 'difficult' because must give key to other party. On other hand, common key encryption is 'fast' due to simple processing."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "15-20",
+            "answer": "エ",
+            "explanation": {
+                "ja": "ワンタイムパスワードのキーワードは「使い捨て」です。文中の「一度しか使えない（使い捨て）」を「使い捨て」と読み替えられれば正答を導き出せます。",
+                "vi": "Từ khóa của One-Time Password là \"dùng một lần\". Nếu thay thế \"chỉ có thể sử dụng một lần (dùng một lần)\" trong văn bản thành \"dùng một lần\" là có thể dẫn ra đáp án đúng.",
+                "en": "One-Time Password keyword is 'disposable.' If you can replace 'can only be used once (disposable)' in text with 'disposable,' you can derive correct answer."
+            },
+            "wrong_options": {
+                "ア": {
+                    "ja": "シングルサインオンに関する記述です。",
+                    "vi": "Đây là mô tả về Single Sign-On.",
+                    "en": "This is description about Single Sign-On."
+                },
+                "イ": {
+                    "ja": "バイオメトリクス認証に関する記述です。",
+                    "vi": "Đây là mô tả về xác thực sinh trắc học.",
+                    "en": "This is description about biometric authentication."
+                },
+                "ウ": {
+                    "ja": "マトリックス認証に関する記述です。",
+                    "vi": "Đây là mô tả về xác thực ma trận.",
+                    "en": "This is description about matrix authentication."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "15-21",
+            "answer": "イ",
+            "explanation": {
+                "ja": "SSL/TLSを使った通信ではURLの先頭は「https://」です。過去の問題では「SSL/TLS」を単に「SSL」と表記することがあるので注意してください。",
+                "vi": "Truyền thông sử dụng SSL/TLS có URL bắt đầu bằng \"https://\". Trong các đề thi cũ, \"SSL/TLS\" đôi khi được viết đơn giản là \"SSL\" nên hãy chú ý.",
+                "en": "Communication using SSL/TLS has URL starting with 'https://'. In past questions, 'SSL/TLS' is sometimes written simply as 'SSL' so be careful."
+            }
+        }
+    ]
+}

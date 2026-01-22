@@ -1,0 +1,362 @@
+{
+  "page_id": 182,
+  "image": "p_0182.png",
+  "chapter": 4,
+  "section": "04-06",
+  "page_number": 166,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "IoTサーバとは、IoTデバイスを管理する機器です。IoTサーバは、IoTデバイスからデータを受信して処理を行い、IoTデバイスに指示を送信します。\n\n一方、IoTデバイスとは、モノのインターネット（IoT）のモノにあたる機器です。家庭用のIoTデバイスの例としては、スマートスピーカーなどがあります。また、産業用のIoTデバイスの例としては、飛行機のエンジンなどがあります。飛行機のエンジンにたくさんのセンサーをつけて、状況をリアルタイムに監視すれば、故障を検知できます。IoTデバイスはさらに、センサーとアクチュエーターで構成されます。",
+      "vi": "IoT Server là thiết bị quản lý IoT Device. IoT Server nhận dữ liệu từ IoT Device, xử lý và gửi chỉ thị đến IoT Device.\n\nMặt khác, IoT Device là thiết bị tương ứng với vật trong Internet of Things (IoT). Ví dụ IoT Device gia đình là smart speaker. Ví dụ IoT Device công nghiệp là động cơ máy bay. Gắn nhiều cảm biến vào động cơ máy bay và giám sát realtime có thể phát hiện hỏng hóc. IoT Device còn bao gồm Sensor và Actuator.",
+      "en": "IoT Server is a device that manages IoT Devices. It receives data from IoT Devices, processes it, and sends instructions to IoT Devices.\n\nIoT Device is the 'thing' in Internet of Things. Home IoT Device examples include smart speakers. Industrial IoT Device examples include airplane engines. By attaching many sensors to airplane engines and monitoring in real-time, failures can be detected. IoT Devices further consist of sensors and actuators.",
+      "my": "IoT Server သည် IoT Devices များကို စီမံခန့်ခွဲသော ကိရိယာဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "機器",
+          "reading": "きき"
+        },
+        {
+          "kanji": "受信",
+          "reading": "じゅしん"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "指示",
+          "reading": "しじ"
+        },
+        {
+          "kanji": "送信",
+          "reading": "そうしん"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "家庭用",
+          "reading": "かていよう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "産業用",
+          "reading": "さんぎょうよう"
+        },
+        {
+          "kanji": "飛行機",
+          "reading": "ひこうき"
+        },
+        {
+          "kanji": "状況",
+          "reading": "じょうきょう"
+        },
+        {
+          "kanji": "監視",
+          "reading": "かんし"
+        },
+        {
+          "kanji": "故障",
+          "reading": "こしょう"
+        },
+        {
+          "kanji": "検知",
+          "reading": "けんち"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "センサーとアクチュエーター",
+      "reading": "せんさーとあくちゅえーたー",
+      "vi": "Sensor và Actuator",
+      "en": "Sensor and Actuator"
+    },
+    {
+      "type": "paragraph",
+      "ja": "センサーとは、物理量を検出して電気信号に変える装置です。IoTにおけるセンサーの役割は、IoTデバイスの周りの状況（温度、湿度、光、音など）を計測し、デジタル化することで、計測対象に応じて色々な種類のセンサーが使われています。\n\n一方、アクチュエーターとは、電気信号を力学的な運動に変える装置です。IoTにおけるアクチュエーターの役割は、IoTサーバから受信した信号にしたがってIoTデバイスを制御することです。\n\n例えば、「外気温に応じて、窓を開閉するIoTシステム」の場合、各機器は次のような役割を持ちます。\n\n・センサー → 外気温を計測して電気信号に変換する\n・IoTサーバ → IoTデバイスから外気温データを受信する\n　　　　　　　IoTデバイスに対して窓の開閉を指示する\n・アクチュエーター → 窓を開閉する",
+      "vi": "Sensor là thiết bị phát hiện đại lượng vật lý và chuyển thành tín hiệu điện. Vai trò của Sensor trong IoT là đo tình trạng xung quanh IoT Device (nhiệt độ, độ ẩm, ánh sáng, âm thanh) và số hóa, sử dụng nhiều loại sensor tùy đối tượng đo.\n\nMặt khác, Actuator là thiết bị chuyển tín hiệu điện thành chuyển động cơ học. Vai trò của Actuator trong IoT là điều khiển IoT Device theo tín hiệu nhận từ IoT Server.\n\nVí dụ, với hệ thống IoT mở/đóng cửa sổ theo nhiệt độ ngoài trời, mỗi thiết bị có vai trò:\n\n・Sensor → Đo nhiệt độ ngoài trời và chuyển thành tín hiệu điện\n・IoT Server → Nhận dữ liệu nhiệt độ từ IoT Device\n　　　　　　　Chỉ thị đóng/mở cửa sổ cho IoT Device\n・Actuator → Đóng/mở cửa sổ",
+      "en": "Sensor is a device that detects physical quantities and converts to electrical signals. In IoT, sensors measure conditions around IoT Devices (temperature, humidity, light, sound) and digitize them.\n\nActuator is a device converting electrical signals to mechanical motion. In IoT, actuators control IoT Devices according to signals from IoT Server.\n\nFor example, in an 'IoT system that opens/closes windows based on outside temperature':\n\n・Sensor → Measures outside temperature and converts to electrical signal\n・IoT Server → Receives temperature data from IoT Device\n　　　　　　Instructs IoT Device to open/close window\n・Actuator → Opens/closes window",
+      "my": "Sensor သည် ရုပ်ပိုင်းဆိုင်ရာ ပမာဏများကို ရှာဖွေ၍ လျှပ်စစ်အချက်ပြမှုများသို့ ပြောင်းလဲသော ကိရိယာဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "物理量",
+          "reading": "ぶつりりょう"
+        },
+        {
+          "kanji": "検出",
+          "reading": "けんしゅつ"
+        },
+        {
+          "kanji": "電気信号",
+          "reading": "でんきしんごう"
+        },
+        {
+          "kanji": "変",
+          "reading": "へん"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "周",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "状況",
+          "reading": "じょうきょう"
+        },
+        {
+          "kanji": "温度",
+          "reading": "おんど"
+        },
+        {
+          "kanji": "湿度",
+          "reading": "しつど"
+        },
+        {
+          "kanji": "光",
+          "reading": "ひかり"
+        },
+        {
+          "kanji": "音",
+          "reading": "おと"
+        },
+        {
+          "kanji": "計測",
+          "reading": "けいそく"
+        },
+        {
+          "kanji": "化",
+          "reading": "か"
+        },
+        {
+          "kanji": "計測対象",
+          "reading": "けいそくたいしょう"
+        },
+        {
+          "kanji": "応",
+          "reading": "おう"
+        },
+        {
+          "kanji": "色",
+          "reading": "いろ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "力学的",
+          "reading": "りきがくてき"
+        },
+        {
+          "kanji": "運動",
+          "reading": "うんどう"
+        },
+        {
+          "kanji": "受信",
+          "reading": "じゅしん"
+        },
+        {
+          "kanji": "信号",
+          "reading": "しんごう"
+        },
+        {
+          "kanji": "制御",
+          "reading": "せいぎょ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "外気温",
+          "reading": "がいきおん"
+        },
+        {
+          "kanji": "窓",
+          "reading": "まど"
+        },
+        {
+          "kanji": "開閉",
+          "reading": "かいへい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "各機器",
+          "reading": "かくきき"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "指示",
+          "reading": "しじ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "IoTゲートウェイ",
+      "reading": "あいおーてぃーげーとうぇい",
+      "vi": "IoT Gateway",
+      "en": "IoT Gateway"
+    },
+    {
+      "type": "paragraph",
+      "ja": "IoTデバイスは、インターネットへの接続機能の有無によって、次の2種類に分類できます。\n\n・IoTデバイスから直接インターネットに接続してデータを送受信できるタイプ\n・IoTデバイスには必要最低限の機能のみを持たせ、インターネットへの接続には別の機器を利用するタイプ\n\n上記のうち、インターネットへの接続機能を持たないIoTデバイスの代わりに、インターネットへの接続を行う機器のことを「IoTゲートウェイ」といいます。",
+      "vi": "IoT Device được phân loại thành 2 loại dựa trên khả năng kết nối internet:\n\n・Loại có thể kết nối trực tiếp từ IoT Device đến internet để gửi/nhận dữ liệu\n・Loại IoT Device chỉ có chức năng tối thiểu cần thiết, sử dụng thiết bị khác để kết nối internet\n\nTrong số trên, thiết bị kết nối internet thay cho IoT Device không có chức năng kết nối internet gọi là IoT Gateway.",
+      "en": "IoT Devices are classified into 2 types based on internet connectivity:\n\n・Type that can connect directly to internet from IoT Device to send/receive data\n・Type where IoT Device has only minimum necessary functions, using separate device for internet connection\n\nAmong these, the device that connects to internet on behalf of IoT Devices without internet connectivity is called 'IoT Gateway'.",
+      "my": "IoT Devices ကို အင်တာနက် ချိတ်ဆက်နိုင်မှုအပေါ် အခြေခံ၍ အမျိုးအစား ၂ မျိုး ခွဲခြားထားသည်။",
+      "terms": [
+        {
+          "kanji": "接続機能",
+          "reading": "せつぞくきのう"
+        },
+        {
+          "kanji": "有無",
+          "reading": "うむ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "直接",
+          "reading": "ちょくせつ"
+        },
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "送受信",
+          "reading": "そうじゅしん"
+        },
+        {
+          "kanji": "必要最低限",
+          "reading": "ひつようさいていげん"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "機器",
+          "reading": "きき"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "代",
+          "reading": "だい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "センサー",
+      "reading": "せんさー",
+      "romaji": "Sensor",
+      "vi": "Cảm biến",
+      "en": "Sensor",
+      "my": "Sensor"
+    },
+    {
+      "kanji": "アクチュエーター",
+      "reading": "あくちゅえーたー",
+      "romaji": "Actuator",
+      "vi": "Bộ truyền động",
+      "en": "Actuator",
+      "my": "Actuator"
+    },
+    {
+      "kanji": "IoTゲートウェイ",
+      "reading": "あいおーてぃーげーとうぇい",
+      "romaji": "IoT Gateway",
+      "vi": "Gateway IoT",
+      "en": "IoT Gateway",
+      "my": "IoT Gateway"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false
+  }
+}

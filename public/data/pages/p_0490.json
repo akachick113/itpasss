@@ -1,0 +1,193 @@
+{
+  "page_id": 490,
+  "image": "p_0490.png",
+  "chapter": 13,
+  "section": "13-04",
+  "page_number": 474,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ロールフォワード",
+      "vi": "Rollforward",
+      "en": "Rollforward"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ロールフォワード",
+        "vi": "Rollforward",
+        "en": "Rollforward"
+      },
+      "definition": {
+        "ja": "ロールフォワードとは、障害が発生した際に、データベースをトランザクション完了直後の状態に戻す手法です。ロールフォワードでは「バックアップファイル」と「更新後ログファイル」を用いてデータベースを復元します。",
+        "vi": "Rollforward là phương pháp khôi phục cơ sở dữ liệu về trạng thái ngay sau khi giao dịch hoàn thành khi sự cố xảy ra. Trong Rollforward, sử dụng \"Tệp sao lưu\" và \"Tệp nhật ký sau cập nhật\" để khôi phục cơ sở dữ liệu.",
+        "en": "Rollforward is method restoring database to state just after transaction completed when failure occurs. In Rollforward, uses 'Backup file' and 'After-update log file' to restore database."
+      }
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "ロールフォワード",
+        "vi": "Rollforward",
+        "en": "Rollforward"
+      },
+      "description": {
+        "ja": "バックアップ→トランザクション開始→トランザクション→トランザクション完了→障害発生（トランザクション完了後）→ロールフォワード（「バックアップファイル」と「更新後ログファイル」を使ってトランザクション完了直後の状態にデータベースを戻す）",
+        "vi": "Sao lưu → Bắt đầu giao dịch → Giao dịch → Hoàn thành giao dịch → Sự cố xảy ra (sau khi hoàn thành giao dịch) → Rollforward (Sử dụng \"Tệp sao lưu\" và \"Tệp nhật ký sau cập nhật\" để khôi phục cơ sở dữ liệu về trạng thái ngay sau khi hoàn thành giao dịch)",
+        "en": "Backup → Transaction start → Transaction → Transaction complete → Failure occurs (after transaction complete) → Rollforward (Use 'Backup file' and 'After-update log file' to restore database to state just after transaction completed)"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（3）排他制御",
+      "vi": "(3) Điều khiển loại trừ",
+      "en": "(3) Exclusive Control"
+    },
+    {
+      "type": "paragraph",
+      "ja": "DBMS（データベース管理システム）の主要3機能の最後にして、最も重要な機能は「排他制御」です。",
+      "vi": "Cuối cùng trong 3 chức năng chính của DBMS (Hệ thống quản lý cơ sở dữ liệu), và là chức năng quan trọng nhất là \"Điều khiển loại trừ\".",
+      "en": "Last of DBMS (Database Management System) 3 main functions, and most important function is 'Exclusive Control.'",
+      "terms": [
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "主要",
+          "reading": "しゅよう"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "最後",
+          "reading": "さいご"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "排他制御",
+          "reading": "はいたせいぎょ"
+        }
+      ]
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "排他制御",
+        "vi": "Điều khiển loại trừ",
+        "en": "Exclusive Control"
+      },
+      "definition": {
+        "ja": "排他制御とは、複数の人が同じデータを同時に更新しようとした場合に、データに矛盾が生じないようにする機能です。具体例を用いて詳しく解説します。",
+        "vi": "Điều khiển loại trừ là chức năng đảm bảo dữ liệu không bị mâu thuẫn khi nhiều người cố gắng cập nhật cùng dữ liệu đồng thời. Sẽ giải thích chi tiết bằng ví dụ cụ thể.",
+        "en": "Exclusive control is function ensuring data doesn't become inconsistent when multiple people try to update same data simultaneously. Will explain in detail using concrete example."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "下図を見てください。下図は、太郎くんと花子さんが二人で経営する八百屋さんの「りんごの在庫処理」を表した図です。開店当初、りんごは3個あります。",
+      "vi": "Hãy xem hình dưới. Hình dưới biểu thị \"Xử lý tồn kho táo\" của cửa hàng rau quả do Taro và Hanako cùng kinh doanh. Khi mở cửa hàng, có 3 quả táo.",
+      "en": "See diagram below. Diagram shows 'apple inventory processing' of vegetable shop run by Taro and Hanako together. At shop opening, there are 3 apples.",
+      "terms": [
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "太郎",
+          "reading": "たろう"
+        },
+        {
+          "kanji": "花子",
+          "reading": "はなこ"
+        },
+        {
+          "kanji": "二人",
+          "reading": "ふたり"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "八百屋",
+          "reading": "やおや"
+        },
+        {
+          "kanji": "在庫処理",
+          "reading": "ざいこしょり"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "開店当初",
+          "reading": "かいてんとうしょ"
+        },
+        {
+          "kanji": "個",
+          "reading": "こ"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "りんごの販売（ロックなし）",
+        "vi": "Bán táo (Không khóa)",
+        "en": "Apple Sales (No Lock)"
+      },
+      "description": {
+        "ja": "太郎（①1個売る→②3個だと知る→④1個減らして2個にする）と花子（①1個売る→③3個だと知る→④1個減らして2個にする）が同時に処理。結果：在庫が2個になってしまう（本来は1個であるべき）",
+        "vi": "Taro (①Bán 1 quả → ②Biết có 3 quả → ④Giảm 1 quả thành 2 quả) và Hanako (①Bán 1 quả → ③Biết có 3 quả → ④Giảm 1 quả thành 2 quả) xử lý đồng thời. Kết quả: Tồn kho thành 2 quả (lẽ ra phải là 1 quả)",
+        "en": "Taro (①Sell 1 → ②Know there are 3 → ④Reduce by 1 to 2) and Hanako (①Sell 1 → ③Know there are 3 → ④Reduce by 1 to 2) process simultaneously. Result: Inventory becomes 2 (should be 1)"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ロールフォワード",
+      "vi": "Rollforward",
+      "en": "Rollforward",
+      "my": "ရိုးဖော်ဝါ့"
+    },
+    {
+      "term": "更新後ログファイル",
+      "reading": "こうしんごログファイル",
+      "vi": "Tệp nhật ký sau cập nhật",
+      "en": "After-update Log File",
+      "my": "အပ်ဒိတ်ပြီး လော့ဖိုင်"
+    },
+    {
+      "term": "排他制御",
+      "reading": "はいたせいぎょ",
+      "vi": "Điều khiển loại trừ",
+      "en": "Exclusive Control",
+      "my": "အက်စကလူးစစ် ကန်ထရိုး"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

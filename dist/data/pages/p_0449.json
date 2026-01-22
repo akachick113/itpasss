@@ -1,0 +1,236 @@
+{
+  "page_id": 449,
+  "image": "p_0449.png",
+  "chapter": 12,
+  "section": "12-02",
+  "page_number": 433,
+  "content": [
+    {
+      "type": "code_example",
+      "code": "/画像/高解像度/みかん.jpg",
+      "annotation": {
+        "ja": "← 絶対パス",
+        "vi": "← Đường dẫn tuyệt đối",
+        "en": "← Absolute path"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ルール4 1階層上のディレクトリは「..」で表す",
+      "vi": "Quy tắc 4: Thư mục trên 1 cấp được biểu thị bằng \"..\"",
+      "en": "Rule 4: Directory 1 Level Up Represented by '..'"
+    },
+    {
+      "type": "paragraph",
+      "ja": "これまでは、ルートディレクトリからの指定方法（絶対パス）、またはカレントディレクトリよりも下の階層にあるファイルやフォルダの指定方法（相対パス）を解説してきました。",
+      "vi": "Đến nay, đã giải thích phương pháp chỉ định từ thư mục gốc (đường dẫn tuyệt đối), hoặc phương pháp chỉ định tệp và thư mục ở cấp thấp hơn thư mục hiện tại (đường dẫn tương đối).",
+      "en": "Until now, explained specification method from root directory (absolute path), or specification method for files and folders in lower levels than current directory (relative path).",
+      "terms": [
+        {
+          "kanji": "指定方法",
+          "reading": "していほうほう"
+        },
+        {
+          "kanji": "絶対",
+          "reading": "ぜったい"
+        },
+        {
+          "kanji": "下",
+          "reading": "した"
+        },
+        {
+          "kanji": "階層",
+          "reading": "かいそう"
+        },
+        {
+          "kanji": "相対",
+          "reading": "そうたい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "絶対パスの場合は、最上位にあるルートディレクトリからパスを指定するので、パスの指定は常に上から下へ向かいますが、相対パスの場合は、カレントディレクトリよりも上の階層のファイルやフォルダを指定するケースもあります。例えば、下図において、カレントディレクトリが「画像」フォルダの場合に、「どんぐりころころ.mp3」ファイルを指定する場合を考えてみましょう。",
+      "vi": "Trong trường hợp đường dẫn tuyệt đối, vì chỉ định đường dẫn từ thư mục gốc ở cấp cao nhất, chỉ định đường dẫn luôn đi từ trên xuống dưới, nhưng trong trường hợp đường dẫn tương đối, cũng có trường hợp chỉ định tệp hoặc thư mục ở cấp cao hơn thư mục hiện tại. Ví dụ, trong hình dưới, hãy xem xét trường hợp chỉ định tệp \"donguri_korokoro.mp3\" khi thư mục hiện tại là thư mục \"Hình ảnh\".",
+      "en": "In absolute path case, since specifying path from root directory at top, path specification always goes top to bottom, but in relative path case, may specify files or folders in higher levels than current directory. For example, in diagram below, consider case of specifying 'donguri_korokoro.mp3' file when current directory is 'Image' folder.",
+      "terms": [
+        {
+          "kanji": "絶対",
+          "reading": "ぜったい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "最上位",
+          "reading": "さいじょうい"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "下",
+          "reading": "した"
+        },
+        {
+          "kanji": "向",
+          "reading": "こう"
+        },
+        {
+          "kanji": "相対",
+          "reading": "そうたい"
+        },
+        {
+          "kanji": "階層",
+          "reading": "かいそう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "画像",
+          "reading": "がぞう"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "カレントディレクトリからのパス指定②",
+        "vi": "Chỉ định đường dẫn từ thư mục hiện tại ②",
+        "en": "Path Specification from Current Directory ②"
+      },
+      "description": {
+        "ja": "画像ディレクトリがカレントディレクトリ。「..」で1つ上の階層（ルートディレクトリ）に上がり、そこから「音楽」→「どんぐりころころ.mp3」へアクセス",
+        "vi": "Thư mục Hình ảnh là thư mục hiện tại. Dùng \"..\" để lên 1 cấp (thư mục gốc), từ đó truy cập \"Âm nhạc\" → \"donguri_korokoro.mp3\"",
+        "en": "Image directory is current directory. Use '..' to go up 1 level (root directory), from there access 'Music' → 'donguri_korokoro.mp3'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "上図のようなツリー構造の場合、相対パスで「どんぐりころころ.mp3」を指定するには、いったん「ルートディレクトリ」に上がってから、「音楽」→「どんぐりころころ.mp3」へと階層を下がっていく必要があります。",
+      "vi": "Trong trường hợp cấu trúc cây như hình trên, để chỉ định \"donguri_korokoro.mp3\" bằng đường dẫn tương đối, cần lên \"Thư mục gốc\" trước, sau đó đi xuống \"Âm nhạc\" → \"donguri_korokoro.mp3\".",
+      "en": "In tree structure case like above diagram, to specify 'donguri_korokoro.mp3' with relative path, need to first go up to 'Root Directory,' then go down to 'Music' → 'donguri_korokoro.mp3.'",
+      "terms": [
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "構造",
+          "reading": "こうぞう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "相対",
+          "reading": "そうたい"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "音楽",
+          "reading": "おんがく"
+        },
+        {
+          "kanji": "階層",
+          "reading": "かいそう"
+        },
+        {
+          "kanji": "下",
+          "reading": "した"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、階層を上がる際に指定するのが「..」（ドット2つ）です。つまり、カレントディレクトリが「画像」フォルダの場合に、相対パスで「どんぐりころころ.mp3」を指定するには、次のようにパスを指定します。",
+      "vi": "Như vậy, khi đi lên cấp, chỉ định bằng \"..\" (2 dấu chấm). Nghĩa là, khi thư mục hiện tại là thư mục \"Hình ảnh\", để chỉ định \"donguri_korokoro.mp3\" bằng đường dẫn tương đối, chỉ định đường dẫn như sau.",
+      "en": "Like this, '..' (two dots) is specified when going up levels. Meaning, when current directory is 'Image' folder, to specify 'donguri_korokoro.mp3' with relative path, specify path as follows.",
+      "terms": [
+        {
+          "kanji": "階層",
+          "reading": "かいそう"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "画像",
+          "reading": "がぞう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "相対",
+          "reading": "そうたい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "code": "../音楽/どんぐりころころ.mp3",
+      "annotation": {
+        "ja": "「../」で1つ上の階層に上がる",
+        "vi": "\"../\" để lên 1 cấp",
+        "en": "'../' to go up 1 level"
+      }
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_code_example": true,
+    "is_key_content": true
+  }
+}

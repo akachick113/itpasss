@@ -1,0 +1,248 @@
+{
+  "page_id": 322,
+  "image": "p_0322.png",
+  "chapter": 8,
+  "section": "08-05",
+  "page_number": 306,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "監査人の独立性",
+      "reading": "かんさにんのどくりつせい",
+      "vi": "Tính độc lập của Auditor",
+      "en": "Auditor Independence"
+    },
+    {
+      "type": "paragraph",
+      "ja": "監査人は、独立した第三者であることが必要です。より具体的には、被監査部門と利害関係がない者です。利害関係があると正しく評価できない可能性があります。",
+      "vi": "Auditor cần phải là bên thứ ba độc lập. Cụ thể hơn, là người không có quan hệ lợi ích với bộ phận bị audit. Nếu có quan hệ lợi ích, có thể không đánh giá đúng.",
+      "en": "Auditor must be independent third party. More specifically, person with no interest relationship with audited department. If there's interest relationship, may not evaluate correctly.",
+      "terms": [
+        {
+          "kanji": "監査人",
+          "reading": "かんさにん"
+        },
+        {
+          "kanji": "独立",
+          "reading": "どくりつ"
+        },
+        {
+          "kanji": "第三者",
+          "reading": "だいさんしゃ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "被監査部門",
+          "reading": "ひかんさぶもん"
+        },
+        {
+          "kanji": "利害関係",
+          "reading": "りがいかんけい"
+        },
+        {
+          "kanji": "者",
+          "reading": "もの"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "下図は内部監査の場合の監査部門の位置づけです。経理部や営業部、情報システム部などとは独立した組織になっており、独立性を保っていることがわかります。",
+      "vi": "Sơ đồ dưới đây là vị trí bộ phận audit trong trường hợp Internal Audit. Có thể thấy đây là tổ chức độc lập với bộ phận kế toán, bộ phận kinh doanh, bộ phận hệ thống thông tin, duy trì tính độc lập.",
+      "en": "Diagram below shows audit department position in Internal Audit case. Can see it's organization independent from accounting, sales, information systems departments, maintaining independence.",
+      "terms": [
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "内部監査",
+          "reading": "ないぶかんさ"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "監査部門",
+          "reading": "かんさぶもん"
+        },
+        {
+          "kanji": "位置",
+          "reading": "いち"
+        },
+        {
+          "kanji": "経理部",
+          "reading": "けいりぶ"
+        },
+        {
+          "kanji": "営業部",
+          "reading": "えいぎょうぶ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "部",
+          "reading": "ぶ"
+        },
+        {
+          "kanji": "独立",
+          "reading": "どくりつ"
+        },
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        },
+        {
+          "kanji": "独立性",
+          "reading": "どくりつせい"
+        },
+        {
+          "kanji": "保",
+          "reading": "ほ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "「システム監査基準」（p.302）には、システム監査人の独立性に関して次のように記載されています。",
+      "vi": "Trong \"System Audit Standards\" (trang 302), về tính độc lập của System Auditor được ghi như sau.",
+      "en": "In 'System Audit Standards' (p.302), regarding System Auditor independence, it's stated as follows.",
+      "terms": [
+        {
+          "kanji": "監査基準",
+          "reading": "かんさきじゅん"
+        },
+        {
+          "kanji": "監査人",
+          "reading": "かんさにん"
+        },
+        {
+          "kanji": "独立性",
+          "reading": "どくりつせい"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "記載",
+          "reading": "きさい"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "監査人の独立性",
+        "vi": "Tính độc lập của Auditor",
+        "en": "Auditor Independence"
+      },
+      "structure": [
+        {
+          "ja": "社長",
+          "vi": "Giám đốc",
+          "en": "President"
+        },
+        {
+          "ja": "監査部（独立している！）",
+          "vi": "Phòng Audit (Độc lập!)",
+          "en": "Audit Dept (Independent!)"
+        },
+        {
+          "ja": "経理部",
+          "vi": "Phòng kế toán",
+          "en": "Accounting Dept"
+        },
+        {
+          "ja": "営業部",
+          "vi": "Phòng kinh doanh",
+          "en": "Sales Dept"
+        },
+        {
+          "ja": "情報システム部",
+          "vi": "Phòng hệ thống thông tin",
+          "en": "IT Dept"
+        }
+      ]
+    },
+    {
+      "type": "quote_box",
+      "content": {
+        "ja": "監査人が監査対象の領域又は活動から、独立かつ客観的な立場で監査が実施されているという外観にも十分に配慮されなければならない。",
+        "vi": "Phải chú ý đầy đủ đến việc auditor thực hiện audit từ vị trí độc lập và khách quan với lĩnh vực hoặc hoạt động là đối tượng audit.",
+        "en": "Sufficient attention must be paid to appearance that auditor is conducting audit from independent and objective position from target area or activity."
+      },
+      "source": "出典：システム監査基準　【1】システム監査の属性に係る基準　【基準4】監査の独立性と客観性の保持"
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "監査人は独立した第三者であること（身内は不可）",
+          "vi": "Auditor phải là bên thứ ba độc lập (không được là người nhà)",
+          "en": "Auditor must be independent third party (insiders not allowed)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "独立性",
+      "reading": "どくりつせい",
+      "romaji": "Dokuritsusei",
+      "vi": "Tính độc lập",
+      "en": "Independence",
+      "my": "လွတ်လပ်မှု"
+    },
+    {
+      "kanji": "利害関係",
+      "reading": "りがいかんけい",
+      "romaji": "Rigai Kankei",
+      "vi": "Quan hệ lợi ích",
+      "en": "Interest Relationship",
+      "my": "အကျိုးစီးပွား ဆက်ဆံမှု"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

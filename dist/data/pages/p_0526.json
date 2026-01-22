@@ -1,0 +1,215 @@
+{
+  "page_id": 526,
+  "image": "p_0526.png",
+  "chapter": 14,
+  "section": "14-05",
+  "page_number": 510,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "IoTとネットワーク",
+      "vi": "IoT và Mạng",
+      "en": "IoT and Network"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験の試験範囲には、IoT関連の用語も多数含まれています。ここではネットワークと関連性の深いIoT関連用語を解説します。",
+      "vi": "Phạm vi thi IT Passport bao gồm nhiều thuật ngữ liên quan đến IoT. Ở đây sẽ giải thích các thuật ngữ liên quan đến IoT có liên quan sâu với mạng.",
+      "en": "IT Passport exam scope includes many IoT-related terms. Here will explain IoT-related terms deeply related to network.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "試験範囲",
+          "reading": "しけんはんい"
+        },
+        {
+          "kanji": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "多数含",
+          "reading": "たすうがん"
+        },
+        {
+          "kanji": "関連性",
+          "reading": "かんれんせい"
+        },
+        {
+          "kanji": "深",
+          "reading": "ふか"
+        },
+        {
+          "kanji": "関連用語",
+          "reading": "かんれんようご"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "BLE",
+      "vi": "BLE",
+      "en": "BLE"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "BLE",
+        "vi": "BLE",
+        "en": "BLE"
+      },
+      "definition": {
+        "ja": "BLE（Bluetooth Low Energy）とは、Bluetoothの仕様の1つで、省電力（Low Energy）の通信規格です。従来のBluetoothよりも通信速度が遅い分、省電力であるため、IoT機器での利用に適しています。BLEはボタン電池1つで数年稼働するといわれています。",
+        "vi": "BLE (Bluetooth Low Energy) là một trong những thông số kỹ thuật của Bluetooth, là tiêu chuẩn truyền thông tiết kiệm năng lượng (Low Energy). Vì tốc độ truyền thông chậm hơn Bluetooth truyền thống nhưng tiết kiệm năng lượng, nên phù hợp để sử dụng trong thiết bị IoT. BLE được cho là có thể hoạt động vài năm với 1 pin cúc áo.",
+        "en": "BLE (Bluetooth Low Energy) is one of Bluetooth specifications, low power (Low Energy) communication standard. Because slower communication speed than traditional Bluetooth but power-saving, suitable for IoT device use. BLE is said to operate for several years with 1 button cell battery."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "LPWA",
+      "vi": "LPWA",
+      "en": "LPWA"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "LPWA",
+        "vi": "LPWA",
+        "en": "LPWA"
+      },
+      "definition": {
+        "ja": "LPWA（Low Power Wide Area）とは、省電力で広範囲の通信ができる無線通信です。数十kmの通信距離を持ちます。LTE（4G）よりも省電力であり、BLEよりも通信距離が長いという特徴があります。",
+        "vi": "LPWA (Low Power Wide Area) là truyền thông không dây có thể truyền thông phạm vi rộng với điện năng thấp. Có khoảng cách truyền thông vài chục km. Có đặc điểm tiết kiệm năng lượng hơn LTE (4G) và khoảng cách truyền thông xa hơn BLE.",
+        "en": "LPWA (Low Power Wide Area) is wireless communication capable of wide-range communication with low power. Has communication distance of tens of km. Features more power-saving than LTE (4G) and longer communication distance than BLE."
+      }
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "各通信規格の特徴",
+        "vi": "Đặc điểm của các tiêu chuẩn truyền thông",
+        "en": "Characteristics of Communication Standards"
+      },
+      "description": {
+        "ja": "縦軸：消費電力（大↑小↓）、横軸：通信距離（近←→遠）。Wi-Fi/LTE：消費電力大・通信距離遠。BLE：消費電力小・通信距離近。LPWA：消費電力小・通信距離遠",
+        "vi": "Trục dọc: Tiêu thụ điện (lớn↑nhỏ↓), Trục ngang: Khoảng cách truyền thông (gần←→xa). Wi-Fi/LTE: Tiêu thụ điện lớn・khoảng cách xa. BLE: Tiêu thụ điện nhỏ・khoảng cách gần. LPWA: Tiêu thụ điện nhỏ・khoảng cách xa",
+        "en": "Vertical axis: Power consumption (high↑low↓), Horizontal axis: Communication distance (near←→far). Wi-Fi/LTE: High power・long distance. BLE: Low power・short distance. LPWA: Low power・long distance"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "上図のとおり、LPWAはBLEよりも通信距離が長く、LTEよりも省電力です。一方で、消費電力が小さいということは通信速度が遅いということでもあります。LPWAはWi-FiやLTEよりも通信速度が遅いです。",
+      "vi": "Như hình trên, LPWA có khoảng cách truyền thông xa hơn BLE và tiết kiệm năng lượng hơn LTE. Mặt khác, tiêu thụ điện nhỏ cũng có nghĩa là tốc độ truyền thông chậm. LPWA có tốc độ truyền thông chậm hơn Wi-Fi và LTE.",
+      "en": "As shown above, LPWA has longer communication distance than BLE and more power-saving than LTE. On other hand, low power consumption also means slow communication speed. LPWA has slower communication speed than Wi-Fi and LTE.",
+      "terms": [
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "通信距離",
+          "reading": "つうしんきょり"
+        },
+        {
+          "kanji": "長",
+          "reading": "なが"
+        },
+        {
+          "kanji": "省電力",
+          "reading": "しょうでんりょく"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "消費電力",
+          "reading": "しょうひでんりょく"
+        },
+        {
+          "kanji": "小",
+          "reading": "ちい"
+        },
+        {
+          "kanji": "通信速度",
+          "reading": "つうしんそくど"
+        },
+        {
+          "kanji": "遅",
+          "reading": "ち"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験ではLPWAとBLE、LTE（4G）、Wi-Fiとの違いが出題されます。しっかりと覚えておいてください。",
+      "vi": "Trong kỳ thi IT Passport, sự khác biệt giữa LPWA và BLE, LTE (4G), Wi-Fi được ra đề. Hãy nhớ kỹ.",
+      "en": "In IT Passport exam, differences between LPWA and BLE, LTE (4G), Wi-Fi appear. Remember well.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "LPWAの覚え方",
+        "vi": "Cách nhớ LPWA",
+        "en": "How to Remember LPWA",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "LPWAの定義の覚え方は簡単です。LPWAの正語「Low Power Wide Area」を思い出せれば、それがそのままLPWAの特徴となります。つまり「Low Power」（省電力）で、「Wide Area」（広範囲）です。",
+        "vi": "Cách nhớ định nghĩa LPWA rất đơn giản. Nếu nhớ được tên đầy đủ \"Low Power Wide Area\" của LPWA, đó chính là đặc điểm của LPWA. Tức là \"Low Power\" (tiết kiệm năng lượng) và \"Wide Area\" (phạm vi rộng).",
+        "en": "Remembering LPWA definition is simple. If you can recall full name 'Low Power Wide Area' of LPWA, that becomes LPWA's characteristics. Meaning 'Low Power' (power-saving) and 'Wide Area' (wide range)."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "BLE",
+      "full": "Bluetooth Low Energy",
+      "vi": "BLE (Bluetooth năng lượng thấp)",
+      "en": "BLE (Bluetooth Low Energy)",
+      "my": "BLE (Bluetooth စွမ်းအင်နည်းနည်း)"
+    },
+    {
+      "term": "LPWA",
+      "full": "Low Power Wide Area",
+      "vi": "LPWA (Phạm vi rộng năng lượng thấp)",
+      "en": "LPWA (Low Power Wide Area)",
+      "my": "LPWA (စွမ်းအင်နည်းနည်း ကျယ်ပြန့်)"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,189 @@
+{
+    "page_id": 599,
+    "image": "p_0599.png",
+    "chapter": "review",
+    "section": "exam_review",
+    "page_number": 583,
+    "content": [
+        {
+            "type": "review_terms_continued",
+            "chapter_num": 10,
+            "terms": [
+                {
+                    "ja": "処理が高速",
+                    "vi": "Xử lý nhanh",
+                    "en": "Fast processing"
+                },
+                {
+                    "ja": "SSDには可動部品がないため、振動や衝撃に強い",
+                    "vi": "SSD không có bộ phận chuyển động nên chịu rung và va đập tốt",
+                    "en": "SSD has no moving parts so resistant to vibration and shock"
+                },
+                {
+                    "ja": "SSDは消費電力が少ない",
+                    "vi": "SSD tiêu thụ ít điện năng",
+                    "en": "SSD consumes less power"
+                },
+                {
+                    "ja": "保存容量はCDが約700MB、DVDが約4.7GB、Blu-ray Discが約25GB",
+                    "vi": "Dung lượng lưu trữ: CD khoảng 700MB, DVD khoảng 4.7GB, Blu-ray Disc khoảng 25GB",
+                    "en": "Storage capacity: CD about 700MB, DVD about 4.7GB, Blu-ray Disc about 25GB"
+                },
+                {
+                    "ja": "キャッシュメモリとは、CPUの内部に搭載されている超高速の記憶装置",
+                    "vi": "Cache Memory là thiết bị lưu trữ siêu tốc được trang bị bên trong CPU",
+                    "en": "Cache Memory is ultra-high-speed storage device installed inside CPU"
+                },
+                {
+                    "ja": "キャッシュメモリはCPUと主記憶装置の処理速度の差を解消するためのもの",
+                    "vi": "Cache Memory là để giải quyết chênh lệch tốc độ xử lý giữa CPU và bộ nhớ chính",
+                    "en": "Cache Memory is to resolve processing speed difference between CPU and main memory"
+                },
+                {
+                    "ja": "RAMとは、揮発性メモリの総称",
+                    "vi": "RAM là tên gọi chung của bộ nhớ bay hơi",
+                    "en": "RAM is general term for volatile memory"
+                },
+                {
+                    "ja": "ROMとは、不揮発性メモリの総称",
+                    "vi": "ROM là tên gọi chung của bộ nhớ không bay hơi",
+                    "en": "ROM is general term for non-volatile memory"
+                },
+                {
+                    "ja": "DRAMは、主記憶装置（メインメモリ）に使われる",
+                    "vi": "DRAM được sử dụng cho bộ nhớ chính (Main Memory)",
+                    "en": "DRAM is used for main memory"
+                },
+                {
+                    "ja": "SRAMは、キャッシュメモリに使われる",
+                    "vi": "SRAM được sử dụng cho Cache Memory",
+                    "en": "SRAM is used for Cache Memory"
+                },
+                {
+                    "ja": "SSD/USBメモリ、SDカードの中身はフラッシュメモリである",
+                    "vi": "Bên trong SSD/USB Memory, thẻ SD là Flash Memory",
+                    "en": "Inside SSD/USB Memory, SD card is Flash Memory"
+                },
+                {
+                    "ja": "光の3色のことを指しての3つのことを「光の三原色」という",
+                    "vi": "3 màu ánh sáng được gọi là \"ba màu cơ bản của ánh sáng\"",
+                    "en": "3 colors of light are called 'three primary colors of light'"
+                },
+                {
+                    "ja": "ディスプレイは赤（Red）、緑（Green）、青（Blue）の3つの色を使う。この3色のことを「光の三原色」という",
+                    "vi": "Màn hình sử dụng 3 màu đỏ (Red), xanh lá (Green), xanh dương (Blue). 3 màu này được gọi là \"ba màu cơ bản của ánh sáng\"",
+                    "en": "Display uses 3 colors: red, green, blue. These 3 colors are called 'three primary colors of light'"
+                },
+                {
+                    "ja": "光の三原色のことを指して「RGB」という",
+                    "vi": "Ba màu cơ bản của ánh sáng được gọi là \"RGB\"",
+                    "en": "Three primary colors of light are called 'RGB'"
+                },
+                {
+                    "ja": "3Dプリンタとは、3次元データを用いて、立体物を造形する装置",
+                    "vi": "Máy in 3D là thiết bị tạo hình vật thể lập thể sử dụng dữ liệu 3 chiều",
+                    "en": "3D Printer is device creating 3D objects using 3D data"
+                },
+                {
+                    "ja": "USBとは、キーボードやマウスなどの周辺機器を接続でき、現在最も普及している入出力ポート",
+                    "vi": "USB là cổng vào/ra phổ biến nhất hiện nay có thể kết nối thiết bị ngoại vi như bàn phím, chuột",
+                    "en": "USB is most widespread I/O port currently that can connect peripherals like keyboard, mouse"
+                },
+                {
+                    "ja": "プラグアンドプレイ",
+                    "vi": "Plug and Play",
+                    "en": "Plug and Play"
+                },
+                {
+                    "ja": "HDMIとは、映像や音声をやり取りする規格",
+                    "vi": "HDMI là tiêu chuẩn trao đổi video và âm thanh",
+                    "en": "HDMI is standard for exchanging video and audio"
+                },
+                {
+                    "ja": "Bluetoothとは、無線でデータをやり取りする規格",
+                    "vi": "Bluetooth là tiêu chuẩn trao đổi dữ liệu không dây",
+                    "en": "Bluetooth is standard for wirelessly exchanging data"
+                },
+                {
+                    "ja": "デバイスドライバとは、PCから周辺機器を操作するためのソフトウェアである。このソフトウェアを自動的にインストールする機能のことを「プラグアンドプレイ」という",
+                    "vi": "Device Driver là phần mềm vận hành thiết bị ngoại vi từ PC. Chức năng tự động cài đặt phần mềm này được gọi là \"Plug and Play\"",
+                    "en": "Device Driver is software for operating peripherals from PC. Function automatically installing this software is called 'Plug and Play'"
+                }
+            ]
+        },
+        {
+            "type": "review_terms_continued",
+            "title": {
+                "ja": "索引",
+                "vi": "Mục lục",
+                "en": "Index"
+            },
+            "terms": [
+                {
+                    "ja": "フルバックアップとは、常にすべてのデータをバックアップすること",
+                    "vi": "Full Backup là luôn backup tất cả dữ liệu",
+                    "en": "Full Backup is always backing up all data"
+                },
+                {
+                    "ja": "差分バックアップとは、フルバックアップ後に新しく追加されたデータをバックアップすること",
+                    "vi": "Differential Backup là backup dữ liệu mới được thêm sau Full Backup",
+                    "en": "Differential Backup is backing up newly added data after Full Backup"
+                },
+                {
+                    "ja": "増分バックアップとは、前回のバックアップから新規に追加されたデータのみをバックアップ",
+                    "vi": "Incremental Backup là chỉ backup dữ liệu mới được thêm từ lần backup trước",
+                    "en": "Incremental Backup is backing up only newly added data since previous backup"
+                },
+                {
+                    "ja": "リパゲーションとは、内容をリアルタイムに反映する",
+                    "vi": "Replication là phản ánh nội dung theo thời gian thực",
+                    "en": "Replication is reflecting content in real-time"
+                },
+                {
+                    "ja": "セルの値をコピーすることを「参照」という。「$」を入力すると参照位置が固定される",
+                    "vi": "Sao chép giá trị ô được gọi là \"tham chiếu\". Nhập \"$\" sẽ cố định vị trí tham chiếu",
+                    "en": "Copying cell value is called 'reference.' Inputting '$' fixes reference position"
+                },
+                {
+                    "ja": "列名、または行番号の前に「$」を付けるとその位置が固定される",
+                    "vi": "Đặt \"$\" trước tên cột hoặc số hàng sẽ cố định vị trí đó",
+                    "en": "Adding '$' before column name or row number fixes that position"
+                },
+                {
+                    "ja": "ユニバーサルデザインとは、年齢、文化、言語、障がいの有無にかかわらず、誰でも利用できることを目指した設計",
+                    "vi": "Universal Design là thiết kế hướng đến mọi người có thể sử dụng bất kể tuổi tác, văn hóa, ngôn ngữ, có khuyết tật hay không",
+                    "en": "Universal Design is design aiming for anyone to use regardless of age, culture, language, disability"
+                },
+                {
+                    "ja": "参照先の位置を固定する記載方法を「参照」という",
+                    "vi": "Phương pháp ghi cố định vị trí tham chiếu được gọi là \"tham chiếu\"",
+                    "en": "Notation method fixing reference position is called 'reference'"
+                },
+                {
+                    "ja": "ユニバーサルデザインとバリアフリーは異なる",
+                    "vi": "Universal Design và Barrier-free khác nhau",
+                    "en": "Universal Design and Barrier-free are different"
+                },
+                {
+                    "ja": "アクセシビリティとは、高齢者や障がい者を含む、あらゆる人が利用できることを目指したもの",
+                    "vi": "Accessibility là hướng đến mọi người có thể sử dụng bao gồm người cao tuổi và người khuyết tật",
+                    "en": "Accessibility is aiming for all people including elderly and disabled to use"
+                },
+                {
+                    "ja": "オープンソースソフトウェア（OSS）とは、ソースコードが公開されており、改良された再配布を行うソフトウェアである",
+                    "vi": "Open Source Software (OSS) là phần mềm có mã nguồn được công khai và tái phân phối cải tiến",
+                    "en": "Open Source Software (OSS) is software with public source code allowing improved redistribution"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "is_review": true,
+        "chapters_covered": [
+            10,
+            11,
+            12
+        ]
+    }
+}

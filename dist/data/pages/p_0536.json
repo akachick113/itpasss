@@ -1,0 +1,48 @@
+{
+    "page_id": 536,
+    "image": "p_0536.png",
+    "chapter": 14,
+    "section": "Answer",
+    "page_number": 520,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "14-17",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "ESSIDステルスは、無線ネットワークの名前（ESSID）を一般の無線ネットワーク検索から隠す設定です。ESSIDステルスでは、正規の利用者にはESSIDを直接入力してもらい、第三者にはESSIDを見せないことで、不正接続のリスクを低減できます。",
+                "vi": "ESSID Stealth là cài đặt ẩn tên mạng không dây (ESSID) khỏi tìm kiếm mạng không dây thông thường. Trong ESSID Stealth, bằng cách yêu cầu người dùng hợp lệ nhập ESSID trực tiếp và không cho bên thứ ba thấy ESSID, có thể giảm rủi ro kết nối trái phép.",
+                "en": "ESSID Stealth is setting hiding wireless network name (ESSID) from general wireless network search. In ESSID Stealth, by having legitimate users enter ESSID directly and not showing ESSID to third parties, can reduce unauthorized connection risk."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "WPA3によって得られる効果です。",
+                        "vi": "Là hiệu quả đạt được bởi WPA3.",
+                        "en": "Is effect obtained from WPA3."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "パスワード認証によって得られる効果です。",
+                        "vi": "Là hiệu quả đạt được bởi xác thực mật khẩu.",
+                        "en": "Is effect obtained from password authentication."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "アドホックモードによって得られる効果です。",
+                        "vi": "Là hiệu quả đạt được bởi chế độ Ad-hoc.",
+                        "en": "Is effect obtained from ad-hoc mode."
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "is_answer": true
+    }
+}

@@ -1,0 +1,326 @@
+{
+  "page_id": 155,
+  "image": "p_0155.png",
+  "chapter": 4,
+  "section": "04-02",
+  "page_number": 139,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "隣り合った次のニューロンの入力になります。\n\nこのようなニューロンの処理はプログラム上では関数として実装されます。次のニューロンに渡す値を出力する関数のことを活性化関数といいます。",
+      "vi": "Trở thành đầu vào của neuron tiếp theo liền kề.\n\nXử lý neuron như vậy được triển khai như hàm trong chương trình. Hàm xuất giá trị truyền cho neuron tiếp theo gọi là hàm kích hoạt.",
+      "en": "Becomes input for the adjacent next neuron.\n\nSuch neuron processing is implemented as functions in programs. The function that outputs values to pass to the next neuron is called activation function.",
+      "my": "ကပ်လျက် နောက် neuron ၏ input ဖြစ်လာသည်။",
+      "terms": [
+        {
+          "kanji": "隣",
+          "reading": "となり"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "kanji": "実装",
+          "reading": "じっそう"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "活性化関数",
+          "reading": "かっせいかかんすう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "これまでの解説をまとめると、ニューラルネットワークとは、多数のニューロンが組み合わさって作られたモデルであり、これらのニューロンは活性化関数を用いて入力を処理し、出力していくプログラムであるといえます。",
+      "vi": "Tóm tắt giải thích đến nay, Neural Network là mô hình được tạo bởi sự kết hợp của nhiều neuron, và các neuron này là chương trình xử lý đầu vào bằng hàm kích hoạt và xuất ra.",
+      "en": "Summarizing explanations so far, neural network is a model combining many neurons, and these neurons are programs that process input using activation functions and output.",
+      "my": "ယခုအထိ ရှင်းပြချက်များကို အကျဉ်းချုပ်အားဖြင့် neural network သည် neurons များစွာ ပေါင်းစပ်ထားသော model ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "多数",
+          "reading": "たすう"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "活性化関数",
+          "reading": "かっせいかかんすう"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・ニューラルネットワークは、人間の神経細胞が信号をやり取りする仕組みを模したモデル\n・活性化関数は、次のニューロンに渡す値を出力する",
+        "vi": "・Neural Network là mô hình mô phỏng cơ chế tế bào thần kinh con người trao đổi tín hiệu\n・Hàm kích hoạt xuất giá trị truyền cho neuron tiếp theo",
+        "en": "・Neural network is a model imitating how human nerve cells exchange signals\n・Activation function outputs values to pass to the next neuron",
+        "my": "・ Neural network သည် လူသား အာရုံကြောဆဲလ်များ အချက်ပြမှုများ ဖလှယ်ပုံကို အတုယူသော model ဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "人間",
+            "reading": "にんげん"
+          },
+          {
+            "kanji": "神経細胞",
+            "reading": "しんけいさいぼう"
+          },
+          {
+            "kanji": "信号",
+            "reading": "しんごう"
+          },
+          {
+            "kanji": "取",
+            "reading": "と"
+          },
+          {
+            "kanji": "仕組",
+            "reading": "しくみ"
+          },
+          {
+            "kanji": "模",
+            "reading": "も"
+          },
+          {
+            "kanji": "活性化関数",
+            "reading": "かっせいかかんすう"
+          },
+          {
+            "kanji": "次",
+            "reading": "つぎ"
+          },
+          {
+            "kanji": "渡",
+            "reading": "わたり"
+          },
+          {
+            "kanji": "値",
+            "reading": "あたい"
+          },
+          {
+            "kanji": "出力",
+            "reading": "しゅつりょく"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ディープラーニング",
+      "reading": "でぃーぷらーにんぐ",
+      "vi": "Deep Learning",
+      "en": "Deep Learning",
+      "my": "Deep Learning"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ディープラーニングとは、ニューラルネットワークを多層化したモデルです。ディープラーニングでは、コンピュータ自身がニューラルネットワークを使って大量のデータを分析することで、データの規則性を見つけ出します。ニューラルネットワークを何重にも重ねることで、より高度な学習が可能になります。",
+      "vi": "Deep Learning là mô hình nhiều lớp của Neural Network. Trong Deep Learning, máy tính tự phân tích lượng lớn dữ liệu bằng Neural Network để tìm ra quy luật dữ liệu. Bằng cách chồng nhiều lớp Neural Network, học tập cao cấp hơn trở nên khả thi.",
+      "en": "Deep learning is a multi-layered neural network model. In deep learning, computers themselves analyze large amounts of data using neural networks to find data patterns. By stacking multiple neural network layers, more advanced learning becomes possible.",
+      "my": "Deep learning သည် အလွှာများစွာပါသော neural network model ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "多層化",
+          "reading": "たそうか"
+        },
+        {
+          "kanji": "自身",
+          "reading": "じしん"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "大量",
+          "reading": "たいりょう"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "規則性",
+          "reading": "きそくせい"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "何重",
+          "reading": "なんじゅう"
+        },
+        {
+          "kanji": "重",
+          "reading": "おも"
+        },
+        {
+          "kanji": "高度",
+          "reading": "こうど"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ディープラーニングでは、コンピュータ自身がニューラルネットワークを使って大量のデータを分析することで、データの規則性を見つけ出す",
+        "vi": "Deep Learning: máy tính tự phân tích lượng lớn dữ liệu bằng Neural Network để tìm ra quy luật dữ liệu",
+        "en": "In deep learning, computers themselves find data patterns by analyzing large amounts of data using neural networks",
+        "my": "Deep learning တွင် ကွန်ပျူတာများသည် neural networks အသုံးပြု၍ ဒေတာအများအပြား ခွဲခြမ်းစိတ်ဖြာခြင်းဖြင့် ဒေတာပုံစံများ ရှာဖွေသည်",
+        "terms": [
+          {
+            "kanji": "自身",
+            "reading": "じしん"
+          },
+          {
+            "kanji": "使",
+            "reading": "つか"
+          },
+          {
+            "kanji": "大量",
+            "reading": "たいりょう"
+          },
+          {
+            "kanji": "分析",
+            "reading": "ぶんせき"
+          },
+          {
+            "kanji": "規則性",
+            "reading": "きそくせい"
+          },
+          {
+            "kanji": "見",
+            "reading": "み"
+          },
+          {
+            "kanji": "出",
+            "reading": "で"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "活性化関数",
+      "reading": "かっせいかかんすう",
+      "romaji": "Kasseika Kansuu",
+      "vi": "Hàm kích hoạt",
+      "en": "Activation Function",
+      "my": "Activation Function"
+    },
+    {
+      "kanji": "ディープラーニング",
+      "reading": "でぃーぷらーにんぐ",
+      "romaji": "Deep Learning",
+      "vi": "Học sâu",
+      "en": "Deep Learning",
+      "my": "Deep Learning"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

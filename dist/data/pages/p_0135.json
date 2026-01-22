@@ -1,0 +1,218 @@
+{
+  "page_id": 135,
+  "image": "p_0135.png",
+  "chapter": 3,
+  "section": "03-04",
+  "page_number": 119,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "SCM",
+      "reading": "えすしーえむ",
+      "vi": "SCM",
+      "en": "SCM",
+      "my": "SCM"
+    },
+    {
+      "type": "paragraph",
+      "ja": "SCM（Supply Chain Management：供給連鎖管理）とは、社内だけでなく、社外も含めた調達・生産・販売などのプロセス全体の最適化を行う手法です。\n\n自動車産業のように1つの車を製造するのに多くの部品が必要となるような産業では、1つの企業だけで製品を完成させることができません。部品を作る下請け会社や、製品を運ぶ物流業者など、複数の企業が協力して製品を完成させます。",
+      "vi": "SCM (Supply Chain Management: Quản lý chuỗi cung ứng) là phương pháp tối ưu hóa toàn bộ quy trình mua sắm, sản xuất, bán hàng không chỉ trong công ty mà còn bên ngoài.\n\nTrong ngành cần nhiều linh kiện để sản xuất 1 sản phẩm như ô tô, không thể hoàn thành sản phẩm chỉ bằng 1 công ty. Nhiều công ty hợp tác như nhà thầu phụ làm linh kiện và công ty vận chuyển để hoàn thành sản phẩm.",
+      "en": "SCM (Supply Chain Management) is a method to optimize entire processes of procurement, production, sales not just internally but including external companies.\n\nIn industries like automobiles requiring many parts for one product, one company alone cannot complete products. Multiple companies cooperate like subcontractors making parts and logistics companies transporting products.",
+      "my": "SCM (Supply Chain Management) သည် ပြင်ပကုမ္ပဏီများပါ အပါအဝင် ဝယ်ယူရေး၊ ထုတ်လုပ်ရေး၊ ရောင်းချရေး စသည့် လုပ်ငန်းစဉ်တစ်ခုလုံးကို အကောင်းဆုံးဖြစ်အောင် လုပ်ဆောင်သည့် နည်းလမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "供給連鎖管理",
+          "reading": "きょうきゅうれんさかんり"
+        },
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "社外",
+          "reading": "しゃがい"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "調達",
+          "reading": "ちょうたつ"
+        },
+        {
+          "kanji": "生産",
+          "reading": "せいさん"
+        },
+        {
+          "kanji": "販売",
+          "reading": "はんばい"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "最適化",
+          "reading": "さいてきか"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "自動車産業",
+          "reading": "じどうしゃさんぎょう"
+        },
+        {
+          "kanji": "車",
+          "reading": "くるま"
+        },
+        {
+          "kanji": "製造",
+          "reading": "せいぞう"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "部品",
+          "reading": "ぶひん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "産業",
+          "reading": "さんぎょう"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "完成",
+          "reading": "かんせい"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "下請",
+          "reading": "したうけ"
+        },
+        {
+          "kanji": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "kanji": "運",
+          "reading": "うん"
+        },
+        {
+          "kanji": "物流業者",
+          "reading": "ぶつりゅうぎょうしゃ"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "協力",
+          "reading": "きょうりょく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "従来は、関連する各企業が個別に生産管理をしていましたが、SCMを使うと、企業同士を鎖のようにつなげて、供給プロセス全体を最適化できます。その結果、",
+      "vi": "Trước đây, mỗi công ty liên quan quản lý sản xuất riêng, nhưng sử dụng SCM có thể liên kết các công ty như chuỗi và tối ưu hóa toàn bộ quy trình cung ứng. Kết quả là,",
+      "en": "Previously, each related company managed production separately, but using SCM connects companies like a chain to optimize entire supply process. As a result,",
+      "my": "ယခင်က သက်ဆိုင်ရာ ကုမ္ပဏီတစ်ခုချင်းစီ ထုတ်လုပ်ရေးကို သီးခြားစီမံခန့်ခွဲခဲ့သော်လည်း SCM အသုံးပြုခြင်းဖြင့် ကုမ္ပဏီများကို ကွင်းဆက်တစ်ခုကဲ့သို့ ချိတ်ဆက်ပြီး ပံ့ပိုးရေးလုပ်ငန်းစဉ်တစ်ခုလုံးကို အကောင်းဆုံးဖြစ်အောင် လုပ်ဆောင်နိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "従来",
+          "reading": "じゅうらい"
+        },
+        {
+          "kanji": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "kanji": "各企業",
+          "reading": "かくきぎょう"
+        },
+        {
+          "kanji": "個別",
+          "reading": "こべつ"
+        },
+        {
+          "kanji": "生産管理",
+          "reading": "せいさんかんり"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "企業同士",
+          "reading": "きぎょうどうし"
+        },
+        {
+          "kanji": "鎖",
+          "reading": "くさり"
+        },
+        {
+          "kanji": "供給",
+          "reading": "きょうきゅう"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "最適化",
+          "reading": "さいてきか"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "SCM",
+      "reading": "えすしーえむ",
+      "romaji": "SCM",
+      "vi": "Quản lý chuỗi cung ứng",
+      "en": "Supply Chain Management",
+      "my": "SCM"
+    },
+    {
+      "kanji": "供給連鎖",
+      "reading": "きょうきゅうれんさ",
+      "romaji": "Kyoukyuu Rensa",
+      "vi": "Chuỗi cung ứng",
+      "en": "Supply Chain",
+      "my": "ပံ့ပိုးကွင်းဆက်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true
+  }
+}

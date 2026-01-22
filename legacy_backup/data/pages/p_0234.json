@@ -1,0 +1,204 @@
+{
+    "page_id": 234,
+    "image": "p_0234.png",
+    "chapter": 5,
+    "section": "practice",
+    "page_number": 218,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "5-19",
+            "year": "サンプル問題",
+            "question": {
+                "ja": "システム開発案件A、B、Cのうち、採算性があるものはどれか。ここで、採算検討の対象期間はシステムのサービス開始後の5年目までとし、サービス開始後は、毎年、システムのメンテナンス費用が初期投資額の10%発生するものとする。",
+                "vi": "Trong các dự án phát triển hệ thống A, B, C, dự án nào có tính sinh lợi? Tại đây, kỳ xem xét sinh lợi là đến năm thứ 5 sau khi bắt đầu dịch vụ hệ thống, và sau khi bắt đầu dịch vụ, mỗi năm phát sinh chi phí bảo trì hệ thống bằng 10% số tiền đầu tư ban đầu.",
+                "en": "Of system development projects A, B, C, which is profitable? Here, the profitability review period is up to 5 years after system service starts, and after service starts, system maintenance costs of 10% of initial investment occur annually."
+            },
+            "table": {
+                "title": {
+                    "ja": "単位：百万円",
+                    "vi": "Đơn vị: triệu yên",
+                    "en": "Unit: million yen"
+                },
+                "headers": [
+                    "システム開発案件",
+                    "初期投資額",
+                    "毎年のシステム効果"
+                ],
+                "headers_vi": [
+                    "Dự án phát triển hệ thống",
+                    "Số tiền đầu tư ban đầu",
+                    "Hiệu quả hệ thống hàng năm"
+                ],
+                "rows": [
+                    [
+                        "A",
+                        "250",
+                        "80"
+                    ],
+                    [
+                        "B",
+                        "450",
+                        "140"
+                    ],
+                    [
+                        "C",
+                        "700",
+                        "200"
+                    ]
+                ]
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "AとB",
+                    "vi": "A và B",
+                    "en": "A and B",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "BとC",
+                    "vi": "B và C",
+                    "en": "B and C"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "CとA",
+                    "vi": "C và A",
+                    "en": "C and A"
+                },
+                {
+                    "label": "エ",
+                    "ja": "AとBとC",
+                    "vi": "A, B và C",
+                    "en": "A, B, and C"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-20",
+            "year": "サンプル問題",
+            "question": {
+                "ja": "図のソフトウェアライフサイクルを、運用プロセス、開発プロセス、企画プロセス、保守プロセス、要件定義プロセスに分類したとき、aに当てはまるものはどれか。",
+                "vi": "Khi phân loại vòng đời phần mềm trong hình thành quy trình vận hành, quy trình phát triển, quy trình lập kế hoạch, quy trình bảo trì, quy trình định nghĩa yêu cầu, điều gì phù hợp với a?",
+                "en": "When classifying the software lifecycle in the diagram into operation process, development process, planning process, maintenance process, and requirements definition process, what fits in 'a'?"
+            },
+            "diagram": {
+                "description": {
+                    "ja": "ソフトウェアライフサイクルの流れを示す図。左から右へ矢印で繋がれた箱があり、最後の箱は「保守プロセス」と表示。",
+                    "vi": "Sơ đồ thể hiện luồng vòng đời phần mềm. Có các hộp được nối bằng mũi tên từ trái sang phải, hộp cuối hiển thị 'Quy trình bảo trì'.",
+                    "en": "Diagram showing software lifecycle flow. Boxes connected by arrows from left to right, last box displays 'Maintenance Process'."
+                }
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "運用プロセス",
+                    "vi": "Quy trình vận hành",
+                    "en": "Operation Process"
+                },
+                {
+                    "label": "イ",
+                    "ja": "開発プロセス",
+                    "vi": "Quy trình phát triển",
+                    "en": "Development Process"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "企画プロセス",
+                    "vi": "Quy trình lập kế hoạch",
+                    "en": "Planning Process"
+                },
+                {
+                    "label": "エ",
+                    "ja": "要件定義プロセス",
+                    "vi": "Quy trình định nghĩa yêu cầu",
+                    "en": "Requirements Definition Process",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-21",
+            "year": "平成21年度",
+            "question": {
+                "ja": "要件定義プロセスに含まれる作業はどれか。",
+                "vi": "Công việc nào được bao gồm trong quy trình định nghĩa yêu cầu?",
+                "en": "Which work is included in the requirements definition process?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "システム化計画の作成と承認",
+                    "vi": "Lập và phê duyệt kế hoạch hệ thống hóa",
+                    "en": "Creating and approving system planning"
+                },
+                {
+                    "label": "イ",
+                    "ja": "システム詳細設計の実施",
+                    "vi": "Thực hiện thiết kế chi tiết hệ thống",
+                    "en": "Implementing detailed system design"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "システム投資効果とシステム化費用の予測",
+                    "vi": "Dự đoán hiệu quả đầu tư hệ thống và chi phí hệ thống hóa",
+                    "en": "Predicting system investment effects and systemization costs"
+                },
+                {
+                    "label": "エ",
+                    "ja": "システム利用者のニーズの整理",
+                    "vi": "Tổng hợp nhu cầu của người dùng hệ thống",
+                    "en": "Organizing system user needs",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-22",
+            "year": "平成31年度",
+            "question": {
+                "ja": "要件定義プロセスの不備に起因する問題はどれか。",
+                "vi": "Vấn đề nào phát sinh do thiếu sót trong quy trình định nghĩa yêu cầu?",
+                "en": "Which problem is caused by deficiencies in the requirements definition process?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "システム開発案件の費用対効果の誤った評価",
+                    "vi": "Đánh giá sai hiệu quả chi phí của dự án phát triển hệ thống",
+                    "en": "Incorrect evaluation of cost-effectiveness of system development projects"
+                },
+                {
+                    "label": "イ",
+                    "ja": "システム開発案件の優先順位の誤った判断",
+                    "vi": "Phán đoán sai thứ tự ưu tiên của dự án phát triển hệ thống",
+                    "en": "Incorrect judgment of priority of system development projects"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "システム開発作業の委託先の不適切な選定手続",
+                    "vi": "Thủ tục lựa chọn không phù hợp đối tác ủy thác công việc phát triển hệ thống",
+                    "en": "Inappropriate selection procedures for system development outsourcing partners"
+                },
+                {
+                    "label": "エ",
+                    "ja": "システムに盛り込む業務ルールの誤った解釈",
+                    "vi": "Giải thích sai các quy tắc nghiệp vụ đưa vào hệ thống",
+                    "en": "Incorrect interpretation of business rules to be incorporated into the system",
+                    "correct": true
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 4,
+        "has_table": true,
+        "has_diagram": true
+    }
+}

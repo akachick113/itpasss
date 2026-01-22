@@ -1,0 +1,328 @@
+{
+  "page_id": 318,
+  "image": "p_0318.png",
+  "chapter": 8,
+  "section": "08-05",
+  "page_number": 302,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "システム監査とは",
+      "reading": "しすてむかんさとは",
+      "vi": "System Audit là gì",
+      "en": "What is System Audit"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システム監査とは、企業が情報システムのリスクに適切に対応しているかを、独立した第三者が評価することです。企業における情報システムの重要性が年々高まるなかで、不正アクセスなどが起こるリスクにきちんと対応しなければ、企業は経営目標を達成することができません。そのため、システム監査を行うことが必須になっています。",
+      "vi": "System Audit là việc bên thứ ba độc lập đánh giá xem doanh nghiệp có ứng phó thích hợp với Risk của hệ thống thông tin không. Trong khi tầm quan trọng của hệ thống thông tin trong doanh nghiệp tăng lên hàng năm, nếu không ứng phó đúng với Risk như truy cập trái phép, doanh nghiệp không thể đạt mục tiêu kinh doanh. Do đó, thực hiện System Audit là bắt buộc.",
+      "en": "System Audit is independent third party evaluating whether company appropriately responds to information system Risks. As information system importance in companies increases yearly, if not properly responding to Risks like unauthorized access, companies cannot achieve business goals. Therefore, conducting System Audit is essential.",
+      "terms": [
+        {
+          "kanji": "監査",
+          "reading": "かんさ"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "適切",
+          "reading": "てきせつ"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "独立",
+          "reading": "どくりつ"
+        },
+        {
+          "kanji": "第三者",
+          "reading": "だいさんしゃ"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "重要性",
+          "reading": "じゅうようせい"
+        },
+        {
+          "kanji": "年",
+          "reading": "ねん"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "起",
+          "reading": "き"
+        },
+        {
+          "kanji": "経営目標",
+          "reading": "けいえいもくひょう"
+        },
+        {
+          "kanji": "達成",
+          "reading": "たっせい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "必須",
+          "reading": "ひっす"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "システム監査のための2つの基準",
+      "reading": "しすてむかんさのためのふたつのきじゅん",
+      "vi": "2 tiêu chuẩn cho System Audit",
+      "en": "2 Standards for System Audit"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システム監査の内容が監査する人によって甘かったり、厳しかったりすると、正しい監査を行うことができません。そこで、システムを正しく評価するための統一的な基準が定められています。それが「システム管理基準」です。これは企業が従うルールです。",
+      "vi": "Nếu nội dung System Audit lỏng hoặc nghiêm tùy người audit, không thể thực hiện audit đúng. Do đó, tiêu chuẩn thống nhất để đánh giá hệ thống đúng được quy định. Đó là \"System Management Standards\". Đây là quy tắc doanh nghiệp phải tuân theo.",
+      "en": "If System Audit content is lenient or strict depending on auditor, correct audit cannot be done. So unified standards to correctly evaluate systems are established. That is 'System Management Standards.' This is rule companies must follow.",
+      "terms": [
+        {
+          "kanji": "監査",
+          "reading": "かんさ"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "甘",
+          "reading": "かん"
+        },
+        {
+          "kanji": "厳",
+          "reading": "げん"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "統一的",
+          "reading": "とういつてき"
+        },
+        {
+          "kanji": "基準",
+          "reading": "きじゅん"
+        },
+        {
+          "kanji": "定",
+          "reading": "てい"
+        },
+        {
+          "kanji": "管理基準",
+          "reading": "かんりきじゅん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "従",
+          "reading": "じゅう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "また、監査人が守るべきルールも定められています。それが「システム監査基準」です。これは監査人が従うルールです。",
+      "vi": "Ngoài ra, quy tắc mà auditor phải tuân theo cũng được quy định. Đó là \"System Audit Standards\". Đây là quy tắc auditor phải tuân theo.",
+      "en": "Also, rules auditors must follow are established. That is 'System Audit Standards.' This is rule auditors must follow.",
+      "terms": [
+        {
+          "kanji": "監査人",
+          "reading": "かんさにん"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "定",
+          "reading": "てい"
+        },
+        {
+          "kanji": "監査基準",
+          "reading": "かんさきじゅん"
+        },
+        {
+          "kanji": "従",
+          "reading": "じゅう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "システム監査のための2つの基準",
+        "vi": "2 tiêu chuẩn cho System Audit",
+        "en": "2 Standards for System Audit"
+      },
+      "headers": {
+        "ja": [
+          "基準",
+          "説明"
+        ],
+        "vi": [
+          "Tiêu chuẩn",
+          "Giải thích"
+        ],
+        "en": [
+          "Standard",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "standard": {
+            "ja": "システム管理基準",
+            "vi": "System Management Standards",
+            "en": "System Management Standards"
+          },
+          "description": {
+            "ja": "情報システムに関するリスクに適切に対応するために、企業が従うべき実践規範。",
+            "vi": "Quy phạm thực tiễn mà doanh nghiệp phải tuân theo để ứng phó thích hợp với Risk liên quan đến hệ thống thông tin.",
+            "en": "Practice standards companies should follow to appropriately respond to Risks related to information systems."
+          }
+        },
+        {
+          "standard": {
+            "ja": "システム監査基準",
+            "vi": "System Audit Standards",
+            "en": "System Audit Standards"
+          },
+          "description": {
+            "ja": "より良いシステム監査を行うために、監査人が従うべき行為規範（監査ルール）。",
+            "vi": "Quy phạm hành vi (quy tắc audit) mà auditor phải tuân theo để thực hiện System Audit tốt hơn.",
+            "en": "Behavioral standards (audit rules) auditors should follow to conduct better System Audit."
+          }
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "システム監査の目的",
+      "reading": "しすてむかんさのもくてき",
+      "vi": "Mục đích của System Audit",
+      "en": "Purpose of System Audit",
+      "note": "重要！よく出る！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、システム監査の目的がよく出題されます。システム監査の目的は「企業がリスクに適切に対応しているかを評価して、その企業の目標達成に寄与すること」です。ポイントは「リスクに適切に対応」です。この点はぜひ覚えておいてください。",
+      "vi": "Trong kỳ thi IT Passport, mục đích của System Audit thường ra đề. Mục đích của System Audit là \"đánh giá xem doanh nghiệp có ứng phó thích hợp với Risk không, và đóng góp vào việc đạt mục tiêu của doanh nghiệp đó\". Điểm mấu chốt là \"ứng phó thích hợp với Risk\". Hãy nhớ điểm này.",
+      "en": "In IT Passport exam, System Audit purpose is often tested. System Audit purpose is 'evaluate whether company appropriately responds to Risks, and contribute to achieving that company's goals.' Key point is 'appropriately respond to Risks.' Please remember this point.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "監査",
+          "reading": "かんさ"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "適切",
+          "reading": "てきせつ"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "目標達成",
+          "reading": "もくひょうたっせい"
+        },
+        {
+          "kanji": "寄与",
+          "reading": "きよ"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "システム管理基準",
+      "reading": "しすてむかんりきじゅん",
+      "romaji": "System Kanri Kijun",
+      "vi": "Tiêu chuẩn quản lý hệ thống",
+      "en": "System Management Standards",
+      "my": "စနစ် မန်နေ့ဂျမန့် စံနှုန်းများ"
+    },
+    {
+      "kanji": "システム監査基準",
+      "reading": "しすてむかんさきじゅん",
+      "romaji": "System Kansa Kijun",
+      "vi": "Tiêu chuẩn kiểm toán hệ thống",
+      "en": "System Audit Standards",
+      "my": "စနစ် စစ်ဆေး စံနှုန်းများ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "is_key_content": true
+  }
+}

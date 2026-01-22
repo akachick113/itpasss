@@ -1,0 +1,427 @@
+{
+  "page_id": 202,
+  "image": "p_0202.png",
+  "chapter": 5,
+  "section": "05-03",
+  "page_number": 186,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "RPAは定型的な事務作業を自動化する",
+        "vi": "RPA tự động hóa công việc văn phòng định hình",
+        "en": "RPA automates routine office work",
+        "my": "RPA သည် ရုံးအလုပ် ပုံမှန် အလုပ်ကို အလိုအလျောက်ပြုလုပ်သည်",
+        "terms": [
+          {
+            "kanji": "定型的",
+            "reading": "ていけいてき"
+          },
+          {
+            "kanji": "事務作業",
+            "reading": "じむさぎょう"
+          },
+          {
+            "kanji": "自動化",
+            "reading": "じどうか"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "RPAとマクロの違い",
+        "vi": "Sự khác nhau giữa RPA và Macro",
+        "en": "Difference Between RPA and Macro",
+        "terms": [
+          {
+            "kanji": "RPA",
+            "reading": "あーるぴーえー"
+          }
+        ]
+      },
+      "content": {
+        "ja": "事務作業を自動化する手段には、RPAの他に「マクロ」があります。マクロとは、文書作成ソフトや表計算ソフトなどにおいて、あらかじめ決めておいた一連の操作を自動で実行する機能です。\n\nRPAとマクロの最大の違いは「自動化の範囲」です。マクロの処理範囲は基本的に、そのアプリケーション内だけです。一方、RPAはアプリケーション間をまたいで連携して処理できます。例えば、Webブラウザやメールソフト、Webアプリケーションなどを連携して処理を実行できます。",
+        "vi": "Ngoài RPA, có Macro như phương tiện tự động hóa công việc văn phòng. Macro là chức năng tự động thực hiện một loạt thao tác đã định trước trong phần mềm tạo tài liệu hay bảng tính.\n\nSự khác biệt lớn nhất giữa RPA và Macro là phạm vi tự động hóa. Phạm vi xử lý của Macro về cơ bản chỉ trong ứng dụng đó. Mặt khác, RPA có thể liên kết và xử lý xuyên giữa các ứng dụng. Ví dụ có thể liên kết xử lý web browser, email, web app.",
+        "en": "Besides RPA, there's 'Macro' as a means to automate office work. Macro is a function that automatically executes a series of pre-determined operations in document creation or spreadsheet software.\n\nThe biggest difference between RPA and Macro is 'automation scope'. Macro's processing scope is basically within that application only. Meanwhile, RPA can process across applications. For example, it can coordinate processing between web browsers, email software, and web applications.",
+        "terms": [
+          {
+            "kanji": "事務作業",
+            "reading": "じむさぎょう"
+          },
+          {
+            "kanji": "自動化",
+            "reading": "じどうか"
+          },
+          {
+            "kanji": "手段",
+            "reading": "しゅだん"
+          },
+          {
+            "kanji": "他",
+            "reading": "ほか"
+          },
+          {
+            "kanji": "文書作成",
+            "reading": "ぶんしょさくせい"
+          },
+          {
+            "kanji": "表計算",
+            "reading": "ひょうけいさん"
+          },
+          {
+            "kanji": "決",
+            "reading": "けつ"
+          },
+          {
+            "kanji": "一連",
+            "reading": "いちれん"
+          },
+          {
+            "kanji": "操作",
+            "reading": "そうさ"
+          },
+          {
+            "kanji": "自動",
+            "reading": "じどう"
+          },
+          {
+            "kanji": "実行",
+            "reading": "じっこう"
+          },
+          {
+            "kanji": "機能",
+            "reading": "きのう"
+          },
+          {
+            "kanji": "最大",
+            "reading": "さいだい"
+          },
+          {
+            "kanji": "違",
+            "reading": "い"
+          },
+          {
+            "kanji": "範囲",
+            "reading": "はんい"
+          },
+          {
+            "kanji": "処理範囲",
+            "reading": "しょりはんい"
+          },
+          {
+            "kanji": "基本的",
+            "reading": "きほんてき"
+          },
+          {
+            "kanji": "内",
+            "reading": "ない"
+          },
+          {
+            "kanji": "一方",
+            "reading": "いっぽう"
+          },
+          {
+            "kanji": "間",
+            "reading": "かん"
+          },
+          {
+            "kanji": "連携",
+            "reading": "れんけい"
+          },
+          {
+            "kanji": "処理",
+            "reading": "しょり"
+          },
+          {
+            "kanji": "例",
+            "reading": "れい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ITによるその他の業務の効率化",
+      "vi": "Hiệu quả hóa nghiệp vụ khác bằng IT",
+      "en": "Other Business Efficiency Improvements through IT"
+    },
+    {
+      "type": "paragraph",
+      "ja": "システム化することで業務プロセスを効率化する手法は他にもあります。ここで扱う技術や手法は比較的新しいものばかりですが、今後より一層重要度が増していくものです。このため、今後はITパスポート試験に出題される可能性が十分にあるので、用語の意味は押さえておいてください。",
+      "vi": "Có nhiều phương pháp khác để hiệu quả hóa quy trình nghiệp vụ thông qua hệ thống hóa. Công nghệ và phương pháp ở đây đều tương đối mới nhưng sẽ ngày càng quan trọng. Vì vậy, có khả năng cao được ra trong IT Passport nên hãy nắm ý nghĩa thuật ngữ.",
+      "en": "There are other methods for improving business process efficiency through systematization. The technologies and methods here are relatively new but will become increasingly important. So there's sufficient possibility they'll appear in IT Passport, so understand the terms.",
+      "my": "စနစ်ကျမှုမှတဆင့် business process ထိရောက်မှုကို တိုးတက်အောင်ပြုလုပ်ရန် အခြားနည်းလမ်းများ ရှိသည်။",
+      "terms": [
+        {
+          "kanji": "化",
+          "reading": "か"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "効率化",
+          "reading": "こうりつか"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "比較的新",
+          "reading": "ひかくてきしん"
+        },
+        {
+          "kanji": "今後",
+          "reading": "こんご"
+        },
+        {
+          "kanji": "一層重要度",
+          "reading": "いっそうじゅうようど"
+        },
+        {
+          "kanji": "増",
+          "reading": "ぞう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "十分",
+          "reading": "じゅうぶん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "押",
+          "reading": "おう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "システム化による業務の効率化",
+        "vi": "Hiệu quả hóa nghiệp vụ bằng hệ thống hóa",
+        "en": "Business Efficiency through Systematization"
+      },
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "テレワーク",
+            "ITを利用して勤務時間や就業場所に制限されずに働くこと。仕事と生活を両立するワークライフバランスを実現するための働き方の1つ。"
+          ],
+          "vi": [
+            "Telework",
+            "Làm việc sử dụng IT không bị giới hạn về thời gian và địa điểm làm việc. Là một cách làm việc để thực hiện cân bằng công việc-cuộc sống."
+          ],
+          "en": [
+            "Telework",
+            "Working using IT without restrictions on work hours or location. One way of working to achieve work-life balance."
+          ]
+        },
+        {
+          "ja": [
+            "ライフログ",
+            "日常生活の記録、写真、体調などをデジタルデータとして記録する技術。またはそのデータのこと。"
+          ],
+          "vi": [
+            "Lifelog",
+            "Công nghệ ghi chép cuộc sống hàng ngày, ảnh, tình trạng sức khỏe dưới dạng dữ liệu số. Hoặc dữ liệu đó."
+          ],
+          "en": [
+            "Lifelog",
+            "Technology for recording daily life, photos, health conditions as digital data. Or that data."
+          ]
+        },
+        {
+          "ja": [
+            "シェアリングエコノミー",
+            "服、車、物、知識などの、個人や企業が持つ遊休資産をインターネットを使って他の個人や企業と共有する仕組み。"
+          ],
+          "vi": [
+            "Sharing Economy",
+            "Cơ chế chia sẻ tài sản nhàn rỗi của cá nhân hoặc doanh nghiệp như quần áo, xe, đồ vật, kiến thức với cá nhân hoặc doanh nghiệp khác qua internet."
+          ],
+          "en": [
+            "Sharing Economy",
+            "Mechanism for sharing idle assets of individuals or companies like clothes, cars, goods, knowledge with others via internet."
+          ]
+        },
+        {
+          "ja": [
+            "プロセスマイニング",
+            "業務で実際に使用された操作ログを収集して、業務プロセスを可視化する手法。"
+          ],
+          "vi": [
+            "Process Mining",
+            "Phương pháp thu thập log thao tác thực tế sử dụng trong nghiệp vụ và trực quan hóa quy trình nghiệp vụ."
+          ],
+          "en": [
+            "Process Mining",
+            "Method for collecting actually used operation logs in work and visualizing business processes."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・テレワークとは、勤務時間や就業場所に制限されない働き方\n・シェアリングエコノミーとは、個人や企業が持つ遊休資産を他の個人や企業と共有する仕組み",
+        "vi": "・Telework là cách làm việc không bị giới hạn thời gian và địa điểm làm việc\n・Sharing Economy là cơ chế chia sẻ tài sản nhàn rỗi của cá nhân hoặc doanh nghiệp với người khác",
+        "en": "・Telework is a way of working without restrictions on work hours or location\n・Sharing Economy is a mechanism for sharing idle assets of individuals or companies with others",
+        "my": "・ Telework သည် အလုပ်ချိန် သို့မဟုတ် တည်နေရာ ကန့်သတ်ချက်မရှိဘဲ အလုပ်လုပ်နည်းဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "勤務時間",
+            "reading": "きんむじかん"
+          },
+          {
+            "kanji": "就業場所",
+            "reading": "しゅうぎょうばしょ"
+          },
+          {
+            "kanji": "制限",
+            "reading": "せいげん"
+          },
+          {
+            "kanji": "働",
+            "reading": "はたら"
+          },
+          {
+            "kanji": "方",
+            "reading": "かた"
+          },
+          {
+            "kanji": "個人",
+            "reading": "こじん"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "持",
+            "reading": "も"
+          },
+          {
+            "kanji": "遊休資産",
+            "reading": "ゆうきゅうしさん"
+          },
+          {
+            "kanji": "他",
+            "reading": "ほか"
+          },
+          {
+            "kanji": "共有",
+            "reading": "きょうゆう"
+          },
+          {
+            "kanji": "仕組",
+            "reading": "しくみ"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "テレワーク",
+      "reading": "てれわーく",
+      "romaji": "Telework",
+      "vi": "Làm việc từ xa",
+      "en": "Telework",
+      "my": "အဝေးမှ အလုပ်လုပ်ခြင်း"
+    },
+    {
+      "kanji": "シェアリングエコノミー",
+      "reading": "しぇありんぐえこのみー",
+      "romaji": "Sharing Economy",
+      "vi": "Kinh tế chia sẻ",
+      "en": "Sharing Economy",
+      "my": "မျှဝေခံုး စီးပွားရေး"
+    },
+    {
+      "kanji": "プロセスマイニング",
+      "reading": "ぷろせすまいにんぐ",
+      "romaji": "Process Mining",
+      "vi": "Khai thác quy trình",
+      "en": "Process Mining",
+      "my": "လုပ်ငန်းစဉ် တူးဖော်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

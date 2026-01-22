@@ -1,0 +1,220 @@
+{
+  "page_id": 547,
+  "image": "p_0547.png",
+  "chapter": 15,
+  "section": "15-02",
+  "page_number": 531,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "そこで必要になるのが、リスクマネジメントです。リスクマネジメントでは、リスク対応の費用対効果を最大化するために、さまざまなプロセスを実施します。",
+      "vi": "Vì vậy cần có Quản lý rủi ro. Trong Quản lý rủi ro, thực hiện nhiều quy trình để tối đa hóa hiệu quả chi phí của việc đối phó rủi ro.",
+      "en": "That's where Risk Management is needed. In Risk Management, various processes are implemented to maximize cost-effectiveness of risk response.",
+      "terms": [
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "費用対効果",
+          "reading": "ひようついこうか"
+        },
+        {
+          "kanji": "最大化",
+          "reading": "さいだいか"
+        },
+        {
+          "kanji": "実施",
+          "reading": "じっし"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "リスクマネジメントのプロセス",
+      "vi": "Quy trình Quản lý rủi ro",
+      "en": "Risk Management Process"
+    },
+    {
+      "type": "paragraph",
+      "ja": "リスクマネジメントは次の順番で各プロセスを行います。",
+      "vi": "Quản lý rủi ro thực hiện các quy trình theo thứ tự sau.",
+      "en": "Risk Management performs each process in following order.",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "順番",
+          "reading": "じゅんばん"
+        },
+        {
+          "kanji": "各",
+          "reading": "かく"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "process_flow",
+      "title": {
+        "ja": "リスクマネジメントのプロセス",
+        "vi": "Quy trình Quản lý rủi ro",
+        "en": "Risk Management Process"
+      },
+      "steps": [
+        {
+          "step": "リスク特定",
+          "description": {
+            "ja": "リスクを洗い出す",
+            "vi": "Xác định rủi ro",
+            "en": "Identify risks"
+          }
+        },
+        {
+          "step": "リスク分析",
+          "description": {
+            "ja": "特定したリスクの発生確率と、損害の大きさを調べる",
+            "vi": "Điều tra xác suất xảy ra và mức độ thiệt hại của rủi ro đã xác định",
+            "en": "Investigate occurrence probability and damage size of identified risks"
+          }
+        },
+        {
+          "step": "リスク評価",
+          "description": {
+            "ja": "発生確率と損害の大きさからリスクに優先順位をつける",
+            "vi": "Đặt ưu tiên cho rủi ro từ xác suất xảy ra và mức độ thiệt hại",
+            "en": "Prioritize risks from occurrence probability and damage size"
+          }
+        },
+        {
+          "step": "リスク対応",
+          "description": {
+            "ja": "どのような対処を、いつまでに行うかを決める",
+            "vi": "Quyết định đối phó như thế nào, đến bao giờ",
+            "en": "Decide what measures to take and by when"
+          }
+        }
+      ],
+      "group_note": {
+        "ja": "リスクアセスメント",
+        "vi": "Risk Assessment",
+        "en": "Risk Assessment",
+        "covers": [
+          "リスク特定",
+          "リスク分析",
+          "リスク評価"
+        ]
+      },
+      "tip": {
+        "ja": "各プロセスの用語と順序を覚えてね！",
+        "vi": "Hãy nhớ thuật ngữ và thứ tự của từng quy trình!",
+        "en": "Remember terms and order of each process!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、上図の4つのプロセスのうち、前半3つのプロセス（リスク特定、リスク分析、リスク評価）を合わせて「リスクアセスメント」といいます。",
+      "vi": "Ngoài ra, trong 4 quy trình ở hình trên, 3 quy trình nửa đầu (Xác định rủi ro, Phân tích rủi ro, Đánh giá rủi ro) được gọi chung là \"Risk Assessment\".",
+      "en": "Also, among 4 processes above, first 3 processes (Risk Identification, Risk Analysis, Risk Evaluation) together are called 'Risk Assessment.'",
+      "terms": [
+        {
+          "kanji": "上図",
+          "reading": "じょうず"
+        },
+        {
+          "kanji": "前半",
+          "reading": "ぜんはん"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "リスクマネジメントとは、企業の活動に伴って発生するあらゆるリスクを管理し、そのリスクによる損失を最小の費用で食い止めるためのプロセス",
+          "vi": "Risk Management là quy trình quản lý mọi rủi ro phát sinh cùng với hoạt động doanh nghiệp và ngăn chặn thiệt hại với chi phí tối thiểu",
+          "en": "Risk Management is process managing all risks from company activities and stopping losses with minimum cost"
+        },
+        {
+          "ja": "リスクマネジメントの4つのプロセスが出題される\nリスク特定→リスク分析→リスク評価→リスク対応",
+          "vi": "4 quy trình của Risk Management được ra đề\nXác định rủi ro→Phân tích rủi ro→Đánh giá rủi ro→Đối phó rủi ro",
+          "en": "4 Risk Management processes appear on exam\nRisk Identification→Risk Analysis→Risk Evaluation→Risk Response"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "リスク特定",
+      "vi": "Xác định rủi ro",
+      "en": "Risk Identification",
+      "my": "အန္တရာယ် ဖော်ထုတ်ခြင်း"
+    },
+    {
+      "term": "リスク分析",
+      "vi": "Phân tích rủi ro",
+      "en": "Risk Analysis",
+      "my": "အန္တရာယ် ခွဲခြာမှု"
+    },
+    {
+      "term": "リスク評価",
+      "vi": "Đánh giá rủi ro",
+      "en": "Risk Evaluation",
+      "my": "အန္တရာယ် အကဲဖြတ်"
+    },
+    {
+      "term": "リスク対応",
+      "vi": "Đối phó rủi ro",
+      "en": "Risk Response",
+      "my": "အန္တရာယ် တုံ့ပြန်ခြင်း"
+    },
+    {
+      "term": "リスクアセスメント",
+      "vi": "Risk Assessment (Đánh giá rủi ro)",
+      "en": "Risk Assessment",
+      "my": "အန္တရာယ် အကဲဆတ်"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

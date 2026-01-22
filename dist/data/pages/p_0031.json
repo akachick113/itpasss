@@ -1,0 +1,335 @@
+{
+  "page_id": 31,
+  "image": "p_0031.png",
+  "chapter": 1,
+  "section": "01-02",
+  "page_number": 15,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "01-02",
+      "ja": "企業の責任",
+      "reading": "きぎょうのせきにん",
+      "vi": "Trách nhiệm của doanh nghiệp",
+      "en": "Corporate Responsibility",
+      "my": "ကုမ္ပဏီ၏တာဝန်"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "利益を出すだけではダメ",
+        "vi": "Chỉ tạo ra lợi nhuận thôi chưa đủ",
+        "en": "Just making profit is not enough",
+        "my": "အမြတ်သာရရင် မလုံလောက်ပါ",
+        "terms": [
+          {
+            "kanji": "利益",
+            "reading": "りえき"
+          }
+        ]
+      },
+      "content": {
+        "ja": "企業活動の目的は「利益を出すこと」ですが、現代のように一企業の影響力が非常に大きい世の中では、利益のみの追求ではなく、社会や環境に配慮した企業活動が求められます。",
+        "vi": "Mục đích của hoạt động doanh nghiệp là \"tạo ra lợi nhuận\", nhưng trong thế giới hiện đại nơi ảnh hưởng của một doanh nghiệp rất lớn, không chỉ theo đuổi lợi nhuận mà còn cần các hoạt động doanh nghiệp có sự quan tâm đến xã hội và môi trường.",
+        "en": "The purpose of corporate activities is \"to generate profit,\" but in today's world where a single company's influence is enormous, companies are expected to conduct activities that consider society and the environment, not just pursue profit.",
+        "my": "ကုမ္ပဏီလုပ်ငန်းများ၏ ရည်ရွယ်ချက်မှာ \"အမြတ်ရရန်\" ဖြစ်သော်လည်း ယနေ့ခေတ်တွင် ကုမ္ပဏီတစ်ခု၏ လွှမ်းမိုးမှုသည် ကြီးမားသောကြောင့် အမြတ်သာမက လူမှုရေးနှင့် ပတ်ဝန်းကျင်ကို ထည့်သွင်းစဉ်းစားသော လုပ်ဆောင်မှုများ လိုအပ်သည်။",
+        "terms": [
+          {
+            "kanji": "企業活動",
+            "reading": "きぎょうかつどう"
+          },
+          {
+            "kanji": "目的",
+            "reading": "もくてき"
+          },
+          {
+            "kanji": "利益",
+            "reading": "りえき"
+          },
+          {
+            "kanji": "出",
+            "reading": "で"
+          },
+          {
+            "kanji": "現代",
+            "reading": "げんだい"
+          },
+          {
+            "kanji": "一企業",
+            "reading": "いちきぎょう"
+          },
+          {
+            "kanji": "影響力",
+            "reading": "えいきょうりょく"
+          },
+          {
+            "kanji": "非常",
+            "reading": "ひじょう"
+          },
+          {
+            "kanji": "大",
+            "reading": "おお"
+          },
+          {
+            "kanji": "世",
+            "reading": "よ"
+          },
+          {
+            "kanji": "中",
+            "reading": "なか"
+          },
+          {
+            "kanji": "追求",
+            "reading": "ついきゅう"
+          },
+          {
+            "kanji": "社会",
+            "reading": "しゃかい"
+          },
+          {
+            "kanji": "環境",
+            "reading": "かんきょう"
+          },
+          {
+            "kanji": "配慮",
+            "reading": "はいりょ"
+          },
+          {
+            "kanji": "求",
+            "reading": "きゅう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "企業には社会的な責任がある",
+      "reading": "きぎょうにはしゃかいてきなせきにんがある",
+      "vi": "Doanh nghiệp có trách nhiệm xã hội",
+      "en": "Companies have social responsibility",
+      "my": "ကုမ္ပဏီများတွင် လူမှုရေးတာဝန်ရှိသည်"
+    },
+    {
+      "type": "paragraph",
+      "ja": "企業活動の目的の1つは「利益の追求」ですが、一方で、企業が利益のみを追求すると、公害や偽装など、社会に悪影響を及ぼすこともあります。そのため企業には、お金儲けのことだけでなく、社会貢献や環境保護などの「社会的責任」を考え、それを実行していくことが求められます。このような、企業における社会的責任のことを「CSR（Corporate Social Responsibility：企業の社会的責任）」といいます。この用語はよく出題されるので必ず覚えておいてください。",
+      "vi": "Một trong những mục đích của hoạt động doanh nghiệp là \"theo đuổi lợi nhuận\", nhưng mặt khác, nếu doanh nghiệp chỉ theo đuổi lợi nhuận, có thể gây ra ảnh hưởng xấu đến xã hội như ô nhiễm hoặc gian lận. Do đó, doanh nghiệp được yêu cầu không chỉ nghĩ đến kiếm tiền mà còn phải suy nghĩ và thực hiện \"trách nhiệm xã hội\" như đóng góp xã hội và bảo vệ môi trường. Trách nhiệm xã hội của doanh nghiệp như vậy được gọi là \"CSR (Corporate Social Responsibility: Trách nhiệm xã hội của doanh nghiệp)\". Thuật ngữ này thường được ra đề nên hãy nhớ kỹ.",
+      "en": "One purpose of corporate activities is \"pursuit of profit,\" but on the other hand, if companies only pursue profit, they may cause negative impacts on society such as pollution or fraud. Therefore, companies are expected not only to think about making money but also to consider and implement \"social responsibility\" such as social contribution and environmental protection. This social responsibility of companies is called \"CSR (Corporate Social Responsibility).\" This term appears frequently on exams, so be sure to remember it.",
+      "my": "ကုမ္ပဏီလုပ်ငန်းများ၏ ရည်ရွယ်ချက်တစ်ခုမှာ \"အမြတ်ရှာဖွေခြင်း\" ဖြစ်သော်လည်း အမြတ်သာရှာလျှင် ညစ်ညမ်းမှု သို့မဟုတ် လိမ်လည်မှုကဲ့သို့ လူမှုအပေါ် ဆိုးကျိုးသက်ရောက်မှုများ ဖြစ်နိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "企業活動",
+          "reading": "きぎょうかつどう"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "追求",
+          "reading": "ついきゅう"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "公害",
+          "reading": "こうがい"
+        },
+        {
+          "kanji": "偽装",
+          "reading": "ぎそう"
+        },
+        {
+          "kanji": "社会",
+          "reading": "しゃかい"
+        },
+        {
+          "kanji": "悪影響",
+          "reading": "あくえいきょう"
+        },
+        {
+          "kanji": "及",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "金儲",
+          "reading": "きんちょ"
+        },
+        {
+          "kanji": "社会貢献",
+          "reading": "しゃかいこうけん"
+        },
+        {
+          "kanji": "環境保護",
+          "reading": "かんきょうほご"
+        },
+        {
+          "kanji": "社会的責任",
+          "reading": "しゃかいてきせきにん"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "CSRとソーシャルビジネスの違い",
+        "vi": "Sự khác biệt giữa CSR và Social Business",
+        "en": "Difference between CSR and Social Business",
+        "my": "CSR နှင့် Social Business ကွာခြားချက်",
+        "terms": [
+          {
+            "kanji": "ソーシャルビジネス",
+            "reading": "そーしゃるびじねす"
+          },
+          {
+            "kanji": "CSR",
+            "reading": "しーえすあーる"
+          }
+        ]
+      },
+      "content": {
+        "ja": "CSRに取り組む企業については、その事業内容が「社会的課題の解決」である必要はありません。社会的課題とは関係のない事業を行うなかでCSRに取り組むことができます。一方、ソーシャルビジネスを行う企業の事業内容は「社会的課題の解決」であることが必要です（次ページの表を参照）。",
+        "vi": "Đối với doanh nghiệp thực hiện CSR, nội dung kinh doanh không nhất thiết phải là \"giải quyết vấn đề xã hội\". Họ có thể thực hiện CSR trong khi kinh doanh không liên quan đến vấn đề xã hội. Mặt khác, nội dung kinh doanh của doanh nghiệp thực hiện Social Business phải là \"giải quyết vấn đề xã hội\" (xem bảng trang sau).",
+        "en": "For companies practicing CSR, the business content does not need to be \"solving social issues.\" They can practice CSR while conducting business unrelated to social issues. On the other hand, the business content of companies engaged in Social Business must be \"solving social issues\" (see table on next page).",
+        "my": "CSR လုပ်ဆောင်သော ကုမ္ပဏီများအတွက် စီးပွားရေးအကြောင်းအရာသည် \"လူမှုရေးပြဿနာများ ဖြေရှင်းခြင်း\" ဖြစ်ရန် မလိုအပ်ပါ။",
+        "terms": [
+          {
+            "kanji": "取",
+            "reading": "と"
+          },
+          {
+            "kanji": "組",
+            "reading": "くみ"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "事業内容",
+            "reading": "じぎょうないよう"
+          },
+          {
+            "kanji": "社会的課題",
+            "reading": "しゃかいてきかだい"
+          },
+          {
+            "kanji": "解決",
+            "reading": "かいけつ"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          },
+          {
+            "kanji": "関係",
+            "reading": "かんけい"
+          },
+          {
+            "kanji": "事業",
+            "reading": "じぎょう"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "一方",
+            "reading": "いっぽう"
+          },
+          {
+            "kanji": "次",
+            "reading": "つぎ"
+          },
+          {
+            "kanji": "表",
+            "reading": "おもて"
+          },
+          {
+            "kanji": "参照",
+            "reading": "さんしょう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "CSR",
+      "reading": "しーえすあーる",
+      "romaji": "CSR",
+      "vi": "Trách nhiệm xã hội của doanh nghiệp",
+      "en": "Corporate Social Responsibility",
+      "my": "ကုမ္ပဏီလူမှုရေးတာဝန်"
+    },
+    {
+      "kanji": "社会的責任",
+      "reading": "しゃかいてきせきにん",
+      "romaji": "Shakaiteki Sekinin",
+      "vi": "Trách nhiệm xã hội",
+      "en": "Social Responsibility",
+      "my": "လူမှုရေးတာဝန်"
+    },
+    {
+      "kanji": "環境保護",
+      "reading": "かんきょうほご",
+      "romaji": "Kankyou Hogo",
+      "vi": "Bảo vệ môi trường",
+      "en": "Environmental Protection",
+      "my": "ပတ်ဝန်းကျင်ကာကွယ်ခြင်း"
+    },
+    {
+      "kanji": "社会貢献",
+      "reading": "しゃかいこうけん",
+      "romaji": "Shakai Kouken",
+      "vi": "Đóng góp xã hội",
+      "en": "Social Contribution",
+      "my": "လူမှုရေးပံ့ပိုးခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": false,
+    "has_learn_more": true,
+    "illustration": "city_environment"
+  }
+}

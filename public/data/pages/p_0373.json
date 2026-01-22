@@ -1,0 +1,316 @@
+{
+  "page_id": 373,
+  "image": "p_0373.png",
+  "chapter": 9,
+  "section": "09-08",
+  "page_number": 357,
+  "content": [
+    {
+      "type": "code_format_explanation",
+      "items": [
+        {
+          "ja": "・最初にwhileを書き、その後に( )（丸括弧）を書く",
+          "vi": "・Viết while trước, sau đó viết ( ) (ngoặc tròn)",
+          "en": "・Write while first, then write ( ) (parentheses)"
+        },
+        {
+          "ja": "・( )の中に条件式（p.345）を書く",
+          "vi": "・Viết biểu thức điều kiện (trang 345) trong ( )",
+          "en": "・Write conditional expression (p.345) in ( )"
+        },
+        {
+          "ja": "・続いて、処理を書き、最後にendwhileを書く",
+          "vi": "・Tiếp theo, viết xử lý, cuối cùng viết endwhile",
+          "en": "・Then, write processing, finally write endwhile"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "指定した条件式の結果が「真（正しい）」の場合のみ、whileとendwhileの間に書かれた処理が何度も繰り返し実行されます。",
+      "vi": "Chỉ khi kết quả biểu thức điều kiện đã chỉ định là \"đúng (chính xác)\", xử lý viết giữa while và endwhile mới được thực hiện lặp nhiều lần.",
+      "en": "Only when specified conditional expression result is 'true (correct),' processing written between while and endwhile is repeatedly executed many times.",
+      "terms": [
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "条件式",
+          "reading": "じょうけんしき"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "真",
+          "reading": "まこと"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "何度",
+          "reading": "なんど"
+        },
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "以下は、「☆マーク」を10個表示する（出力する）プログラム例です。",
+      "vi": "Sau đây là ví dụ chương trình hiển thị (xuất) 10 \"dấu ☆\".",
+      "en": "Following is example program displaying (outputting) 10 '☆ marks.'",
+      "terms": [
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "個表示",
+          "reading": "こひょうじ"
+        },
+        {
+          "kanji": "出力",
+          "reading": "しゅつりょく"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】繰り返し処理（while）",
+        "vi": "【Ví dụ chương trình】Xử lý lặp (while)",
+        "en": "[Program Example] Loop Processing (while)"
+      },
+      "code": "整数型: cnt ← 1\n\nwhile (cntが10以下)\n    \"☆\"を出力する\n    cnt ← cnt + 1\nendwhile"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のプログラムを実行すると、以下のように☆マークが10個、表示されます。",
+      "vi": "Khi thực hiện chương trình trên, 10 dấu ☆ được hiển thị như sau.",
+      "en": "When executing above program, 10 ☆ marks display as follows.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "個",
+          "reading": "こ"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        }
+      ]
+    },
+    {
+      "type": "output_example",
+      "title": {
+        "ja": "【出力例】繰り返し処理（while）",
+        "vi": "【Ví dụ xuất】Xử lý lặp (while)",
+        "en": "[Output Example] Loop Processing (while)"
+      },
+      "output": "☆☆☆☆☆☆☆☆☆☆"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のプログラムを1行ずつ解説していきます。",
+      "vi": "Giải thích chương trình trên từng dòng.",
+      "en": "Will explain above program line by line.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "繰り返し処理（while）の内容",
+        "vi": "Nội dung xử lý lặp (while)",
+        "en": "Loop Processing (while) Content"
+      },
+      "headers": {
+        "ja": [
+          "プログラム",
+          "説明"
+        ],
+        "vi": [
+          "Chương trình",
+          "Giải thích"
+        ],
+        "en": [
+          "Program",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "program": "整数型: cnt ← 1",
+          "description": {
+            "ja": "変数cntを宣言して「1」で初期化。変数cntは整数型になるので、以降は整数しか代入できない（p.348）。",
+            "vi": "Khai báo biến cnt và khởi tạo bằng \"1\". Biến cnt là kiểu số nguyên nên sau đó chỉ có thể gán số nguyên (trang 348).",
+            "en": "Declare variable cnt and initialize with '1.' Variable cnt becomes integer type so only integers can be assigned afterwards (p.348)."
+          }
+        },
+        {
+          "program": "while (cntが10以下)",
+          "description": {
+            "ja": "変数cntの値が「10以下」である限り、3行目と4行目の処理を繰り返し実行する。",
+            "vi": "Miễn là giá trị biến cnt \"10 trở xuống\", thực hiện lặp xử lý dòng 3 và 4.",
+            "en": "As long as variable cnt value is '10 or less,' repeatedly execute processing of lines 3 and 4."
+          }
+        },
+        {
+          "program": "\"☆\"を出力する",
+          "description": {
+            "ja": "☆マークを出力する処理。",
+            "vi": "Xử lý xuất dấu ☆.",
+            "en": "Processing outputting ☆ mark."
+          }
+        },
+        {
+          "program": "cnt ← cnt + 1",
+          "description": {
+            "ja": "変数cntに「1」を加算した値で、変数cntを上書きする。例えば、変数cntの値が「3」の場合、この処理で「3 + 1」を行い、変数cntを「4」で上書きする。",
+            "vi": "Ghi đè biến cnt bằng giá trị đã cộng \"1\" vào biến cnt. Ví dụ, khi giá trị biến cnt là \"3\", xử lý này thực hiện \"3 + 1\" và ghi đè biến cnt bằng \"4\".",
+            "en": "Overwrite variable cnt with value adding '1' to variable cnt. For example, when variable cnt value is '3,' this processing performs '3 + 1' and overwrites variable cnt with '4.'"
+          }
+        },
+        {
+          "program": "endwhile",
+          "description": {
+            "ja": "whileの処理の終わりを示す。",
+            "vi": "Cho thấy kết thúc xử lý while.",
+            "en": "Shows end of while processing."
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のプログラムでは、処理が実行されるたびに変数cntの値が「1」ずつ加算されていきます。そして、変数cntの値が「11」になった時点で、条件式（cntが10以下）を満たさなくなり、繰り返し処理が終了します。",
+      "vi": "Trong chương trình trên, mỗi lần xử lý thực hiện, giá trị biến cnt tăng thêm \"1\". Và khi giá trị biến cnt thành \"11\", không còn thỏa biểu thức điều kiện (cnt là 10 trở xuống), xử lý lặp kết thúc.",
+      "en": "In above program, each time processing executes, variable cnt value increases by '1.' And when variable cnt value becomes '11,' conditional expression (cnt is 10 or less) is no longer satisfied, loop processing ends.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "加算",
+          "reading": "かさん"
+        },
+        {
+          "kanji": "時点",
+          "reading": "じてん"
+        },
+        {
+          "kanji": "条件式",
+          "reading": "じょうけんしき"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "満",
+          "reading": "まん"
+        },
+        {
+          "kanji": "繰",
+          "reading": "そう"
+        },
+        {
+          "kanji": "返",
+          "reading": "へん"
+        },
+        {
+          "kanji": "終了",
+          "reading": "しゅうりょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "cnt",
+      "description": "counter viết tắt",
+      "vi": "Bộ đếm (viết tắt counter)",
+      "en": "Counter (abbreviation)",
+      "my": "ရေတွက်စက်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "is_key_content": true
+  }
+}

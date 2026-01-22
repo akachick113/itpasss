@@ -1,0 +1,238 @@
+{
+  "page_id": 332,
+  "image": "p_0332.png",
+  "chapter": 9,
+  "section": "09-01",
+  "page_number": 316,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "09-01",
+      "title": {
+        "ja": "数値の数え方",
+        "vi": "Cách đếm số",
+        "en": "How to Count Numbers"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "さまざまな計算",
+        "vi": "Các phép tính khác nhau",
+        "en": "Various Calculations"
+      },
+      "content": {
+        "ja": "私たちが普段生活している世界では「1＋1＝2」ですが、コンピュータの世界では「1＋1＝10」になります。いろいろな「数値の数え方」を見ていきましょう。",
+        "vi": "Trong thế giới chúng ta sống hàng ngày là \"1+1=2\", nhưng trong thế giới máy tính là \"1+1=10\". Hãy xem các \"cách đếm số\" khác nhau.",
+        "en": "In our daily world '1+1=2,' but in computer world '1+1=10.' Let's look at various 'ways to count numbers.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "10進数と2進数と16進数",
+      "reading": "じゅっしんすうとにしんすうとじゅうろくしんすう",
+      "vi": "Số thập phân, số nhị phân và số thập lục phân",
+      "en": "Decimal, Binary, and Hexadecimal"
+    },
+    {
+      "type": "paragraph",
+      "ja": "10進数とは、値が10になるときに桁が1つ上がる表記法です。10進数は、私たちが日常で使っている表記法なので、簡単に理解できると思います。",
+      "vi": "Số thập phân là ký pháp mà khi giá trị đạt 10 thì tăng lên 1 chữ số. Vì số thập phân là ký pháp chúng ta sử dụng hàng ngày nên có thể hiểu dễ dàng.",
+      "en": "Decimal is notation where digit increases by 1 when value becomes 10. Since decimal is notation we use daily, it can be easily understood.",
+      "terms": [
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "桁",
+          "reading": "けた"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "表記法",
+          "reading": "ひょうきほう"
+        },
+        {
+          "kanji": "私",
+          "reading": "わたし"
+        },
+        {
+          "kanji": "日常",
+          "reading": "にちじょう"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "10進数の例",
+        "vi": "Ví dụ số thập phân",
+        "en": "Decimal Example"
+      },
+      "content": {
+        "ja": "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19（10で桁が上がる＝2桁になる）",
+        "vi": "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 (Tăng chữ số ở 10 = thành 2 chữ số)",
+        "en": "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 (Digit increases at 10 = becomes 2 digits)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "実は、世の中には10進数以外の表記法があります。コンピュータの世界でよく利用されているのは2進数と16進数です。これらはどのような表記法なのでしょうか。具体例を見ながら解説していきます。",
+      "vi": "Thực ra, trên thế giới có các ký pháp khác ngoài số thập phân. Trong thế giới máy tính, số nhị phân và số thập lục phân được sử dụng phổ biến. Chúng là loại ký pháp như thế nào? Hãy giải thích qua các ví dụ cụ thể.",
+      "en": "Actually, there are notations other than decimal in the world. Binary and hexadecimal are commonly used in computer world. What kind of notations are these? Let's explain with specific examples.",
+      "terms": [
+        {
+          "kanji": "実",
+          "reading": "み"
+        },
+        {
+          "kanji": "世",
+          "reading": "よ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "進数以外",
+          "reading": "しんすういがい"
+        },
+        {
+          "kanji": "表記法",
+          "reading": "ひょうきほう"
+        },
+        {
+          "kanji": "世界",
+          "reading": "せかい"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "具体例",
+          "reading": "ぐたいれい"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "2進数",
+      "reading": "にしんすう",
+      "vi": "Số nhị phân",
+      "en": "Binary"
+    },
+    {
+      "type": "paragraph",
+      "ja": "2進数とは、値が2になるときに桁が1つ上がる表記法です。0、1までは10進数の場合と同じですが、2進数では「2」のときに桁が上がるので、10進数の「2」は、2進数では「10」となります。その後、11、100、101と増加します。",
+      "vi": "Số nhị phân là ký pháp mà khi giá trị đạt 2 thì tăng lên 1 chữ số. 0, 1 giống như trường hợp số thập phân, nhưng trong số nhị phân, chữ số tăng ở \"2\" nên \"2\" của số thập phân là \"10\" trong số nhị phân. Sau đó tăng lên 11, 100, 101.",
+      "en": "Binary is notation where digit increases by 1 when value becomes 2. 0, 1 are same as decimal, but in binary digit increases at '2,' so decimal '2' becomes '10' in binary. Then increases to 11, 100, 101.",
+      "terms": [
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "桁",
+          "reading": "けた"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "表記法",
+          "reading": "ひょうきほう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "増加",
+          "reading": "ぞうか"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "10進数",
+      "reading": "じゅっしんすう",
+      "romaji": "Jusshinsu",
+      "vi": "Số thập phân",
+      "en": "Decimal",
+      "my": "ဒေးစိမ်မလ်"
+    },
+    {
+      "kanji": "2進数",
+      "reading": "にしんすう",
+      "romaji": "Nishinsu",
+      "vi": "Số nhị phân",
+      "en": "Binary",
+      "my": "နှစ်လုးပိုင်းကိန်း"
+    },
+    {
+      "kanji": "16進数",
+      "reading": "じゅうろくしんすう",
+      "romaji": "Juurokushinsu",
+      "vi": "Số thập lục phân",
+      "en": "Hexadecimal",
+      "my": "ဆယ့်ခြောက်ကိန်း"
+    }
+  ],
+  "meta": {
+    "has_illustration": true,
+    "has_diagram": true
+  }
+}

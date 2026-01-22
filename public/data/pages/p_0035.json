@@ -1,0 +1,344 @@
+{
+  "page_id": 35,
+  "image": "p_0035.png",
+  "chapter": 1,
+  "section": "01-03",
+  "page_number": 19,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "OJTとOff-JT",
+      "reading": "おーじぇいてぃーとおふじぇいてぃー",
+      "vi": "OJT và Off-JT",
+      "en": "OJT and Off-JT",
+      "my": "OJT နှင့် Off-JT"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "e-ラーニングとアダプティブラーニング",
+      "reading": "いーらーにんぐとあだぷてぃぶらーにんぐ",
+      "vi": "e-Learning và Adaptive Learning",
+      "en": "e-Learning and Adaptive Learning",
+      "my": "e-Learning နှင့် Adaptive Learning"
+    },
+    {
+      "type": "paragraph",
+      "ja": "教育訓練には他に、e-ラーニングやアダプティブラーニングもあります。e-ラーニングとは、パソコンやインターネットなどのITを使った学習方法です。指導者や講師と直接会って研修をしないため、移動時間やコストを削減できます。",
+      "vi": "Ngoài ra còn có e-Learning và Adaptive Learning trong đào tạo. e-Learning là phương pháp học sử dụng IT như máy tính hoặc Internet. Vì không cần gặp trực tiếp người hướng dẫn hay giảng viên để đào tạo, có thể tiết kiệm thời gian di chuyển và chi phí.",
+      "en": "Training also includes e-Learning and Adaptive Learning. e-Learning is a learning method using IT such as computers or the Internet. Since there's no need to meet instructors or trainers directly for training, travel time and costs can be reduced.",
+      "my": "လေ့ကျင့်ရေးတွင် e-Learning နှင့် Adaptive Learning လည်း ပါဝင်သည်။ e-Learning သည် ကွန်ပျူတာ သို့မဟုတ် အင်တာနက်ကဲ့သို့ IT အသုံးပြု၍ လေ့လာသောနည်းလမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "教育訓練",
+          "reading": "きょういくくんれん"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "学習方法",
+          "reading": "がくしゅうほうほう"
+        },
+        {
+          "kanji": "指導者",
+          "reading": "しどうしゃ"
+        },
+        {
+          "kanji": "講師",
+          "reading": "こうし"
+        },
+        {
+          "kanji": "直接会",
+          "reading": "ちょくせつかい"
+        },
+        {
+          "kanji": "研修",
+          "reading": "けんしゅう"
+        },
+        {
+          "kanji": "移動時間",
+          "reading": "いどうじかん"
+        },
+        {
+          "kanji": "削減",
+          "reading": "さくげん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "アダプティブラーニングとは、生徒（受講者）一人ひとりの習熟度や苦手分野に応じて、その生徒に最も適した学習内容を提供する教育手法です。これまでは、教師（講師）の感覚や経験によって生徒ごとに指導方法を変えるケースがありましたが、アダプティブラーニングではITを用いることで、客観的なデータに基づいて学習の最適化を行うことができます。",
+      "vi": "Adaptive Learning là phương pháp giáo dục cung cấp nội dung học phù hợp nhất với từng học sinh (học viên) dựa trên mức độ thành thạo và điểm yếu của họ. Trước đây, có trường hợp thay đổi phương pháp giảng dạy cho từng học sinh dựa trên cảm giác và kinh nghiệm của giáo viên (giảng viên), nhưng với Adaptive Learning, bằng cách sử dụng IT, có thể tối ưu hóa việc học dựa trên dữ liệu khách quan.",
+      "en": "Adaptive Learning is an educational method that provides learning content most suited to each student (learner) based on their proficiency level and weak areas. Previously, there were cases where teaching methods were changed for each student based on the teacher's (instructor's) intuition and experience, but with Adaptive Learning, by using IT, learning can be optimized based on objective data.",
+      "my": "Adaptive Learning သည် ကျောင်းသား (သင်တန်းသား) တစ်ဦးချင်းစီ၏ ကျွမ်းကျင်မှုအဆင့်နှင့် အားနည်းချက်များပေါ် မူတည်၍ အသင့်တော်ဆုံး သင်ကြားမှုအကြောင်းအရာ ပေးသော ပညာရေးနည်းလမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "生徒",
+          "reading": "せいと"
+        },
+        {
+          "kanji": "受講者",
+          "reading": "じゅこうしゃ"
+        },
+        {
+          "kanji": "一人",
+          "reading": "ひとり"
+        },
+        {
+          "kanji": "習熟度",
+          "reading": "しゅうじゅくど"
+        },
+        {
+          "kanji": "苦手分野",
+          "reading": "にがてぶんや"
+        },
+        {
+          "kanji": "応",
+          "reading": "おう"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "適",
+          "reading": "てき"
+        },
+        {
+          "kanji": "学習内容",
+          "reading": "がくしゅうないよう"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "教育手法",
+          "reading": "きょういくしゅほう"
+        },
+        {
+          "kanji": "教師",
+          "reading": "きょうし"
+        },
+        {
+          "kanji": "講師",
+          "reading": "こうし"
+        },
+        {
+          "kanji": "感覚",
+          "reading": "かんかく"
+        },
+        {
+          "kanji": "経験",
+          "reading": "けいけん"
+        },
+        {
+          "kanji": "指導方法",
+          "reading": "しどうほうほう"
+        },
+        {
+          "kanji": "変",
+          "reading": "へん"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "客観的",
+          "reading": "きゃっかんてき"
+        },
+        {
+          "kanji": "基",
+          "reading": "もと"
+        },
+        {
+          "kanji": "学習",
+          "reading": "がくしゅう"
+        },
+        {
+          "kanji": "最適化",
+          "reading": "さいてきか"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "HRテック（HRTech）",
+        "vi": "HRTech",
+        "en": "HRTech",
+        "my": "HRTech",
+        "terms": [
+          {
+            "kanji": "HRテック",
+            "reading": "えいちあーるてっく"
+          }
+        ]
+      },
+      "content": {
+        "ja": "HRMのうち、AI（p.134）やIoT（p.165）といったITを活用する手法のことを「HRテック」といいます。Human Resource（人的資源）とTechnology（技術）を合わせた造語です。他にも、○○テックという用語には「フィンテック」（Finance：金融）や「Edテック」（Education：教育）などがあります。HRテックの具体例として出題されるのが、上記のe-ラーニングとアダプティブラーニングです。",
+        "vi": "Trong HRM, phương pháp sử dụng IT như AI (trang 134) hoặc IoT (trang 165) được gọi là \"HRTech\". Đây là từ ghép của Human Resource (nguồn nhân lực) và Technology (công nghệ). Ngoài ra còn có các thuật ngữ ○○Tech khác như \"FinTech\" (Finance: tài chính) và \"EdTech\" (Education: giáo dục). e-Learning và Adaptive Learning nói trên là ví dụ cụ thể của HRTech được ra đề.",
+        "en": "Within HRM, methods using IT such as AI (p.134) or IoT (p.165) are called \"HRTech.\" This is a coined word combining Human Resource and Technology. Other ○○Tech terms include \"FinTech\" (Finance) and \"EdTech\" (Education). e-Learning and Adaptive Learning mentioned above are specific examples of HRTech that appear on exams.",
+        "my": "HRM အတွင်း AI (စာ ၁၃၄) သို့မဟုတ် IoT (စာ ၁၆၅) ကဲ့သို့ IT အသုံးပြုသော နည်းလမ်းများကို \"HRTech\" ဟုခေါ်သည်။",
+        "terms": [
+          {
+            "kanji": "活用",
+            "reading": "かつよう"
+          },
+          {
+            "kanji": "手法",
+            "reading": "しゅほう"
+          },
+          {
+            "kanji": "人的資源",
+            "reading": "じんてきしげん"
+          },
+          {
+            "kanji": "技術",
+            "reading": "ぎじゅつ"
+          },
+          {
+            "kanji": "合",
+            "reading": "ごう"
+          },
+          {
+            "kanji": "造語",
+            "reading": "ぞうご"
+          },
+          {
+            "kanji": "他",
+            "reading": "ほか"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          },
+          {
+            "kanji": "金融",
+            "reading": "きんゆう"
+          },
+          {
+            "kanji": "教育",
+            "reading": "きょういく"
+          },
+          {
+            "kanji": "具体例",
+            "reading": "ぐたいれい"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "上記",
+            "reading": "じょうき"
+          }
+        ]
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・OJTとは、業務の実践を通じた教育訓練\n・Off-JTとは、仕事を離れて行われる教育訓練\n・HRテックとは、HRMのうち、AIやIoTといったITを活用する手法",
+        "vi": "・OJT là đào tạo thông qua thực hành công việc\n・Off-JT là đào tạo được thực hiện xa công việc\n・HRTech là phương pháp sử dụng IT như AI và IoT trong HRM",
+        "en": "・OJT is training through work practice\n・Off-JT is training conducted away from work\n・HRTech is methods using IT such as AI and IoT within HRM",
+        "my": "・OJT သည် လုပ်ငန်းလက်တွေ့မှတဆင့် လေ့ကျင့်ခြင်းဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "実践",
+            "reading": "じっせん"
+          },
+          {
+            "kanji": "通",
+            "reading": "とおり"
+          },
+          {
+            "kanji": "教育訓練",
+            "reading": "きょういくくんれん"
+          },
+          {
+            "kanji": "仕事",
+            "reading": "しごと"
+          },
+          {
+            "kanji": "離",
+            "reading": "り"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "活用",
+            "reading": "かつよう"
+          },
+          {
+            "kanji": "手法",
+            "reading": "しゅほう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "e-ラーニング",
+      "reading": "いーらーにんぐ",
+      "romaji": "e-Learning",
+      "vi": "Học trực tuyến",
+      "en": "e-Learning",
+      "my": "အီလေ့လာခြင်း"
+    },
+    {
+      "kanji": "アダプティブラーニング",
+      "reading": "あだぷてぃぶらーにんぐ",
+      "romaji": "Adaptive Learning",
+      "vi": "Học thích ứng",
+      "en": "Adaptive Learning",
+      "my": "လိုက်လျားညီလေ့လာခြင်း"
+    },
+    {
+      "kanji": "HRテック",
+      "reading": "えいちあーるてっく",
+      "romaji": "HRTech",
+      "vi": "Công nghệ nhân sự",
+      "en": "HR Technology",
+      "my": "HR နည်းပညာ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "has_learn_more": true,
+    "illustration": "ojt_offjt"
+  }
+}

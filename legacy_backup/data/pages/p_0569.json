@@ -1,0 +1,130 @@
+{
+  "page_id": 569,
+  "image": "p_0569.png",
+  "chapter": 15,
+  "section": "15-05",
+  "page_number": 553,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "認証局とデジタル証明書",
+        "vi": "Cơ quan chứng thực và Chứng chỉ số",
+        "en": "Certificate Authority and Digital Certificate"
+      },
+      "steps": [
+        {
+          "number": 1,
+          "ja": "太郎が認証局に公開鍵を送る",
+          "vi": "Taro gửi khóa công khai đến cơ quan chứng thực",
+          "en": "Taro sends public key to CA"
+        },
+        {
+          "number": 2,
+          "ja": "認証局がデジタル証明書を発行（デジタル署名＋太郎の公開鍵）",
+          "vi": "CA phát hành chứng chỉ số (chữ ký số + khóa công khai của Taro)",
+          "en": "CA issues digital certificate (digital signature + Taro's public key)"
+        },
+        {
+          "number": 3,
+          "ja": "太郎が証明書を送る",
+          "vi": "Taro gửi chứng chỉ",
+          "en": "Taro sends certificate"
+        },
+        {
+          "number": 4,
+          "ja": "太郎が証明書を花子に送る",
+          "vi": "Taro gửi chứng chỉ cho Hanako",
+          "en": "Taro sends certificate to Hanako"
+        },
+        {
+          "number": 5,
+          "ja": "花子が次郎の公開鍵で検証",
+          "vi": "Hanako xác minh bằng khóa công khai",
+          "en": "Hanako verifies with public key"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "PKI",
+      "vi": "PKI",
+      "en": "PKI"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "PKI",
+        "vi": "PKI",
+        "en": "PKI"
+      },
+      "full_name": "Public Key Infrastructure：公開鍵基盤",
+      "definition": {
+        "ja": "PKI（Public Key Infrastructure：公開鍵基盤）とは、公開鍵暗号方式やデジタル署名で使用する公開鍵の持ち主を保証するためのインフラ（基盤）です。「PKI」と聞くと何やら難しそうな用語ですが、PKIとは先述した「公開鍵の正当性を認証局に保証してもらう仕組み」のことです。",
+        "vi": "PKI (Public Key Infrastructure: Hạ tầng khóa công khai) là hạ tầng (cơ sở) để đảm bảo chủ sở hữu khóa công khai được sử dụng trong phương thức mã hóa khóa công khai và chữ ký số. \"PKI\" nghe có vẻ là thuật ngữ khó, nhưng PKI là \"cơ chế để cơ quan chứng thực đảm bảo tính hợp lệ của khóa công khai\" đã đề cập trước đó.",
+        "en": "PKI (Public Key Infrastructure) is infrastructure to guarantee owner of public key used in Public Key Encryption and Digital Signature. 'PKI' sounds like difficult term, but PKI is 'mechanism for Certificate Authority to guarantee validity of public key' as mentioned earlier."
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "認証局とは、電子商取引において、公開鍵に対するデジタル証明書を発行する第三者機関である",
+          "vi": "Cơ quan chứng thực là tổ chức bên thứ ba phát hành chứng chỉ số cho khóa công khai trong thương mại điện tử",
+          "en": "Certificate Authority is third-party organization issuing digital certificates for public keys in electronic commerce"
+        },
+        {
+          "ja": "PKIとは、公開鍵の正当性を認証局に保証してもらう仕組み",
+          "vi": "PKI là cơ chế để cơ quan chứng thực đảm bảo tính hợp lệ của khóa công khai",
+          "en": "PKI is mechanism for Certificate Authority to guarantee validity of public key"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！CRL",
+        "vi": "Chi tiết hơn! CRL",
+        "en": "More Details! CRL"
+      },
+      "content": {
+        "ja": "CRL（Certificate Revocation List：証明書失効リスト）は、何らかの理由によって、有効期間内であっても使用を停止されたデジタル証明書の一覧です。例えば、秘密鍵が漏えいしたなどの理由で証明書が抹消された場合、そのデジタル証明書がまだ失効し、CRLに掲載されます。そして、CRLはPKI（公開鍵基盤）において、デジタル証明書の正当性をリアルタイムで確認するための仕組みの一つです。",
+        "vi": "CRL (Certificate Revocation List: Danh sách thu hồi chứng chỉ) là danh sách các chứng chỉ số đã bị dừng sử dụng vì lý do nào đó ngay cả khi còn trong thời hạn hiệu lực. Ví dụ, khi chứng chỉ bị hủy vì lý do như khóa bí mật bị rò rỉ, chứng chỉ số đó bị thu hồi và được liệt kê trong CRL. Và CRL là một trong các cơ chế để xác minh tính hợp lệ của chứng chỉ số theo thời gian thực trong PKI (hạ tầng khóa công khai).",
+        "en": "CRL (Certificate Revocation List) is list of digital certificates whose use has been stopped for some reason even within validity period. For example, when certificate is revoked due to reasons like private key leakage, that digital certificate is revoked and listed in CRL. And CRL is one mechanism for verifying validity of digital certificates in real-time in PKI (Public Key Infrastructure)."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "PKI",
+      "full": "Public Key Infrastructure",
+      "vi": "Hạ tầng khóa công khai",
+      "en": "Public Key Infrastructure",
+      "my": "အများသို့သော့ချက် အခြေခံအဆောက်အအုံ"
+    },
+    {
+      "term": "CRL",
+      "full": "Certificate Revocation List",
+      "vi": "Danh sách thu hồi chứng chỉ",
+      "en": "Certificate Revocation List",
+      "my": "လက်မှတ်ရွက်စာ ရုတ်သိမ်းစာရင်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

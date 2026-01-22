@@ -1,0 +1,397 @@
+{
+  "page_id": 102,
+  "image": "p_0102.png",
+  "chapter": 2,
+  "section": "02-06",
+  "page_number": 86,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "JANコードとQRコード",
+      "reading": "じゃんこーどとQRこーど",
+      "vi": "JAN Code và QR Code",
+      "en": "JAN Code and QR Code",
+      "my": "JAN Code နှင့် QR Code"
+    },
+    {
+      "type": "paragraph",
+      "ja": "世界中で統一され、標準化されていたほうがよいものは、前述のような標識以外にもたくさんあります。中でも、ITパスポート試験によく出題されるのが「JANコード」と「QRコード」です。最近は、キャッシュレス決済の手段として注目されているQRコードの出題頻度が特に増えています。",
+      "vi": "Có nhiều thứ nên được thống nhất và tiêu chuẩn hóa trên toàn thế giới ngoài biển báo đã nói. Trong đó, JAN Code và QR Code thường được ra đề trong IT Passport. Gần đây, tần suất ra đề về QR Code - phương thức thanh toán không tiền mặt - đặc biệt tăng.",
+      "en": "Many things besides signs should be unified and standardized worldwide. Among them, JAN Code and QR Code are frequently tested on IT Passport. Recently, QR Code questions increased significantly as a cashless payment method.",
+      "my": "ဆိုင်းဘုတ်များအပြင် အရာများစွာကို ကမ္ဘာတစ်ဝှမ်း ညီညွတ်စေပြီး စံချိန်စံညွှန်းသတ်မှတ်သင့်သည်။",
+      "terms": [
+        {
+          "kanji": "世界中",
+          "reading": "せかいじゅう"
+        },
+        {
+          "kanji": "統一",
+          "reading": "とういつ"
+        },
+        {
+          "kanji": "標準化",
+          "reading": "ひょうじゅんか"
+        },
+        {
+          "kanji": "前述",
+          "reading": "ぜんじゅつ"
+        },
+        {
+          "kanji": "標識以外",
+          "reading": "ひょうしきいがい"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "最近",
+          "reading": "さいきん"
+        },
+        {
+          "kanji": "決済",
+          "reading": "けっさい"
+        },
+        {
+          "kanji": "手段",
+          "reading": "しゅだん"
+        },
+        {
+          "kanji": "注目",
+          "reading": "ちゅうもく"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "特",
+          "reading": "とく"
+        },
+        {
+          "kanji": "増",
+          "reading": "ぞう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "JANコード（Japanese Article Number）は、世界共通の商品識別番号です。一般的には「バーコード」と呼ばれています。JANコードは標準化されているので、海外のお店でも同様に扱うことが可能です。",
+      "vi": "JAN Code (Japanese Article Number) là số nhận dạng sản phẩm chung toàn cầu. Thông thường được gọi là Mã vạch (barcode). Vì JAN Code được tiêu chuẩn hóa nên có thể sử dụng tương tự ở cửa hàng nước ngoài.",
+      "en": "JAN Code (Japanese Article Number) is a globally common product identification number. Commonly called Barcode. Since JAN Code is standardized, it can be used similarly in overseas stores.",
+      "my": "JAN Code (Japanese Article Number) သည် ကမ္ဘာလုံးအတိုင်းအတာ ရှိသော ထုတ်ကုန်ခွဲခြားမှု နံပါတ်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "世界共通",
+          "reading": "せかいきょうつう"
+        },
+        {
+          "kanji": "商品識別番号",
+          "reading": "しょうひんしきべつばんごう"
+        },
+        {
+          "kanji": "一般的",
+          "reading": "いっぱんてき"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "標準化",
+          "reading": "ひょうじゅんか"
+        },
+        {
+          "kanji": "海外",
+          "reading": "かいがい"
+        },
+        {
+          "kanji": "店",
+          "reading": "みせ"
+        },
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "JANコード",
+        "vi": "JAN Code",
+        "en": "JAN Code"
+      },
+      "headers": {
+        "ja": [
+          "構成要素",
+          "説明"
+        ],
+        "vi": [
+          "Thành phần",
+          "Giải thích"
+        ],
+        "en": [
+          "Component",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "①メーカーコード",
+            "商品を作った企業の番号"
+          ],
+          "vi": [
+            "①Mã nhà sản xuất",
+            "Số của doanh nghiệp sản xuất sản phẩm"
+          ],
+          "en": [
+            "①Maker Code",
+            "Number of company that made the product"
+          ]
+        },
+        {
+          "ja": [
+            "②商品アイテムコード",
+            "他の商品と区別するために使う番号"
+          ],
+          "vi": [
+            "②Mã mặt hàng",
+            "Số dùng để phân biệt với sản phẩm khác"
+          ],
+          "en": [
+            "②Product Item Code",
+            "Number to distinguish from other products"
+          ]
+        },
+        {
+          "ja": [
+            "③チェックデジット",
+            "読み取ったJANコードに誤りがないかチェックするための番号。コンピュータが利用する。"
+          ],
+          "vi": [
+            "③Check Digit",
+            "Số để kiểm tra xem JAN Code đã quét có lỗi không. Máy tính sử dụng."
+          ],
+          "en": [
+            "③Check Digit",
+            "Number to check if scanned JAN code has errors. Used by computers."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "QRコード（Quick Response Code）は、数字だけでなく、英字や漢字など、多くの情報を記録できる2次元コードです。JANコードが線（1次元）であるのに対して、QRコードは面（2次元）で構成されるため、表現できるデータ量が多いのが特徴です。しかも、QRコードは3つの角にマークがあるため、どの角度からも読み取ることができます。ちなみに、QRコードは日本の会社が開発しました。",
+      "vi": "QR Code (Quick Response Code) là mã 2 chiều có thể ghi nhiều thông tin không chỉ số mà còn chữ cái, chữ Hán. Trong khi JAN Code là đường thẳng (1 chiều), QR Code được cấu thành bằng mặt phẳng (2 chiều) nên có thể biểu diễn lượng dữ liệu lớn. Hơn nữa, vì QR Code có dấu ở 3 góc nên có thể đọc từ bất kỳ góc độ nào. Tham khảo, QR Code được phát triển bởi công ty Nhật Bản.",
+      "en": "QR Code (Quick Response Code) is a 2D code that can record many types of information including numbers, letters, and kanji. While JAN Code is linear (1D), QR Code is composed of a surface (2D), allowing larger data capacity. Moreover, QR Code has marks at 3 corners enabling reading from any angle. Incidentally, QR Code was developed by a Japanese company.",
+      "my": "QR Code (Quick Response Code) သည် နံပါတ်များသာမက စာလုံးများ၊ ကန်းဂျိစာလုံးများ အပါအဝင် သတင်းအချက်အလက် အမျိုးအစားများစွာကို မှတ်တမ်းတင်နိုင်သော 2D ကုဒ်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "数字",
+          "reading": "すうじ"
+        },
+        {
+          "kanji": "英字",
+          "reading": "えいじ"
+        },
+        {
+          "kanji": "漢字",
+          "reading": "かんじ"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "記録",
+          "reading": "きろく"
+        },
+        {
+          "kanji": "次元",
+          "reading": "じげん"
+        },
+        {
+          "kanji": "線",
+          "reading": "せん"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "面",
+          "reading": "めん"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "表現",
+          "reading": "ひょうげん"
+        },
+        {
+          "kanji": "量",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "角",
+          "reading": "かく"
+        },
+        {
+          "kanji": "角度",
+          "reading": "かくど"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "kanji": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・JANコードは、商品を区別するためのコードである\n・JANコードは、メーカーコードと商品アイテムコード、チェックデジットから構成される\n・QRコードの特徴は「2次元」「英字や漢字も記録可」「どの角度からも読み取り可」の3つ",
+        "vi": "・JAN Code là mã để phân biệt sản phẩm\n・JAN Code gồm Mã nhà sản xuất, Mã mặt hàng, Check Digit\n・Đặc điểm của QR Code là 3 điều: 2 chiều, ghi được chữ cái và chữ Hán, đọc được từ mọi góc độ",
+        "en": "・JAN Code is a code to distinguish products\n・JAN Code consists of Maker Code, Product Item Code, Check Digit\n・QR Code features are: 2D, can record letters and kanji, readable from any angle",
+        "my": "・ JAN Code သည် ထုတ်ကုန်များကို ခွဲခြားရန် ကုဒ်ဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "商品",
+            "reading": "しょうひん"
+          },
+          {
+            "kanji": "区別",
+            "reading": "くべつ"
+          },
+          {
+            "kanji": "構成",
+            "reading": "こうせい"
+          },
+          {
+            "kanji": "特徴",
+            "reading": "とくちょう"
+          },
+          {
+            "kanji": "次元",
+            "reading": "じげん"
+          },
+          {
+            "kanji": "英字",
+            "reading": "えいじ"
+          },
+          {
+            "kanji": "漢字",
+            "reading": "かんじ"
+          },
+          {
+            "kanji": "記録可",
+            "reading": "きろくか"
+          },
+          {
+            "kanji": "角度",
+            "reading": "かくど"
+          },
+          {
+            "kanji": "読",
+            "reading": "どく"
+          },
+          {
+            "kanji": "取",
+            "reading": "しゅ"
+          },
+          {
+            "kanji": "可",
+            "reading": "か"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "バーコード",
+      "reading": "ばーこーど",
+      "romaji": "Barcode",
+      "vi": "Mã vạch",
+      "en": "Barcode",
+      "my": "Barcode"
+    },
+    {
+      "kanji": "2次元コード",
+      "reading": "にじげんこーど",
+      "romaji": "Nijigen Code",
+      "vi": "Mã 2 chiều",
+      "en": "2D Code",
+      "my": "2D Code"
+    },
+    {
+      "kanji": "チェックデジット",
+      "reading": "ちぇっくでじっと",
+      "romaji": "Check Digit",
+      "vi": "Số kiểm tra",
+      "en": "Check Digit",
+      "my": "Check Digit"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

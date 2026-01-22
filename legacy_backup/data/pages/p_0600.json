@@ -1,0 +1,277 @@
+{
+    "page_id": 600,
+    "image": "p_0600.png",
+    "chapter": "review",
+    "section": "exam_review",
+    "page_number": 584,
+    "content": [
+        {
+            "type": "review_chapter",
+            "chapter_num": 13,
+            "title": {
+                "ja": "13章",
+                "vi": "Chương 13",
+                "en": "Chapter 13"
+            },
+            "terms": [
+                {
+                    "ja": "射影とは、表からある特定の列のみを取り出す操作",
+                    "vi": "Projection là thao tác lấy ra chỉ cột cụ thể từ bảng",
+                    "en": "Projection is operation extracting only specific columns from table"
+                },
+                {
+                    "ja": "結合とは、複数の表を1つにする操作",
+                    "vi": "Join là thao tác kết hợp nhiều bảng thành một",
+                    "en": "Join is operation combining multiple tables into one"
+                },
+                {
+                    "ja": "トランザクション管理とは、ユーザがDBMSに対して操作（トランザクション）を設定",
+                    "vi": "Quản lý giao dịch là người dùng thiết lập thao tác (giao dịch) đối với DBMS",
+                    "en": "Transaction management is user setting operation (transaction) for DBMS"
+                },
+                {
+                    "ja": "コミットとは、トランザクションが正常に完了した際に、データベースの更新内容を確定させること",
+                    "vi": "Commit là xác nhận nội dung cập nhật cơ sở dữ liệu khi giao dịch hoàn thành bình thường",
+                    "en": "Commit is confirming database update content when transaction completes normally"
+                },
+                {
+                    "ja": "ログファイルとは、データベースの更新履歴を記録したファイル",
+                    "vi": "Log File là file ghi lịch sử cập nhật cơ sở dữ liệu",
+                    "en": "Log File is file recording database update history"
+                },
+                {
+                    "ja": "排他制御とは、複数人が同じデータを同時に更新したときに、データに矛盾が生じないようにすること",
+                    "vi": "Exclusive Control là đảm bảo dữ liệu không mâu thuẫn khi nhiều người cập nhật cùng dữ liệu đồng thời",
+                    "en": "Exclusive Control is ensuring data doesn't become inconsistent when multiple people update same data simultaneously"
+                }
+            ]
+        },
+        {
+            "type": "review_chapter",
+            "chapter_num": 14,
+            "title": {
+                "ja": "14章",
+                "vi": "Chương 14",
+                "en": "Chapter 14"
+            },
+            "terms": [
+                {
+                    "ja": "LANとWANの違いは、電気通信事業者が設置した通信回線を使うか否かである（WANは使う、LANは使わない）",
+                    "vi": "Sự khác biệt giữa LAN và WAN là có sử dụng đường truyền do nhà cung cấp viễn thông lắp đặt hay không (WAN sử dụng, LAN không sử dụng)",
+                    "en": "Difference between LAN and WAN is whether using communication lines installed by telecom provider (WAN uses, LAN doesn't)"
+                },
+                {
+                    "ja": "ルータとは、LANやWANを相互接続するための機器（LANとWANを相互)接続する機能",
+                    "vi": "Router là thiết bị kết nối lẫn nhau LAN và WAN (chức năng kết nối lẫn nhau LAN và WAN)",
+                    "en": "Router is device for interconnecting LANs and WANs (function interconnecting LAN and WAN)"
+                },
+                {
+                    "ja": "デフォルトゲートウェイとは、他のネットワークへの出入口の役割を担っている機器（ルーターなど）",
+                    "vi": "Default Gateway là thiết bị đóng vai trò cổng ra vào mạng khác (như router)",
+                    "en": "Default Gateway is device playing role of entrance/exit to other networks (like router)"
+                },
+                {
+                    "ja": "ESSIDとは、無線LANのネットワークを識別する文字列",
+                    "vi": "ESSID là chuỗi ký tự nhận dạng mạng LAN không dây",
+                    "en": "ESSID is character string identifying wireless LAN network"
+                },
+                {
+                    "ja": "ESSIDステルスは不正接続のリスクを低減できる",
+                    "vi": "ESSID Stealth có thể giảm rủi ro kết nối trái phép",
+                    "en": "ESSID Stealth can reduce risk of unauthorized connection"
+                },
+                {
+                    "ja": "IoT・伝送速度＝データ量÷伝送速度",
+                    "vi": "IoT・Tốc độ truyền = Lượng dữ liệu ÷ Tốc độ truyền",
+                    "en": "IoT・Transmission speed = Data volume ÷ Transmission speed"
+                },
+                {
+                    "ja": "通信プロトコルとは、メーカが異なる機器同士でも、お互いに通信できるようにするための取り決めのこと",
+                    "vi": "Communication Protocol là quy định để các thiết bị khác nhà sản xuất có thể giao tiếp với nhau",
+                    "en": "Communication Protocol is agreement for devices from different manufacturers to communicate with each other"
+                },
+                {
+                    "ja": "SMTPとは、電子メールを送信するためのプロトコル",
+                    "vi": "SMTP là giao thức để gửi email",
+                    "en": "SMTP is protocol for sending email"
+                },
+                {
+                    "ja": "POPとは、電子メールを受信するためのプロトコル",
+                    "vi": "POP là giao thức để nhận email",
+                    "en": "POP is protocol for receiving email"
+                },
+                {
+                    "ja": "IMAPとは、メールサーバで電子メールを管理・閲覧するためのプロトコル",
+                    "vi": "IMAP là giao thức để quản lý và xem email trên mail server",
+                    "en": "IMAP is protocol for managing and viewing email on mail server"
+                },
+                {
+                    "ja": "IPアドレスとは、コンピュータを識別するための番号",
+                    "vi": "Địa chỉ IP là số để nhận dạng máy tính",
+                    "en": "IP Address is number for identifying computers"
+                },
+                {
+                    "ja": "ポート番号とは、アプリケーションソフトウェアを識別するための番号",
+                    "vi": "Số Port là số để nhận dạng phần mềm ứng dụng",
+                    "en": "Port Number is number for identifying application software"
+                },
+                {
+                    "ja": "MACアドレスとは、ネットワークに接続するための機器そのものを識別する",
+                    "vi": "Địa chỉ MAC là nhận dạng chính thiết bị để kết nối mạng",
+                    "en": "MAC Address identifies device itself for connecting to network"
+                },
+                {
+                    "ja": "DNSとは、ドメイン名とIPアドレスを対応させるしくみ",
+                    "vi": "DNS là cơ chế đối chiếu tên miền và địa chỉ IP",
+                    "en": "DNS is mechanism matching domain names and IP addresses"
+                },
+                {
+                    "ja": "ドメイン名はネットワーク上のコンピュータを特定するが、URLはあるコンピュータと保管されているフォルダやファイルまで特定する",
+                    "vi": "Tên miền xác định máy tính trên mạng, nhưng URL xác định đến folder và file được lưu trữ trên máy tính đó",
+                    "en": "Domain name identifies computer on network, but URL identifies down to folders and files stored on that computer"
+                }
+            ]
+        },
+        {
+            "type": "review_terms_continued",
+            "chapter_num": 14,
+            "terms": [
+                {
+                    "ja": "IPv4は、32ビットで構成される",
+                    "vi": "IPv4 được cấu thành từ 32 bit",
+                    "en": "IPv4 consists of 32 bits"
+                },
+                {
+                    "ja": "IPv6は、128ビットで構成される",
+                    "vi": "IPv6 được cấu thành từ 128 bit",
+                    "en": "IPv6 consists of 128 bits"
+                },
+                {
+                    "ja": "IPv6を使うと、IPアドレスの枯渇（不足）を回避",
+                    "vi": "Sử dụng IPv6 có thể tránh cạn kiệt (thiếu) địa chỉ IP",
+                    "en": "Using IPv6 can avoid IP address exhaustion (shortage)"
+                },
+                {
+                    "ja": "IPv6のアドレス数はIPv4の2^96倍",
+                    "vi": "Số địa chỉ IPv6 gấp 2^96 lần IPv4",
+                    "en": "IPv6 address count is 2^96 times IPv4"
+                },
+                {
+                    "ja": "NATとは、プライベートIPアドレスとグローバルIPアドレスを相互変換する技術である",
+                    "vi": "NAT là công nghệ chuyển đổi lẫn nhau địa chỉ IP private và địa chỉ IP global",
+                    "en": "NAT is technology mutually converting private IP address and global IP address"
+                },
+                {
+                    "ja": "DHCPとは、IPアドレスを自動的に取得するためのプロトコルである",
+                    "vi": "DHCP là giao thức để tự động lấy địa chỉ IP",
+                    "en": "DHCP is protocol for automatically obtaining IP address"
+                },
+                {
+                    "ja": "Webビーコンとは、閲覧した人を追跡するための小さな画像",
+                    "vi": "Web Beacon là hình ảnh nhỏ để theo dõi người đã xem",
+                    "en": "Web Beacon is small image for tracking viewers"
+                },
+                {
+                    "ja": "cookieとは、アクセスしてきたブラウザが自分のサーバであることを記録する小さなセキュリティ",
+                    "vi": "Cookie là bảo mật nhỏ ghi lại rằng trình duyệt truy cập là server của mình",
+                    "en": "Cookie is small security recording that accessing browser is own server"
+                },
+                {
+                    "ja": "RSSとは、Webサイトの見出しやリンク、要約などを記述するフォーマット",
+                    "vi": "RSS là định dạng mô tả tiêu đề, liên kết, tóm tắt của trang Web",
+                    "en": "RSS is format describing website headings, links, summaries"
+                },
+                {
+                    "ja": "MVNOとは、他社の無線通信インフラを借りて通信サービスを行う事業者",
+                    "vi": "MVNO là doanh nghiệp cung cấp dịch vụ truyền thông bằng cách thuê hạ tầng truyền thông không dây của công ty khác",
+                    "en": "MVNO is business providing communication service by renting other company's wireless communication infrastructure"
+                },
+                {
+                    "ja": "FTTHとは、光ファイバを使った家庭向けの通信技術",
+                    "vi": "FTTH là công nghệ truyền thông gia đình sử dụng cáp quang",
+                    "en": "FTTH is home communication technology using fiber optics"
+                },
+                {
+                    "ja": "BLEとは、Bluetoothの仕様の1つで省電力の無線通信",
+                    "vi": "BLE là thông số kỹ thuật của Bluetooth với truyền thông không dây tiết kiệm điện",
+                    "en": "BLE is Bluetooth specification with low-power wireless communication"
+                },
+                {
+                    "ja": "LPWAとは、省電力で広範囲の無線通信",
+                    "vi": "LPWA là truyền thông không dây tiết kiệm điện phạm vi rộng",
+                    "en": "LPWA is low-power wide-area wireless communication"
+                },
+                {
+                    "ja": "LPWAはBLEよりも通信距離が広いが大量、LTEよりも消費電力が少ない",
+                    "vi": "LPWA có khoảng cách truyền thông rộng hơn BLE nhưng lớn, tiêu thụ ít điện hơn LTE",
+                    "en": "LPWA has wider communication range than BLE but large, less power consumption than LTE"
+                },
+                {
+                    "ja": "セル所得（セル）とは、中継器（ホップ）を経由して信号を広範囲に伝達する技術",
+                    "vi": "Cell (cell) là công nghệ truyền tín hiệu phạm vi rộng qua bộ lặp (hop)",
+                    "en": "Cell is technology transmitting signals over wide area via repeaters (hops)"
+                },
+                {
+                    "ja": "エッジコンピューティングとは、IoT機器の近くにサーバを設置することで応答速度を速めること",
+                    "vi": "Edge Computing là tăng tốc độ phản hồi bằng cách đặt server gần thiết bị IoT",
+                    "en": "Edge Computing is speeding up response by placing server near IoT devices"
+                }
+            ]
+        },
+        {
+            "type": "review_chapter",
+            "chapter_num": 15,
+            "title": {
+                "ja": "15章",
+                "vi": "Chương 15",
+                "en": "Chapter 15"
+            },
+            "terms": [
+                {
+                    "ja": "ソーシャルエンジニアリングとは、代表人間の情報を盗み場合、ショルダーハック、スキャベンジング",
+                    "vi": "Social Engineering là trường hợp đánh cắp thông tin từ con người đại diện, Shoulder Hack, Scavenging",
+                    "en": "Social Engineering is stealing information from representative human, Shoulder Hack, Scavenging"
+                },
+                {
+                    "ja": "マルウェアとは、悪意を持ったプログラムのこと",
+                    "vi": "Malware là chương trình có ác ý",
+                    "en": "Malware is program with malicious intent"
+                },
+                {
+                    "ja": "ボットとは、多数のPCに感染して、攻撃者からの命令を受け、一斉攻撃などの動作を行うファイル",
+                    "vi": "Bot là file lây nhiễm nhiều PC, nhận lệnh từ kẻ tấn công và thực hiện các động tác như tấn công đồng loạt",
+                    "en": "Bot is file infecting many PCs, receiving commands from attacker and performing actions like simultaneous attacks"
+                },
+                {
+                    "ja": "スパイウェアとは、利用者に気づかれないように個人情報などを送信するプログラム",
+                    "vi": "Spyware là chương trình gửi thông tin cá nhân mà người dùng không nhận ra",
+                    "en": "Spyware is program sending personal information without user noticing"
+                },
+                {
+                    "ja": "ランサムウェアとは、ファイルを使用不可能にして身代金を要求するプログラム",
+                    "vi": "Ransomware là chương trình làm cho file không thể sử dụng và yêu cầu tiền chuộc",
+                    "en": "Ransomware is program making files unusable and demanding ransom"
+                },
+                {
+                    "ja": "バックドアプログラムとは、あらかじめ侵入するための入り口（バックドア）を作成するソフト",
+                    "vi": "Backdoor Program là phần mềm tạo lối vào (backdoor) để xâm nhập từ trước",
+                    "en": "Backdoor Program is software creating entrance (backdoor) for infiltration beforehand"
+                },
+                {
+                    "ja": "フィッシングとは、偽サイトで暗証番号やクレジットカード番号を入力させ、偽個人情報を盗むこと",
+                    "vi": "Phishing là yêu cầu nhập mã PIN hoặc số thẻ tín dụng trên trang giả và đánh cắp thông tin cá nhân giả",
+                    "en": "Phishing is having people input PIN or credit card number on fake site and stealing fake personal information"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "is_review": true,
+        "chapters_covered": [
+            13,
+            14,
+            15
+        ]
+    }
+}

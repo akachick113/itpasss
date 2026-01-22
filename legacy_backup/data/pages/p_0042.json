@@ -1,0 +1,197 @@
+{
+    "page_id": 42,
+    "image": "p_0042.png",
+    "chapter": 1,
+    "section": "practice_test",
+    "page_number": 26,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "1-4",
+            "year": "平成27年度",
+            "question": {
+                "ja": "現在担当している業務の実践を通じて、業務の遂行に必要な技術や知識を習得させる教育訓練の手法はどれか。",
+                "vi": "Phương pháp đào tạo nào giúp học kỹ năng và kiến thức cần thiết để thực hiện công việc thông qua thực hành công việc đang phụ trách?",
+                "en": "Which training method helps acquire skills and knowledge needed for work execution through practicing currently assigned tasks?"
+            },
+            "options": {
+                "ja": [
+                    "ア. CDP",
+                    "イ. e-ラーニング",
+                    "ウ. Off-JT",
+                    "エ. OJT"
+                ],
+                "vi": [
+                    "ア. CDP",
+                    "イ. e-Learning",
+                    "ウ. Off-JT",
+                    "エ. OJT"
+                ],
+                "en": [
+                    "A. CDP",
+                    "B. e-Learning",
+                    "C. Off-JT",
+                    "D. OJT"
+                ]
+            },
+            "answer": "エ",
+            "explanation": {
+                "ja": "OJT（On the Job Training）は業務の実践を通じた教育訓練です。",
+                "vi": "OJT (On the Job Training) là đào tạo thông qua thực hành công việc.",
+                "en": "OJT (On the Job Training) is training through work practice."
+            }
+        },
+        {
+            "type": "exam_question",
+            "number": "1-5",
+            "year": "令和3年度",
+            "question": {
+                "ja": "企業の人事機能の向上や、働き方改革を実現することなどを目的として、人事評価や人材採用などの人事関連業務に、AIやIoTといったITを活用する手法を表す用語として、最も適切なものはどれか。",
+                "vi": "Thuật ngữ nào phù hợp nhất để chỉ phương pháp sử dụng IT như AI và IoT trong nghiệp vụ nhân sự như đánh giá và tuyển dụng, nhằm cải thiện chức năng nhân sự và thực hiện cải cách cách làm việc?",
+                "en": "Which term best describes the method of using IT like AI and IoT in HR operations like performance evaluation and recruitment, aimed at improving HR functions and implementing work style reforms?"
+            },
+            "options": {
+                "ja": [
+                    "ア. e-ラーニング",
+                    "イ. FinTech",
+                    "ウ. HRTech",
+                    "エ. コンピテンシ"
+                ],
+                "vi": [
+                    "ア. e-Learning",
+                    "イ. FinTech",
+                    "ウ. HRTech",
+                    "エ. Competency"
+                ],
+                "en": [
+                    "A. e-Learning",
+                    "B. FinTech",
+                    "C. HRTech",
+                    "D. Competency"
+                ]
+            },
+            "answer": "ウ",
+            "explanation": {
+                "ja": "HRTechとは、人事（Human Resource）にIT（Technology）を活用する手法のことです。",
+                "vi": "HRTech là phương pháp áp dụng IT (Technology) vào nhân sự (Human Resource).",
+                "en": "HRTech is the method of applying IT (Technology) to HR (Human Resource)."
+            }
+        },
+        {
+            "type": "exam_question",
+            "number": "1-6",
+            "year": "平成22年度",
+            "question": {
+                "ja": "PCやサーバ、ネットワークなどの情報通信機器の省エネや資源の有効利用だけでなく、それらの機器を利用することによって社会の省エネを推進し、環境を保護していくという考え方はどれか。",
+                "vi": "Quan điểm nào không chỉ tiết kiệm năng lượng và sử dụng hiệu quả tài nguyên của các thiết bị ICT như PC, server, mạng, mà còn thúc đẩy tiết kiệm năng lượng xã hội và bảo vệ môi trường thông qua việc sử dụng những thiết bị đó?",
+                "en": "Which concept not only saves energy and effectively uses resources of ICT devices like PCs, servers, networks, but also promotes social energy conservation and environmental protection through using those devices?"
+            },
+            "options": {
+                "ja": [
+                    "ア. エコファーム",
+                    "イ. 環境アセスメント",
+                    "ウ. グリーンIT",
+                    "エ. ゼロエミッション"
+                ],
+                "vi": [
+                    "ア. Eco-farm",
+                    "イ. Environmental assessment",
+                    "ウ. Green IT",
+                    "エ. Zero emission"
+                ],
+                "en": [
+                    "A. Eco-farm",
+                    "B. Environmental assessment",
+                    "C. Green IT",
+                    "D. Zero emission"
+                ]
+            },
+            "answer": "ウ",
+            "explanation": {
+                "ja": "グリーンITとは、ITを使って社会の省エネを推進し、環境を保護する考え方です。",
+                "vi": "Green IT là quan điểm sử dụng IT để thúc đẩy tiết kiệm năng lượng xã hội và bảo vệ môi trường.",
+                "en": "Green IT is the concept of using IT to promote social energy conservation and environmental protection."
+            }
+        },
+        {
+            "type": "exam_question",
+            "number": "1-7",
+            "year": "令和3年度",
+            "question": {
+                "ja": "事業運営における意思決定の迅速化、組織の独立採算の推進を目的とし、一つの企業の中に事業領域ごとに独立した組織を設置する組織形態はどれか。",
+                "vi": "Hình thức tổ chức nào đặt các tổ chức độc lập theo từng lĩnh vực kinh doanh trong một doanh nghiệp, nhằm đẩy nhanh việc ra quyết định trong hoạt động kinh doanh và thúc đẩy độc lập hạch toán của tổ chức?",
+                "en": "Which organizational structure places independent organizations for each business domain within one company, aimed at speeding up decision-making in business operations and promoting independent profit-and-loss accounting?"
+            },
+            "options": {
+                "ja": [
+                    "ア. カンパニー制組織",
+                    "イ. 職能別組織",
+                    "ウ. プロジェクト組織",
+                    "エ. マトリックス組織"
+                ],
+                "vi": [
+                    "ア. Company organization",
+                    "イ. Functional organization",
+                    "ウ. Project organization",
+                    "エ. Matrix organization"
+                ],
+                "en": [
+                    "A. Company organization",
+                    "B. Functional organization",
+                    "C. Project organization",
+                    "D. Matrix organization"
+                ]
+            },
+            "answer": "ア",
+            "explanation": {
+                "ja": "カンパニー制組織は、各事業部を独立した会社とみなして独立採算で運営する組織形態です。",
+                "vi": "Company organization là hình thức tổ chức coi mỗi bộ phận kinh doanh như công ty độc lập và vận hành theo hạch toán độc lập.",
+                "en": "Company organization is an organizational structure that treats each business division as an independent company operating with independent profit-and-loss accounting."
+            }
+        },
+        {
+            "type": "exam_question",
+            "number": "1-8",
+            "year": "平成26年度",
+            "question": {
+                "ja": "経営幹部の役職のうち、情報システムを統括する最高責任者はどれか。",
+                "vi": "Trong các chức vụ lãnh đạo cấp cao, ai là người chịu trách nhiệm cao nhất về tổng quản hệ thống thông tin?",
+                "en": "Among executive positions, which is the chief officer responsible for overseeing information systems?"
+            },
+            "options": {
+                "ja": [
+                    "ア. CEO",
+                    "イ. CFO",
+                    "ウ. CIO",
+                    "エ. COO"
+                ],
+                "vi": [
+                    "ア. CEO",
+                    "イ. CFO",
+                    "ウ. CIO",
+                    "エ. COO"
+                ],
+                "en": [
+                    "A. CEO",
+                    "B. CFO",
+                    "C. CIO",
+                    "D. COO"
+                ]
+            },
+            "answer": "ウ",
+            "explanation": {
+                "ja": "CIO（Chief Information Officer）は情報システムを統括する最高責任者です。CEOは最高経営責任者、CFOは最高財務責任者、COOは最高執行責任者です。",
+                "vi": "CIO (Chief Information Officer) là người chịu trách nhiệm cao nhất về tổng quản hệ thống thông tin. CEO là giám đốc điều hành, CFO là giám đốc tài chính, COO là giám đốc hoạt động.",
+                "en": "CIO (Chief Information Officer) is the chief officer responsible for overseeing information systems. CEO is Chief Executive Officer, CFO is Chief Financial Officer, COO is Chief Operating Officer."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_practice_test": true,
+        "question_count": 5,
+        "answers_summary": "問題1-4: エ, 問題1-5: ウ, 問題1-6: ウ, 問題1-7: ア, 問題1-8: ウ"
+    }
+}

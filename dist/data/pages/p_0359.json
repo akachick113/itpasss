@@ -1,0 +1,284 @@
+{
+  "page_id": 359,
+  "image": "p_0359.png",
+  "chapter": 9,
+  "section": "09-07",
+  "page_number": 343,
+  "content": [
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "「プログラミング」の項目を読み進める前に",
+        "vi": "Trước khi đọc mục \"Lập trình\"",
+        "en": "Before Reading 'Programming' Section",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "上記のように、プログラミングの問題は出題数が少ないわりに、覚えることが多く、また実際の問題を解くのも大変です。そのため、もし本項を読み進めたうえで、「この項目、苦手かも...」と感じたなら、プログラミングに関連する項目をスキップして、次章（第10章 コンピュータシステム）へ進むことをお勧めします。",
+        "vi": "Như trên, bài toán lập trình có ít câu nhưng nhiều thứ phải nhớ, và giải cũng khó. Do đó, nếu đọc phần này và cảm thấy \"mục này khó...\", khuyên bạn nên bỏ qua mục liên quan đến lập trình và tiến đến chương tiếp theo (Chương 10 Computer System).",
+        "en": "As above, programming problems have few questions but much to memorize, and solving is hard. So if reading this section and feeling 'this topic is difficult...', recommend skipping programming-related items and proceeding to next chapter (Chapter 10 Computer System)."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "また、試験本番でもプログラミングの問題は必ず後回しにしてください。プログラミングの問題は解くのに時間がかかる上、配点もそれほど高くないので、コストパフォーマンスという意味では、効率の悪い項目であるといえます。試験に一発合格するためには、苦手な項目やコスパの悪い分野をスキップすることも、重要な合格戦略だと思います。",
+      "vi": "Ngoài ra, trong kỳ thi thực tế cũng hãy để bài lập trình lại sau. Bài lập trình mất thời gian giải và điểm cũng không cao, nên về mặt chi phí hiệu quả là mục kém hiệu quả. Để đậu ngay kỳ thi, bỏ qua mục khó và lĩnh vực chi phí hiệu quả thấp cũng là chiến lược đậu quan trọng.",
+      "en": "Also, in actual exam always leave programming problems for last. Programming problems take time to solve and scores aren't high, so in terms of cost-effectiveness, it's inefficient. To pass exam first time, skipping difficult topics and poor cost-effectiveness areas is important strategy.",
+      "terms": [
+        {
+          "kanji": "試験本番",
+          "reading": "しけんほんばん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "後回",
+          "reading": "こうかい"
+        },
+        {
+          "kanji": "解",
+          "reading": "かい"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "配点",
+          "reading": "はいてん"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "効率",
+          "reading": "こうりつ"
+        },
+        {
+          "kanji": "悪",
+          "reading": "あく"
+        },
+        {
+          "kanji": "項目",
+          "reading": "こうもく"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "一発合格",
+          "reading": "いっぱつごうかく"
+        },
+        {
+          "kanji": "苦手",
+          "reading": "にがて"
+        },
+        {
+          "kanji": "分野",
+          "reading": "ぶんや"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "合格戦略",
+          "reading": "ごうかくせんりゃく"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "プログラミングとは",
+      "reading": "ぷろぐらみんぐとは",
+      "vi": "Lập trình là gì",
+      "en": "What is Programming"
+    },
+    {
+      "type": "paragraph",
+      "ja": "それでは、プログラミングについて解説をはじめていきます。",
+      "vi": "Vậy, hãy bắt đầu giải thích về lập trình.",
+      "en": "Now, let's begin explaining programming.",
+      "terms": [
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "プログラム（program）とは、コンピュータへの命令書です。そして、この命令書を書く作業のことをプログラミング（programming）といい、プログラムを記述するための言語のことをプログラム言語といいます。私たちが使う言語（自然言語）には「日本語」「英語」「ドイツ語」など、たくさんの種類があるように、プログラム言語にも「C言語」や「Python」など、たくさんの種類があります。",
+      "vi": "Chương trình (program) là tài liệu lệnh cho máy tính. Và công việc viết tài liệu lệnh này gọi là lập trình (programming), ngôn ngữ để mô tả chương trình gọi là ngôn ngữ lập trình. Giống như ngôn ngữ chúng ta sử dụng (ngôn ngữ tự nhiên) có nhiều loại như \"tiếng Nhật\" \"tiếng Anh\" \"tiếng Đức\", ngôn ngữ lập trình cũng có nhiều loại như \"C\" và \"Python\".",
+      "en": "Program is command document for computer. And work of writing this command document is called programming, language for describing programs is called programming language. Like natural languages we use have many types like 'Japanese' 'English' 'German,' programming languages also have many types like 'C language' and 'Python.'",
+      "terms": [
+        {
+          "kanji": "命令書",
+          "reading": "めいれいしょ"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "記述",
+          "reading": "きじゅつ"
+        },
+        {
+          "kanji": "言語",
+          "reading": "げんご"
+        },
+        {
+          "kanji": "私",
+          "reading": "わたし"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "自然言語",
+          "reading": "しぜんげんご"
+        },
+        {
+          "kanji": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "kanji": "英語",
+          "reading": "えいご"
+        },
+        {
+          "kanji": "語",
+          "reading": "ご"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "擬似言語",
+      "reading": "ぎじげんご",
+      "vi": "Ngôn ngữ giả",
+      "en": "Pseudocode"
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のように、プログラム言語にはさまざまな種類があります。ただ、ITパスポート試験のプログラミング分野に出題されるのは、IPA（情報処理推進機構：ITパスポート試験の実施団体）が作成した架空のプログラム言語です。これを「擬似言語」といいます。実在するプログラム言語（C言語やPythonなど）は出題されません。",
+      "vi": "Như trên, ngôn ngữ lập trình có nhiều loại. Tuy nhiên, những gì ra trong lĩnh vực lập trình của kỳ thi IT Passport là ngôn ngữ lập trình ảo do IPA (Tổ chức xúc tiến xử lý thông tin: đơn vị tổ chức kỳ thi IT Passport) tạo ra. Đây gọi là \"ngôn ngữ giả\". Ngôn ngữ lập trình thực (C hoặc Python, v.v.) không được ra đề.",
+      "en": "As above, programming languages have many types. However, what appears in IT Passport exam programming field is fictional programming language created by IPA (Information-technology Promotion Agency: IT Passport exam organization). This is called 'pseudocode.' Real programming languages (C or Python, etc.) aren't tested.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "言語",
+          "reading": "げんご"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "分野",
+          "reading": "ぶんや"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "情報処理推進機構",
+          "reading": "じょうほうしょりすいしんきこう"
+        },
+        {
+          "kanji": "実施団体",
+          "reading": "じっしだんたい"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "架空",
+          "reading": "かくう"
+        },
+        {
+          "kanji": "擬似言語",
+          "reading": "ぎじげんご"
+        },
+        {
+          "kanji": "実在",
+          "reading": "じつざい"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！なぜ擬似言語なのか",
+        "vi": "Chi tiết hơn! Tại sao là ngôn ngữ giả",
+        "en": "More Details! Why Pseudocode"
+      },
+      "content": {
+        "ja": "世の中にはたくさんのプログラム言語があるのだから、ITパスポート試験でも実在するプログラム言語を用いて出題すればいいのに」と感じた人もいらっしゃると思います。ITパスポート試験で擬似言語が採用されているのは2つの理由があります。1つは「学ぶべきプログラム言語は、人それぞれ異なる」ということ。ITパスポート試験は、その名の通りプログラム言語全般に共通の趣旨原則が問われる試験なので、この形式に優れていると思います。",
+        "vi": "Có thể bạn nghĩ \"vì có nhiều ngôn ngữ lập trình trong thế giới, IT Passport cũng nên ra đề bằng ngôn ngữ thực\". Có 2 lý do ngôn ngữ giả được sử dụng trong IT Passport. Một là \"ngôn ngữ lập trình cần học khác nhau với mỗi người\". Kỳ thi IT Passport theo đúng tên là hỏi nguyên tắc chung cho tất cả ngôn ngữ lập trình, nên định dạng này tốt.",
+        "en": "You might think 'since there are many programming languages, IT Passport should use real languages.' There are 2 reasons pseudocode is used. One is 'programming language to learn differs per person.' IT Passport exam tests general programming principles common to all languages, so this format is good."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "プログラム",
+      "romaji": "Program",
+      "vi": "Chương trình",
+      "en": "Program",
+      "my": "ပရိုဂရမ်း"
+    },
+    {
+      "term": "擬似言語",
+      "reading": "ぎじげんご",
+      "romaji": "Giji Gengo",
+      "vi": "Ngôn ngữ giả",
+      "en": "Pseudocode",
+      "my": "စူဒိုကုဒ်"
+    }
+  ],
+  "meta": {
+    "has_note_box": true
+  }
+}

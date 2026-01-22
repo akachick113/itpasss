@@ -1,0 +1,188 @@
+{
+    "page_id": 496,
+    "image": "p_0496.png",
+    "chapter": 13,
+    "section": "practice",
+    "page_number": 480,
+    "content": [
+        {
+            "type": "practice_question",
+            "number": "13-11",
+            "year": "令和6年度",
+            "question": {
+                "ja": "トランザクション処理に関する記述のうち、適切なものはどれか。",
+                "vi": "Trong các mô tả về xử lý giao dịch, cái nào thích hợp?",
+                "en": "Among descriptions about transaction processing, which is appropriate?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "ja": "コミットとは、トランザクションが正常に処理されなかったときに、データベースをトランザクション開始前の状態に戻すことである。",
+                    "vi": "Commit là việc khôi phục cơ sở dữ liệu về trạng thái trước khi bắt đầu giao dịch khi giao dịch không được xử lý bình thường.",
+                    "en": "Commit is returning database to state before transaction started when transaction is not processed normally."
+                },
+                {
+                    "label": "イ",
+                    "ja": "排他制御とは、トランザクションが正常に処理されたときに、データベースの内容を確定させることである。",
+                    "vi": "Điều khiển loại trừ là việc xác định nội dung cơ sở dữ liệu khi giao dịch được xử lý bình thường.",
+                    "en": "Exclusive control is confirming database content when transaction is processed normally."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ロールバックとは、複数のトランザクションが同時に同一データを更新しようとしたときに、データの矛盾が起きないようにすることである。",
+                    "vi": "Rollback là việc đảm bảo không xảy ra mâu thuẫn dữ liệu khi nhiều giao dịch cố gắng cập nhật cùng dữ liệu đồng thời.",
+                    "en": "Rollback is ensuring data inconsistency doesn't occur when multiple transactions try to update same data simultaneously."
+                },
+                {
+                    "label": "エ",
+                    "ja": "ログとは、データベースの更新履歴を記録したファイルのことである。",
+                    "vi": "Log là tệp ghi lại lịch sử cập nhật cơ sở dữ liệu.",
+                    "en": "Log is file recording database update history."
+                }
+            ],
+            "answer": "エ"
+        },
+        {
+            "type": "practice_question",
+            "number": "13-12",
+            "year": "令和7年度",
+            "question": {
+                "ja": "DBMSにおいて、データの検索を高速に行う目的で、必要に応じて設定して利用する情報はどれか。",
+                "vi": "Trong DBMS, thông tin nào được đặt và sử dụng theo nhu cầu với mục đích tìm kiếm dữ liệu nhanh?",
+                "en": "In DBMS, which information is set and used as needed for purpose of fast data search?"
+            },
+            "options": [
+                {
+                    "label": "ア",
+                    "ja": "インデックス",
+                    "vi": "Index",
+                    "en": "Index"
+                },
+                {
+                    "label": "イ",
+                    "ja": "外部キー",
+                    "vi": "Khóa ngoại",
+                    "en": "Foreign Key"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "主キー",
+                    "vi": "Khóa chính",
+                    "en": "Primary Key"
+                },
+                {
+                    "label": "エ",
+                    "ja": "スキーマ",
+                    "vi": "Schema",
+                    "en": "Schema"
+                }
+            ],
+            "answer": "ア"
+        },
+        {
+            "type": "answer_key",
+            "answers": [
+                {
+                    "number": "13-8",
+                    "answer": "エ"
+                },
+                {
+                    "number": "13-9",
+                    "answer": "ア"
+                },
+                {
+                    "number": "13-10",
+                    "answer": "ア"
+                },
+                {
+                    "number": "13-11",
+                    "answer": "エ"
+                },
+                {
+                    "number": "13-12",
+                    "answer": "ア"
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "ja": "解答・解説",
+            "vi": "Đáp án & Giải thích",
+            "en": "Answers & Explanations"
+        },
+        {
+            "type": "answer_explanation",
+            "number": "13-1",
+            "answer": "エ",
+            "explanation": {
+                "ja": "データベース管理システムの主な機能は3つです。このうち、本問では「排他制御」機能を利用する目的が問われています。",
+                "vi": "Hệ thống quản lý cơ sở dữ liệu có 3 chức năng chính. Trong đó, câu hỏi này hỏi về mục đích sử dụng chức năng \"Điều khiển loại trừ\".",
+                "en": "Database management system has 3 main functions. Among them, this question asks about purpose of using 'Exclusive Control' function."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "ja": "データベース管理システムはOS上で動作するので、OSがなければ利用できません。",
+                    "vi": "Hệ thống quản lý cơ sở dữ liệu hoạt động trên OS, nên không thể sử dụng nếu không có OS.",
+                    "en": "Database management system runs on OS, so cannot be used without OS."
+                },
+                {
+                    "label": "イ",
+                    "ja": "レプリケーションを利用する目的です。レプリケーションとは、データベースの複製（レプリカ）を作り、常にデータを同期させることです。",
+                    "vi": "Đây là mục đích sử dụng replication. Replication là tạo bản sao (replica) của cơ sở dữ liệu và luôn đồng bộ dữ liệu.",
+                    "en": "This is purpose of using replication. Replication is creating database copy (replica) and always synchronizing data."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "SSLなどを利用する目的です。",
+                    "vi": "Đây là mục đích sử dụng SSL.",
+                    "en": "This is purpose of using SSL."
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "13-2",
+            "answer": "イ",
+            "explanation": {
+                "ja": "正規化のキーワードは「重複」と「矛盾」です。「重複」があると、データの修正に余計な手間がかかります。また、正規化をしないとp.466のようにデータ更新時に本来あるべきデータまでも消えてしまう「矛盾」が起こります。",
+                "vi": "Từ khóa của chuẩn hóa là \"trùng lặp\" và \"mâu thuẫn\". Nếu có \"trùng lặp\", việc sửa dữ liệu tốn thêm công sức. Ngoài ra, nếu không chuẩn hóa, \"mâu thuẫn\" xảy ra khi cập nhật dữ liệu làm mất cả dữ liệu lẽ ra phải có như trang 466.",
+                "en": "Keywords for normalization are 'duplication' and 'inconsistency.' If there's 'duplication,' data correction takes extra effort. Also, without normalization, 'inconsistency' occurs where data that should exist disappears during data updates like p.466."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "13-3",
+            "answer": "ア",
+            "explanation": {
+                "ja": "E-R図が何なのか記憶が曖昧でも、「R」が「Relationship（関連）」の略語であるということだけでも思い出せれば、設問中の「関連」という言葉から、E-R図が正解だと推測できます。",
+                "vi": "Ngay cả khi ký ức về sơ đồ E-R mơ hồ, nếu nhớ được rằng \"R\" là viết tắt của \"Relationship (Quan hệ)\", có thể suy luận từ từ \"quan hệ\" trong câu hỏi rằng sơ đồ E-R là đáp án đúng.",
+                "en": "Even if memory of E-R diagram is vague, if can remember that 'R' is abbreviation for 'Relationship,' can infer from word 'relationship' in question that E-R diagram is correct answer."
+            },
+            "option_explanations": [
+                {
+                    "label": "イ",
+                    "ja": "作業の流れを矢印で表した図です。",
+                    "vi": "Là sơ đồ biểu thị quy trình công việc bằng mũi tên.",
+                    "en": "Diagram showing work flow with arrows."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "作業の日程を横棒（バー）で記入することで、その作業の開始日と終了日、現在の進捗を表す図です。",
+                    "vi": "Là sơ đồ ghi ngày lịch trình công việc bằng thanh ngang (bar), biểu thị ngày bắt đầu và kết thúc công việc, tiến độ hiện tại.",
+                    "en": "Diagram showing work start/end dates and current progress by filling work schedule with horizontal bars."
+                },
+                {
+                    "label": "エ",
+                    "ja": "アルゴリズム（プログラムの処理手順）を視覚的に表した図です。",
+                    "vi": "Là sơ đồ biểu thị trực quan thuật toán (quy trình xử lý chương trình).",
+                    "en": "Diagram visually representing algorithm (program processing procedure)."
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "is_practice_questions": true,
+        "is_answer_explanation": true
+    }
+}

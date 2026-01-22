@@ -1,0 +1,114 @@
+{
+  "page_id": 504,
+  "image": "p_0504.png",
+  "chapter": 14,
+  "section": "14-02",
+  "page_number": 488,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "デフォルトゲートウェイ",
+        "vi": "Default Gateway",
+        "en": "Default Gateway"
+      },
+      "description": {
+        "ja": "同じLAN内のコンピュータとの通信ではデフォルトゲートウェイを通らない。LANの外にあるコンピュータとの通信ではデフォルトゲートウェイを通る",
+        "vi": "Truyền thông với máy tính trong cùng LAN không đi qua Default Gateway. Truyền thông với máy tính bên ngoài LAN đi qua Default Gateway",
+        "en": "Communication with computers in same LAN doesn't pass through Default Gateway. Communication with computers outside LAN passes through Default Gateway"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ルーターとは、LANやWANを相互接続する機器",
+          "vi": "Router là thiết bị kết nối LAN và WAN với nhau",
+          "en": "Router is device that interconnects LAN and WAN"
+        },
+        {
+          "ja": "デフォルトゲートウェイとは、他のネットワークへの出入口の役割を担っている機器（ルーター）",
+          "vi": "Default Gateway là thiết bị (router) đóng vai trò cổng vào ra đến mạng khác",
+          "en": "Default Gateway is device (router) serving as gateway to other networks"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "有線LAN",
+      "vi": "LAN có dây",
+      "en": "Wired LAN"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "有線LAN",
+        "vi": "LAN có dây",
+        "en": "Wired LAN"
+      },
+      "definition": {
+        "ja": "有線LANとは、ケーブルでコンピュータ同士をつなぐLANです。有線LANの代表的な規格に「イーサネット」があります。",
+        "vi": "LAN có dây là LAN kết nối các máy tính với nhau bằng cáp. Tiêu chuẩn đại diện của LAN có dây là \"Ethernet\".",
+        "en": "Wired LAN is LAN connecting computers with cable. Representative standard of wired LAN is 'Ethernet.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "イーサネット",
+      "vi": "Ethernet",
+      "en": "Ethernet"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "イーサネット",
+        "vi": "Ethernet",
+        "en": "Ethernet"
+      },
+      "definition": {
+        "ja": "イーサネット（Ethernet）とは、IEEE（米国電気電子学会）の有線LANの規格の1つです。みなさんの家や職場にある有線LANで一般的に使われている規格です。「イーサネット」という名称は、元々は「通信速度が10Mbpsの規格」の総称でしたが、現在はより高速な後継の規格も含めて、有線LANの規格全体を「イーサネット」と呼ぶようになっています。",
+        "vi": "Ethernet là một trong những tiêu chuẩn LAN có dây của IEEE (Viện Kỹ sư Điện và Điện tử Mỹ). Đây là tiêu chuẩn được sử dụng phổ biến trong LAN có dây tại nhà hoặc nơi làm việc của mọi người. Tên \"Ethernet\" ban đầu là tên chung cho \"tiêu chuẩn có tốc độ truyền 10Mbps\", nhưng hiện nay bao gồm cả các tiêu chuẩn kế thừa nhanh hơn, toàn bộ tiêu chuẩn LAN có dây được gọi là \"Ethernet\".",
+        "en": "Ethernet is one of IEEE (Institute of Electrical and Electronics Engineers) wired LAN standards. Standard commonly used in wired LAN at everyone's home or workplace. Name 'Ethernet' was originally general term for 'standard with 10Mbps communication speed,' but now including faster successor standards, entire wired LAN standards are called 'Ethernet.'"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "有線LAN",
+      "reading": "ゆうせんLAN",
+      "vi": "LAN có dây",
+      "en": "Wired LAN",
+      "my": "ကေဘီလ်လိုင်း အဲလ်အေအန်"
+    },
+    {
+      "term": "イーサネット",
+      "vi": "Ethernet",
+      "en": "Ethernet",
+      "my": "အီသာနက်"
+    },
+    {
+      "term": "IEEE",
+      "vi": "IEEE (Viện Kỹ sư Điện và Điện tử Mỹ)",
+      "en": "IEEE (Institute of Electrical and Electronics Engineers)",
+      "my": "အိုင်အီးအေ့အီး"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "page_id": 94,
+  "image": "p_0094.png",
+  "chapter": 2,
+  "section": "02-05",
+  "page_number": 78,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "02-05",
+      "ja": "その他の法律",
+      "reading": "そのたのほうりつ",
+      "vi": "Các luật khác",
+      "en": "Other Laws",
+      "my": "အခြားဥပဒေများ"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "企業が守るべきルール",
+        "vi": "Quy tắc doanh nghiệp phải tuân thủ",
+        "en": "Rules Companies Must Follow",
+        "my": "ကုမ္ပဏီများ လိုက်နာရမည့် စည်းကမ်းများ",
+        "terms": [
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "企業が法律を守るのは当然ですが、企業が社会に貢献して、持続的に利益を出していくには、法律を守るだけでは足りない時代になってきています。",
+        "vi": "Việc doanh nghiệp tuân thủ pháp luật là đương nhiên, nhưng để doanh nghiệp đóng góp cho xã hội và tạo lợi nhuận bền vững, chỉ tuân thủ pháp luật là không đủ trong thời đại này.",
+        "en": "Companies following laws is natural, but in this era, just following laws isn't enough for companies to contribute to society and make sustainable profits.",
+        "my": "ကုမ္ပဏီများ ဥပဒေလိုက်နာခြင်းသည် သဘာဝကျသည်၊ သို့သော် ဤခေတ်တွင် ဥပဒေလိုက်နာရုံဖြင့် မလုံလောက်ပါ။",
+        "terms": [
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "法律",
+            "reading": "ほうりつ"
+          },
+          {
+            "kanji": "守",
+            "reading": "しゅ"
+          },
+          {
+            "kanji": "当然",
+            "reading": "とうぜん"
+          },
+          {
+            "kanji": "社会",
+            "reading": "しゃかい"
+          },
+          {
+            "kanji": "貢献",
+            "reading": "こうけん"
+          },
+          {
+            "kanji": "持続的",
+            "reading": "じぞくてき"
+          },
+          {
+            "kanji": "利益",
+            "reading": "りえき"
+          },
+          {
+            "kanji": "出",
+            "reading": "しゅつ"
+          },
+          {
+            "kanji": "足",
+            "reading": "あし"
+          },
+          {
+            "kanji": "時代",
+            "reading": "じだい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは、企業が守るべき、さまざまなルールについて解説します。ITパスポート試験では「個人情報保護法」「情報公開法」の2つの用語がよく出題されます。各用語の特徴をきちんと理解することが大切です。",
+      "vi": "Từ đây sẽ giải thích các quy tắc khác nhau mà doanh nghiệp phải tuân thủ. Trong kỳ thi IT Passport, 2 thuật ngữ Luật bảo vệ thông tin cá nhân và Luật công khai thông tin thường được ra đề. Điều quan trọng là hiểu rõ đặc điểm của mỗi thuật ngữ.",
+      "en": "From here, we'll explain various rules companies must follow. In IT Passport, Personal Information Protection Law and Information Disclosure Law are frequently tested. Understanding each term's features is important.",
+      "my": "ဤနေရာမှစ၍ ကုမ္ပဏီများ လိုက်နာရမည့် စည်းကမ်းအမျိုးမျိုးကို ရှင်းပြပါမည်။",
+      "terms": [
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "個人情報保護法",
+          "reading": "こじんじょうほうほごほう"
+        },
+        {
+          "kanji": "情報公開法",
+          "reading": "じょうほうこうかいほう"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "各用語",
+          "reading": "かくようご"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "コンプライアンス",
+      "reading": "こんぷらいあんす",
+      "vi": "Tuân thủ (Compliance)",
+      "en": "Compliance",
+      "my": "လိုက်နာမှု"
+    },
+    {
+      "type": "paragraph",
+      "ja": "コンプライアンス（Compliance：法令遵守）とは、企業が法律やルールを守ることです。コンプライアンスには狭義の意味と広義の意味があります。狭義の意味は「法令を守ること」、広義の意味は「法令だけでなく、社内ルール、企業倫理も守ること」です。",
+      "vi": "Compliance (tuân thủ pháp luật) là việc doanh nghiệp tuân thủ luật pháp và quy tắc. Compliance có nghĩa hẹp và nghĩa rộng. Nghĩa hẹp là tuân thủ pháp luật, nghĩa rộng là tuân thủ không chỉ pháp luật mà còn quy tắc nội bộ và đạo đức doanh nghiệp.",
+      "en": "Compliance means companies following laws and rules. Compliance has narrow and broad meanings. Narrow meaning is following laws. Broad meaning is following not only laws but also internal rules and corporate ethics.",
+      "my": "Compliance ဆိုသည်မှာ ကုမ္ပဏီများ ဥပဒေနှင့် စည်းကမ်းများ လိုက်နာခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "法令遵守",
+          "reading": "ほうれいじゅんしゅ"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "法律",
+          "reading": "ほうりつ"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "狭義",
+          "reading": "きょうぎ"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "広義",
+          "reading": "こうぎ"
+        },
+        {
+          "kanji": "法令",
+          "reading": "ほうれい"
+        },
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "企業倫理",
+          "reading": "きぎょうりんり"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "狭義のコンプライアンスには法令。広義のコンプライアンスには法令、社内ルール、企業倫理が含まれる。試験では広義の意味で出題される！",
+      "vi": "Compliance nghĩa hẹp bao gồm pháp luật. Compliance nghĩa rộng bao gồm pháp luật, quy tắc nội bộ, đạo đức doanh nghiệp. Trong thi sử dụng nghĩa rộng!",
+      "en": "Narrow compliance includes laws. Broad compliance includes laws, internal rules, corporate ethics. Exams test the broad meaning!",
+      "my": "Narrow compliance တွင် ဥပဒေများ ပါဝင်သည်။ Broad compliance တွင် ဥပဒေများ၊ အတွင်းစည်းကမ်းများ၊ ကော်ပိုရိတ်ကျင့်ဝတ် ပါဝင်သည်။",
+      "terms": [
+        {
+          "kanji": "狭義",
+          "reading": "きょうぎ"
+        },
+        {
+          "kanji": "法令",
+          "reading": "ほうれい"
+        },
+        {
+          "kanji": "広義",
+          "reading": "こうぎ"
+        },
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        },
+        {
+          "kanji": "企業倫理",
+          "reading": "きぎょうりんり"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "コンプライアンス",
+      "reading": "こんぷらいあんす",
+      "romaji": "Compliance",
+      "vi": "Tuân thủ",
+      "en": "Compliance",
+      "my": "လိုက်နာမှု"
+    },
+    {
+      "kanji": "法令遵守",
+      "reading": "ほうれいじゅんしゅ",
+      "romaji": "Hourei Junshu",
+      "vi": "Tuân thủ pháp luật",
+      "en": "Legal Compliance",
+      "my": "ဥပဒေလိုက်နာမှု"
+    },
+    {
+      "kanji": "企業倫理",
+      "reading": "きぎょうりんり",
+      "romaji": "Kigyou Rinri",
+      "vi": "Đạo đức doanh nghiệp",
+      "en": "Corporate Ethics",
+      "my": "ကော်ပိုရိတ်ကျင့်ဝတ်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

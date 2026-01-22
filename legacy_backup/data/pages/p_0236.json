@@ -1,0 +1,173 @@
+{
+    "page_id": 236,
+    "image": "p_0236.png",
+    "chapter": 5,
+    "section": "practice_answers",
+    "page_number": 220,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "5-13",
+            "answer": "ア",
+            "explanation": {
+                "ja": "データサイエンティストとは、統計学や機械学習などを利用して、ビッグデータを分析する人です。",
+                "vi": "Data Scientist là người phân tích Big Data bằng cách sử dụng thống kê học và machine learning.",
+                "en": "A Data Scientist is a person who analyzes Big Data using statistics and machine learning."
+            },
+            "choice_explanations": [
+                {
+                    "label": "イ",
+                    "ja": "データベーススペシャリストに関する記述です。",
+                    "vi": "Đây là mô tả về Database Specialist.",
+                    "en": "This describes a Database Specialist."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "システム監査人に関する記述です。",
+                    "vi": "Đây là mô tả về System Auditor.",
+                    "en": "This describes a System Auditor."
+                },
+                {
+                    "label": "エ",
+                    "ja": "情報処理安全確保支援士に関する記述です。",
+                    "vi": "Đây là mô tả về Registered Information Security Specialist.",
+                    "en": "This describes a Registered Information Security Specialist."
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-14",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "「格差」というキーワードからデジタルディバイドであると判断できます。",
+                "vi": "Từ keyword \"khoảng cách/chênh lệch\", có thể phán đoán đây là Digital Divide.",
+                "en": "From the keyword 'gap/divide,' it can be judged as Digital Divide."
+            },
+            "choice_explanations": [
+                {
+                    "label": "ア",
+                    "ja": "情報バリアフリーとは、障害者、高齢者などすべての人がITを利用できるようにすることです。",
+                    "vi": "Information Barrier-Free là làm cho tất cả mọi người bao gồm người khuyết tật, người cao tuổi có thể sử dụng IT.",
+                    "en": "Information Barrier-Free means making IT accessible to everyone including disabled and elderly people."
+                },
+                {
+                    "label": "イ",
+                    "ja": "情報リテラシーとは、ITを使って情報を収集、発信する能力のことです。",
+                    "vi": "Information Literacy là năng lực thu thập, phát thông tin bằng IT.",
+                    "en": "Information Literacy is the ability to collect and send information using IT."
+                },
+                {
+                    "label": "エ",
+                    "ja": "データマイニングとは、データベースから有益な情報を取り出すことです。",
+                    "vi": "Data Mining là trích xuất thông tin hữu ích từ database.",
+                    "en": "Data Mining is extracting useful information from databases."
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-15",
+            "answer": "ア",
+            "explanation": {
+                "ja": "「過去から現在までの全社のデータ」というキーワードからデータウェアハウスであると判断できます。",
+                "vi": "Từ keyword \"dữ liệu toàn công ty từ quá khứ đến hiện tại\", có thể phán đoán đây là Data Warehouse.",
+                "en": "From the keyword 'company-wide data from past to present,' it can be judged as Data Warehouse."
+            },
+            "choice_explanations": [
+                {
+                    "label": "イ",
+                    "ja": "データ中心アプローチとは、業務をデータに着目して分析する方法です。",
+                    "vi": "Data-Centric Approach là phương pháp phân tích nghiệp vụ tập trung vào dữ liệu.",
+                    "en": "Data-Centric Approach is a method of analyzing business focusing on data."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "データマイニングとは、データベースから有益な情報を取り出すことです。",
+                    "vi": "Data Mining là trích xuất thông tin hữu ích từ database.",
+                    "en": "Data Mining is extracting useful information from databases."
+                },
+                {
+                    "label": "エ",
+                    "ja": "データモデリングとは、データ同士の関係を単純化して図に表すことです。データベースを設計する際に必要となる図を作ることです。",
+                    "vi": "Data Modeling là đơn giản hóa mối quan hệ giữa các dữ liệu và biểu diễn bằng sơ đồ. Là tạo sơ đồ cần thiết khi thiết kế database.",
+                    "en": "Data Modeling is simplifying relationships between data and representing them in diagrams. It's creating diagrams needed when designing databases."
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-16",
+            "answer": "イ",
+            "explanation": {
+                "ja": "ゲーミフィケーションの目的は「動機づけ」です。",
+                "vi": "Mục đích của Gamification là \"động viên/tạo động lực\".",
+                "en": "The purpose of Gamification is 'motivation.'"
+            },
+            "choice_explanations": [
+                {
+                    "label": "ア",
+                    "ja": "ゲーム理論を導入する目的です。",
+                    "vi": "Đây là mục đích đưa vào Game Theory.",
+                    "en": "This is the purpose of introducing Game Theory."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ユーザーレビュー機能を導入する目的です。",
+                    "vi": "Đây là mục đích đưa vào chức năng User Review.",
+                    "en": "This is the purpose of introducing User Review functionality."
+                },
+                {
+                    "label": "エ",
+                    "ja": "データマイニングを導入する目的です。",
+                    "vi": "Đây là mục đích đưa vào Data Mining.",
+                    "en": "This is the purpose of introducing Data Mining."
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-17",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "ソフトウェアライフサイクルは主に「企画」「要件定義」「開発」「運用」「保守」の順で構成されます。この5つはITパスポート試験でよく出題されます。企画プロセスにはさらに「システム化構想の立案」と「システム化計画の立案」に分類されます。",
+                "vi": "Vòng đời phần mềm chủ yếu được cấu thành theo thứ tự \"Lập kế hoạch\", \"Định nghĩa yêu cầu\", \"Phát triển\", \"Vận hành\", \"Bảo trì\". 5 quy trình này thường xuất hiện trong kỳ thi IT Passport. Quy trình lập kế hoạch được phân loại thêm thành \"Lập ý tưởng hệ thống hóa\" và \"Lập kế hoạch hệ thống hóa\".",
+                "en": "Software lifecycle mainly consists of 'Planning,' 'Requirements Definition,' 'Development,' 'Operation,' 'Maintenance' in order. These 5 often appear in IT Passport exams. Planning process is further classified into 'System Concept Formulation' and 'System Planning.'"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "5-18",
+            "answer": "イ",
+            "explanation": {
+                "ja": "システム化計画の立案プロセスでは、費用対効果の評価指標として、主にROIが使われます。ROI（Return On Investment：投資利益率）とは、情報システムの費用対効果（コストパフォーマンス）を評価するための指標です。ROI値が高いほど、費用対効果が良い投資であるといえます。",
+                "vi": "Trong quy trình lập kế hoạch hệ thống hóa, ROI chủ yếu được sử dụng làm chỉ số đánh giá hiệu quả chi phí. ROI (Return On Investment: Tỷ suất lợi nhuận đầu tư) là chỉ số để đánh giá hiệu quả chi phí (cost performance) của hệ thống thông tin. ROI càng cao nghĩa là đầu tư có hiệu quả chi phí càng tốt.",
+                "en": "In the system planning process, ROI is mainly used as an indicator for cost-effectiveness evaluation. ROI (Return On Investment) is an indicator for evaluating the cost-effectiveness (cost performance) of information systems. The higher the ROI value, the better the cost-effectiveness of the investment."
+            },
+            "choice_explanations": [
+                {
+                    "label": "ア",
+                    "ja": "PER（Price Earnings Ratio）とは、株価収益率のことです。",
+                    "vi": "PER (Price Earnings Ratio) là tỷ lệ giá trên thu nhập.",
+                    "en": "PER (Price Earnings Ratio) is the price-to-earnings ratio."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "自己資本比率とは、総資本に対する自己資本の割合です（p.41）。",
+                    "vi": "Tỷ lệ vốn tự có là tỷ lệ vốn tự có so với tổng vốn (trang 41).",
+                    "en": "Equity Ratio is the ratio of equity to total capital (p.41)."
+                },
+                {
+                    "label": "エ",
+                    "ja": "流動比率とは流動負債に対する流動資産の割合です。",
+                    "vi": "Tỷ lệ thanh toán hiện hành là tỷ lệ tài sản lưu động so với nợ ngắn hạn.",
+                    "en": "Current Ratio is the ratio of current assets to current liabilities."
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 6
+    }
+}

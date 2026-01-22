@@ -1,0 +1,127 @@
+{
+    "page_id": 591,
+    "image": "p_0591.png",
+    "chapter": 15,
+    "section": "answer_explanations_2",
+    "page_number": 575,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "id": "15-22",
+            "answer": "ア",
+            "explanation": {
+                "ja": "DMZとは、外部ネットワークからも、社内ネットワークからも隔離されたネットワーク領域です。",
+                "vi": "DMZ là vùng mạng được cô lập khỏi cả mạng bên ngoài và mạng nội bộ.",
+                "en": "DMZ is network area isolated from both external network and internal network."
+            },
+            "wrong_options": {
+                "イ": {
+                    "ja": "DNSとは、ドメイン名とIPアドレスを対応付けるシステムです。",
+                    "vi": "DNS là hệ thống đối chiếu tên miền và địa chỉ IP.",
+                    "en": "DNS is system matching domain names and IP addresses."
+                },
+                "ウ": {
+                    "ja": "DoS攻撃とは、電子メールやWebリクエストなどを大量に送りつけ、ネットワーク上のサービスを妨害することです。",
+                    "vi": "DoS attack là gửi số lượng lớn email hoặc Web request để cản trở dịch vụ trên mạng.",
+                    "en": "DoS attack is sending large amounts of emails or Web requests to disrupt network services."
+                },
+                "エ": {
+                    "ja": "SSL（正式にはSSL/TLS）とは、WebブラウザとWebサーバ間の通信を暗号化するプロトコルです。",
+                    "vi": "SSL (chính xác là SSL/TLS) là giao thức mã hóa truyền thông giữa trình duyệt Web và Web server.",
+                    "en": "SSL (officially SSL/TLS) is protocol encrypting communication between Web browser and Web server."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "15-23",
+            "answer": "エ",
+            "explanation": {
+                "ja": "システムの内部データの解析のしにくさのことを「耐タンパ性」といいます。",
+                "vi": "Độ khó phân tích dữ liệu nội bộ của hệ thống được gọi là \"tính chống giả mạo\".",
+                "en": "Difficulty of analyzing system's internal data is called 'tamper resistance.'"
+            },
+            "wrong_options": {
+                "ア": {
+                    "ja": "可用性とは、使いたいときに、使える度合いのことです。",
+                    "vi": "Tính khả dụng là mức độ có thể sử dụng khi muốn sử dụng.",
+                    "en": "Availability is degree to which it can be used when wanted."
+                },
+                "イ": {
+                    "ja": "信頼性とは、機能が正常に動作し続ける度合いのことです。",
+                    "vi": "Tính tin cậy là mức độ chức năng tiếp tục hoạt động bình thường.",
+                    "en": "Reliability is degree to which function continues operating normally."
+                },
+                "ウ": {
+                    "ja": "責任追跡性とは、過去に誰が何をしたかを確認できる度合いのことです。",
+                    "vi": "Tính truy vết trách nhiệm là mức độ có thể xác nhận ai đã làm gì trong quá khứ.",
+                    "en": "Accountability is degree to which it can be confirmed who did what in past."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "15-24",
+            "answer": "ア",
+            "explanation": {
+                "ja": "ランサムウェア（Ransomware）は、PCやファイルを使用不能にしたうえで金を要求するソフトウェアです。これによって業務データが利用できなくなるという大きな損害が発生します。このような被害に備えて最も有効な対策は、定期的なバックアップの取得と、安全な場所での保管です。特に選択肢アのように、バックアップをネットワークから切り離して保管することで、感染したPCからバックアップまで暗号化されるリスクを防ぐことができます。",
+                "vi": "Ransomware là phần mềm làm cho PC hoặc file không thể sử dụng và yêu cầu tiền. Điều này gây ra thiệt hại lớn vì dữ liệu nghiệp vụ không thể sử dụng. Biện pháp hiệu quả nhất để chuẩn bị cho thiệt hại như vậy là lấy backup định kỳ và bảo quản ở nơi an toàn. Đặc biệt như lựa chọn ア, bằng cách bảo quản backup tách khỏi mạng, có thể ngăn rủi ro backup bị mã hóa từ PC bị nhiễm.",
+                "en": "Ransomware is software that makes PC or files unusable and demands money. This causes major damage as business data becomes unusable. Most effective countermeasure against such damage is regular backup acquisition and storage in safe place. Especially as in option ア, by storing backup disconnected from network, can prevent risk of backup being encrypted from infected PC."
+            },
+            "wrong_options": {
+                "イ": {
+                    "ja": "多要素認証は、なりすまし対策には有効ですが、ランサムウェアに対しては効果がありません。感染すれば暗号化済みのHDDでもデータが暗号化されてしまいます。",
+                    "vi": "Xác thực đa yếu tố có hiệu quả đối phó mạo danh, nhưng không có hiệu quả đối với Ransomware. Nếu bị nhiễm, dữ liệu sẽ bị mã hóa ngay cả trên HDD đã mã hóa.",
+                    "en": "Multi-factor authentication is effective against impersonation, but not effective against Ransomware. If infected, data will be encrypted even on already-encrypted HDD."
+                },
+                "ウ": {
+                    "ja": "HDDの暗号化は、盗難時の情報漏洩対策にはなりますが、ランサムウェアに対しては効果がありません。感染すれば暗号化済みのHDDでもデータが暗号化されてしまいます。",
+                    "vi": "Mã hóa HDD là biện pháp đối phó rò rỉ thông tin khi bị mất cắp, nhưng không có hiệu quả đối với Ransomware. Nếu bị nhiễm, dữ liệu sẽ bị mã hóa ngay cả trên HDD đã mã hóa.",
+                    "en": "HDD encryption is countermeasure against information leakage during theft, but not effective against Ransomware. If infected, data will be encrypted even on already-encrypted HDD."
+                },
+                "エ": {
+                    "ja": "パスワードの試行制限は、不正アクセス対策には有効ですが、ランサムウェアには効果がありません。",
+                    "vi": "Giới hạn thử mật khẩu có hiệu quả đối phó truy cập trái phép, nhưng không có hiệu quả đối với Ransomware.",
+                    "en": "Password attempt limit is effective against unauthorized access, but not effective against Ransomware."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "15-25",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "設問にある「複数のコンピュータが同じ内容のデータを保持」「改ざんすることが困難」「分散型台帳」の3つの特徴を持つのはブロックチェーンです。",
+                "vi": "Blockchain có 3 đặc điểm trong câu hỏi: \"nhiều máy tính giữ cùng nội dung dữ liệu\", \"khó sửa đổi\", \"sổ cái phân tán\".",
+                "en": "Blockchain has 3 characteristics in question: 'multiple computers hold same data content,' 'difficult to falsify,' 'distributed ledger.'"
+            },
+            "wrong_options": {
+                "ア": {
+                    "ja": "クラウドコンピューティングとは、他社の設地にある、他社が所有しているサーバを利用するサービスです（ただしサーバの所在は不明確）。",
+                    "vi": "Cloud Computing là dịch vụ sử dụng server thuộc sở hữu của công ty khác ở cơ sở của công ty khác (tuy nhiên vị trí server không rõ ràng).",
+                    "en": "Cloud Computing is service using servers owned by other companies at other companies' locations (though server location is unclear)."
+                },
+                "イ": {
+                    "ja": "ディープラーニングとは、ニューラルネットワークを多層的にした機械学習です。",
+                    "vi": "Deep Learning là học máy với mạng thần kinh đa tầng.",
+                    "en": "Deep Learning is machine learning with multi-layered neural networks."
+                },
+                "エ": {
+                    "ja": "リレーショナルデータベース（関係データベース）とは、データを「表」で管理するデータベースです。",
+                    "vi": "Cơ sở dữ liệu quan hệ là cơ sở dữ liệu quản lý dữ liệu bằng \"bảng\".",
+                    "en": "Relational database is database managing data in 'tables.'"
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "15-26",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "本人拒否率を低く設定すると、本人が拒否される確率が低くなるので、利便性が高まります。一方で、他人受入率を低く設定すると、他人が受け入れられる確率が低くなるので、安全性が高まります。",
+                "vi": "Khi đặt tỷ lệ từ chối bản thân thấp, xác suất bản thân bị từ chối giảm nên tính tiện lợi tăng. Mặt khác, khi đặt tỷ lệ chấp nhận người khác thấp, xác suất người khác được chấp nhận giảm nên tính an toàn tăng.",
+                "en": "Setting False Rejection Rate low decreases probability of actual person being rejected, increasing convenience. On other hand, setting False Acceptance Rate low decreases probability of others being accepted, increasing safety."
+            }
+        }
+    ]
+}

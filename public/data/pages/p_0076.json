@@ -1,0 +1,436 @@
+{
+  "page_id": 76,
+  "image": "p_0076.png",
+  "chapter": 2,
+  "section": "02-02",
+  "page_number": 60,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "産業財産権の種類",
+      "reading": "さんぎょうざいさんけんのしゅるい",
+      "vi": "Các loại Quyền sở hữu công nghiệp",
+      "en": "Types of Industrial Property Rights",
+      "my": "စက်မှုပိုင်ဆိုင်ခွင့် အမျိုးအစားများ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "産業財産権は、さらに次の4つの権利に分類されます。",
+      "vi": "Quyền sở hữu công nghiệp được phân loại thành 4 quyền sau:",
+      "en": "Industrial property rights are further classified into these 4 rights:",
+      "my": "စက်မှုပိုင်ဆိုင်ခွင့်ကို ဤအခွင့်အရေး ၄ ခုအဖြစ် ထပ်မံခွဲခြားသည်:",
+      "terms": [
+        {
+          "kanji": "産業財産権",
+          "reading": "さんぎょうざいさんけん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "権利",
+          "reading": "けんり"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "産業財産権の種類",
+        "vi": "Các loại Quyền sở hữu công nghiệp",
+        "en": "Types of Industrial Property Rights"
+      },
+      "headers": {
+        "ja": [
+          "種類",
+          "対象"
+        ],
+        "vi": [
+          "Loại",
+          "Đối tượng"
+        ],
+        "en": [
+          "Type",
+          "Target"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "特許権",
+            "新しいことを発明した人（企業）に与えられる独占的な権利。特許権を得るには特許庁に出願し、厳しい審査を通過する必要がある。高度な発明のみに与えられる権利。近年の合格回数No.1"
+          ],
+          "vi": [
+            "Quyền sáng chế",
+            "Quyền độc quyền cho người (doanh nghiệp) phát minh điều mới. Cần đăng ký tại Cục Sáng chế và vượt qua xét duyệt nghiêm ngặt. Chỉ dành cho phát minh cao cấp. Số 1 về số lần ra đề gần đây"
+          ],
+          "en": [
+            "Patent Rights",
+            "Exclusive right for person (company) who invented something new. Must apply to Patent Office and pass strict review. Only for advanced inventions. Most frequently tested recently"
+          ]
+        },
+        {
+          "ja": [
+            "実用新案権",
+            "製品の形状などの考案を保護する権利。特許権を登録するには「新規性」が必要だが、実用新案権の登録には不要。物事をより便利にするアイディアがあれば認められる。"
+          ],
+          "vi": [
+            "Quyền mẫu hữu ích",
+            "Quyền bảo vệ ý tưởng như hình dạng sản phẩm. Đăng ký sáng chế cần \"tính mới\", nhưng đăng ký mẫu hữu ích không cần. Được công nhận nếu có ý tưởng làm mọi thứ tiện lợi hơn"
+          ],
+          "en": [
+            "Utility Model Rights",
+            "Right protecting ideas like product shape. Patent needs \"novelty\" but utility model doesn't. Recognized if you have ideas to make things more convenient"
+          ]
+        },
+        {
+          "ja": [
+            "意匠権",
+            "製品のデザインを保護する権利"
+          ],
+          "vi": [
+            "Quyền kiểu dáng",
+            "Quyền bảo vệ thiết kế sản phẩm"
+          ],
+          "en": [
+            "Design Rights",
+            "Right protecting product design"
+          ]
+        },
+        {
+          "ja": [
+            "商標権",
+            "商品やサービスに付けるマーク（商標）を独占的に使用できる権利。商品に付ける商標を「トレードマーク」、サービスに付ける商標を「サービスマーク（役務商標）」という。"
+          ],
+          "vi": [
+            "Quyền nhãn hiệu",
+            "Quyền sử dụng độc quyền nhãn hiệu (thương hiệu) gắn trên sản phẩm/dịch vụ. Nhãn hiệu gắn trên sản phẩm gọi là \"Trademark\", nhãn hiệu gắn trên dịch vụ gọi là \"Service Mark\""
+          ],
+          "en": [
+            "Trademark Rights",
+            "Right to exclusively use marks (trademarks) on products/services. Product marks are \"Trademarks\", service marks are \"Service Marks\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "その他の権利",
+      "reading": "そのたのけんり",
+      "vi": "Quyền khác",
+      "en": "Other Rights",
+      "my": "အခြားအခွင့်အရေးများ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "知的財産には、上記で解説した著作権や産業財産権の他に、その他の権利として「営業秘密」も含まれます。営業秘密とは次の3つの条件を満たす情報です。",
+      "vi": "Tài sản trí tuệ ngoài quyền tác giả và quyền sở hữu công nghiệp đã giải thích ở trên, còn bao gồm \"Bí mật kinh doanh\" trong quyền khác. Bí mật kinh doanh là thông tin thỏa mãn 3 điều kiện sau:",
+      "en": "Intellectual property, besides copyright and industrial property rights explained above, also includes \"Trade Secrets\" as other rights. Trade secrets are information meeting these 3 conditions:",
+      "my": "ဉာဏပိုင်ဆိုင်မှုတွင် အထက်တွင်ရှင်းပြခဲ့သော မူပိုင်ခွင့်နှင့် စက်မှုပိုင်ဆိုင်ခွင့်အပြင် \"ကုန်သွယ်လျှို့ဝှက်ချက်များ\" လည်း ပါဝင်သည်။",
+      "terms": [
+        {
+          "kanji": "知的財産",
+          "reading": "ちてきざいさん"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "著作権",
+          "reading": "ちょさくけん"
+        },
+        {
+          "kanji": "産業財産権",
+          "reading": "さんぎょうざいさんけん"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "権利",
+          "reading": "けんり"
+        },
+        {
+          "kanji": "営業秘密",
+          "reading": "えいぎょうひみつ"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "満",
+          "reading": "まん"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "営業秘密に必要な3つの条件",
+        "vi": "3 điều kiện cần thiết cho Bí mật kinh doanh",
+        "en": "3 Conditions Required for Trade Secrets"
+      },
+      "headers": {
+        "ja": [
+          "条件",
+          "説明"
+        ],
+        "vi": [
+          "Điều kiện",
+          "Giải thích"
+        ],
+        "en": [
+          "Condition",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "秘密管理性",
+            "秘密として管理されている情報。「マル秘」と書かれた書類や機密保持契約書で指定された書類など。"
+          ],
+          "vi": [
+            "Tính quản lý bí mật",
+            "Thông tin được quản lý như bí mật. Như tài liệu ghi \"Mật\" hoặc tài liệu được chỉ định trong hợp đồng bảo mật"
+          ],
+          "en": [
+            "Secrecy Management",
+            "Information managed as secret. Like documents marked \"Confidential\" or documents specified in NDA"
+          ]
+        },
+        {
+          "ja": [
+            "有用性",
+            "技術上または営業上役に立つ情報。開発実験の結果データや顧客情報など。"
+          ],
+          "vi": [
+            "Tính hữu dụng",
+            "Thông tin có ích về kỹ thuật hoặc kinh doanh. Như dữ liệu kết quả thí nghiệm phát triển hoặc thông tin khách hàng"
+          ],
+          "en": [
+            "Usefulness",
+            "Information useful technically or commercially. Like R&D experiment data or customer information"
+          ]
+        },
+        {
+          "ja": [
+            "非公知性",
+            "一般的に知られていない情報。"
+          ],
+          "vi": [
+            "Tính không công khai",
+            "Thông tin không được công chúng biết đến"
+          ],
+          "en": [
+            "Non-Public",
+            "Information not generally known"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、脱税情報や不正取引の記録は、営業秘密にはなりません。これらは、法律で保護すべき正しい事業活動ではないので、有用性を満たさないと考えます。",
+      "vi": "Lưu ý, thông tin trốn thuế và hồ sơ giao dịch bất chính KHÔNG phải là bí mật kinh doanh. Vì đây không phải hoạt động kinh doanh đúng đắn cần được pháp luật bảo vệ, nên không đáp ứng tính hữu dụng.",
+      "en": "Note that tax evasion information and illegal transaction records are NOT trade secrets. Since these aren't legitimate business activities that should be legally protected, they don't meet the usefulness requirement.",
+      "my": "အခွန်ရှောင်ခြင်းနှင့် တရားမဝင်အရောင်းအဝယ်မှတ်တမ်းများသည် ကုန်သွယ်လျှို့ဝှက်ချက်များ မဟုတ်ပါ။",
+      "terms": [
+        {
+          "kanji": "脱税情報",
+          "reading": "だつぜいじょうほう"
+        },
+        {
+          "kanji": "不正取引",
+          "reading": "ふせいとりひき"
+        },
+        {
+          "kanji": "記録",
+          "reading": "きろく"
+        },
+        {
+          "kanji": "営業秘密",
+          "reading": "えいぎょうひみつ"
+        },
+        {
+          "kanji": "法律",
+          "reading": "ほうりつ"
+        },
+        {
+          "kanji": "保護",
+          "reading": "ほご"
+        },
+        {
+          "kanji": "正",
+          "reading": "せい"
+        },
+        {
+          "kanji": "事業活動",
+          "reading": "じぎょうかつどう"
+        },
+        {
+          "kanji": "有用性",
+          "reading": "ゆうようせい"
+        },
+        {
+          "kanji": "満",
+          "reading": "まん"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "限定提供データ",
+      "reading": "げんていていきょうでーた",
+      "vi": "Dữ liệu cung cấp giới hạn",
+      "en": "Limited Provision Data",
+      "my": "အကန့်အသတ် ပံ့ပိုးမှုဒေတာ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "限定提供データとは、他者と共有することで高い価値を生み出す情報です。限定提供データの主な例はビッグデータです。\n\n限定提供データとして扱われるためには、次の3つの条件を満たす必要があります。",
+      "vi": "Dữ liệu cung cấp giới hạn là thông tin tạo ra giá trị cao khi chia sẻ với người khác. Ví dụ chính về dữ liệu cung cấp giới hạn là Big Data.\n\nĐể được xem là dữ liệu cung cấp giới hạn, cần thỏa mãn 3 điều kiện sau:",
+      "en": "Limited provision data is information that creates high value by sharing with others. The main example is Big Data.\n\nTo be treated as limited provision data, these 3 conditions must be met:",
+      "my": "Limited provision data သည် အခြားသူများနှင့် မျှဝေခြင်းဖြင့် တန်ဖိုးမြင့်စွာ ဖန်တီးသော အချက်အလက်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "限定提供",
+          "reading": "げんていていきょう"
+        },
+        {
+          "kanji": "他者",
+          "reading": "たしゃ"
+        },
+        {
+          "kanji": "共有",
+          "reading": "きょうゆう"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "価値",
+          "reading": "かち"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "kanji": "満",
+          "reading": "まん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "特許権",
+      "reading": "とっきょけん",
+      "romaji": "Tokkyoken",
+      "vi": "Quyền sáng chế",
+      "en": "Patent Rights",
+      "my": "မူပိုင်ခွင့်"
+    },
+    {
+      "kanji": "実用新案権",
+      "reading": "じつようしんあんけん",
+      "romaji": "Jitsuyou Shin'an Ken",
+      "vi": "Quyền mẫu hữu ích",
+      "en": "Utility Model Rights",
+      "my": "အသုံးဝင်ပုံစံအခွင့်အရေး"
+    },
+    {
+      "kanji": "意匠権",
+      "reading": "いしょうけん",
+      "romaji": "Ishouken",
+      "vi": "Quyền kiểu dáng",
+      "en": "Design Rights",
+      "my": "ဒီဇိုင်းအခွင့်အရေး"
+    },
+    {
+      "kanji": "商標権",
+      "reading": "しょうひょうけん",
+      "romaji": "Shouhyouken",
+      "vi": "Quyền nhãn hiệu",
+      "en": "Trademark Rights",
+      "my": "အမှတ်တံဆိပ်အခွင့်အရေး"
+    },
+    {
+      "kanji": "営業秘密",
+      "reading": "えいぎょうひみつ",
+      "romaji": "Eigyou Himitsu",
+      "vi": "Bí mật kinh doanh",
+      "en": "Trade Secret",
+      "my": "ကုန်သွယ်လျှို့ဝှက်ချက်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false
+  }
+}

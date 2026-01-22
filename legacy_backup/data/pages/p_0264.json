@@ -1,0 +1,556 @@
+{
+  "page_id": 264,
+  "image": "p_0264.png",
+  "chapter": 6,
+  "section": "06-07",
+  "page_number": 248,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "DevOps",
+      "reading": "でぶおぷす",
+      "vi": "DevOps",
+      "en": "DevOps"
+    },
+    {
+      "type": "paragraph",
+      "ja": "DevOpsとは、開発担当者（Development）と、運用担当者（Operations）が密接に連携してシステムを開発する手法です。DevOpsのキーワードは「開発者」と「運用者」です。開発者はシステムの「開発プロセス」を担う人であり、運用者はシステムの「運用プロセス」を担う人です。この2つの役割はたびたび衝突します。なぜなら、両者の目的が異なるからです。",
+      "vi": "DevOps là phương pháp phát triển hệ thống mà người phụ trách phát triển (Development) và người phụ trách vận hành (Operations) hợp tác chặt chẽ. Từ khóa của DevOps là \"Nhà phát triển\" và \"Người vận hành\". Nhà phát triển là người đảm nhận \"Quy trình phát triển\" của hệ thống, người vận hành là người đảm nhận \"Quy trình vận hành\". 2 vai trò này thường xung đột. Vì mục đích của hai bên khác nhau.",
+      "en": "DevOps is a method where development staff (Development) and operations staff (Operations) work closely together to develop systems. DevOps keywords are 'Developer' and 'Operator.' Developers handle system's 'Development Process,' operators handle 'Operation Process.' These 2 roles often conflict because their objectives differ.",
+      "terms": [
+        {
+          "kanji": "開発担当者",
+          "reading": "かいはつたんとうしゃ"
+        },
+        {
+          "kanji": "運用担当者",
+          "reading": "うんようたんとうしゃ"
+        },
+        {
+          "kanji": "密接",
+          "reading": "みっせつ"
+        },
+        {
+          "kanji": "連携",
+          "reading": "れんけい"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "開発者",
+          "reading": "かいはつしゃ"
+        },
+        {
+          "kanji": "運用者",
+          "reading": "うんようしゃ"
+        },
+        {
+          "kanji": "担",
+          "reading": "たん"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "衝突",
+          "reading": "しょうとつ"
+        },
+        {
+          "kanji": "両者",
+          "reading": "りょうしゃ"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "開発者の目的は「より良いシステムを作ること」です。一方、運用者の目的は「システムを安定して運用すること」です。そのため、例えば開発者は、品質向上のためにシステムの修正や新機能の追加を希望しますが、これらの作業を行うとシステムが不安定になるため、運用者は嫌がります。その結果、両者は衝突することになります。",
+      "vi": "Mục đích của nhà phát triển là \"tạo hệ thống tốt hơn\". Mặt khác, mục đích của người vận hành là \"vận hành hệ thống ổn định\". Do đó, ví dụ nhà phát triển mong muốn sửa đổi hệ thống hoặc thêm tính năng mới để nâng cao chất lượng, nhưng những công việc này làm hệ thống không ổn định nên người vận hành không thích. Kết quả là hai bên xung đột.",
+      "en": "Developers' objective is 'creating better systems.' Operators' objective is 'operating systems stably.' Therefore, for example, developers want system modifications or new features for quality improvement, but operators dislike this because it makes systems unstable. As a result, both sides conflict.",
+      "terms": [
+        {
+          "kanji": "開発者",
+          "reading": "かいはつしゃ"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "作",
+          "reading": "さく"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "運用者",
+          "reading": "うんようしゃ"
+        },
+        {
+          "kanji": "安定",
+          "reading": "あんてい"
+        },
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "品質向上",
+          "reading": "ひんしつこうじょう"
+        },
+        {
+          "kanji": "修正",
+          "reading": "しゅうせい"
+        },
+        {
+          "kanji": "新機能",
+          "reading": "しんきのう"
+        },
+        {
+          "kanji": "追加",
+          "reading": "ついか"
+        },
+        {
+          "kanji": "希望",
+          "reading": "きぼう"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "不安定",
+          "reading": "ふあんてい"
+        },
+        {
+          "kanji": "嫌",
+          "reading": "いや"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "両者",
+          "reading": "りょうしゃ"
+        },
+        {
+          "kanji": "衝突",
+          "reading": "しょうとつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "DevOpsではこのような衝突を、ツールや組織文化を用いて解決し、ユーザーにより良い価値（製品）を届けるように取り組みます。",
+      "vi": "DevOps giải quyết xung đột như vậy bằng cách sử dụng công cụ và văn hóa tổ chức, nỗ lực mang đến giá trị (sản phẩm) tốt hơn cho người dùng.",
+      "en": "DevOps resolves such conflicts using tools and organizational culture, working to deliver better value (products) to users.",
+      "terms": [
+        {
+          "kanji": "衝突",
+          "reading": "しょうとつ"
+        },
+        {
+          "kanji": "組織文化",
+          "reading": "そしきぶんか"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "良",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "価値",
+          "reading": "かち"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "届",
+          "reading": "とどけ"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、DevOpsに関しては「こうしなさい」という厳密な定義は存在しません。開発担当者と運用担当者が協力して解決するような取り組み全体を指します。",
+      "vi": "Ngoài ra, với DevOps không có định nghĩa nghiêm ngặt \"hãy làm thế này\". Chỉ toàn bộ nỗ lực mà người phụ trách phát triển và người phụ trách vận hành hợp tác giải quyết.",
+      "en": "Also, there's no strict definition of 'do it this way' for DevOps. It refers to the overall effort where development and operations staff cooperate to solve problems.",
+      "terms": [
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "厳密",
+          "reading": "げんみつ"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "存在",
+          "reading": "そんざい"
+        },
+        {
+          "kanji": "開発担当者",
+          "reading": "かいはつたんとうしゃ"
+        },
+        {
+          "kanji": "運用担当者",
+          "reading": "うんようたんとうしゃ"
+        },
+        {
+          "kanji": "協力",
+          "reading": "きょうりょく"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "指",
+          "reading": "ゆび"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "XP",
+      "reading": "えっくすぴー",
+      "vi": "XP",
+      "en": "XP"
+    },
+    {
+      "type": "paragraph",
+      "ja": "XP（eXtreme Programming）とは、アジャイル開発の手法の1つで、19のプラクティス（実践）が定義された開発手法です。この19のプラクティスのうち、ITパスポート試験に出題される3つのプラクティスをここで紹介します。",
+      "vi": "XP (eXtreme Programming) là một trong các phương pháp Agile Development, là phương pháp phát triển định nghĩa 19 practice (thực hành). Trong 19 practice này, giới thiệu 3 practice ra đề trong kỳ thi IT Passport.",
+      "en": "XP (eXtreme Programming) is one of Agile Development methods, a development method with 19 defined practices. Among these 19 practices, here are 3 practices that appear on IT Passport exam.",
+      "terms": [
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "実践",
+          "reading": "じっせん"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        },
+        {
+          "kanji": "開発手法",
+          "reading": "かいはつしゅほう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "紹介",
+          "reading": "しょうかい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "テスト駆動開発",
+      "reading": "てすとくどうかいはつ",
+      "vi": "Test Driven Development",
+      "en": "Test Driven Development",
+      "note": "必修！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "テスト駆動開発（Test Driven Development）とは、通常はプログラムを書いた後に行う単体テストを、順序を逆にして先に行い、このテストを通るようにプログラムを書く開発手法です。テスト駆動開発では、開発者はテストに合格するためのプログラムを書けばよいため、プログラムの目的が明確になります。また、プログラムが書き終わった段階で、そのプログラムはすでに単体テストに合格しているため、不具合の少ない状態になります。これもテスト駆動開発のメリットの1つです。",
+      "vi": "Test Driven Development là phương pháp phát triển thay vì thực hiện unit test sau khi viết chương trình như thông thường, đảo ngược thứ tự thực hiện trước, rồi viết chương trình để vượt qua test này. Trong TDD, nhà phát triển chỉ cần viết chương trình để vượt qua test, nên mục đích chương trình trở nên rõ ràng. Ngoài ra, ở giai đoạn viết xong chương trình, chương trình đã vượt qua unit test nên ở trạng thái ít lỗi. Đây cũng là một ưu điểm của TDD.",
+      "en": "Test Driven Development is a development method where instead of doing unit tests after writing programs as usual, the order is reversed to do tests first, then programs are written to pass these tests. In TDD, developers just need to write programs to pass tests, so program objectives become clear. Also, when programs are finished, they've already passed unit tests, resulting in fewer bugs. This is also a merit of TDD.",
+      "terms": [
+        {
+          "kanji": "駆動開発",
+          "reading": "くどうかいはつ"
+        },
+        {
+          "kanji": "通常",
+          "reading": "つうじょう"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "後",
+          "reading": "のち"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "単体",
+          "reading": "たんたい"
+        },
+        {
+          "kanji": "順序",
+          "reading": "じゅんじょ"
+        },
+        {
+          "kanji": "逆",
+          "reading": "ぎゃく"
+        },
+        {
+          "kanji": "先",
+          "reading": "さき"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        },
+        {
+          "kanji": "開発手法",
+          "reading": "かいはつしゅほう"
+        },
+        {
+          "kanji": "開発者",
+          "reading": "かいはつしゃ"
+        },
+        {
+          "kanji": "合格",
+          "reading": "ごうかく"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "終",
+          "reading": "おわり"
+        },
+        {
+          "kanji": "段階",
+          "reading": "だんかい"
+        },
+        {
+          "kanji": "不具合",
+          "reading": "ふぐあい"
+        },
+        {
+          "kanji": "少",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "状態",
+          "reading": "じょうたい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ペアプログラミング",
+      "reading": "ぺあぷろぐらみんぐ",
+      "vi": "Pair Programming",
+      "en": "Pair Programming",
+      "note": "必修！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ペアプログラミングとは、2人のプログラマが、1つのパソコンを使ってソフトウェアを開発する手法です。1人がプログラムを書いている間、もう1人はそれをチェックします。2人が同じプログラムの内容を理解しながら作業を進めるため、1人が仕事を休んでも、もう1人が作業を続けることができます。また初心者と熟練者の2人が組めば、技術を習得することができるOJT効果もあります（p.18）。",
+      "vi": "Pair Programming là phương pháp 2 programmer sử dụng 1 máy tính để phát triển phần mềm. Trong khi 1 người viết chương trình, người còn lại kiểm tra. Vì 2 người tiến hành công việc trong khi hiểu nội dung cùng chương trình, nếu 1 người nghỉ việc, người còn lại có thể tiếp tục. Ngoài ra, nếu ghép cặp người mới và người có kinh nghiệm, còn có hiệu quả OJT học kỹ thuật (trang 18).",
+      "en": "Pair Programming is a method where 2 programmers develop software using 1 computer. While 1 person writes programs, the other checks. Because 2 people work while understanding the same program content, if 1 person takes off, the other can continue. Also, if beginner and expert pair up, there's OJT effect for learning skills (p.18).",
+      "terms": [
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "間",
+          "reading": "かん"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "休",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "続",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "初心者",
+          "reading": "しょしんしゃ"
+        },
+        {
+          "kanji": "熟練者",
+          "reading": "じゅくれんしゃ"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "習得",
+          "reading": "しゅうとく"
+        },
+        {
+          "kanji": "効果",
+          "reading": "こうか"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "DevOps",
+      "reading": "でぶおぷす",
+      "romaji": "DevOps",
+      "vi": "DevOps",
+      "en": "DevOps",
+      "my": "ဒက်ဗ်အော့"
+    },
+    {
+      "kanji": "テスト駆動開発",
+      "reading": "てすとくどうかいはつ",
+      "romaji": "Test Kudou Kaihatsu",
+      "vi": "Phát triển hướng kiểm thử",
+      "en": "Test Driven Development",
+      "my": "စမ်းသပ် အခြေခံ ဖွံ့ဖြိုးမှု"
+    },
+    {
+      "kanji": "ペアプログラミング",
+      "reading": "ぺあぷろぐらみんぐ",
+      "romaji": "Pair Programming",
+      "vi": "Lập trình cặp",
+      "en": "Pair Programming",
+      "my": "အတွဲ ပရိုဂရမ်မှု"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

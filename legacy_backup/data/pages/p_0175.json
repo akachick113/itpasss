@@ -1,0 +1,291 @@
+{
+  "page_id": 175,
+  "image": "p_0175.png",
+  "chapter": 4,
+  "section": "04-05",
+  "page_number": 159,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "04-05",
+      "ja": "e-ビジネス",
+      "reading": "いーびじねす",
+      "vi": "e-Business",
+      "en": "e-Business",
+      "my": "e-Business"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "ネットならではの売り方",
+        "vi": "Cách bán hàng đặc trưng của mạng",
+        "en": "Internet-Specific Selling Methods",
+        "my": "အင်တာနက် သီးသန့် ရောင်းချနည်းများ"
+      },
+      "content": {
+        "ja": "今やネットで買い物は当たり前の時代になりました。オンラインショップを含む、e-ビジネスにおいてITは不可欠です。e-ビジネスは現在どのように進化しているのでしょうか。",
+        "vi": "Ngày nay mua sắm qua mạng đã trở thành bình thường. IT là không thể thiếu trong e-Business bao gồm cửa hàng trực tuyến. e-Business đang tiến hóa như thế nào?",
+        "en": "Online shopping is now commonplace. IT is essential in e-business including online shops. How is e-business evolving?",
+        "my": "အွန်လိုင်း ဈေးဝယ်ခြင်း ယခု သာမန်ဖြစ်သည်။",
+        "terms": [
+          {
+            "kanji": "今",
+            "reading": "いま"
+          },
+          {
+            "kanji": "買",
+            "reading": "ばい"
+          },
+          {
+            "kanji": "物",
+            "reading": "もの"
+          },
+          {
+            "kanji": "当",
+            "reading": "とう"
+          },
+          {
+            "kanji": "前",
+            "reading": "まえ"
+          },
+          {
+            "kanji": "時代",
+            "reading": "じだい"
+          },
+          {
+            "kanji": "含",
+            "reading": "がん"
+          },
+          {
+            "kanji": "不可欠",
+            "reading": "ふかけつ"
+          },
+          {
+            "kanji": "現在",
+            "reading": "げんざい"
+          },
+          {
+            "kanji": "進化",
+            "reading": "しんか"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "前節では「ITがエンジニアリングシステム（製造システム）においてどのように活用されているか」を解説しました。\n\nここからは「ITが従来の取引をどのように変えてきているか」を解説していきます。ITパスポート試験では「エスクローサービス」が頻出です。それぞれの違いを把握するようにしてください。また「ロングテール」と「CGM」もよく出題されます。",
+      "vi": "Phần trước đã giải thích IT được sử dụng như thế nào trong hệ thống kỹ thuật (hệ thống sản xuất).\n\nTừ đây sẽ giải thích IT đang thay đổi giao dịch truyền thống như thế nào. Trong IT Passport, Escrow Service hay ra đề. Hãy nắm bắt sự khác biệt. Long Tail và CGM cũng thường được ra đề.",
+      "en": "The previous section explained how IT is used in engineering systems (manufacturing systems).\n\nFrom here, we'll explain how IT is changing traditional transactions. IT Passport frequently tests 'Escrow Service'. Grasp the differences. 'Long Tail' and 'CGM' are also often tested.",
+      "my": "ယခင်အပိုင်းတွင် အင်ဂျင်နီယာစနစ်များ (ထုတ်လုပ်ရေးစနစ်များ) တွင် IT ကို မည်သို့အသုံးပြုကြောင်း ရှင်းပြခဲ့သည်။",
+      "terms": [
+        {
+          "kanji": "前節",
+          "reading": "ぜんせつ"
+        },
+        {
+          "kanji": "製造",
+          "reading": "せいぞう"
+        },
+        {
+          "kanji": "活用",
+          "reading": "かつよう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "従来",
+          "reading": "じゅうらい"
+        },
+        {
+          "kanji": "取引",
+          "reading": "とりひき"
+        },
+        {
+          "kanji": "変",
+          "reading": "へん"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "頻出",
+          "reading": "ひんしゅつ"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "EC",
+      "vi": "EC",
+      "en": "EC"
+    },
+    {
+      "type": "paragraph",
+      "ja": "EC（Electronic Commerce：電子商取引）とは、インターネット上で商品を売買すること（取引すること）です。ECには、企業側、利用者側の双方にメリットがあります。\n\n・企業側のメリット：店舗の家賃や販売員の給与などを低減できる\n　　　　　　　　　：少ない投資で事業に参入できる\n・利用者側のメリット：自宅で商品を購入できる（店舗へ行かなくてもよい）\n\nこのようにECには双方にメリットがあるため、現在では広く利用されています。\n\nまた、ECには販売する品揃えに関して実店舗ではなかなか実現できない大きな特徴があります。それが「ロングテール」です。",
+      "vi": "EC (Electronic Commerce: Thương mại điện tử) là mua bán (giao dịch) hàng hóa trên internet. EC có lợi ích cho cả doanh nghiệp và người dùng.\n\n・Lợi ích cho doanh nghiệp: Giảm tiền thuê cửa hàng và lương nhân viên bán hàng\n　　　　　　　　　　　　: Có thể tham gia kinh doanh với đầu tư ít\n・Lợi ích cho người dùng: Có thể mua sản phẩm tại nhà (không cần đến cửa hàng)\n\nVì EC có lợi ích cho cả hai bên nên hiện được sử dụng rộng rãi.\n\nNgoài ra, EC có đặc điểm lớn về danh mục sản phẩm mà cửa hàng thực khó thực hiện. Đó là Long Tail.",
+      "en": "EC (Electronic Commerce) is buying/selling (trading) products on the internet. EC benefits both businesses and users.\n\n・Business benefits: Reduce store rent and sales staff wages\n　　　　　　　　：Enter business with less investment\n・User benefits: Can purchase products at home (no need to visit stores)\n\nSince EC benefits both sides, it's now widely used.\n\nAlso, EC has a major feature regarding product assortment that physical stores can't easily achieve. That's 'Long Tail'.",
+      "my": "EC (Electronic Commerce) သည် အင်တာနက်ပေါ်တွင် ထုတ်ကုန်များ ရောင်းဝယ် (ကုန်သွယ်) ခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "電子商取引",
+          "reading": "でんししょうとりひき"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "売買",
+          "reading": "ばいばい"
+        },
+        {
+          "kanji": "取引",
+          "reading": "とりひき"
+        },
+        {
+          "kanji": "企業側",
+          "reading": "きぎょうがわ"
+        },
+        {
+          "kanji": "利用者側",
+          "reading": "りようしゃがわ"
+        },
+        {
+          "kanji": "双方",
+          "reading": "そうほう"
+        },
+        {
+          "kanji": "店舗",
+          "reading": "てんぽ"
+        },
+        {
+          "kanji": "家賃",
+          "reading": "やちん"
+        },
+        {
+          "kanji": "販売員",
+          "reading": "はんばいいん"
+        },
+        {
+          "kanji": "給与",
+          "reading": "きゅうよ"
+        },
+        {
+          "kanji": "低減",
+          "reading": "ていげん"
+        },
+        {
+          "kanji": "少",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "投資",
+          "reading": "とうし"
+        },
+        {
+          "kanji": "事業",
+          "reading": "じぎょう"
+        },
+        {
+          "kanji": "参入",
+          "reading": "さんにゅう"
+        },
+        {
+          "kanji": "自宅",
+          "reading": "じたく"
+        },
+        {
+          "kanji": "購入",
+          "reading": "こうにゅう"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "広",
+          "reading": "こう"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "販売",
+          "reading": "はんばい"
+        },
+        {
+          "kanji": "品揃",
+          "reading": "しなぞろえ"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "実店舗",
+          "reading": "みてんぽ"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "EC",
+      "reading": "いーしー",
+      "romaji": "Electronic Commerce",
+      "vi": "Thương mại điện tử",
+      "en": "Electronic Commerce",
+      "my": "EC"
+    },
+    {
+      "kanji": "電子商取引",
+      "reading": "でんししょうとりひき",
+      "romaji": "Denshi Shoutorihiki",
+      "vi": "Giao dịch thương mại điện tử",
+      "en": "Electronic Commerce",
+      "my": "အီးကော်မားစ်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

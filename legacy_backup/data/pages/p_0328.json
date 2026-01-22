@@ -1,0 +1,166 @@
+{
+    "page_id": 328,
+    "image": "p_0328.png",
+    "chapter": 8,
+    "section": "practice",
+    "page_number": 312,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "8-19",
+            "year": "平成23年度",
+            "question": {
+                "ja": "大規模な災害などによって、企業活動を支える重要な情報システムに障害が発生したような場合でも、企業活動の継続を可能にするために、あらかじめ策定する計画はどれか。",
+                "vi": "Kế hoạch nào được lập trước để doanh nghiệp có thể tiếp tục hoạt động ngay cả khi hệ thống thông tin quan trọng hỗ trợ hoạt động doanh nghiệp bị sự cố do thảm họa quy mô lớn?",
+                "en": "Which plan is made in advance to enable business continuity even when important information systems supporting business activities fail due to large-scale disasters?"
+            },
+            "choices": [
+                "ア. BCP",
+                "イ. BPR",
+                "ウ. ERP",
+                "エ. RFP"
+            ],
+            "correct_answer": "ア"
+        },
+        {
+            "type": "exam_question",
+            "number": "8-20",
+            "year": "令和6年度",
+            "question": {
+                "ja": "システム監査人の役割として、適切なものだけを全て挙げたものはどれか。",
+                "vi": "Chọn tất cả những vai trò thích hợp của System Auditor.",
+                "en": "Select all appropriate roles of System Auditor."
+            },
+            "sub_choices": [
+                {
+                    "ja": "a. 監査手続の種類、実施時期、適用範囲などについて、監査計画を立案する。",
+                    "vi": "a. Lập kế hoạch audit về loại thủ tục audit, thời điểm thực hiện, phạm vi áp dụng.",
+                    "en": "a. Create audit plan about audit procedure types, implementation timing, application scope."
+                },
+                {
+                    "ja": "b. 監査の目的に応じた監査報告書を作成し、社内への公開は経営者（依頼人）の役割である。",
+                    "vi": "b. Tạo báo cáo audit phù hợp với mục đích audit, công khai trong công ty là vai trò của ban lãnh đạo (Client).",
+                    "en": "b. Create audit report suited to audit purpose, disclosure within company is management (Client) role."
+                },
+                {
+                    "ja": "c. 監査報告書にある改善提案に基づく改善の実施を監査対象部門に指示する。",
+                    "vi": "c. Chỉ thị bộ phận đối tượng audit thực hiện cải thiện dựa trên đề xuất cải thiện trong báo cáo audit.",
+                    "en": "c. Instruct audited department to implement improvements based on improvement proposals in audit report."
+                },
+                {
+                    "ja": "d. 監査報告書にある改善提案に基づく改善の実施状況をモニタリングする。",
+                    "vi": "d. Monitoring tình trạng thực hiện cải thiện dựa trên đề xuất cải thiện trong báo cáo audit.",
+                    "en": "d. Monitor implementation status of improvements based on improvement proposals in audit report."
+                }
+            ],
+            "choices": [
+                "ア. a, b",
+                "イ. a, d",
+                "ウ. b, c",
+                "エ. c, d"
+            ],
+            "correct_answer": "イ"
+        },
+        {
+            "type": "exam_question",
+            "number": "8-21",
+            "year": "令和元年度",
+            "question": {
+                "ja": "内部統制において、不正防止を目的とした職務分掌に関する事例として、最も適切なものはどれか。",
+                "vi": "Trong Internal Control, ví dụ nào thích hợp nhất về Separation of Duties nhằm mục đích ngăn chặn gian lận?",
+                "en": "In Internal Control, which is most appropriate example of Separation of Duties aiming to prevent fraud?"
+            },
+            "choices": [
+                {
+                    "ja": "ア. 申請者は自身の申請を承認できないようにする。",
+                    "vi": "ア. Người yêu cầu không thể phê duyệt yêu cầu của chính mình.",
+                    "en": "ア. Applicant cannot approve own application."
+                },
+                {
+                    "ja": "イ. 申請部署と承認部署の役員を兼務させる。",
+                    "vi": "イ. Cho giám đốc kiêm nhiệm bộ phận yêu cầu và bộ phận phê duyệt.",
+                    "en": "イ. Have director concurrently serve application and approval departments."
+                },
+                {
+                    "ja": "ウ. 一つの業務を複数の担当者が手分けして行う。",
+                    "vi": "ウ. Nhiều người phụ trách chia nhau làm một công việc.",
+                    "en": "ウ. Multiple people in charge divide and do one task."
+                },
+                {
+                    "ja": "エ. 一つの業務を複数の部署で分散して行う。",
+                    "vi": "エ. Nhiều bộ phận phân tán làm một công việc.",
+                    "en": "エ. Multiple departments distribute and do one task."
+                }
+            ],
+            "correct_answer": "ア"
+        },
+        {
+            "type": "section_header",
+            "title": {
+                "ja": "解答・解説",
+                "vi": "Đáp án và Giải thích",
+                "en": "Answers and Explanations"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-11",
+            "correct_answer": "ウ",
+            "explanation": {
+                "ja": "社外取締役は、企業と利害関係のない独立した立場なので、社外取締役の人数を増やすことは、コーポレートガバナンスの強化につながります。",
+                "vi": "Outside Director là lập trường độc lập không có quan hệ lợi ích với doanh nghiệp, nên tăng số lượng Outside Director dẫn đến tăng cường Corporate Governance.",
+                "en": "Outside Director has independent position with no interest relationship with company, so increasing Outside Directors leads to strengthening Corporate Governance."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "DE&Iの事例です。",
+                    "vi": "Là ví dụ về DE&I.",
+                    "en": "This is DE&I example."
+                },
+                "イ": {
+                    "ja": "M&Aの事例です。",
+                    "vi": "Là ví dụ về M&A.",
+                    "en": "This is M&A example."
+                },
+                "エ": {
+                    "ja": "リストラクチャリングの事例です。",
+                    "vi": "Là ví dụ về Restructuring.",
+                    "en": "This is Restructuring example."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-12",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "ファシリティマネジメントはファシリティ（設備）を最適化する手法です。",
+                "vi": "Facility Management là phương pháp tối ưu hóa Facility (thiết bị).",
+                "en": "Facility Management is method to optimize Facility (equipment)."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "SLM（Service Level Management）の説明です。",
+                    "vi": "Là giải thích về SLM (Service Level Management).",
+                    "en": "This is SLM (Service Level Management) explanation."
+                },
+                "ウ": {
+                    "ja": "BPM（Business Process Management）の説明です。",
+                    "vi": "Là giải thích về BPM (Business Process Management).",
+                    "en": "This is BPM (Business Process Management) explanation."
+                },
+                "エ": {
+                    "ja": "SCM（Supply Chain Management）の説明です。",
+                    "vi": "Là giải thích về SCM (Supply Chain Management).",
+                    "en": "This is SCM (Supply Chain Management) explanation."
+                }
+            }
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "has_answers": true,
+        "question_count": 3,
+        "answer_count": 2
+    }
+}

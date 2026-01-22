@@ -1,0 +1,278 @@
+{
+  "page_id": 173,
+  "image": "p_0173.png",
+  "chapter": 4,
+  "section": "04-04",
+  "page_number": 157,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "工数とは",
+      "reading": "こうすうとは",
+      "vi": "Công số là gì",
+      "en": "What is Man-days"
+    },
+    {
+      "type": "paragraph",
+      "ja": "工数とは、作業量です。工数は「人数×時間」で計算できます。単位は「人日」や「人月」です。例えば、2人の作業員が10日間作業した場合、工数は20人日（2人×10日）になります。10人が2日間作業した場合の工数も20人日です（10人×2日）。",
+      "vi": "Công số là khối lượng công việc. Công số được tính bằng số người × thời gian. Đơn vị là người-ngày hoặc người-tháng. Ví dụ, nếu 2 công nhân làm việc 10 ngày, công số là 20 người-ngày (2 người × 10 ngày). Nếu 10 người làm việc 2 ngày, công số cũng là 20 người-ngày (10 người × 2 ngày).",
+      "en": "Man-days is work volume. Calculated as 'number of people × time'. Units are 'man-days' or 'man-months'. For example, if 2 workers work 10 days, man-days is 20 (2×10). If 10 people work 2 days, man-days is also 20 (10×2).",
+      "my": "Man-days သည် အလုပ်ပမာဏဖြစ်သည်။ 'လူဦးရေ × အချိန်' ဖြင့် တွက်ချက်သည်။",
+      "terms": [
+        {
+          "kanji": "工数",
+          "reading": "こうすう"
+        },
+        {
+          "kanji": "作業量",
+          "reading": "さぎょうりょう"
+        },
+        {
+          "kanji": "人数",
+          "reading": "にんずう"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "単位",
+          "reading": "たんい"
+        },
+        {
+          "kanji": "人日",
+          "reading": "にんにち"
+        },
+        {
+          "kanji": "人月",
+          "reading": "にんげつ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "作業員",
+          "reading": "さぎょういん"
+        },
+        {
+          "kanji": "日間作業",
+          "reading": "にちかんさぎょう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "日",
+          "reading": "にち"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "工数の計算",
+      "reading": "こうすうのけいさん",
+      "vi": "Tính toán công số",
+      "en": "Man-days Calculation"
+    },
+    {
+      "type": "paragraph",
+      "ja": "それでは前ページのサンプル問題を解いていきます。まずは、それぞれの製品の「工数あたりの利益」を計算します。\n\nA製品：20÷4＝5万円/人日\nB製品：16÷4＝4万円/人日\nC製品：9÷3＝3万円/人日\n\nこの計算結果からA製品が最も利益が大きいことがわかります。このため、最初に生産能力の限界までA製品を作ります。A製品は1か月あたり最大で25個まで生産できるので、次のように計算します。\n\n4人日×25個＝100人日\n\n次に利益が大きいのはB製品です。生産能力の限界までB製品を作ります。B製品は1か月あたり最大30個まで生産できるので、次のように計算します。\n\n4人日×30個＝120人日\n\nA製品とB製品の両方を1か月の最大生産個数を生産しても、全体の工数（280人日）を下回っているため、この問題の場合は、B製品を30個生産できます。このため、選択肢エが正解となります。\n\nなお、C製品は何個生産できるでしょうか。全体の工数は280人日であり、A製品とB製品の生産に合計220人日使っているので、残り60人日です。C製品を1つ生産するのに3人日必要なので、次のように計算します。\n\n60人日÷3人日＝20個\n\nこのことから、1か月あたりの利益を最大にした場合、C製品は20個しか生産できません（最大生産個数は40個）。C製品の生産個数が問われるようなケースもあるので、上記の計算式をしっかりと理解しておいてください。",
+      "vi": "Bây giờ giải bài mẫu ở trang trước. Trước tiên tính lợi nhuận trên mỗi công số của từng sản phẩm.\n\nA: 20÷4 = 5 vạn yên/người-ngày\nB: 16÷4 = 4 vạn yên/người-ngày\nC: 9÷3 = 3 vạn yên/người-ngày\n\nTừ kết quả này, A có lợi nhuận lớn nhất. Do đó, sản xuất A đến giới hạn năng lực trước. A có thể sản xuất tối đa 25 cái/tháng:\n\n4 người-ngày × 25 cái = 100 người-ngày\n\nTiếp theo là B. Sản xuất B đến giới hạn năng lực. B có thể sản xuất tối đa 30 cái/tháng:\n\n4 người-ngày × 30 cái = 120 người-ngày\n\nSản xuất tối đa cả A và B vẫn dưới tổng công số (280 người-ngày), nên trong bài này B sản xuất được 30 cái. Do đó đáp án là D.\n\nVậy C sản xuất được bao nhiêu? Tổng công số 280 người-ngày, A và B dùng 220 người-ngày, còn 60 người-ngày. C cần 3 người-ngày/cái:\n\n60 người-ngày ÷ 3 người-ngày = 20 cái\n\nKhi tối đa hóa lợi nhuận tháng, C chỉ sản xuất được 20 cái (tối đa 40 cái). Có thể hỏi số lượng C nên hiểu rõ cách tính.",
+      "en": "Now let's solve the previous page's sample problem. First, calculate 'profit per man-day' for each product.\n\nA: 20÷4 = 50,000 yen/man-day\nB: 16÷4 = 40,000 yen/man-day\nC: 9÷3 = 30,000 yen/man-day\n\nFrom this, A has the highest profit. So produce A up to capacity first. A can produce max 25/month:\n\n4 man-days × 25 = 100 man-days\n\nNext is B. Produce B to capacity. B can produce max 30/month:\n\n4 man-days × 30 = 120 man-days\n\nProducing max of both A and B is still under total man-days (280), so in this problem, B can produce 30 units. Therefore, D is correct.\n\nHow many C can be produced? Total is 280 man-days, A and B use 220 man-days, leaving 60. C needs 3 man-days each:\n\n60 man-days ÷ 3 = 20 units\n\nWhen maximizing monthly profit, C can only produce 20 (max is 40). Questions may ask about C's quantity, so understand this calculation.",
+      "my": "ယခု ယခင်စာမျက်နှာ၏ နမူနာပြဿနာကို ဖြေရှင်းကြပါစို့။",
+      "terms": [
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "解",
+          "reading": "かい"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "工数",
+          "reading": "こうすう"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "万円",
+          "reading": "まんえん"
+        },
+        {
+          "kanji": "人日",
+          "reading": "にんにち"
+        },
+        {
+          "kanji": "計算結果",
+          "reading": "けいさんけっか"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "生産能力",
+          "reading": "せいさんのうりょく"
+        },
+        {
+          "kanji": "限界",
+          "reading": "げんかい"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "月",
+          "reading": "がつ"
+        },
+        {
+          "kanji": "最大",
+          "reading": "さいだい"
+        },
+        {
+          "kanji": "個",
+          "reading": "こ"
+        },
+        {
+          "kanji": "生産",
+          "reading": "せいさん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "最大生産個数",
+          "reading": "さいだいせいさんこすう"
+        },
+        {
+          "kanji": "全体",
+          "reading": "ぜんたい"
+        },
+        {
+          "kanji": "下回",
+          "reading": "げかい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "個生産",
+          "reading": "こせいさん"
+        },
+        {
+          "kanji": "選択肢",
+          "reading": "せんたくし"
+        },
+        {
+          "kanji": "正解",
+          "reading": "せいかい"
+        },
+        {
+          "kanji": "何個生産",
+          "reading": "なんこせいさん"
+        },
+        {
+          "kanji": "合計",
+          "reading": "ごうけい"
+        },
+        {
+          "kanji": "人日使",
+          "reading": "にんにちし"
+        },
+        {
+          "kanji": "残",
+          "reading": "ざん"
+        },
+        {
+          "kanji": "人日必要",
+          "reading": "にんにちひつよう"
+        },
+        {
+          "kanji": "生産個数",
+          "reading": "せいさんこすう"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "計算式",
+          "reading": "けいさんしき"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "人日",
+      "reading": "にんにち",
+      "romaji": "Ninnichi",
+      "vi": "Người-ngày",
+      "en": "Man-day",
+      "my": "Man-day"
+    },
+    {
+      "kanji": "人月",
+      "reading": "にんげつ",
+      "romaji": "Ningetsu",
+      "vi": "Người-tháng",
+      "en": "Man-month",
+      "my": "Man-month"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "is_calculation_lesson": true
+  }
+}

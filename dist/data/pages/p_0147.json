@@ -1,0 +1,361 @@
+{
+  "page_id": 147,
+  "image": "p_0147.png",
+  "chapter": 4,
+  "section": "04-02",
+  "page_number": 131,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "04-02",
+      "ja": "ビジネスシステム",
+      "reading": "びじねすしすてむ",
+      "vi": "Hệ thống kinh doanh",
+      "en": "Business System",
+      "my": "စီးပွားရေးစနစ်"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "世の中はシステムだらけ",
+        "vi": "Thế giới đầy hệ thống",
+        "en": "The World is Full of Systems",
+        "my": "ကမ္ဘာကြီး စနစ်များနှင့် ပြည့်နေသည်"
+      },
+      "content": {
+        "ja": "現在は多くの企業が何らかのビジネスシステムを導入し、活用しています。さまざまな分野のビジネスで利用されているシステムを知り、その特徴を理解することは、とても大切です。",
+        "vi": "Hiện nay nhiều doanh nghiệp đã áp dụng và sử dụng một số hệ thống kinh doanh. Việc biết các hệ thống được sử dụng trong các lĩnh vực kinh doanh khác nhau và hiểu đặc điểm của chúng rất quan trọng.",
+        "en": "Currently many companies have adopted and use some business system. Knowing systems used in various business fields and understanding their characteristics is very important.",
+        "my": "လောလောဆယ်တွင် ကုမ္ပဏီများ အများစုသည် စီးပွားရေးစနစ်တစ်ခုခုကို လက်ခံအသုံးပြုထားကြသည်။",
+        "terms": [
+          {
+            "kanji": "現在",
+            "reading": "げんざい"
+          },
+          {
+            "kanji": "多",
+            "reading": "おお"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "何",
+            "reading": "なに"
+          },
+          {
+            "kanji": "導入",
+            "reading": "どうにゅう"
+          },
+          {
+            "kanji": "活用",
+            "reading": "かつよう"
+          },
+          {
+            "kanji": "分野",
+            "reading": "ぶんや"
+          },
+          {
+            "kanji": "利用",
+            "reading": "りよう"
+          },
+          {
+            "kanji": "知",
+            "reading": "ち"
+          },
+          {
+            "kanji": "特徴",
+            "reading": "とくちょう"
+          },
+          {
+            "kanji": "理解",
+            "reading": "りかい"
+          },
+          {
+            "kanji": "大切",
+            "reading": "たいせつ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "世の中には多種多様な「システム」が存在します。そして、多くの企業は、自社が属する業界や業態、規模などに応じて、何らかのシステムを導入しています。システムを導入することで、作業の効率化などを実現できます。\n\n本項の内容において頻出なのは「RFID」「GPS」「AI」の3つの用語です。",
+      "vi": "Có rất nhiều loại hệ thống trong thế giới. Và nhiều doanh nghiệp áp dụng một số hệ thống phù hợp với ngành, loại hình kinh doanh và quy mô của mình. Bằng cách áp dụng hệ thống, có thể đạt được hiệu quả công việc.\n\nTrong nội dung phần này, 3 thuật ngữ hay ra đề là RFID, GPS, AI.",
+      "en": "Many types of systems exist in the world. And many companies adopt some system according to their industry, business type, and scale. By adopting systems, work efficiency can be achieved.\n\nIn this section's content, the 3 frequently tested terms are RFID, GPS, and AI.",
+      "my": "ကမ္ဘာတွင် စနစ်အမျိုးအစား အများအပြား ရှိသည်။",
+      "terms": [
+        {
+          "kanji": "世",
+          "reading": "よ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "多種多様",
+          "reading": "たしゅたよう"
+        },
+        {
+          "kanji": "存在",
+          "reading": "そんざい"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "属",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "業界",
+          "reading": "ぎょうかい"
+        },
+        {
+          "kanji": "業態",
+          "reading": "ぎょうたい"
+        },
+        {
+          "kanji": "規模",
+          "reading": "きぼ"
+        },
+        {
+          "kanji": "応",
+          "reading": "おう"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "導入",
+          "reading": "どうにゅう"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "効率化",
+          "reading": "こうりつか"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "頻出",
+          "reading": "ひんしゅつ"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "RFID",
+      "reading": "あーるえふあいでぃー",
+      "vi": "RFID",
+      "en": "RFID",
+      "my": "RFID"
+    },
+    {
+      "type": "paragraph",
+      "ja": "RFID（Radio Frequency Identification）とは、電波を用いることで、直接触れることなく情報をやりとりする技術です。鉄道や物流など、さまざまなビジネスで活用されています。Radio Frequencyは「無線周波数」という意味です。RFIDで情報を読み取れる距離は数cmから数mです。RFIDを利用した装置の代表例はICタグです。",
+      "vi": "RFID (Radio Frequency Identification) là công nghệ trao đổi thông tin bằng sóng vô tuyến mà không cần tiếp xúc trực tiếp. Được sử dụng trong nhiều lĩnh vực như đường sắt và vận chuyển. Radio Frequency nghĩa là tần số vô tuyến. Khoảng cách đọc thông tin RFID là từ vài cm đến vài m. Ví dụ đại diện của thiết bị sử dụng RFID là IC Tag.",
+      "en": "RFID (Radio Frequency Identification) is technology for exchanging information using radio waves without direct contact. Used in various businesses like railways and logistics. Radio Frequency means wireless frequency. RFID reading distance is from a few cm to several meters. A representative example of RFID devices is IC tag.",
+      "my": "RFID (Radio Frequency Identification) သည် တိုက်ရိုက်ထိတွေ့ခြင်းမရှိဘဲ ရေဒီယိုလှိုင်းများအသုံးပြု၍ အချက်အလက်ဖလှယ်သည့် နည်းပညာဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "電波",
+          "reading": "でんぱ"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "直接触",
+          "reading": "ちょくせつしょく"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "鉄道",
+          "reading": "てつどう"
+        },
+        {
+          "kanji": "物流",
+          "reading": "ぶつりゅう"
+        },
+        {
+          "kanji": "活用",
+          "reading": "かつよう"
+        },
+        {
+          "kanji": "無線周波数",
+          "reading": "むせんしゅうはすう"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "距離",
+          "reading": "きょり"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "代表例",
+          "reading": "だいひょうれい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ICタグ",
+      "vi": "IC Tag",
+      "en": "IC Tag"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ICタグとは、RFIDを利用した電子的な荷札です。ICタグは「RFIDタグ」とも呼ばれます。ICタグは「ICチップ」と呼ばれる極小の集積回路（Integrated Circuit：IC）と、アンテナで構成される装置です。ICチップで、データ処理や保存を行うことができます。\n\nまた、ICチップをカードに搭載したものを「ICカード」と呼びます。ICカードの代表例は、SuicaやPASMO、ICOCA、PiTaPaなどの鉄道各社が発行するICカード",
+      "vi": "IC Tag là thẻ hàng điện tử sử dụng RFID. IC Tag còn gọi là RFID Tag. IC Tag là thiết bị gồm mạch tích hợp cực nhỏ gọi là IC Chip (Integrated Circuit: IC) và ăng-ten. IC Chip có thể xử lý và lưu trữ dữ liệu.\n\nNgoài ra, IC Chip gắn trên thẻ gọi là IC Card. Ví dụ đại diện của IC Card là các thẻ do công ty đường sắt phát hành như Suica, PASMO, ICOCA, PiTaPa",
+      "en": "IC Tag is an electronic label using RFID. IC Tag is also called RFID Tag. IC Tag is a device consisting of a tiny integrated circuit (IC Chip) and antenna. IC Chip can process and store data.\n\nAlso, IC Chip mounted on a card is called IC Card. Representative examples of IC Cards are cards issued by railway companies like Suica, PASMO, ICOCA, PiTaPa",
+      "my": "IC Tag သည် RFID အသုံးပြု၍ အီလက်ထရောနစ် တံဆိပ်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "電子的",
+          "reading": "でんしてき"
+        },
+        {
+          "kanji": "荷札",
+          "reading": "にふだ"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "極小",
+          "reading": "きょくしょう"
+        },
+        {
+          "kanji": "集積回路",
+          "reading": "しゅうせきかいろ"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "装置",
+          "reading": "そうち"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "搭載",
+          "reading": "とうさい"
+        },
+        {
+          "kanji": "代表例",
+          "reading": "だいひょうれい"
+        },
+        {
+          "kanji": "鉄道各社",
+          "reading": "てつどうかくしゃ"
+        },
+        {
+          "kanji": "発行",
+          "reading": "はっこう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "RFID",
+      "reading": "あーるえふあいでぃー",
+      "romaji": "Radio Frequency Identification",
+      "vi": "Nhận dạng tần số vô tuyến",
+      "en": "Radio Frequency Identification",
+      "my": "RFID"
+    },
+    {
+      "kanji": "ICタグ",
+      "reading": "あいしーたぐ",
+      "romaji": "IC Tag",
+      "vi": "Thẻ IC",
+      "en": "IC Tag",
+      "my": "IC Tag"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

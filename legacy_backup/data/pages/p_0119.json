@@ -1,0 +1,474 @@
+{
+  "page_id": 119,
+  "image": "p_0119.png",
+  "chapter": 3,
+  "section": "03-02",
+  "page_number": 103,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "ここに分類された製品は市場成長率が高いため、競合に勝つためにたくさんの投資が必要ですが、その割に、市場占有率が低いため収益をあまり生み出しません。ここでの競争に勝つと「花形」になります。つまり、現時点では問題児（お金ばかりかかって、収益は少ない製品）ではあるけれど、将来的に成長する可能性がある製品の場合は、投資を継続します。製品の育成期間とも考えられます。",
+      "vi": "Sản phẩm được phân loại ở đây cần đầu tư nhiều để thắng đối thủ vì tốc độ tăng trưởng cao, nhưng vì thị phần thấp nên không tạo ra nhiều lợi nhuận. Nếu thắng cạnh tranh ở đây sẽ trở thành Ngôi sao. Nghĩa là, hiện tại là Dấu hỏi (sản phẩm tốn tiền nhưng lợi nhuận ít), nhưng nếu là sản phẩm có khả năng tăng trưởng trong tương lai thì tiếp tục đầu tư. Cũng được coi là giai đoạn nuôi dưỡng sản phẩm.",
+      "en": "Products here need lots of investment to beat competitors due to high growth, but generate little profit due to low share. Winning competition here leads to Star. Currently Question Mark (costing money but little profit), but if product has future growth potential, continue investing. Also considered product nurturing period.",
+      "my": "ဤနေရာရှိ ထုတ်ကုန်များသည် တိုးတက်မှုမြင့်သောကြောင့် ပြိုင်ဘက်များကို အနိုင်ယူရန် ရင်းနှီးမြှုပ်နှံမှု များစွာလိုအပ်သော်လည်း ဝေစု နိမ့်သောကြောင့် အမြတ်အစွန်း အနည်းငယ်သာ ရရှိသည်။",
+      "terms": [
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "市場成長率",
+          "reading": "しじょうせいちょうりつ"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "競合",
+          "reading": "きょうごう"
+        },
+        {
+          "kanji": "勝",
+          "reading": "かち"
+        },
+        {
+          "kanji": "投資",
+          "reading": "とうし"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "割",
+          "reading": "わり"
+        },
+        {
+          "kanji": "市場占有率",
+          "reading": "しじょうせんゆうりつ"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "収益",
+          "reading": "しゅうえき"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "競争",
+          "reading": "きょうそう"
+        },
+        {
+          "kanji": "花形",
+          "reading": "はながた"
+        },
+        {
+          "kanji": "現時点",
+          "reading": "げんじてん"
+        },
+        {
+          "kanji": "問題児",
+          "reading": "もんだいじ"
+        },
+        {
+          "kanji": "金",
+          "reading": "きん"
+        },
+        {
+          "kanji": "少",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "将来的",
+          "reading": "しょうらいてき"
+        },
+        {
+          "kanji": "成長",
+          "reading": "せいちょう"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "継続",
+          "reading": "けいぞく"
+        },
+        {
+          "kanji": "育成期間",
+          "reading": "いくせいきかん"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "金のなる木",
+      "reading": "かねのなるき",
+      "vi": "Bò sữa (Cash Cow)",
+      "en": "Cash Cow"
+    },
+    {
+      "type": "paragraph",
+      "ja": "金のなる木とは、市場成長率が低く、かつ市場占有率（シェア）が高い製品です。ここに分類された製品は市場成長率が低いので追加の投資は必要ありません。また、市場占有率が高いため大きな収益を生みます。企業にとっては最も手に入れたい製品といえます。金のなる木で得た利益を資金として、問題児や花形のために投資を行います。なお、金のなる木もすべての消費者に製品が行き渡ると需要が減るため、最終的には衰退し、負け犬になります。",
+      "vi": "Bò sữa là sản phẩm có tốc độ tăng trưởng thị trường thấp nhưng thị phần cao. Sản phẩm được phân loại ở đây không cần đầu tư thêm vì tốc độ tăng trưởng thấp. Mặt khác, tạo ra lợi nhuận lớn vì thị phần cao. Là sản phẩm mà doanh nghiệp muốn có nhất. Lấy lợi nhuận từ Bò sữa làm nguồn vốn để đầu tư cho Dấu hỏi và Ngôi sao. Lưu ý, khi sản phẩm đến tay tất cả người tiêu dùng, nhu cầu giảm nên Bò sữa cuối cùng sẽ suy thoái và trở thành Chó.",
+      "en": "Cash Cow has low market growth rate but high market share. Products here don't need additional investment due to low growth. Also generate large profits due to high share. The most desirable product for companies. Use Cash Cow profits as capital to invest in Question Marks and Stars. Note that when products reach all consumers, demand decreases, so Cash Cows eventually decline to Dogs.",
+      "my": "Cash Cow သည် ဈေးကွက်တိုးတက်မှုနှုန်း နိမ့်သော်လည်း ဈေးကွက်ဝေစု မြင့်သည်။",
+      "terms": [
+        {
+          "kanji": "金",
+          "reading": "きん"
+        },
+        {
+          "kanji": "木",
+          "reading": "き"
+        },
+        {
+          "kanji": "市場成長率",
+          "reading": "しじょうせいちょうりつ"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "市場占有率",
+          "reading": "しじょうせんゆうりつ"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "追加",
+          "reading": "ついか"
+        },
+        {
+          "kanji": "投資",
+          "reading": "とうし"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "収益",
+          "reading": "しゅうえき"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "手",
+          "reading": "て"
+        },
+        {
+          "kanji": "入",
+          "reading": "にゅう"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "利益",
+          "reading": "りえき"
+        },
+        {
+          "kanji": "資金",
+          "reading": "しきん"
+        },
+        {
+          "kanji": "問題児",
+          "reading": "もんだいじ"
+        },
+        {
+          "kanji": "花形",
+          "reading": "はながた"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "消費者",
+          "reading": "しょうひしゃ"
+        },
+        {
+          "kanji": "渡",
+          "reading": "わたり"
+        },
+        {
+          "kanji": "需要",
+          "reading": "じゅよう"
+        },
+        {
+          "kanji": "減",
+          "reading": "げん"
+        },
+        {
+          "kanji": "最終的",
+          "reading": "さいしゅうてき"
+        },
+        {
+          "kanji": "衰退",
+          "reading": "すいたい"
+        },
+        {
+          "kanji": "負",
+          "reading": "ふ"
+        },
+        {
+          "kanji": "犬",
+          "reading": "いぬ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "負け犬",
+      "reading": "まけいぬ",
+      "vi": "Chó (Dog)",
+      "en": "Dog"
+    },
+    {
+      "type": "paragraph",
+      "ja": "負け犬とは、市場成長率が低く、かつ市場占有率（シェア）の低い製品です。ここに分類された製品は市場成長率が低いため投資の必要はありません。また市場占有率が低いため収益が少なく、また今後にも期待できません。企業は負け犬となった製品から撤退する必要があります。花形や問題児は競争に負けると負け犬になる、と覚えましょう。",
+      "vi": "Chó là sản phẩm có tốc độ tăng trưởng thị trường thấp và thị phần thấp. Sản phẩm được phân loại ở đây không cần đầu tư vì tốc độ tăng trưởng thấp. Mặt khác, lợi nhuận ít vì thị phần thấp và cũng không thể kỳ vọng trong tương lai. Doanh nghiệp cần rút lui khỏi sản phẩm đã thành Chó. Hãy nhớ Ngôi sao và Dấu hỏi nếu thua cạnh tranh sẽ thành Chó.",
+      "en": "Dog has low market growth rate and low market share. Products here don't need investment due to low growth. Also have little profit due to low share and no future expectations. Companies need to withdraw from Dog products. Remember Stars and Question Marks become Dogs if they lose competition.",
+      "my": "Dog သည် ဈေးကွက်တိုးတက်မှုနှုန်း နိမ့်ပြီး ဈေးကွက်ဝေစု နိမ့်သည်။",
+      "terms": [
+        {
+          "kanji": "負",
+          "reading": "ふ"
+        },
+        {
+          "kanji": "犬",
+          "reading": "いぬ"
+        },
+        {
+          "kanji": "市場成長率",
+          "reading": "しじょうせいちょうりつ"
+        },
+        {
+          "kanji": "低",
+          "reading": "てい"
+        },
+        {
+          "kanji": "市場占有率",
+          "reading": "しじょうせんゆうりつ"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "投資",
+          "reading": "とうし"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "収益",
+          "reading": "しゅうえき"
+        },
+        {
+          "kanji": "少",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "今後",
+          "reading": "こんご"
+        },
+        {
+          "kanji": "期待",
+          "reading": "きたい"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "撤退",
+          "reading": "てったい"
+        },
+        {
+          "kanji": "花形",
+          "reading": "はながた"
+        },
+        {
+          "kanji": "問題児",
+          "reading": "もんだいじ"
+        },
+        {
+          "kanji": "競争",
+          "reading": "きょうそう"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・白紙の状態からPPMの図が描けるようになること（縦軸・横軸と4つのエリア）\n・PPMの縦軸は市場成長率、横軸は市場占有率\n・花形と問題児には投資を続け、金のなる木と負け犬には追加投資は不要",
+        "vi": "・Có thể vẽ sơ đồ PPM từ trạng thái trắng (trục dọc/ngang và 4 vùng)\n・Trục dọc PPM là tốc độ tăng trưởng thị trường, trục ngang là thị phần\n・Tiếp tục đầu tư cho Ngôi sao và Dấu hỏi, không cần đầu tư thêm cho Bò sữa và Chó",
+        "en": "・Be able to draw PPM diagram from scratch (axes and 4 areas)\n・PPM vertical axis is market growth rate, horizontal is market share\n・Continue investing in Star and Question Mark, no additional investment needed for Cash Cow and Dog",
+        "my": "・ PPM ပုံကို အစကနေ ဆွဲနိုင်ရမည် (ဝင်ရိုးများနှင့် နယ်မြေ ၄ ခု)",
+        "terms": [
+          {
+            "kanji": "白紙",
+            "reading": "はくし"
+          },
+          {
+            "kanji": "状態",
+            "reading": "じょうたい"
+          },
+          {
+            "kanji": "図",
+            "reading": "ず"
+          },
+          {
+            "kanji": "描",
+            "reading": "びょう"
+          },
+          {
+            "kanji": "縦軸",
+            "reading": "たてじく"
+          },
+          {
+            "kanji": "横軸",
+            "reading": "よこじく"
+          },
+          {
+            "kanji": "市場成長率",
+            "reading": "しじょうせいちょうりつ"
+          },
+          {
+            "kanji": "市場占有率",
+            "reading": "しじょうせんゆうりつ"
+          },
+          {
+            "kanji": "花形",
+            "reading": "はながた"
+          },
+          {
+            "kanji": "問題児",
+            "reading": "もんだいじ"
+          },
+          {
+            "kanji": "投資",
+            "reading": "とうし"
+          },
+          {
+            "kanji": "続",
+            "reading": "ぞく"
+          },
+          {
+            "kanji": "金",
+            "reading": "きん"
+          },
+          {
+            "kanji": "木",
+            "reading": "き"
+          },
+          {
+            "kanji": "負",
+            "reading": "ふ"
+          },
+          {
+            "kanji": "犬",
+            "reading": "いぬ"
+          },
+          {
+            "kanji": "追加投資",
+            "reading": "ついかとうし"
+          },
+          {
+            "kanji": "不要",
+            "reading": "ふよう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "負け犬",
+      "reading": "まけいぬ",
+      "romaji": "Makeinu",
+      "vi": "Chó",
+      "en": "Dog",
+      "my": "Dog"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

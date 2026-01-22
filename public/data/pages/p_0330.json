@@ -1,0 +1,136 @@
+{
+    "page_id": 330,
+    "image": "p_0330.png",
+    "chapter": 8,
+    "section": "answers",
+    "page_number": 314,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "8-17",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "ITガバナンスとは、ITを適切に活用して、企業をあるべき姿に導くための仕組みを、企業に組み込むことです。",
+                "vi": "IT Governance là tích hợp cơ chế sử dụng IT phù hợp để dẫn doanh nghiệp đến hình dáng lý tưởng vào doanh nghiệp.",
+                "en": "IT Governance is incorporating mechanism using IT appropriately to lead company to ideal form into company."
+            },
+            "choices_explanation": {
+                "ア": {
+                    "ja": "ITILの説明です。ITILのキーワードは「ベストプラクティス」です。",
+                    "vi": "Là giải thích về ITIL. Từ khóa của ITIL là \"Best Practice\".",
+                    "en": "This is ITIL explanation. ITIL keyword is 'Best Practice.'"
+                },
+                "ウ": {
+                    "ja": "RFP（Request For Proposal）の説明です。",
+                    "vi": "Là giải thích về RFP (Request For Proposal).",
+                    "en": "This is RFP (Request For Proposal) explanation."
+                },
+                "エ": {
+                    "ja": "SLA（Service Level Agreement）の説明です。",
+                    "vi": "Là giải thích về SLA (Service Level Agreement).",
+                    "en": "This is SLA (Service Level Agreement) explanation."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-18",
+            "correct_answer": "ウ",
+            "explanation": {
+                "ja": "内部統制を整備運用する最終責任者は経営者です。",
+                "vi": "Người chịu trách nhiệm cuối cùng thiết lập và vận hành Internal Control là ban lãnh đạo.",
+                "en": "Final responsible person for establishing and operating Internal Control is management."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-19",
+            "correct_answer": "ア",
+            "explanation": {
+                "ja": "「計画」がPlanとわかって、選択肢には「ERP」や「RFP」など、「P」で終わる略語が複数あります。「継続」がContinuityだとわかれば正解にたどり着けます。",
+                "vi": "Biết \"Kế hoạch\" là Plan, trong các lựa chọn có nhiều từ viết tắt kết thúc bằng \"P\" như \"ERP\" hay \"RFP\". Nếu biết \"Tiếp tục\" là Continuity thì có thể đến đáp án đúng.",
+                "en": "Knowing 'Plan' is Plan, choices have multiple abbreviations ending in 'P' like 'ERP' and 'RFP.' If know 'Continuity' is Continuity, can reach correct answer."
+            },
+            "choices_explanation": {
+                "イ": {
+                    "ja": "BPRは、業務プロセスを抜本的に再設計する手法です。",
+                    "vi": "BPR là phương pháp tái thiết kế quy trình nghiệp vụ từ căn bản.",
+                    "en": "BPR is method to fundamentally redesign business processes."
+                },
+                "ウ": {
+                    "ja": "ERPは、社内の経営資源を一元管理する手法です。",
+                    "vi": "ERP là phương pháp quản lý tập trung tài nguyên kinh doanh trong công ty.",
+                    "en": "ERP is method to centrally manage company's business resources."
+                },
+                "エ": {
+                    "ja": "RFPは提案依頼書です。",
+                    "vi": "RFP là thư yêu cầu đề xuất.",
+                    "en": "RFP is Request For Proposal."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-20",
+            "correct_answer": "イ",
+            "explanation": {
+                "ja": "記述内容a～dの正誤は以下の通りです。",
+                "vi": "Đúng sai của nội dung a～d như sau.",
+                "en": "Correctness of content a～d is as follows."
+            },
+            "choices_explanation": {
+                "a": {
+                    "ja": "正しい。監査計画の立案はシステム監査人の役割です。",
+                    "vi": "Đúng. Lập kế hoạch audit là vai trò của System Auditor.",
+                    "en": "Correct. Creating audit plan is System Auditor's role."
+                },
+                "b": {
+                    "ja": "誤り。監査報告書の作成はシステム監査人の役割ですが、社内への公開は経営者（依頼人）の役割です。",
+                    "vi": "Sai. Tạo báo cáo audit là vai trò của System Auditor, nhưng công khai trong công ty là vai trò của ban lãnh đạo (Client).",
+                    "en": "Wrong. Creating audit report is System Auditor's role, but disclosure within company is management (Client) role."
+                },
+                "c": {
+                    "ja": "誤り。改善の指示は経営者（依頼人）の役割です。",
+                    "vi": "Sai. Chỉ thị cải thiện là vai trò của ban lãnh đạo (Client).",
+                    "en": "Wrong. Improvement instruction is management (Client) role."
+                },
+                "d": {
+                    "ja": "正しい。フォローアップはシステム監査人の役割です。",
+                    "vi": "Đúng. Follow-up là vai trò của System Auditor.",
+                    "en": "Correct. Follow-up is System Auditor's role."
+                }
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "8-21",
+            "correct_answer": "ア",
+            "explanation": {
+                "ja": "職務分掌とは、担当者の役割や仕事の権限を明確にすることです。各担当者の業務範囲が明確になり、権限が分散されることで、担当者間で相互にチェック機能が働き、業務の不正や誤りが生じるリスクを軽減できます。例えば、経費などの申請を行う際に、申請者と承認者を分けることで、不正申請や申請ミスを防ぐことができます。",
+                "vi": "Separation of Duties là làm rõ vai trò và quyền hạn công việc của người phụ trách. Phạm vi nghiệp vụ của từng người phụ trách trở nên rõ ràng, quyền hạn được phân tán, nên chức năng kiểm tra lẫn nhau giữa người phụ trách hoạt động, giảm Risk gian lận hoặc sai sót nghiệp vụ. Ví dụ, khi yêu cầu chi phí, bằng cách tách biệt người yêu cầu và người phê duyệt, có thể ngăn chặn yêu cầu gian lận hoặc sai sót yêu cầu.",
+                "en": "Separation of Duties is clarifying role and work authority of person in charge. Each person's business scope becomes clear, authority is distributed, so mutual check function works between persons, reducing Risk of business fraud or errors. For example, when requesting expenses, by separating applicant and approver, can prevent fraudulent applications or application errors."
+            },
+            "choices_explanation": {
+                "イ": {
+                    "ja": "申請部署と承認部署の役員が同一人物の場合、その人が不正を行った場合にチェックができないため、不正防止できません。",
+                    "vi": "Nếu giám đốc bộ phận yêu cầu và bộ phận phê duyệt là cùng một người, không thể kiểm tra khi người đó gian lận, nên không thể ngăn chặn gian lận.",
+                    "en": "If director of application and approval departments is same person, can't check when that person commits fraud, so can't prevent fraud."
+                },
+                "ウ": {
+                    "ja": "同一の業務を複数人で分担するだけなので、「申請と承認」などの役割が分かれていません。",
+                    "vi": "Chỉ chia nhau cùng một công việc cho nhiều người nên vai trò như \"yêu cầu và phê duyệt\" không được phân chia.",
+                    "en": "Just distributing same task to multiple people, so roles like 'application and approval' aren't separated."
+                },
+                "エ": {
+                    "ja": "同一の業務を複数部署で分担するだけなので、「申請と承認」などの役割が分かれていません。",
+                    "vi": "Chỉ phân tán cùng một công việc cho nhiều bộ phận nên vai trò như \"yêu cầu và phê duyệt\" không được phân chia.",
+                    "en": "Just distributing same task to multiple departments, so roles like 'application and approval' aren't separated."
+                }
+            }
+        }
+    ],
+    "meta": {
+        "has_answers": true,
+        "answer_count": 5
+    }
+}

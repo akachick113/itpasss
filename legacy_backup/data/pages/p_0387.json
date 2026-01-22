@@ -1,0 +1,100 @@
+{
+    "page_id": 387,
+    "image": "p_0387.png",
+    "chapter": 10,
+    "section": "intro",
+    "page_number": 371,
+    "content": [
+        {
+            "type": "chapter_header",
+            "number": 10,
+            "title": {
+                "ja": "コンピュータシステム",
+                "vi": "Hệ thống Máy tính",
+                "en": "Computer Systems"
+            }
+        },
+        {
+            "type": "chapter_overview",
+            "title": {
+                "ja": "この章のポイント！",
+                "vi": "Điểm quan trọng của chương này!",
+                "en": "Key Points of This Chapter!"
+            },
+            "content": {
+                "ja": "本章では、コンピュータの基本的な構成や役割を解説します。大きく「コンピュータ構成要素」と「システム構成要素」の2つの分野を取り上げます。各分野をしっかりと理解しながら読み進めてください。本章を読み終わる頃には、コンピュータの仕組みが見えているはずです。",
+                "vi": "Chương này giải thích cấu trúc cơ bản và vai trò của máy tính. Chương đề cập đến 2 lĩnh vực lớn là \"Thành phần máy tính\" và \"Thành phần hệ thống\". Hãy đọc kỹ và hiểu từng lĩnh vực. Khi đọc xong chương này, bạn sẽ thấy được cơ chế hoạt động của máy tính.",
+                "en": "This chapter explains basic structure and role of computers. Covers 2 major fields: 'Computer Components' and 'System Components.' Please read while understanding each field well. By end of this chapter, you should see how computers work."
+            }
+        },
+        {
+            "type": "study_points",
+            "title": {
+                "ja": "ここに注目して読もう！",
+                "vi": "Hãy chú ý đọc phần này!",
+                "en": "Focus on these points!"
+            },
+            "items": [
+                {
+                    "ja": "システムの構成、処理形態、利用形態の特徴",
+                    "vi": "Đặc điểm của cấu trúc hệ thống, hình thức xử lý, hình thức sử dụng",
+                    "en": "Features of system structure, processing types, usage types"
+                },
+                {
+                    "ja": "クライアントサーバシステムや仮想化システムの特徴",
+                    "vi": "Đặc điểm của hệ thống client-server và hệ thống ảo hóa",
+                    "en": "Features of client-server systems and virtualization systems"
+                },
+                {
+                    "ja": "Webシステムの特徴",
+                    "vi": "Đặc điểm của hệ thống Web",
+                    "en": "Features of Web systems"
+                },
+                {
+                    "ja": "システムの性能・信頼性・経済性の考え方",
+                    "vi": "Cách nghĩ về hiệu suất, độ tin cậy, tính kinh tế của hệ thống",
+                    "en": "Concepts of system performance, reliability, economy"
+                }
+            ],
+            "reference_url": "https://www.ipa.go.jp/shiken/syllabus/nI10b0000007sxy-att/syllabus_ip_ver6_4.pdf"
+        },
+        {
+            "type": "exam_scope",
+            "title": {
+                "ja": "試験範囲全体における本章の位置づけ",
+                "vi": "Vị trí của chương này trong phạm vi thi",
+                "en": "Position of This Chapter in Exam Scope"
+            },
+            "categories": [
+                {
+                    "field": "ストラテジ系",
+                    "areas": [
+                        "企業と法務",
+                        "経営戦略",
+                        "システム戦略"
+                    ]
+                },
+                {
+                    "field": "マネジメント系",
+                    "areas": [
+                        "開発技術",
+                        "プロジェクトマネジメント",
+                        "サービスマネジメント"
+                    ]
+                },
+                {
+                    "field": "テクノロジ系",
+                    "areas": [
+                        "基礎理論",
+                        "コンピュータシステム"
+                    ],
+                    "highlight": "コンピュータシステム"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "is_chapter_intro": true
+    }
+}

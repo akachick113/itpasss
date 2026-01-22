@@ -1,0 +1,608 @@
+{
+  "page_id": 18,
+  "image": "p_0018.png",
+  "chapter": 0,
+  "section": "00-01",
+  "page_number": 1,
+  "content": [
+    {
+      "type": "lesson_header",
+      "lesson_number": "00-01",
+      "ja": "ITパスポート試験とは",
+      "reading": "ITぱすぽーとしけんとは",
+      "vi": "Kỳ thi IT Passport là gì",
+      "en": "What is the IT Passport Exam",
+      "my": "IT Passport စာမေးပွဲဆိုသည်မှာ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験は、情報処理推進機構（IPA）が実施し、経済産業省が認定する日本の国家試験です。ITパスポート試験の公式サイトでは、ITパスポート試験を次のように定義しています。",
+      "vi": "Kỳ thi IT Passport (ITパスポート試験) là kỳ thi quốc gia của Nhật Bản do Cơ quan Xúc tiến Xử lý Thông tin (IPA) tổ chức và được Bộ Kinh tế, Thương mại và Công nghiệp chứng nhận. Trang web chính thức của kỳ thi IT Passport định nghĩa kỳ thi như sau:",
+      "en": "The IT Passport Exam is a national examination in Japan conducted by the Information-technology Promotion Agency (IPA) and certified by the Ministry of Economy, Trade and Industry. The official IT Passport website defines the exam as follows:",
+      "my": "IT Passport စာမေးပွဲသည် သတင်းအချက်အလက်နည်းပညာမြှင့်တင်ရေးအေဂျင်စီ (IPA) မှ ကျင်းပသော ဂျပန်နိုင်ငံ၏ အမျိုးသားစာမေးပွဲဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "情報処理推進機構",
+          "reading": "じょうほうしょりすいしんきこう"
+        },
+        {
+          "kanji": "実施",
+          "reading": "じっし"
+        },
+        {
+          "kanji": "経済産業省",
+          "reading": "けいざいさんぎょうしょう"
+        },
+        {
+          "kanji": "認定",
+          "reading": "にんてい"
+        },
+        {
+          "kanji": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "kanji": "国家試験",
+          "reading": "こっかしけん"
+        },
+        {
+          "kanji": "公式",
+          "reading": "こうしき"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        }
+      ]
+    },
+    {
+      "type": "quote_box",
+      "ja": "iパスは、ITを利活用するすべての社会人・これから社会人となる学生が備えておくべき、ITに関する基礎的な知識が証明できる国家試験です。",
+      "vi": "iPass là kỳ thi quốc gia có thể chứng minh kiến thức cơ bản về IT mà tất cả người đi làm đang sử dụng IT và sinh viên sắp trở thành người đi làm nên trang bị.",
+      "en": "iPass is a national examination that certifies the basic IT knowledge that all working professionals who use IT and students who will become working professionals should have.",
+      "my": "iPass သည် IT အသုံးပြုသူများနှင့် အလုပ်သမားဖြစ်လာမည့် ကျောင်းသားများ သိထားသင့်သော IT အခြေခံဗဟုသုတကို သက်သေပြနိုင်သော အမျိုးသားစာမေးပွဲဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "利活用",
+          "reading": "りかつよう"
+        },
+        {
+          "kanji": "社会人",
+          "reading": "しゃかいじん"
+        },
+        {
+          "kanji": "学生",
+          "reading": "がくせい"
+        },
+        {
+          "kanji": "備",
+          "reading": "そな"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "基礎的",
+          "reading": "きそてき"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "証明",
+          "reading": "しょうめい"
+        },
+        {
+          "kanji": "国家試験",
+          "reading": "こっかしけん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "「国家試験」と聞くと、とても難しい試験のように感じる人も多いと思いますがご安心ください。きちんと準備に時間を掛ければ、一発で合格することも可能な試験ですのなし。しかし、だからといって甘く見てはいけません。「私も合格できた」と言っている人の陰で不合格になってしまう人もたくさんいます。試験の内容や出題傾向などを把握したうえで、しっかりと試験対策することが大切です。",
+      "vi": "Nghe đến \"kỳ thi quốc gia\", nhiều người có thể cảm thấy đây là một kỳ thi rất khó, nhưng xin hãy yên tâm. Nếu bạn dành thời gian chuẩn bị đúng cách, đây là kỳ thi mà bạn hoàn toàn có thể đỗ ngay lần thi đầu tiên. Tuy nhiên, không vì thế mà xem thường. Đằng sau những người nói \"Tôi cũng đã đỗ\" có rất nhiều người đã trượt. Điều quan trọng là phải nắm bắt nội dung kỳ thi và xu hướng ra đề, sau đó chuẩn bị kỹ lưỡng cho kỳ thi.",
+      "en": "When you hear 'national examination', many people may feel it's a very difficult exam, but please rest assured. If you spend proper time preparing, it is an exam you can pass on your first attempt. However, that doesn't mean you should underestimate it. Behind those who say 'I also passed' are many who failed. It's important to understand the exam content and question trends, then prepare thoroughly.",
+      "my": "\"အမျိုးသားစာမေးပွဲ\" ဟုကြားလျှင် လူများစွာက အလွန်ခက်ခဲသောစာမေးပွဲဟု ခံစားရနိုင်သော်လည်း စိတ်ချပါ။ ပြင်ဆင်မှုအတွက် အချိန်ပေးလျှင် ပထမအကြိမ်တွင်ပင် အောင်မြင်နိုင်သောစာမေးပွဲဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "国家試験",
+          "reading": "こっかしけん"
+        },
+        {
+          "kanji": "聞",
+          "reading": "き"
+        },
+        {
+          "kanji": "難",
+          "reading": "むずか"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "感",
+          "reading": "かん"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "安心",
+          "reading": "あんしん"
+        },
+        {
+          "kanji": "準備",
+          "reading": "じゅんび"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "掛",
+          "reading": "か"
+        },
+        {
+          "kanji": "一発",
+          "reading": "いっぱつ"
+        },
+        {
+          "kanji": "合格",
+          "reading": "ごうかく"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        },
+        {
+          "kanji": "甘",
+          "reading": "あま"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "私",
+          "reading": "わたし"
+        },
+        {
+          "kanji": "言",
+          "reading": "い"
+        },
+        {
+          "kanji": "陰",
+          "reading": "いん"
+        },
+        {
+          "kanji": "不合格",
+          "reading": "ふごうかく"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "出題傾向",
+          "reading": "しゅつだいけいこう"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        },
+        {
+          "kanji": "試験対策",
+          "reading": "しけんたいさく"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "きちんと試験対策をすることが大切!",
+        "vi": "Việc chuẩn bị kỹ lưỡng cho kỳ thi là quan trọng!",
+        "en": "Proper exam preparation is important!",
+        "my": "စာမေးပွဲပြင်ဆင်မှုကို သေချာလုပ်ရန် အရေးကြီးသည်!",
+        "terms": [
+          {
+            "kanji": "試験対策",
+            "reading": "しけんたいさく"
+          },
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "大切",
+            "reading": "たいせつ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験に一発合格するために、しっかり準備することが重要です。この本を使って効率よく学習しましょう。",
+        "vi": "Để đỗ kỳ thi IT Passport ngay lần đầu, việc chuẩn bị kỹ lưỡng là rất quan trọng. Hãy sử dụng cuốn sách này để học tập hiệu quả.",
+        "en": "To pass the IT Passport exam on your first try, thorough preparation is important. Let's study efficiently using this book.",
+        "my": "IT Passport စာမေးပွဲကို ပထမအကြိမ်တွင် အောင်မြင်ရန် သေချာပြင်ဆင်ရန် အရေးကြီးသည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "一発合格",
+            "reading": "いっぱつごうかく"
+          },
+          {
+            "kanji": "準備",
+            "reading": "じゅんび"
+          },
+          {
+            "kanji": "重要",
+            "reading": "じゅうよう"
+          },
+          {
+            "kanji": "本",
+            "reading": "ほん"
+          },
+          {
+            "kanji": "使",
+            "reading": "つか"
+          },
+          {
+            "kanji": "効率",
+            "reading": "こうりつ"
+          },
+          {
+            "kanji": "学習",
+            "reading": "がくしゅう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "受験資格と試験の概要",
+      "reading": "じゅけんしかくとしけんのがいよう",
+      "vi": "Điều kiện dự thi và Tổng quan kỳ thi",
+      "en": "Exam Eligibility and Overview",
+      "my": "စာမေးပွဲဝင်ခွင့်နှင့် အကျဉ်းချုပ်"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験には、受験資格（年齢・性別・学歴・国籍・受験に必要な資格など）はありません。誰でも受験できます。",
+      "vi": "Kỳ thi IT Passport không có điều kiện dự thi (tuổi, giới tính, học vấn, quốc tịch, bằng cấp cần thiết để thi, v.v.). Bất kỳ ai cũng có thể dự thi.",
+      "en": "There are no eligibility requirements for the IT Passport exam (age, gender, education, nationality, required qualifications, etc.). Anyone can take the exam.",
+      "my": "IT Passport စာမေးပွဲအတွက် အရည်အချင်းသတ်မှတ်ချက်များ (အသက်၊ ကျား/မ၊ ပညာရေး၊ နိုင်ငံသား၊ လိုအပ်သောအရည်အချင်း) မရှိပါ။ မည်သူမဆို စာမေးပွဲဝင်နိုင်သည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "受験資格",
+          "reading": "じゅけんしかく"
+        },
+        {
+          "kanji": "年齢",
+          "reading": "ねんれい"
+        },
+        {
+          "kanji": "性別",
+          "reading": "せいべつ"
+        },
+        {
+          "kanji": "学歴",
+          "reading": "がくれき"
+        },
+        {
+          "kanji": "国籍",
+          "reading": "こくせき"
+        },
+        {
+          "kanji": "受験",
+          "reading": "じゅけん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "資格",
+          "reading": "しかく"
+        },
+        {
+          "kanji": "誰",
+          "reading": "だれ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "現在、ITパスポート試験の応募者累計は234万人を超えています。そのうち、社会人が77%、学生が22%となっています。また、社会人のうち、IT企業に勤務している人が18%、非IT企業に勤務している人が59%となっています。",
+      "vi": "Hiện tại, tổng số người đăng ký thi IT Passport đã vượt quá 2,34 triệu người. Trong đó, người đi làm chiếm 77%, sinh viên chiếm 22%. Trong số người đi làm, 18% làm việc tại các công ty IT và 59% làm việc tại các công ty không thuộc lĩnh vực IT.",
+      "en": "Currently, the cumulative number of IT Passport exam applicants has exceeded 2.34 million. Of these, working professionals account for 77% and students for 22%. Among working professionals, 18% work at IT companies and 59% work at non-IT companies.",
+      "my": "လက်ရှိတွင် IT Passport စာမေးပွဲလျှောက်ထားသူ စုစုပေါင်း ၂.၃၄ သန်းကျော်ရှိသည်။ ထိုအထဲမှ အလုပ်သမား ၇၇%၊ ကျောင်းသား ၂၂% ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "応募者累計",
+          "reading": "おうぼしゃるいけい"
+        },
+        {
+          "kanji": "万人",
+          "reading": "ばんにん"
+        },
+        {
+          "kanji": "超",
+          "reading": "こ"
+        },
+        {
+          "kanji": "社会人",
+          "reading": "しゃかいじん"
+        },
+        {
+          "kanji": "学生",
+          "reading": "がくせい"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "勤務",
+          "reading": "きんむ"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "非",
+          "reading": "ひ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "情報処理推進機構",
+      "reading": "じょうほうしょりすいしんきこう",
+      "romaji": "Jouhou Shori Suishin Kikou",
+      "vi": "Cơ quan Xúc tiến Xử lý Thông tin (IPA)",
+      "en": "Information-technology Promotion Agency (IPA)",
+      "my": "သတင်းအချက်အလက်နည်းပညာမြှင့်တင်ရေးအေဂျင်စီ"
+    },
+    {
+      "kanji": "経済産業省",
+      "reading": "けいざいさんぎょうしょう",
+      "romaji": "Keizai Sangyoushou",
+      "vi": "Bộ Kinh tế, Thương mại và Công nghiệp",
+      "en": "Ministry of Economy, Trade and Industry",
+      "my": "စီးပွားရေးနှင့်စက်မှုဝန်ကြီးဌာန"
+    },
+    {
+      "kanji": "国家試験",
+      "reading": "こっかしけん",
+      "romaji": "Kokka Shiken",
+      "vi": "Kỳ thi quốc gia",
+      "en": "National Examination",
+      "my": "အမျိုးသားစာမေးပွဲ"
+    },
+    {
+      "kanji": "公式",
+      "reading": "こうしき",
+      "romaji": "Koushiki",
+      "vi": "Chính thức",
+      "en": "Official",
+      "my": "တရားဝင်"
+    },
+    {
+      "kanji": "定義",
+      "reading": "ていぎ",
+      "romaji": "Teigi",
+      "vi": "Định nghĩa",
+      "en": "Definition",
+      "my": "အဓိပ္ပါယ်ဖွင့်ဆိုချက်"
+    },
+    {
+      "kanji": "準備",
+      "reading": "じゅんび",
+      "romaji": "Junbi",
+      "vi": "Chuẩn bị",
+      "en": "Preparation",
+      "my": "ပြင်ဆင်ခြင်း"
+    },
+    {
+      "kanji": "試験対策",
+      "reading": "しけんたいさく",
+      "romaji": "Shiken Taisaku",
+      "vi": "Chuẩn bị cho kỳ thi",
+      "en": "Exam Preparation",
+      "my": "စာမေးပွဲပြင်ဆင်ခြင်း"
+    },
+    {
+      "kanji": "受験資格",
+      "reading": "じゅけんしかく",
+      "romaji": "Juken Shikaku",
+      "vi": "Điều kiện dự thi",
+      "en": "Exam Eligibility",
+      "my": "စာမေးပွဲဝင်ခွင့်"
+    },
+    {
+      "kanji": "年齢",
+      "reading": "ねんれい",
+      "romaji": "Nenrei",
+      "vi": "Tuổi",
+      "en": "Age",
+      "my": "အသက်"
+    },
+    {
+      "kanji": "性別",
+      "reading": "せいべつ",
+      "romaji": "Seibetsu",
+      "vi": "Giới tính",
+      "en": "Gender",
+      "my": "ကျား/မ"
+    },
+    {
+      "kanji": "学歴",
+      "reading": "がくれき",
+      "romaji": "Gakureki",
+      "vi": "Học vấn",
+      "en": "Educational Background",
+      "my": "ပညာရေးနောက်ခံ"
+    },
+    {
+      "kanji": "国籍",
+      "reading": "こくせき",
+      "romaji": "Kokuseki",
+      "vi": "Quốc tịch",
+      "en": "Nationality",
+      "my": "နိုင်ငံသား"
+    },
+    {
+      "kanji": "応募者",
+      "reading": "おうぼしゃ",
+      "romaji": "Oubosha",
+      "vi": "Người đăng ký",
+      "en": "Applicant",
+      "my": "လျှောက်ထားသူ"
+    },
+    {
+      "kanji": "累計",
+      "reading": "るいけい",
+      "romaji": "Ruikei",
+      "vi": "Tổng cộng (lũy kế)",
+      "en": "Cumulative Total",
+      "my": "စုစုပေါင်း"
+    },
+    {
+      "kanji": "社会人",
+      "reading": "しゃかいじん",
+      "romaji": "Shakaijin",
+      "vi": "Người đi làm",
+      "en": "Working Professional",
+      "my": "အလုပ်သမား"
+    },
+    {
+      "kanji": "学生",
+      "reading": "がくせい",
+      "romaji": "Gakusei",
+      "vi": "Sinh viên",
+      "en": "Student",
+      "my": "ကျောင်းသား"
+    },
+    {
+      "kanji": "勤務",
+      "reading": "きんむ",
+      "romaji": "Kinmu",
+      "vi": "Làm việc",
+      "en": "Work/Employment",
+      "my": "အလုပ်လုပ်ခြင်း"
+    },
+    {
+      "kanji": "合格",
+      "reading": "ごうかく",
+      "romaji": "Goukaku",
+      "vi": "Đỗ (thi)",
+      "en": "Pass (exam)",
+      "my": "အောင်မြင်ခြင်း"
+    },
+    {
+      "kanji": "不合格",
+      "reading": "ふごうかく",
+      "romaji": "Fugoukaku",
+      "vi": "Trượt (thi)",
+      "en": "Fail (exam)",
+      "my": "ကျရှုံးခြင်း"
+    },
+    {
+      "kanji": "内容",
+      "reading": "ないよう",
+      "romaji": "Naiyou",
+      "vi": "Nội dung",
+      "en": "Content",
+      "my": "အကြောင်းအရာ"
+    },
+    {
+      "kanji": "出題傾向",
+      "reading": "しゅつだいけいこう",
+      "romaji": "Shutsudai Keikou",
+      "vi": "Xu hướng ra đề",
+      "en": "Question Trend",
+      "my": "မေးခွန်းထုတ်ပုံလမ်းကြောင်း"
+    },
+    {
+      "kanji": "把握",
+      "reading": "はあく",
+      "romaji": "Haaku",
+      "vi": "Nắm bắt",
+      "en": "Grasp/Understand",
+      "my": "နားလည်သဘောပေါက်ခြင်း"
+    },
+    {
+      "kanji": "大切",
+      "reading": "たいせつ",
+      "romaji": "Taisetsu",
+      "vi": "Quan trọng",
+      "en": "Important",
+      "my": "အရေးကြီးသော"
+    },
+    {
+      "kanji": "現在",
+      "reading": "げんざい",
+      "romaji": "Genzai",
+      "vi": "Hiện tại",
+      "en": "Currently",
+      "my": "လက်ရှိ"
+    },
+    {
+      "kanji": "企業",
+      "reading": "きぎょう",
+      "romaji": "Kigyou",
+      "vi": "Doanh nghiệp",
+      "en": "Company/Business",
+      "my": "ကုမ္ပဏီ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true,
+    "has_info_box": false,
+    "word_count": 450
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "page_id": 552,
+  "image": "p_0552.png",
+  "chapter": 15,
+  "section": "15-03",
+  "page_number": 536,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "情報セキュリティ実施手順",
+      "vi": "Quy trình thực hiện bảo mật thông tin",
+      "en": "Information Security Procedures"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "情報セキュリティ実施手順",
+        "vi": "Quy trình thực hiện bảo mật thông tin",
+        "en": "Information Security Procedures"
+      },
+      "definition": {
+        "ja": "情報セキュリティ実施手順とは、情報セキュリティ対策基準で定めたルールを実施するための手順書です。情報セキュリティ対策基準に基づいて作成します。",
+        "vi": "Quy trình thực hiện bảo mật thông tin là sổ tay hướng dẫn để thực hiện các quy tắc được định nghĩa trong Tiêu chuẩn đối sách bảo mật thông tin. Được tạo dựa trên Tiêu chuẩn đối sách bảo mật thông tin.",
+        "en": "Information Security Procedures is manual for implementing rules defined in Information Security Standards. Created based on Information Security Standards."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "この文書はいわゆるマニュアルです。情報セキュリティ対策を「どのように行うのか」を記述します。文書の作成・管理は各部門が行います。",
+      "vi": "Tài liệu này gọi chung là sổ tay. Mô tả \"làm như thế nào\" biện pháp bảo mật thông tin. Việc tạo và quản lý tài liệu do các bộ phận thực hiện.",
+      "en": "This document is so-called manual. Describes 'how to do' information security measures. Document creation and management is done by each department.",
+      "terms": [
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "対策",
+          "reading": "たいさく"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "記述",
+          "reading": "きじゅつ"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "各部門",
+          "reading": "かくぶもん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "この文書は外部に公開しません。なぜなら情報を守る手順が悪意のある人に知られてしまえば、手順をくぐり抜けた攻撃を仕掛けられるリスクが高まるからです。",
+      "vi": "Tài liệu này không được công khai ra bên ngoài. Bởi vì nếu quy trình bảo vệ thông tin bị người có ác ý biết được, rủi ro bị tấn công vượt qua quy trình sẽ tăng cao.",
+      "en": "This document is not published externally. Because if procedures for protecting information become known to malicious people, risk of attacks bypassing procedures increases.",
+      "terms": [
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "外部",
+          "reading": "がいぶ"
+        },
+        {
+          "kanji": "公開",
+          "reading": "こうかい"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "手順",
+          "reading": "てじゅん"
+        },
+        {
+          "kanji": "悪意",
+          "reading": "あくい"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "知",
+          "reading": "ち"
+        },
+        {
+          "kanji": "抜",
+          "reading": "ばつ"
+        },
+        {
+          "kanji": "攻撃",
+          "reading": "こうげき"
+        },
+        {
+          "kanji": "仕掛",
+          "reading": "しかけ"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "特に、ITパスポート試験では、情報セキュリティ基本方針と他の2つの文書との違いが問われます。違いをまとめると下表のようになります。",
+      "vi": "Đặc biệt, trong kỳ thi IT Passport, sự khác biệt giữa Phương châm cơ bản bảo mật thông tin và 2 tài liệu khác được hỏi. Sự khác biệt được tóm tắt trong bảng dưới đây.",
+      "en": "Especially in IT Passport exam, differences between Information Security Basic Policy and other 2 documents are asked. Differences are summarized in table below.",
+      "terms": [
+        {
+          "kanji": "特",
+          "reading": "とく"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "基本方針",
+          "reading": "きほんほうしん"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "下表",
+          "reading": "かひょう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "情報セキュリティ基本方針と他の2つの文書との違い",
+        "vi": "Sự khác biệt giữa Phương châm cơ bản và 2 tài liệu khác",
+        "en": "Differences Between Basic Policy and Other 2 Documents"
+      },
+      "headers": {
+        "ja": [
+          "",
+          "情報セキュリティ基本方針",
+          "情報セキュリティ対策基準・実施手順"
+        ],
+        "vi": [
+          "",
+          "Phương châm cơ bản bảo mật",
+          "Tiêu chuẩn đối sách・Quy trình thực hiện"
+        ],
+        "en": [
+          "",
+          "Basic Policy",
+          "Standards/Procedures"
+        ]
+      },
+      "rows": [
+        {
+          "category": {
+            "ja": "内容",
+            "vi": "Nội dung",
+            "en": "Content"
+          },
+          "policy": {
+            "ja": "組織全体で統一",
+            "vi": "Thống nhất toàn tổ chức",
+            "en": "Unified across organization"
+          },
+          "standards": {
+            "ja": "各部門で内容が異なる",
+            "vi": "Nội dung khác nhau theo bộ phận",
+            "en": "Content differs by department"
+          }
+        },
+        {
+          "category": {
+            "ja": "策定者",
+            "vi": "Người xây dựng",
+            "en": "Developer"
+          },
+          "policy": {
+            "ja": "経営者・経営層",
+            "vi": "Lãnh đạo・Ban lãnh đạo",
+            "en": "Management/Executives"
+          },
+          "standards": {
+            "ja": "各部門",
+            "vi": "Các bộ phận",
+            "en": "Each department"
+          }
+        },
+        {
+          "category": {
+            "ja": "公開範囲",
+            "vi": "Phạm vi công khai",
+            "en": "Publication Scope"
+          },
+          "policy": {
+            "ja": "全従業員と利害関係者",
+            "vi": "Tất cả nhân viên và các bên liên quan",
+            "en": "All employees and stakeholders"
+          },
+          "standards": {
+            "ja": "社内関係者",
+            "vi": "Người liên quan nội bộ",
+            "en": "Internal personnel"
+          }
+        }
+      ],
+      "note": {
+        "ja": "2種類!",
+        "vi": "2 loại!",
+        "en": "2 types!"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "情報セキュリティポリシーとは、情報セキュリティに関するその組織の取組み、対策をまとめた文書",
+          "vi": "Chính sách bảo mật thông tin là tài liệu tóm tắt các nỗ lực và biện pháp của tổ chức về bảo mật thông tin",
+          "en": "Information Security Policy is document summarizing organization's information security efforts and measures"
+        },
+        {
+          "ja": "情報セキュリティポリシーは、情報セキュリティ基本方針、情報セキュリティ対策基準、情報セキュリティ実施手順の3つの文書で構成される",
+          "vi": "Chính sách bảo mật thông tin bao gồm 3 tài liệu: Phương châm cơ bản, Tiêu chuẩn đối sách, Quy trình thực hiện",
+          "en": "Information Security Policy consists of 3 documents: Basic Policy, Standards, Procedures"
+        },
+        {
+          "ja": "情報セキュリティ基本方針と他の2つの文書との違いが出題される",
+          "vi": "Sự khác biệt giữa Phương châm cơ bản và 2 tài liệu khác được ra đề",
+          "en": "Differences between Basic Policy and other 2 documents appear on exam"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "サイバーセキュリティ基本法との違い",
+        "vi": "Sự khác biệt với Luật cơ bản về an ninh mạng",
+        "en": "Difference from Cybersecurity Basic Act",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ITパスポート試験では、情報セキュリティポリシーについて「サイバーセキュリティ基本法との違い」が試験で問われることがあります。そのため、ここでの違いをしっかりと把握しておいてください。サイバーセキュリティ基本法（p.63）は、サイバー攻撃から国を守るための基本理念を定めた法律です。一方、情報セキュリティポリシーは、企業が取りまとめた社内ルールです。国や国民を守るべき法律ではありません。法律であるか、単なる社内ルールであるかのみが、非常に大きな違いです。ITパスポート試験ではこの点が問われる可能性があるので注意してください。",
+        "vi": "Trong kỳ thi IT Passport, có thể được hỏi về \"sự khác biệt với Luật cơ bản về an ninh mạng\" liên quan đến Chính sách bảo mật thông tin. Vì vậy, hãy nắm chắc sự khác biệt ở đây. Luật cơ bản về an ninh mạng (trang 63) là luật quy định lý niệm cơ bản để bảo vệ quốc gia khỏi tấn công mạng. Mặt khác, Chính sách bảo mật thông tin là quy tắc nội bộ được doanh nghiệp tổng hợp. Không phải luật bảo vệ quốc gia và công dân. Sự khác biệt rất lớn chỉ là nó là luật hay chỉ là quy tắc nội bộ. Hãy chú ý vì điểm này có thể được hỏi trong kỳ thi IT Passport.",
+        "en": "In IT Passport exam, may be asked about 'difference from Cybersecurity Basic Act' regarding Information Security Policy. So understand differences here firmly. Cybersecurity Basic Act (p.63) is law defining basic principles for protecting nation from cyber attacks. On other hand, Information Security Policy is company's internal rules. Not law to protect nation and citizens. Only difference of being law or just internal rules is very significant. Note this point may be asked in IT Passport exam."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "情報セキュリティ実施手順",
+      "vi": "Quy trình thực hiện bảo mật thông tin",
+      "en": "Information Security Procedures",
+      "my": "သတင်းအချက်အလက်လုံခြုံရေး လုပ်ထုံးနည်း"
+    },
+    {
+      "term": "サイバーセキュリティ基本法",
+      "vi": "Luật cơ bản về an ninh mạng",
+      "en": "Cybersecurity Basic Act",
+      "my": "ဆိုင်ဘာလုံခြုံရေး အခြေခံအုပ်ဒေ"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

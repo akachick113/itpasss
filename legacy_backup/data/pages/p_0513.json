@@ -1,0 +1,420 @@
+{
+  "page_id": 513,
+  "image": "p_0513.png",
+  "chapter": 14,
+  "section": "14-04",
+  "page_number": 497,
+  "content": [
+    {
+      "type": "table",
+      "title": {
+        "ja": "住所とIPアドレスの関係",
+        "vi": "Quan hệ giữa Địa chỉ và Địa chỉ IP",
+        "en": "Relationship Between Address and IP Address"
+      },
+      "headers": {
+        "ja": [
+          "",
+          "呼び方",
+          "例"
+        ],
+        "vi": [
+          "",
+          "Cách gọi",
+          "Ví dụ"
+        ],
+        "en": [
+          "",
+          "Name",
+          "Example"
+        ]
+      },
+      "rows": [
+        {
+          "world": {
+            "ja": "現実の世界",
+            "vi": "Thế giới thực",
+            "en": "Real World"
+          },
+          "name": {
+            "ja": "住所",
+            "vi": "Địa chỉ",
+            "en": "Address"
+          },
+          "example": "東京都千代田区千代田1-2-3"
+        },
+        {
+          "world": {
+            "ja": "ネットワークの世界",
+            "vi": "Thế giới mạng",
+            "en": "Network World"
+          },
+          "name": {
+            "ja": "IPアドレス",
+            "vi": "Địa chỉ IP",
+            "en": "IP Address"
+          },
+          "example": "13.112.248.159"
+        }
+      ],
+      "note": {
+        "ja": "IPアドレスはインターネット上の住所！",
+        "vi": "Địa chỉ IP là địa chỉ trên Internet!",
+        "en": "IP Address is address on Internet!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "上記のように、IPアドレスは現実の世界の「住所」に相当するものなので、重複する値があっては困ります。万が一重複する値があると、そのIPアドレスがどのコンピュータを指しているのか判別できなくなります。",
+      "vi": "Như trên, vì địa chỉ IP tương đương với \"địa chỉ\" trong thế giới thực, nên không thể có giá trị trùng lặp. Trong trường hợp có giá trị trùng lặp, sẽ không thể phân biệt địa chỉ IP đó chỉ đến máy tính nào.",
+      "en": "As above, since IP Address corresponds to 'address' in real world, having duplicate values is problematic. If duplicate values exist, cannot determine which computer that IP Address points to.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "現実",
+          "reading": "げんじつ"
+        },
+        {
+          "kanji": "世界",
+          "reading": "せかい"
+        },
+        {
+          "kanji": "住所",
+          "reading": "じゅうしょ"
+        },
+        {
+          "kanji": "相当",
+          "reading": "そうとう"
+        },
+        {
+          "kanji": "重複",
+          "reading": "ちょうふく"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "困",
+          "reading": "こん"
+        },
+        {
+          "kanji": "万",
+          "reading": "まん"
+        },
+        {
+          "kanji": "一重複",
+          "reading": "ひとえふく"
+        },
+        {
+          "kanji": "指",
+          "reading": "ゆび"
+        },
+        {
+          "kanji": "判別",
+          "reading": "はんべつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、ネットワークの世界には国境がないため、IPアドレスは世界中で重複のない、唯一の値であることが必要です。IPアドレスは、その値が全世界で重複しないように、アメリカにある「ICANN」という管理団体が管理しています。",
+      "vi": "Ngoài ra, vì thế giới mạng không có biên giới quốc gia, địa chỉ IP cần phải là giá trị duy nhất không trùng lặp trên toàn thế giới. Địa chỉ IP được quản lý bởi tổ chức quản lý \"ICANN\" ở Mỹ để giá trị đó không trùng lặp trên toàn thế giới.",
+      "en": "Also, since network world has no national borders, IP Address needs to be unique value without duplication worldwide. IP Address is managed by management organization 'ICANN' in America so that value doesn't duplicate worldwide.",
+      "terms": [
+        {
+          "kanji": "世界",
+          "reading": "せかい"
+        },
+        {
+          "kanji": "国境",
+          "reading": "こっきょう"
+        },
+        {
+          "kanji": "世界中",
+          "reading": "せかいじゅう"
+        },
+        {
+          "kanji": "重複",
+          "reading": "ちょうふく"
+        },
+        {
+          "kanji": "唯一",
+          "reading": "ゆいいつ"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "全世界",
+          "reading": "ぜんせかい"
+        },
+        {
+          "kanji": "管理団体",
+          "reading": "かんりだんたい"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ポート番号とMACアドレス",
+      "vi": "Số cổng và Địa chỉ MAC",
+      "en": "Port Number and MAC Address"
+    },
+    {
+      "type": "paragraph",
+      "ja": "IPアドレスが世界で唯一の値であるならば、その値を使って通信できそうですが、実はIPアドレスだけでは通信相手を特定することはできません。",
+      "vi": "Nếu địa chỉ IP là giá trị duy nhất trên thế giới, có vẻ như có thể truyền thông bằng giá trị đó, nhưng thực ra chỉ với địa chỉ IP không thể xác định đối tác truyền thông.",
+      "en": "If IP Address is unique value in world, seems can communicate using that value, but actually cannot identify communication partner with IP Address alone.",
+      "terms": [
+        {
+          "kanji": "世界",
+          "reading": "せかい"
+        },
+        {
+          "kanji": "唯一",
+          "reading": "ゆいいつ"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "通信",
+          "reading": "つうしん"
+        },
+        {
+          "kanji": "実",
+          "reading": "み"
+        },
+        {
+          "kanji": "通信相手",
+          "reading": "つうしんあいて"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "インターネット上で1台のコンピュータを特定するには、IPアドレスに加えて、「ポート番号」と「MACアドレス」の2つの完先が必要になります。",
+      "vi": "Để xác định 1 máy tính trên Internet, ngoài địa chỉ IP, cần thêm 2 yếu tố là \"Số cổng\" và \"Địa chỉ MAC\".",
+      "en": "To identify 1 computer on Internet, in addition to IP Address, 2 elements 'Port Number' and 'MAC Address' are needed.",
+      "terms": [
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "台",
+          "reading": "だい"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "加",
+          "reading": "か"
+        },
+        {
+          "kanji": "番号",
+          "reading": "ばんごう"
+        },
+        {
+          "kanji": "完先",
+          "reading": "かんさき"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ポート番号",
+      "vi": "Số cổng",
+      "en": "Port Number"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ポート番号",
+        "vi": "Số cổng",
+        "en": "Port Number"
+      },
+      "definition": {
+        "ja": "ポート番号とは、アプリケーションソフトウェアごとに割り当てられる「情報の出入口を示す値」です。アプリケーションソフトウェアとは、具体的には「ブラウザ」や「メールソフト」などです。",
+        "vi": "Số cổng là \"giá trị chỉ cổng vào ra thông tin\" được gán cho mỗi phần mềm ứng dụng. Phần mềm ứng dụng cụ thể là \"Trình duyệt\" hay \"Phần mềm email\".",
+        "en": "Port Number is 'value indicating information gateway' assigned to each application software. Application software specifically means 'Browser' or 'Email software.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "先述したように、IPアドレスとは「コンピュータを識別するための番号」です。そのため、IPアドレスがわかれば、世界中にある膨大な数のコンピュータの中から、1台のコンピュータを特定できます。",
+      "vi": "Như đã nói trước, địa chỉ IP là \"số để nhận dạng máy tính\". Vì vậy, nếu biết địa chỉ IP, có thể xác định 1 máy tính từ số lượng khổng lồ máy tính trên thế giới.",
+      "en": "As mentioned earlier, IP Address is 'number to identify computer.' Therefore, if IP Address is known, can identify 1 computer from vast number of computers around world.",
+      "terms": [
+        {
+          "kanji": "先述",
+          "reading": "せんじゅつ"
+        },
+        {
+          "kanji": "識別",
+          "reading": "しきべつ"
+        },
+        {
+          "kanji": "番号",
+          "reading": "ばんごう"
+        },
+        {
+          "kanji": "世界中",
+          "reading": "せかいじゅう"
+        },
+        {
+          "kanji": "膨大",
+          "reading": "ぼうだい"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "台",
+          "reading": "だい"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "しかし、コンピュータを特定しただけでは、コンピュータ上で動いているどのアプリケーションソフトウェアと通信すればよいかわかりません。例えば、ブラウザとメールソフトを同時に起動している場合、IPアドレスだけではどちらのアプリケーションソフトウェアと通信したらよいか判断できません。",
+      "vi": "Tuy nhiên, chỉ xác định máy tính thì không biết nên truyền thông với phần mềm ứng dụng nào đang chạy trên máy tính. Ví dụ, nếu trình duyệt và phần mềm email đang chạy đồng thời, chỉ với địa chỉ IP không thể phán đoán nên truyền thông với phần mềm ứng dụng nào.",
+      "en": "However, just identifying computer doesn't tell which application software running on computer to communicate with. For example, if browser and email software are running simultaneously, cannot determine which application software to communicate with using IP Address alone.",
+      "terms": [
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "動",
+          "reading": "どう"
+        },
+        {
+          "kanji": "通信",
+          "reading": "つうしん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "同時",
+          "reading": "どうじ"
+        },
+        {
+          "kanji": "起動",
+          "reading": "きどう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "そこで必要になるのがポート番号です。それぞれのアプリケーションソフトウェアに個別に割り当てられているポート番号を使って、通信相手となるアプリケーションソフトウェアを特定します。",
+      "vi": "Vì vậy cần có số cổng. Sử dụng số cổng được gán riêng cho mỗi phần mềm ứng dụng để xác định phần mềm ứng dụng là đối tác truyền thông.",
+      "en": "That's why Port Number is needed. Using Port Number individually assigned to each application software, identify application software that is communication partner.",
+      "terms": [
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "番号",
+          "reading": "ばんごう"
+        },
+        {
+          "kanji": "個別",
+          "reading": "こべつ"
+        },
+        {
+          "kanji": "割",
+          "reading": "わり"
+        },
+        {
+          "kanji": "当",
+          "reading": "とう"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "通信相手",
+          "reading": "つうしんあいて"
+        },
+        {
+          "kanji": "特定",
+          "reading": "とくてい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ポート番号",
+      "vi": "Số cổng",
+      "en": "Port Number",
+      "my": "ပို့တ်နံပါတ်"
+    },
+    {
+      "term": "ICANN",
+      "vi": "ICANN (Tổ chức quản lý địa chỉ Internet)",
+      "en": "ICANN (Internet Corporation for Assigned Names and Numbers)",
+      "my": "ICANN (အင်တာနက်လိပ်စာများ သတ်မှတ်ခဴချွဲရေး အဖွဲ့အစည်း)"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "is_key_content": true
+  }
+}

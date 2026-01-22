@@ -1,0 +1,226 @@
+{
+  "page_id": 452,
+  "image": "p_0452.png",
+  "chapter": 12,
+  "section": "12-03",
+  "page_number": 436,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "れます。フルバックアップでは常に全データがバックアップされているので、システム障害が発生した際には、最新のバックアップデータを使うだけで、システムを元の状態に戻すことができます。",
+      "vi": "Vì sao lưu đầy đủ luôn sao lưu tất cả dữ liệu, khi xảy ra sự cố hệ thống, chỉ cần sử dụng dữ liệu sao lưu mới nhất là có thể khôi phục hệ thống về trạng thái ban đầu.",
+      "en": "Since full backup always backs up all data, when system failure occurs, can restore system to original state just by using latest backup data.",
+      "terms": [
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "全",
+          "reading": "ぜん"
+        },
+        {
+          "kanji": "障害",
+          "reading": "しょうがい"
+        },
+        {
+          "kanji": "発生",
+          "reading": "はっせい"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "最新",
+          "reading": "さいしん"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "元",
+          "reading": "もと"
+        },
+        {
+          "kanji": "状態",
+          "reading": "じょうたい"
+        },
+        {
+          "kanji": "戻",
+          "reading": "れい"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "フルバックアップ（完全バックアップ）",
+        "vi": "Sao lưu đầy đủ (Sao lưu hoàn toàn)",
+        "en": "Full Backup (Complete Backup)"
+      },
+      "description": {
+        "ja": "A→A'、B→B'、C→C'のようにフルバックアップを取り、障害発生時は最新のフルバックアップで直前の状態に戻す",
+        "vi": "Lấy sao lưu đầy đủ như A→A', B→B', C→C', khi xảy ra sự cố khôi phục về trạng thái ngay trước bằng sao lưu đầy đủ mới nhất",
+        "en": "Take full backup like A→A', B→B', C→C', when failure occurs restore to previous state with latest full backup"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ただし、フルバックアップでは常にすべてのデータをバックアップしなければならないので、データ量が多い場合には、バックアップの作成に時間がかかります。",
+      "vi": "Tuy nhiên, vì sao lưu đầy đủ luôn phải sao lưu tất cả dữ liệu, nên khi lượng dữ liệu lớn, việc tạo sao lưu mất nhiều thời gian.",
+      "en": "However, since full backup must always backup all data, when data volume is large, creating backup takes time.",
+      "terms": [
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "量",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "差分バックアップ",
+      "vi": "Sao lưu khác biệt",
+      "en": "Differential Backup"
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "「フルバックアップ以降」がポイント！",
+        "vi": "\"Từ sau sao lưu đầy đủ\" là điểm quan trọng!",
+        "en": "'Since Full Backup' is Key Point!",
+        "note": ""
+      },
+      "content": {
+        "ja": "差分バックアップとは、フルバックアップ以降、新たに追加されたデータをバックアップすることです。",
+        "vi": "Sao lưu khác biệt là sao lưu dữ liệu mới được thêm từ sau sao lưu đầy đủ.",
+        "en": "Differential backup is backing up data newly added since full backup."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "差分バックアップでは、バックアップするのはフルバックアップからの追加分だけなので、バックアップにかかる時間は短いです。反面、バックアップファイルが「フルバックアップファイル」と「差分ファイル」の2つになるので、復旧作業が煩雑になります。下図は、日曜日にフルバックアップをとり、月曜日から木曜日までの毎日、差分バックアップをとった状態を表しています。",
+      "vi": "Trong sao lưu khác biệt, vì chỉ sao lưu phần thêm từ sao lưu đầy đủ, thời gian sao lưu ngắn. Ngược lại, vì tệp sao lưu thành 2 tệp \"tệp sao lưu đầy đủ\" và \"tệp khác biệt\", nên việc khôi phục trở nên phức tạp. Hình dưới biểu thị trạng thái lấy sao lưu đầy đủ vào Chủ nhật, và lấy sao lưu khác biệt mỗi ngày từ thứ Hai đến thứ Năm.",
+      "en": "In differential backup, since only additions from full backup are backed up, backup time is short. Conversely, since backup files become 2 files 'full backup file' and 'differential file,' recovery work becomes complex. Diagram below shows state of taking full backup on Sunday, and taking differential backup daily from Monday to Thursday.",
+      "terms": [
+        {
+          "kanji": "差分",
+          "reading": "さぶん"
+        },
+        {
+          "kanji": "追加分",
+          "reading": "ついかぶん"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "短",
+          "reading": "みじか"
+        },
+        {
+          "kanji": "反面",
+          "reading": "はんめん"
+        },
+        {
+          "kanji": "復旧作業",
+          "reading": "ふっきゅうさぎょう"
+        },
+        {
+          "kanji": "煩雑",
+          "reading": "はんざつ"
+        },
+        {
+          "kanji": "下図",
+          "reading": "かず"
+        },
+        {
+          "kanji": "日曜日",
+          "reading": "にちようび"
+        },
+        {
+          "kanji": "月曜日",
+          "reading": "げつようび"
+        },
+        {
+          "kanji": "木曜日",
+          "reading": "もくようび"
+        },
+        {
+          "kanji": "毎日",
+          "reading": "まいにち"
+        },
+        {
+          "kanji": "状態",
+          "reading": "じょうたい"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "差分バックアップ",
+        "vi": "Sao lưu khác biệt",
+        "en": "Differential Backup"
+      },
+      "description": {
+        "ja": "日曜日にフルバックアップ、月・火・水・木に差分バックアップ。差分バックアップは累積的に増加",
+        "vi": "Sao lưu đầy đủ vào Chủ nhật, sao lưu khác biệt vào thứ Hai, Ba, Tư, Năm. Sao lưu khác biệt tăng tích lũy",
+        "en": "Full backup on Sunday, differential backup on Mon/Tue/Wed/Thu. Differential backup increases cumulatively"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "増分バックアップ",
+      "vi": "Sao lưu tăng dần",
+      "en": "Incremental Backup"
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "「前回のバックアップ以降」がポイント！",
+        "vi": "\"Từ sau sao lưu lần trước\" là điểm quan trọng!",
+        "en": "'Since Previous Backup' is Key Point!",
+        "note": ""
+      },
+      "content": {
+        "ja": "増分バックアップとは、前回のバックアップ以降、新たに追加されたデータをバックアップすることです。バックアップするのは前回のバックアップからの追加分だけなので、バックアップにかかる時間は差分バックアップよりもさらに短いで",
+        "vi": "Sao lưu tăng dần là sao lưu dữ liệu mới được thêm từ sau lần sao lưu trước. Vì chỉ sao lưu phần thêm từ lần sao lưu trước, thời gian sao lưu còn ngắn hơn sao lưu khác biệt",
+        "en": "Incremental backup is backing up data newly added since previous backup. Since only additions from previous backup are backed up, backup time is even shorter than differential backup"
+      }
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_note_box": true,
+    "is_key_content": true
+  }
+}

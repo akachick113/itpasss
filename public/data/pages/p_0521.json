@@ -1,0 +1,133 @@
+{
+  "page_id": 521,
+  "image": "p_0521.png",
+  "chapter": 14,
+  "section": "14-04",
+  "page_number": 505,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "こういった機械的な作業は人間よりもコンピュータのほうが得意なので、コンピュータに任せたほうが正確、かつ効率的です。この役割を担っているのがDHCPです。DHCPは、自動的にLAN内にある他のコンピュータのIPアドレスを調査し、値が重複しないようにIPアドレスを管理してくれます。",
+      "vi": "Công việc máy móc như vậy máy tính giỏi hơn con người, nên giao cho máy tính sẽ chính xác và hiệu quả hơn. DHCP đảm nhận vai trò này. DHCP tự động điều tra địa chỉ IP của các máy tính khác trong LAN và quản lý địa chỉ IP để giá trị không bị trùng lặp.",
+      "en": "Computers are better at such mechanical work than humans, so leaving to computers is more accurate and efficient. DHCP plays this role. DHCP automatically investigates IP Addresses of other computers in LAN and manages IP Addresses so values don't duplicate.",
+      "terms": [
+        {
+          "kanji": "機械的",
+          "reading": "きかいてき"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "得意",
+          "reading": "とくい"
+        },
+        {
+          "kanji": "任",
+          "reading": "にん"
+        },
+        {
+          "kanji": "正確",
+          "reading": "せいかく"
+        },
+        {
+          "kanji": "効率的",
+          "reading": "こうりつてき"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "担",
+          "reading": "たん"
+        },
+        {
+          "kanji": "自動的",
+          "reading": "じどうてき"
+        },
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "調査",
+          "reading": "ちょうさ"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "重複",
+          "reading": "ちょうふく"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "DHCPの役割",
+        "vi": "Vai trò của DHCP",
+        "en": "Role of DHCP"
+      },
+      "description": {
+        "ja": "DHCPサーバが各コンピュータにIPアドレスを自動割り当て。「君には192.168.1.2」「君には192.168.1.3」「君には192.168.1.4」",
+        "vi": "Máy chủ DHCP tự động gán địa chỉ IP cho mỗi máy tính. \"Cậu là 192.168.1.2\" \"Cậu là 192.168.1.3\" \"Cậu là 192.168.1.4\"",
+        "en": "DHCP server automatically assigns IP Address to each computer. 'You are 192.168.1.2' 'You are 192.168.1.3' 'You are 192.168.1.4'"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "NATとは、プライベートIPアドレスとグローバルIPアドレスを相互変換する技術である",
+          "vi": "NAT là công nghệ chuyển đổi qua lại giữa địa chỉ IP riêng và địa chỉ IP toàn cầu",
+          "en": "NAT is technology mutually converting Private IP Address and Global IP Address"
+        },
+        {
+          "ja": "DHCPとは、IPアドレスを自動的に取得するためのプロトコルである",
+          "vi": "DHCP là giao thức để tự động lấy địa chỉ IP",
+          "en": "DHCP is protocol for automatically obtaining IP Address"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "DHCPサーバ",
+      "vi": "Máy chủ DHCP",
+      "en": "DHCP Server",
+      "my": "DHCP ဆာဗာ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

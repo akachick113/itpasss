@@ -1,0 +1,430 @@
+{
+  "page_id": 169,
+  "image": "p_0169.png",
+  "chapter": 4,
+  "section": "04-03",
+  "page_number": 153,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・CAD：コンピュータを使って設計図を描くシステム\n・CAM：設計図面のデータを元にして、工作機械を操作するためのプログラムを作成するシステム\n・コンカレントエンジニアリングの目的が問われる。コンカレントエンジニアリングの目的は「開発期間の短縮」である",
+        "vi": "・CAD: Hệ thống vẽ bản thiết kế bằng máy tính\n・CAM: Hệ thống tạo chương trình điều khiển máy công cụ dựa trên dữ liệu bản vẽ thiết kế\n・Mục đích của Concurrent Engineering được hỏi. Mục đích của Concurrent Engineering là rút ngắn thời gian phát triển",
+        "en": "・CAD: System for drawing blueprints using computers\n・CAM: System for creating programs to operate machine tools based on design drawing data\n・The purpose of Concurrent Engineering is asked. The purpose is 'shortening development time'",
+        "my": "・ CAD: ကွန်ပျူတာများ အသုံးပြု၍ ပုံစံဆွဲသော စနစ်",
+        "terms": [
+          {
+            "kanji": "使",
+            "reading": "つか"
+          },
+          {
+            "kanji": "設計図",
+            "reading": "せっけいず"
+          },
+          {
+            "kanji": "描",
+            "reading": "びょう"
+          },
+          {
+            "kanji": "設計図面",
+            "reading": "せっけいずめん"
+          },
+          {
+            "kanji": "元",
+            "reading": "もと"
+          },
+          {
+            "kanji": "工作機械",
+            "reading": "こうさくきかい"
+          },
+          {
+            "kanji": "操作",
+            "reading": "そうさ"
+          },
+          {
+            "kanji": "作成",
+            "reading": "さくせい"
+          },
+          {
+            "kanji": "目的",
+            "reading": "もくてき"
+          },
+          {
+            "kanji": "問",
+            "reading": "とん"
+          },
+          {
+            "kanji": "開発期間",
+            "reading": "かいはつきかん"
+          },
+          {
+            "kanji": "短縮",
+            "reading": "たんしゅく"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "生産方式",
+      "reading": "せいさんほうしき",
+      "vi": "Phương thức sản xuất",
+      "en": "Production Methods",
+      "my": "ထုတ်လုပ်ရေးနည်းလမ်းများ"
+    },
+    {
+      "type": "paragraph",
+      "ja": "世の中にはさまざまな生産方式がありますが、ITパスポート試験に出題される生産方式は主にJIT生産方式とセル生産方式の2つです。なかでもJIT生産方式は頻出なので必ず覚えておいてください。",
+      "vi": "Có nhiều phương thức sản xuất khác nhau, nhưng IT Passport chủ yếu ra đề về JIT Production và Cell Production. Đặc biệt JIT Production hay ra nên nhớ kỹ.",
+      "en": "There are various production methods, but IT Passport mainly tests JIT production and Cell production. JIT production is especially frequent so remember it.",
+      "my": "ထုတ်လုပ်ရေးနည်းလမ်း အမျိုးမျိုးရှိသော်လည်း IT Passport တွင် JIT နှင့် Cell production ကို အဓိက စမ်းသပ်သည်။",
+      "terms": [
+        {
+          "kanji": "世",
+          "reading": "よ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "生産方式",
+          "reading": "せいさんほうしき"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "頻出",
+          "reading": "ひんしゅつ"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "受注生産方式と見込生産方式",
+      "vi": "Sản xuất theo đơn hàng và sản xuất dự kiến",
+      "en": "Make-to-Order and Make-to-Stock"
+    },
+    {
+      "type": "paragraph",
+      "ja": "受注生産方式とは、顧客からの注文を受けてから生産を開始する生産方式です。一方、見込生産方式とは、顧客からの注文は待たず、生産開始時の計画に基づいて見込み数量を生産する生産方式です。受注生産方式と見込生産方式のメリットとデメリットは次のとおりです。どちらも一長一短であることがわかります。",
+      "vi": "Sản xuất theo đơn hàng là phương thức bắt đầu sản xuất sau khi nhận đơn hàng từ khách. Mặt khác, sản xuất dự kiến là phương thức sản xuất số lượng dự kiến theo kế hoạch khi bắt đầu sản xuất mà không đợi đơn hàng từ khách. Ưu nhược điểm của 2 phương thức như sau. Có thể thấy cả hai đều có ưu và nhược điểm.",
+      "en": "Make-to-Order is a production method starting production after receiving customer orders. Make-to-Stock is producing anticipated quantities based on plans without waiting for orders. Each has pros and cons as shown.",
+      "my": "Make-to-Order သည် အော်ဒါများ လက်ခံပြီးနောက် ထုတ်လုပ်ရေး စတင်သည့် နည်းလမ်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "受注生産方式",
+          "reading": "じゅちゅうせいさんほうしき"
+        },
+        {
+          "kanji": "顧客",
+          "reading": "こきゃく"
+        },
+        {
+          "kanji": "注文",
+          "reading": "ちゅうもん"
+        },
+        {
+          "kanji": "受",
+          "reading": "じゅ"
+        },
+        {
+          "kanji": "生産",
+          "reading": "せいさん"
+        },
+        {
+          "kanji": "開始",
+          "reading": "かいし"
+        },
+        {
+          "kanji": "生産方式",
+          "reading": "せいさんほうしき"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "見込生産方式",
+          "reading": "みこみせいさんほうしき"
+        },
+        {
+          "kanji": "待",
+          "reading": "ま"
+        },
+        {
+          "kanji": "生産開始時",
+          "reading": "せいさんかいしじ"
+        },
+        {
+          "kanji": "計画",
+          "reading": "けいかく"
+        },
+        {
+          "kanji": "基",
+          "reading": "もと"
+        },
+        {
+          "kanji": "見込",
+          "reading": "みこみ"
+        },
+        {
+          "kanji": "数量",
+          "reading": "すうりょう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "一長一短",
+          "reading": "いっちょういったん"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "受注生産方式と見込生産方式のメリット・デメリット",
+        "vi": "Ưu nhược điểm của sản xuất theo đơn hàng và sản xuất dự kiến",
+        "en": "Pros and Cons of Make-to-Order and Make-to-Stock"
+      },
+      "headers": {
+        "ja": [
+          "生産方式",
+          "在庫リスク",
+          "受注から出荷までの時間"
+        ],
+        "vi": [
+          "Phương thức sản xuất",
+          "Rủi ro tồn kho",
+          "Thời gian từ đặt hàng đến xuất hàng"
+        ],
+        "en": [
+          "Production Method",
+          "Inventory Risk",
+          "Time from Order to Shipment"
+        ]
+      },
+      "rows": [
+        {
+          "ja": [
+            "受注生産方式",
+            "なし",
+            "長い"
+          ],
+          "vi": [
+            "Sản xuất theo đơn hàng",
+            "Không có",
+            "Dài"
+          ],
+          "en": [
+            "Make-to-Order",
+            "None",
+            "Long"
+          ]
+        },
+        {
+          "ja": [
+            "見込生産方式",
+            "あり",
+            "短い"
+          ],
+          "vi": [
+            "Sản xuất dự kiến",
+            "Có",
+            "Ngắn"
+          ],
+          "en": [
+            "Make-to-Stock",
+            "Yes",
+            "Short"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "JIT生産方式",
+      "vi": "Phương thức sản xuất JIT",
+      "en": "JIT Production Method"
+    },
+    {
+      "type": "paragraph",
+      "ja": "JIT生産方式（ジャストインタイム生産方式）とは、必要な物を、必要なときに、必要な量だけ生産する生産方式です。\n\nJIT生産方式はトヨタの生産方式の1つであり、別名「かんばん方式」とも呼ばれます。無駄をなくすために「かんばん」という道具を使います。この「かんばん」は部品が入っている「部品箱に付いている」、部品の数などが書かれています。JIT生産方式では次のように必要な部品を調達します。\n\n1. 組み立て工場は、部品箱の中にある部品を1つでも使いはじめたら、次回の組み立てに必要な部品を部品工場に発注する。その際に部品箱に付いていたかんばんを部品工場に送る",
+      "vi": "JIT Production (Just In Time) là phương thức sản xuất chỉ sản xuất vật cần thiết, khi cần thiết, với số lượng cần thiết.\n\nJIT Production là một trong các phương thức sản xuất của Toyota, còn gọi là phương thức Kanban. Để loại bỏ lãng phí, sử dụng công cụ gọi là Kanban. Kanban này được gắn vào hộp linh kiện, ghi số lượng linh kiện. Trong JIT Production, linh kiện cần thiết được mua như sau:\n\n1. Nhà máy lắp ráp, khi bắt đầu sử dụng linh kiện trong hộp, đặt hàng linh kiện cần cho lần lắp ráp tiếp theo từ nhà máy linh kiện. Lúc đó gửi Kanban gắn trên hộp linh kiện đến nhà máy linh kiện",
+      "en": "JIT Production (Just In Time) means producing only what's needed, when needed, in needed quantities.\n\nJIT Production is one of Toyota's production methods, also called 'Kanban method'. A tool called 'Kanban' is used to eliminate waste. This 'Kanban' is attached to parts boxes and shows parts quantities. In JIT Production, parts are procured as follows:\n\n1. When assembly plant starts using parts from a box, it orders parts needed for next assembly from parts factory, sending the Kanban attached to the parts box",
+      "my": "JIT Production (Just In Time) သည် လိုအပ်သောအရာကို၊ လိုအပ်သောအချိန်တွင်၊ လိုအပ်သော ပမာဏသာ ထုတ်လုပ်ခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "生産方式",
+          "reading": "せいさんほうしき"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "物",
+          "reading": "もの"
+        },
+        {
+          "kanji": "量",
+          "reading": "りょう"
+        },
+        {
+          "kanji": "生産",
+          "reading": "せいさん"
+        },
+        {
+          "kanji": "別名",
+          "reading": "べつめい"
+        },
+        {
+          "kanji": "方式",
+          "reading": "ほうしき"
+        },
+        {
+          "kanji": "呼",
+          "reading": "こ"
+        },
+        {
+          "kanji": "無駄",
+          "reading": "むだ"
+        },
+        {
+          "kanji": "道具",
+          "reading": "どうぐ"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "部品",
+          "reading": "ぶひん"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "部品箱",
+          "reading": "ぶひんはこ"
+        },
+        {
+          "kanji": "付",
+          "reading": "つき"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "調達",
+          "reading": "ちょうたつ"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "立",
+          "reading": "た"
+        },
+        {
+          "kanji": "工場",
+          "reading": "こうじょう"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "次回",
+          "reading": "じかい"
+        },
+        {
+          "kanji": "部品工場",
+          "reading": "ぶひんこうじょう"
+        },
+        {
+          "kanji": "発注",
+          "reading": "はっちゅう"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "送",
+          "reading": "おく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "JIT生産方式",
+      "reading": "じっとせいさんほうしき",
+      "romaji": "Just In Time Seisan Houshiki",
+      "vi": "Phương thức sản xuất JIT",
+      "en": "JIT Production Method",
+      "my": "JIT Production"
+    },
+    {
+      "kanji": "かんばん方式",
+      "reading": "かんばんほうしき",
+      "romaji": "Kanban Houshiki",
+      "vi": "Phương thức Kanban",
+      "en": "Kanban Method",
+      "my": "Kanban Method"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

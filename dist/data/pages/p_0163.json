@@ -1,0 +1,72 @@
+{
+    "page_id": 163,
+    "image": "p_0163.png",
+    "chapter": 4,
+    "section": "answers",
+    "page_number": 147,
+    "content": [
+        {
+            "type": "section_header",
+            "ja": "解答・解説",
+            "vi": "Đáp án và Giải thích",
+            "en": "Answers and Explanations"
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-1",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "ハッカソンとは、開発者が一堂に集まって、アイディアを出し合い、短期間のうちに製品を作り、その成果を競うイベントです。\n\nア. コンベンションとは大規模集会です。\nイ. トレードフェアとは商談会です。\nエ. レセプションとは歓迎会です。",
+                "vi": "Hackathon là sự kiện mà các nhà phát triển tập trung, đưa ra ý tưởng, tạo sản phẩm trong thời gian ngắn và cạnh tranh thành quả.\n\nA. Convention là hội nghị quy mô lớn.\nB. Trade Fair là hội chợ thương mại.\nD. Reception là tiệc chào đón.",
+                "en": "Hackathon is an event where developers gather, share ideas, create products in a short time, and compete on results.\n\nA. Convention is a large-scale gathering.\nB. Trade Fair is a business meeting.\nD. Reception is a welcome party."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-2",
+            "answer": "イ",
+            "explanation": {
+                "ja": "PoCとは、あるアイディアが実現可能かを調べるために、プロトタイプ（試作品）よりも前に行う、簡易的な検証です。PoCが「Proof of Concept」（概念の実証）の英略語であることを覚えておけば、簡単に解答できます。\n\nア. CRM (Customer Relationship Management：顧客関係管理) とは、顧客との良好な関係を築くことで長期的な利益を得る手法です。\nウ. RAS (Reliability, Availability, Serviceability) とは、システムや製品の信頼性、可用性、保守性を表す概念です。\nエ. SLA (Service Level Agreement) とは、サービス提供者とサービス利用者との間で取り決めたサービスレベル（サービスの品質や範囲）を明文化した書類です。",
+                "vi": "PoC là xác minh đơn giản thực hiện trước cả prototype (sản phẩm thử) để kiểm tra xem ý tưởng có khả thi không. Nếu nhớ PoC là viết tắt của Proof of Concept (chứng minh khái niệm) thì có thể trả lời dễ dàng.\n\nA. CRM (Customer Relationship Management: Quản lý quan hệ khách hàng) là phương pháp đạt lợi nhuận dài hạn bằng cách xây dựng quan hệ tốt với khách hàng.\nC. RAS (Reliability, Availability, Serviceability) là khái niệm thể hiện độ tin cậy, khả dụng, khả năng bảo trì của hệ thống hoặc sản phẩm.\nD. SLA (Service Level Agreement) là tài liệu văn bản hóa mức dịch vụ (chất lượng và phạm vi dịch vụ) đã thỏa thuận giữa nhà cung cấp và người sử dụng dịch vụ.",
+                "en": "PoC is a simple verification done before prototypes to check if an idea is feasible. If you remember PoC stands for 'Proof of Concept', you can answer easily.\n\nA. CRM (Customer Relationship Management) is a method to gain long-term profit by building good customer relationships.\nC. RAS (Reliability, Availability, Serviceability) is a concept for system/product reliability, availability, and maintainability.\nD. SLA (Service Level Agreement) is a document formalizing service levels (quality and scope) agreed between provider and user."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-3",
+            "answer": "エ",
+            "explanation": {
+                "ja": "エ.「横軸に時間、縦軸に...技術」というキーワードから、ロードマップであると判断できます。\n\nア. 技術ポートフォリオの説明です。\nイ.「技術のSカーブ」の説明です。\nウ. 研究開発ポートフォリオの説明です。",
+                "vi": "D. Từ keyword thời gian trên trục ngang, công nghệ trên trục dọc có thể phán đoán là Roadmap.\n\nA. Giải thích về Technology Portfolio.\nB. Giải thích về Technology S-curve.\nC. Giải thích về R&D Portfolio.",
+                "en": "D. From keywords 'time on horizontal axis, technology on vertical axis', we can determine it's a roadmap.\n\nA. Explanation of technology portfolio.\nB. Explanation of 'technology S-curve'.\nC. Explanation of R&D portfolio."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-4",
+            "answer": "エ",
+            "explanation": {
+                "ja": "エ.「交通系IC乗車券」というキーワードからNFCの事例であると判断します。アはDSRC、イは一般的に赤外線通信、ウはGPSです。",
+                "vi": "D. Từ keyword thẻ IC giao thông có thể phán đoán là ví dụ NFC. A là DSRC, B thường là giao tiếp hồng ngoại, C là GPS.",
+                "en": "D. From keyword 'transportation IC card', we determine it's an NFC example. A is DSRC, B is typically infrared communication, C is GPS."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "4-5",
+            "answer": "イ",
+            "explanation": {
+                "ja": "a〜dについての解説は以下の通りです。したがって、正しい記述は a, b, d です。\n\na. 正しい。日本語の文章を多言語に翻訳する際に自然言語処理が使用されます。\n\nb. 正しい。SNSから文字情報を収集し、地名や災害情報を解析する際に、自然言語処理が活用されます。\n\nc. 正しい。スマートスピーカーによる家電の操作や音楽の再生は、音声認識を利用していますが、それらの音声情報をテキスト情報に変換し、意味を解釈するために自然言語処理が利用されます。\n\nd. 誤り。ナンバープレート上の文字を画像として処理されるので、画像認識が活用されます。これは自然言語処理ではありません。",
+                "vi": "Giải thích cho a~d như sau. Do đó, mô tả đúng là a, b, d.\n\na. Đúng. Xử lý ngôn ngữ tự nhiên được sử dụng khi dịch văn bản tiếng Nhật sang nhiều ngôn ngữ.\n\nb. Đúng. Xử lý ngôn ngữ tự nhiên được sử dụng khi thu thập thông tin văn bản từ SNS và phân tích tên địa điểm và thông tin thiên tai.\n\nc. Đúng. Điều khiển thiết bị gia dụng và phát nhạc bằng smart speaker sử dụng nhận dạng giọng nói, nhưng xử lý ngôn ngữ tự nhiên được sử dụng để chuyển đổi thông tin giọng nói thành văn bản và giải thích ý nghĩa.\n\nd. Sai. Chữ trên biển số được xử lý như hình ảnh nên sử dụng nhận dạng hình ảnh. Đây không phải xử lý ngôn ngữ tự nhiên.",
+                "en": "Explanation for a~d is as follows. Therefore, correct descriptions are a, b, d.\n\na. Correct. NLP is used when translating Japanese text to multiple languages.\n\nb. Correct. NLP is used when collecting text from SNS and analyzing place names and disaster info.\n\nc. Correct. Smart speaker home control uses speech recognition, but NLP is used to convert voice to text and interpret meaning.\n\nd. Incorrect. License plate characters are processed as images, so image recognition is used. This is not NLP."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "4-1, 4-2, 4-3, 4-4, 4-5"
+    }
+}

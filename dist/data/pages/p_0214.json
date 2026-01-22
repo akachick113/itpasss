@@ -1,0 +1,364 @@
+{
+  "page_id": 214,
+  "image": "p_0214.png",
+  "chapter": 5,
+  "section": "05-05",
+  "page_number": 198,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "05-05",
+      "ja": "システムの活用促進と評価",
+      "reading": "しすてむのかつようそくしんとひょうか",
+      "vi": "Thúc đẩy sử dụng và đánh giá hệ thống",
+      "en": "System Utilization Promotion and Evaluation",
+      "my": "System Utilization Promotion and Evaluation"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "膨大なデータの中にある宝",
+        "vi": "Kho báu trong dữ liệu khổng lồ",
+        "en": "Treasure in Massive Data",
+        "my": "အများအပြားဒေတာထဲရှိ ရတနာ"
+      },
+      "content": {
+        "ja": "導入した情報システムを使いはじめると、時間とともに膨大なデータが蓄積されます。そのデータの中には経営上有益な情報が含まれていることがあります。",
+        "vi": "Khi bắt đầu sử dụng hệ thống thông tin đã đưa vào, dữ liệu khổng lồ được tích lũy theo thời gian. Trong dữ liệu đó đôi khi có thông tin hữu ích cho kinh doanh.",
+        "en": "When you start using an introduced information system, massive data accumulates over time. That data may contain information beneficial for management.",
+        "my": "မိတ်ဆက်ထားသော သတင်းအချက်အလက်စနစ်ကို စတင်အသုံးပြုသောအခါ အချိန်ကြာလာသည်နှင့်အမျှ ဒေတာ အများအပြား စုဆောင်းလာသည်။",
+        "terms": [
+          {
+            "kanji": "導入",
+            "reading": "どうにゅう"
+          },
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "使",
+            "reading": "つか"
+          },
+          {
+            "kanji": "時間",
+            "reading": "じかん"
+          },
+          {
+            "kanji": "膨大",
+            "reading": "ぼうだい"
+          },
+          {
+            "kanji": "蓄積",
+            "reading": "ちくせき"
+          },
+          {
+            "kanji": "中",
+            "reading": "なか"
+          },
+          {
+            "kanji": "経営上有益",
+            "reading": "けいえいじょうゆうえき"
+          },
+          {
+            "kanji": "含",
+            "reading": "がん"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここまでは「業務を効率化するための情報システム」について、いろいろな手法や形態を解説してきました。ここからは「導入した情報システムを経営に役立てるために必要なこと」を解説します。\n\nなお、本項の内容のうち、ITパスポート試験では、「データマイニング」「情報リテラシー」の2つの用語がよく出題されますが、その他の用語も万遍なく出題されるので、全体像をイメージしながら読み進めてください。中でも「BI」「データウェアハウス」「デジタルディバイド」は重要です。",
+      "vi": "Ở trên đã giải thích nhiều phương pháp và hình thái về hệ thống thông tin để hiệu quả hóa nghiệp vụ. Từ đây sẽ giải thích những điều cần thiết để tận dụng hệ thống thông tin đã đưa vào cho kinh doanh.\n\nTrong nội dung phần này, IT Passport thường ra 2 thuật ngữ Data Mining và Information Literacy, nhưng các thuật ngữ khác cũng được ra đều nên hãy đọc và hình dung toàn cảnh. Đặc biệt BI, Data Warehouse, Digital Divide quan trọng.",
+      "en": "Above we explained various methods and forms of 'information systems for business efficiency'. From here we'll explain 'what's needed to utilize introduced information systems for management'.\n\nIn this section's content, IT Passport frequently tests 'Data Mining' and 'Information Literacy', but other terms are also tested evenly, so read while imagining the whole picture. Especially 'BI', 'Data Warehouse', and 'Digital Divide' are important.",
+      "my": "အထက်တွင် business efficiency အတွက် information systems ၏ နည်းလမ်းအမျိုးမျိုးကို ရှင်းပြခဲ့သည်။",
+      "terms": [
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "効率化",
+          "reading": "こうりつか"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "形態",
+          "reading": "けいたい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "導入",
+          "reading": "どうにゅう"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "役立",
+          "reading": "やくりつ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "万遍",
+          "reading": "まんべん"
+        },
+        {
+          "kanji": "全体像",
+          "reading": "ぜんたいぞう"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "BIとデータウェアハウス",
+      "vi": "BI và Data Warehouse",
+      "en": "BI and Data Warehouse"
+    },
+    {
+      "type": "paragraph",
+      "ja": "BI（Business Intelligence）とは、社内外に蓄積されているデータを分析して、経営の意思決定に役立てようとする手法や技術です。\n\n以前は、BIを行うには専門的な知識が必要でしたが、現在では、経営者や一般従業員といった、アナリスト（データ分析の専門家）以外の人でも簡単にデータ分析が行える「BIツール」が多数用意されています。",
+      "vi": "BI (Business Intelligence) là phương pháp và công nghệ phân tích dữ liệu tích lũy trong và ngoài công ty để hỗ trợ quyết định kinh doanh.\n\nTrước đây, để thực hiện BI cần kiến thức chuyên môn, nhưng hiện nay có nhiều BI Tool để người không phải chuyên gia phân tích dữ liệu (Analyst) như quản lý hoặc nhân viên bình thường cũng có thể dễ dàng phân tích dữ liệu.",
+      "en": "BI (Business Intelligence) is methods and technology for analyzing data accumulated inside and outside the company to assist management decision-making.\n\nPreviously, BI required specialized knowledge, but now many 'BI Tools' are available for non-analysts like managers and regular employees to easily analyze data.",
+      "my": "BI (Business Intelligence) သည် ကုမ္ပဏီအတွင်းအပြင် စုဆောင်းထားသော ဒေတာကို ခွဲခြမ်းစိတ်ဖြာ၍ စီမံခန့်ခွဲမှု ဆုံးဖြတ်ချက်ချမှတ်ရာတွင် အထောက်အကူပြုသော နည်းလမ်းနှင့် နည်းပညာဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "社内外",
+          "reading": "しゃないがい"
+        },
+        {
+          "kanji": "蓄積",
+          "reading": "ちくせき"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "意思決定",
+          "reading": "いしけってい"
+        },
+        {
+          "kanji": "役立",
+          "reading": "やくりつ"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "以前",
+          "reading": "いぜん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "専門的",
+          "reading": "せんもんてき"
+        },
+        {
+          "kanji": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "経営者",
+          "reading": "けいえいしゃ"
+        },
+        {
+          "kanji": "一般従業員",
+          "reading": "いっぱんじゅうぎょういん"
+        },
+        {
+          "kanji": "専門家",
+          "reading": "せんもんか"
+        },
+        {
+          "kanji": "以外",
+          "reading": "いがい"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "多数用意",
+          "reading": "たすうようい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "データウェアハウス",
+      "reading": "でーたうぇあはうす",
+      "vi": "Data Warehouse",
+      "en": "Data Warehouse"
+    },
+    {
+      "type": "paragraph",
+      "ja": "データウェアハウスとは、意思決定に役立てるためのデータの集まりです。直訳すると「データの倉庫」です。具体的には、ERP（p.118）やCRM（p.120）などのシステム内にあるデータを取り出して、データウェアハウスに蓄積します。BIでは、データウェアハウスに集積されているデータを用いて分析を行います。",
+      "vi": "Data Warehouse là tập hợp dữ liệu để hỗ trợ quyết định. Dịch trực tiếp là kho dữ liệu. Cụ thể, lấy dữ liệu từ hệ thống như ERP (trang 118) hoặc CRM (trang 120) và tích lũy vào Data Warehouse. BI phân tích sử dụng dữ liệu tập trung trong Data Warehouse.",
+      "en": "Data Warehouse is a collection of data for decision support. Literally 'data storage'. Specifically, data is extracted from systems like ERP (p.118) and CRM (p.120) and accumulated in the Data Warehouse. BI analyzes using data collected in the Data Warehouse.",
+      "my": "Data Warehouse သည် ဆုံးဖြတ်ချက် ပံ့ပိုးမှုအတွက် ဒေတာစုစည်းမှုဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "意思決定",
+          "reading": "いしけってい"
+        },
+        {
+          "kanji": "役立",
+          "reading": "やくりつ"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "直訳",
+          "reading": "ちょくやく"
+        },
+        {
+          "kanji": "倉庫",
+          "reading": "そうこ"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "内",
+          "reading": "ない"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "出",
+          "reading": "で"
+        },
+        {
+          "kanji": "蓄積",
+          "reading": "ちくせき"
+        },
+        {
+          "kanji": "集積",
+          "reading": "しゅうせき"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "BI",
+      "reading": "びーあい",
+      "romaji": "Business Intelligence",
+      "vi": "Trí tuệ kinh doanh",
+      "en": "Business Intelligence",
+      "my": "စီးပွားရေး ထိုးထင်းစွမ်းရည်"
+    },
+    {
+      "kanji": "データウェアハウス",
+      "reading": "でーたうぇあはうす",
+      "romaji": "Data Warehouse",
+      "vi": "Kho dữ liệu",
+      "en": "Data Warehouse",
+      "my": "ဒေတာ ဂိုဒေါင်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

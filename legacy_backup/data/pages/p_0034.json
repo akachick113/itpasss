@@ -1,0 +1,354 @@
+{
+  "page_id": 34,
+  "image": "p_0034.png",
+  "chapter": 1,
+  "section": "01-03",
+  "page_number": 18,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "01-03",
+      "ja": "経営資源",
+      "reading": "けいえいしげん",
+      "vi": "Nguồn lực kinh doanh",
+      "en": "Management Resources",
+      "my": "စီမံခန့်ခွဲမှုအရင်းအမြစ်များ"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "4大経営資源",
+        "vi": "4 nguồn lực kinh doanh lớn",
+        "en": "4 Major Management Resources",
+        "my": "စီမံခန့်ခွဲမှု အရင်းအမြစ်ကြီး ၄ ခု",
+        "terms": [
+          {
+            "kanji": "経営資源",
+            "reading": "けいえいしげん"
+          },
+          {
+            "kanji": "経営",
+            "reading": "けいえい"
+          }
+        ]
+      },
+      "content": {
+        "ja": "「ヒト」「モノ」「カネ」「情報」を4大経営資源といいます。経営資源には限りがあるので、どの事業にどれだけ資源を投下するかを管理する必要があります。",
+        "vi": "\"Người\", \"Vật\", \"Tiền\", \"Thông tin\" được gọi là 4 nguồn lực kinh doanh lớn. Vì nguồn lực kinh doanh có giới hạn, cần quản lý xem đầu tư bao nhiêu nguồn lực vào lĩnh vực nào.",
+        "en": "\"People,\" \"Things,\" \"Money,\" and \"Information\" are called the 4 major management resources. Since management resources are limited, it's necessary to manage how much resources to invest in which business areas.",
+        "my": "\"လူ\"၊ \"ပစ္စည်း\"၊ \"ငွေ\"၊ \"သတင်းအချက်အလက်\" ကို စီမံခန့်ခွဲမှု အရင်းအမြစ်ကြီး ၄ ခုဟု ခေါ်သည်။",
+        "terms": [
+          {
+            "kanji": "情報",
+            "reading": "じょうほう"
+          },
+          {
+            "kanji": "大経営資源",
+            "reading": "だいけいえいしげん"
+          },
+          {
+            "kanji": "経営資源",
+            "reading": "けいえいしげん"
+          },
+          {
+            "kanji": "限",
+            "reading": "げん"
+          },
+          {
+            "kanji": "事業",
+            "reading": "じぎょう"
+          },
+          {
+            "kanji": "資源",
+            "reading": "しげん"
+          },
+          {
+            "kanji": "投下",
+            "reading": "とうか"
+          },
+          {
+            "kanji": "管理",
+            "reading": "かんり"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "経営資源とは、企業がライバル企業との激しい競争に勝ち抜くために使う資源です。一般的に「ヒト」「モノ」「カネ」「情報（チエ）」を4大経営資源といいます。企業はこれら4つの経営資源を活用して、競争を勝ち抜いていく必要があります。",
+      "vi": "Nguồn lực kinh doanh là tài nguyên mà doanh nghiệp sử dụng để chiến thắng trong cuộc cạnh tranh khốc liệt với các đối thủ. Thông thường, \"Người\", \"Vật\", \"Tiền\", \"Thông tin (Trí tuệ)\" được gọi là 4 nguồn lực kinh doanh lớn. Doanh nghiệp cần tận dụng 4 nguồn lực này để giành chiến thắng trong cạnh tranh.",
+      "en": "Management resources are the resources companies use to win in fierce competition with rival companies. Generally, \"People,\" \"Things,\" \"Money,\" and \"Information (Wisdom)\" are called the 4 major management resources. Companies need to utilize these 4 management resources to win in competition.",
+      "my": "စီမံခန့်ခွဲမှုအရင်းအမြစ်များသည် ပြိုင်ဘက်ကုမ္ပဏီများနှင့် ပြင်းထန်သောယှဉ်ပြိုင်မှုတွင် အနိုင်ရရန် ကုမ္ပဏီများ အသုံးပြုသော အရင်းအမြစ်များဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "経営資源",
+          "reading": "けいえいしげん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "激",
+          "reading": "げき"
+        },
+        {
+          "kanji": "競争",
+          "reading": "きょうそう"
+        },
+        {
+          "kanji": "勝",
+          "reading": "かち"
+        },
+        {
+          "kanji": "抜",
+          "reading": "ばつ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "資源",
+          "reading": "しげん"
+        },
+        {
+          "kanji": "一般的",
+          "reading": "いっぱんてき"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "大経営資源",
+          "reading": "だいけいえいしげん"
+        },
+        {
+          "kanji": "活用",
+          "reading": "かつよう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "HRM（人的資源管理）",
+      "reading": "えいちあーるえむ（じんてきしげんかんり）",
+      "vi": "HRM (Quản lý Nguồn nhân lực)",
+      "en": "HRM (Human Resource Management)",
+      "my": "HRM (လူ့စွမ်းအားအရင်းအမြစ်စီမံခန့်ခွဲမှု)"
+    },
+    {
+      "type": "paragraph",
+      "ja": "HRM（Human Resource Management：人的資源管理）とは、ヒトを経営資源の1つと考え、人的資源を有効活用することです。ヒトとその他の3つの経営資源（モノ、カネ、情報）との最大の違いは、訓練や教育で価値を高めることができるところにあります。",
+      "vi": "HRM (Human Resource Management: Quản lý Nguồn nhân lực) là việc coi con người như một trong các nguồn lực kinh doanh và tận dụng hiệu quả nguồn nhân lực. Điểm khác biệt lớn nhất giữa con người và 3 nguồn lực kinh doanh khác (Vật, Tiền, Thông tin) là có thể nâng cao giá trị thông qua đào tạo và giáo dục.",
+      "en": "HRM (Human Resource Management) considers people as one of the management resources and effectively utilizes human resources. The biggest difference between people and the other 3 management resources (Things, Money, Information) is that value can be increased through training and education.",
+      "my": "HRM (Human Resource Management: လူ့စွမ်းအားအရင်းအမြစ်စီမံခန့်ခွဲမှု) သည် လူကို စီမံခန့်ခွဲမှုအရင်းအမြစ်တစ်ခုအဖြစ် သတ်မှတ်ပြီး လူ့စွမ်းအားအရင်းအမြစ်ကို ထိရောက်စွာ အသုံးချခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "人的資源管理",
+          "reading": "じんてきしげんかんり"
+        },
+        {
+          "kanji": "経営資源",
+          "reading": "けいえいしげん"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "人的資源",
+          "reading": "じんてきしげん"
+        },
+        {
+          "kanji": "有効活用",
+          "reading": "ゆうこうかつよう"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "最大",
+          "reading": "さいだい"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "訓練",
+          "reading": "くんれん"
+        },
+        {
+          "kanji": "教育",
+          "reading": "きょういく"
+        },
+        {
+          "kanji": "価値",
+          "reading": "かち"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "OJTとOff-JT",
+      "reading": "おーじぇいてぃーとおふじぇいてぃー",
+      "vi": "OJT và Off-JT",
+      "en": "OJT and Off-JT",
+      "my": "OJT နှင့် Off-JT"
+    },
+    {
+      "type": "paragraph",
+      "ja": "OJT（On the Job Training）とは、実際の業務を通じた教育訓練です。つまり、実現場で行うトレーニングです。多くの場合、指導者は上司や先輩社員になります。\nOff-JT（Off the Job Training）とは、仕事を離れて行われる教育訓練です。例えば、セミナーへ参加してスキルを向上することは、実務を通じたトレーニングではないので、Off-JTです。多くの企業はOJTとOff-JTの両方を取り入れています。",
+      "vi": "OJT (On the Job Training) là đào tạo thông qua công việc thực tế. Tức là, huấn luyện được thực hiện tại nơi làm việc thực tế. Trong nhiều trường hợp, người hướng dẫn là cấp trên hoặc nhân viên tiền bối.\nOff-JT (Off the Job Training) là đào tạo được thực hiện xa công việc. Ví dụ, tham gia hội thảo để nâng cao kỹ năng không phải là đào tạo thông qua công việc thực tế, nên đó là Off-JT. Nhiều doanh nghiệp áp dụng cả OJT và Off-JT.",
+      "en": "OJT (On the Job Training) is training through actual work. In other words, training conducted at the actual workplace. In many cases, supervisors or senior employees serve as instructors.\nOff-JT (Off the Job Training) is training conducted away from work. For example, attending seminars to improve skills is Off-JT since it's not training through actual work. Many companies adopt both OJT and Off-JT.",
+      "my": "OJT (On the Job Training) သည် လက်တွေ့အလုပ်မှတဆင့် လေ့ကျင့်ခြင်းဖြစ်သည်။ Off-JT (Off the Job Training) သည် အလုပ်မှ ကင်းရှင်းသော လေ့ကျင့်ခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "通",
+          "reading": "とおり"
+        },
+        {
+          "kanji": "教育訓練",
+          "reading": "きょういくくんれん"
+        },
+        {
+          "kanji": "実現場",
+          "reading": "じつげんば"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "指導者",
+          "reading": "しどうしゃ"
+        },
+        {
+          "kanji": "上司",
+          "reading": "じょうし"
+        },
+        {
+          "kanji": "先輩社員",
+          "reading": "せんぱいしゃいん"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "離",
+          "reading": "り"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "参加",
+          "reading": "さんか"
+        },
+        {
+          "kanji": "向上",
+          "reading": "こうじょう"
+        },
+        {
+          "kanji": "実務",
+          "reading": "じつむ"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "入",
+          "reading": "にゅう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "経営資源",
+      "reading": "けいえいしげん",
+      "romaji": "Keiei Shigen",
+      "vi": "Nguồn lực kinh doanh",
+      "en": "Management Resources",
+      "my": "စီမံခန့်ခွဲမှုအရင်းအမြစ်များ"
+    },
+    {
+      "kanji": "HRM",
+      "reading": "えいちあーるえむ",
+      "romaji": "HRM",
+      "vi": "Quản lý Nguồn nhân lực",
+      "en": "Human Resource Management",
+      "my": "လူ့စွမ်းအားအရင်းအမြစ်စီမံခန့်ခွဲမှု"
+    },
+    {
+      "kanji": "OJT",
+      "reading": "おーじぇいてぃー",
+      "romaji": "OJT",
+      "vi": "Đào tạo tại chỗ làm",
+      "en": "On the Job Training",
+      "my": "အလုပ်ခွင်လေ့ကျင့်ခြင်း"
+    },
+    {
+      "kanji": "Off-JT",
+      "reading": "おふじぇいてぃー",
+      "romaji": "Off-JT",
+      "vi": "Đào tạo ngoài công việc",
+      "en": "Off the Job Training",
+      "my": "အလုပ်ပြင်ပလေ့ကျင့်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": false,
+    "illustration": "4_resources"
+  }
+}

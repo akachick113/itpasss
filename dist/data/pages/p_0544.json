@@ -1,0 +1,238 @@
+{
+  "page_id": 544,
+  "image": "p_0544.png",
+  "chapter": 15,
+  "section": "15-01",
+  "page_number": 528,
+  "content": [
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "攻撃内容が似ているものは一緒に覚える",
+        "vi": "Nhớ cùng lúc những cuộc tấn công có nội dung tương tự",
+        "en": "Remember Similar Attacks Together",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "「総当たり攻撃」「辞書攻撃」「パスワードリスト攻撃」の3つは、どれも似ているので、1つのセットとして覚えることをお勧めします。なお、お互いの用語が不正解選択肢として登場することもあるので勘違いしないように注意が必要です。",
+        "vi": "\"Brute Force Attack\", \"Dictionary Attack\", \"Password List Attack\" đều tương tự nhau, nên khuyến nghị nhớ như 1 bộ. Ngoài ra, cần chú ý vì các thuật ngữ này có thể xuất hiện như lựa chọn sai.",
+        "en": "'Brute Force Attack,' 'Dictionary Attack,' 'Password List Attack' are similar, so recommend remembering as 1 set. Also need caution as these terms may appear as wrong choices."
+      }
+    },
+    {
+      "type": "comparison_table",
+      "items": [
+        {
+          "ja": "総当たり攻撃：パスワードの組み合わせ全部を試す",
+          "vi": "Brute Force Attack: Thử tất cả tổ hợp mật khẩu",
+          "en": "Brute Force Attack: Try all password combinations"
+        },
+        {
+          "ja": "辞書攻撃：辞書にある単語全部を試す",
+          "vi": "Dictionary Attack: Thử tất cả từ trong từ điển",
+          "en": "Dictionary Attack: Try all words in dictionary"
+        },
+        {
+          "ja": "パスワードリスト攻撃：すでに入手したパスワード全部を試す",
+          "vi": "Password List Attack: Thử tất cả mật khẩu đã lấy được",
+          "en": "Password List Attack: Try all already obtained passwords"
+        }
+      ],
+      "note": {
+        "ja": "どの攻撃も攻撃手法は「全部試す」が共通点。",
+        "vi": "Điểm chung của tất cả các cuộc tấn công là phương pháp \"thử tất cả\".",
+        "en": "Common point of all attacks is method of 'trying all.'"
+      }
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！その他の技術的脅威",
+        "vi": "Chi tiết hơn! Mối đe dọa kỹ thuật khác",
+        "en": "More Details! Other Technical Threats"
+      },
+      "content": {
+        "ja": "技術的脅威には上記の他に、「ドライブバイダウンロード」（悪意のあるWebサイトを閲覧するだけで、マルウェアがダウンロードされてしまう攻撃）や、「DNSキャッシュポイズニング」（DNSサーバにキャッシュされているドメインとIPアドレスの対応を書き換える攻撃）、「DDoS攻撃」（インターネット経由で、多数のコンピュータから標的のサーバへ大量のアクセスを仕掛けることで、システムを過負荷状態に陥らせる攻撃）などがあります。",
+        "vi": "Ngoài những mối đe dọa trên, mối đe dọa kỹ thuật còn có \"Drive-by Download\" (tấn công mà chỉ cần xem trang web độc hại là malware sẽ được tải xuống), \"DNS Cache Poisoning\" (tấn công ghi đè ánh xạ domain và IP address được cache trong DNS server), \"DDoS Attack\" (tấn công làm hệ thống quá tải bằng cách gửi số lượng lớn truy cập từ nhiều máy tính đến server mục tiêu qua Internet).",
+        "en": "Besides above, technical threats include 'Drive-by Download' (attack where malware downloads just by viewing malicious website), 'DNS Cache Poisoning' (attack rewriting domain and IP address mapping cached in DNS server), 'DDoS Attack' (attack overloading system by sending large amounts of access from many computers to target server via Internet)."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "（3）物理的脅威",
+      "vi": "(3) Mối đe dọa vật lý",
+      "en": "(3) Physical Threats"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "物理的脅威",
+        "vi": "Mối đe dọa vật lý",
+        "en": "Physical Threats"
+      },
+      "definition": {
+        "ja": "物理的脅威とは、施設や機器などが物理的な手段によって直接的に損害を受ける脅威です。物理的脅威には災害や停電、盗難、破壊などがあります。出題形式の例としては、次のようなものが挙げられます。",
+        "vi": "Mối đe dọa vật lý là mối đe dọa mà cơ sở hoặc thiết bị bị thiệt hại trực tiếp bởi phương tiện vật lý. Mối đe dọa vật lý bao gồm thảm họa, mất điện, trộm cắp, phá hủy,... Ví dụ hình thức ra đề như sau.",
+        "en": "Physical Threats are threats where facilities or equipment receive direct damage by physical means. Physical threats include disasters, power outages, theft, destruction. Examples of question formats include following."
+      }
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "大雨によってサーバ室に水が入り、機器が停止する。",
+          "vi": "Nước vào phòng server do mưa lớn, thiết bị dừng hoạt động.",
+          "en": "Water enters server room due to heavy rain, equipment stops."
+        },
+        {
+          "ja": "第三者がサーバ室へ侵入し、データを盗み出す。",
+          "vi": "Bên thứ ba xâm nhập phòng server và đánh cắp dữ liệu.",
+          "en": "Third party infiltrates server room and steals data."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、「盗難」は人間による脅威なので人的脅威ともいえそうですが、物理的脅威と人的脅威の大きな違いは「直接」か「間接」かにあります。例えば、人がサーバ室に侵入してデータを盗むのは直接的なので、物理的脅威となります。",
+      "vi": "Ngoài ra, \"trộm cắp\" là mối đe dọa do con người nên cũng có thể nói là mối đe dọa của con người, nhưng sự khác biệt lớn giữa mối đe dọa vật lý và mối đe dọa con người là \"trực tiếp\" hay \"gián tiếp\". Ví dụ, người xâm nhập phòng server và đánh cắp dữ liệu là trực tiếp, nên là mối đe dọa vật lý.",
+      "en": "Also, 'theft' is threat by humans so could be called human threat, but big difference between physical threat and human threat is 'direct' or 'indirect.' For example, person infiltrating server room to steal data is direct, so it's physical threat.",
+      "terms": [
+        {
+          "kanji": "盗難",
+          "reading": "とうなん"
+        },
+        {
+          "kanji": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "kanji": "脅威",
+          "reading": "きょうい"
+        },
+        {
+          "kanji": "人的脅威",
+          "reading": "じんてききょうい"
+        },
+        {
+          "kanji": "物理的脅威",
+          "reading": "ぶつりてききょうい"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "直接",
+          "reading": "ちょくせつ"
+        },
+        {
+          "kanji": "間接",
+          "reading": "かんせつ"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "室",
+          "reading": "しつ"
+        },
+        {
+          "kanji": "侵入",
+          "reading": "しんにゅう"
+        },
+        {
+          "kanji": "盗",
+          "reading": "とう"
+        },
+        {
+          "kanji": "直接的",
+          "reading": "ちょくせつてき"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ちなみに、これらの脅威の3分類がITパスポート試験に出題されることは稀なので、脅威の違いを正確に区別できるようになる必要はありません。",
+      "vi": "Nhân tiện, việc phân loại 3 mối đe dọa này hiếm khi xuất hiện trong kỳ thi IT Passport, nên không cần phải phân biệt chính xác sự khác biệt của các mối đe dọa.",
+      "en": "By the way, classification of these 3 threats rarely appears in IT Passport exam, so no need to accurately distinguish differences of threats.",
+      "terms": [
+        {
+          "kanji": "脅威",
+          "reading": "きょうい"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "稀",
+          "reading": "まれ"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "正確",
+          "reading": "せいかく"
+        },
+        {
+          "kanji": "区別",
+          "reading": "くべつ"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "物理的脅威",
+      "vi": "Mối đe dọa vật lý",
+      "en": "Physical Threats",
+      "my": "ရုပ်ပိုင်းဆိုင်ရာ ခြိမ်းခြောက်"
+    },
+    {
+      "term": "ドライブバイダウンロード",
+      "vi": "Drive-by Download",
+      "en": "Drive-by Download",
+      "my": "ဒရိုက်ဘိုင် ဒေါင်းလုတ်"
+    },
+    {
+      "term": "DNSキャッシュポイズニング",
+      "vi": "DNS Cache Poisoning",
+      "en": "DNS Cache Poisoning",
+      "my": "DNS ကက်ရှ် အဆိပ်ထိုး"
+    },
+    {
+      "term": "DDoS攻撃",
+      "vi": "DDoS Attack (Tấn công từ chối dịch vụ phân tán)",
+      "en": "DDoS Attack (Distributed Denial of Service Attack)",
+      "my": "DDoS တိုက်ခိုက် (ဖြန့်ချိ ဝန်ဆောင်မှုငြင်းပယ်တိုက်ခိုက်)"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "is_key_content": true
+  }
+}

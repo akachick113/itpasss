@@ -1,0 +1,66 @@
+{
+    "page_id": 93,
+    "image": "p_0093.png",
+    "chapter": 2,
+    "section": "answers",
+    "page_number": 77,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "2-8",
+            "answer": "エ",
+            "explanation": {
+                "ja": "「基準」という言葉から「最低ライン」という言葉を連想できれば正解がわかります。\n\nア. 最低賃金法の説明です。\n\nイ. パートタイム労働法の説明です。\n\nウ. 労働者派遣法の説明です。",
+                "vi": "Nếu liên tưởng từ tiêu chuẩn đến mức tối thiểu thì có thể biết đáp án.\n\nア Giải thích về Luật lương tối thiểu.\n\nイ Giải thích về Luật lao động bán thời gian.\n\nウ Giải thích về Luật phái cử lao động.",
+                "en": "If you can associate Standards with Minimum level, you'll know the answer.\n\nA. Explanation of Minimum Wage Law.\n\nB. Explanation of Part-time Workers Law.\n\nC. Explanation of Worker Dispatch Law."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-9",
+            "answer": "イ",
+            "explanation": {
+                "ja": "労働者派遣においては、派遣元と派遣労働者との間に雇用関係があります。派遣元が労働者を雇用し、給与を支払います。",
+                "vi": "Trong phái cử lao động, có quan hệ lao động giữa công ty phái cử và lao động phái cử. Công ty phái cử thuê người lao động và trả lương.",
+                "en": "In worker dispatch, employment relationship exists between dispatch company and dispatched worker. Dispatch company employs workers and pays wages."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-10",
+            "answer": "イ",
+            "explanation": {
+                "ja": "営業秘密とは「秘密管理性」「有用性」「非公知性」の3つの条件を満たす情報です。",
+                "vi": "Bí mật kinh doanh là thông tin thỏa mãn 3 điều kiện: Quản lý bí mật, Hữu ích, Không công khai.",
+                "en": "Trade secrets are information meeting 3 conditions: Secret management, Usefulness, Non-public knowledge."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-11",
+            "answer": "エ",
+            "explanation": {
+                "ja": "①委託の場合、著作権は委託先に帰属します。\n②機密保持契約と著作権は関係ありません。\n③直接雇用の社員が作ったプログラムの著作権はその会社に帰属します。さらに、派遣社員が作ったプログラムの著作権もその会社に帰属します。派遣元ではありません。",
+                "vi": "①Trường hợp ủy thác, quyền tác giả thuộc về bên nhận ủy thác.\n②Hợp đồng bảo mật không liên quan đến quyền tác giả.\n③Quyền tác giả của chương trình do nhân viên trực tiếp tạo thuộc về công ty đó. Hơn nữa, quyền tác giả của chương trình do lao động phái cử tạo cũng thuộc về công ty đó. Không phải công ty phái cử.",
+                "en": "①For outsourcing, copyright belongs to contractor.\n②NDA is unrelated to copyright.\n③Copyright of programs made by direct employees belongs to that company. Also, copyright of programs made by dispatched workers belongs to that company. Not the dispatch company."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "2-12",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "フレックスタイム制とは、始業時間と終業時間を労働者が決められる制度です。aはフレックスタイム制の「コアタイム」の説明です。bは裁量労働制の説明です。cはフレックスタイム制の説明です。上司が労働時間を管理しないのが裁量労働制です。",
+                "vi": "Chế độ giờ linh hoạt là chế độ cho người lao động quyết định giờ bắt đầu và kết thúc. a là giải thích về Core Time của chế độ giờ linh hoạt. b là giải thích về chế độ lao động tự quyết. c là giải thích về chế độ giờ linh hoạt. Chế độ lao động tự quyết là khi cấp trên không quản lý thời gian làm việc.",
+                "en": "Flextime is a system where workers decide start and end times. a explains Core Time of flextime. b explains discretionary work system. c explains flextime. Discretionary work is when managers don't manage work hours."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "2-8, 2-9, 2-10, 2-11, 2-12"
+    }
+}

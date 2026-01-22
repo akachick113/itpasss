@@ -1,0 +1,110 @@
+{
+  "page_id": 581,
+  "image": "p_0581.png",
+  "chapter": 15,
+  "section": "15-06",
+  "page_number": 565,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ランサムウェアへの対策は、データのバックアップが有効",
+          "vi": "Biện pháp đối phó Ransomware, backup dữ liệu có hiệu quả",
+          "en": "For Ransomware countermeasure, data backup is effective"
+        },
+        {
+          "ja": "ファイアウォールとは、外部ネットワークからの不正アクセスを防ぐために、内部ネットワークと外部ネットワークの間に置かれるもの",
+          "vi": "Firewall là thứ được đặt giữa mạng nội bộ và mạng bên ngoài để ngăn truy cập trái phép từ mạng bên ngoài",
+          "en": "Firewall is placed between internal and external networks to prevent unauthorized access from external network"
+        },
+        {
+          "ja": "WAFとは、Webアプリケーションの脆弱性を狙った攻撃からシステムを守るための仕組み",
+          "vi": "WAF là cơ chế bảo vệ hệ thống khỏi tấn công nhắm vào lỗ hổng của ứng dụng Web",
+          "en": "WAF is mechanism protecting system from attacks targeting Web application vulnerabilities"
+        },
+        {
+          "ja": "DMZとは、企業内ネットワークと外部ネットワークの両方から論理的に隔離されたネットワーク領域である",
+          "vi": "DMZ là vùng mạng được cô lập logic khỏi cả mạng nội bộ doanh nghiệp và mạng bên ngoài",
+          "en": "DMZ is network area logically isolated from both corporate internal and external networks"
+        },
+        {
+          "ja": "SSL/TLSとは、パソコンとサーバ間の通信を暗号化する通信プロトコル。SSL/TLSを使った通信ではURLが「https://」ではじまる",
+          "vi": "SSL/TLS là giao thức truyền thông mã hóa truyền thông giữa máy tính và server. Truyền thông sử dụng SSL/TLS có URL bắt đầu bằng \"https://\"",
+          "en": "SSL/TLS is communication protocol encrypting communication between computer and server. Communication using SSL/TLS has URL starting with 'https://'"
+        },
+        {
+          "ja": "HTTPSが暗号化する範囲はWebブラウザからWebサーバの間",
+          "vi": "Phạm vi HTTPS mã hóa là từ trình duyệt Web đến Web server",
+          "en": "HTTPS encryption scope is from Web browser to Web server"
+        },
+        {
+          "ja": "WPA2が暗号化する範囲はPCからアクセスポイントの間",
+          "vi": "Phạm vi WPA2 mã hóa là từ PC đến access point",
+          "en": "WPA2 encryption scope is from PC to access point"
+        },
+        {
+          "ja": "VPNとは、公衆回線をあたかも専用回線であるかのごとく利用できるようにするために使われる技術である",
+          "vi": "VPN là công nghệ được sử dụng để có thể sử dụng đường truyền công cộng như thể là đường truyền chuyên dụng",
+          "en": "VPN is technology used to enable using public lines as if dedicated lines"
+        },
+        {
+          "ja": "ペネトレーションテストとは、システムに対して、実際にシステムを攻撃することで、セキュリティ上の弱点を発見するテスト手法",
+          "vi": "Penetration Test là phương pháp kiểm tra phát hiện điểm yếu bảo mật bằng cách thực sự tấn công hệ thống",
+          "en": "Penetration Test is test method discovering security weaknesses by actually attacking system"
+        },
+        {
+          "ja": "ワンタイムパスワードとは、一度しか使えない使い捨てのパスワードを使うことで、不正アクセスを防止する仕組みである",
+          "vi": "One-Time Password là cơ chế ngăn chặn truy cập trái phép bằng cách sử dụng mật khẩu dùng một lần",
+          "en": "One-Time Password is mechanism preventing unauthorized access by using disposable password"
+        },
+        {
+          "ja": "シングルサインオンとは、一度の認証で、許可されている複数のサーバやアプリケーションなどを利用できる仕組みである",
+          "vi": "Single Sign-On là cơ chế cho phép sử dụng nhiều server hoặc ứng dụng được phép với một lần xác thực",
+          "en": "Single Sign-On is mechanism allowing use of multiple permitted servers or applications with one authentication"
+        },
+        {
+          "ja": "耐タンパ性とは、システムの内部データの解析のしにくさを表す度合いである",
+          "vi": "Tamper Resistance là mức độ thể hiện độ khó phân tích dữ liệu nội bộ của hệ thống",
+          "en": "Tamper Resistance is degree showing difficulty of analyzing system's internal data"
+        },
+        {
+          "ja": "セキュリティバイデザインとは、システムの企画・設計段階からセキュリティを確保すること",
+          "vi": "Security By Design là đảm bảo bảo mật từ giai đoạn lập kế hoạch và thiết kế hệ thống",
+          "en": "Security By Design is ensuring security from system planning and design stages"
+        },
+        {
+          "ja": "セキュアブートとは、PCの起動時にOSのデジタル署名を検証することで、許可されていないOSの実行を防ぐ技術",
+          "vi": "Secure Boot là công nghệ ngăn thực thi OS không được phép bằng cách xác minh chữ ký số của OS khi khởi động PC",
+          "en": "Secure Boot is technology preventing execution of unauthorized OS by verifying OS digital signature when PC boots"
+        },
+        {
+          "ja": "リスクベース認証とは、リスクの高さに応じて、追加の認証を行う認証方式",
+          "vi": "Risk-Based Authentication là phương thức xác thực thực hiện xác thực bổ sung tùy theo mức độ rủi ro",
+          "en": "Risk-Based Authentication is authentication method performing additional authentication according to risk level"
+        },
+        {
+          "ja": "ブロックチェーンの特徴は、取引履歴の改ざんが困難なこと",
+          "vi": "Đặc điểm của Blockchain là việc sửa đổi lịch sử giao dịch rất khó khăn",
+          "en": "Characteristic of Blockchain is difficulty of falsifying transaction history"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "has_exam_tip": true,
+    "is_summary": true
+  }
+}

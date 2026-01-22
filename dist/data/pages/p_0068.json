@@ -1,0 +1,47 @@
+{
+    "page_id": 68,
+    "image": "p_0068.png",
+    "chapter": 1,
+    "section": "answers",
+    "page_number": 52,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "1-15",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "④営業利益を以下の式で求めます。\n営業利益 = 経常利益 − 営業外収益 + 営業外費用\n= 1,100 − 150 + 50\n= 1,000\n\n⑤販売費及び一般管理費を以下の式で求めます。\n販売費及び一般管理費 = 売上総利益 − 営業利益\n= 2,000 − 1,000\n= 1,000\n\nよって、設問で空欄になっていた販売費及び一般管理費は「1,000」であることがわかります。\n\nこの問題のように、空欄の数値を1つずつ計算によって求めるような問題も出題されるので、p.43の表で各費目の関係性を確認し、計算で求められるようになっておくことは重要です。",
+                "vi": "④Tính lợi nhuận hoạt động:\nLợi nhuận hoạt động = Lợi nhuận thường xuyên − Doanh thu ngoài hoạt động + Chi phí ngoài hoạt động\n= 1,100 − 150 + 50\n= 1,000\n\n⑤Tính chi phí bán hàng và quản lý:\nChi phí bán hàng và quản lý = Lợi nhuận gộp − Lợi nhuận hoạt động\n= 2,000 − 1,000\n= 1,000\n\nVậy, chi phí bán hàng và quản lý để trống trong câu hỏi là \"1,000\".\n\nNhư trong bài này, các câu hỏi yêu cầu tính từng giá trị trống cũng được ra đề, nên việc xác nhận mối quan hệ giữa các khoản mục trong bảng trang 43 và có thể tính toán là rất quan trọng.",
+                "en": "④Calculate operating profit:\nOperating profit = Ordinary profit − Non-operating income + Non-operating expenses\n= 1,100 − 150 + 50\n= 1,000\n\n⑤Calculate SGA expenses:\nSGA = Gross profit − Operating profit\n= 2,000 − 1,000\n= 1,000\n\nThus, SGA expenses that was blank is \"1,000\".\n\nLike this problem, questions requiring calculating blank values one by one appear on exams, so confirming relationships between items in p.43 table and being able to calculate is important."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-16",
+            "answer": "ア",
+            "explanation": {
+                "ja": "自己資本比率は次の計算式で求めます。\n\n自己資本比率（%）= 自己資本/総資本 × 100\n\n自己資本は「純資産の部」の金額なので240、総資本は「負債の部」と「純資産の部」を合計した金額なので600です。よって自己資本比率は40%になります。\n\n自己資本比率（%）= 240/600 × 100 = 40%",
+                "vi": "Tỷ lệ vốn tự có được tính theo công thức:\n\nTỷ lệ vốn tự có (%) = Vốn tự có/Tổng vốn × 100\n\nVốn tự có là số tiền trong \"Phần tài sản ròng\" nên là 240, tổng vốn là tổng của \"Phần nợ\" và \"Phần tài sản ròng\" nên là 600. Vậy tỷ lệ vốn tự có là 40%.\n\nTỷ lệ vốn tự có (%) = 240/600 × 100 = 40%",
+                "en": "Equity ratio is calculated as:\n\nEquity ratio (%) = Equity/Total capital × 100\n\nEquity is the \"Net assets\" amount: 240. Total capital is \"Liabilities\" + \"Net assets\": 600. So equity ratio is 40%.\n\nEquity ratio (%) = 240/600 × 100 = 40%"
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "number": "1-17",
+            "answer": "イ",
+            "explanation": {
+                "ja": "今回の問題では、情報をまとめると次のようになります。\n\n単価：2万円 / 固定費：3,000万円 / 変動費：0.5万円\n損益分岐点の販売個数：？\n\nまずは売上の直線を書きます。製品Aが1つ売れるごとに2万円の売上になるので、売上を表す方程式は「y = 2x」です。\n\n次に固定費を加えた変動費の直線を書きます。\n固定費は3,000万円、変動費は製品が1つ売れるごとに0.5万円かかるので、固定費を加えた費用の方程式は「y = 0.5x + 3,000」になります。\n\n上記の2つの方程式を解くことで求めることができます。\n「y = 2x」と「y = 0.5x + 3,000」より、\n\n2x = 0.5x + 3,000\n1.5x = 3,000\n\nよって、x = 2,000となり、y = 2xより、y = 4,000になります。正解は「2,000個」となります。なお、損益分岐点の売上高は「4,000万円」です。",
+                "vi": "Tổng hợp thông tin trong bài này:\n\nĐơn giá: 20,000 yên / Chi phí cố định: 30 triệu yên / Chi phí biến đổi: 5,000 yên\nSố lượng bán tại điểm hòa vốn: ?\n\nTrước tiên vẽ đường doanh thu. Mỗi sản phẩm A bán được tạo ra 20,000 yên doanh thu, nên phương trình doanh thu là \"y = 2x\".\n\nTiếp theo vẽ đường chi phí biến đổi cộng chi phí cố định.\nChi phí cố định là 30 triệu yên, chi phí biến đổi là 5,000 yên mỗi sản phẩm, nên phương trình chi phí là \"y = 0.5x + 3,000\".\n\nGiải 2 phương trình trên:\nTừ \"y = 2x\" và \"y = 0.5x + 3,000\":\n\n2x = 0.5x + 3,000\n1.5x = 3,000\n\nVậy x = 2,000, từ y = 2x, y = 4,000. Đáp án là \"2,000 cái\". Doanh thu tại điểm hòa vốn là \"40 triệu yên\".",
+                "en": "Summarizing the problem information:\n\nUnit price: 20,000 yen / Fixed cost: 30 million yen / Variable cost: 5,000 yen\nBreak-even sales quantity: ?\n\nFirst draw the sales line. Each Product A sold generates 20,000 yen revenue, so sales equation is \"y = 2x\".\n\nNext draw variable cost line with fixed cost.\nFixed cost is 30 million yen, variable cost is 5,000 yen per unit, so cost equation is \"y = 0.5x + 3,000\".\n\nSolve the two equations:\nFrom \"y = 2x\" and \"y = 0.5x + 3,000\":\n\n2x = 0.5x + 3,000\n1.5x = 3,000\n\nSo x = 2,000, from y = 2x, y = 4,000. Answer is \"2,000 units\". Break-even sales is \"40 million yen\"."
+            }
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "has_table": false,
+        "has_diagram": false,
+        "is_answer_page": true,
+        "answers_covered": "1-15, 1-16, 1-17",
+        "has_formula": true
+    }
+}

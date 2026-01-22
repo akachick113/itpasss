@@ -1,0 +1,489 @@
+{
+  "page_id": 263,
+  "image": "p_0263.png",
+  "chapter": 6,
+  "section": "06-07",
+  "page_number": 247,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "アジャイル開発が求められる背景",
+      "reading": "あじゃいるかいはつがもとめられるはいけい",
+      "vi": "Bối cảnh yêu cầu Agile Development",
+      "en": "Background Requiring Agile Development"
+    },
+    {
+      "type": "paragraph",
+      "ja": "顧客ニーズの多様化やグローバル競争の激化、ITの発展などを背景に、現在では、従来以上に高品質の製品を、より速く開発することが求められています。このため、ウォーターフォールモデルのように「開発プロセスの最後になるまで、製品の完成形が見えてこない」ような開発手法では、求められるスピードで製品を開発することができません。",
+      "vi": "Với bối cảnh đa dạng hóa nhu cầu khách hàng, cạnh tranh toàn cầu gay gắt, và phát triển IT, hiện nay yêu cầu phát triển sản phẩm chất lượng cao hơn trước với tốc độ nhanh hơn. Do đó, với phương pháp phát triển như Waterfall Model mà \"không thấy được hình thức hoàn thành sản phẩm cho đến cuối quy trình phát triển\", không thể phát triển sản phẩm với tốc độ yêu cầu.",
+      "en": "With background of diversifying customer needs, intensifying global competition, and IT development, now high-quality products must be developed faster than before. Therefore, development methods like Waterfall Model where 'the completed product form isn't visible until the end of development process' can't develop products at required speed.",
+      "terms": [
+        {
+          "kanji": "顧客",
+          "reading": "こきゃく"
+        },
+        {
+          "kanji": "多様化",
+          "reading": "たようか"
+        },
+        {
+          "kanji": "競争",
+          "reading": "きょうそう"
+        },
+        {
+          "kanji": "激化",
+          "reading": "げきか"
+        },
+        {
+          "kanji": "発展",
+          "reading": "はってん"
+        },
+        {
+          "kanji": "背景",
+          "reading": "はいけい"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "従来以上",
+          "reading": "じゅうらいいじょう"
+        },
+        {
+          "kanji": "高品質",
+          "reading": "こうひんしつ"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "速",
+          "reading": "そく"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "最後",
+          "reading": "さいご"
+        },
+        {
+          "kanji": "完成形",
+          "reading": "かんせいかたち"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        },
+        {
+          "kanji": "開発手法",
+          "reading": "かいはつしゅほう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "さらに、競争の激しい現代では、製品の開発途中に顧客ニーズが変化する可能性も十分にあります。このため、「最初に決めた仕様から、一切変更できない」アプローチでは、売れない製品を作る作業を続けることになってしまいます。このような背景のもと、迅速、かつ適切に顧客ニーズに応えることができるアジャイル開発の必要性が高まっています。",
+      "vi": "Hơn nữa, trong thời đại cạnh tranh gay gắt, có đủ khả năng nhu cầu khách hàng sẽ thay đổi trong quá trình phát triển sản phẩm. Do đó, với cách tiếp cận \"không thể thay đổi gì từ thông số đã quyết định ban đầu\", sẽ tiếp tục công việc tạo sản phẩm không bán được. Với bối cảnh này, nhu cầu về Agile Development có thể đáp ứng nhu cầu khách hàng nhanh chóng và thích hợp đang tăng lên.",
+      "en": "Furthermore, in today's intense competition, there's sufficient possibility that customer needs may change during product development. Therefore, with approach of 'no changes allowed from initially decided specifications,' you end up continuing work on unsellable products. With this background, the need for Agile Development that can respond to customer needs quickly and appropriately is increasing.",
+      "terms": [
+        {
+          "kanji": "競争",
+          "reading": "きょうそう"
+        },
+        {
+          "kanji": "激",
+          "reading": "げき"
+        },
+        {
+          "kanji": "現代",
+          "reading": "げんだい"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "開発途中",
+          "reading": "かいはつとちゅう"
+        },
+        {
+          "kanji": "顧客",
+          "reading": "こきゃく"
+        },
+        {
+          "kanji": "変化",
+          "reading": "へんか"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "十分",
+          "reading": "じゅうぶん"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "仕様",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "一切変更",
+          "reading": "いっさいへんこう"
+        },
+        {
+          "kanji": "売",
+          "reading": "う"
+        },
+        {
+          "kanji": "作",
+          "reading": "つく"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "続",
+          "reading": "ぞく"
+        },
+        {
+          "kanji": "背景",
+          "reading": "はいけい"
+        },
+        {
+          "kanji": "迅速",
+          "reading": "じんそく"
+        },
+        {
+          "kanji": "適切",
+          "reading": "てきせつ"
+        },
+        {
+          "kanji": "応",
+          "reading": "おう"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "必要性",
+          "reading": "ひつようせい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "アジャイル開発の特徴",
+      "reading": "あじゃいるかいはつのとくちょう",
+      "vi": "Đặc điểm của Agile Development",
+      "en": "Characteristics of Agile Development"
+    },
+    {
+      "type": "paragraph",
+      "ja": "アジャイル開発では、事前に綿密な計画を立てずに、品質は高くなくとも、素早く市場に製品をリリースします。製品をリリースすることで市場のニーズを把握できます。その市場の反応を取り入れ、仕様を変更し、改善した製品を再リリースします。",
+      "vi": "Trong Agile Development, không lập kế hoạch chi tiết trước, dù chất lượng không cao, vẫn release sản phẩm nhanh chóng ra thị trường. Bằng cách release sản phẩm có thể nắm bắt nhu cầu thị trường. Tiếp nhận phản ứng thị trường, thay đổi thông số, và re-release sản phẩm đã cải thiện.",
+      "en": "In Agile Development, without making detailed plans beforehand, products are released quickly to market even if quality isn't high. By releasing products, market needs can be understood. Market reactions are incorporated, specifications changed, and improved products re-released.",
+      "terms": [
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "事前",
+          "reading": "じぜん"
+        },
+        {
+          "kanji": "綿密",
+          "reading": "めんみつ"
+        },
+        {
+          "kanji": "計画",
+          "reading": "けいかく"
+        },
+        {
+          "kanji": "立",
+          "reading": "た"
+        },
+        {
+          "kanji": "品質",
+          "reading": "ひんしつ"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "素早",
+          "reading": "もとそう"
+        },
+        {
+          "kanji": "市場",
+          "reading": "しじょう"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        },
+        {
+          "kanji": "反応",
+          "reading": "はんのう"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "仕様",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "変更",
+          "reading": "へんこう"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "再",
+          "reading": "さい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このように、仕様変更を柔軟に行いながら、小刻みに製品をリリースすることで、現在の製品に求められるスピードと品質に対応しようとする開発手法がアジャイル開発です。",
+      "vi": "Như vậy, Agile Development là phương pháp phát triển cố gắng đáp ứng tốc độ và chất lượng yêu cầu của sản phẩm hiện tại bằng cách release sản phẩm từng chút một trong khi thực hiện thay đổi thông số linh hoạt.",
+      "en": "In this way, Agile Development is a development method that tries to meet required speed and quality for current products by releasing products incrementally while flexibly making specification changes.",
+      "terms": [
+        {
+          "kanji": "仕様変更",
+          "reading": "しようへんこう"
+        },
+        {
+          "kanji": "柔軟",
+          "reading": "じゅうなん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "小刻",
+          "reading": "しょうこく"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "求",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "品質",
+          "reading": "ひんしつ"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "開発手法",
+          "reading": "かいはつしゅほう"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では、アジャイル開発は「ウォーターフォールモデルの問題点を解決する開発モデル」として出題されます。このような設問に正答するためにも、下表のウォーターフォールモデルとの3つの違いを押さえておいてください。",
+      "vi": "Trong kỳ thi IT Passport, Agile Development được ra đề như \"mô hình phát triển giải quyết vấn đề của Waterfall Model\". Để trả lời đúng câu hỏi như vậy, hãy nắm 3 điểm khác biệt với Waterfall Model trong bảng dưới.",
+      "en": "In IT Passport exam, Agile Development appears as 'development model that solves Waterfall Model problems.' To answer such questions correctly, understand the 3 differences from Waterfall Model in the table below.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "kanji": "問題点",
+          "reading": "もんだいてん"
+        },
+        {
+          "kanji": "解決",
+          "reading": "かいけつ"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "設問",
+          "reading": "せつもん"
+        },
+        {
+          "kanji": "正答",
+          "reading": "せいとう"
+        },
+        {
+          "kanji": "下表",
+          "reading": "かひょう"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "押",
+          "reading": "おう"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "ウォーターフォールモデルとアジャイル開発の違い",
+        "vi": "Sự khác biệt giữa Waterfall Model và Agile Development",
+        "en": "Differences Between Waterfall Model and Agile Development"
+      },
+      "headers": {
+        "ja": [
+          "",
+          "ウォーターフォールモデル",
+          "アジャイル開発"
+        ],
+        "vi": [
+          "",
+          "Waterfall Model",
+          "Agile Development"
+        ],
+        "en": [
+          "",
+          "Waterfall Model",
+          "Agile Development"
+        ]
+      },
+      "rows": [
+        {
+          "item": {
+            "ja": "事前の計画",
+            "vi": "Kế hoạch trước",
+            "en": "Prior Planning"
+          },
+          "waterfall": {
+            "ja": "計画を綿密に立てる",
+            "vi": "Lập kế hoạch chi tiết",
+            "en": "Make detailed plans"
+          },
+          "agile": {
+            "ja": "計画の変更が前提",
+            "vi": "Giả định thay đổi kế hoạch",
+            "en": "Plan changes assumed"
+          }
+        },
+        {
+          "item": {
+            "ja": "適したプロジェクト規模",
+            "vi": "Quy mô dự án phù hợp",
+            "en": "Suitable Project Size"
+          },
+          "waterfall": {
+            "ja": "大きなプロジェクト",
+            "vi": "Dự án lớn",
+            "en": "Large projects"
+          },
+          "agile": {
+            "ja": "小さなプロジェクト",
+            "vi": "Dự án nhỏ",
+            "en": "Small projects"
+          }
+        },
+        {
+          "item": {
+            "ja": "仕様変更への対応",
+            "vi": "Đối ứng thay đổi thông số",
+            "en": "Response to Spec Changes"
+          },
+          "waterfall": {
+            "ja": "弱い",
+            "vi": "Yếu",
+            "en": "Weak"
+          },
+          "agile": {
+            "ja": "強い",
+            "vi": "Mạnh",
+            "en": "Strong"
+          }
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "もう少し詳しく！アジャイル開発のデメリット",
+        "vi": "Chi tiết hơn! Nhược điểm của Agile Development",
+        "en": "More Details! Demerits of Agile Development"
+      },
+      "content": {
+        "ja": "アジャイル開発にもデメリットがあります。一般的に「アジャイル開発は大きなプロジェクト」や、「大規模開発には向いていない」といわれています。このようになわれる理由は、大規模案件ではプロジェクトをはじめる段階で見積もりが作りづらく、そのために契約の締結が困難であるからです。",
+        "vi": "Agile Development cũng có nhược điểm. Nói chung được cho là \"Agile Development cho dự án lớn\" hoặc \"không phù hợp cho phát triển quy mô lớn\". Lý do là với dự án quy mô lớn, ước tính khó thực hiện ở giai đoạn bắt đầu dự án, do đó việc ký kết hợp đồng khó khăn.",
+        "en": "Agile Development also has demerits. Generally it's said 'Agile Development for large projects' or 'not suitable for large-scale development.' The reason is for large-scale projects, estimates are difficult at project start stage, making contract conclusion difficult."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "仕様変更",
+      "reading": "しようへんこう",
+      "romaji": "Shiyou Henkou",
+      "vi": "Thay đổi thông số",
+      "en": "Specification Change",
+      "my": "သတ်မှတ်ချက် ပြောင်းလဲခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true
+  }
+}

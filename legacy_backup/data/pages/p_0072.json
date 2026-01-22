@@ -1,0 +1,419 @@
+{
+  "page_id": 72,
+  "image": "p_0072.png",
+  "chapter": 2,
+  "section": "02-01",
+  "page_number": 56,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "02-01",
+      "ja": "3つの知的財産権",
+      "reading": "3つのちてきざいさんけん",
+      "vi": "3 loại Quyền sở hữu trí tuệ",
+      "en": "3 Types of Intellectual Property Rights",
+      "my": "ဉာဏပိုင်ဆိုင်ခွင့် ၃ မျိုး"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "頭の中の財産",
+        "vi": "Tài sản trong đầu",
+        "en": "Property in Your Head",
+        "my": "ခေါင်းထဲက ပိုင်ဆိုင်မှု"
+      },
+      "content": {
+        "ja": "財産といえば「現金」や「土地」など、目に見えてさわれる「形のあるもの」を連想する人が多いのですが、高度に発達した情報産業においては、「目に見えない財産」もたくさんあり、それを「知的財産」といいます。",
+        "vi": "Khi nói đến tài sản, nhiều người liên tưởng đến \"tiền mặt\" hay \"đất đai\" - những \"vật có hình dạng\" nhìn thấy và chạm được. Tuy nhiên, trong ngành công nghiệp thông tin phát triển cao, có rất nhiều \"tài sản vô hình\", được gọi là \"tài sản trí tuệ\".",
+        "en": "When people think of property, many imagine tangible things like \"cash\" or \"land\". However, in the highly developed information industry, there are many \"invisible assets\" called \"intellectual property\".",
+        "my": "ပိုင်ဆိုင်မှုဆိုရင် လူအများစုက \"ငွေသား\" သို့မဟုတ် \"မြေ\" လို ကိုင်တွယ်ထိတွေ့နိုင်တဲ့ အရာတွေကို မြင်ယောင်ကြသည်။",
+        "terms": [
+          {
+            "kanji": "財産",
+            "reading": "ざいさん"
+          },
+          {
+            "kanji": "現金",
+            "reading": "げんきん"
+          },
+          {
+            "kanji": "土地",
+            "reading": "とち"
+          },
+          {
+            "kanji": "目",
+            "reading": "め"
+          },
+          {
+            "kanji": "見",
+            "reading": "けん"
+          },
+          {
+            "kanji": "形",
+            "reading": "かたち"
+          },
+          {
+            "kanji": "連想",
+            "reading": "れんそう"
+          },
+          {
+            "kanji": "人",
+            "reading": "にん"
+          },
+          {
+            "kanji": "多",
+            "reading": "た"
+          },
+          {
+            "kanji": "高度",
+            "reading": "こうど"
+          },
+          {
+            "kanji": "発達",
+            "reading": "はったつ"
+          },
+          {
+            "kanji": "情報産業",
+            "reading": "じょうほうさんぎょう"
+          },
+          {
+            "kanji": "知的財産",
+            "reading": "ちてきざいさん"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "本章の内容に関しては、ITパスポート試験の出題傾向がはっきりとしているので、最初にお伝えします。本章記載の用語の中で圧倒的に出題頻度が高いのは「著作権」に関する問題で、次いで「不正アクセス禁止法」、そして「情報公開法」です。この3つの用語については必ず内容を理解しておいてください。",
+      "vi": "Về nội dung chương này, xu hướng ra đề của kỳ thi IT Passport rất rõ ràng nên sẽ nói trước. Trong các thuật ngữ trong chương này, tần suất ra đề cao nhất áp đảo là về \"Quyền tác giả\", tiếp theo là \"Luật cấm truy cập trái phép\", và \"Luật công khai thông tin\". Hãy chắc chắn hiểu nội dung của 3 thuật ngữ này.",
+      "en": "Regarding this chapter's content, the IT Passport exam question trends are clear, so I'll explain first. Among terms in this chapter, questions about \"Copyright\" are overwhelmingly frequent, followed by \"Unauthorized Access Prohibition Law\" and \"Information Disclosure Law\". Make sure to understand these 3 terms.",
+      "my": "ဤအခန်းအကြောင်းအရာနှင့်ပတ်သက်၍ IT Passport စာမေးပွဲ၏ မေးခွန်းထုတ်နိုင်မှုသည် ရှင်းလင်းသည်။",
+      "terms": [
+        {
+          "kanji": "本章",
+          "reading": "ほんしょう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題傾向",
+          "reading": "しゅつだいけいこう"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "伝",
+          "reading": "でん"
+        },
+        {
+          "kanji": "本章記載",
+          "reading": "ほんしょうきさい"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "圧倒的",
+          "reading": "あっとうてき"
+        },
+        {
+          "kanji": "出題頻度",
+          "reading": "しゅつだいひんど"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "著作権",
+          "reading": "ちょさくけん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "禁止法",
+          "reading": "きんしほう"
+        },
+        {
+          "kanji": "情報公開法",
+          "reading": "じょうほうこうかいほう"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "知的財産権",
+      "reading": "ちてきざいさんけん",
+      "vi": "Quyền sở hữu trí tuệ",
+      "en": "Intellectual Property Rights",
+      "my": "ဉာဏပိုင်ဆိုင်ခွင့်"
+    },
+    {
+      "type": "paragraph",
+      "ja": "知的財産とは、人の知恵から生み出された発明やデザインといった「形のない財産」です。この形がなく、目に見えない知的財産を、形のあるものと同様に所有するための権利が「知的財産権」です。知的財産権は経営資源（p.18）の1つである「情報（チエ）」に含まれる要素です。知的財産権は大きく「著作権」「産業財産権」「その他の権利」の3つに分類されます。",
+      "vi": "Tài sản trí tuệ là \"tài sản vô hình\" như phát minh và thiết kế được tạo ra từ trí tuệ con người. Quyền sở hữu tài sản trí tuệ vô hình này giống như sở hữu vật có hình dạng được gọi là \"quyền sở hữu trí tuệ\". Quyền sở hữu trí tuệ là yếu tố thuộc \"Thông tin (Trí tuệ)\" - một trong các nguồn lực kinh doanh (trang 18). Quyền sở hữu trí tuệ được chia lớn thành 3 loại: \"Quyền tác giả\", \"Quyền sở hữu công nghiệp\", và \"Quyền khác\".",
+      "en": "Intellectual property is \"intangible property\" like inventions and designs created from human wisdom. The right to own this invisible intellectual property like tangible things is \"intellectual property rights\". It's part of \"Information (Wisdom)\" - one of management resources (p.18). IP rights are broadly classified into \"Copyright\", \"Industrial Property Rights\", and \"Other Rights\".",
+      "my": "ဉာဏပိုင်ဆိုင်မှုသည် လူသားဉာဏ်မှ ဖန်တီးထားသော တီထွင်မှုများနှင့် ဒီဇိုင်းများကဲ့သို့ \"ကိုင်တွယ်မရသော ပိုင်ဆိုင်မှု\" ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "知的財産",
+          "reading": "ちてきざいさん"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "知恵",
+          "reading": "ちえ"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "出",
+          "reading": "しゅつ"
+        },
+        {
+          "kanji": "発明",
+          "reading": "はつめい"
+        },
+        {
+          "kanji": "形",
+          "reading": "かたち"
+        },
+        {
+          "kanji": "財産",
+          "reading": "ざいさん"
+        },
+        {
+          "kanji": "目",
+          "reading": "め"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "同様",
+          "reading": "どうよう"
+        },
+        {
+          "kanji": "所有",
+          "reading": "しょゆう"
+        },
+        {
+          "kanji": "権利",
+          "reading": "けんり"
+        },
+        {
+          "kanji": "知的財産権",
+          "reading": "ちてきざいさんけん"
+        },
+        {
+          "kanji": "経営資源",
+          "reading": "けいえいしげん"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "要素",
+          "reading": "ようそ"
+        },
+        {
+          "kanji": "大",
+          "reading": "だい"
+        },
+        {
+          "kanji": "著作権",
+          "reading": "ちょさくけん"
+        },
+        {
+          "kanji": "産業財産権",
+          "reading": "さんぎょうざいさんけん"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "著作権",
+      "reading": "ちょさくけん",
+      "vi": "Quyền tác giả",
+      "en": "Copyright",
+      "my": "မူပိုင်ခွင့်"
+    },
+    {
+      "type": "paragraph",
+      "ja": "著作権とは、創作物に対する権利です。例えば、本や絵、音楽など、文化、芸術に対する権利です。著作権を得るために何らかの申請を行う必要はありません。著作権は著作物を創作した時点で発生します。みなさんが、ノートに絵を描けば、その絵には著作権が発生し、その権利はみなさんになります。",
+      "vi": "Quyền tác giả là quyền đối với tác phẩm sáng tạo. Ví dụ, quyền đối với sách, tranh, âm nhạc và văn hóa, nghệ thuật. Không cần đăng ký gì để có quyền tác giả. Quyền tác giả phát sinh tại thời điểm tạo ra tác phẩm. Nếu bạn vẽ tranh vào sổ, tranh đó có quyền tác giả và quyền đó thuộc về bạn.",
+      "en": "Copyright is a right to creative works. For example, rights to books, drawings, music, culture, and art. No application is needed to obtain copyright. Copyright arises the moment a work is created. If you draw a picture in your notebook, that picture has copyright and the right belongs to you.",
+      "my": "မူပိုင်ခွင့်သည် ဖန်တီးမှုများအပေါ် အခွင့်အရေးဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "著作権",
+          "reading": "ちょさくけん"
+        },
+        {
+          "kanji": "創作物",
+          "reading": "そうさくぶつ"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "権利",
+          "reading": "けんり"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "本",
+          "reading": "ほん"
+        },
+        {
+          "kanji": "絵",
+          "reading": "え"
+        },
+        {
+          "kanji": "音楽",
+          "reading": "おんがく"
+        },
+        {
+          "kanji": "文化",
+          "reading": "ぶんか"
+        },
+        {
+          "kanji": "芸術",
+          "reading": "げいじゅつ"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "申請",
+          "reading": "しんせい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "著作物",
+          "reading": "ちょさくぶつ"
+        },
+        {
+          "kanji": "創作",
+          "reading": "そうさく"
+        },
+        {
+          "kanji": "時点",
+          "reading": "じてん"
+        },
+        {
+          "kanji": "発生",
+          "reading": "はっせい"
+        },
+        {
+          "kanji": "描",
+          "reading": "びょう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "知的財産権",
+      "reading": "ちてきざいさんけん",
+      "romaji": "Chiteki Zaisan Ken",
+      "vi": "Quyền sở hữu trí tuệ",
+      "en": "Intellectual Property Rights",
+      "my": "ဉာဏပိုင်ဆိုင်ခွင့်"
+    },
+    {
+      "kanji": "著作権",
+      "reading": "ちょさくけん",
+      "romaji": "Chosakuken",
+      "vi": "Quyền tác giả",
+      "en": "Copyright",
+      "my": "မူပိုင်ခွင့်"
+    },
+    {
+      "kanji": "著作物",
+      "reading": "ちょさくぶつ",
+      "romaji": "Chosakubutsu",
+      "vi": "Tác phẩm",
+      "en": "Creative Work",
+      "my": "ဖန်တီးမှုလက်ရာ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

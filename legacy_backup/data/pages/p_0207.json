@@ -1,0 +1,300 @@
+{
+  "page_id": 207,
+  "image": "p_0207.png",
+  "chapter": 5,
+  "section": "05-04",
+  "page_number": 191,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "PaaS",
+      "reading": "ぱーす",
+      "vi": "PaaS",
+      "en": "PaaS"
+    },
+    {
+      "type": "paragraph",
+      "ja": "PaaS（Platform as a Service）とは、プラットフォーム（アプリケーションソフトウェアを動かすために必要な土台）をインターネット上で提供するサービスです。「IaaSにOSを加えたサービス」ということもできます。",
+      "vi": "PaaS (Platform as a Service) là dịch vụ cung cấp platform (nền tảng cần thiết để chạy phần mềm ứng dụng) qua internet. Có thể nói là dịch vụ thêm OS vào IaaS.",
+      "en": "PaaS (Platform as a Service) is a service providing platforms (the foundation needed to run application software) over the internet. It can also be called 'IaaS plus OS'.",
+      "my": "PaaS (Platform as a Service) သည် platform (application software ကို run ရန် လိုအပ်သော အခြေခံ) ကို အင်တာနက်မှ ပေးဆောင်သော ဝန်ဆောင်မှုဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "動",
+          "reading": "どう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "土台",
+          "reading": "どだい"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "加",
+          "reading": "か"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "SaaS",
+      "reading": "さーす",
+      "vi": "SaaS",
+      "en": "SaaS"
+    },
+    {
+      "type": "paragraph",
+      "ja": "SaaS（Software as a Service）とは、ソフトウェアをインターネット上で提供するサービスです。「PaaSにアプリケーションソフトウェアを加えたサービス」ということもできます。\n\nSaaSは、ソフトウェアパッケージのような商品ではありません。商品を売る代わりに、そのソフトウェアの機能をサービスとして提供します。",
+      "vi": "SaaS (Software as a Service) là dịch vụ cung cấp phần mềm qua internet. Có thể nói là dịch vụ thêm phần mềm ứng dụng vào PaaS.\n\nSaaS không phải sản phẩm như gói phần mềm. Thay vì bán sản phẩm, cung cấp chức năng phần mềm như dịch vụ.",
+      "en": "SaaS (Software as a Service) is a service providing software over the internet. It can also be called 'PaaS plus application software'.\n\nSaaS is not a product like software packages. Instead of selling products, it provides software functionality as a service.",
+      "my": "SaaS (Software as a Service) သည် software ကို အင်တာနက်မှ ပေးဆောင်သော ဝန်ဆောင်မှုဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "加",
+          "reading": "か"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "売",
+          "reading": "ばい"
+        },
+        {
+          "kanji": "代",
+          "reading": "だい"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "SaaSとASP",
+        "vi": "SaaS và ASP",
+        "en": "SaaS and ASP",
+        "terms": [
+          {
+            "kanji": "SaaS",
+            "reading": "さーす"
+          }
+        ]
+      },
+      "content": {
+        "ja": "SaaSと似たサービスに「ASP（Application Service Provider）」というサービスがあります。サーバ上のアプリケーションソフトウェアをインターネット経由で提供するサービス、またはその事業者です。SaaSとASPの違いは、SaaSでは複数のサーバを複数の企業が共有して利用するのに対して、ASPでは1つのサーバを1つの企業が独占して利用します。",
+        "vi": "Có dịch vụ tương tự SaaS là ASP (Application Service Provider). Là dịch vụ hoặc nhà cung cấp phần mềm ứng dụng trên server qua internet. Khác biệt giữa SaaS và ASP là SaaS nhiều công ty chia sẻ sử dụng nhiều server, còn ASP một công ty độc quyền sử dụng một server.",
+        "en": "There's a similar service to SaaS called 'ASP (Application Service Provider)'. It's a service or provider offering server application software via internet. The difference between SaaS and ASP is: in SaaS, multiple companies share multiple servers, while in ASP, one company exclusively uses one server.",
+        "terms": [
+          {
+            "kanji": "似",
+            "reading": "じ"
+          },
+          {
+            "kanji": "上",
+            "reading": "うえ"
+          },
+          {
+            "kanji": "経由",
+            "reading": "けいゆ"
+          },
+          {
+            "kanji": "提供",
+            "reading": "ていきょう"
+          },
+          {
+            "kanji": "事業者",
+            "reading": "じぎょうしゃ"
+          },
+          {
+            "kanji": "違",
+            "reading": "い"
+          },
+          {
+            "kanji": "複数",
+            "reading": "ふくすう"
+          },
+          {
+            "kanji": "企業",
+            "reading": "きぎょう"
+          },
+          {
+            "kanji": "共有",
+            "reading": "きょうゆう"
+          },
+          {
+            "kanji": "利用",
+            "reading": "りよう"
+          },
+          {
+            "kanji": "対",
+            "reading": "つい"
+          },
+          {
+            "kanji": "独占",
+            "reading": "どくせん"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "DaaS",
+      "reading": "だーす",
+      "vi": "DaaS",
+      "en": "DaaS"
+    },
+    {
+      "type": "paragraph",
+      "ja": "DaaS（Desktop as a Service）とは、デスクトップ環境をインターネット上で提供するサービスです。\n\nみなさんのPCを思い浮かべてください。家にあるPCと学校や企業のPCでは異なるデスクトップ画面が表示されると思います。「PCが違うのだから当然だろう」と思った人もいるかもしれませんが、DaaSを利用すると、複数のPCで同じデスクトップ環境を共有することができ、さらに、中断していた作業をそのまま再開することができます。「SaaSにデスクトップ環境を加えたサービス」ということもできます。",
+      "vi": "DaaS (Desktop as a Service) là dịch vụ cung cấp môi trường desktop qua internet.\n\nHãy nghĩ về PC của các bạn. PC ở nhà và PC ở trường hoặc công ty hiển thị màn hình desktop khác nhau. Có thể nghĩ vì PC khác nhau là đương nhiên, nhưng khi sử dụng DaaS có thể chia sẻ cùng môi trường desktop trên nhiều PC, và tiếp tục công việc đang dang dở. Có thể nói là dịch vụ thêm môi trường desktop vào SaaS.",
+      "en": "DaaS (Desktop as a Service) is a service providing desktop environments over the internet.\n\nThink of your PC. Home PC and school/company PC display different desktop screens. You might think 'Of course, they're different PCs', but with DaaS, you can share the same desktop environment across multiple PCs, and resume interrupted work. It can be called 'SaaS plus desktop environment'.",
+      "my": "DaaS (Desktop as a Service) သည် desktop ပတ်ဝန်းကျင်ကို အင်တာနက်မှ ပေးဆောင်သော ဝန်ဆောင်မှုဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "環境",
+          "reading": "かんきょう"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "思",
+          "reading": "おもい"
+        },
+        {
+          "kanji": "浮",
+          "reading": "ふ"
+        },
+        {
+          "kanji": "家",
+          "reading": "いえ"
+        },
+        {
+          "kanji": "学校",
+          "reading": "がっこう"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "画面",
+          "reading": "がめん"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "当然",
+          "reading": "とうぜん"
+        },
+        {
+          "kanji": "人",
+          "reading": "にん"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "共有",
+          "reading": "きょうゆう"
+        },
+        {
+          "kanji": "中断",
+          "reading": "ちゅうだん"
+        },
+        {
+          "kanji": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "kanji": "再開",
+          "reading": "さいかい"
+        },
+        {
+          "kanji": "加",
+          "reading": "か"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "PaaS",
+      "reading": "ぱーす",
+      "romaji": "Platform as a Service",
+      "vi": "Nền tảng như dịch vụ",
+      "en": "Platform as a Service",
+      "my": "ဝန်ဆောင်မှုအဖြစ် ပလက်ဖော္မ"
+    },
+    {
+      "kanji": "SaaS",
+      "reading": "さーす",
+      "romaji": "Software as a Service",
+      "vi": "Phần mềm như dịch vụ",
+      "en": "Software as a Service",
+      "my": "ဝန်ဆောင်မှုအဖြစ် ဆော်ဝဲလ်"
+    },
+    {
+      "kanji": "DaaS",
+      "reading": "だーす",
+      "romaji": "Desktop as a Service",
+      "vi": "Desktop như dịch vụ",
+      "en": "Desktop as a Service",
+      "my": "ဝန်ဆောင်မှုအဖြစ် Desktop"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_learn_more": true
+  }
+}

@@ -1,0 +1,166 @@
+{
+    "page_id": 534,
+    "image": "p_0534.png",
+    "chapter": 14,
+    "section": "Answer",
+    "page_number": 518,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "number": "14-6",
+            "answer": "ア",
+            "explanation": {
+                "ja": "PoEとPLCは真逆の意味を持つ用語なのでセットで覚えてください。PoEは「Power over Ethernet」（イーサネットを通して電力）の略語であることから「イーサネットケーブル（LANケーブル）を通して電力を供給する」ことであるとわかります。一方で、PLCは「Power Line Communication」（電力線での通信）の略語であることから「電力線を通して通信する」ことであるとわかります。",
+                "vi": "PoE và PLC là thuật ngữ có nghĩa ngược nhau nên hãy nhớ chúng như một cặp. Từ việc PoE là viết tắt của \"Power over Ethernet\" (điện qua Ethernet) có thể hiểu là \"cung cấp điện qua cáp Ethernet (cáp LAN)\". Mặt khác, từ việc PLC là viết tắt của \"Power Line Communication\" (truyền thông qua đường dây điện) có thể hiểu là \"truyền thông qua đường dây điện\".",
+                "en": "PoE and PLC are terms with opposite meanings so remember them as set. From PoE being abbreviation of 'Power over Ethernet' can understand it's 'supplying power through Ethernet cable (LAN cable).' On other hand, from PLC being abbreviation of 'Power Line Communication' can understand it's 'communicating through power lines.'"
+            },
+            "option_explanations": [
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "PLCの説明です。",
+                        "vi": "Là giải thích về PLC.",
+                        "en": "Is explanation of PLC."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "NATの説明です。",
+                        "vi": "Là giải thích về NAT.",
+                        "en": "Is explanation of NAT."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "オートネゴシエーションの説明です。",
+                        "vi": "Là giải thích về Auto-negotiation.",
+                        "en": "Is explanation of auto-negotiation."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "14-7",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "一般的に、Wi-Fi（Wireless Fidelity）は無線LANとほぼ同じ意味で使われていますが、厳密には、Wi-Fiは無線LAN機器が相互接続できることを示すブランド名です。Wi-Fiのロゴがついている無線LAN機器同士であれば、メーカーが異なっていても通信が可能です。",
+                "vi": "Nói chung, Wi-Fi (Wireless Fidelity) được sử dụng với nghĩa gần như giống với LAN không dây, nhưng chính xác, Wi-Fi là tên thương hiệu cho thấy các thiết bị LAN không dây có thể kết nối với nhau. Nếu là thiết bị LAN không dây có logo Wi-Fi, có thể truyền thông ngay cả khi khác nhà sản xuất.",
+                "en": "Generally, Wi-Fi (Wireless Fidelity) is used with almost same meaning as wireless LAN, but strictly, Wi-Fi is brand name indicating wireless LAN devices can interconnect. If wireless LAN devices with Wi-Fi logo, can communicate even if manufacturers differ."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "MVNO（Mobile Virtual Network Operator）は、他社の無線通信インフラを借りて、顧客にSIMカードを提供し、通信サービスを行う事業者です。",
+                        "vi": "MVNO (Mobile Virtual Network Operator) là nhà cung cấp dịch vụ truyền thông cung cấp thẻ SIM cho khách hàng bằng cách mượn hạ tầng truyền thông không dây của công ty khác.",
+                        "en": "MVNO (Mobile Virtual Network Operator) is provider offering communication services by providing SIM cards to customers by borrowing other company's wireless infrastructure."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "NFC（Near Field Communication）とは、近距離無線通信という意味です。",
+                        "vi": "NFC (Near Field Communication) có nghĩa là truyền thông không dây khoảng cách gần.",
+                        "en": "NFC (Near Field Communication) means near-field wireless communication."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "WPA2は、無線LAN上の通信を暗号化する規格です。",
+                        "vi": "WPA2 là quy cách mã hóa truyền thông trên LAN không dây.",
+                        "en": "WPA2 is standard for encrypting communication on wireless LAN."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "14-8",
+            "answer": "ウ",
+            "explanation": {
+                "ja": "POPは電子メールをメールサーバから受信するためのプロトコルです。",
+                "vi": "POP là giao thức để nhận email từ máy chủ thư.",
+                "en": "POP is protocol for receiving email from mail server."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "DNSは、ドメイン名とIPアドレスを対応付けるシステムです。",
+                        "vi": "DNS là hệ thống liên kết tên miền với địa chỉ IP.",
+                        "en": "DNS is system matching domain names and IP addresses."
+                    }
+                },
+                {
+                    "label": "イ",
+                    "text": {
+                        "ja": "HTTPは、ブラウザとWebサーバの間で、コンテンツのやり取りに使われるプロトコルです。",
+                        "vi": "HTTP là giao thức được sử dụng để trao đổi nội dung giữa trình duyệt và máy chủ Web.",
+                        "en": "HTTP is protocol used for content exchange between browser and Web server."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "SMTPは、電子メールを送信するためのプロトコルです。",
+                        "vi": "SMTP là giao thức để gửi email.",
+                        "en": "SMTP is protocol for sending email."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "14-9",
+            "answer": "イ",
+            "explanation": {
+                "ja": "RSSとは、Webサイトの見出しやリンク、要約などを記述するフォーマットです。RSSを利用すると、ニュースサイトやブログの新着情報を自動で取得して一覧表示できるため、ユーザーは複数のサイトを巡回することなく、効率的に情報を収集できます。",
+                "vi": "RSS là định dạng để mô tả tiêu đề, liên kết, tóm tắt của trang web. Khi sử dụng RSS, có thể tự động lấy thông tin mới từ trang tin tức và blog rồi hiển thị danh sách, nên người dùng có thể thu thập thông tin hiệu quả mà không cần lượn qua nhiều trang.",
+                "en": "RSS is format for describing website headings, links, summaries. Using RSS, can automatically retrieve new information from news sites and blogs and display as list, so users can efficiently collect information without browsing multiple sites."
+            },
+            "option_explanations": [
+                {
+                    "label": "ア",
+                    "text": {
+                        "ja": "CSS（Cascading Style Sheets）の説明です。",
+                        "vi": "Là giải thích về CSS (Cascading Style Sheets).",
+                        "en": "Is explanation of CSS (Cascading Style Sheets)."
+                    }
+                },
+                {
+                    "label": "ウ",
+                    "text": {
+                        "ja": "ソーシャルブックマークサービスの説明です。",
+                        "vi": "Là giải thích về dịch vụ bookmark xã hội.",
+                        "en": "Is explanation of social bookmark service."
+                    }
+                },
+                {
+                    "label": "エ",
+                    "text": {
+                        "ja": "HTTPS（HTTP over SSL/TLS）の説明です。",
+                        "vi": "Là giải thích về HTTPS (HTTP over SSL/TLS).",
+                        "en": "Is explanation of HTTPS (HTTP over SSL/TLS)."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "number": "14-10",
+            "answer": "ア",
+            "explanation": {
+                "ja": "DNSが「Domain Name System」の略語であることがわかれば、「ドメイン名」というキーワードから、アが正解であると判断できます。",
+                "vi": "Nếu biết DNS là viết tắt của \"Domain Name System\", từ từ khóa \"tên miền\" có thể phán đoán đáp án đúng là ア.",
+                "en": "If know DNS is abbreviation of 'Domain Name System,' from keyword 'domain name' can determine ア is correct."
+            }
+        }
+    ],
+    "meta": {
+        "is_answer": true
+    }
+}

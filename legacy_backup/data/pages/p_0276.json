@@ -1,0 +1,435 @@
+{
+  "page_id": 276,
+  "image": "p_0276.png",
+  "chapter": 7,
+  "section": "07-01",
+  "page_number": 260,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "3つの制約",
+      "reading": "みっつのせいやく",
+      "vi": "3 ràng buộc",
+      "en": "3 Constraints"
+    },
+    {
+      "type": "paragraph",
+      "ja": "プロジェクトの目的を達成する過程において、プロジェクトには次の3つの制約があります。",
+      "vi": "Trong quá trình đạt mục tiêu của dự án, dự án có 3 ràng buộc sau.",
+      "en": "In the process of achieving project objectives, projects have the following 3 constraints.",
+      "terms": [
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "達成",
+          "reading": "たっせい"
+        },
+        {
+          "kanji": "過程",
+          "reading": "かてい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "制約",
+          "reading": "せいやく"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "（1）スコープ（作業範囲）",
+          "vi": "(1) Scope (Phạm vi công việc)",
+          "en": "(1) Scope (Work Scope)"
+        },
+        {
+          "ja": "（2）スケジュール（期限）",
+          "vi": "(2) Schedule (Thời hạn)",
+          "en": "(2) Schedule (Deadline)"
+        },
+        {
+          "ja": "（3）コスト（費用）",
+          "vi": "(3) Cost (Chi phí)",
+          "en": "(3) Cost (Expense)"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "3つの制約の概念図",
+        "vi": "Sơ đồ khái niệm 3 ràng buộc",
+        "en": "Conceptual Diagram of 3 Constraints"
+      },
+      "shape": "triangle",
+      "vertices": {
+        "ja": [
+          "コスト",
+          "スケジュール",
+          "スコープ"
+        ],
+        "vi": [
+          "Cost",
+          "Schedule",
+          "Scope"
+        ],
+        "en": [
+          "Cost",
+          "Schedule",
+          "Scope"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "上の図を見ると、三角形の3つの辺に、スコープ、スケジュール、コストが割り当てられていることがわかります。この図において最も重要なことは、いずれか一辺の長さを変更すると、必ず、それ以外の一辺、もしくは二辺の長さが変わる、ということです。",
+      "vi": "Nhìn hình trên, có thể thấy Scope, Schedule, Cost được gán cho 3 cạnh của tam giác. Điều quan trọng nhất trong hình này là nếu thay đổi độ dài một cạnh bất kỳ, chắc chắn độ dài của một hoặc hai cạnh còn lại sẽ thay đổi.",
+      "en": "Looking at the figure above, you can see Scope, Schedule, and Cost are assigned to 3 sides of the triangle. The most important thing in this figure is that if you change the length of any one side, the length of one or two other sides will definitely change.",
+      "terms": [
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "三角形",
+          "reading": "さんかくけい"
+        },
+        {
+          "kanji": "辺",
+          "reading": "へん"
+        },
+        {
+          "kanji": "割",
+          "reading": "わり"
+        },
+        {
+          "kanji": "当",
+          "reading": "とう"
+        },
+        {
+          "kanji": "最",
+          "reading": "さい"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "一辺",
+          "reading": "いっぺん"
+        },
+        {
+          "kanji": "長",
+          "reading": "ちょう"
+        },
+        {
+          "kanji": "変更",
+          "reading": "へんこう"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "以外",
+          "reading": "いがい"
+        },
+        {
+          "kanji": "二辺",
+          "reading": "にへん"
+        },
+        {
+          "kanji": "変",
+          "reading": "へん"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "つまり、3つの制約は1つひとつが独立しているわけではなく、他の制約と密接に関わり合っている、ということです。",
+      "vi": "Nghĩa là, 3 ràng buộc không độc lập từng cái mà liên quan chặt chẽ với các ràng buộc khác.",
+      "en": "That is, the 3 constraints are not independent but closely related to other constraints.",
+      "terms": [
+        {
+          "kanji": "制約",
+          "reading": "せいやく"
+        },
+        {
+          "kanji": "独立",
+          "reading": "どくりつ"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "密接",
+          "reading": "みっせつ"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "合",
+          "reading": "ごう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、顧客から機能追加の要求があり、プロジェクトの作業範囲が増えた場合（スコープが増えた場合）、締め切りを延ばす（スケジュールを延ばす）か、または、作業人数を増やす（コスト増）必要があるということです。そうしないと三角形を維持することはできません。そのため、プロジェクトマネージャはこれらの制約を調整しながら、目的を達成する必要があります。",
+      "vi": "Ví dụ, nếu có yêu cầu thêm chức năng từ khách hàng và phạm vi công việc dự án tăng (Scope tăng), cần kéo dài deadline (kéo dài Schedule) hoặc tăng số người làm việc (tăng Cost). Nếu không làm vậy thì không thể duy trì tam giác. Do đó, Project Manager cần đạt mục tiêu trong khi điều chỉnh các ràng buộc này.",
+      "en": "For example, if there's a request for additional features from customers and project work scope increases (Scope increases), you need to extend the deadline (extend Schedule) or increase workforce (increase Cost). Otherwise the triangle can't be maintained. Therefore, Project Manager needs to achieve goals while adjusting these constraints.",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "顧客",
+          "reading": "こきゃく"
+        },
+        {
+          "kanji": "機能追加",
+          "reading": "きのうついか"
+        },
+        {
+          "kanji": "要求",
+          "reading": "ようきゅう"
+        },
+        {
+          "kanji": "作業範囲",
+          "reading": "さぎょうはんい"
+        },
+        {
+          "kanji": "増",
+          "reading": "ぞう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "締",
+          "reading": "てい"
+        },
+        {
+          "kanji": "切",
+          "reading": "せつ"
+        },
+        {
+          "kanji": "延",
+          "reading": "えん"
+        },
+        {
+          "kanji": "作業人数",
+          "reading": "さぎょうにんずう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "三角形",
+          "reading": "さんかくけい"
+        },
+        {
+          "kanji": "維持",
+          "reading": "いじ"
+        },
+        {
+          "kanji": "制約",
+          "reading": "せいやく"
+        },
+        {
+          "kanji": "調整",
+          "reading": "ちょうせい"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "達成",
+          "reading": "たっせい"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "プロジェクトには次の制約がある（1）スコープ（作業範囲）（2）スケジュール（期限）（3）コスト（費用）",
+          "vi": "Dự án có các ràng buộc sau: (1) Scope (Phạm vi công việc) (2) Schedule (Thời hạn) (3) Cost (Chi phí)",
+          "en": "Projects have these constraints: (1) Scope (Work Scope) (2) Schedule (Deadline) (3) Cost (Expense)"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "変更管理委員会",
+      "reading": "へんこうかんりいいんかい",
+      "vi": "Change Control Committee",
+      "en": "Change Control Committee",
+      "note": "学習のポイント"
+    },
+    {
+      "type": "paragraph",
+      "ja": "変更の内容や影響、リスクなどを評価して、実施の可否を判断する会議体のことを「変更管理委員会」といいます。プロジェクトに変更が生じる場合、その影響はスコープ、スケジュール、コストの3つの制約に及ぶため、これをどのように変化させるかの調整が必要となります。変更管理委員会は、これら3つの制約への影響を総合的に評価し、変更の実施可否を判断する重要な役割を担っています。",
+      "vi": "Hội đồng đánh giá nội dung thay đổi, ảnh hưởng, rủi ro và phán đoán có thể thực hiện hay không gọi là \"Change Control Committee\". Khi có thay đổi trong dự án, ảnh hưởng lan đến 3 ràng buộc Scope, Schedule, Cost nên cần điều chỉnh cách thay đổi. Change Control Committee đánh giá tổng hợp ảnh hưởng đến 3 ràng buộc này và đảm nhận vai trò quan trọng phán đoán có thể thực hiện thay đổi hay không.",
+      "en": "A committee that evaluates change content, impact, risk, and judges whether to implement is called 'Change Control Committee.' When changes occur in projects, impact extends to 3 constraints of Scope, Schedule, Cost, so adjustment on how to change is needed. Change Control Committee comprehensively evaluates impact on these 3 constraints and plays important role in judging whether to implement changes.",
+      "terms": [
+        {
+          "kanji": "変更",
+          "reading": "へんこう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "影響",
+          "reading": "えいきょう"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "kanji": "実施",
+          "reading": "じっし"
+        },
+        {
+          "kanji": "可否",
+          "reading": "かひ"
+        },
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        },
+        {
+          "kanji": "会議体",
+          "reading": "かいぎからだ"
+        },
+        {
+          "kanji": "変更管理委員会",
+          "reading": "へんこうかんりいいんかい"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "制約",
+          "reading": "せいやく"
+        },
+        {
+          "kanji": "及",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "変化",
+          "reading": "へんか"
+        },
+        {
+          "kanji": "調整",
+          "reading": "ちょうせい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "総合的",
+          "reading": "そうごうてき"
+        },
+        {
+          "kanji": "実施可否",
+          "reading": "じっしかひ"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "担",
+          "reading": "たん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "スコープ",
+      "reading": "すこーぷ",
+      "romaji": "Scope",
+      "vi": "Phạm vi",
+      "en": "Scope",
+      "my": "စကို့"
+    },
+    {
+      "kanji": "スケジュール",
+      "reading": "すけじゅーる",
+      "romaji": "Schedule",
+      "vi": "Lịch trình",
+      "en": "Schedule",
+      "my": "အစီအစဥ်"
+    },
+    {
+      "kanji": "コスト",
+      "reading": "こすと",
+      "romaji": "Cost",
+      "vi": "Chi phí",
+      "en": "Cost",
+      "my": "ကုန်ကျစမှု"
+    },
+    {
+      "kanji": "変更管理委員会",
+      "reading": "へんこうかんりいいんかい",
+      "romaji": "Henkou Kanri Iinkai",
+      "vi": "Ủy ban quản lý thay đổi",
+      "en": "Change Control Committee",
+      "my": "ပြောင်းလဲမှု ထိန်းချုပ်ရေး ကော်မတီ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

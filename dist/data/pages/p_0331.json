@@ -1,0 +1,77 @@
+{
+    "page_id": 331,
+    "image": "p_0331.png",
+    "chapter": 9,
+    "section": "intro",
+    "page_number": 315,
+    "content": [
+        {
+            "type": "chapter_header",
+            "number": 9,
+            "title": {
+                "ja": "基礎理論とアルゴリズム",
+                "vi": "Lý thuyết cơ bản và Thuật toán",
+                "en": "Basic Theory and Algorithms"
+            }
+        },
+        {
+            "type": "chapter_overview",
+            "title": {
+                "ja": "この章のポイント！",
+                "vi": "Điểm chính của chương này!",
+                "en": "Key Points of This Chapter!"
+            },
+            "content": {
+                "ja": "本章からは、いよいよテクノロジ系分野の解説に入っていきます。最初に解説するのは「基礎理論」です。コンピュータの世界では、現実世界とは少し異なる計算方式を使います。そのため、まずはコンピュータの基礎的な理論をきちんと習得しておくことが大切です。",
+                "vi": "Từ chương này, chúng ta sẽ bắt đầu giải thích lĩnh vực Technology. Đầu tiên sẽ giải thích \"Lý thuyết cơ bản\". Trong thế giới máy tính, sử dụng phương thức tính toán hơi khác với thế giới thực. Do đó, trước tiên cần học kỹ lý thuyết cơ bản của máy tính.",
+                "en": "From this chapter, we'll enter Technology field explanation. First is 'Basic Theory.' In computer world, slightly different calculation methods from real world are used. Therefore, it's important to properly learn computer basic theory first."
+            }
+        },
+        {
+            "type": "study_focus",
+            "title": {
+                "ja": "ここに注目して読もう！",
+                "vi": "Hãy chú ý đọc phần này!",
+                "en": "Focus on This!"
+            },
+            "items": [
+                {
+                    "ja": "2進数の特徴や演算、基数に関する基本的な考え方",
+                    "vi": "Đặc điểm và phép tính số nhị phân, cách suy nghĩ cơ bản về cơ số",
+                    "en": "Binary characteristics and operations, basic concepts about radix"
+                },
+                {
+                    "ja": "ベン図などの集合、確率に関する基本的な考え方",
+                    "vi": "Tập hợp như biểu đồ Venn, cách suy nghĩ cơ bản về xác suất",
+                    "en": "Sets like Venn diagrams, basic concepts about probability"
+                },
+                {
+                    "ja": "アルゴリズムとデータ構造の基本的な考え方、流れ図の表現方法",
+                    "vi": "Cách suy nghĩ cơ bản về thuật toán và cấu trúc dữ liệu, phương pháp biểu diễn lưu đồ",
+                    "en": "Basic concepts of algorithms and data structures, flowchart notation methods"
+                },
+                {
+                    "ja": "HTML、XMLなどのマークアップ言語の種類とその基本的な使い方",
+                    "vi": "Các loại ngôn ngữ đánh dấu như HTML, XML và cách sử dụng cơ bản",
+                    "en": "Types of markup languages like HTML, XML and their basic usage"
+                }
+            ]
+        },
+        {
+            "type": "exam_scope_table",
+            "title": {
+                "ja": "試験範囲全体における本章の位置づけ",
+                "vi": "Vị trí của chương này trong toàn bộ phạm vi thi",
+                "en": "Position of This Chapter in Overall Exam Scope"
+            },
+            "current_chapter": {
+                "field": "テクノロジ系",
+                "major": "基礎理論",
+                "minor": "技術要素"
+            }
+        }
+    ],
+    "meta": {
+        "is_chapter_intro": true
+    }
+}

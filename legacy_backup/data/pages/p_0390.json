@@ -1,0 +1,304 @@
+{
+  "page_id": 390,
+  "image": "p_0390.png",
+  "chapter": 10,
+  "section": "10-01",
+  "page_number": 374,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "分散処理システムの種類",
+      "reading": "ぶんさんしょりシステムのしゅるい",
+      "vi": "Các loại hệ thống xử lý phân tán",
+      "en": "Types of Distributed Processing Systems"
+    },
+    {
+      "type": "paragraph",
+      "ja": "分散処理システムには、主に次のような種類があります。",
+      "vi": "Hệ thống xử lý phân tán chủ yếu có các loại sau.",
+      "en": "Distributed processing systems mainly have following types.",
+      "terms": [
+        {
+          "kanji": "分散処理",
+          "reading": "ぶんさんしょり"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "分散処理システムの種類",
+        "vi": "Các loại hệ thống xử lý phân tán",
+        "en": "Types of Distributed Processing Systems"
+      },
+      "exam_note": "★要チェック！よく出る！",
+      "headers": {
+        "ja": [
+          "種類",
+          "説明"
+        ],
+        "vi": [
+          "Loại",
+          "Giải thích"
+        ],
+        "en": [
+          "Type",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "type": {
+            "ja": "クライアントサーバシステム",
+            "vi": "Hệ thống client-server",
+            "en": "Client-Server System"
+          },
+          "description": {
+            "ja": "クライアント（サービスを利用する側）が出した処理要求を、サーバ（サービスを提供する側）が処理する分散処理システム。通常は専用のソフトウェアをあらかじめクライアントにインストールしておく必要がある。",
+            "vi": "Hệ thống xử lý phân tán trong đó server (bên cung cấp dịch vụ) xử lý yêu cầu từ client (bên sử dụng dịch vụ). Thông thường cần cài đặt trước phần mềm chuyên dụng trên client.",
+            "en": "Distributed processing system where server (service provider) processes requests from client (service user). Usually needs dedicated software pre-installed on client."
+          }
+        },
+        {
+          "type": {
+            "ja": "Webシステム",
+            "vi": "Hệ thống Web",
+            "en": "Web System"
+          },
+          "description": {
+            "ja": "インターネットとWebブラウザを利用するシステム。WebシステムではWebブラウザを使用してサーバに処理要求を出すため、専用のソフトウェアをクライアントにインストールしておく必要がない。",
+            "vi": "Hệ thống sử dụng Internet và trình duyệt Web. Trong hệ thống Web, vì sử dụng trình duyệt Web để gửi yêu cầu xử lý đến server nên không cần cài đặt phần mềm chuyên dụng trên client.",
+            "en": "System using Internet and Web browser. In Web systems, since Web browser sends processing requests to server, no need to install dedicated software on client."
+          }
+        },
+        {
+          "type": {
+            "ja": "シンクライアント",
+            "vi": "Thin client",
+            "en": "Thin Client"
+          },
+          "description": {
+            "ja": "クライアントサーバシステムの応用。機能の限定したサーバ側でアプリケーションソフトウェアやデータを集中管理するシステム形態。",
+            "vi": "Ứng dụng của hệ thống client-server. Hình thức hệ thống quản lý tập trung phần mềm ứng dụng và dữ liệu ở phía server với chức năng hạn chế.",
+            "en": "Application of client-server system. System form centrally managing application software and data on server side with limited function."
+          }
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "シンクライアント",
+      "reading": "シンクライアント",
+      "vi": "Thin Client",
+      "en": "Thin Client"
+    },
+    {
+      "type": "paragraph",
+      "ja": "シンクライアント（Thin Client）とは、クライアント側には必要最低限の機能しか持たせず、サーバ側でアプリケーションソフトウェアやデータを集中管理するシステム形態です。「Thin」とは薄いという意味です。シンクライアントでは、データはサーバ側に保存され、手元のPCにはデータは残りません。このようにすることで手元のPCから個人情報などが流出するリスクを軽減できます。",
+      "vi": "Thin client là hình thức hệ thống trong đó phía client chỉ có chức năng tối thiểu cần thiết, còn phía server quản lý tập trung phần mềm ứng dụng và dữ liệu. \"Thin\" có nghĩa là mỏng. Trong thin client, dữ liệu được lưu ở phía server, không còn lại trên PC cá nhân. Bằng cách này có thể giảm rủi ro rò rỉ thông tin cá nhân từ PC cá nhân.",
+      "en": "Thin client is system form where client side only has minimum necessary functions, and server side centrally manages application software and data. 'Thin' means thin. In thin client, data is saved on server side, data doesn't remain on local PC. This way can reduce risk of personal information leaking from local PC.",
+      "terms": [
+        {
+          "kanji": "側",
+          "reading": "がわ"
+        },
+        {
+          "kanji": "必要最低限",
+          "reading": "ひつようさいていげん"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "集中管理",
+          "reading": "しゅうちゅうかんり"
+        },
+        {
+          "kanji": "形態",
+          "reading": "けいたい"
+        },
+        {
+          "kanji": "薄",
+          "reading": "はく"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "保存",
+          "reading": "ほぞん"
+        },
+        {
+          "kanji": "手元",
+          "reading": "てもと"
+        },
+        {
+          "kanji": "残",
+          "reading": "ざん"
+        },
+        {
+          "kanji": "個人情報",
+          "reading": "こじんじょうほう"
+        },
+        {
+          "kanji": "流出",
+          "reading": "りゅうしゅつ"
+        },
+        {
+          "kanji": "軽減",
+          "reading": "けいげん"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "クライアントサーバシステム、Webシステム、シンクライアントの違い",
+        "vi": "Sự khác biệt giữa hệ thống client-server, hệ thống Web và thin client",
+        "en": "Differences Between Client-Server, Web System, and Thin Client"
+      },
+      "headers": {
+        "ja": [
+          "システム",
+          "クライアント側でデータ表示",
+          "クライアント側の記憶装置",
+          "クライアント側でデータ処理"
+        ],
+        "vi": [
+          "Hệ thống",
+          "Hiển thị dữ liệu phía client",
+          "Thiết bị lưu trữ phía client",
+          "Xử lý dữ liệu phía client"
+        ],
+        "en": [
+          "System",
+          "Data Display on Client",
+          "Client Storage Device",
+          "Data Processing on Client"
+        ]
+      },
+      "rows": [
+        {
+          "system": {
+            "ja": "クライアントサーバシステム",
+            "vi": "Hệ thống client-server",
+            "en": "Client-Server"
+          },
+          "display": "する",
+          "storage": "あり",
+          "processing": "する"
+        },
+        {
+          "system": {
+            "ja": "Webシステム",
+            "vi": "Hệ thống Web",
+            "en": "Web System"
+          },
+          "display": "する",
+          "storage": "なし",
+          "processing": "しない"
+        },
+        {
+          "system": {
+            "ja": "シンクライアント",
+            "vi": "Thin client",
+            "en": "Thin Client"
+          },
+          "display": "する",
+          "storage": "なし",
+          "processing": "しない"
+        }
+      ],
+      "note": {
+        "ja": "※それぞれの違いを把握しておこう！",
+        "vi": "※Hãy nắm bắt sự khác biệt của từng loại!",
+        "en": "※Understand differences of each!"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "シンクライアントでは、クライアント側にデータが残らない（保存されない）",
+          "vi": "Trong thin client, dữ liệu không còn lại (không được lưu) phía client",
+          "en": "In thin client, data doesn't remain (isn't saved) on client side"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！グリッドコンピューティング",
+        "vi": "Chi tiết hơn! Grid Computing",
+        "en": "More Details! Grid Computing"
+      },
+      "content": {
+        "ja": "最近登場した分散処理システムの種類の1つに「グリッドコンピューティング」があります。グリッドコンピューティング（Grid Computing）とは、インターネットを使って複数のコンピュータをつなぐことで、スーパーコンピュータ並みの高速処理を実現するシステムです。",
+        "vi": "Một trong các loại hệ thống xử lý phân tán mới xuất hiện gần đây là \"grid computing\". Grid computing là hệ thống thực hiện xử lý tốc độ cao ngang với siêu máy tính bằng cách kết nối nhiều máy tính qua Internet.",
+        "en": "One type of recently emerged distributed processing system is 'grid computing.' Grid computing is system achieving supercomputer-level high-speed processing by connecting multiple computers via Internet."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "クライアントサーバシステム",
+      "vi": "Hệ thống client-server",
+      "en": "Client-Server System",
+      "my": "ကလိုင်း-ဆာဗာ စနစ်"
+    },
+    {
+      "term": "Webシステム",
+      "vi": "Hệ thống Web",
+      "en": "Web System",
+      "my": "ဝက်ဘ် စနစ်"
+    },
+    {
+      "term": "シンクライアント",
+      "vi": "Thin Client",
+      "en": "Thin Client",
+      "my": "သင်းကလိုင်း"
+    },
+    {
+      "term": "グリッドコンピューティング",
+      "vi": "Grid Computing",
+      "en": "Grid Computing",
+      "my": "ဂရစ် ကွန်ပျူတင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

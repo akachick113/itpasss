@@ -1,0 +1,192 @@
+{
+  "page_id": 579,
+  "image": "p_0579.png",
+  "chapter": 15,
+  "section": "15-06",
+  "page_number": 563,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "セキュアブート",
+        "vi": "Secure Boot",
+        "en": "Secure Boot"
+      },
+      "description": {
+        "ja": "電源オン→デジタル署名を使ってOSが本物かを見分ける→OS→アプリケーションソフトウェア",
+        "vi": "Bật nguồn→Sử dụng chữ ký số để phân biệt OS có phải thật không→OS→Phần mềm ứng dụng",
+        "en": "Power on→Use digital signature to determine if OS is authentic→OS→Application Software"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "リスクベース認証",
+      "vi": "Risk-Based Authentication",
+      "en": "Risk-Based Authentication"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "リスクベース認証",
+        "vi": "Xác thực dựa trên rủi ro",
+        "en": "Risk-Based Authentication"
+      },
+      "definition": {
+        "ja": "リスクベース認証とは、ユーザーが普段使っている環境とは異なる環境からシステムにログインした際に、それを「高リスク」と判断し、追加の認証を行う認証方式です。例えば、普段は会社のPCからログインしているシステムに対して、スマートフォンからアクセスした場合などが該当します。リスクベース（risk based）とは「リスクの大きさに基づいた」という意味です。",
+        "vi": "Risk-Based Authentication là phương thức xác thực đánh giá là \"rủi ro cao\" và thực hiện xác thực bổ sung khi user đăng nhập hệ thống từ môi trường khác với môi trường thường sử dụng. Ví dụ, trường hợp truy cập từ smartphone vào hệ thống thường đăng nhập từ PC công ty. Risk based có nghĩa là \"dựa trên mức độ rủi ro\".",
+        "en": "Risk-Based Authentication is authentication method judging as 'high risk' and performing additional authentication when user logs into system from environment different from normally used environment. For example, when accessing from smartphone a system normally logged into from company PC. Risk based means 'based on risk level.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "リスク判断の元となる情報には、ユーザーがアクセスした場所、時間、Webブラウザ、OS、デバイス、IPアドレスなどがあります。これらの情報から、不正アクセスの可能性が高いと判断された場合は、追加の認証が必要となるため、システムのセキュリティを強化することができます。",
+      "vi": "Thông tin làm cơ sở đánh giá rủi ro bao gồm vị trí user truy cập, thời gian, trình duyệt Web, OS, thiết bị, địa chỉ IP. Khi đánh giá từ những thông tin này có khả năng truy cập trái phép cao, cần xác thực bổ sung nên có thể tăng cường bảo mật hệ thống.",
+      "en": "Information for risk judgment includes location user accessed from, time, Web browser, OS, device, IP address. When judged from this information that unauthorized access possibility is high, additional authentication is needed, so can strengthen system security.",
+      "terms": [
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        },
+        {
+          "kanji": "元",
+          "reading": "もと"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "追加",
+          "reading": "ついか"
+        },
+        {
+          "kanji": "認証",
+          "reading": "にんしょう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "強化",
+          "reading": "きょうか"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ブロックチェーン",
+      "vi": "Blockchain",
+      "en": "Blockchain"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ブロックチェーン",
+        "vi": "Blockchain",
+        "en": "Blockchain"
+      },
+      "definition": {
+        "ja": "ブロックチェーンとは、複数のコンピュータで取引履歴を共有・検証して、正しい記録を鎖のようにつなぐ技術です。ブロックチェーンでは、データを「ブロック」という単位で記録し、それを鎖（チェーン）のようにいくつもつなげてデータを保管します。また、新しいブロックをチェーンにつなぐ作業をマイニングといいます。",
+        "vi": "Blockchain là công nghệ chia sẻ và xác minh lịch sử giao dịch trên nhiều máy tính, nối các bản ghi chính xác như chuỗi. Trong Blockchain, dữ liệu được ghi theo đơn vị \"block\" và lưu trữ bằng cách nối nhiều block như chuỗi (chain). Ngoài ra, công việc nối block mới vào chain được gọi là mining.",
+        "en": "Blockchain is technology sharing and verifying transaction history on multiple computers, connecting correct records like a chain. In Blockchain, data is recorded in units called 'blocks' and stored by connecting many blocks like a chain. Also, work of connecting new blocks to chain is called mining."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "ja": "ブロックチェーンの特徴",
+      "vi": "Đặc điểm của Blockchain",
+      "en": "Characteristics of Blockchain"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ブロックチェーンの特徴は、取引履歴の改ざんが困難なことです。これは、あるブロックを改ざんするには、そのブロックよりも新しいすべてのブロックを改ざんする必要があるため、計算量が膨大となるためです。",
+      "vi": "Đặc điểm của Blockchain là việc sửa đổi lịch sử giao dịch rất khó khăn. Điều này vì để sửa đổi một block, cần sửa đổi tất cả các block mới hơn block đó, nên lượng tính toán trở nên khổng lồ.",
+      "en": "Characteristic of Blockchain is difficulty of falsifying transaction history. This is because to falsify one block, need to falsify all blocks newer than that block, so calculation amount becomes enormous.",
+      "terms": [
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "取引履歴",
+          "reading": "とりひきりれき"
+        },
+        {
+          "kanji": "改",
+          "reading": "かい"
+        },
+        {
+          "kanji": "困難",
+          "reading": "こんなん"
+        },
+        {
+          "kanji": "新",
+          "reading": "あたら"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "計算量",
+          "reading": "けいさんりょう"
+        },
+        {
+          "kanji": "膨大",
+          "reading": "ぼうだい"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "リスクベース認証",
+      "vi": "Xác thực dựa trên rủi ro",
+      "en": "Risk-Based Authentication",
+      "my": "အန္တရာယ်အခြေခံ အထောက်အထားပြုလုံခြုံရေးစစ်"
+    },
+    {
+      "term": "ブロックチェーン",
+      "vi": "Blockchain",
+      "en": "Blockchain",
+      "my": "ဘလော့ချိန်း"
+    },
+    {
+      "term": "マイニング",
+      "vi": "Mining (Đào)",
+      "en": "Mining",
+      "my": "မိုင်းနင်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true
+  }
+}

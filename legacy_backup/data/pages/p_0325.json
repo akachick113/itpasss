@@ -1,0 +1,377 @@
+{
+  "page_id": 325,
+  "image": "p_0325.png",
+  "chapter": 8,
+  "section": "08-06",
+  "page_number": 309,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "コーポレートガバナンスも内部統制も、その目的は「健全な企業活動」であり、企業で不祥事が起きないようにすることです。コーポレートガバナンスでは社外から企業を健全化し、内部統制では社内から企業を健全化します。",
+      "vi": "Cả Corporate Governance và Internal Control đều có mục đích là \"hoạt động doanh nghiệp lành mạnh\", để không xảy ra bê bối trong doanh nghiệp. Corporate Governance làm lành mạnh doanh nghiệp từ bên ngoài, Internal Control làm lành mạnh doanh nghiệp từ bên trong.",
+      "en": "Both Corporate Governance and Internal Control have purpose of 'healthy business activities,' preventing company scandals. Corporate Governance makes company healthy from outside, Internal Control makes company healthy from inside.",
+      "terms": [
+        {
+          "kanji": "内部統制",
+          "reading": "ないぶとうせい"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "健全",
+          "reading": "けんぜん"
+        },
+        {
+          "kanji": "企業活動",
+          "reading": "きぎょうかつどう"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "不祥事",
+          "reading": "ふしょうじ"
+        },
+        {
+          "kanji": "起",
+          "reading": "き"
+        },
+        {
+          "kanji": "社外",
+          "reading": "しゃがい"
+        },
+        {
+          "kanji": "健全化",
+          "reading": "けんぜんか"
+        },
+        {
+          "kanji": "社内",
+          "reading": "しゃない"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ITガバナンスとIT統制",
+      "reading": "あいてぃーがばなんすとあいてぃーとうせい",
+      "vi": "IT Governance và IT Control",
+      "en": "IT Governance and IT Control"
+    },
+    {
+      "type": "paragraph",
+      "ja": "コーポレートガバナンスのうちの「ITに関連する統治」のことをITガバナンスといいます。ITガバナンスでは、ITを適切に活用して、企業をあるべき姿に導くための仕組みを企業に組み込みます。また、IT統制とは、ITガバナンスを実現する手段です。内部統制のうちのITを利用する部分です。",
+      "vi": "\"Quản trị liên quan đến IT\" trong Corporate Governance được gọi là IT Governance. Trong IT Governance, sử dụng IT phù hợp, tích hợp cơ chế dẫn doanh nghiệp đến hình dáng lý tưởng vào doanh nghiệp. Ngoài ra, IT Control là phương tiện thực hiện IT Governance. Là phần sử dụng IT trong Internal Control.",
+      "en": "IT Governance is 'IT-related governance' part of Corporate Governance. In IT Governance, appropriately utilize IT to incorporate mechanism leading company to ideal form into company. Also, IT Control is means to realize IT Governance. It's part using IT in Internal Control.",
+      "terms": [
+        {
+          "kanji": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "kanji": "統治",
+          "reading": "とうち"
+        },
+        {
+          "kanji": "適切",
+          "reading": "てきせつ"
+        },
+        {
+          "kanji": "活用",
+          "reading": "かつよう"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "姿",
+          "reading": "すがた"
+        },
+        {
+          "kanji": "導",
+          "reading": "どう"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "組",
+          "reading": "くみ"
+        },
+        {
+          "kanji": "込",
+          "reading": "こみ"
+        },
+        {
+          "kanji": "統制",
+          "reading": "とうせい"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "手段",
+          "reading": "しゅだん"
+        },
+        {
+          "kanji": "内部統制",
+          "reading": "ないぶとうせい"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "部分",
+          "reading": "ぶぶん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "職務分掌",
+      "reading": "しょくむぶんしょう",
+      "vi": "Separation of Duties",
+      "en": "Separation of Duties",
+      "note": "よく出る！"
+    },
+    {
+      "type": "paragraph",
+      "ja": "職務分掌とは、担当者の役割や仕事の権限を明確にすることです。職務分掌を行うことで、担当者間で相互にけん制が働くため、業務の不正や誤りが生じるリスクを軽減できます。例えば、経費の申請・精算処理においては、申請者と承認者を分けることなどが挙げられます。また、申請と承認を分けることで、不正申請や申請ミスなどを防ぐことができます。",
+      "vi": "Separation of Duties là làm rõ vai trò và quyền hạn công việc của người phụ trách. Bằng cách thực hiện Separation of Duties, kiểm soát lẫn nhau giữa người phụ trách hoạt động, nên giảm Risk gian lận hoặc sai sót nghiệp vụ. Ví dụ, trong xử lý yêu cầu và thanh toán chi phí, chia người yêu cầu và người phê duyệt. Ngoài ra, bằng cách tách biệt yêu cầu và phê duyệt, có thể ngăn chặn yêu cầu gian lận hoặc sai sót yêu cầu.",
+      "en": "Separation of Duties is clarifying role and work authority of person in charge. By doing Separation of Duties, mutual checks work between persons in charge, so Risk of business fraud or errors can be reduced. For example, in expense application/settlement processing, separate applicant and approver. Also, by separating application and approval, can prevent fraudulent applications or application errors.",
+      "terms": [
+        {
+          "kanji": "職務分掌",
+          "reading": "しょくむぶんしょう"
+        },
+        {
+          "kanji": "担当者",
+          "reading": "たんとうしゃ"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "権限",
+          "reading": "けんげん"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "担当者間",
+          "reading": "たんとうしゃかん"
+        },
+        {
+          "kanji": "相互",
+          "reading": "そうご"
+        },
+        {
+          "kanji": "制",
+          "reading": "せい"
+        },
+        {
+          "kanji": "働",
+          "reading": "どう"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "kanji": "誤",
+          "reading": "ご"
+        },
+        {
+          "kanji": "生",
+          "reading": "なま"
+        },
+        {
+          "kanji": "軽減",
+          "reading": "けいげん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "経費",
+          "reading": "けいひ"
+        },
+        {
+          "kanji": "申請",
+          "reading": "しんせい"
+        },
+        {
+          "kanji": "精算処理",
+          "reading": "せいさんしょり"
+        },
+        {
+          "kanji": "申請者",
+          "reading": "しんせいしゃ"
+        },
+        {
+          "kanji": "承認者",
+          "reading": "しょうにんもの"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "挙",
+          "reading": "きょ"
+        },
+        {
+          "kanji": "承認",
+          "reading": "しょうにん"
+        },
+        {
+          "kanji": "不正申請",
+          "reading": "ふせいしんせい"
+        },
+        {
+          "kanji": "防",
+          "reading": "ぼう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "モニタリング",
+      "reading": "もにたりんぐ",
+      "vi": "Monitoring",
+      "en": "Monitoring"
+    },
+    {
+      "type": "paragraph",
+      "ja": "内部統制では、モニタリングを行います。内部統制におけるモニタリングとは、内部統制が有効に機能していることを継続的に評価するプロセスです。",
+      "vi": "Trong Internal Control, thực hiện Monitoring. Monitoring trong Internal Control là process đánh giá liên tục rằng Internal Control đang hoạt động hiệu quả.",
+      "en": "In Internal Control, Monitoring is done. Monitoring in Internal Control is process continuously evaluating that Internal Control is functioning effectively.",
+      "terms": [
+        {
+          "kanji": "内部統制",
+          "reading": "ないぶとうせい"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "有効",
+          "reading": "ゆうこう"
+        },
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        },
+        {
+          "kanji": "継続的",
+          "reading": "けいぞくてき"
+        },
+        {
+          "kanji": "評価",
+          "reading": "ひょうか"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "コーポレートガバナンスとは、ステークホルダが経営を監視すること",
+          "vi": "Corporate Governance là Stakeholder giám sát kinh doanh",
+          "en": "Corporate Governance is Stakeholders monitoring management"
+        },
+        {
+          "ja": "社外取締役を登用すると、コーポレートガバナンスが強化される",
+          "vi": "Khi bổ nhiệm Outside Director, Corporate Governance được tăng cường",
+          "en": "Appointing Outside Directors strengthens Corporate Governance"
+        },
+        {
+          "ja": "内部統制とは、社内のすべての人が業務を健全化すること。責任者は経営者",
+          "vi": "Internal Control là tất cả người trong công ty làm lành mạnh nghiệp vụ. Người chịu trách nhiệm là ban lãnh đạo",
+          "en": "Internal Control is all internal people making operations healthy. Management is responsible"
+        },
+        {
+          "ja": "ITガバナンスとは、ITを適切に活用して、企業をあるべき姿に導くための仕組みを企業に組み込むこと",
+          "vi": "IT Governance là tích hợp cơ chế sử dụng IT phù hợp để dẫn doanh nghiệp đến hình dáng lý tưởng vào doanh nghiệp",
+          "en": "IT Governance is incorporating mechanism using IT appropriately to lead company to ideal form"
+        },
+        {
+          "ja": "職務分掌とは、担当者の役割や仕事の権限を明確にすること",
+          "vi": "Separation of Duties là làm rõ vai trò và quyền hạn công việc của người phụ trách",
+          "en": "Separation of Duties is clarifying role and work authority of person in charge"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！レピュテーションリスク",
+        "vi": "Chi tiết hơn! Reputation Risk",
+        "en": "More Details! Reputation Risk"
+      },
+      "content": {
+        "ja": "レピュテーションリスクとは、企業の評判が悪くなるリスクです。SNSが普及したことで、従来よりもレピュテーションリスクは高まっています。",
+        "vi": "Reputation Risk là Risk về danh tiếng doanh nghiệp xấu đi. Với sự phổ biến của SNS, Reputation Risk cao hơn so với trước đây.",
+        "en": "Reputation Risk is Risk of company's reputation worsening. With spread of SNS, Reputation Risk is higher than before."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "ITガバナンス",
+      "reading": "あいてぃーがばなんす",
+      "romaji": "IT Governance",
+      "vi": "Quản trị IT",
+      "en": "IT Governance",
+      "my": "အိုင်တီ ဂသာနန့်"
+    },
+    {
+      "kanji": "職務分掌",
+      "reading": "しょくむぶんしょう",
+      "romaji": "Shokumu Bunshou",
+      "vi": "Phân tách nhiệm vụ",
+      "en": "Separation of Duties",
+      "my": "လုပ်ငန်း ခွဲခြားခြင်း"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true
+  }
+}

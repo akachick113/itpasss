@@ -1,0 +1,59 @@
+{
+  "page_id": 393,
+  "image": "p_0393.png",
+  "chapter": 10,
+  "section": "10-02",
+  "page_number": 377,
+  "content": [
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "システム構成による分類",
+        "vi": "Phân loại theo cấu trúc hệ thống",
+        "en": "Classification by System Configuration"
+      },
+      "description": {
+        "ja": "シンプレックス（ユーザ→サーバ1台）、デュプレックス（ユーザ→稼働サーバ＋待機サーバ、「2重」の意味）、デュアル（ユーザ→2台が同時処理し照合、「2つ」の意味）の3つのシステム構成を示すフロー図",
+        "vi": "Sơ đồ luồng cho thấy 3 cấu trúc hệ thống: Simplex (người dùng→1 server), Duplex (người dùng→server hoạt động + server chờ, nghĩa \"2 tầng\"), Dual (người dùng→2 máy xử lý đồng thời và so sánh, nghĩa \"2 cái\")",
+        "en": "Flow diagram showing 3 system configurations: Simplex (user→1 server), Duplex (user→active server + standby server, meaning '2 layers'), Dual (user→2 machines process simultaneously and compare, meaning '2 units')"
+      },
+      "note": {
+        "ja": "デュプレックスシステムとデュアルシステムを区別する問題がよく出題される！",
+        "vi": "Thường có câu hỏi phân biệt hệ thống duplex và hệ thống dual!",
+        "en": "Questions distinguishing duplex and dual systems often appear!"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "デュプレックスシステムとは、メインで動作するコンピュータと、故障に備えて待機しているコンピュータの2つのコンピュータからなるシステム構成",
+          "vi": "Hệ thống duplex là cấu trúc hệ thống gồm 2 máy tính: máy chính hoạt động và máy chờ phòng khi hỏng",
+          "en": "Duplex system is system configuration with 2 computers: main operating computer and standby computer for failures"
+        },
+        {
+          "ja": "デュアルシステムとは、2つのコンピュータが同じ処理を行い、結果を照合して正しいことを確認するシステム構成",
+          "vi": "Hệ thống dual là cấu trúc hệ thống 2 máy tính thực hiện cùng xử lý và so sánh kết quả để xác nhận chính xác",
+          "en": "Dual system is system configuration where 2 computers perform same processing and compare results to confirm correctness"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [],
+  "meta": {
+    "has_diagram": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

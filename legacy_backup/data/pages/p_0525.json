@@ -1,0 +1,271 @@
+{
+  "page_id": 525,
+  "image": "p_0525.png",
+  "chapter": 14,
+  "section": "14-05",
+  "page_number": 509,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "cookieを利用すると、Webサーバ側は、そのユーザーが「はじめて訪れてきたユーザー」なのか、「2回目以降のユーザー」なのかを判別できます。そして、2回目以降の場合は、初回時の情報を活用できます。例えば、初回時にログインしたWebサイトであれば、2回目以降はログインIDやパスワードの入力を省略できます。また、前回来訪時に買い物カゴに入れたまま購入しなかった商品を、後日アクセスがあった際に買い物カゴの中に表示することができます。",
+      "vi": "Khi sử dụng cookie, phía máy chủ Web có thể phân biệt người dùng đó là \"người dùng lần đầu truy cập\" hay \"người dùng từ lần 2 trở đi\". Và trong trường hợp từ lần 2 trở đi, có thể tận dụng thông tin từ lần đầu. Ví dụ, nếu là trang web đã đăng nhập lần đầu, từ lần 2 trở đi có thể bỏ qua việc nhập ID đăng nhập và mật khẩu. Ngoài ra, có thể hiển thị trong giỏ hàng các sản phẩm đã bỏ vào giỏ hàng nhưng chưa mua từ lần truy cập trước khi truy cập lần sau.",
+      "en": "Using cookie, Web server side can determine if that user is 'first-time visitor' or 'returning visitor.' And for returning visitors, can utilize information from first time. For example, if website logged in first time, from 2nd time onwards can skip entering login ID and password. Also, can display in shopping cart items that were put in cart but not purchased from previous visit.",
+      "terms": [
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "側",
+          "reading": "がわ"
+        },
+        {
+          "kanji": "訪",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "回目以降",
+          "reading": "かいめいこう"
+        },
+        {
+          "kanji": "判別",
+          "reading": "はんべつ"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "初回時",
+          "reading": "しょかいとき"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "活用",
+          "reading": "かつよう"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "kanji": "省略",
+          "reading": "しょうりゃく"
+        },
+        {
+          "kanji": "前回来訪時",
+          "reading": "ぜんかいらいほうとき"
+        },
+        {
+          "kanji": "買",
+          "reading": "ばい"
+        },
+        {
+          "kanji": "物",
+          "reading": "もの"
+        },
+        {
+          "kanji": "入",
+          "reading": "にゅう"
+        },
+        {
+          "kanji": "購入",
+          "reading": "こうにゅう"
+        },
+        {
+          "kanji": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "kanji": "後日",
+          "reading": "ごじつ"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "表示",
+          "reading": "ひょうじ"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "RSSとは、Webサイトの見出しやリンク、要約などを記述するフォーマット",
+          "vi": "RSS là định dạng để mô tả tiêu đề, liên kết, tóm tắt của trang web",
+          "en": "RSS is format for describing website headings, links, summaries"
+        },
+        {
+          "ja": "cookieとは、アクセスしてきたブラウザに、Webサーバからの情報を一時的に保存する仕組み",
+          "vi": "cookie là cơ chế lưu trữ tạm thời thông tin từ máy chủ Web vào trình duyệt đã truy cập",
+          "en": "cookie is mechanism temporarily storing information from Web server in accessing browser"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "その他のインターネットサービス関連の用語",
+        "vi": "Thuật ngữ liên quan đến dịch vụ Internet khác",
+        "en": "Other Internet Service Related Terms"
+      },
+      "headers": {
+        "ja": [
+          "種類",
+          "説明"
+        ],
+        "vi": [
+          "Loại",
+          "Giải thích"
+        ],
+        "en": [
+          "Type",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "term": "MVNO",
+          "description": {
+            "ja": "他社の無線通信インフラを借りて、顧客にSIMカードを提供し、通信サービスを行う事業者。日本では通称「格安スマホ」などとも呼ばれている。Mobile Virtual Network Operatorの略。",
+            "vi": "Nhà cung cấp dịch vụ truyền thông cung cấp thẻ SIM cho khách hàng bằng cách mượn hạ tầng truyền thông không dây của công ty khác. Ở Nhật thường được gọi là \"smartphone giá rẻ\". Viết tắt của Mobile Virtual Network Operator.",
+            "en": "Provider offering SIM cards to customers by borrowing other company's wireless infrastructure. In Japan commonly called 'budget smartphone.' Abbreviation of Mobile Virtual Network Operator."
+          }
+        },
+        {
+          "term": "FTTH",
+          "description": {
+            "ja": "光ファイバを使った家庭向け通信サービス。ADSLよりも伝送速度が高い。Fiber To The Homeの略。",
+            "vi": "Dịch vụ truyền thông gia đình sử dụng cáp quang. Tốc độ truyền cao hơn ADSL. Viết tắt của Fiber To The Home.",
+            "en": "Home communication service using fiber optic. Faster transmission speed than ADSL. Abbreviation of Fiber To The Home."
+          }
+        },
+        {
+          "term": "テザリング",
+          "description": {
+            "ja": "スマートフォンなどの通信端末をモバイルルーターのように利用して、PCなどをインターネットに接続する略。",
+            "vi": "Sử dụng thiết bị truyền thông như smartphone như router di động để kết nối PC vào Internet.",
+            "en": "Using communication device like smartphone as mobile router to connect PC to Internet."
+          }
+        },
+        {
+          "term": "VoIP",
+          "description": {
+            "ja": "スマートフォンなどで、インターネットを利用して音声通話を行う技術。Voice over Internet Protocolの略。",
+            "vi": "Công nghệ thực hiện cuộc gọi thoại sử dụng Internet trên smartphone,... Viết tắt của Voice over Internet Protocol.",
+            "en": "Technology for voice calls using Internet on smartphones, etc. Abbreviation of Voice over Internet Protocol."
+          }
+        },
+        {
+          "term": "プラチナバンド",
+          "description": {
+            "ja": "建物の奥にも届きやすい周波数帯域（700MHz帯〜900MHz帯）、携帯電話で使われている。",
+            "vi": "Dải tần số dễ đến góc khuất của tòa nhà (băng tần 700MHz~900MHz), được sử dụng trong điện thoại di động.",
+            "en": "Frequency band that easily reaches inside buildings (700MHz-900MHz band), used in mobile phones."
+          }
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "MVNOとは、他社の無線通信インフラを借り受け、通信サービスを行う事業者",
+          "vi": "MVNO là nhà cung cấp dịch vụ truyền thông bằng cách mượn hạ tầng truyền thông không dây của công ty khác",
+          "en": "MVNO is provider offering communication services by borrowing other company's wireless infrastructure"
+        },
+        {
+          "ja": "FTTHとは、光ファイバを使った家庭向けの通信サービス",
+          "vi": "FTTH là dịch vụ truyền thông gia đình sử dụng cáp quang",
+          "en": "FTTH is home communication service using fiber optic"
+        },
+        {
+          "ja": "テザリングでは、スマートフォンをルーターとして利用する",
+          "vi": "Trong tethering, sử dụng smartphone làm router",
+          "en": "In tethering, use smartphone as router"
+        },
+        {
+          "ja": "VoIPとは、インターネットを利用して音声通話を行う技術",
+          "vi": "VoIP là công nghệ thực hiện cuộc gọi thoại sử dụng Internet",
+          "en": "VoIP is technology for voice calls using Internet"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "MVNO",
+      "full": "Mobile Virtual Network Operator",
+      "vi": "MVNO (Nhà mạng ảo di động)",
+      "en": "MVNO (Mobile Virtual Network Operator)",
+      "my": "MVNO (မိုဘိုင်း အလှမ်င်ဖော (ကွန်ရက်ာ) အော်ပမေတာ)"
+    },
+    {
+      "term": "FTTH",
+      "full": "Fiber To The Home",
+      "vi": "FTTH (Cáp quang đến nhà)",
+      "en": "FTTH (Fiber To The Home)",
+      "my": "FTTH (ဖိုင်ဘာအိပ်အထိ)"
+    },
+    {
+      "term": "テザリング",
+      "vi": "Tethering",
+      "en": "Tethering",
+      "my": "တန်ဒါရင်"
+    },
+    {
+      "term": "VoIP",
+      "full": "Voice over Internet Protocol",
+      "vi": "VoIP (Thoại qua IP)",
+      "en": "VoIP (Voice over Internet Protocol)",
+      "my": "VoIP (အင်တာနက်မှတစ်ဆင် အသံခေါ်)"
+    },
+    {
+      "term": "プラチナバンド",
+      "vi": "Platinum Band",
+      "en": "Platinum Band",
+      "my": "ပလက်တိနမ်ဘန်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

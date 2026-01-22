@@ -1,0 +1,410 @@
+{
+  "page_id": 204,
+  "image": "p_0204.png",
+  "chapter": 5,
+  "section": "05-04",
+  "page_number": 188,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "・オンプレミス\n・ハウジングサービス\n・ホスティングサービス\n・クラウドコンピューティング\n\nそれぞれの特徴と違いを覚えよう！",
+      "vi": "・On-Premise\n・Housing Service\n・Hosting Service\n・Cloud Computing\n\nHãy nhớ đặc điểm và sự khác biệt của mỗi loại!",
+      "en": "・On-Premise\n・Housing Service\n・Hosting Service\n・Cloud Computing\n\nRemember the characteristics and differences of each!",
+      "my": "・On-Premise\n・Housing Service\n・Hosting Service\n・Cloud Computing",
+      "terms": [
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "オンプレミス",
+      "vi": "On-Premise",
+      "en": "On-Premise"
+    },
+    {
+      "type": "paragraph",
+      "ja": "オンプレミス（On Premise）とは、自社の敷地に自社のサーバを置くことです。サーバを自社で買って、自社の敷地内に設置します。昨今急速に普及しているクラウドコンピューティング（クラウド）が登場するまでは、多くの企業が自社の情報システムをオンプレミスで利用していました。\n\nオンプレミスでは情報システムを自社内で完全に管理できるため、機密保全の面で非常に高い安全性を維持できるというメリットがあります。このため、現在でも金融事業など、高い機密性を要する業界では広く利用されています。\n\n反面、すべての情報システムを自社で開設・運用・管理しなければならない、多くの費用がかかるというデメリットもあります。この費用面のデメリットがあるために、昨今は多くの企業が自社の情報システムを、オンプレミスからクラウドコンピューティングへ移行しはじめています。",
+      "vi": "On-Premise là đặt server của công ty mình trên đất của công ty mình. Mua server và đặt trong khuôn viên công ty. Cho đến khi Cloud Computing phổ biến nhanh chóng gần đây, nhiều công ty sử dụng hệ thống thông tin của mình theo On-Premise.\n\nVới On-Premise, có thể quản lý hoàn toàn hệ thống thông tin trong nội bộ nên có lợi thế duy trì độ an toàn rất cao về bảo mật. Vì vậy, hiện nay vẫn được sử dụng rộng rãi trong các ngành yêu cầu bảo mật cao như tài chính.\n\nNgược lại, có nhược điểm là phải tự mở, vận hành, quản lý tất cả hệ thống thông tin và tốn nhiều chi phí. Do nhược điểm chi phí này, gần đây nhiều công ty bắt đầu chuyển từ On-Premise sang Cloud Computing.",
+      "en": "On-Premise means placing your company's server on your company's premises. You buy the server and install it on your company's property. Until Cloud Computing rapidly spread recently, many companies used their information systems on-premise.\n\nWith On-Premise, you can completely manage information systems in-house, providing the advantage of maintaining very high security in terms of confidentiality. So even today, it's widely used in industries requiring high confidentiality like finance.\n\nConversely, there's the disadvantage of having to establish, operate, and manage all information systems in-house at great cost. Due to this cost disadvantage, many companies are now starting to migrate from On-Premise to Cloud Computing.",
+      "my": "On-Premise ဆိုသည်မှာ သင့်ကုမ္ပဏီ၏ server ကို သင့်ကုမ္ပဏီ၏ နေရာတွင် ထားရှိခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "敷地",
+          "reading": "しきち"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "買",
+          "reading": "か"
+        },
+        {
+          "kanji": "敷地内",
+          "reading": "しきちない"
+        },
+        {
+          "kanji": "設置",
+          "reading": "せっち"
+        },
+        {
+          "kanji": "昨今急速",
+          "reading": "さっこんきゅうそく"
+        },
+        {
+          "kanji": "普及",
+          "reading": "ふきゅう"
+        },
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "自社内",
+          "reading": "じしゃない"
+        },
+        {
+          "kanji": "完全",
+          "reading": "かんぜん"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "機密保全",
+          "reading": "きみつほぜん"
+        },
+        {
+          "kanji": "面",
+          "reading": "めん"
+        },
+        {
+          "kanji": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        },
+        {
+          "kanji": "安全性",
+          "reading": "あんぜんせい"
+        },
+        {
+          "kanji": "維持",
+          "reading": "いじ"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "金融事業",
+          "reading": "きんゆうじぎょう"
+        },
+        {
+          "kanji": "機密性",
+          "reading": "きみつせい"
+        },
+        {
+          "kanji": "要",
+          "reading": "よう"
+        },
+        {
+          "kanji": "業界",
+          "reading": "ぎょうかい"
+        },
+        {
+          "kanji": "広",
+          "reading": "ひろ"
+        },
+        {
+          "kanji": "反面",
+          "reading": "はんめん"
+        },
+        {
+          "kanji": "開設",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        },
+        {
+          "kanji": "費用",
+          "reading": "ひよう"
+        },
+        {
+          "kanji": "費用面",
+          "reading": "ひようめん"
+        },
+        {
+          "kanji": "昨今",
+          "reading": "さっこん"
+        },
+        {
+          "kanji": "移行",
+          "reading": "いこう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ハウジングサービス",
+      "vi": "Housing Service",
+      "en": "Housing Service"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ハウジングサービスとは、他社の敷地に自社のサーバを置くサービスです。オンプレミスとの違いは、自社のサーバの設置場所です。なお、コンピュータの開設・運用・管理は自社で行う必要があります。この点はオンプレミスと同じです。",
+      "vi": "Housing Service là dịch vụ đặt server của công ty mình trên đất của công ty khác. Khác với On-Premise ở chỗ đặt server. Việc mở, vận hành, quản lý máy tính vẫn phải tự làm. Điểm này giống On-Premise.",
+      "en": "Housing Service is a service placing your company's server on another company's premises. The difference from On-Premise is the server installation location. Note that you still need to establish, operate, and manage the computer yourself. This is the same as On-Premise.",
+      "my": "Housing Service သည် သင့်ကုမ္ပဏီ၏ server ကို အခြားကုမ္ပဏီ၏ နေရာတွင် ထားရှိသော ဝန်ဆောင်မှုဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "他社",
+          "reading": "たしゃ"
+        },
+        {
+          "kanji": "敷地",
+          "reading": "しきち"
+        },
+        {
+          "kanji": "自社",
+          "reading": "じしゃ"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "設置場所",
+          "reading": "せっちばしょ"
+        },
+        {
+          "kanji": "開設",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "運用",
+          "reading": "うんよう"
+        },
+        {
+          "kanji": "管理",
+          "reading": "かんり"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "ホスティングサービス",
+      "vi": "Hosting Service",
+      "en": "Hosting Service"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ホスティングサービスとは、他社の敷地に置かれた、他社が所有しているサーバを借りるサービスです。他社の敷地にサーバが設置されているという点ではハウジングサービスと同じですが、設置されているサーバも他社のものであるという点がホスティングサービスとハウジングサービスの最大の違いです。",
+      "vi": "Hosting Service là dịch vụ thuê server do công ty khác sở hữu đặt trên đất của công ty khác. Giống Housing Service ở điểm server được đặt trên đất công ty khác, nhưng khác biệt lớn nhất là server được đặt cũng thuộc về công ty khác.",
+      "en": "Hosting Service is a service renting servers owned by another company placed on that company's premises. It's the same as Housing Service in that servers are installed on another company's premises, but the biggest difference is that the installed servers also belong to another company.",
+      "my": "Hosting Service သည် အခြားကုမ္ပဏီပိုင်ဆိုင်သော server များကို ငှားရမ်းသော ဝန်ဆောင်မှုဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "他社",
+          "reading": "たしゃ"
+        },
+        {
+          "kanji": "敷地",
+          "reading": "しきち"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "所有",
+          "reading": "しょゆう"
+        },
+        {
+          "kanji": "借",
+          "reading": "しゃく"
+        },
+        {
+          "kanji": "設置",
+          "reading": "せっち"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "最大",
+          "reading": "さいだい"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "ハウジングサービスとホスティングサービス",
+        "vi": "Housing Service và Hosting Service",
+        "en": "Housing Service and Hosting Service",
+        "terms": [
+          {
+            "kanji": "ホスティングサービス",
+            "reading": "ほすてぃんぐさーびす"
+          },
+          {
+            "kanji": "ハウジングサービス",
+            "reading": "はうじんぐさーびす"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ハウジングサービスとホスティングサービスは混同しやすいので注意してください。ハウジングといえば「家の賃貸」です。部屋を借りますが、家具は自分で用意する必要があります。一方、ホスティングは「ホームステイ」のようなものです。ホームステイでは部屋と家具をすべて用意されています。",
+        "vi": "Housing Service và Hosting Service dễ nhầm lẫn nên hãy chú ý. Housing có nghĩa là thuê nhà. Thuê phòng nhưng phải tự chuẩn bị nội thất. Mặt khác, Hosting giống như Homestay. Trong Homestay phòng và nội thất đều được chuẩn bị sẵn.",
+        "en": "Housing Service and Hosting Service are easily confused, so be careful. Housing means 'house rental'. You rent the room but need to prepare furniture yourself. Meanwhile, Hosting is like 'Homestay'. In Homestay, room and furniture are all provided.",
+        "terms": [
+          {
+            "kanji": "混同",
+            "reading": "こんどう"
+          },
+          {
+            "kanji": "注意",
+            "reading": "ちゅうい"
+          },
+          {
+            "kanji": "家",
+            "reading": "いえ"
+          },
+          {
+            "kanji": "賃貸",
+            "reading": "ちんたい"
+          },
+          {
+            "kanji": "部屋",
+            "reading": "へや"
+          },
+          {
+            "kanji": "借",
+            "reading": "しゃく"
+          },
+          {
+            "kanji": "家具",
+            "reading": "かぐ"
+          },
+          {
+            "kanji": "自分",
+            "reading": "じぶん"
+          },
+          {
+            "kanji": "用意",
+            "reading": "ようい"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          },
+          {
+            "kanji": "一方",
+            "reading": "いっぽう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "オンプレミス",
+      "reading": "おんぷれみす",
+      "romaji": "On-Premise",
+      "vi": "Tại chỗ",
+      "en": "On-Premise",
+      "my": "နေရာတိုင်း"
+    },
+    {
+      "kanji": "ハウジングサービス",
+      "reading": "はうじんぐさーびす",
+      "romaji": "Housing Service",
+      "vi": "Dịch vụ housing",
+      "en": "Housing Service",
+      "my": "အိမ်ရာ ဝန်ဆောင်မှု"
+    },
+    {
+      "kanji": "ホスティングサービス",
+      "reading": "ほすてぃんぐさーびす",
+      "romaji": "Hosting Service",
+      "vi": "Dịch vụ hosting",
+      "en": "Hosting Service",
+      "my": "လက်ခံခြင်း ဝန်ဆောင်မှု"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_learn_more": true
+  }
+}

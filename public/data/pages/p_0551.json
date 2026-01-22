@@ -1,0 +1,400 @@
+{
+  "page_id": 551,
+  "image": "p_0551.png",
+  "chapter": 15,
+  "section": "15-03",
+  "page_number": 535,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "情報セキュリティポリシー",
+      "vi": "Chính sách bảo mật thông tin",
+      "en": "Information Security Policy"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ISMSにおけるPDCAの「Plan」では、主に情報セキュリティポリシーを策定します。情報セキュリティポリシーとは、情報セキュリティに関するその組織の取組み、対策をまとめた文書です。",
+      "vi": "Trong \"Plan\" của PDCA trong ISMS, chủ yếu xây dựng Chính sách bảo mật thông tin. Chính sách bảo mật thông tin là tài liệu tóm tắt các nỗ lực và biện pháp của tổ chức về bảo mật thông tin.",
+      "en": "In PDCA's 'Plan' in ISMS, mainly formulate Information Security Policy. Information Security Policy is document summarizing organization's efforts and measures regarding information security.",
+      "terms": [
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "策定",
+          "reading": "さくてい"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "組織",
+          "reading": "そしき"
+        },
+        {
+          "kanji": "取組",
+          "reading": "とりくみ"
+        },
+        {
+          "kanji": "対策",
+          "reading": "たいさく"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なぜこのような文書を作成するのかというと、従業員によって情報資産の扱い方が異なると、情報セキュリティに関するリスクが高まってしまうからです。",
+      "vi": "Lý do tạo tài liệu như vậy là vì nếu cách xử lý tài sản thông tin khác nhau tùy nhân viên, rủi ro về bảo mật thông tin sẽ tăng cao.",
+      "en": "Reason for creating such document is that if handling of information assets differs by employee, risks regarding information security increase.",
+      "terms": [
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "作成",
+          "reading": "さくせい"
+        },
+        {
+          "kanji": "従業員",
+          "reading": "じゅうぎょういん"
+        },
+        {
+          "kanji": "情報資産",
+          "reading": "じょうほうしさん"
+        },
+        {
+          "kanji": "扱",
+          "reading": "きゅう"
+        },
+        {
+          "kanji": "方",
+          "reading": "かた"
+        },
+        {
+          "kanji": "異",
+          "reading": "い"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "3つの文書",
+      "vi": "3 loại tài liệu",
+      "en": "3 Documents"
+    },
+    {
+      "type": "paragraph",
+      "ja": "情報セキュリティポリシーは次の3つの文書で構成されます。",
+      "vi": "Chính sách bảo mật thông tin bao gồm 3 tài liệu sau.",
+      "en": "Information Security Policy consists of following 3 documents.",
+      "terms": [
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "ja": "情報セキュリティ基本方針",
+          "vi": "Phương châm cơ bản bảo mật thông tin",
+          "en": "Information Security Basic Policy"
+        },
+        {
+          "ja": "情報セキュリティ対策基準",
+          "vi": "Tiêu chuẩn đối sách bảo mật thông tin",
+          "en": "Information Security Standards"
+        },
+        {
+          "ja": "情報セキュリティ実施手順",
+          "vi": "Quy trình thực hiện bảo mật thông tin",
+          "en": "Information Security Procedures"
+        }
+      ],
+      "note": {
+        "ja": "これらの違いが出題されます",
+        "vi": "Sự khác biệt giữa những điều này sẽ được ra đề",
+        "en": "Differences between these appear on exam"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "三角形の下にいくほど、より具体的な文書となります。ITパスポート試験では、これら3つの文書の違いが問われることがあるので、1つずつ詳しく解説します。",
+      "vi": "Càng đi xuống hình tam giác, tài liệu càng cụ thể. Trong kỳ thi IT Passport, sự khác biệt giữa 3 tài liệu này có thể được hỏi, nên sẽ giải thích chi tiết từng cái.",
+      "en": "The lower in triangle, more specific the document. In IT Passport exam, differences between these 3 documents may be asked, so will explain each in detail.",
+      "terms": [
+        {
+          "kanji": "三角形",
+          "reading": "さんかくけい"
+        },
+        {
+          "kanji": "下",
+          "reading": "した"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "文書",
+          "reading": "ぶんしょ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "情報セキュリティ基本方針",
+      "vi": "Phương châm cơ bản bảo mật thông tin",
+      "en": "Information Security Basic Policy"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "情報セキュリティ基本方針",
+        "vi": "Phương châm cơ bản bảo mật thông tin",
+        "en": "Information Security Basic Policy"
+      },
+      "definition": {
+        "ja": "情報セキュリティ基本方針とは、情報セキュリティに関する取組みを示す文書です。経営の上位者が、すべての従業員と社外の利害関係者に対して、情報セキュリティに対する取組みを公表します。公表することで組織が情報セキュリティに対して本格的に取り組んでいることを示すことができます。",
+        "vi": "Phương châm cơ bản bảo mật thông tin là tài liệu cho thấy các nỗ lực về bảo mật thông tin. Lãnh đạo cấp cao công bố cho tất cả nhân viên và các bên liên quan bên ngoài các nỗ lực về bảo mật thông tin. Bằng việc công bố, có thể cho thấy tổ chức đang nghiêm túc thực hiện bảo mật thông tin.",
+        "en": "Information Security Basic Policy is document showing information security efforts. Upper management publishes information security efforts to all employees and external stakeholders. By publishing, can show organization is seriously committed to information security."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、ビジネス環境や技術は常に変化しているので、情報セキュリティ基本方針は、PDCAで定期的に変更・改善します。内容を改訂した場合は再度、社内外に周知します。",
+      "vi": "Ngoài ra, vì môi trường kinh doanh và công nghệ luôn thay đổi, Phương châm cơ bản bảo mật thông tin được thay đổi và cải tiến định kỳ bằng PDCA. Khi nội dung được sửa đổi, phổ biến lại trong và ngoài công ty.",
+      "en": "Also, since business environment and technology constantly change, Information Security Basic Policy is periodically changed and improved through PDCA. When content is revised, inform again inside and outside company.",
+      "terms": [
+        {
+          "kanji": "環境",
+          "reading": "かんきょう"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "変化",
+          "reading": "へんか"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "基本方針",
+          "reading": "きほんほうしん"
+        },
+        {
+          "kanji": "定期的",
+          "reading": "ていきてき"
+        },
+        {
+          "kanji": "変更",
+          "reading": "へんこう"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "改訂",
+          "reading": "かいてい"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "再度",
+          "reading": "さいど"
+        },
+        {
+          "kanji": "社内外",
+          "reading": "しゃないがい"
+        },
+        {
+          "kanji": "周知",
+          "reading": "しゅうち"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "情報セキュリティ対策基準",
+      "vi": "Tiêu chuẩn đối sách bảo mật thông tin",
+      "en": "Information Security Standards"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "情報セキュリティ対策基準",
+        "vi": "Tiêu chuẩn đối sách bảo mật thông tin",
+        "en": "Information Security Standards"
+      },
+      "definition": {
+        "ja": "情報セキュリティ対策基準とは、情報セキュリティ基本方針で作成した目標を達成するためのルール集です。情報セキュリティ基本方針に基づいて作成します。",
+        "vi": "Tiêu chuẩn đối sách bảo mật thông tin là bộ quy tắc để đạt được mục tiêu được tạo trong Phương châm cơ bản bảo mật thông tin. Được tạo dựa trên Phương châm cơ bản bảo mật thông tin.",
+        "en": "Information Security Standards is set of rules to achieve goals created in Information Security Basic Policy. Created based on Information Security Basic Policy."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "具体的には、人事規程や就業規則などの「規程類」です。実際に守るべき規定を記述し、適用範囲や対象者を明確にします。情報セキュリティ対策として「何をするのか」を記述します。",
+      "vi": "Cụ thể là \"các quy định\" như quy chế nhân sự và nội quy lao động. Mô tả các quy định thực tế cần tuân thủ và làm rõ phạm vi áp dụng và đối tượng. Mô tả \"làm gì\" như biện pháp bảo mật thông tin.",
+      "en": "Specifically, 'regulations' like personnel rules and work regulations. Describe actual rules to follow and clarify scope and targets. Describe 'what to do' as information security measures.",
+      "terms": [
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        },
+        {
+          "kanji": "人事規程",
+          "reading": "じんじきてい"
+        },
+        {
+          "kanji": "就業規則",
+          "reading": "しゅうぎょうきそく"
+        },
+        {
+          "kanji": "規程類",
+          "reading": "きているい"
+        },
+        {
+          "kanji": "実際",
+          "reading": "じっさい"
+        },
+        {
+          "kanji": "守",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "規定",
+          "reading": "きてい"
+        },
+        {
+          "kanji": "記述",
+          "reading": "きじゅつ"
+        },
+        {
+          "kanji": "適用範囲",
+          "reading": "てきようはんい"
+        },
+        {
+          "kanji": "対象者",
+          "reading": "たいしょうしゃ"
+        },
+        {
+          "kanji": "明確",
+          "reading": "めいかく"
+        },
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "対策",
+          "reading": "たいさく"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "情報セキュリティポリシー",
+      "vi": "Chính sách bảo mật thông tin",
+      "en": "Information Security Policy",
+      "my": "သတင်းအချက်အလက် လုံခြုံရေးမူဝါဒ"
+    },
+    {
+      "term": "情報セキュリティ基本方針",
+      "vi": "Phương châm cơ bản bảo mật thông tin",
+      "en": "Information Security Basic Policy",
+      "my": "သတင်းအချက်အလက်လုံခြုံရေး အခြေခံမူဝါဒ"
+    },
+    {
+      "term": "情報セキュリティ対策基準",
+      "vi": "Tiêu chuẩn đối sách bảo mật thông tin",
+      "en": "Information Security Standards",
+      "my": "သတင်းအချက်အလက်လုံခြုံရေး စံနှုန်း"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

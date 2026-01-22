@@ -1,0 +1,349 @@
+{
+  "page_id": 23,
+  "image": "p_0023.png",
+  "chapter": 0,
+  "section": "00-02",
+  "page_number": 7,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "財務、マネジメントといった、一見するとITには関係なさそうなこともたくさん出題されます。",
+      "vi": "Các chủ đề như tài chính và quản lý, thoạt nhìn có vẻ không liên quan đến IT, cũng được ra đề rất nhiều.",
+      "en": "Topics like finance and management, which at first glance seem unrelated to IT, are also frequently tested.",
+      "my": "ငွေကြေးနှင့် စီမံခန့်ခွဲမှုကဲ့သို့ IT နှင့် မဆိုင်ဟန်ရှိသော အကြောင်းအရာများလည်း မကြာခဏ မေးခွန်းထုတ်သည်။",
+      "terms": [
+        {
+          "kanji": "財務",
+          "reading": "ざいむ"
+        },
+        {
+          "kanji": "一見",
+          "reading": "いっけん"
+        },
+        {
+          "kanji": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "chart",
+      "title": {
+        "ja": "分野別の出題数",
+        "vi": "Số câu hỏi theo lĩnh vực",
+        "en": "Number of Questions by Field"
+      },
+      "description": {
+        "ja": "棒グラフでストラテジ系、マネジメント系、テクノロジ系の各分野の出題数を表示",
+        "vi": "Biểu đồ cột hiển thị số câu hỏi của các lĩnh vực Strategy, Management, Technology",
+        "en": "Bar chart showing number of questions for Strategy, Management, and Technology fields"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "上のグラフを見ると、昨今急速に重要度が増している「セキュリティ」に関する問題が突出して多く出題されていることに加え、「企業活動」や「法務」に関する問題が多く出題されていることがわかります。",
+      "vi": "Nhìn vào biểu đồ trên, có thể thấy ngoài việc câu hỏi về 'Bảo mật' - lĩnh vực đang ngày càng trở nên quan trọng trong thời gian gần đây - được ra đề rất nhiều, các câu hỏi về 'Hoạt động doanh nghiệp' và 'Pháp luật' cũng xuất hiện nhiều.",
+      "en": "Looking at the chart above, we can see that questions about 'Security', which has been rapidly growing in importance recently, are prominently featured, along with many questions about 'Corporate Activities' and 'Legal Affairs'.",
+      "my": "အထက်ပါဇယားကိုကြည့်လျှင် မကြာသေးမီက အရေးပါလာသော 'လုံခြုံရေး' မေးခွန်းများ အထူးများပြီး 'ကုမ္ပဏီလုပ်ငန်းများ' နှင့် 'ဥပဒေရေးရာ' မေးခွန်းများလည်း များစွာပါဝင်သည်။",
+      "terms": [
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "見",
+          "reading": "けん"
+        },
+        {
+          "kanji": "昨今急速",
+          "reading": "さっこんきゅうそく"
+        },
+        {
+          "kanji": "重要度",
+          "reading": "じゅうようど"
+        },
+        {
+          "kanji": "増",
+          "reading": "ぞう"
+        },
+        {
+          "kanji": "関",
+          "reading": "かん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "突出",
+          "reading": "とっしゅつ"
+        },
+        {
+          "kanji": "多",
+          "reading": "た"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "加",
+          "reading": "か"
+        },
+        {
+          "kanji": "企業活動",
+          "reading": "きぎょうかつどう"
+        },
+        {
+          "kanji": "法務",
+          "reading": "ほうむ"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "効率的な学習のために",
+        "vi": "Để học tập hiệu quả",
+        "en": "For Efficient Studying",
+        "terms": [
+          {
+            "kanji": "効率的",
+            "reading": "こうりつてき"
+          },
+          {
+            "kanji": "学習",
+            "reading": "がくしゅう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験に効率よく、最短で合格するためには、こういった出題傾向を把握しておくことが大切です。ITパスポート試験の出題範囲はとても広いため、無策のまま、ただひたすらに暗記していく勉強方法は効率がよいとはいえません。",
+        "vi": "Để đỗ kỳ thi IT Passport một cách hiệu quả và nhanh nhất, việc nắm bắt xu hướng ra đề là rất quan trọng. Vì phạm vi đề thi IT Passport rất rộng, phương pháp học chỉ đơn thuần ghi nhớ mà không có chiến lược không phải là cách hiệu quả.",
+        "en": "To pass the IT Passport exam efficiently and quickly, understanding these question trends is important. Since the exam scope is very broad, simply memorizing without a strategy is not an efficient study method.",
+        "my": "IT Passport စာမေးပွဲကို ထိရောက်စွာနှင့် အမြန်ဆုံးအောင်မြင်ရန် ဤမေးခွန်းထွက်ပုံများကို နားလည်ရန် အရေးကြီးသည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "効率",
+            "reading": "こうりつ"
+          },
+          {
+            "kanji": "最短",
+            "reading": "さいたん"
+          },
+          {
+            "kanji": "合格",
+            "reading": "ごうかく"
+          },
+          {
+            "kanji": "出題傾向",
+            "reading": "しゅつだいけいこう"
+          },
+          {
+            "kanji": "把握",
+            "reading": "はあく"
+          },
+          {
+            "kanji": "大切",
+            "reading": "たいせつ"
+          },
+          {
+            "kanji": "出題範囲",
+            "reading": "しゅつだいはんい"
+          },
+          {
+            "kanji": "広",
+            "reading": "こう"
+          },
+          {
+            "kanji": "無策",
+            "reading": "むさく"
+          },
+          {
+            "kanji": "暗記",
+            "reading": "あんき"
+          },
+          {
+            "kanji": "勉強方法",
+            "reading": "べんきょうほうほう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "100問中8問は捨て問題？",
+        "vi": "8 trong 100 câu là câu hỏi bỏ đi?",
+        "en": "8 out of 100 questions are throw-away questions?",
+        "terms": [
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験の出題数は100問ですが（p.3）、合否判定の総合評価は92問で行い、残りの8問は今後出題する問題を評価するために使われます。ただし、どの8問が評価外かは公開されていないため、全問に真剣に取り組む必要があります。",
+        "vi": "Kỳ thi IT Passport có 100 câu hỏi (trang 3), nhưng việc đánh giá tổng hợp để xác định đỗ/trượt chỉ dựa trên 92 câu, 8 câu còn lại được dùng để đánh giá cho các đề thi tương lai. Tuy nhiên, vì không công bố 8 câu nào không tính điểm, bạn cần làm nghiêm túc tất cả các câu.",
+        "en": "The IT Passport exam has 100 questions (p.3), but the pass/fail evaluation is based on 92 questions; the remaining 8 are used to evaluate future exam questions. However, since which 8 questions are excluded is not disclosed, you need to seriously attempt all questions.",
+        "my": "IT Passport စာမေးပွဲတွင် မေးခွန်း ၁၀၀ ရှိသော်လည်း (စာ ၃) အောင်/ကျ အကဲဖြတ်ချက်သည် မေးခွန်း ၉၂ ခုကိုသာ အခြေခံသည်။",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "出題数",
+            "reading": "しゅつだいかず"
+          },
+          {
+            "kanji": "問",
+            "reading": "とん"
+          },
+          {
+            "kanji": "合否判定",
+            "reading": "ごうひはんてい"
+          },
+          {
+            "kanji": "総合評価",
+            "reading": "そうごうひょうか"
+          },
+          {
+            "kanji": "行",
+            "reading": "ぎょう"
+          },
+          {
+            "kanji": "残",
+            "reading": "ざん"
+          },
+          {
+            "kanji": "今後出題",
+            "reading": "こんごしゅつだい"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "評価",
+            "reading": "ひょうか"
+          },
+          {
+            "kanji": "使",
+            "reading": "し"
+          },
+          {
+            "kanji": "評価外",
+            "reading": "ひょうかそと"
+          },
+          {
+            "kanji": "公開",
+            "reading": "こうかい"
+          },
+          {
+            "kanji": "全問",
+            "reading": "ぜんもん"
+          },
+          {
+            "kanji": "真剣",
+            "reading": "しんけん"
+          },
+          {
+            "kanji": "取",
+            "reading": "しゅ"
+          },
+          {
+            "kanji": "組",
+            "reading": "くみ"
+          },
+          {
+            "kanji": "必要",
+            "reading": "ひつよう"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "セキュリティ",
+      "reading": "せきゅりてぃ",
+      "romaji": "Sekyuritii",
+      "vi": "Bảo mật",
+      "en": "Security",
+      "my": "လုံခြုံရေး"
+    },
+    {
+      "kanji": "出題傾向",
+      "reading": "しゅつだいけいこう",
+      "romaji": "Shutsudai Keikou",
+      "vi": "Xu hướng ra đề",
+      "en": "Question trends",
+      "my": "မေးခွန်းထုတ်ပုံလမ်းကြောင်း"
+    },
+    {
+      "kanji": "合否判定",
+      "reading": "ごうひはんてい",
+      "romaji": "Gouhi Hantei",
+      "vi": "Xác định đỗ/trượt",
+      "en": "Pass/fail determination",
+      "my": "အောင်/ကျ ဆုံးဖြတ်ချက်"
+    },
+    {
+      "kanji": "財務",
+      "reading": "ざいむ",
+      "romaji": "Zaimu",
+      "vi": "Tài chính",
+      "en": "Finance",
+      "my": "ငွေကြေးရေး"
+    },
+    {
+      "kanji": "重要度",
+      "reading": "じゅうようど",
+      "romaji": "Juuyoudo",
+      "vi": "Mức độ quan trọng",
+      "en": "Importance level",
+      "my": "အရေးကြီးမှု"
+    },
+    {
+      "kanji": "効率的",
+      "reading": "こうりつてき",
+      "romaji": "Kouritsuteki",
+      "vi": "Hiệu quả",
+      "en": "Efficient",
+      "my": "ထိရောက်သော"
+    },
+    {
+      "kanji": "暗記",
+      "reading": "あんき",
+      "romaji": "Anki",
+      "vi": "Ghi nhớ",
+      "en": "Memorization",
+      "my": "အလွတ်ကျက်ခြင်း"
+    },
+    {
+      "kanji": "評価",
+      "reading": "ひょうか",
+      "romaji": "Hyouka",
+      "vi": "Đánh giá",
+      "en": "Evaluation",
+      "my": "အကဲဖြတ်ချက်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_chart": true,
+    "has_exam_tip": true,
+    "has_learn_more": true
+  }
+}

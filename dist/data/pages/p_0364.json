@@ -1,0 +1,388 @@
+{
+  "page_id": 364,
+  "image": "p_0364.png",
+  "chapter": 9,
+  "section": "09-07",
+  "page_number": 348,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "なお、型名はプログラム言語ごとに決められているのですが、変数名はプログラムを書く人が自由に命名できます。",
+      "vi": "Tham khảo, tên kiểu được quy định cho mỗi ngôn ngữ lập trình, nhưng tên biến có thể được đặt tự do bởi người viết chương trình.",
+      "en": "Note that type names are determined per programming language, but variable names can be freely named by program writer.",
+      "terms": [
+        {
+          "kanji": "型名",
+          "reading": "かためい"
+        },
+        {
+          "kanji": "言語",
+          "reading": "げんご"
+        },
+        {
+          "kanji": "決",
+          "reading": "けつ"
+        },
+        {
+          "kanji": "変数名",
+          "reading": "へんすうめい"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "人",
+          "reading": "ひと"
+        },
+        {
+          "kanji": "自由",
+          "reading": "じゆう"
+        },
+        {
+          "kanji": "命名",
+          "reading": "めいめい"
+        }
+      ]
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "変数名は略語が多い",
+        "vi": "Tên biến thường là từ viết tắt",
+        "en": "Variable Names Often Abbreviated",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "変数名はプログラムを書く人が自由に命名できるのですが、変数名が長いと書くのが手間です。そのため、ITパスポート試験に出題される変数名は略語であることが多いです。",
+        "vi": "Tên biến có thể được đặt tự do bởi người viết chương trình, nhưng nếu tên biến dài thì phiền khi viết. Do đó, tên biến trong kỳ thi IT Passport thường là từ viết tắt.",
+        "en": "Variable names can be freely named by program writer, but long variable names are troublesome to write. Therefore, variable names in IT Passport exam are often abbreviations."
+      },
+      "examples": {
+        "ja": "例えば、上記の「num」は「number」の略語です。他にも「cnt」は「count」の略語です。見慣れない英単語を見たら「これは何の略語かな」と考えてみてください。",
+        "vi": "Ví dụ, \"num\" trên là viết tắt của \"number\". Ngoài ra \"cnt\" là viết tắt của \"count\". Khi thấy từ tiếng Anh không quen, hãy nghĩ \"đây là viết tắt của gì\".",
+        "en": "For example, above 'num' is abbreviation of 'number.' Also 'cnt' is abbreviation of 'count.' When seeing unfamiliar English words, think 'what is this abbreviation for.'"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "型",
+      "reading": "かた",
+      "vi": "Kiểu",
+      "en": "Type"
+    },
+    {
+      "type": "paragraph",
+      "ja": "型とは、値の種類（整数や文字列など）です。変数を宣言する際に型を指定することで、その変数には指定した値しか格納できなくなります。",
+      "vi": "Kiểu là loại giá trị (số nguyên hoặc chuỗi ký tự, v.v.). Bằng cách chỉ định kiểu khi khai báo biến, biến đó chỉ có thể lưu giá trị đã chỉ định.",
+      "en": "Type is kind of value (integer or string, etc.). By specifying type when declaring variable, that variable can only store specified value type.",
+      "terms": [
+        {
+          "kanji": "型",
+          "reading": "かた"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "整数",
+          "reading": "せいすう"
+        },
+        {
+          "kanji": "文字列",
+          "reading": "もじれつ"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "宣言",
+          "reading": "せんげん"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "指定",
+          "reading": "してい"
+        },
+        {
+          "kanji": "格納",
+          "reading": "かくのう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、前ページでは「整数型: num」と書いています。この場合、変数numには整数のみが格納できます。他の値（文字列や小数など）は格納できません。",
+      "vi": "Ví dụ, trang trước viết \"Kiểu số nguyên: num\". Trong trường hợp này, biến num chỉ có thể lưu số nguyên. Các giá trị khác (chuỗi ký tự hoặc số thập phân, v.v.) không thể lưu.",
+      "en": "For example, previous page writes 'Integer: num.' In this case, variable num can only store integers. Other values (strings or decimals, etc.) cannot be stored.",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "前",
+          "reading": "まえ"
+        },
+        {
+          "kanji": "整数型",
+          "reading": "せいすうがた"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "整数",
+          "reading": "せいすう"
+        },
+        {
+          "kanji": "格納",
+          "reading": "かくのう"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "文字列",
+          "reading": "もじれつ"
+        },
+        {
+          "kanji": "小数",
+          "reading": "しょうすう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験に出題される、代表的な型は以下の3種類です。",
+      "vi": "Các kiểu đại diện xuất hiện trong kỳ thi IT Passport là 3 loại sau.",
+      "en": "Representative types appearing in IT Passport exam are following 3 types.",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "代表的",
+          "reading": "だいひょうてき"
+        },
+        {
+          "kanji": "型",
+          "reading": "かた"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "型の主な種類",
+        "vi": "Các loại kiểu chính",
+        "en": "Main Type Categories"
+      },
+      "headers": {
+        "ja": [
+          "型",
+          "説明",
+          "具体例"
+        ],
+        "vi": [
+          "Kiểu",
+          "Giải thích",
+          "Ví dụ"
+        ],
+        "en": [
+          "Type",
+          "Description",
+          "Example"
+        ]
+      },
+      "rows": [
+        {
+          "type": "整数型",
+          "description": {
+            "ja": "整数",
+            "vi": "Số nguyên",
+            "en": "Integer"
+          },
+          "example": "-2, 0, 1, 2"
+        },
+        {
+          "type": "実数型",
+          "description": {
+            "ja": "小数点を含む数値",
+            "vi": "Số có dấu thập phân",
+            "en": "Number with decimal point"
+          },
+          "example": "3.14, -0.5"
+        },
+        {
+          "type": "文字列型",
+          "description": {
+            "ja": "文字を並べたもの。格納する際は値を「\"」（ダブルクォート）で囲む",
+            "vi": "Dãy ký tự. Khi lưu, bao giá trị bằng \"\\\"\" (dấu nháy kép)",
+            "en": "Sequence of characters. When storing, enclose value in '\"' (double quotes)"
+          },
+          "example": "\"こんにちは\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、この表については詳細に理解する必要はありません。こんな型があるんだな、という程度で確認しておいてください。",
+      "vi": "Tham khảo, không cần hiểu chi tiết bảng này. Hãy xác nhận ở mức \"à có kiểu như này\".",
+      "en": "Note that no need to understand this table in detail. Just confirm at level of 'ah, there's types like this.'",
+      "terms": [
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "詳細",
+          "reading": "しょうさい"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "型",
+          "reading": "かた"
+        },
+        {
+          "kanji": "程度",
+          "reading": "ていど"
+        },
+        {
+          "kanji": "確認",
+          "reading": "かくにん"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "代入",
+      "reading": "だいにゅう",
+      "vi": "Gán",
+      "en": "Assignment"
+    },
+    {
+      "type": "paragraph",
+      "ja": "変数は、宣言しただけでは意味がありません。変数に値を入れることではじめて役に立ちます。変数に値を入れることを代入といいます。",
+      "vi": "Biến chỉ khai báo thì không có ý nghĩa. Chỉ khi đặt giá trị vào biến mới có ích. Việc đặt giá trị vào biến gọi là gán.",
+      "en": "Variable is meaningless just by declaring. Only becomes useful when putting value in variable. Putting value in variable is called assignment.",
+      "terms": [
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "宣言",
+          "reading": "せんげん"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "役",
+          "reading": "やく"
+        },
+        {
+          "kanji": "立",
+          "reading": "た"
+        },
+        {
+          "kanji": "代入",
+          "reading": "だいにゅう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "型",
+      "reading": "かた",
+      "vi": "Kiểu",
+      "en": "Type",
+      "my": "အမျိုးအစား"
+    },
+    {
+      "term": "整数型",
+      "vi": "Kiểu số nguyên",
+      "en": "Integer Type",
+      "my": "ကိန်းပြည်အမျိုးအစား"
+    },
+    {
+      "term": "実数型",
+      "vi": "Kiểu số thực",
+      "en": "Real Number Type",
+      "my": "ကိန်းတကယ် အမျိုးအစား"
+    },
+    {
+      "term": "文字列型",
+      "vi": "Kiểu chuỗi ký tự",
+      "en": "String Type",
+      "my": "စကားတန်း အမျိုးအစား"
+    },
+    {
+      "kanji": "代入",
+      "reading": "だいにゅう",
+      "vi": "Gán",
+      "en": "Assignment",
+      "my": "တန်ဇိုးသွင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "is_key_content": true
+  }
+}

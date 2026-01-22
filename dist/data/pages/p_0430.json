@@ -1,0 +1,354 @@
+{
+  "page_id": 430,
+  "image": "p_0430.png",
+  "chapter": 11,
+  "section": "11-06",
+  "page_number": 414,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "入出力インタフェースのメリット",
+      "vi": "Ưu điểm của giao diện nhập xuất",
+      "en": "Benefits of I/O Interface"
+    },
+    {
+      "type": "paragraph",
+      "ja": "入出力インタフェースを規格化することのメリットは計り知れません。入出力インタフェースがきちんと規格化されているからこそ、各メーカーは、その規格に則って製品を製造でき、また他社の製品とも正常に接続することが可能になります。",
+      "vi": "Lợi ích của việc chuẩn hóa giao diện nhập xuất là vô hạn. Chính vì giao diện nhập xuất được chuẩn hóa đúng đắn, mỗi nhà sản xuất có thể sản xuất sản phẩm theo tiêu chuẩn đó, và cũng có thể kết nối bình thường với sản phẩm của công ty khác.",
+      "en": "Benefits of standardizing I/O interface are immeasurable. Because I/O interface is properly standardized, each manufacturer can manufacture products according to that standard, and can also connect normally with other companies' products.",
+      "terms": [
+        {
+          "kanji": "入出力",
+          "reading": "にゅうしゅつりょく"
+        },
+        {
+          "kanji": "規格化",
+          "reading": "きかくか"
+        },
+        {
+          "kanji": "計",
+          "reading": "けい"
+        },
+        {
+          "kanji": "知",
+          "reading": "ち"
+        },
+        {
+          "kanji": "各",
+          "reading": "かく"
+        },
+        {
+          "kanji": "規格",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "則",
+          "reading": "のり"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "製造",
+          "reading": "せいぞう"
+        },
+        {
+          "kanji": "他社",
+          "reading": "たしゃ"
+        },
+        {
+          "kanji": "正常",
+          "reading": "せいじょう"
+        },
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "もし何の規格もなければ、各メーカーは独自に規格を考えなければならず、また、他社製品との連携もままならない状況に陥ってしまいます。この恩恵はユーザー側にもあります。入出力インタフェースがきちんと規格化されているからこそ、ユーザーはPCやその周辺機器を個別に、それぞれに最適なメーカーの製品で揃えることができます。",
+      "vi": "Nếu không có tiêu chuẩn nào, mỗi nhà sản xuất phải tự mình nghĩ ra tiêu chuẩn, và cũng rơi vào tình trạng không thể liên kết với sản phẩm của công ty khác. Lợi ích này cũng có ở phía người dùng. Chính vì giao diện nhập xuất được chuẩn hóa đúng đắn, người dùng có thể trang bị PC và thiết bị ngoại vi riêng lẻ bằng sản phẩm của nhà sản xuất tối ưu nhất.",
+      "en": "If no standards, each manufacturer would have to think up own standards, and unable to cooperate with other companies' products. This benefit also exists for users. Because I/O interface is properly standardized, users can equip PC and peripherals individually with optimal manufacturer's products.",
+      "terms": [
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "規格",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "各",
+          "reading": "かく"
+        },
+        {
+          "kanji": "独自",
+          "reading": "どくじ"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "他社製品",
+          "reading": "たしゃせいひん"
+        },
+        {
+          "kanji": "連携",
+          "reading": "れんけい"
+        },
+        {
+          "kanji": "状況",
+          "reading": "じょうきょう"
+        },
+        {
+          "kanji": "陥",
+          "reading": "かん"
+        },
+        {
+          "kanji": "恩恵",
+          "reading": "おんけい"
+        },
+        {
+          "kanji": "側",
+          "reading": "がわ"
+        },
+        {
+          "kanji": "入出力",
+          "reading": "にゅうしゅつりょく"
+        },
+        {
+          "kanji": "規格化",
+          "reading": "きかくか"
+        },
+        {
+          "kanji": "周辺機器",
+          "reading": "しゅうへんきき"
+        },
+        {
+          "kanji": "個別",
+          "reading": "こべつ"
+        },
+        {
+          "kanji": "最適",
+          "reading": "さいてき"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "揃",
+          "reading": "ゆ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "入出力インタフェースの分類",
+      "vi": "Phân loại giao diện nhập xuất",
+      "en": "I/O Interface Classification"
+    },
+    {
+      "type": "paragraph",
+      "ja": "入出力インタフェースには実に多くの種類がありますが、ITパスポート試験によく出題されるのは次の4つです（なかでもBluetoothが最頻出です）。入出力インタフェースは大きく「有線」と「無線」の2種類に分類され、それぞれに具体的な入出力インタフェースがあります。",
+      "vi": "Giao diện nhập xuất có rất nhiều loại, nhưng 4 loại thường được ra đề trong kỳ thi IT Passport (trong đó Bluetooth xuất hiện nhiều nhất). Giao diện nhập xuất được phân loại thành 2 loại lớn \"có dây\" và \"không dây\", mỗi loại có giao diện nhập xuất cụ thể.",
+      "en": "I/O interface has many types, but 4 often appear on IT Passport exam (Bluetooth most frequent). I/O interface is broadly classified into 'wired' and 'wireless' 2 types, each with specific I/O interfaces.",
+      "terms": [
+        {
+          "kanji": "入出力",
+          "reading": "にゅうしゅつりょく"
+        },
+        {
+          "kanji": "実",
+          "reading": "み"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "最頻出",
+          "reading": "さいひんしゅつ"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "有線",
+          "reading": "ゆうせん"
+        },
+        {
+          "kanji": "無線",
+          "reading": "むせん"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "具体的",
+          "reading": "ぐたいてき"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "入出力インタフェースの分類",
+        "vi": "Phân loại giao diện nhập xuất",
+        "en": "I/O Interface Classification"
+      },
+      "description": {
+        "ja": "入出力インタフェース → 有線（USB、HDMI）、無線（Bluetooth、RFID）。分類を覚えてみこう！",
+        "vi": "Giao diện nhập xuất → Có dây (USB, HDMI), Không dây (Bluetooth, RFID). Hãy nhớ phân loại!",
+        "en": "I/O Interface → Wired (USB, HDMI), Wireless (Bluetooth, RFID). Learn classification!"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "USB",
+      "vi": "USB",
+      "en": "USB"
+    },
+    {
+      "type": "paragraph",
+      "ja": "USB（Universal Serial Bus）とは、キーボードやマウスなどの周辺機器を接続できる、現在最も普及している入出力インタフェースです。",
+      "vi": "USB (Universal Serial Bus) là giao diện nhập xuất phổ biến nhất hiện nay, có thể kết nối các thiết bị ngoại vi như bàn phím và chuột.",
+      "en": "USB (Universal Serial Bus) is currently most popular I/O interface that can connect peripherals like keyboard and mouse.",
+      "terms": [
+        {
+          "kanji": "周辺機器",
+          "reading": "しゅうへんきき"
+        },
+        {
+          "kanji": "接続",
+          "reading": "せつぞく"
+        },
+        {
+          "kanji": "現在最",
+          "reading": "げんざいさい"
+        },
+        {
+          "kanji": "普及",
+          "reading": "ふきゅう"
+        },
+        {
+          "kanji": "入出力",
+          "reading": "にゅうしゅつりょく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "「Universal（万能）」という名前のとおり、他のインタフェースよりも多くの周辺機器に対応しています。",
+      "vi": "Đúng như tên gọi \"Universal (vạn năng)\", nó tương thích với nhiều thiết bị ngoại vi hơn các giao diện khác.",
+      "en": "As name 'Universal' suggests, supports more peripherals than other interfaces.",
+      "terms": [
+        {
+          "kanji": "万能",
+          "reading": "ばんのう"
+        },
+        {
+          "kanji": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "多",
+          "reading": "おお"
+        },
+        {
+          "kanji": "周辺機器",
+          "reading": "しゅうへんきき"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "USBには、バスパワー（Bus Power）という機能があります。バスパワーとは、",
+      "vi": "USB có tính năng gọi là Bus Power. Bus Power là,",
+      "en": "USB has feature called Bus Power. Bus Power is,",
+      "terms": [
+        {
+          "kanji": "機能",
+          "reading": "きのう"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "USB",
+      "full": "Universal Serial Bus",
+      "vi": "USB",
+      "en": "Universal Serial Bus",
+      "my": "ယူအက်စ်ဘီ"
+    },
+    {
+      "term": "HDMI",
+      "full": "High-Definition Multimedia Interface",
+      "vi": "HDMI",
+      "en": "High-Definition Multimedia Interface",
+      "my": "အေ့ချ်ဒီအမ်အိုင်"
+    },
+    {
+      "term": "Bluetooth",
+      "vi": "Bluetooth",
+      "en": "Bluetooth",
+      "my": "ဘလူးတူး"
+    },
+    {
+      "term": "RFID",
+      "full": "Radio Frequency Identification",
+      "vi": "RFID",
+      "en": "Radio Frequency Identification",
+      "my": "အာအက်ဖ်အိုင်ဒီ"
+    },
+    {
+      "term": "バスパワー",
+      "vi": "Bus Power",
+      "en": "Bus Power",
+      "my": "ဘတ်စ် ပေါဝါ"
+    }
+  ],
+  "meta": {
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

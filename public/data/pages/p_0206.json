@@ -1,0 +1,309 @@
+{
+  "page_id": 206,
+  "image": "p_0206.png",
+  "chapter": 5,
+  "section": "05-04",
+  "page_number": 190,
+  "content": [
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・オンプレミスとは、自社の敷地内に自社のサーバを置くことである\n・ハウジングサービスとは、他社の敷地内に自社のサーバを置くサービスである\n・ホスティングサービスとは、他社の敷地内にある、他社が所有しているサーバを利用するサービスである（契約しているサーバの所在が明確）\n・クラウドコンピューティングとは、他社の敷地内にある、他社が所有しているサーバを利用するサービスである（契約しているサーバの所在が不明確）",
+        "vi": "・On-Premise là đặt server của công ty mình trên đất của công ty mình\n・Housing Service là dịch vụ đặt server của công ty mình trên đất của công ty khác\n・Hosting Service là dịch vụ sử dụng server thuộc sở hữu công ty khác trên đất công ty khác (vị trí server đã ký hợp đồng rõ ràng)\n・Cloud Computing là dịch vụ sử dụng server thuộc sở hữu công ty khác trên đất công ty khác (vị trí server đã ký hợp đồng không rõ ràng)",
+        "en": "・On-Premise is placing your company's server on your company's premises\n・Housing Service is a service placing your company's server on another company's premises\n・Hosting Service is a service using servers owned by another company on their premises (contracted server location is clear)\n・Cloud Computing is a service using servers owned by another company on their premises (contracted server location is unclear)",
+        "my": "・ On-Premise သည် သင့်ကုမ္ပဏီ၏ server ကို သင့်ကုမ္ပဏီ၏ နေရာတွင် ထားရှိခြင်းဖြစ်သည်",
+        "terms": [
+          {
+            "kanji": "自社",
+            "reading": "じしゃ"
+          },
+          {
+            "kanji": "敷地内",
+            "reading": "しきちない"
+          },
+          {
+            "kanji": "置",
+            "reading": "ち"
+          },
+          {
+            "kanji": "他社",
+            "reading": "たしゃ"
+          },
+          {
+            "kanji": "所有",
+            "reading": "しょゆう"
+          },
+          {
+            "kanji": "利用",
+            "reading": "りよう"
+          },
+          {
+            "kanji": "契約",
+            "reading": "けいやく"
+          },
+          {
+            "kanji": "所在",
+            "reading": "しょざい"
+          },
+          {
+            "kanji": "明確",
+            "reading": "めいかく"
+          },
+          {
+            "kanji": "不明確",
+            "reading": "ふめいかく"
+          }
+        ]
+      }
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "クラウドコンピューティングの実態",
+        "vi": "Thực tế của Cloud Computing",
+        "en": "Reality of Cloud Computing",
+        "terms": [
+          {
+            "kanji": "クラウドコンピューティング",
+            "reading": "くらうどこんぴゅーてぃんぐ"
+          }
+        ]
+      },
+      "content": {
+        "ja": "クラウドコンピューティングの実態は「世界中に設置されているたくさんのサーバ群」です。クラウドコンピューティングでは、世界のどこかに置かれているサーバの中にあるソフトウェアとハードウェアを利用します。ただし、自社が実際どのサーバと契約しているのかを、私たちが知ることはできません。",
+        "vi": "Thực tế của Cloud Computing là 'nhiều nhóm server được đặt trên toàn thế giới'. Cloud Computing sử dụng software và hardware trong server đặt ở đâu đó trên thế giới. Tuy nhiên, chúng ta không thể biết thực tế đang ký hợp đồng với server nào.",
+        "en": "The reality of Cloud Computing is 'many server clusters installed worldwide'. Cloud Computing uses software and hardware in servers placed somewhere in the world. However, we cannot know which server we're actually contracting with.",
+        "terms": [
+          {
+            "kanji": "実態",
+            "reading": "じったい"
+          },
+          {
+            "kanji": "世界中",
+            "reading": "せかいじゅう"
+          },
+          {
+            "kanji": "設置",
+            "reading": "せっち"
+          },
+          {
+            "kanji": "群",
+            "reading": "ぐん"
+          },
+          {
+            "kanji": "世界",
+            "reading": "せかい"
+          },
+          {
+            "kanji": "置",
+            "reading": "ち"
+          },
+          {
+            "kanji": "中",
+            "reading": "なか"
+          },
+          {
+            "kanji": "利用",
+            "reading": "りよう"
+          },
+          {
+            "kanji": "自社",
+            "reading": "じしゃ"
+          },
+          {
+            "kanji": "実際",
+            "reading": "じっさい"
+          },
+          {
+            "kanji": "契約",
+            "reading": "けいやく"
+          },
+          {
+            "kanji": "私",
+            "reading": "わたし"
+          },
+          {
+            "kanji": "知",
+            "reading": "ち"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "クラウドコンピューティングの種類",
+      "vi": "Các loại Cloud Computing",
+      "en": "Types of Cloud Computing"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここからは「クラウドコンピューティング」のことをもう少し詳しく解説していきます。クラウドコンピューティングは近年急速に普及していることもあり、ITパスポート試験でもよく出題されます。\n\nクラウドコンピューティングは、提供するサービスの種類によって、いくつかの種類に分類できます。ITパスポート試験では「SaaS」がよく出題される傾向にありますが、その他の用語も重要なので、ぜひ覚えておいてください。",
+      "vi": "Từ đây sẽ giải thích chi tiết hơn về Cloud Computing. Vì Cloud Computing đang phổ biến nhanh chóng gần đây nên cũng thường được ra trong IT Passport.\n\nCloud Computing có thể phân loại theo loại dịch vụ cung cấp. Trong IT Passport, SaaS thường được ra đề nhưng các thuật ngữ khác cũng quan trọng nên hãy nhớ.",
+      "en": "From here we'll explain Cloud Computing in more detail. Since Cloud Computing has been spreading rapidly in recent years, it's frequently tested in IT Passport.\n\nCloud Computing can be classified by types of services provided. In IT Passport, 'SaaS' tends to be frequently tested, but other terms are also important, so please remember them.",
+      "my": "ယခုမှစ၍ Cloud Computing ကို ပိုမိုအသေးစိတ် ရှင်းပြမည်။",
+      "terms": [
+        {
+          "kanji": "少",
+          "reading": "すく"
+        },
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "近年急速",
+          "reading": "きんねんきゅうそく"
+        },
+        {
+          "kanji": "普及",
+          "reading": "ふきゅう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "分類",
+          "reading": "ぶんるい"
+        },
+        {
+          "kanji": "傾向",
+          "reading": "けいこう"
+        },
+        {
+          "kanji": "他",
+          "reading": "ほか"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "IaaS",
+      "reading": "いあーす",
+      "vi": "IaaS",
+      "en": "IaaS"
+    },
+    {
+      "type": "paragraph",
+      "ja": "IaaS（Infrastructure as a Service）とは、ハードウェアなどの基盤（インフラストラクチャ）をインターネット上で提供するサービスです。先述のホスティングサービス（p.188）と似ていますが、ホスティングサービスの場合は契約した製品（ハードウェアなど）を簡単に変更することはできません。\n\n一方、IaaSは、クラウドコンピューティングで提供されるので、ネットワーク構成やサーバの追加もインターネット経由で簡単に変更できます。",
+      "vi": "IaaS (Infrastructure as a Service) là dịch vụ cung cấp nền tảng (infrastructure) như hardware qua internet. Giống với Hosting Service (trang 188), nhưng với Hosting Service không thể dễ dàng thay đổi sản phẩm đã ký hợp đồng (hardware).\n\nMặt khác, IaaS được cung cấp qua Cloud Computing nên có thể dễ dàng thay đổi cấu hình mạng hoặc thêm server qua internet.",
+      "en": "IaaS (Infrastructure as a Service) is a service providing infrastructure like hardware over the internet. It's similar to Hosting Service (p.188), but with Hosting Service, you cannot easily change contracted products (hardware, etc.).\n\nMeanwhile, IaaS is provided through Cloud Computing, so network configuration and server additions can be easily changed via the internet.",
+      "my": "IaaS (Infrastructure as a Service) သည် hardware ကဲ့သို့ အခြေခံအဆောက်အအုံကို အင်တာနက်မှ ပေးဆောင်သော ဝန်ဆောင်မှုဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "基盤",
+          "reading": "きばん"
+        },
+        {
+          "kanji": "上",
+          "reading": "うえ"
+        },
+        {
+          "kanji": "提供",
+          "reading": "ていきょう"
+        },
+        {
+          "kanji": "先述",
+          "reading": "せんじゅつ"
+        },
+        {
+          "kanji": "似",
+          "reading": "じ"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "契約",
+          "reading": "けいやく"
+        },
+        {
+          "kanji": "製品",
+          "reading": "せいひん"
+        },
+        {
+          "kanji": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "kanji": "変更",
+          "reading": "へんこう"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "追加",
+          "reading": "ついか"
+        },
+        {
+          "kanji": "経由",
+          "reading": "けいゆ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "IaaS",
+      "reading": "いあーす",
+      "romaji": "Infrastructure as a Service",
+      "vi": "Hạ tầng như dịch vụ",
+      "en": "Infrastructure as a Service",
+      "my": "ဝန်ဆောင်မှုအဖြစ် အခြေခံအဆောက်အအုံ"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": false,
+    "has_exam_tip": true
+  }
+}

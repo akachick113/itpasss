@@ -1,0 +1,184 @@
+{
+  "page_id": 584,
+  "image": "p_0584.png",
+  "chapter": 15,
+  "section": "15-06",
+  "page_number": 568,
+  "content": [
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！PIN",
+        "vi": "Chi tiết hơn! PIN",
+        "en": "More Details! PIN"
+      },
+      "content": {
+        "ja": "ITパスポート試験では、「暗証番号」のことを「PIN」（Personal Identification Number）と表記することがあります。PINが暗証番号のことであると把握しておいてください。",
+        "vi": "Trong kỳ thi IT Passport, \"mã số bí mật\" đôi khi được viết là \"PIN\" (Personal Identification Number). Hãy nắm rõ PIN là mã số bí mật.",
+        "en": "In IT Passport exam, 'PIN number' is sometimes written as 'PIN' (Personal Identification Number). Please understand that PIN means PIN number."
+      }
+    },
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "2要素認証と2段階認証",
+        "vi": "Xác thực 2 yếu tố và Xác thực 2 bước",
+        "en": "2-Factor Authentication and 2-Step Authentication",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ITパスポート試験では「2要素認証と2段階認証の違い」もよく出題されます。紛らわしい用語なので、きちんと区別しておいてください。上記のとおり、2要素認証では「別々の要素から1つずつ、併せて2つの認証」を使って本人確認をします。一方、2段階認証では「2つの認証」を使って本人確認をします。つまり、2段階認証では同じ要素にある2つの認拠を使って認証しても構いません。例えば、パスワード（記憶）を入力した後に、合言葉（記憶）を入力するシステムは、2要素認証ではなく、2段階認証となります。",
+        "vi": "Trong kỳ thi IT Passport, \"sự khác biệt giữa xác thực 2 yếu tố và xác thực 2 bước\" cũng thường được ra đề. Đây là thuật ngữ dễ nhầm lẫn nên hãy phân biệt rõ. Như trên, xác thực 2 yếu tố sử dụng \"mỗi yếu tố một cái, tổng cộng 2 xác thực\" từ các yếu tố khác nhau để xác nhận bản thân. Mặt khác, xác thực 2 bước sử dụng \"2 xác thực\" để xác nhận bản thân. Tức là, xác thực 2 bước có thể sử dụng 2 bằng chứng từ cùng một yếu tố. Ví dụ, hệ thống nhập mật khẩu (trí nhớ) sau đó nhập mật khẩu bí mật (trí nhớ) là xác thực 2 bước, không phải xác thực 2 yếu tố.",
+        "en": "In IT Passport exam, 'difference between 2-Factor and 2-Step Authentication' also frequently appears. These are confusing terms so distinguish them properly. As above, 2-Factor Authentication uses 'one from each different element, total 2 authentications' for identity verification. On other hand, 2-Step Authentication uses '2 authentications' for identity verification. Meaning, 2-Step Authentication can use 2 proofs from same element. For example, system where you enter password (memory) then enter secret phrase (memory) is 2-Step Authentication, not 2-Factor Authentication."
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "バイオメトリクス認証とは、指紋や虹彩、筆跡、キーストロークといった、身体的特徴や行動的特徴による認証である",
+          "vi": "Xác thực sinh trắc học là xác thực bằng đặc điểm cơ thể hoặc đặc điểm hành vi như vân tay, mống mắt, chữ viết tay, nhịp gõ phím",
+          "en": "Biometric Authentication is authentication by physical or behavioral characteristics like fingerprint, iris, handwriting, keystroke"
+        },
+        {
+          "ja": "本人拒否率を低く設定すると、利便性が高まる",
+          "vi": "Nếu đặt tỷ lệ từ chối bản thân thấp, tính tiện lợi tăng",
+          "en": "Setting False Rejection Rate low increases convenience"
+        },
+        {
+          "ja": "他人受入率を低く設定すると、安全性が高まる",
+          "vi": "Nếu đặt tỷ lệ chấp nhận người khác thấp, tính an toàn tăng",
+          "en": "Setting False Acceptance Rate low increases safety"
+        },
+        {
+          "ja": "2要素認証とは、2つの要素を用いて本人確認をする認証方式である",
+          "vi": "Xác thực 2 yếu tố là phương thức xác thực sử dụng 2 yếu tố để xác nhận bản thân",
+          "en": "2-Factor Authentication is authentication method using 2 elements for identity verification"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "その他の物理的セキュリティ対策関連の重要用語",
+      "vi": "Thuật ngữ quan trọng khác liên quan đến biện pháp bảo mật vật lý",
+      "en": "Other Important Terms Related to Physical Security Measures"
+    },
+    {
+      "type": "table",
+      "headers": {
+        "ja": [
+          "用語",
+          "説明"
+        ],
+        "vi": [
+          "Thuật ngữ",
+          "Giải thích"
+        ],
+        "en": [
+          "Term",
+          "Explanation"
+        ]
+      },
+      "rows": [
+        {
+          "term": {
+            "ja": "入退室管理システム",
+            "vi": "Hệ thống quản lý ra vào",
+            "en": "Entry/Exit Management System"
+          },
+          "description": {
+            "ja": "組織や施設に入ったり出たりする者の情報を記録・管理するシステム。",
+            "vi": "Hệ thống ghi lại và quản lý thông tin của người ra vào tổ chức hoặc cơ sở.",
+            "en": "System recording and managing information of persons entering and exiting organization or facility."
+          }
+        },
+        {
+          "term": {
+            "ja": "クリアデスク",
+            "vi": "Clear Desk (Bàn sạch)",
+            "en": "Clear Desk"
+          },
+          "description": {
+            "ja": "席を離れるときに書類やパソコンを安全な場所に移動して保管すること。",
+            "vi": "Khi rời khỏi chỗ, di chuyển tài liệu và máy tính đến nơi an toàn để bảo quản.",
+            "en": "Moving documents and computers to safe place for storage when leaving seat."
+          }
+        },
+        {
+          "term": {
+            "ja": "クリアスクリーン",
+            "vi": "Clear Screen (Màn hình sạch)",
+            "en": "Clear Screen"
+          },
+          "description": {
+            "ja": "席を離れるときにパソコンのスクリーンにある情報をなくすこと。例えば、食事などで離席する際にログオフ処理を行うことなど。",
+            "vi": "Xóa thông tin trên màn hình máy tính khi rời khỏi chỗ. Ví dụ, thực hiện đăng xuất khi rời chỗ đi ăn.",
+            "en": "Removing information on computer screen when leaving seat. For example, logging off when leaving seat for meals."
+          }
+        },
+        {
+          "term": {
+            "ja": "アンチパスバック",
+            "vi": "Anti-Passback",
+            "en": "Anti-Passback"
+          },
+          "description": {
+            "ja": "入室記録を取ることで、共連れ（1人の認証で、2人以上が入退室すること）を防止する仕組み。",
+            "vi": "Cơ chế ngăn chặn đi theo (2 người trở lên ra vào với 1 lần xác thực) bằng cách ghi lại lịch sử vào phòng.",
+            "en": "Mechanism preventing tailgating (2+ people entering/exiting with 1 authentication) by recording entry history."
+          }
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "PIN",
+      "full": "Personal Identification Number",
+      "vi": "Mã số cá nhân",
+      "en": "Personal Identification Number",
+      "my": "ကိုယ်ရေးခွဲခြားနံပါတ်"
+    },
+    {
+      "term": "2段階認証",
+      "vi": "Xác thực 2 bước",
+      "en": "2-Step Authentication",
+      "my": "(ᄁ)အဆင့် အထောက်အထားပြုခြင်း"
+    },
+    {
+      "term": "クリアデスク",
+      "vi": "Clear Desk (Bàn sạch)",
+      "en": "Clear Desk",
+      "my": "သန့်ရှင်းစားပွဲ"
+    },
+    {
+      "term": "クリアスクリーン",
+      "vi": "Clear Screen (Màn hình sạch)",
+      "en": "Clear Screen",
+      "my": "သန့်ရှင်းစက်ကြင်း"
+    },
+    {
+      "term": "アンチパスバック",
+      "vi": "Anti-Passback",
+      "en": "Anti-Passback",
+      "my": "အတူပန်ပြန်ဝင်ကာကွယ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

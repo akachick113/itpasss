@@ -1,0 +1,92 @@
+{
+    "page_id": 409,
+    "image": "p_0409.png",
+    "chapter": 11,
+    "section": "intro",
+    "page_number": 393,
+    "content": [
+        {
+            "type": "chapter_header",
+            "number": 11,
+            "title": {
+                "ja": "ハードウェア",
+                "vi": "Phần cứng",
+                "en": "Hardware"
+            }
+        },
+        {
+            "type": "chapter_overview",
+            "title": {
+                "ja": "この章のポイント！",
+                "vi": "Điểm quan trọng của chương này!",
+                "en": "Key Points of This Chapter!"
+            },
+            "content": {
+                "ja": "本章では、システムを構成するコンピュータや、ディスプレイ、プリンターなどのハードウェアについて解説します。それぞれの種類や特徴を理解してください。",
+                "vi": "Chương này giải thích về máy tính cấu thành hệ thống và các phần cứng như màn hình, máy in. Hãy hiểu các loại và đặc điểm của từng cái.",
+                "en": "This chapter explains computers composing systems and hardware like displays, printers. Please understand types and characteristics of each."
+            }
+        },
+        {
+            "type": "study_points",
+            "title": {
+                "ja": "ここに注目して読もう！",
+                "vi": "Hãy chú ý đọc phần này!",
+                "en": "Focus on these points!"
+            },
+            "items": [
+                {
+                    "ja": "コンピュータの種類と特徴",
+                    "vi": "Các loại và đặc điểm của máy tính",
+                    "en": "Computer types and characteristics"
+                },
+                {
+                    "ja": "入出力装置の種類と特徴",
+                    "vi": "Các loại và đặc điểm của thiết bị I/O",
+                    "en": "I/O device types and characteristics"
+                }
+            ],
+            "reference_url": "https://www.ipa.go.jp/shiken/syllabus/nI10bl0000007sxy-att/syllabus_ip_ver6_4.pdf"
+        },
+        {
+            "type": "exam_scope",
+            "title": {
+                "ja": "試験範囲全体における本章の位置づけ",
+                "vi": "Vị trí của chương này trong phạm vi thi",
+                "en": "Position of This Chapter in Exam Scope"
+            },
+            "categories": [
+                {
+                    "field": "ストラテジ系",
+                    "areas": [
+                        "企業と法務",
+                        "経営戦略",
+                        "システム戦略"
+                    ]
+                },
+                {
+                    "field": "マネジメント系",
+                    "areas": [
+                        "開発技術",
+                        "プロジェクトマネジメント",
+                        "サービスマネジメント"
+                    ]
+                },
+                {
+                    "field": "テクノロジ系",
+                    "areas": [
+                        "基礎理論",
+                        "コンピュータシステム",
+                        "技術要素"
+                    ],
+                    "highlight": "コンピュータシステム",
+                    "sub_highlight": "本章はココ！"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [],
+    "meta": {
+        "is_chapter_intro": true
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "page_id": 209,
+    "image": "p_0209.png",
+    "chapter": 5,
+    "section": "practice",
+    "page_number": 193,
+    "content": [
+        {
+            "type": "section_header",
+            "ja": "出る順！過去問＆完全解説",
+            "vi": "Theo thứ tự ra đề! Đề thi cũ & Giải thích đầy đủ",
+            "en": "In Order of Frequency! Past Questions & Complete Explanations"
+        },
+        {
+            "type": "exam_question",
+            "number": "5-1",
+            "year": "平成21年度",
+            "question": {
+                "ja": "企業の情報戦略を策定する場合、最も考慮すべき事項はどれか。",
+                "vi": "Khi xây dựng chiến lược thông tin doanh nghiệp, điều cần xem xét nhất là gì?",
+                "en": "When formulating corporate information strategy, what is the most important consideration?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "IT技術の進化",
+                    "vi": "Sự tiến hóa của công nghệ IT",
+                    "en": "Evolution of IT technology"
+                },
+                {
+                    "label": "イ",
+                    "ja": "経営戦略との整合性",
+                    "vi": "Sự nhất quán với chiến lược kinh doanh",
+                    "en": "Alignment with business strategy",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "現行システムとの整合性",
+                    "vi": "Sự nhất quán với hệ thống hiện tại",
+                    "en": "Alignment with current system"
+                },
+                {
+                    "label": "エ",
+                    "ja": "ライバル企業の情報戦略",
+                    "vi": "Chiến lược thông tin của đối thủ cạnh tranh",
+                    "en": "Rival companies' information strategy"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-2",
+            "year": "令和6年度",
+            "question": {
+                "ja": "エンタープライズサーチの説明として、最も適切なものはどれか。",
+                "vi": "Giải thích phù hợp nhất về Enterprise Search là gì?",
+                "en": "Which is the most appropriate explanation of Enterprise Search?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "企業内の様々なシステムに蓄積されている定型又は非定型なデータを、一元的に検索するための仕組み",
+                    "vi": "Cơ chế tìm kiếm tập trung dữ liệu định hình hoặc phi định hình được lưu trữ trong các hệ thống khác nhau trong doanh nghiệp",
+                    "en": "Mechanism for centrally searching structured or unstructured data stored in various company systems",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "自然言語処理を実現するための基礎データとなる、電子化された大量の例文データベース",
+                    "vi": "Cơ sở dữ liệu ví dụ điện tử lớn làm dữ liệu cơ sở để thực hiện xử lý ngôn ngữ tự nhiên",
+                    "en": "Large database of electronic example sentences as foundational data for natural language processing"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "写真や書類などを光学的に読み取り、デジタルデータ化するための画像入力装置",
+                    "vi": "Thiết bị nhập hình ảnh để đọc quang học và số hóa ảnh hoặc tài liệu",
+                    "en": "Image input device for optically reading and digitizing photos and documents"
+                },
+                {
+                    "label": "エ",
+                    "ja": "情報システムや業務プロセスの現状を把握し、あるべき企業の姿とのギャップを埋めるための目標を設定し、全体最適化を図ること",
+                    "vi": "Nắm bắt hiện trạng hệ thống thông tin và quy trình nghiệp vụ, đặt mục tiêu lấp khoảng cách với hình ảnh lý tưởng của doanh nghiệp, hướng tới tối ưu hóa tổng thể",
+                    "en": "Grasping current state of information systems and business processes, setting goals to fill gaps with ideal corporate state, aiming for total optimization"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-3",
+            "year": "平成24年度",
+            "question": {
+                "ja": "プロセス間で受け渡されるデータの流れの視点から、業務やシステムを分析するために用いるモデリング手法はどれか。",
+                "vi": "Phương pháp modeling sử dụng để phân tích nghiệp vụ hoặc hệ thống từ góc nhìn luồng dữ liệu được truyền giữa các process là gì?",
+                "en": "Which modeling method is used to analyze business or systems from the perspective of data flow passed between processes?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "BPR",
+                    "vi": "BPR",
+                    "en": "BPR"
+                },
+                {
+                    "label": "イ",
+                    "ja": "DFD",
+                    "vi": "DFD",
+                    "en": "DFD",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "MRP",
+                    "vi": "MRP",
+                    "en": "MRP"
+                },
+                {
+                    "label": "エ",
+                    "ja": "WBS",
+                    "vi": "WBS",
+                    "en": "WBS"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "5-4",
+            "year": "令和3年度",
+            "question": {
+                "ja": "BPRに関する記述として、適切なものはどれか。",
+                "vi": "Mô tả phù hợp về BPR là gì?",
+                "en": "Which is an appropriate description of BPR?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "業務の手順を改めて見直し、抜本的に再設計する考え方",
+                    "vi": "Cách suy nghĩ xem xét lại và tái thiết kế triệt để thủ tục nghiệp vụ",
+                    "en": "Approach of reviewing work procedures and radically redesigning",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "サービスの事業者が利用者に対して、サービスの品質を具体的な数値として保証する契約",
+                    "vi": "Hợp đồng nhà cung cấp dịch vụ cam kết chất lượng dịch vụ bằng số liệu cụ thể với người dùng",
+                    "en": "Contract where service provider guarantees service quality with specific numerical values to users"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "参加している人が自由に書き込みができるコンピュータシステム上の掲示板",
+                    "vi": "Bảng tin trên hệ thống máy tính mà người tham gia có thể viết tự do",
+                    "en": "Bulletin board on computer system where participants can freely write"
+                },
+                {
+                    "label": "エ",
+                    "ja": "情報システムを導入する際に、ユーザがベンダーに提供する導入システムの概要や開設条件を記述した文書",
+                    "vi": "Tài liệu mô tả khái quát hệ thống và điều kiện mở khi người dùng cung cấp cho vendor khi đưa hệ thống thông tin vào",
+                    "en": "Document describing system overview and conditions provided by user to vendor when introducing information system"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 4
+    }
+}

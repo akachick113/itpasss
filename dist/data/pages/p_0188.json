@@ -1,0 +1,161 @@
+{
+    "page_id": 188,
+    "image": "p_0188.png",
+    "chapter": 4,
+    "section": "practice",
+    "page_number": 172,
+    "content": [
+        {
+            "type": "exam_question",
+            "number": "4-26",
+            "year": "令和2年度",
+            "question": {
+                "ja": "電力会社において、人による検針の代わりに、インターネットに接続された電力メータと通信することで、各家庭の電力使用量を遠隔計測するということが行われている。この事例のように、様々な機器をインターネットに接続して情報を活用する仕組みを表す用語はどれか。",
+                "vi": "Tại công ty điện lực, thay vì đọc công tơ bằng người, việc đo từ xa lượng điện sử dụng của mỗi hộ gia đình được thực hiện bằng cách giao tiếp với đồng hồ điện kết nối internet. Thuật ngữ biểu thị cơ chế kết nối các thiết bị khác nhau với internet để tận dụng thông tin như ví dụ này là gì?",
+                "en": "At power companies, instead of manual meter reading, remote measurement of each household's power usage is done by communicating with internet-connected power meters. What term represents the mechanism of connecting various devices to the internet to utilize information like this example?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "EDI",
+                    "vi": "EDI",
+                    "en": "EDI"
+                },
+                {
+                    "label": "イ",
+                    "ja": "IoT",
+                    "vi": "IoT",
+                    "en": "IoT",
+                    "correct": true
+                },
+                {
+                    "label": "ウ",
+                    "ja": "ISP",
+                    "vi": "ISP",
+                    "en": "ISP"
+                },
+                {
+                    "label": "エ",
+                    "ja": "RFID",
+                    "vi": "RFID",
+                    "en": "RFID"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-27",
+            "year": "令和6年度",
+            "question": {
+                "ja": "IoTデバイスとIoTサーバで構築され、IoTデバイスが計測した外気温をIoTサーバへ送り、IoTサーバからの指示でIoTデバイスに搭載されたモータが窓を開閉するシステムがある。このシステムにおけるアクチュエータの役割として、適切なものはどれか。",
+                "vi": "Có hệ thống được xây dựng với IoT Device và IoT Server, IoT Device gửi nhiệt độ ngoài trời đo được đến IoT Server, và motor được gắn trên IoT Device đóng/mở cửa sổ theo chỉ thị từ IoT Server. Vai trò phù hợp của Actuator trong hệ thống này là gì?",
+                "en": "There's a system built with IoT Device and IoT Server, where IoT Device sends measured outside temperature to IoT Server, and motor installed on IoT Device opens/closes windows based on IoT Server instructions. What is the appropriate role of actuator in this system?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "IoTデバイスから送られてくる外気温のデータを受信する。",
+                    "vi": "Nhận dữ liệu nhiệt độ ngoài trời được gửi từ IoT Device.",
+                    "en": "Receive outside temperature data sent from IoT Device."
+                },
+                {
+                    "label": "イ",
+                    "ja": "IoTデバイスに対して窓の開閉指示を送信する。",
+                    "vi": "Gửi chỉ thị đóng/mở cửa sổ đến IoT Device.",
+                    "en": "Send window open/close instructions to IoT Device."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "外気温を電気信号に変換する。",
+                    "vi": "Chuyển đổi nhiệt độ ngoài trời thành tín hiệu điện.",
+                    "en": "Convert outside temperature to electrical signal."
+                },
+                {
+                    "label": "エ",
+                    "ja": "窓を開閉する。",
+                    "vi": "Đóng/mở cửa sổ.",
+                    "en": "Open/close window.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-28",
+            "year": "令和3年度",
+            "question": {
+                "ja": "インターネットに接続できる機能が搭載されており、車載センサーで計測した情報をサーバへ送信し、そのサーバから運転に関する情報のフィードバックを受けて運転の支援などに活用することができる自動車を表す用語として、最も適切なものはどれか。",
+                "vi": "Thuật ngữ phù hợp nhất biểu thị ô tô có chức năng kết nối internet, gửi thông tin đo lường từ sensor trên xe đến server, và nhận phản hồi thông tin lái xe từ server để hỗ trợ lái xe là gì?",
+                "en": "What is the most appropriate term for a car equipped with internet connectivity, sending sensor-measured information to servers, receiving driving information feedback from servers to assist driving?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "カーシェアリング",
+                    "vi": "Car Sharing",
+                    "en": "Car Sharing"
+                },
+                {
+                    "label": "イ",
+                    "ja": "カーナビゲーションシステム",
+                    "vi": "Car Navigation System",
+                    "en": "Car Navigation System"
+                },
+                {
+                    "label": "ウ",
+                    "ja": "コネクテッドカー",
+                    "vi": "Connected Car",
+                    "en": "Connected Car",
+                    "correct": true
+                },
+                {
+                    "label": "エ",
+                    "ja": "電気自動車",
+                    "vi": "Electric Car",
+                    "en": "Electric Car"
+                }
+            ]
+        },
+        {
+            "type": "exam_question",
+            "number": "4-29",
+            "year": "令和3年度",
+            "question": {
+                "ja": "仮想現実を用いた技術であるAR又はVRの活用事例のうち、VRの活用事例として、最も適切なものはどれか。",
+                "vi": "Trong các ví dụ sử dụng công nghệ thực tế ảo AR hoặc VR, ví dụ sử dụng VR phù hợp nhất là gì?",
+                "en": "Among examples using virtual reality technology AR or VR, which is the most appropriate VR usage example?"
+            },
+            "choices": [
+                {
+                    "label": "ア",
+                    "ja": "顔を覆うように頭部にゴーグルを装着し、そのゴーグル内に投影された仮想空間に広がる火災や地震の映像を見ながら避難方法をイメージすることによって、防災訓練が行える。",
+                    "vi": "Đeo kính che mặt lên đầu, xem hình ảnh hỏa hoạn và động đất trải rộng trong không gian ảo chiếu trong kính để tưởng tượng phương pháp sơ tán, thực hiện huấn luyện phòng chống thiên tai.",
+                    "en": "Wearing head-covering goggles, viewing fire and earthquake images in virtual space projected inside goggles to imagine evacuation methods, enabling disaster training.",
+                    "correct": true
+                },
+                {
+                    "label": "イ",
+                    "ja": "家具をオンラインで購入するときに、スマートフォンのカメラを通して画面に映っている現実の自分の部屋に、購入したい家具をリアルタイムに重ねて試し置きできる。",
+                    "vi": "Khi mua đồ nội thất trực tuyến, có thể đặt thử đồ nội thất muốn mua chồng realtime lên căn phòng thực của mình hiển thị qua camera smartphone.",
+                    "en": "When buying furniture online, can place desired furniture in real-time overlay on your actual room shown through smartphone camera."
+                },
+                {
+                    "label": "ウ",
+                    "ja": "史跡などにスマートフォンを向けることによって、昔あった建物の画像や説明情報が現実の風景と重なって画面に表示される。",
+                    "vi": "Bằng cách hướng smartphone vào di tích lịch sử, hình ảnh và thông tin giải thích về công trình xưa được hiển thị chồng lên phong cảnh thực trên màn hình.",
+                    "en": "By pointing smartphone at historic sites, images and explanatory information about old buildings are displayed overlaid on real scenery."
+                },
+                {
+                    "label": "エ",
+                    "ja": "図鑑にスマートフォンをかざすことによって、図鑑の絵や写真に重なって生き物の動画が見られる。",
+                    "vi": "Bằng cách đưa smartphone vào sách bách khoa, có thể xem video sinh vật chồng lên hình vẽ và ảnh trong sách.",
+                    "en": "By holding smartphone over encyclopedia, can view creature videos overlaid on book illustrations and photos."
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "has_questions": true,
+        "question_count": 4
+    }
+}

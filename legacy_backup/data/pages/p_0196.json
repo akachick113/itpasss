@@ -1,0 +1,395 @@
+{
+  "page_id": 196,
+  "image": "p_0196.png",
+  "chapter": 5,
+  "section": "05-02",
+  "page_number": 180,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "ロセス＝仕事の手順」と読み換えられるようになっておいてください。また、業務プロセスは稀に「ビジネスプロセス」と表記されることがありますが意味は同じです。",
+      "vi": "Hãy nhớ Process = Thủ tục công việc. Ngoài ra, Business Process đôi khi được ghi là ビジネスプロセス nhưng ý nghĩa giống nhau.",
+      "en": "Remember that 'process = work procedures'. Also, business process is sometimes written as 'ビジネスプロセス' but the meaning is the same.",
+      "my": "'process = အလုပ်လုပ်ထုံးလုပ်နည်းများ' ကို မှတ်သားပါ။",
+      "terms": [
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "手順",
+          "reading": "てじゅん"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "換",
+          "reading": "かん"
+        },
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "稀",
+          "reading": "まれ"
+        },
+        {
+          "kanji": "表記",
+          "reading": "ひょうき"
+        },
+        {
+          "kanji": "意味",
+          "reading": "いみ"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "事業と業務",
+        "vi": "Sự nghiệp và Nghiệp vụ",
+        "en": "Business and Work",
+        "terms": [
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "事業",
+            "reading": "じぎょう"
+          }
+        ]
+      },
+      "content": {
+        "ja": "ITパスポート試験では「ビジネス（Business）」という用語に2つの和訳があります。1つは「事業」、もう1つは「業務」です。事業のほうが業務よりも大きい枠組みです。\n\nITパスポート試験で「ビジネス戦略」といった場合、それは「事業戦略」を指します。一方、「ビジネスプロセス」といった場合は「業務プロセス」を指します。同じ英単語であっても指し示す対象が異なることがあるので注意してください。",
+        "vi": "Trong IT Passport, thuật ngữ Business có 2 cách dịch. Một là sự nghiệp (jigyo), một là nghiệp vụ (gyomu). Sự nghiệp là phạm vi lớn hơn nghiệp vụ.\n\nTrong IT Passport, Business Strategy nghĩa là chiến lược kinh doanh (jigyo senryaku). Còn Business Process nghĩa là quy trình nghiệp vụ (gyomu process). Cùng một từ tiếng Anh nhưng có thể chỉ đối tượng khác nhau nên hãy chú ý.",
+        "en": "In IT Passport, the term 'Business' has 2 Japanese translations. One is 'jigyo' (enterprise), another is 'gyomu' (work). Enterprise is a larger framework than work.\n\nIn IT Passport, 'Business Strategy' means 'jigyo senryaku' (enterprise strategy). Meanwhile, 'Business Process' means 'gyomu process' (work process). Note that the same English word can refer to different things.",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          },
+          {
+            "kanji": "和訳",
+            "reading": "わやく"
+          },
+          {
+            "kanji": "事業",
+            "reading": "じぎょう"
+          },
+          {
+            "kanji": "業務",
+            "reading": "ぎょうむ"
+          },
+          {
+            "kanji": "大",
+            "reading": "だい"
+          },
+          {
+            "kanji": "枠組",
+            "reading": "わくぐみ"
+          },
+          {
+            "kanji": "戦略",
+            "reading": "せんりゃく"
+          },
+          {
+            "kanji": "場合",
+            "reading": "ばあい"
+          },
+          {
+            "kanji": "事業戦略",
+            "reading": "じぎょうせんりゃく"
+          },
+          {
+            "kanji": "指",
+            "reading": "ゆび"
+          },
+          {
+            "kanji": "一方",
+            "reading": "いっぽう"
+          },
+          {
+            "kanji": "同",
+            "reading": "どう"
+          },
+          {
+            "kanji": "英単語",
+            "reading": "えいたんご"
+          },
+          {
+            "kanji": "示",
+            "reading": "じ"
+          },
+          {
+            "kanji": "対象",
+            "reading": "たいしょう"
+          },
+          {
+            "kanji": "異",
+            "reading": "い"
+          },
+          {
+            "kanji": "注意",
+            "reading": "ちゅうい"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "モデリングとは",
+      "vi": "Modeling là gì",
+      "en": "What is Modeling"
+    },
+    {
+      "type": "paragraph",
+      "ja": "業務プロセスを改善するためには、先に業務プロセスを分析する必要があります。なぜなら、現状を把握しておかないと、どこを改善すべきか判断できないからです。そこでここからは、ITパスポート試験に出題される業務プロセスを分析する手法を解説していきます。最初は「モデリング」です。\n\nモデリングとは、現実世界にある複雑なモノを単純化してわかりやすくすることです。単純化したものを「モデル」といいます。例えば、地球儀は地球の表面だけを単純化したものなので、「地球儀は地球をモデリングしたもの（＝モデル）」といえます。",
+      "vi": "Để cải thiện quy trình nghiệp vụ, trước tiên cần phân tích quy trình nghiệp vụ. Vì nếu không nắm bắt hiện trạng thì không thể phán đoán cần cải thiện chỗ nào. Từ đây sẽ giải thích phương pháp phân tích quy trình nghiệp vụ được ra trong IT Passport. Đầu tiên là Modeling.\n\nModeling là đơn giản hóa những thứ phức tạp trong thế giới thực để dễ hiểu. Thứ được đơn giản hóa gọi là Model. Ví dụ, quả địa cầu là đơn giản hóa chỉ bề mặt trái đất, nên quả địa cầu là mô hình hóa trái đất (= Model).",
+      "en": "To improve business processes, you first need to analyze them. Because without grasping current state, you can't judge what to improve. From here, we'll explain methods for analyzing business processes that appear in IT Passport. First is 'Modeling'.\n\nModeling is simplifying complex things in the real world to make them understandable. The simplified result is called a 'Model'. For example, a globe simplifies just Earth's surface, so 'a globe is Earth modeled (= a Model)'.",
+      "my": "စီးပွားရေးလုပ်ငန်းစဉ်များကို တိုးတက်အောင်ပြုလုပ်ရန် ၎င်းတို့ကို ဦးစွာ ခွဲခြမ်းစိတ်ဖြာရန် လိုအပ်သည်။",
+      "terms": [
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "先",
+          "reading": "さき"
+        },
+        {
+          "kanji": "分析",
+          "reading": "ぶんせき"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "現状",
+          "reading": "げんじょう"
+        },
+        {
+          "kanji": "把握",
+          "reading": "はあく"
+        },
+        {
+          "kanji": "判断",
+          "reading": "はんだん"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "手法",
+          "reading": "しゅほう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "現実世界",
+          "reading": "げんじつせかい"
+        },
+        {
+          "kanji": "複雑",
+          "reading": "ふくざつ"
+        },
+        {
+          "kanji": "単純化",
+          "reading": "たんじゅんか"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "地球儀",
+          "reading": "ちきゅうぎ"
+        },
+        {
+          "kanji": "地球",
+          "reading": "ちきゅう"
+        },
+        {
+          "kanji": "表面",
+          "reading": "ひょうめん"
+        }
+      ]
+    },
+    {
+      "type": "learn_more",
+      "title": {
+        "ja": "モデリングは重要な用語の1つ",
+        "vi": "Modeling là một trong những thuật ngữ quan trọng",
+        "en": "Modeling is One of Important Terms",
+        "terms": [
+          {
+            "kanji": "モデリング",
+            "reading": "もでりんぐ"
+          },
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          }
+        ]
+      },
+      "content": {
+        "ja": "「モデリング」と「モデル」の2つの用語はITパスポート試験全体を通してさまざまな箇所に登場するとても重要な用語です。ストラテジ系分野だけでなく、マネジメント系分野やテクノロジ系分野の設問に登場することもあります。ですから、用語の意味はよく覚えておいてください。",
+        "vi": "Hai thuật ngữ Modeling và Model là thuật ngữ rất quan trọng xuất hiện ở nhiều nơi trong toàn bộ IT Passport. Không chỉ lĩnh vực Chiến lược mà còn xuất hiện trong câu hỏi lĩnh vực Quản lý và Công nghệ. Vì vậy hãy nhớ kỹ ý nghĩa thuật ngữ.",
+        "en": "'Modeling' and 'Model' are very important terms appearing throughout IT Passport in various places. They appear not only in Strategy but also in Management and Technology questions. So remember the term meanings well.",
+        "terms": [
+          {
+            "kanji": "用語",
+            "reading": "ようご"
+          },
+          {
+            "kanji": "試験全体",
+            "reading": "しけんぜんたい"
+          },
+          {
+            "kanji": "通",
+            "reading": "とおり"
+          },
+          {
+            "kanji": "箇所",
+            "reading": "かしょ"
+          },
+          {
+            "kanji": "登場",
+            "reading": "とうじょう"
+          },
+          {
+            "kanji": "重要",
+            "reading": "じゅうよう"
+          },
+          {
+            "kanji": "系分野",
+            "reading": "けいぶんや"
+          },
+          {
+            "kanji": "設問",
+            "reading": "せつもん"
+          },
+          {
+            "kanji": "意味",
+            "reading": "いみ"
+          },
+          {
+            "kanji": "覚",
+            "reading": "かく"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "業務モデルとDFD",
+      "vi": "Business Model và DFD",
+      "en": "Business Model and DFD"
+    },
+    {
+      "type": "paragraph",
+      "ja": "業務モデルとは、業務プロセスをモデリング（単純化）して表した図や表のことです。業務モデルは、システム化を行う業務の仕組みや手順をわかりやすく表現す",
+      "vi": "Business Model là sơ đồ hoặc bảng biểu diễn quy trình nghiệp vụ đã được modeling (đơn giản hóa). Business Model biểu diễn dễ hiểu cơ chế hoặc thủ tục của nghiệp vụ được hệ thống hóa.",
+      "en": "Business Model is a diagram or table representing business processes through modeling (simplification). Business Models express the mechanisms and procedures of work to be systematized in an easy-to-understand way.",
+      "my": "Business Model သည် modeling (ရိုးရှင်းအောင်ပြုလုပ်ခြင်း) မှတဆင့် စီးပွားရေးလုပ်ငန်းစဉ်များကို ကိုယ်စားပြုသော ပုံကြမ်း သို့မဟုတ် ဇယားဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "業務",
+          "reading": "ぎょうむ"
+        },
+        {
+          "kanji": "単純化",
+          "reading": "たんじゅんか"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        },
+        {
+          "kanji": "化",
+          "reading": "か"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "仕組",
+          "reading": "しくみ"
+        },
+        {
+          "kanji": "手順",
+          "reading": "てじゅん"
+        },
+        {
+          "kanji": "表現",
+          "reading": "ひょうげん"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "モデリング",
+      "reading": "もでりんぐ",
+      "romaji": "Modeling",
+      "vi": "Mô hình hóa",
+      "en": "Modeling",
+      "my": "မော်ဒယ်လ်ပြုလုပ်ခြင်း"
+    },
+    {
+      "kanji": "モデル",
+      "reading": "もでる",
+      "romaji": "Model",
+      "vi": "Mô hình",
+      "en": "Model",
+      "my": "မော်ဒယ်လ်"
+    },
+    {
+      "kanji": "業務モデル",
+      "reading": "ぎょうむもでる",
+      "romaji": "Gyoumu Model",
+      "vi": "Mô hình nghiệp vụ",
+      "en": "Business Model",
+      "my": "စီးပွားရေး မော်ဒယ်လ်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_learn_more": true
+  }
+}

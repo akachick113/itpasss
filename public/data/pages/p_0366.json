@@ -1,0 +1,351 @@
+{
+  "page_id": 366,
+  "image": "p_0366.png",
+  "chapter": 9,
+  "section": "09-07",
+  "page_number": 350,
+  "content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "初期化と上書き",
+      "reading": "しょきかとうわがき",
+      "vi": "Khởi tạo và Ghi đè",
+      "en": "Initialization and Overwriting"
+    },
+    {
+      "type": "paragraph",
+      "ja": "値の代入は、以下のように変数の宣言と同時に行うこともできます。ITパスポート試験では、この書き方がよく登場します。",
+      "vi": "Việc gán giá trị cũng có thể thực hiện đồng thời với khai báo biến như sau. Trong kỳ thi IT Passport, cách viết này thường xuất hiện.",
+      "en": "Value assignment can also be done simultaneously with variable declaration as follows. In IT Passport exam, this writing often appears.",
+      "terms": [
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "代入",
+          "reading": "だいにゅう"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "宣言",
+          "reading": "せんげん"
+        },
+        {
+          "kanji": "同時",
+          "reading": "どうじ"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "方",
+          "reading": "かた"
+        },
+        {
+          "kanji": "登場",
+          "reading": "とうじょう"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】変数numを宣言し、「3」を代入する",
+        "vi": "【Ví dụ chương trình】Khai báo biến num và gán \"3\"",
+        "en": "[Program Example] Declare variable num and assign '3'"
+      },
+      "code": "整数型: num ← 3"
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、上記のように、値がまだ何も入っていない変数に初期値を代入することを「初期化」といいます。",
+      "vi": "Tham khảo, như trên, việc gán giá trị ban đầu vào biến chưa có giá trị nào gọi là \"khởi tạo\".",
+      "en": "Note that assigning initial value to variable with no value yet is called 'initialization' as above.",
+      "terms": [
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "何",
+          "reading": "なに"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "初期値",
+          "reading": "しょきち"
+        },
+        {
+          "kanji": "代入",
+          "reading": "だいにゅう"
+        },
+        {
+          "kanji": "初期化",
+          "reading": "しょきか"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "一方、以下のように、すでに値が入っている変数に別の値を代入することを「上書き」といいます。",
+      "vi": "Mặt khác, việc gán giá trị khác vào biến đã có giá trị như sau gọi là \"ghi đè\".",
+      "en": "On other hand, assigning different value to variable already having value is called 'overwriting' as follows.",
+      "terms": [
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "以下",
+          "reading": "いか"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "別",
+          "reading": "べつ"
+        },
+        {
+          "kanji": "代入",
+          "reading": "だいにゅう"
+        },
+        {
+          "kanji": "上書",
+          "reading": "じょうしょ"
+        }
+      ]
+    },
+    {
+      "type": "code_example",
+      "title": {
+        "ja": "【プログラム例】変数numの値を「2」で上書きする",
+        "vi": "【Ví dụ chương trình】Ghi đè giá trị biến num bằng \"2\"",
+        "en": "[Program Example] Overwrite variable num value with '2'"
+      },
+      "code": "num ← 2"
+    },
+    {
+      "type": "paragraph",
+      "ja": "変数を上書きすると、元々中に入っていた値は消えてなくなります。",
+      "vi": "Khi ghi đè biến, giá trị ban đầu trong đó sẽ biến mất.",
+      "en": "When overwriting variable, original value inside disappears.",
+      "terms": [
+        {
+          "kanji": "変数",
+          "reading": "へんすう"
+        },
+        {
+          "kanji": "上書",
+          "reading": "じょうしょ"
+        },
+        {
+          "kanji": "元",
+          "reading": "もと"
+        },
+        {
+          "kanji": "中",
+          "reading": "なか"
+        },
+        {
+          "kanji": "入",
+          "reading": "はい"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "消",
+          "reading": "しょう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ITパスポート試験のプログラミングの問題では、必ず「変数」が登場する",
+          "vi": "Trong kỳ thi IT Passport, câu hỏi lập trình chắc chắn có \"biến\" xuất hiện",
+          "en": "In IT Passport exam, programming questions always feature 'variables'"
+        },
+        {
+          "ja": "変数に関して以下の3つが重要",
+          "vi": "3 điều quan trọng về biến",
+          "en": "3 important things about variables"
+        },
+        {
+          "ja": "・変数の宣言では、文頭に型名を書く。（例）整数型: num",
+          "vi": "・Khi khai báo biến, viết tên kiểu đầu câu. (ví dụ) Kiểu số nguyên: num",
+          "en": "・In variable declaration, write type name at start. (ex) Integer: num"
+        },
+        {
+          "ja": "・変数の代入には「←」を使う。（例）num ← 3",
+          "vi": "・Dùng \"←\" để gán biến. (ví dụ) num ← 3",
+          "en": "・Use '←' for variable assignment. (ex) num ← 3"
+        },
+        {
+          "ja": "・変数の宣言と初期化は同時に行える。（例）整数型: num ← 3",
+          "vi": "・Khai báo và khởi tạo biến có thể thực hiện đồng thời. (ví dụ) Kiểu số nguyên: num ← 3",
+          "en": "・Variable declaration and initialization can be done simultaneously. (ex) Integer: num ← 3"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "配列",
+      "reading": "はいれつ",
+      "vi": "Mảng",
+      "en": "Array"
+    },
+    {
+      "type": "paragraph",
+      "ja": "配列とは、複数の値を1つにまとめたデータ構造です。配列では、1つひとつの値を「要素」といい、要素の位置を表す数字を「要素番号」といいます。",
+      "vi": "Mảng là cấu trúc dữ liệu gộp nhiều giá trị thành một. Trong mảng, mỗi giá trị gọi là \"phần tử\" và số biểu thị vị trí phần tử gọi là \"số thứ tự phần tử\".",
+      "en": "Array is data structure combining multiple values into one. In array, each value is called 'element' and number representing element position is called 'element index.'",
+      "terms": [
+        {
+          "kanji": "配列",
+          "reading": "はいれつ"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "値",
+          "reading": "あたい"
+        },
+        {
+          "kanji": "構造",
+          "reading": "こうぞう"
+        },
+        {
+          "kanji": "要素",
+          "reading": "ようそ"
+        },
+        {
+          "kanji": "位置",
+          "reading": "いち"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "数字",
+          "reading": "すうじ"
+        },
+        {
+          "kanji": "要素番号",
+          "reading": "ようそばんごう"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "配列",
+        "vi": "Mảng",
+        "en": "Array"
+      },
+      "description": {
+        "ja": "配列aに佐藤、田中、鈴木、高橋という4つの要素が格納されている図。要素番号は1, 2, 3, 4",
+        "vi": "Hình mảng a có 4 phần tử: Sato, Tanaka, Suzuki, Takahashi. Số thứ tự phần tử là 1, 2, 3, 4",
+        "en": "Array a with 4 elements: Sato, Tanaka, Suzuki, Takahashi. Element indices are 1, 2, 3, 4"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "初期化",
+      "reading": "しょきか",
+      "vi": "Khởi tạo",
+      "en": "Initialization",
+      "my": "စကားပြုချင်း"
+    },
+    {
+      "kanji": "上書き",
+      "reading": "うわがき",
+      "vi": "Ghi đè",
+      "en": "Overwriting",
+      "my": "ထပ်ရေး"
+    },
+    {
+      "kanji": "配列",
+      "reading": "はいれつ",
+      "vi": "Mảng",
+      "en": "Array",
+      "my": "အလိုက်"
+    },
+    {
+      "kanji": "要素",
+      "reading": "ようそ",
+      "vi": "Phần tử",
+      "en": "Element",
+      "my": "အစိတ်အပိုင်း"
+    },
+    {
+      "kanji": "要素番号",
+      "reading": "ようそばんごう",
+      "vi": "Số thứ tự phần tử",
+      "en": "Element Index",
+      "my": "အစိတ်အပိုင်း နံပါတ်"
+    }
+  ],
+  "meta": {
+    "has_exam_tip": true,
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

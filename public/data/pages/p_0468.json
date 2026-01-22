@@ -1,0 +1,126 @@
+{
+    "page_id": 468,
+    "image": "p_0468.png",
+    "chapter": 12,
+    "section": "practice",
+    "page_number": 452,
+    "content": [
+        {
+            "type": "answer_explanation",
+            "id": "12-2",
+            "answer": "エ",
+            "explanation": {
+                "ja": "ユニバーサルが「万国共通の」と和訳できれば「できる限り多くの人」というキーワードがあるエが正解であると判断できます。",
+                "vi": "Nếu dịch Universal là \"phổ thông toàn cầu\" thì có thể phán đoán đáp án エ có từ khóa \"càng nhiều người càng tốt\" là đúng.",
+                "en": "If Universal translates to 'common to all nations' then can judge answer エ with keyword 'as many people as possible' is correct."
+            },
+            "wrong_choices": [
+                {
+                    "id": "ア",
+                    "text": {
+                        "ja": "バリアフリーデザインとは、高齢者、障害者が生活する際の障壁（バリア）を取り除いて、生活しやすいように設計することです。",
+                        "vi": "Barrier-Free Design là thiết kế loại bỏ rào cản (barrier) trong cuộc sống của người cao tuổi, người khuyết tật để dễ sống hơn.",
+                        "en": "Barrier-Free Design is designing to remove barriers in life of elderly, disabled for easier living."
+                    }
+                },
+                {
+                    "id": "イ",
+                    "text": {
+                        "ja": "フェールセーフとは、故障や操作ミスが発生しても、安全が保てる設計です。",
+                        "vi": "Fail-Safe là thiết kế đảm bảo an toàn ngay cả khi xảy ra sự cố hoặc lỗi thao tác.",
+                        "en": "Fail-Safe is design maintaining safety even when failure or operation error occurs."
+                    }
+                },
+                {
+                    "id": "ウ",
+                    "text": {
+                        "ja": "フールプルーフとは、システムを使う人が、間違った使い方をしても、システムに異常が起こらない設計です。",
+                        "vi": "Fool-Proof là thiết kế mà ngay cả khi người dùng hệ thống sử dụng sai cách, hệ thống không xảy ra bất thường.",
+                        "en": "Fool-Proof is design where even if system user uses incorrectly, system doesn't malfunction."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "id": "12-3",
+            "answer": "ア",
+            "explanation": {
+                "ja": "アクセシビリティ（Accessibility）とは、高齢者や障害者を含む、すべての人がサービスを制限なく使える度合いです。",
+                "vi": "Khả năng tiếp cận (Accessibility) là mức độ mà tất cả mọi người bao gồm người cao tuổi và người khuyết tật có thể sử dụng dịch vụ không hạn chế.",
+                "en": "Accessibility is degree to which all people including elderly and disabled can use services without restrictions."
+            },
+            "wrong_choices": [
+                {
+                    "id": "イ",
+                    "text": {
+                        "ja": "CRM（Customer Relationship Management）に関する記述です。",
+                        "vi": "Là mô tả về CRM (Quản lý quan hệ khách hàng).",
+                        "en": "Description about CRM (Customer Relationship Management)."
+                    }
+                },
+                {
+                    "id": "ウ",
+                    "text": {
+                        "ja": "UX（User Experience）に関する記述です。",
+                        "vi": "Là mô tả về UX (Trải nghiệm người dùng).",
+                        "en": "Description about UX (User Experience)."
+                    }
+                },
+                {
+                    "id": "エ",
+                    "text": {
+                        "ja": "アクセス制御に関する記述です。",
+                        "vi": "Là mô tả về điều khiển truy cập.",
+                        "en": "Description about access control."
+                    }
+                }
+            ]
+        },
+        {
+            "type": "answer_explanation",
+            "id": "12-4",
+            "answer": "エ",
+            "explanation": {
+                "ja": "パスの指定方法で使われる4つのルールは問題文中に掲載されます。なぜなら、ディレクトリの区切り文字（¥や/）が、OSのファイルシステムによって異なるためです。そのため、4つのルールを暗記する必要はありません。仕組みを理解することが大切です。",
+                "vi": "4 quy tắc được sử dụng trong phương pháp chỉ định đường dẫn được ghi trong đề thi. Vì ký tự phân cách thư mục (¥ hoặc /) khác nhau tùy thuộc vào hệ thống tệp của OS. Vì vậy, không cần ghi nhớ 4 quy tắc. Quan trọng là hiểu cơ chế.",
+                "en": "4 rules used in path specification method are written in question. Because directory separator (¥ or /) differs by OS file system. So no need to memorize 4 rules. Important to understand mechanism."
+            },
+            "diagram_explanation": {
+                "ja": "相対パス「..¥..¥DIRB¥Fn.txt」を辿ると、次の経路を通ります。つまり④に辿りつくので「エ」が正解です。",
+                "vi": "Theo đường dẫn tương đối \"..\\\\..\\\\DIRB\\\\Fn.txt\", đi qua đường dẫn sau. Nghĩa là đến ④ nên \"エ\" là đáp án đúng.",
+                "en": "Tracing relative path '..\\\\..\\\\DIRB\\\\Fn.txt' goes through following path. Meaning reaches ④ so 'エ' is correct answer."
+            }
+        },
+        {
+            "type": "answer_explanation",
+            "id": "12-5",
+            "answer": "ア",
+            "explanation": {
+                "ja": "データを火曜日の業務終了時点に戻すには、以下の3つのファイルが必要です。",
+                "vi": "Để khôi phục dữ liệu về thời điểm kết thúc công việc thứ Ba, cần 3 tệp sau.",
+                "en": "To restore data to Tuesday work end, following 3 files are needed."
+            },
+            "required_files": [
+                {
+                    "ja": "（1）日曜日のフルバックアップファイル",
+                    "vi": "(1) Tệp sao lưu đầy đủ Chủ nhật",
+                    "en": "(1) Sunday full backup file"
+                },
+                {
+                    "ja": "（2）月曜日の増分バックアップファイル",
+                    "vi": "(2) Tệp sao lưu tăng dần thứ Hai",
+                    "en": "(2) Monday incremental backup file"
+                },
+                {
+                    "ja": "（3）火曜日の増分バックアップファイル",
+                    "vi": "(3) Tệp sao lưu tăng dần thứ Ba",
+                    "en": "(3) Tuesday incremental backup file"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "is_practice_page": true
+    }
+}

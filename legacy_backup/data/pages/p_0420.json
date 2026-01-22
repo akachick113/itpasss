@@ -1,0 +1,365 @@
+{
+  "page_id": 420,
+  "image": "p_0420.png",
+  "chapter": 11,
+  "section": "11-04",
+  "page_number": 404,
+  "content": [
+    {
+      "type": "note_box",
+      "title": {
+        "ja": "ハードディスクの表記",
+        "vi": "Ký hiệu của ổ đĩa cứng",
+        "en": "Hard Disk Notation",
+        "note": "学習のポイント"
+      },
+      "content": {
+        "ja": "ハードディスクは「HDD」と表記されることも多いです。HDDは「Hard Disk Drive」の略です。またSSDは「Solid State Drive」の略です。",
+        "vi": "Ổ đĩa cứng thường được viết là \"HDD\". HDD là viết tắt của \"Hard Disk Drive\". Và SSD là viết tắt của \"Solid State Drive\".",
+        "en": "Hard disk is often written as 'HDD.' HDD is abbreviation of 'Hard Disk Drive.' And SSD is abbreviation of 'Solid State Drive.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "補助記憶装置には上記の2種類以外に、「取り外しのできる補助記憶装置」もあります。ここではITパスポート試験に出題される代表的なものを紹介します。",
+      "vi": "Ngoài 2 loại trên, bộ nhớ phụ còn có \"bộ nhớ phụ có thể tháo rời\". Ở đây giới thiệu những loại điển hình được ra đề trong kỳ thi IT Passport.",
+      "en": "Besides above 2 types, auxiliary storage also has 'removable auxiliary storage.' Here introduces representative ones appearing on IT Passport exam.",
+      "terms": [
+        {
+          "kanji": "補助記憶装置",
+          "reading": "ほじょきおくそうち"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "種類以外",
+          "reading": "しゅるいいがい"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "外",
+          "reading": "そと"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "代表的",
+          "reading": "だいひょうてき"
+        },
+        {
+          "kanji": "紹介",
+          "reading": "しょうかい"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "取り外しのできる補助記憶装置",
+        "vi": "Bộ nhớ phụ có thể tháo rời",
+        "en": "Removable Auxiliary Storage"
+      },
+      "note": {
+        "ja": "← それぞれの名称と保存容量を覚えよう！",
+        "vi": "← Hãy nhớ tên và dung lượng lưu trữ của mỗi loại!",
+        "en": "← Remember name and storage capacity of each!"
+      },
+      "headers": {
+        "ja": [
+          "名称",
+          "説明",
+          "記録方法"
+        ],
+        "vi": [
+          "Tên gọi",
+          "Giải thích",
+          "Phương pháp ghi"
+        ],
+        "en": [
+          "Name",
+          "Description",
+          "Recording Method"
+        ]
+      },
+      "rows": [
+        {
+          "name": "CD",
+          "description": {
+            "ja": "光を使って、樹脂などでできたディスク（円盤）にあるデータを読み書きする装置。保存容量は約700MB。「Compact Disc」の略。",
+            "vi": "Thiết bị sử dụng ánh sáng để đọc ghi dữ liệu trên đĩa (đĩa tròn) làm từ nhựa, v.v. Dung lượng lưu trữ khoảng 700MB. Viết tắt của \"Compact Disc\".",
+            "en": "Device reading/writing data on disc made of resin, etc. using light. Storage capacity about 700MB. Abbreviation of 'Compact Disc.'"
+          },
+          "method": {
+            "ja": "光",
+            "vi": "Ánh sáng",
+            "en": "Light"
+          }
+        },
+        {
+          "name": "DVD",
+          "description": {
+            "ja": "光を使って、樹脂などでできたディスク（円盤）にあるデータを読み書きする装置。CDの約7倍の保存容量（約4.7GB）がある。「Digital Versatile Disc」の略。",
+            "vi": "Thiết bị sử dụng ánh sáng để đọc ghi dữ liệu trên đĩa làm từ nhựa, v.v. Có dung lượng lưu trữ gấp khoảng 7 lần CD (khoảng 4.7GB). Viết tắt của \"Digital Versatile Disc\".",
+            "en": "Device reading/writing data on disc made of resin, etc. using light. Has storage capacity about 7 times CD (about 4.7GB). Abbreviation of 'Digital Versatile Disc.'"
+          },
+          "method": {
+            "ja": "光",
+            "vi": "Ánh sáng",
+            "en": "Light"
+          }
+        },
+        {
+          "name": "Blu-ray Disc",
+          "description": {
+            "ja": "光を使って、樹脂などでできたディスク（円盤）にあるデータを読み書きする装置。DVDの約5倍の保存容量（約25GB）がある。",
+            "vi": "Thiết bị sử dụng ánh sáng để đọc ghi dữ liệu trên đĩa làm từ nhựa, v.v. Có dung lượng lưu trữ gấp khoảng 5 lần DVD (khoảng 25GB).",
+            "en": "Device reading/writing data on disc made of resin, etc. using light. Has storage capacity about 5 times DVD (about 25GB)."
+          },
+          "method": {
+            "ja": "光",
+            "vi": "Ánh sáng",
+            "en": "Light"
+          }
+        },
+        {
+          "name": {
+            "ja": "USBメモリ",
+            "vi": "USB memory",
+            "en": "USB Memory"
+          },
+          "description": {
+            "ja": "電気を使って、半導体メモリにあるデータを読み書きする装置。",
+            "vi": "Thiết bị sử dụng điện để đọc ghi dữ liệu trong bộ nhớ bán dẫn.",
+            "en": "Device reading/writing data in semiconductor memory using electricity."
+          },
+          "method": {
+            "ja": "電気",
+            "vi": "Điện",
+            "en": "Electric"
+          }
+        },
+        {
+          "name": {
+            "ja": "SDカード",
+            "vi": "Thẻ SD",
+            "en": "SD Card"
+          },
+          "description": {
+            "ja": "電気を使って、半導体メモリにあるデータを読み書きするカード型記憶装置。正式名称は「SDメリカード」（Secure Digital Memory Card）。",
+            "vi": "Thiết bị ghi nhớ dạng thẻ sử dụng điện để đọc ghi dữ liệu trong bộ nhớ bán dẫn. Tên chính thức là \"SD Memory Card\" (Secure Digital Memory Card).",
+            "en": "Card-type memory device reading/writing data in semiconductor memory using electricity. Official name is 'SD Memory Card' (Secure Digital Memory Card)."
+          },
+          "method": {
+            "ja": "電気",
+            "vi": "Điện",
+            "en": "Electric"
+          }
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "SSDには可動部品がないため、振動や衝撃に強い",
+          "vi": "Vì SSD không có bộ phận chuyển động nên mạnh với rung động và va chạm",
+          "en": "SSD has no moving parts so strong against vibration and shock"
+        },
+        {
+          "ja": "SSDは消費電力が少ない",
+          "vi": "SSD tiêu thụ điện ít",
+          "en": "SSD has low power consumption"
+        },
+        {
+          "ja": "保存容量はCDが約700MB、DVDが約4.7GB、Blu-ray Discが約25GB",
+          "vi": "Dung lượng lưu trữ: CD khoảng 700MB, DVD khoảng 4.7GB, Blu-ray Disc khoảng 25GB",
+          "en": "Storage capacity: CD about 700MB, DVD about 4.7GB, Blu-ray Disc about 25GB"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "ja": "（3）キャッシュメモリ",
+      "vi": "(3) Bộ nhớ cache",
+      "en": "(3) Cache Memory",
+      "subtitle": {
+        "ja": "← これが特徴！",
+        "vi": "← Đây là đặc điểm!",
+        "en": "← This is the key!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "キャッシュメモリとは、CPUの内部に搭載されている超高速の記憶装置です。CPUは、キャッシュメモリを使用して処理の待ち時間を短縮します。",
+      "vi": "Bộ nhớ cache là thiết bị ghi nhớ siêu tốc được trang bị bên trong CPU. CPU sử dụng bộ nhớ cache để rút ngắn thời gian chờ xử lý.",
+      "en": "Cache memory is ultra-high-speed memory device equipped inside CPU. CPU uses cache memory to shorten processing wait time.",
+      "terms": [
+        {
+          "kanji": "内部",
+          "reading": "ないぶ"
+        },
+        {
+          "kanji": "搭載",
+          "reading": "とうさい"
+        },
+        {
+          "kanji": "超高速",
+          "reading": "ちょうこうそく"
+        },
+        {
+          "kanji": "記憶装置",
+          "reading": "きおくそうち"
+        },
+        {
+          "kanji": "使用",
+          "reading": "しよう"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "待",
+          "reading": "たい"
+        },
+        {
+          "kanji": "時間",
+          "reading": "じかん"
+        },
+        {
+          "kanji": "短縮",
+          "reading": "たんしゅく"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "先ほど、主記憶装置の特徴の1つとして「データを高速に処理できる」と解説しましたが（p.402）、それはあくまでも補助記憶装置と比較した場合の話です。主記憶装置の処理の速さは、超高速に処理を実行するCPUにとっては不十分です。この「CPUと主記憶装置の処理速度の差」を埋めるために使われるのがキャッシュメモリです。",
+      "vi": "Trước đó đã giải thích \"có thể xử lý dữ liệu với tốc độ cao\" là một trong các đặc điểm của bộ nhớ chính (trang 402), nhưng đó chỉ là khi so sánh với bộ nhớ phụ. Tốc độ xử lý của bộ nhớ chính không đủ cho CPU thực thi xử lý siêu tốc. Bộ nhớ cache được sử dụng để lấp đầy \"sự khác biệt về tốc độ xử lý giữa CPU và bộ nhớ chính\".",
+      "en": "Earlier explained 'can process data at high speed' as one characteristic of main memory (p.402), but that's only when compared to auxiliary storage. Main memory processing speed is insufficient for CPU executing ultra-high-speed processing. Cache memory is used to fill 'processing speed difference between CPU and main memory.'",
+      "terms": [
+        {
+          "kanji": "先",
+          "reading": "さき"
+        },
+        {
+          "kanji": "主記憶装置",
+          "reading": "しゅきおくそうち"
+        },
+        {
+          "kanji": "特徴",
+          "reading": "とくちょう"
+        },
+        {
+          "kanji": "高速",
+          "reading": "こうそく"
+        },
+        {
+          "kanji": "処理",
+          "reading": "しょり"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "補助記憶装置",
+          "reading": "ほじょきおくそうち"
+        },
+        {
+          "kanji": "比較",
+          "reading": "ひかく"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "話",
+          "reading": "はなし"
+        },
+        {
+          "kanji": "速",
+          "reading": "そく"
+        },
+        {
+          "kanji": "超高速",
+          "reading": "ちょうこうそく"
+        },
+        {
+          "kanji": "実行",
+          "reading": "じっこう"
+        },
+        {
+          "kanji": "不十分",
+          "reading": "ふじゅうぶん"
+        },
+        {
+          "kanji": "処理速度",
+          "reading": "しょりそくど"
+        },
+        {
+          "kanji": "差",
+          "reading": "さ"
+        },
+        {
+          "kanji": "埋",
+          "reading": "まい"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "HDD",
+      "full": "Hard Disk Drive",
+      "vi": "Ổ đĩa cứng",
+      "en": "Hard Disk Drive",
+      "my": "ဟားဒ်ဒစ် ဒြိုက်"
+    },
+    {
+      "term": "キャッシュメモリ",
+      "vi": "Bộ nhớ cache",
+      "en": "Cache Memory",
+      "my": "ကက်ရှ မဲမရီ"
+    },
+    {
+      "term": "Blu-ray Disc",
+      "vi": "Đĩa Blu-ray",
+      "en": "Blu-ray Disc",
+      "my": "ဘလူးရေး ဒစ်"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}

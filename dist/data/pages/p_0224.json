@@ -1,0 +1,249 @@
+{
+  "page_id": 224,
+  "image": "p_0224.png",
+  "chapter": 5,
+  "section": "05-07",
+  "page_number": 208,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "05-07",
+      "ja": "企画プロセスと要件定義プロセス",
+      "reading": "きかくぷろせすとようけんていぎぷろせす",
+      "vi": "Quy trình lập kế hoạch và quy trình định nghĩa yêu cầu",
+      "en": "Planning Process and Requirements Definition Process",
+      "my": "Planning Process and Requirements Definition Process"
+    },
+    {
+      "type": "info_box",
+      "title": {
+        "ja": "経営層が関与する開発プロセス",
+        "vi": "Quy trình phát triển có sự tham gia của tầng quản lý",
+        "en": "Development Process Involving Management",
+        "my": "Management ပါဝင်သော Development Process",
+        "terms": [
+          {
+            "kanji": "経営",
+            "reading": "けいえい"
+          }
+        ]
+      },
+      "content": {
+        "ja": "5つあるソフトウェアライフサイクルのうち、経営層が関与するのは「企画プロセス」です。このプロセスと経営目標をきちんと適応させることが重要です。",
+        "vi": "Trong 5 Software Lifecycle, tầng quản lý tham gia vào 'Quy trình lập kế hoạch'. Việc điều chỉnh đúng quy trình này với mục tiêu kinh doanh rất quan trọng.",
+        "en": "Of the 5 Software Lifecycles, management is involved in the 'Planning Process'. It's important to properly align this process with business goals.",
+        "my": "Software Lifecycle ၅ ခုအနက် management သည် 'Planning Process' တွင် ပါဝင်သည်။",
+        "terms": [
+          {
+            "kanji": "経営層",
+            "reading": "けいえいそう"
+          },
+          {
+            "kanji": "関与",
+            "reading": "かんよ"
+          },
+          {
+            "kanji": "企画",
+            "reading": "きかく"
+          },
+          {
+            "kanji": "経営目標",
+            "reading": "けいえいもくひょう"
+          },
+          {
+            "kanji": "適応",
+            "reading": "てきおう"
+          },
+          {
+            "kanji": "重要",
+            "reading": "じゅうよう"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここでは、前項で解説した共通フレームの5つのプロセスのうち、ストラテジ系分野に含まれる「企画プロセス」と「要件定義プロセス」について詳しく解説します。前項と併せて読み進めてください。\n\nなお、本項の内容のうち、ITパスポート試験では、「企画プロセス」「システム化計画」「ROI」の3つの用語がよく出題されます。",
+      "vi": "Ở đây sẽ giải thích chi tiết về 'Quy trình lập kế hoạch' và 'Quy trình định nghĩa yêu cầu' thuộc phân loại Strategy trong 5 quy trình của Common Frame đã giải thích ở phần trước. Hãy đọc kết hợp với phần trước.\n\nTrong nội dung phần này, IT Passport thường ra 3 thuật ngữ: Quy trình lập kế hoạch, Kế hoạch hệ thống hóa, ROI.",
+      "en": "Here we'll explain in detail 'Planning Process' and 'Requirements Definition Process' included in the Strategy Field from the 5 Common Frame processes explained previously. Please read together with the previous section.\n\nIn this section's content, IT Passport frequently tests 3 terms: 'Planning Process', 'Systemization Plan', and 'ROI'.",
+      "my": "ယခုတွင် ယခင်အပိုင်းတွင် ရှင်းပြခဲ့သော Common Frame process ၅ ခုမှ Strategy Field တွင် ပါဝင်သော 'Planning Process' နှင့် 'Requirements Definition Process' ကို အသေးစိတ် ရှင်းပြမည်။",
+      "terms": [
+        {
+          "kanji": "前項",
+          "reading": "ぜんこう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "共通",
+          "reading": "きょうつう"
+        },
+        {
+          "kanji": "系分野",
+          "reading": "けいぶんや"
+        },
+        {
+          "kanji": "含",
+          "reading": "がん"
+        },
+        {
+          "kanji": "企画",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "要件定義",
+          "reading": "ようけんていぎ"
+        },
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "併",
+          "reading": "へい"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "本項",
+          "reading": "ほんこう"
+        },
+        {
+          "kanji": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "化計画",
+          "reading": "かけいかく"
+        },
+        {
+          "kanji": "用語",
+          "reading": "ようご"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "企画プロセス",
+      "vi": "Quy trình lập kế hoạch",
+      "en": "Planning Process"
+    },
+    {
+      "type": "paragraph",
+      "ja": "企画プロセスとは、経営の目標を達成するために、システムに必要な要件を集め、計画を立てるプロセスです。\n\nITパスポート試験では、企画プロセスの目的を問う問題がよく出題されます。共通フレームでは、企画プロセスの目的は次のように定義されています。",
+      "vi": "Quy trình lập kế hoạch là quy trình thu thập yêu cầu cần thiết cho hệ thống và lập kế hoạch để đạt mục tiêu kinh doanh.\n\nIT Passport thường ra câu hỏi về mục đích của Quy trình lập kế hoạch. Trong Common Frame, mục đích của Quy trình lập kế hoạch được định nghĩa như sau.",
+      "en": "Planning Process is the process of collecting requirements needed for the system and making plans to achieve business goals.\n\nIT Passport often asks questions about the purpose of Planning Process. In Common Frame, the purpose of Planning Process is defined as follows.",
+      "my": "Planning Process သည် business goals အောင်မြင်ရန် system အတွက် လိုအပ်သော requirements စုဆောင်းပြီး plans ချမှတ်သော process ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "企画",
+          "reading": "きかく"
+        },
+        {
+          "kanji": "経営",
+          "reading": "けいえい"
+        },
+        {
+          "kanji": "目標",
+          "reading": "もくひょう"
+        },
+        {
+          "kanji": "達成",
+          "reading": "たっせい"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "要件",
+          "reading": "ようけん"
+        },
+        {
+          "kanji": "集",
+          "reading": "しゅう"
+        },
+        {
+          "kanji": "計画",
+          "reading": "けいかく"
+        },
+        {
+          "kanji": "立",
+          "reading": "た"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "kanji": "問",
+          "reading": "とん"
+        },
+        {
+          "kanji": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "共通",
+          "reading": "きょうつう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "定義",
+          "reading": "ていぎ"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "企画プロセス",
+      "reading": "きかくぷろせす",
+      "romaji": "Kikaku Process",
+      "vi": "Quy trình lập kế hoạch",
+      "en": "Planning Process",
+      "my": "စီမံကိန်း လုပ်ငန်းစဉ်"
+    },
+    {
+      "kanji": "要件定義プロセス",
+      "reading": "ようけんていぎぷろせす",
+      "romaji": "Youken Teigi Process",
+      "vi": "Quy trình định nghĩa yêu cầu",
+      "en": "Requirements Definition Process",
+      "my": "လိုအပ်ချက် သတ်မှတ်ချက် လုပ်ငန်းစဉ်"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_info_box": true
+  }
+}

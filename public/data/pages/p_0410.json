@@ -1,0 +1,268 @@
+{
+  "page_id": 410,
+  "image": "p_0410.png",
+  "chapter": 11,
+  "section": "11-01",
+  "page_number": 394,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "11-01",
+      "title": {
+        "ja": "コンピュータの種類",
+        "vi": "Các loại máy tính",
+        "en": "Computer Types"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "大きさが重要",
+        "vi": "Kích thước quan trọng",
+        "en": "Size is Important"
+      },
+      "content": {
+        "ja": "動物の大きさを別の種類の動物と比べると、その特徴がより際立ちます。コンピュータも「大きさ」で比べると、区別しやすくなります。",
+        "vi": "Khi so sánh kích thước của động vật với các loài động vật khác, đặc điểm của chúng càng nổi bật. Máy tính cũng dễ phân biệt hơn khi so sánh theo \"kích thước\".",
+        "en": "When comparing animal sizes with different species, their characteristics stand out more. Computers also become easier to distinguish when compared by 'size.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "第6章で「システムはハードウェアとソフトウェアから構成される」と解説しました（p.224）。本章では、このうちの1つ「ハードウェア」について詳しく解説します。",
+      "vi": "Chương 6 đã giải thích \"hệ thống được cấu thành từ phần cứng và phần mềm\" (trang 224). Chương này giải thích chi tiết về một trong số đó là \"phần cứng\".",
+      "en": "Chapter 6 explained 'system consists of hardware and software' (p.224). This chapter explains in detail about one of them, 'hardware.'",
+      "terms": [
+        {
+          "kanji": "第",
+          "reading": "だい"
+        },
+        {
+          "kanji": "章",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "構成",
+          "reading": "こうせい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "本章",
+          "reading": "ほんしょう"
+        },
+        {
+          "kanji": "詳",
+          "reading": "しょう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "ハードウェアには、コンピュータやマウス、キーボード、ディスプレイ、プリンターなど、さまざまなものがありますが、「コンピュータの種類」の解説からはじめます。",
+      "vi": "Phần cứng bao gồm nhiều thứ như máy tính, chuột, bàn phím, màn hình, máy in, v.v., nhưng sẽ bắt đầu từ giải thích \"các loại máy tính\".",
+      "en": "Hardware includes various things like computers, mice, keyboards, displays, printers, etc., but will start from explanation of 'computer types.'",
+      "terms": [
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "コンピュータの種類と大きさ",
+      "vi": "Các loại và kích thước máy tính",
+      "en": "Computer Types and Sizes"
+    },
+    {
+      "type": "paragraph",
+      "ja": "「コンピュータ」にはさまざまな種類があります。身近にあるスマートフォンやタブレット端末、ノートパソコンもコンピュータですし、大規模なシステムを支える汎用コンピュータやスーパーコンピュータもコンピュータの一種です。そこでまずはこれらの違いについて解説します。",
+      "vi": "\"Máy tính\" có nhiều loại khác nhau. Điện thoại thông minh và máy tính bảng, laptop xung quanh chúng ta cũng là máy tính, và máy tính đa năng và siêu máy tính hỗ trợ các hệ thống quy mô lớn cũng là một loại máy tính. Vì vậy, trước tiên sẽ giải thích về sự khác biệt của chúng.",
+      "en": "There are various types of 'computers.' Smartphones and tablets, laptops around us are computers, and general-purpose computers and supercomputers supporting large-scale systems are also types of computers. So first will explain differences between them.",
+      "terms": [
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "身近",
+          "reading": "みじか"
+        },
+        {
+          "kanji": "端末",
+          "reading": "たんまつ"
+        },
+        {
+          "kanji": "大規模",
+          "reading": "だいきぼ"
+        },
+        {
+          "kanji": "支",
+          "reading": "し"
+        },
+        {
+          "kanji": "汎用",
+          "reading": "はんよう"
+        },
+        {
+          "kanji": "一種",
+          "reading": "いっしゅ"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、以降の解説を読み進める際に念頭に置いておいてほしいことの1つに「コンピュータの大きさ」があります。コンピュータの種類を学ぶうえで、コンピュータの大きさはとても大切です。",
+      "vi": "Tham khảo, một trong những điều cần ghi nhớ khi đọc tiếp các giải thích sau là \"kích thước máy tính\". Khi học về các loại máy tính, kích thước máy tính rất quan trọng.",
+      "en": "Note, one thing to keep in mind when reading explanations below is 'computer size.' When learning computer types, computer size is very important.",
+      "terms": [
+        {
+          "kanji": "以降",
+          "reading": "いこう"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "読",
+          "reading": "よ"
+        },
+        {
+          "kanji": "進",
+          "reading": "すすむ"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "念頭",
+          "reading": "ねんとう"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "学",
+          "reading": "がく"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なぜかというと、技術の進歩に伴って、コンピュータを区別する境界線が曖昧になっているからです。現在では、コンピュータの種類を区別する際に用いる基準は「大きさ」と「処理能力」くらいしかありません。基本的に、大きければ大きいほど処理能力が高いコンピュータになります。",
+      "vi": "Lý do là vì theo tiến bộ công nghệ, ranh giới phân biệt máy tính trở nên mờ nhạt. Hiện tại, tiêu chuẩn dùng để phân biệt các loại máy tính chỉ còn \"kích thước\" và \"khả năng xử lý\". Về cơ bản, máy tính càng lớn thì khả năng xử lý càng cao.",
+      "en": "Because with technological progress, boundaries distinguishing computers have become blurred. Currently, criteria used to distinguish computer types are only 'size' and 'processing power.' Basically, larger computers have higher processing power.",
+      "terms": [
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "進歩",
+          "reading": "しんぽ"
+        },
+        {
+          "kanji": "伴",
+          "reading": "はん"
+        },
+        {
+          "kanji": "区別",
+          "reading": "くべつ"
+        },
+        {
+          "kanji": "境界線",
+          "reading": "きょうかいせん"
+        },
+        {
+          "kanji": "曖昧",
+          "reading": "あいまい"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "用",
+          "reading": "よう"
+        },
+        {
+          "kanji": "基準",
+          "reading": "きじゅん"
+        },
+        {
+          "kanji": "大",
+          "reading": "おお"
+        },
+        {
+          "kanji": "処理能力",
+          "reading": "しょりのうりょく"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "高",
+          "reading": "たか"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "汎用コンピュータ",
+      "reading": "はんようコンピュータ",
+      "vi": "Máy tính đa năng",
+      "en": "General-purpose Computer",
+      "my": "အထူထူသုံး ကွန်ပျူတာ"
+    },
+    {
+      "term": "スーパーコンピュータ",
+      "vi": "Siêu máy tính",
+      "en": "Supercomputer",
+      "my": "ဆူပါ ကွန်ပျူတာ"
+    }
+  ],
+  "meta": {
+    "is_key_content": true
+  }
+}

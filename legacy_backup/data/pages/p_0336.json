@@ -1,0 +1,299 @@
+{
+  "page_id": 336,
+  "image": "p_0336.png",
+  "chapter": 9,
+  "section": "09-01",
+  "page_number": 320,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "10進数→16進数",
+      "reading": "じゅっしんすうからじゅうろくしんすう",
+      "vi": "Thập phân → Thập lục phân",
+      "en": "Decimal → Hexadecimal"
+    },
+    {
+      "type": "paragraph",
+      "ja": "10進数を16進数に変換する方法の基本的な考え方は10進数→2進数の変換と同じです。10進数の数を16でわり算して商が0になるまで計算を行い、余りを下から並べます。",
+      "vi": "Cách suy nghĩ cơ bản của phương pháp chuyển đổi thập phân sang thập lục phân giống như chuyển đổi thập phân → nhị phân. Chia số thập phân cho 16 đến khi thương bằng 0, rồi xếp phần dư từ dưới lên.",
+      "en": "Basic concept of converting decimal to hexadecimal is same as decimal → binary. Divide decimal by 16 until quotient is 0, then arrange remainders from bottom to top.",
+      "terms": [
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "方",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "算",
+          "reading": "さん"
+        },
+        {
+          "kanji": "商",
+          "reading": "しょう"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "余",
+          "reading": "よ"
+        },
+        {
+          "kanji": "下",
+          "reading": "した"
+        },
+        {
+          "kanji": "並",
+          "reading": "なみ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "例えば、10進数「701」を16進数に変換するには次のように計算します。",
+      "vi": "Ví dụ, để chuyển đổi \"701\" thập phân sang thập lục phân, tính như sau.",
+      "en": "For example, to convert decimal '701' to hexadecimal, calculate as follows.",
+      "terms": [
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        }
+      ]
+    },
+    {
+      "type": "calculation_example",
+      "title": {
+        "ja": "10進数「701」→16進数",
+        "vi": "Thập phân \"701\" → Thập lục phân",
+        "en": "Decimal '701' → Hexadecimal"
+      },
+      "steps": [
+        "701 ÷ 16 = 43 ... 余り 13 → (13)₁₀ = D",
+        "43 ÷ 16 = 2 ... 余り 11 → (11)₁₀ = B",
+        "2 ÷ 16 = 0 ... 余り 2 → (2)₁₀ = 2",
+        "→ 下から上に余りを並べる・16進数に置き換える: 2BD"
+      ],
+      "result": {
+        "ja": "10進数の「701」は16進数では「2BD」",
+        "vi": "\"701\" thập phân là \"2BD\" thập lục phân",
+        "en": "Decimal '701' is '2BD' in hexadecimal"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "10進数の「2」は16進数でも「2」です。しかし、10進数の「11」は16進数では「B」です。また、10進数の「13」は16進数では「D」です。このことから、10進数の「701」は16進数では「2BD」であることがわかります。",
+      "vi": "\"2\" thập phân cũng là \"2\" thập lục phân. Tuy nhiên, \"11\" thập phân là \"B\" thập lục phân. Ngoài ra, \"13\" thập phân là \"D\" thập lục phân. Từ đó, có thể thấy \"701\" thập phân là \"2BD\" thập lục phân.",
+      "en": "Decimal '2' is also '2' in hexadecimal. However, decimal '11' is 'B' in hexadecimal. Also, decimal '13' is 'D' in hexadecimal. From this, can see decimal '701' is '2BD' in hexadecimal.",
+      "terms": [
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "16進数の場合は、上記のように、10～15の数をA～Fのアルファベットに置き換える必要があるので注意してください。",
+      "vi": "Trong trường hợp số thập lục phân, như trên, cần lưu ý thay thế các số 10-15 bằng chữ cái A-F.",
+      "en": "For hexadecimal, note that numbers 10-15 need to be replaced with alphabets A-F as above.",
+      "terms": [
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "上記",
+          "reading": "じょうき"
+        },
+        {
+          "kanji": "数",
+          "reading": "かず"
+        },
+        {
+          "kanji": "置",
+          "reading": "ち"
+        },
+        {
+          "kanji": "換",
+          "reading": "かん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "注意",
+          "reading": "ちゅうい"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "16進数→10進数",
+      "reading": "じゅうろくしんすうからじゅっしんすう",
+      "vi": "Thập lục phân → Thập phân",
+      "en": "Hexadecimal → Decimal"
+    },
+    {
+      "type": "paragraph",
+      "ja": "16進数を10進数に変換する方法の基本的な考え方は、2進数→10進数と同じです。最初に次の計算を行います。",
+      "vi": "Cách suy nghĩ cơ bản của phương pháp chuyển đổi thập lục phân sang thập phân giống như nhị phân → thập phân. Đầu tiên thực hiện phép tính sau.",
+      "en": "Basic concept of converting hexadecimal to decimal is same as binary → decimal. First perform following calculation.",
+      "terms": [
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "kanji": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "方",
+          "reading": "ほう"
+        },
+        {
+          "kanji": "同",
+          "reading": "どう"
+        },
+        {
+          "kanji": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        }
+      ]
+    },
+    {
+      "type": "formula",
+      "title": {
+        "ja": "各桁の数字×16ⁿ（nは[桁数-1]）",
+        "vi": "Số của mỗi chữ số × 16ⁿ (n là [số chữ số - 1])",
+        "en": "Each digit × 16ⁿ (n is [number of digits - 1])"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、このとき、16進数のアルファベットを10進数に変換してから計算することを覚えておいてください。そのうえで、各桁の計算結果をたし算します。例えば、16進数の「2BD」を10進数に変換するには次のように計算します。",
+      "vi": "Ngoài ra, lúc này hãy nhớ chuyển đổi chữ cái thập lục phân sang thập phân trước khi tính. Sau đó, cộng kết quả tính của mỗi chữ số. Ví dụ, để chuyển đổi \"2BD\" thập lục phân sang thập phân, tính như sau.",
+      "en": "Also, remember to convert hexadecimal alphabets to decimal before calculating. Then add calculation results of each digit. For example, to convert hexadecimal '2BD' to decimal, calculate as follows.",
+      "terms": [
+        {
+          "kanji": "進数",
+          "reading": "しんすう"
+        },
+        {
+          "kanji": "変換",
+          "reading": "へんかん"
+        },
+        {
+          "kanji": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        },
+        {
+          "kanji": "各桁",
+          "reading": "かっけた"
+        },
+        {
+          "kanji": "計算結果",
+          "reading": "けいさんけっか"
+        },
+        {
+          "kanji": "算",
+          "reading": "さん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "has_calculation": true
+  }
+}

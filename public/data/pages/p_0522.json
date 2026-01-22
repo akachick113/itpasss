@@ -1,0 +1,308 @@
+{
+  "page_id": 522,
+  "image": "p_0522.png",
+  "chapter": 14,
+  "section": "14-05",
+  "page_number": 506,
+  "content": [
+    {
+      "type": "lesson_header",
+      "number": "14-05",
+      "title": {
+        "ja": "インターネットサービス",
+        "vi": "Dịch vụ Internet",
+        "en": "Internet Services"
+      }
+    },
+    {
+      "type": "illustration_box",
+      "title": {
+        "ja": "電子メールのお作法",
+        "vi": "Nghi thức email",
+        "en": "Email Etiquette"
+      },
+      "content": {
+        "ja": "茶道にお作法があるように、電子メールにも守らなければならないルールがあります。無用なトラブルを防ぐためにも、電子メールの使い方を学びましょう。",
+        "vi": "Giống như trà đạo có nghi thức, email cũng có quy tắc phải tuân thủ. Để tránh rắc rối không cần thiết, hãy học cách sử dụng email.",
+        "en": "Just as tea ceremony has etiquette, email also has rules to follow. To prevent unnecessary trouble, let's learn how to use email."
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "ここでは、普段私たちがインターネットを使って利用している主なサービスを解説します。ITパスポート試験に出題されるのは「電子メール」と「Web」の2つのサービスです。",
+      "vi": "Ở đây, sẽ giải thích các dịch vụ chính mà chúng ta thường sử dụng Internet hàng ngày. Hai dịch vụ được ra đề trong kỳ thi IT Passport là \"Email\" và \"Web\".",
+      "en": "Here, will explain main services we normally use on Internet. Two services appearing in IT Passport exam are 'Email' and 'Web.'",
+      "terms": [
+        {
+          "kanji": "普段私",
+          "reading": "ふだんわたし"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "主",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "電子",
+          "reading": "でんし"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "電子メール",
+      "vi": "Email",
+      "en": "Email"
+    },
+    {
+      "type": "paragraph",
+      "ja": "電子メールはとても便利なサービスであるため、現在では仕事とプライベートの両方で広く利用されています。",
+      "vi": "Email là dịch vụ rất tiện lợi, nên hiện nay được sử dụng rộng rãi trong cả công việc và đời sống cá nhân.",
+      "en": "Email is very convenient service, so currently widely used in both work and private life.",
+      "terms": [
+        {
+          "kanji": "電子",
+          "reading": "でんし"
+        },
+        {
+          "kanji": "便利",
+          "reading": "べんり"
+        },
+        {
+          "kanji": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "kanji": "広",
+          "reading": "ひろ"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "友人とのやり取りにおいてはそれほど注意深くなる必要はありませんが、仕事で利用する際には気をつけなければならない点があります。それは「複数の相手に一斉にメールを送るとき」です。営業秘密を誤って送信してしまうと企業の損失につながってしまいます。",
+      "vi": "Trong việc trao đổi với bạn bè thì không cần quá cẩn thận, nhưng khi sử dụng cho công việc có điểm cần chú ý. Đó là \"khi gửi email đồng loạt cho nhiều người\". Nếu gửi nhầm bí mật kinh doanh sẽ dẫn đến thiệt hại cho doanh nghiệp.",
+      "en": "With friends don't need to be too careful, but when using for work there are points to watch. That is 'when sending email to multiple recipients at once.' If accidentally sending trade secrets, leads to company losses.",
+      "terms": [
+        {
+          "kanji": "友人",
+          "reading": "ゆうじん"
+        },
+        {
+          "kanji": "取",
+          "reading": "と"
+        },
+        {
+          "kanji": "注意深",
+          "reading": "ちゅういしん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "kanji": "利用",
+          "reading": "りよう"
+        },
+        {
+          "kanji": "際",
+          "reading": "きわ"
+        },
+        {
+          "kanji": "気",
+          "reading": "き"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "kanji": "相手",
+          "reading": "あいて"
+        },
+        {
+          "kanji": "一斉",
+          "reading": "いっせい"
+        },
+        {
+          "kanji": "送",
+          "reading": "おく"
+        },
+        {
+          "kanji": "営業秘密",
+          "reading": "えいぎょうひみつ"
+        },
+        {
+          "kanji": "誤",
+          "reading": "ご"
+        },
+        {
+          "kanji": "送信",
+          "reading": "そうしん"
+        },
+        {
+          "kanji": "企業",
+          "reading": "きぎょう"
+        },
+        {
+          "kanji": "損失",
+          "reading": "そんしつ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "電子メールの宛先を記入する欄は次の3つに分かれています。それぞれの役割を理解したうえで使い分けることが大切です。",
+      "vi": "Ô nhập địa chỉ email được chia thành 3 loại sau. Điều quan trọng là hiểu vai trò của mỗi loại và sử dụng phân biệt.",
+      "en": "Email recipient field is divided into following 3. Important to understand role of each and use appropriately.",
+      "terms": [
+        {
+          "kanji": "電子",
+          "reading": "でんし"
+        },
+        {
+          "kanji": "宛先",
+          "reading": "あてさき"
+        },
+        {
+          "kanji": "記入",
+          "reading": "きにゅう"
+        },
+        {
+          "kanji": "欄",
+          "reading": "らん"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "分",
+          "reading": "ふん"
+        },
+        {
+          "kanji": "役割",
+          "reading": "やくわり"
+        },
+        {
+          "kanji": "理解",
+          "reading": "りかい"
+        },
+        {
+          "kanji": "使",
+          "reading": "つか"
+        },
+        {
+          "kanji": "大切",
+          "reading": "たいせつ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "電子メールの宛先記入欄",
+        "vi": "Ô nhập địa chỉ email",
+        "en": "Email Recipient Fields"
+      },
+      "rows": [
+        {
+          "field": "宛先（To）",
+          "description": {
+            "ja": "主要な送り先",
+            "vi": "Người nhận chính",
+            "en": "Main recipient"
+          }
+        },
+        {
+          "field": "CC（Cc）",
+          "description": {
+            "ja": "参考に送る相手",
+            "vi": "Người nhận tham khảo",
+            "en": "Carbon copy recipient"
+          }
+        },
+        {
+          "field": "BCC（Bcc）",
+          "description": {
+            "ja": "他の受信者に知られずに送る相手",
+            "vi": "Người nhận mà người khác không biết",
+            "en": "Blind carbon copy recipient"
+          }
+        }
+      ],
+      "note": {
+        "ja": "3つの欄の役割を理解しよう！",
+        "vi": "Hãy hiểu vai trò của 3 ô!",
+        "en": "Understand roles of 3 fields!"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "宛先",
+      "reading": "あてさき",
+      "vi": "Địa chỉ/Người nhận",
+      "en": "Recipient/To",
+      "my": "လက်ခံသူ / ကို"
+    },
+    {
+      "term": "CC",
+      "full": "Carbon Copy",
+      "vi": "CC (Bản sao)",
+      "en": "CC (Carbon Copy)",
+      "my": "CC (ကာဘွန်မိတ္တူ)"
+    },
+    {
+      "term": "BCC",
+      "full": "Blind Carbon Copy",
+      "vi": "BCC (Bản sao ẩn)",
+      "en": "BCC (Blind Carbon Copy)",
+      "my": "BCC (လျို့ဝှက် ကာဘွန်မိတ္တူ)"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "is_key_content": true
+  }
+}

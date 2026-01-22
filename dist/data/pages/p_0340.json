@@ -1,0 +1,292 @@
+{
+  "page_id": 340,
+  "image": "p_0340.png",
+  "chapter": 9,
+  "section": "09-02",
+  "page_number": 324,
+  "content": [
+    {
+      "type": "paragraph",
+      "ja": "次の表を見てください。",
+      "vi": "Hãy xem bảng sau.",
+      "en": "Please see following tables.",
+      "terms": [
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "表",
+          "reading": "おもて"
+        },
+        {
+          "kanji": "見",
+          "reading": "み"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "AND演算の真理値表",
+        "vi": "Bảng chân trị AND",
+        "en": "AND Truth Table"
+      },
+      "headers": [
+        "A",
+        "B",
+        "A AND B"
+      ],
+      "rows": [
+        [
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "1",
+          "0"
+        ],
+        [
+          "1",
+          "0",
+          "0"
+        ],
+        [
+          "1",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "OR演算の真理値表",
+        "vi": "Bảng chân trị OR",
+        "en": "OR Truth Table"
+      },
+      "headers": [
+        "A",
+        "B",
+        "A OR B"
+      ],
+      "rows": [
+        [
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "1",
+          "1"
+        ],
+        [
+          "1",
+          "0",
+          "1"
+        ],
+        [
+          "1",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "XOR演算の真理値表",
+        "vi": "Bảng chân trị XOR",
+        "en": "XOR Truth Table"
+      },
+      "headers": [
+        "A",
+        "B",
+        "A XOR B"
+      ],
+      "rows": [
+        [
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "1",
+          "1"
+        ],
+        [
+          "1",
+          "0",
+          "1"
+        ],
+        [
+          "1",
+          "1",
+          "0"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "NOT演算の真理値表",
+        "vi": "Bảng chân trị NOT",
+        "en": "NOT Truth Table"
+      },
+      "headers": [
+        "A",
+        "NOT A"
+      ],
+      "rows": [
+        [
+          "0",
+          "1"
+        ],
+        [
+          "1",
+          "0"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "論理演算子",
+        "vi": "Toán tử logic",
+        "en": "Logical Operators",
+        "note": "重要！必ず覚えよう！"
+      },
+      "headers": {
+        "ja": [
+          "演算子",
+          "説明"
+        ],
+        "vi": [
+          "Toán tử",
+          "Giải thích"
+        ],
+        "en": [
+          "Operator",
+          "Description"
+        ]
+      },
+      "rows": [
+        {
+          "operator": "AND",
+          "description": {
+            "ja": "AとBの両方が「1」の場合に、答えが「1」になる論理演算。「論理積」とも呼ばれる",
+            "vi": "Phép toán logic cho kết quả \"1\" khi cả A và B đều là \"1\". Còn gọi là \"tích logic\"",
+            "en": "Logical operation where result is '1' when both A and B are '1.' Also called 'logical product'"
+          }
+        },
+        {
+          "operator": "OR",
+          "description": {
+            "ja": "AとBの少なくとも一方が「1」の場合に、答えが「1」になる論理演算。「論理和」とも呼ばれる",
+            "vi": "Phép toán logic cho kết quả \"1\" khi ít nhất một trong A hoặc B là \"1\". Còn gọi là \"tổng logic\"",
+            "en": "Logical operation where result is '1' when at least one of A or B is '1.' Also called 'logical sum'"
+          }
+        },
+        {
+          "operator": "XOR",
+          "description": {
+            "ja": "AとBが異なる場合に「1」、AとBが同じ場合は「0」になる論理演算。「排他的論理和」とも呼ばれる",
+            "vi": "Phép toán logic cho kết quả \"1\" khi A và B khác nhau, \"0\" khi giống nhau. Còn gọi là \"XOR - hoặc loại trừ\"",
+            "en": "Logical operation where result is '1' when A and B differ, '0' when same. Also called 'exclusive OR'"
+          }
+        },
+        {
+          "operator": "NOT",
+          "description": {
+            "ja": "入力の反対が答えになる論理演算。「否定」とも呼ばれる",
+            "vi": "Phép toán logic mà đáp án là ngược lại đầu vào. Còn gọi là \"phủ định\"",
+            "en": "Logical operation where answer is opposite of input. Also called 'negation'"
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "「0」を白地、「1」を色付き部分とした場合、それぞれの論理演算の結果は次の図のようになります。",
+      "vi": "Khi \"0\" là nền trắng, \"1\" là phần tô màu, kết quả của mỗi phép toán logic như hình sau.",
+      "en": "When '0' is white background and '1' is colored part, results of each logical operation are as in following diagram.",
+      "terms": [
+        {
+          "kanji": "白地",
+          "reading": "しろぢ"
+        },
+        {
+          "kanji": "色付",
+          "reading": "いろづけ"
+        },
+        {
+          "kanji": "部分",
+          "reading": "ぶぶん"
+        },
+        {
+          "kanji": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "kanji": "論理演算",
+          "reading": "ろんりえんざん"
+        },
+        {
+          "kanji": "結果",
+          "reading": "けっか"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        },
+        {
+          "kanji": "図",
+          "reading": "ず"
+        }
+      ]
+    },
+    {
+      "type": "diagram",
+      "title": {
+        "ja": "論理演算の結果（ベン図）",
+        "vi": "Kết quả phép toán logic (Biểu đồ Venn)",
+        "en": "Logical Operation Results (Venn Diagram)"
+      },
+      "items": [
+        {
+          "ja": "AND演算（A AND B）",
+          "vi": "AND (A AND B)",
+          "en": "AND (A AND B)",
+          "area": "intersection"
+        },
+        {
+          "ja": "OR演算（A OR B）",
+          "vi": "OR (A OR B)",
+          "en": "OR (A OR B)",
+          "area": "union"
+        },
+        {
+          "ja": "XOR演算（A XOR B）",
+          "vi": "XOR (A XOR B)",
+          "en": "XOR (A XOR B)",
+          "area": "symmetric_difference"
+        },
+        {
+          "ja": "NOT演算（NOT A）",
+          "vi": "NOT (NOT A)",
+          "en": "NOT (NOT A)",
+          "area": "complement"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_diagram": true,
+    "is_key_content": true
+  }
+}

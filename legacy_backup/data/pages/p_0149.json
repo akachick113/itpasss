@@ -1,0 +1,312 @@
+{
+  "page_id": 149,
+  "image": "p_0149.png",
+  "chapter": 4,
+  "section": "04-02",
+  "page_number": 133,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "NFCとQRコードとの違い",
+      "reading": "えぬえふしーときゅーあーるこーどとのちがい",
+      "vi": "Sự khác biệt giữa NFC và QR Code",
+      "en": "Difference between NFC and QR Code",
+      "my": "NFC နှင့် QR Code ကွာခြားချက်"
+    },
+    {
+      "type": "paragraph",
+      "ja": "ITパスポート試験では「NFCとQRコードの違い」もよく出題されます。QRコードのメリットは「カメラで読み取れること」「Webサイトに掲載できること」「紙にプリントできること」の3つです。これらはNFCでは実現できません。\n\n一方、NFCでは「ICチップのメモリに何度も書き込み可能」です。これはQRコードでは実現できません。",
+      "vi": "Trong IT Passport, sự khác biệt giữa NFC và QR Code cũng hay được ra đề. Ưu điểm của QR Code là: có thể đọc bằng camera, có thể đăng trên website, có thể in trên giấy. Những điều này không thể thực hiện với NFC.\n\nMặt khác, NFC có thể ghi nhiều lần vào bộ nhớ IC chip. Điều này không thể thực hiện với QR Code.",
+      "en": "In IT Passport, 'difference between NFC and QR Code' is frequently tested. QR Code's advantages are: can be read by camera, can be posted on websites, can be printed on paper. These cannot be done with NFC.\n\nMeanwhile, NFC can write multiple times to IC chip memory. This cannot be done with QR Code.",
+      "my": "IT Passport တွင် NFC နှင့် QR Code ကွာခြားချက် ကို မကြာခဏ စမ်းသပ်သည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "違",
+          "reading": "い"
+        },
+        {
+          "kanji": "出題",
+          "reading": "しゅつだい"
+        },
+        {
+          "kanji": "読",
+          "reading": "どく"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "掲載",
+          "reading": "けいさい"
+        },
+        {
+          "kanji": "紙",
+          "reading": "かみ"
+        },
+        {
+          "kanji": "実現",
+          "reading": "じつげん"
+        },
+        {
+          "kanji": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "kanji": "何度",
+          "reading": "なんど"
+        },
+        {
+          "kanji": "書",
+          "reading": "かき"
+        },
+        {
+          "kanji": "込",
+          "reading": "こみ"
+        },
+        {
+          "kanji": "可能",
+          "reading": "かのう"
+        }
+      ]
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on the exam!",
+        "my": "ဒါ စာမေးပွဲမှာ ထွက်မယ်!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "content": {
+        "ja": "・RFID関連の設問では「RFIDを使ったビジネスシステムの具体例」が問われる。例えば、定期券、電子マネー、社員証、学生証など\n・NFCの事例として「交通系ICカード」が頻出。一方、ひっかけ問題として「テレビとテレビリモコンの通信」や「ETC車載器とETCゲートの通信」などが出題されるが、これらにはNFC以外の技術が使われている\n・NFCとQRコードの違いは、NFCはメモリに何度も読み書きできること",
+        "vi": "・Câu hỏi liên quan RFID hỏi về ví dụ cụ thể hệ thống kinh doanh sử dụng RFID. Ví dụ: vé định kỳ, tiền điện tử, thẻ nhân viên, thẻ sinh viên\n・Thẻ IC giao thông thường xuất hiện như ví dụ NFC. Mặt khác, câu hỏi bẫy như giao tiếp TV-điều khiển từ xa hoặc OBU và cổng ETC - những thứ này sử dụng công nghệ khác ngoài NFC\n・Khác biệt NFC và QR Code là NFC có thể đọc ghi nhiều lần vào bộ nhớ",
+        "en": "・RFID questions ask about specific examples of RFID business systems. Examples: commuter passes, e-money, employee ID, student ID\n・Transportation IC cards frequently appear as NFC examples. However, trick questions like 'TV and remote control communication' or 'ETC OBU and gate communication' use technologies other than NFC\n・NFC vs QR Code difference: NFC can read/write to memory multiple times",
+        "my": "・ RFID ဆိုင်ရာ မေးခွန်းများသည် RFID စီးပွားရေးစနစ် တိကျသော ဥပမာများ မေးသည်",
+        "terms": [
+          {
+            "kanji": "関連",
+            "reading": "かんれん"
+          },
+          {
+            "kanji": "設問",
+            "reading": "せつもん"
+          },
+          {
+            "kanji": "使",
+            "reading": "し"
+          },
+          {
+            "kanji": "具体例",
+            "reading": "ぐたいれい"
+          },
+          {
+            "kanji": "問",
+            "reading": "とん"
+          },
+          {
+            "kanji": "例",
+            "reading": "れい"
+          },
+          {
+            "kanji": "定期券",
+            "reading": "ていきけん"
+          },
+          {
+            "kanji": "電子",
+            "reading": "でんし"
+          },
+          {
+            "kanji": "社員証",
+            "reading": "しゃいんしょう"
+          },
+          {
+            "kanji": "学生証",
+            "reading": "がくせいしょう"
+          },
+          {
+            "kanji": "事例",
+            "reading": "じれい"
+          },
+          {
+            "kanji": "交通系",
+            "reading": "こうつうけい"
+          },
+          {
+            "kanji": "頻出",
+            "reading": "ひんしゅつ"
+          },
+          {
+            "kanji": "一方",
+            "reading": "いっぽう"
+          },
+          {
+            "kanji": "問題",
+            "reading": "もんだい"
+          },
+          {
+            "kanji": "通信",
+            "reading": "つうしん"
+          },
+          {
+            "kanji": "車載器",
+            "reading": "しゃさいうつわ"
+          },
+          {
+            "kanji": "出題",
+            "reading": "しゅつだい"
+          },
+          {
+            "kanji": "以外",
+            "reading": "いがい"
+          },
+          {
+            "kanji": "技術",
+            "reading": "ぎじゅつ"
+          },
+          {
+            "kanji": "違",
+            "reading": "い"
+          },
+          {
+            "kanji": "何度",
+            "reading": "なんど"
+          },
+          {
+            "kanji": "読",
+            "reading": "どく"
+          },
+          {
+            "kanji": "書",
+            "reading": "かき"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "GPS",
+      "reading": "じーぴーえす",
+      "vi": "GPS",
+      "en": "GPS",
+      "my": "GPS"
+    },
+    {
+      "type": "paragraph",
+      "ja": "GPS（Global Positioning System：全地球測位システム）とは、3つ以上の人工衛星の電波を使って、現在位置を測定するためのシステムです。みなさんが持っているスマートフォンにもGPSは搭載されています。",
+      "vi": "GPS (Global Positioning System: Hệ thống định vị toàn cầu) là hệ thống đo vị trí hiện tại bằng sóng từ 3 vệ tinh nhân tạo trở lên. Smartphone của mọi người cũng được trang bị GPS.",
+      "en": "GPS (Global Positioning System) is a system to measure current position using radio waves from 3+ satellites. Smartphones everyone has are also equipped with GPS.",
+      "my": "GPS (Global Positioning System) သည် ဂြိုဟ်တု ၃ လုံးအထက် မှ ရေဒီယိုလှိုင်းများ အသုံးပြု၍ လက်ရှိတည်နေရာကို တိုင်းတာသည့် စနစ်ဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "全地球測位",
+          "reading": "ぜんちきゅうそくい"
+        },
+        {
+          "kanji": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "kanji": "人工衛星",
+          "reading": "じんこうえいせい"
+        },
+        {
+          "kanji": "電波",
+          "reading": "でんぱ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "現在位置",
+          "reading": "げんざいいち"
+        },
+        {
+          "kanji": "測定",
+          "reading": "そくてい"
+        },
+        {
+          "kanji": "持",
+          "reading": "じ"
+        },
+        {
+          "kanji": "搭載",
+          "reading": "とうさい"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "なお、ITパスポート試験においてもっとも重要なのは「GPSは3つ以上の人工衛星の電波を使っている」という点です。このことは必ず覚えておいてください。",
+      "vi": "Lưu ý, điểm quan trọng nhất trong IT Passport là GPS sử dụng sóng từ 3 vệ tinh nhân tạo trở lên. Nhớ kỹ điều này.",
+      "en": "Note, the most important point in IT Passport is that GPS uses radio waves from 3+ satellites. Remember this.",
+      "my": "မှတ်သားပါ၊ IT Passport တွင် အရေးကြီးဆုံး အချက်မှာ GPS သည် ဂြိုဟ်တု ၃ လုံးအထက်မှ ရေဒီယိုလှိုင်းများ အသုံးပြုခြင်းဖြစ်သည်။",
+      "terms": [
+        {
+          "kanji": "試験",
+          "reading": "しけん"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "kanji": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "kanji": "人工衛星",
+          "reading": "じんこうえいせい"
+        },
+        {
+          "kanji": "電波",
+          "reading": "でんぱ"
+        },
+        {
+          "kanji": "使",
+          "reading": "し"
+        },
+        {
+          "kanji": "点",
+          "reading": "てん"
+        },
+        {
+          "kanji": "必",
+          "reading": "ひつ"
+        },
+        {
+          "kanji": "覚",
+          "reading": "かく"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "kanji": "GPS",
+      "reading": "じーぴーえす",
+      "romaji": "Global Positioning System",
+      "vi": "Hệ thống định vị toàn cầu",
+      "en": "Global Positioning System",
+      "my": "GPS"
+    }
+  ],
+  "meta": {
+    "has_table": false,
+    "has_diagram": true,
+    "has_exam_tip": true
+  }
+}

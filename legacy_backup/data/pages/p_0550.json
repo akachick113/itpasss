@@ -1,0 +1,323 @@
+{
+  "page_id": 550,
+  "image": "p_0550.png",
+  "chapter": 15,
+  "section": "15-03",
+  "page_number": 534,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ISMS",
+      "vi": "ISMS",
+      "en": "ISMS"
+    },
+    {
+      "type": "definition_box",
+      "term": {
+        "ja": "ISMS",
+        "vi": "ISMS",
+        "en": "ISMS"
+      },
+      "definition": {
+        "ja": "ISMS（Information Security Management System：情報セキュリティマネジメントシステム）とは、組織の情報資産について、機密性、完全性、可用性の3つをバランスよく維持・改善するための仕組みです。簡単にいうと「ISMSとは、情報セキュリティマネジメントをバランスよく行うシステムである」といえます。",
+        "vi": "ISMS (Information Security Management System: Hệ thống quản lý bảo mật thông tin) là cơ chế để duy trì và cải thiện cân bằng 3 yếu tố: tính bảo mật, tính toàn vẹn, tính sẵn sàng của tài sản thông tin tổ chức. Nói đơn giản, \"ISMS là hệ thống thực hiện quản lý bảo mật thông tin một cách cân bằng\".",
+        "en": "ISMS (Information Security Management System) is mechanism for maintaining and improving balance of 3 elements: confidentiality, integrity, availability of organizational information assets. Simply put, 'ISMS is system performing information security management in balanced way.'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "ja": "「バランスよく」というのは「コストパフォーマンスを考えて」ということです。経営資源は有限であり、考え得るすべてのリスク対応（p.271）を取ることは不可能なので、ISMSにおいてはコストパフォーマンスを考慮することが重要です。",
+      "vi": "\"Cân bằng\" có nghĩa là \"xem xét hiệu quả chi phí\". Vì nguồn lực kinh doanh có hạn và không thể thực hiện tất cả đối phó rủi ro có thể nghĩ đến (trang 271), nên điều quan trọng trong ISMS là xem xét hiệu quả chi phí.",
+      "en": "'Balanced' means 'considering cost-performance.' Since management resources are limited and impossible to take all conceivable risk responses (p.271), considering cost-performance in ISMS is important.",
+      "terms": [
+        {
+          "kanji": "考",
+          "reading": "こう"
+        },
+        {
+          "kanji": "経営資源",
+          "reading": "けいえいしげん"
+        },
+        {
+          "kanji": "有限",
+          "reading": "ゆうげん"
+        },
+        {
+          "kanji": "得",
+          "reading": "え"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "不可能",
+          "reading": "ふかのう"
+        },
+        {
+          "kanji": "考慮",
+          "reading": "こうりょ"
+        },
+        {
+          "kanji": "重要",
+          "reading": "じゅうよう"
+        }
+      ]
+    },
+    {
+      "type": "supplementary_section",
+      "title": {
+        "ja": "もう少し詳しく！ISMSクラウドセキュリティ認証",
+        "vi": "Chi tiết hơn! Chứng nhận bảo mật đám mây ISMS",
+        "en": "More Details! ISMS Cloud Security Certification"
+      },
+      "content": {
+        "ja": "ISMSはJIS Q 27001（国際規格はISO/IEC 27001）で規定されています。さらに、このJIS Q 27001に加えて、クラウドサービス固有の管理策（ISO/IEC 27017）が適切に導入・実施されていることを認証するのがISMSクラウドセキュリティ認証です。",
+        "vi": "ISMS được quy định trong JIS Q 27001 (tiêu chuẩn quốc tế là ISO/IEC 27001). Hơn nữa, ngoài JIS Q 27001 này, chứng nhận rằng các biện pháp kiểm soát riêng của dịch vụ đám mây (ISO/IEC 27017) được đưa vào và thực hiện phù hợp là Chứng nhận bảo mật đám mây ISMS.",
+        "en": "ISMS is specified in JIS Q 27001 (international standard ISO/IEC 27001). Furthermore, in addition to JIS Q 27001, certifying that cloud service-specific controls (ISO/IEC 27017) are properly introduced and implemented is ISMS Cloud Security Certification."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "ja": "ISMSにおけるPDCA",
+      "vi": "PDCA trong ISMS",
+      "en": "PDCA in ISMS"
+    },
+    {
+      "type": "paragraph",
+      "ja": "情報セキュリティ対策は一度行ったら終わりではありません。情報セキュリティに対する脅威は、社会や技術の変化でどんどん変わります。例えば、新しいマルウェアが発見されたら、新たな対策が必要になる可能性があります。常に対策を行っていかないと、新たな脅威に対応できなくなってしまいます。",
+      "vi": "Biện pháp bảo mật thông tin không phải là xong sau khi thực hiện một lần. Mối đe dọa đối với bảo mật thông tin thay đổi liên tục theo sự thay đổi xã hội và công nghệ. Ví dụ, nếu phát hiện malware mới, có thể cần biện pháp mới. Nếu không liên tục thực hiện biện pháp, sẽ không thể đối phó với mối đe dọa mới.",
+      "en": "Information security measures don't end after doing once. Threats to information security constantly change with society and technology changes. For example, if new malware is discovered, new measures may be needed. If not constantly implementing measures, cannot respond to new threats.",
+      "terms": [
+        {
+          "kanji": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "kanji": "対策",
+          "reading": "たいさく"
+        },
+        {
+          "kanji": "一度行",
+          "reading": "いちどぎょう"
+        },
+        {
+          "kanji": "終",
+          "reading": "おわり"
+        },
+        {
+          "kanji": "対",
+          "reading": "つい"
+        },
+        {
+          "kanji": "脅威",
+          "reading": "きょうい"
+        },
+        {
+          "kanji": "社会",
+          "reading": "しゃかい"
+        },
+        {
+          "kanji": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "kanji": "変化",
+          "reading": "へんか"
+        },
+        {
+          "kanji": "変",
+          "reading": "へん"
+        },
+        {
+          "kanji": "例",
+          "reading": "れい"
+        },
+        {
+          "kanji": "新",
+          "reading": "しん"
+        },
+        {
+          "kanji": "発見",
+          "reading": "はっけん"
+        },
+        {
+          "kanji": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "kanji": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "kanji": "常",
+          "reading": "つね"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "対応",
+          "reading": "たいおう"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "ja": "このため、ISMSはPDCA（p.283）を取り入れています。PDCAサイクルを実施することで、絶えず改善を行います。ISMSではPDCAを次のように行います。",
+      "vi": "Vì vậy, ISMS áp dụng PDCA (trang 283). Bằng cách thực hiện chu trình PDCA, liên tục cải tiến. Trong ISMS, PDCA được thực hiện như sau.",
+      "en": "Therefore, ISMS incorporates PDCA (p.283). By implementing PDCA cycle, continuously improve. In ISMS, PDCA is performed as follows.",
+      "terms": [
+        {
+          "kanji": "取",
+          "reading": "しゅ"
+        },
+        {
+          "kanji": "入",
+          "reading": "にゅう"
+        },
+        {
+          "kanji": "実施",
+          "reading": "じっし"
+        },
+        {
+          "kanji": "絶",
+          "reading": "ぜつ"
+        },
+        {
+          "kanji": "改善",
+          "reading": "かいぜん"
+        },
+        {
+          "kanji": "行",
+          "reading": "ぎょう"
+        },
+        {
+          "kanji": "次",
+          "reading": "つぎ"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "ja": "ISMSにおけるPDCA",
+        "vi": "PDCA trong ISMS",
+        "en": "PDCA in ISMS"
+      },
+      "headers": {
+        "ja": [
+          "PDCA",
+          "ISMSで実施する内容"
+        ],
+        "vi": [
+          "PDCA",
+          "Nội dung thực hiện trong ISMS"
+        ],
+        "en": [
+          "PDCA",
+          "Content Implemented in ISMS"
+        ]
+      },
+      "rows": [
+        {
+          "phase": "P（Plan：計画）",
+          "description": {
+            "ja": "ISMSの確立",
+            "vi": "Thiết lập ISMS",
+            "en": "ISMS establishment"
+          }
+        },
+        {
+          "phase": "D（Do：実行）",
+          "description": {
+            "ja": "ISMSの導入、および運用",
+            "vi": "Đưa vào và vận hành ISMS",
+            "en": "ISMS introduction and operation"
+          }
+        },
+        {
+          "phase": "C（Check：評価）",
+          "description": {
+            "ja": "ISMSの監視、およびレビュー",
+            "vi": "Giám sát và đánh giá ISMS",
+            "en": "ISMS monitoring and review"
+          }
+        },
+        {
+          "phase": "A（Act：改善）",
+          "description": {
+            "ja": "ISMSの維持、および継続的改善",
+            "vi": "Duy trì và cải tiến liên tục ISMS",
+            "en": "ISMS maintenance and continuous improvement"
+          }
+        }
+      ],
+      "note": {
+        "ja": "PDCAサイクルを繰り返して絶えず改善",
+        "vi": "Lặp lại chu trình PDCA để cải tiến liên tục",
+        "en": "Continuously improve by repeating PDCA cycle"
+      }
+    },
+    {
+      "type": "exam_tip",
+      "title": {
+        "ja": "試験にはコレが出る！",
+        "vi": "Đây là phần sẽ ra trong thi!",
+        "en": "This appears on exam!",
+        "terms": [
+          {
+            "kanji": "試験",
+            "reading": "しけん"
+          }
+        ]
+      },
+      "items": [
+        {
+          "ja": "ITパスポート試験では「ISMSにおけるPDCAの事例」が出題されます。しかし、事例はたくさんあるので暗記することはできません。事例を読んだうえで、内容が「計画」ならばP、「実行」ならばD、「評価」ならばC、「改善」ならばAを選んでください。",
+          "vi": "Trong kỳ thi IT Passport, \"ví dụ về PDCA trong ISMS\" được ra đề. Tuy nhiên, vì có nhiều ví dụ nên không thể học thuộc. Sau khi đọc ví dụ, nếu nội dung là \"kế hoạch\" chọn P, \"thực hiện\" chọn D, \"đánh giá\" chọn C, \"cải tiến\" chọn A.",
+          "en": "In IT Passport exam, 'examples of PDCA in ISMS' appear. However, since there are many examples, cannot memorize. After reading examples, if content is 'plan' choose P, 'execute' choose D, 'evaluate' choose C, 'improve' choose A."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "ISMS",
+      "full": "Information Security Management System",
+      "vi": "Hệ thống quản lý bảo mật thông tin",
+      "en": "Information Security Management System",
+      "my": "ISMS (သတင်းအချက်အလက်လုံခြုံရေး စီမံခန်းစနစ်)"
+    },
+    {
+      "term": "機密性",
+      "vi": "Tính bảo mật",
+      "en": "Confidentiality",
+      "my": "လျှို့ဝှက်ခြင်း"
+    },
+    {
+      "term": "完全性",
+      "vi": "Tính toàn vẹn",
+      "en": "Integrity",
+      "my": "ပြည့်ဝအခြင်း"
+    },
+    {
+      "term": "可用性",
+      "vi": "Tính sẵn sàng",
+      "en": "Availability",
+      "my": "အသုံးပြုနိုင်ခြင်း"
+    }
+  ],
+  "meta": {
+    "has_table": true,
+    "has_exam_tip": true,
+    "is_key_content": true
+  }
+}
