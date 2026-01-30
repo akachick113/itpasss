@@ -366,14 +366,6 @@ const ContentItem = ({ item, lang, showFurigana }) => {
                 </div>
             );
 
-        case 'chapter_title':
-            return (
-                <div className="text-center my-10">
-                    <h2 className="text-3xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-violet-600 pb-2">{item.ja}</h2>
-                    {lang !== 'ja' && <p className="text-xl text-slate-500">{item[lang]}</p>}
-                </div>
-            );
-
         case 'chapter_header':
             // Chapter 6+ style header
             return (
