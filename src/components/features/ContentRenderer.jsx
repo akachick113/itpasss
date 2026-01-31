@@ -5,7 +5,7 @@ import { getTranslation } from '../../utils/i18n';
 import { ChevronLeft, ChevronRight, Image as ImageIcon, FileText, SplitSquareHorizontal } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
-const ContentRenderer = ({ chapterId, lang, showFurigana }) => {
+const ContentRenderer = ({ chapterId, lang, showFurigana, isSidebarCollapsed, onPageChange, targetPage }) => {
     const [pages, setPages] = useState([]);
     const [currentPageIndex, setCurrentPageIndex] = useState(0);
     const [pageData, setPageData] = useState(null);
@@ -16,8 +16,25 @@ const ContentRenderer = ({ chapterId, lang, showFurigana }) => {
     useEffect(() => {
         const chapterPages = getPagesForChapter(chapterId);
         setPages(chapterPages);
-        setCurrentPageIndex(0); // Reset to start of chapter
+        // Reset to start of chapter or target page
+        const initialPage = targetPage !== null && targetPage !== undefined ? targetPage : 0;
+        setCurrentPageIndex(initialPage);
     }, [chapterId]);
+
+    // Handle target page navigation (when clicking bookmark)
+    useEffect(() => {
+        if (targetPage !== null && targetPage !== undefined && pages.length > 0) {
+            const validPage = Math.min(targetPage, pages.length - 1);
+            setCurrentPageIndex(validPage);
+        }
+    }, [targetPage, pages.length]);
+
+    // Report page changes to parent
+    useEffect(() => {
+        if (onPageChange) {
+            onPageChange(currentPageIndex);
+        }
+    }, [currentPageIndex, onPageChange]);
 
     // Fetch page data when index changes
     useEffect(() => {
@@ -66,8 +83,8 @@ const ContentRenderer = ({ chapterId, lang, showFurigana }) => {
                 onClick={handlePrev}
                 disabled={currentPageIndex === 0}
                 className={`fixed top-1/2 -translate-y-1/2 z-50 p-3 lg:p-4 rounded-full backdrop-blur-md shadow-lg border transition-all transform hover:scale-110 active:scale-95
-                    /* Mobile: Left edge. Desktop: Offset by sidebar width (72px = 18rem) + spacing */
-                    left-4 lg:left-[20rem]
+                    /* Mobile: Left edge. Desktop: Offset by sidebar width */
+                    left-4 ${isSidebarCollapsed ? 'lg:left-[5rem]' : 'lg:left-[20rem]'}
                     ${currentPageIndex === 0
                         ? 'bg-slate-100/50 dark:bg-slate-800/30 border-slate-200/50 dark:border-slate-800/50 text-slate-300 dark:text-slate-700 cursor-not-allowed'
                         : 'bg-white/80 dark:bg-slate-800/80 border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-200 hover:bg-white dark:hover:bg-slate-700'}

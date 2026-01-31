@@ -4,6 +4,8 @@ const translations = {
         // Sidebar
         appTitle: 'IT Passport',
         progress: 'Progress',
+        collapseSidebar: 'メニューを閉じる',
+        expandSidebar: 'メニューを開く',
         chapters: [
             '序章 - ITパスポート試験の概要',
             '第1章 - 企業活動',
@@ -21,14 +23,22 @@ const translations = {
         // Header
         studyGuide: 'Study Guide',
         furigana: 'Furigana',
+        bookmark: 'ブックマーク',
+        bookmarked: '保存済み',
+        bookmarkPage: 'このページをブックマーク',
+        goToSavedPage: '保存したページへ',
+        savedPages: '保存したページ',
+        removeBookmark: '削除',
         // Content
-        page: 'Page',
+        page: 'ページ',
         translationPending: '翻訳準備中...',
     },
     vi: {
         // Sidebar
         appTitle: 'IT Passport',
         progress: 'Tiến độ',
+        collapseSidebar: 'Thu gọn menu',
+        expandSidebar: 'Mở rộng menu',
         chapters: [
             'Lời mở đầu - Tổng quan kỳ thi IT Passport',
             'Chương 1 - Hoạt động doanh nghiệp',
@@ -46,6 +56,12 @@ const translations = {
         // Header
         studyGuide: 'Tài liệu học',
         furigana: 'Furigana',
+        bookmark: 'Đánh dấu',
+        bookmarked: 'Đã lưu',
+        bookmarkPage: 'Đánh dấu trang này',
+        goToSavedPage: 'Đến trang đã lưu',
+        savedPages: 'Trang đã lưu',
+        removeBookmark: 'Xóa',
         // Content
         page: 'Trang',
         translationPending: 'Đang chuẩn bị bản dịch...',
@@ -54,6 +70,8 @@ const translations = {
         // Sidebar
         appTitle: 'IT Passport',
         progress: 'Progress',
+        collapseSidebar: 'Collapse sidebar',
+        expandSidebar: 'Expand sidebar',
         chapters: [
             'Introduction - IT Passport Exam Overview',
             'Chapter 1 - Corporate Activities',
@@ -71,6 +89,12 @@ const translations = {
         // Header
         studyGuide: 'Study Guide',
         furigana: 'Furigana',
+        bookmark: 'Bookmark',
+        bookmarked: 'Saved',
+        bookmarkPage: 'Bookmark this page',
+        goToSavedPage: 'Go to saved page',
+        savedPages: 'Saved Pages',
+        removeBookmark: 'Remove',
         // Content
         page: 'Page',
         translationPending: 'Translation pending...',
@@ -79,6 +103,8 @@ const translations = {
         // Sidebar (Myanmar/Burmese)
         appTitle: 'IT Passport',
         progress: 'တိုးတက်မှု',
+        collapseSidebar: 'မီနူးပိတ်ရန်',
+        expandSidebar: 'မီနူးဖွင့်ရန်',
         chapters: [
             'အစပိုင်း - IT Passport စာမေးပွဲ အကျဉ်းချုပ်',
             'အခန်း ၁ - စီးပွားရေးလုပ်ငန်း',
@@ -96,6 +122,12 @@ const translations = {
         // Header
         studyGuide: 'လေ့လာရေးလမ်းညွှန်',
         furigana: 'Furigana',
+        bookmark: 'စာညှပ်',
+        bookmarked: 'သိမ်းပြီး',
+        bookmarkPage: 'ဤစာမျက်နှာကို စာညှပ်ထားရန်',
+        goToSavedPage: 'သိမ်းထားသော စာမျက်နှာသို့',
+        savedPages: 'သိမ်းထားသော စာမျက်နှာများ',
+        removeBookmark: 'ဖျက်ရန်',
         // Content
         page: 'စာမျက်နှာ',
         translationPending: 'ဘာသာပြန်ဆဲ...',

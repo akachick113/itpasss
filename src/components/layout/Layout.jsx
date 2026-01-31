@@ -5,19 +5,28 @@ import Header from './Header';
 const Layout = ({
   children,
   isSidebarOpen, setSidebarOpen,
+  isSidebarCollapsed, toggleSidebarCollapse,
   currentChapter, setCurrentChapter,
   isDark, toggleTheme,
   currentLang, setLang,
-  showFurigana, toggleFurigana
+  showFurigana, toggleFurigana,
+  bookmarks, currentPageIndex,
+  isCurrentPageBookmarked,
+  onAddBookmark, onRemoveBookmark, onGoToBookmark
 }) => {
   return (
     <div className={`min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 flex overflow-hidden ${isDark ? 'dark' : ''}`}>
       <Sidebar
         isOpen={isSidebarOpen}
         setIsOpen={setSidebarOpen}
+        isCollapsed={isSidebarCollapsed}
+        toggleCollapse={toggleSidebarCollapse}
         currentChapter={currentChapter}
         onSelectChapter={setCurrentChapter}
         currentLang={currentLang}
+        bookmarks={bookmarks}
+        onGoToBookmark={onGoToBookmark}
+        onRemoveBookmark={onRemoveBookmark}
       />
 
       <div className="flex-1 flex flex-col min-w-0 h-screen overflow-hidden relative">
@@ -35,6 +44,15 @@ const Layout = ({
           setLang={setLang}
           showFurigana={showFurigana}
           toggleFurigana={toggleFurigana}
+          isSidebarCollapsed={isSidebarCollapsed}
+          toggleSidebarCollapse={toggleSidebarCollapse}
+          currentChapter={currentChapter}
+          currentPageIndex={currentPageIndex}
+          isCurrentPageBookmarked={isCurrentPageBookmarked}
+          onAddBookmark={onAddBookmark}
+          bookmarks={bookmarks}
+          onGoToBookmark={onGoToBookmark}
+          onRemoveBookmark={onRemoveBookmark}
         />
 
         <main className="flex-1 overflow-y-auto relative z-10 p-4 lg:p-8 scroll-smooth">
